@@ -1,0 +1,245 @@
+---
+const { lang = "vi" } = Astro.props;
+---
+
+<section class="admin-panel panel" data-admin-runtime data-lang={lang}>
+  <div class="admin-header">
+    <div>
+      <span>Runtime</span>
+      <h2>{lang === "vi" ? "Daily pipeline review" : "Daily pipeline review"}</h2>
+    </div>
+    <a href="/data/agent/runtime/training-manifest.json">Manifest</a>
+  </div>
+
+  <div class="stats" data-admin-stats>
+    <div><strong>0</strong><small>Sources</small></div>
+    <div><strong>0</strong><small>Clusters</small></div>
+    <div><strong>0</strong><small>Drafts</small></div>
+    <div><strong>0</strong><small>Valid</small></div>
+  </div>
+
+  <div class="admin-grid">
+    <section>
+      <h3>Clusters</h3>
+      <div class="list" data-admin-clusters></div>
+    </section>
+    <section>
+      <h3>Draft validation</h3>
+      <div class="list" data-admin-drafts></div>
+    </section>
+  </div>
+</section>
+
+<script>
+  type Manifest = {
+    sourceNoteCount: number;
+    clusterCount: number;
+    articleDraftCount: number;
+    validArticleDraftCount: number;
+    generatedAt: string;
+  };
+
+  type Cluster = {
+    clusterId: string;
+    category: string;
+    topic: string;
+    articleWorthinessScore: number;
+    confidence: string;
+    selectedForGeneration: boolean;
+  };
+
+  type Draft = {
+    id: string;
+    lang: string;
+    title: string;
+    category: string;
+    generation: { mode: string; confidence: string };
+    validation: { ok: boolean; errors: string[] };
+  };
+
+  const root = document.querySelector("[data-admin-runtime]");
+  const stats = root?.querySelector("[data-admin-stats]");
+  const clustersEl = root?.querySelector("[data-admin-clusters]");
+  const draftsEl = root?.querySelector("[data-admin-drafts]");
+
+  async function loadRuntime() {
+    const [manifest, clusters, drafts] = await Promise.all([
+      fetchJson<Manifest>("/data/agent/runtime/training-manifest.json"),
+      fetchJsonl<Cluster>("/data/agent/runtime/topic-clusters.jsonl"),
+      fetchJsonl<Draft>("/data/agent/runtime/article-drafts.jsonl")
+    ]);
+
+    renderStats(manifest);
+    renderClusters(clusters);
+    renderDrafts(drafts);
+  }
+
+  async function fetchJson<T>(url: string): Promise<T> {
+    const response = await fetch(url);
+    return response.json();
+  }
+
+  async function fetchJsonl<T>(url: string): Promise<T[]> {
+    const response = await fetch(url);
+    const text = await response.text();
+    return text
+      .split("\n")
+      .filter(Boolean)
+      .map((line) => JSON.parse(line) as T);
+  }
+
+  function renderStats(manifest: Manifest) {
+    if (!stats) return;
+    const rows = [
+      [manifest.sourceNoteCount, "Sources"],
+      [manifest.clusterCount, "Clusters"],
+      [manifest.articleDraftCount, "Drafts"],
+      [manifest.validArticleDraftCount, "Valid"]
+    ];
+    stats.innerHTML = rows.map(([value, label]) => `<div><strong>${value}</strong><small>${label}</small></div>`).join("");
+  }
+
+  function renderClusters(clusters: Cluster[]) {
+    if (!clustersEl) return;
+    clustersEl.innerHTML = clusters
+      .map(
+        (cluster) => `
+          <article>
+            <span>${escapeHtml(cluster.category)} · ${escapeHtml(cluster.confidence)} · ${cluster.articleWorthinessScore}</span>
+            <strong>${escapeHtml(cluster.topic)}</strong>
+            <small>${cluster.selectedForGeneration ? "Selected" : "Watch only"}</small>
+          </article>
+        `
+      )
+      .join("");
+  }
+
+  function renderDrafts(drafts: Draft[]) {
+    if (!draftsEl) return;
+    draftsEl.innerHTML = drafts
+      .map(
+        (draft) => `
+          <article>
+            <span>${escapeHtml(draft.lang.toUpperCase())} · ${escapeHtml(draft.category)} · ${escapeHtml(draft.generation.mode)}</span>
+            <strong>${escapeHtml(draft.title)}</strong>
+            <small>${draft.validation.ok ? "Valid" : escapeHtml(draft.validation.errors.join(", "))}</small>
+          </article>
+        `
+      )
+      .join("");
+  }
+
+  function escapeHtml(value: string) {
+    return value.replace(/[&<>"']/g, (char) => {
+      const entities: Record<string, string> = {
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#039;"
+      };
+      return entities[char] || char;
+    });
+  }
+
+  loadRuntime();
+</script>
+
+<style>
+  .admin-panel {
+    display: grid;
+    gap: 18px;
+    padding: 20px;
+  }
+
+  .admin-header {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 16px;
+  }
+
+  .admin-header span {
+    color: #ffb347;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .admin-header h2 {
+    margin: 6px 0 0;
+  }
+
+  .admin-header a {
+    border: 1px solid rgba(43, 46, 51, 0.95);
+    border-radius: 8px;
+    padding: 9px 12px;
+    color: #ffb347;
+    font-size: 13px;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .stats div,
+  .list article {
+    border: 1px solid rgba(43, 46, 51, 0.86);
+    border-radius: 8px;
+    background: rgba(17, 18, 20, 0.72);
+  }
+
+  .stats div {
+    display: grid;
+    gap: 4px;
+    padding: 14px;
+  }
+
+  .stats strong {
+    color: white;
+    font-size: 24px;
+  }
+
+  .stats small,
+  .list small,
+  .list span {
+    color: var(--muted);
+    font-size: 12px;
+  }
+
+  .admin-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  h3 {
+    margin: 0 0 10px;
+    font-size: 16px;
+  }
+
+  .list {
+    display: grid;
+    gap: 10px;
+  }
+
+  .list article {
+    display: grid;
+    gap: 6px;
+    padding: 14px;
+  }
+
+  .list strong {
+    font-size: 14px;
+    line-height: 1.35;
+  }
+
+  @media (max-width: 860px) {
+    .stats,
+    .admin-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

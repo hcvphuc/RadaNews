@@ -1,0 +1,212 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --base-950: #0b0c0c;
+  --surface-900: #111214;
+  --surface-800: #181a1d;
+  --surface-700: #1f2226;
+  --border-600: #2b2e33;
+  --text: #f7f7f5;
+  --muted: #a4a7ae;
+  --faint: #6f737d;
+  --amber-500: #ff8a00;
+  --orange-400: #ff6a00;
+  --gold-300: #ffb347;
+  --glow: rgba(255, 138, 0, 0.25);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--base-950);
+  color: var(--text);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 12% 0%, rgba(255, 138, 0, 0.13), transparent 28rem),
+    radial-gradient(circle at 93% 8%, rgba(255, 106, 0, 0.13), transparent 24rem),
+    linear-gradient(180deg, #0b0c0c 0%, #101112 44%, #0b0c0c 100%);
+  letter-spacing: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.shell {
+  width: min(1480px, calc(100vw - 48px));
+  margin: 0 auto;
+}
+
+.panel {
+  background: linear-gradient(180deg, rgba(24, 26, 29, 0.92), rgba(17, 18, 20, 0.94));
+  border: 1px solid rgba(43, 46, 51, 0.95);
+  border-radius: 20px;
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.34);
+}
+
+.thin-panel {
+  background: rgba(17, 18, 20, 0.72);
+  border: 1px solid rgba(43, 46, 51, 0.92);
+  border-radius: 16px;
+}
+
+.accent-text {
+  background: linear-gradient(135deg, var(--amber-500), var(--gold-300));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.btn-primary,
+.btn-secondary,
+.btn-ghost,
+.icon-btn {
+  min-height: 38px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: transform 160ms ease, border-color 160ms ease, background 160ms ease, color 160ms ease;
+}
+
+.btn-primary {
+  padding: 0 18px;
+  background: linear-gradient(135deg, #ff8a00, #ff5d00);
+  color: white;
+  box-shadow: 0 10px 30px rgba(255, 106, 0, 0.24);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.btn-secondary {
+  padding: 0 16px;
+  background: rgba(24, 26, 29, 0.9);
+  border-color: var(--border-600);
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.btn-ghost {
+  padding: 0 12px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.icon-btn {
+  width: 38px;
+  padding: 0;
+  background: rgba(24, 26, 29, 0.85);
+  border-color: var(--border-600);
+  color: var(--muted);
+}
+
+.btn-primary:hover,
+.btn-secondary:hover,
+.btn-ghost:hover,
+.icon-btn:hover {
+  transform: translateY(-1px);
+  border-color: rgba(255, 138, 0, 0.55);
+  color: white;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid rgba(43, 46, 51, 0.92);
+  border-radius: 999px;
+  background: rgba(24, 26, 29, 0.72);
+  color: var(--muted);
+  padding: 7px 10px;
+  font-size: 11px;
+  line-height: 1;
+}
+
+.chip.active {
+  border-color: rgba(255, 138, 0, 0.45);
+  background: rgba(255, 138, 0, 0.12);
+  color: #ffb347;
+}
+
+.meta-row {
+  color: var(--muted);
+  font-size: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.article-cover {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 62% 45%, rgba(255, 138, 0, 0.35), transparent 16rem),
+    radial-gradient(circle at 34% 34%, rgba(34, 211, 238, 0.18), transparent 18rem),
+    linear-gradient(135deg, #17191d, #0c0d0e 70%);
+}
+
+.article-cover::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 42px 42px;
+  mask-image: radial-gradient(circle at 55% 45%, black, transparent 72%);
+}
+
+.article-cover::after {
+  content: "";
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  right: 9%;
+  top: 18%;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 138, 0, 0.42);
+  box-shadow: inset 0 0 50px rgba(255, 138, 0, 0.11), 0 0 70px rgba(255, 138, 0, 0.18);
+}
+
+.article-prose {
+  color: #d7d9de;
+  font-size: 18px;
+  line-height: 1.78;
+}
+
+.article-prose p {
+  margin: 0 0 24px;
+}
+
+.article-prose strong {
+  color: #fff;
+}
+
+@media (max-width: 900px) {
+  .shell {
+    width: min(100% - 28px, 720px);
+  }
+}

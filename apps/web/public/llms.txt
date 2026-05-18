@@ -1,0 +1,22 @@
+# AI Radar
+
+AI Radar is a Vietnamese-first AI production intelligence publication for creators, builders, and AI production teams.
+
+## Core content
+- /vi/today
+- /vi/ai-video
+- /vi/ai-image
+- /vi/ai-agentic
+- /vi/ai-vibe-coding
+- /vi/prompts
+- /en/today
+
+## Agent-ready exports
+- /data/agent/articles.vi.jsonl
+- /data/agent/articles.en.jsonl
+- /data/agent/chunks.vi.jsonl
+- /data/agent/chunks.en.jsonl
+- /data/agent/source-notes.jsonl
+- /data/agent/topic-clusters.jsonl
+- /data/agent/prompt-workflows.jsonl
+- /data/agent/training-manifest.json

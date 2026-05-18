@@ -1,0 +1,330 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import ArticleCard from "@/components/ArticleCard.astro";
+import RightRail from "@/components/RightRail.astro";
+import Icon from "@/components/Icon.astro";
+import { categories } from "@/lib/categories";
+import { getArchiveArticles, getArticlesByCategory, getFeaturedArticle, getTodayArticles } from "@/lib/content";
+import type { Lang } from "@/lib/schema";
+
+export function getStaticPaths() {
+  return [{ params: { lang: "vi" } }, { params: { lang: "en" } }];
+}
+
+const lang = Astro.params.lang as Lang;
+const todayArticles = getTodayArticles(lang);
+const featured = getFeaturedArticle(lang);
+const archive = getArchiveArticles(lang);
+const copy = {
+  vi: {
+    title: "AI Radar - Today",
+    heroTitle: "Hiểu AI. Ứng dụng AI. Dẫn dắt tương lai.",
+    heroText:
+      "Ấn phẩm AI tiếng Việt-first dành cho creator, builder và đội sản xuất nội dung đang cần tín hiệu rõ ràng, không phải một danh sách link ồn ào.",
+    cta: "Khám phá hôm nay",
+    daily: "Bài viết hôm nay",
+    archive: "Archive",
+    brief: "Today's AI Brief"
+  },
+  en: {
+    title: "AI Radar - Today",
+    heroTitle: "Understand AI. Apply AI. Lead what comes next.",
+    heroText:
+      "A Vietnamese-first AI publication for creators, builders, and production teams that need signal, not another noisy link feed.",
+    cta: "Explore today",
+    daily: "Today's Articles",
+    archive: "Archive",
+    brief: "Today's AI Brief"
+  }
+}[lang];
+---
+
+<BaseLayout title={copy.title} lang={lang} active="today">
+  <section class="hero shell">
+    <div class="hero-copy">
+      <h1>{copy.heroTitle}</h1>
+      <p>{copy.heroText}</p>
+      <div class="hero-actions">
+        <a class="btn-primary" href="#today">{copy.cta}</a>
+        <a class="btn-secondary" href={`/${lang}/prompts`}>Prompt Modules</a>
+      </div>
+    </div>
+    <div class="brief-panel panel">
+      <div class="brief-head">
+        <span>{copy.brief}</span>
+        <Icon name="spark" size={18} />
+      </div>
+      <h2>{featured.title}</h2>
+      <p>{featured.subtitle}</p>
+      <div class="brief-meta">
+        <span>{todayArticles.length} articles</span>
+        <span>{featured.sources.length} referenced sources</span>
+        <span>VI / EN</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="main-grid shell" id="today">
+    <div class="content-column">
+      <ArticleCard article={featured} featured />
+
+      <div class="section-heading">
+        <h2>{copy.daily}</h2>
+        <span>{todayArticles.length} original articles</span>
+      </div>
+
+      <div class="daily-grid">
+        {todayArticles.map((article) => (
+          <ArticleCard article={article} />
+        ))}
+      </div>
+
+      {categories.map((category) => {
+        const items = getArticlesByCategory(lang, category.id);
+        if (!items.length) return null;
+        return (
+          <section class="category-band">
+            <div class="section-heading">
+              <h2>{category.label}</h2>
+              <a class="btn-ghost" href={`/${lang}/${category.id}`}>
+                View section <Icon name="chevron" size={15} />
+              </a>
+            </div>
+            <div class="compact-list">
+              {items.slice(0, 2).map((article) => (
+                <a href={`/${article.lang}/${article.category}/${article.slug}`}>
+                  <span>{article.readingTime} min read · {article.sources.length} sources</span>
+                  <strong>{article.title}</strong>
+                </a>
+              ))}
+            </div>
+          </section>
+        );
+      })}
+
+      <section class="archive">
+        <div class="section-heading">
+          <h2>{copy.archive}</h2>
+          <span>{archive.length || todayArticles.length} saved in content layer</span>
+        </div>
+        <div class="archive-grid">
+          {(archive.length ? archive : todayArticles.slice(0, 3)).map((article) => (
+            <a class="thin-panel archive-item" href={`/${article.lang}/${article.category}/${article.slug}`}>
+              <span>{article.publishedAt.slice(0, 10)}</span>
+              <strong>{article.title}</strong>
+            </a>
+          ))}
+        </div>
+      </section>
+    </div>
+    <RightRail lang={lang} />
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    min-height: 520px;
+    display: grid;
+    grid-template-columns: minmax(0, 0.94fr) minmax(360px, 0.62fr);
+    gap: 28px;
+    align-items: end;
+    padding: 74px 0 30px;
+  }
+
+  .hero-copy {
+    min-height: 380px;
+    display: grid;
+    align-content: center;
+    gap: 24px;
+    position: relative;
+  }
+
+  .hero-copy::before {
+    content: "";
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    left: -190px;
+    top: -70px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 138, 0, 0.16);
+    box-shadow: inset 0 0 80px rgba(255, 138, 0, 0.08);
+    pointer-events: none;
+  }
+
+  h1 {
+    position: relative;
+    max-width: 760px;
+    margin: 0;
+    font-size: clamp(46px, 7vw, 92px);
+    line-height: 0.92;
+    letter-spacing: -0.04em;
+  }
+
+  .hero-copy p {
+    position: relative;
+    max-width: 660px;
+    margin: 0;
+    color: #b9bcc4;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .brief-panel {
+    min-height: 330px;
+    padding: 24px;
+    display: grid;
+    align-content: end;
+    gap: 18px;
+    background:
+      radial-gradient(circle at 76% 22%, rgba(255, 138, 0, 0.23), transparent 15rem),
+      linear-gradient(180deg, rgba(24, 26, 29, 0.92), rgba(17, 18, 20, 0.94));
+  }
+
+  .brief-head,
+  .brief-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    color: #ffb347;
+    font-size: 12px;
+    font-weight: 800;
+  }
+
+  .brief-panel h2 {
+    margin: 0;
+    max-width: 530px;
+    font-size: 32px;
+    line-height: 1.12;
+    letter-spacing: -0.02em;
+  }
+
+  .brief-panel p {
+    margin: 0;
+    color: #c2c5cc;
+    line-height: 1.65;
+  }
+
+  .brief-meta {
+    color: var(--muted);
+    font-weight: 500;
+  }
+
+  .main-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 360px;
+    gap: 18px;
+    align-items: start;
+    padding-bottom: 20px;
+  }
+
+  .content-column {
+    display: grid;
+    gap: 18px;
+  }
+
+  .section-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
+    margin-top: 10px;
+  }
+
+  .section-heading h2 {
+    margin: 0;
+    font-size: 24px;
+    letter-spacing: -0.02em;
+  }
+
+  .section-heading span {
+    color: var(--muted);
+    font-size: 13px;
+  }
+
+  .daily-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }
+
+  .category-band {
+    display: grid;
+    gap: 14px;
+    padding: 18px 0 0;
+  }
+
+  .compact-list {
+    display: grid;
+    gap: 10px;
+  }
+
+  .compact-list a {
+    padding: 16px;
+    border: 1px solid rgba(43, 46, 51, 0.82);
+    border-radius: 14px;
+    display: grid;
+    gap: 8px;
+    background: rgba(17, 18, 20, 0.54);
+  }
+
+  .compact-list span,
+  .archive-item span {
+    color: #ffb347;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .compact-list strong,
+  .archive-item strong {
+    font-size: 16px;
+    line-height: 1.35;
+  }
+
+  .archive {
+    display: grid;
+    gap: 14px;
+  }
+
+  .archive-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .archive-item {
+    padding: 15px;
+    display: grid;
+    gap: 8px;
+  }
+
+  @media (max-width: 1120px) {
+    .hero,
+    .main-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .daily-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 700px) {
+    .hero {
+      padding-top: 44px;
+    }
+
+    .daily-grid,
+    .archive-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

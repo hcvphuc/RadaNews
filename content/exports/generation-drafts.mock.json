@@ -1,0 +1,196 @@
+[
+  {
+    "outline": {
+      "titleDirection": "Agentic AI workflow signal",
+      "angle": "editorial analysis for builders and creators",
+      "sections": [
+        "TL;DR",
+        "Main analysis",
+        "Why it matters",
+        "Creator / Builder takeaway",
+        "Sources"
+      ],
+      "sourceFacts": [
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      ]
+    },
+    "vi": {
+      "id": "cluster_ai-agentic_agentic-ai-workflow-signal_2026-05-16_vi",
+      "lang": "vi",
+      "category": "ai-agentic",
+      "title": "Agentic AI workflow signal: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Anthropic News, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "tldr": [
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      ],
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.39 với confidence low.\n\n## Phân tích\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n## Nguồn cần kiểm chứng\n\n- LangChain Blog: LangChain Blog signal for ai-agentic\n- Anthropic News: Anthropic News signal for ai-agentic",
+      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
+      "tags": [
+        "ai-agentic",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_anthropic-news_2026-05-16_fallback",
+        "src_langchain-blog_2026-05-16_fallback"
+      ],
+      "sourceUrls": [
+        "https://blog.langchain.dev/rss/",
+        "https://www.anthropic.com/news"
+      ],
+      "generation": {
+        "model": "llama3.1:8b",
+        "promptVersion": "article-vi-v1",
+        "generatedAt": "2026-05-16T09:21:36.189Z",
+        "sourceClusterId": "cluster_ai-agentic_agentic-ai-workflow-signal_2026-05-16",
+        "confidence": "low",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "en": {
+      "id": "cluster_ai-agentic_agentic-ai-workflow-signal_2026-05-16_en",
+      "lang": "en",
+      "category": "ai-agentic",
+      "title": "Agentic AI workflow signal: creator and builder analysis",
+      "subtitle": "Signal synthesized from LangChain Blog, Anthropic News, scored by recency, content depth, and source reliability.",
+      "tldr": [
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      ],
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.39 with low confidence.\n\n## Analysis\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n## Sources to verify\n\n- LangChain Blog: LangChain Blog signal for ai-agentic\n- Anthropic News: Anthropic News signal for ai-agentic",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
+      "tags": [
+        "ai-agentic",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_anthropic-news_2026-05-16_fallback",
+        "src_langchain-blog_2026-05-16_fallback"
+      ],
+      "sourceUrls": [
+        "https://blog.langchain.dev/rss/",
+        "https://www.anthropic.com/news"
+      ],
+      "generation": {
+        "model": "llama3.1:8b",
+        "promptVersion": "article-en-v1",
+        "generatedAt": "2026-05-16T09:21:36.189Z",
+        "sourceClusterId": "cluster_ai-agentic_agentic-ai-workflow-signal_2026-05-16",
+        "confidence": "low",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "viValidation": {
+      "ok": true,
+      "errors": []
+    },
+    "enValidation": {
+      "ok": true,
+      "errors": []
+    }
+  },
+  {
+    "outline": {
+      "titleDirection": "AI video workflow signal",
+      "angle": "editorial analysis for builders and creators",
+      "sections": [
+        "TL;DR",
+        "Main analysis",
+        "Why it matters",
+        "Creator / Builder takeaway",
+        "Sources"
+      ],
+      "sourceFacts": [
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      ]
+    },
+    "vi": {
+      "id": "cluster_ai-video_ai-video-workflow-signal_2026-05-16_vi",
+      "lang": "vi",
+      "category": "ai-video",
+      "title": "AI video workflow signal: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ Runway Research, r/aivideo, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "tldr": [
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      ],
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.33 với confidence low.\n\n## Phân tích\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n## Nguồn cần kiểm chứng\n\n- Runway Research: Runway Research signal for ai-video\n- r/aivideo: r/aivideo signal for ai-video",
+      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
+      "tags": [
+        "ai-video",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_runway-research_2026-05-16_fallback",
+        "src_reddit-aivideo_2026-05-16_fallback"
+      ],
+      "sourceUrls": [
+        "https://runwayml.com/research",
+        "https://www.reddit.com/r/aivideo/.rss"
+      ],
+      "generation": {
+        "model": "llama3.1:8b",
+        "promptVersion": "article-vi-v1",
+        "generatedAt": "2026-05-16T09:21:36.189Z",
+        "sourceClusterId": "cluster_ai-video_ai-video-workflow-signal_2026-05-16",
+        "confidence": "low",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "en": {
+      "id": "cluster_ai-video_ai-video-workflow-signal_2026-05-16_en",
+      "lang": "en",
+      "category": "ai-video",
+      "title": "AI video workflow signal: creator and builder analysis",
+      "subtitle": "Signal synthesized from Runway Research, r/aivideo, scored by recency, content depth, and source reliability.",
+      "tldr": [
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      ],
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.33 with low confidence.\n\n## Analysis\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n## Sources to verify\n\n- Runway Research: Runway Research signal for ai-video\n- r/aivideo: r/aivideo signal for ai-video",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
+      "tags": [
+        "ai-video",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_runway-research_2026-05-16_fallback",
+        "src_reddit-aivideo_2026-05-16_fallback"
+      ],
+      "sourceUrls": [
+        "https://runwayml.com/research",
+        "https://www.reddit.com/r/aivideo/.rss"
+      ],
+      "generation": {
+        "model": "llama3.1:8b",
+        "promptVersion": "article-en-v1",
+        "generatedAt": "2026-05-16T09:21:36.189Z",
+        "sourceClusterId": "cluster_ai-video_ai-video-workflow-signal_2026-05-16",
+        "confidence": "low",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "viValidation": {
+      "ok": true,
+      "errors": []
+    },
+    "enValidation": {
+      "ok": true,
+      "errors": []
+    }
+  }
+]

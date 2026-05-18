@@ -1,0 +1,254 @@
+---
+const { lang = "vi" } = Astro.props;
+---
+
+<section class="chat-shell panel" data-chat-root data-lang={lang}>
+  <div class="chat-header">
+    <div>
+      <span>{lang === "vi" ? "AI Radar RAG" : "AI Radar RAG"}</span>
+      <h2>{lang === "vi" ? "Hỏi nhanh trên kho bài AI Radar" : "Ask across AI Radar articles"}</h2>
+    </div>
+  </div>
+
+  <div class="messages" data-chat-messages>
+    <article class="message assistant">
+      <p>
+        {lang === "vi"
+          ? "Nhập câu hỏi về agent, AI image/video, vibe coding hoặc prompt workflow. Mình sẽ trả lời dựa trên nội dung đã index."
+          : "Ask about agents, AI image/video, vibe coding, or prompt workflows. Answers are grounded in indexed AI Radar content."}
+      </p>
+    </article>
+  </div>
+
+  <form class="composer" data-chat-form>
+    <input
+      data-chat-input
+      type="search"
+      autocomplete="off"
+      placeholder={lang === "vi" ? "Ví dụ: video AI workflow đang đổi gì?" : "Example: what is changing in AI video workflows?"}
+    />
+    <button type="submit" aria-label={lang === "vi" ? "Gửi câu hỏi" : "Send question"}>
+      <span>Send</span>
+    </button>
+  </form>
+</section>
+
+<script>
+  type SearchRow = {
+    id: string;
+    lang: string;
+    category: string;
+    categoryLabel: string;
+    title: string;
+    subtitle: string;
+    tags: string[];
+    tldr: string[];
+    body: string;
+    whyItMatters: string;
+    creatorTakeaway: string;
+    publishedAt: string;
+    url: string;
+  };
+
+  const root = document.querySelector("[data-chat-root]");
+  const messages = root?.querySelector("[data-chat-messages]");
+  const form = root?.querySelector("[data-chat-form]");
+  const input = root?.querySelector("[data-chat-input]");
+  const lang = root?.getAttribute("data-lang") || "vi";
+  let index: SearchRow[] = [];
+
+  async function loadIndex() {
+    const response = await fetch("/data/search/articles.json");
+    index = await response.json();
+  }
+
+  function addMessage(role: "user" | "assistant", html: string) {
+    if (!messages) return;
+    const article = document.createElement("article");
+    article.className = `message ${role}`;
+    article.innerHTML = html;
+    messages.append(article);
+    messages.scrollTop = messages.scrollHeight;
+  }
+
+  function answer(question: string) {
+    const matches = retrieve(question).slice(0, 4);
+    if (matches.length === 0) {
+      return `<p>${lang === "vi" ? "Chưa tìm thấy nội dung đủ liên quan trong index hiện tại." : "No sufficiently relevant indexed content found yet."}</p>`;
+    }
+
+    const bullets = matches
+      .map(({ item }) => `<li>${escapeHtml(item.subtitle || item.tldr[0] || item.title)}</li>`)
+      .join("");
+    const sources = matches
+      .map(({ item }) => `<a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a>`)
+      .join("");
+
+    return `
+      <p>${lang === "vi" ? "Tóm tắt dựa trên các bài liên quan nhất:" : "Summary based on the most relevant articles:"}</p>
+      <ul>${bullets}</ul>
+      <div class="source-list">${sources}</div>
+    `;
+  }
+
+  function retrieve(question: string) {
+    const terms = question.toLowerCase().split(/\s+/).filter((term) => term.length > 1);
+    return index
+      .filter((item) => item.lang === lang)
+      .map((item) => ({ item, score: score(item, terms) }))
+      .filter((match) => match.score > 0)
+      .sort((a, b) => b.score - a.score || Date.parse(b.item.publishedAt) - Date.parse(a.item.publishedAt));
+  }
+
+  function score(item: SearchRow, terms: string[]) {
+    const fields = {
+      title: item.title.toLowerCase(),
+      tags: item.tags.join(" ").toLowerCase(),
+      summary: `${item.subtitle} ${item.tldr.join(" ")}`.toLowerCase(),
+      body: `${item.body} ${item.whyItMatters} ${item.creatorTakeaway}`.toLowerCase()
+    };
+    return terms.reduce((sum, term) => {
+      if (fields.title.includes(term)) return sum + 8;
+      if (fields.tags.includes(term)) return sum + 5;
+      if (fields.summary.includes(term)) return sum + 3;
+      if (fields.body.includes(term)) return sum + 1;
+      return sum;
+    }, 0);
+  }
+
+  function escapeHtml(value: string) {
+    return value.replace(/[&<>"']/g, (char) => {
+      const entities: Record<string, string> = {
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#039;"
+      };
+      return entities[char] || char;
+    });
+  }
+
+  form?.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    if (!(input instanceof HTMLInputElement)) return;
+    const question = input.value.trim();
+    if (!question) return;
+    if (index.length === 0) await loadIndex();
+    addMessage("user", `<p>${escapeHtml(question)}</p>`);
+    addMessage("assistant", answer(question));
+    input.value = "";
+  });
+
+  loadIndex();
+</script>
+
+<style>
+  .chat-shell {
+    display: grid;
+    grid-template-rows: auto minmax(360px, 58vh) auto;
+    overflow: hidden;
+  }
+
+  .chat-header {
+    padding: 18px 20px;
+    border-bottom: 1px solid rgba(43, 46, 51, 0.86);
+  }
+
+  .chat-header span {
+    color: #ffb347;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .chat-header h2 {
+    margin: 6px 0 0;
+    font-size: 22px;
+  }
+
+  .messages {
+    display: grid;
+    align-content: start;
+    gap: 12px;
+    overflow: auto;
+    padding: 18px;
+  }
+
+  .message {
+    max-width: min(760px, 92%);
+    border: 1px solid rgba(43, 46, 51, 0.86);
+    border-radius: 8px;
+    padding: 14px;
+    line-height: 1.55;
+  }
+
+  .message p {
+    margin: 0;
+  }
+
+  .message ul {
+    margin: 10px 0 0;
+    padding-left: 18px;
+    color: #d7dbe2;
+  }
+
+  .message.user {
+    justify-self: end;
+    background: rgba(255, 138, 0, 0.12);
+  }
+
+  .message.assistant {
+    background: rgba(17, 18, 20, 0.72);
+  }
+
+  .source-list {
+    display: grid;
+    gap: 7px;
+    margin-top: 12px;
+    font-size: 13px;
+  }
+
+  .source-list a {
+    color: #ffb347;
+  }
+
+  .composer {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10px;
+    padding: 14px;
+    border-top: 1px solid rgba(43, 46, 51, 0.86);
+  }
+
+  .composer input {
+    min-width: 0;
+    height: 46px;
+    border: 1px solid rgba(43, 46, 51, 0.95);
+    border-radius: 8px;
+    background: rgba(11, 12, 12, 0.72);
+    color: white;
+    padding: 0 14px;
+  }
+
+  .composer button {
+    height: 46px;
+    border: 0;
+    border-radius: 8px;
+    background: #ffb347;
+    color: #16110a;
+    cursor: pointer;
+    font-weight: 800;
+    padding: 0 18px;
+  }
+
+  @media (max-width: 700px) {
+    .chat-shell {
+      grid-template-rows: auto minmax(320px, 60vh) auto;
+    }
+
+    .composer {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

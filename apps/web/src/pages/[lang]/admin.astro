@@ -1,0 +1,43 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import AdminRuntimeDashboard from "@/components/AdminRuntimeDashboard.astro";
+import type { Lang } from "@/lib/schema";
+
+export function getStaticPaths() {
+  return [{ params: { lang: "vi" } }, { params: { lang: "en" } }];
+}
+
+const lang = Astro.params.lang as Lang;
+---
+
+<BaseLayout title="Admin - AI Radar" lang={lang} active="admin">
+  <section class="admin-page shell">
+    <div>
+      <span>Admin</span>
+      <h1>{lang === "vi" ? "Runtime review dashboard" : "Runtime review dashboard"}</h1>
+    </div>
+    <AdminRuntimeDashboard lang={lang} />
+  </section>
+</BaseLayout>
+
+<style>
+  .admin-page {
+    display: grid;
+    gap: 24px;
+    padding: 84px 0 28px;
+  }
+
+  span {
+    color: #ffb347;
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    max-width: 880px;
+    margin: 10px 0 0;
+    font-size: clamp(38px, 5vw, 70px);
+    line-height: 0.98;
+  }
+</style>

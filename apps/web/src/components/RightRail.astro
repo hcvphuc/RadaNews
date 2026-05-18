@@ -1,0 +1,115 @@
+---
+import Icon from "./Icon.astro";
+import { getHotTopics, getReferencedSources } from "@/lib/content";
+import type { Lang } from "@/lib/schema";
+
+const { lang } = Astro.props as { lang: Lang };
+const topics = getHotTopics(lang);
+const sources = getReferencedSources(lang);
+---
+
+<aside class="rail">
+  <section class="panel rail-panel">
+    <div class="section-title">
+      <h2>Hot Topics</h2>
+      <Icon name="spark" size={16} />
+    </div>
+    <div class="topic-list">
+      {topics.map((topic) => (
+        <a class="topic" href={`/${lang}/search?q=${topic.tag}`}>
+          <span>{topic.tag}</span>
+          <small>{topic.count}</small>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="panel rail-panel">
+    <div class="section-title">
+      <h2>Most Referenced Sources</h2>
+      <Icon name="source" size={16} />
+    </div>
+    <div class="source-list">
+      {sources.map((source) => (
+        <div class="source-row">
+          <span>{source.name}</span>
+          <small>{source.count} refs</small>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section class="panel rail-panel prompt-card">
+    <div>
+      <h2>Prompt Modules</h2>
+      <p>Image and video prompt workflows are treated as first-class editorial verticals.</p>
+    </div>
+    <a class="btn-secondary" href={`/${lang}/prompts`}>Open Prompts</a>
+  </section>
+</aside>
+
+<style>
+  .rail {
+    display: grid;
+    gap: 16px;
+  }
+
+  .rail-panel {
+    padding: 18px;
+  }
+
+  .section-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 16px;
+    color: #ffb347;
+  }
+
+  h2 {
+    margin: 0;
+    color: white;
+    font-size: 15px;
+  }
+
+  .topic-list,
+  .source-list {
+    display: grid;
+    gap: 10px;
+  }
+
+  .topic,
+  .source-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    color: #c6c9d0;
+    font-size: 13px;
+  }
+
+  .topic span {
+    color: #ffb347;
+  }
+
+  small {
+    color: var(--faint);
+    font-size: 12px;
+  }
+
+  .prompt-card {
+    min-height: 190px;
+    display: grid;
+    align-content: space-between;
+    background:
+      radial-gradient(circle at 78% 70%, rgba(255, 138, 0, 0.25), transparent 12rem),
+      linear-gradient(180deg, rgba(24, 26, 29, 0.94), rgba(17, 18, 20, 0.94));
+  }
+
+  .prompt-card p {
+    color: var(--muted);
+    font-size: 13px;
+    line-height: 1.6;
+  }
+</style>

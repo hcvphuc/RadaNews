@@ -1,0 +1,113 @@
+[
+  {
+    "id": "src_langchain-blog_2026-05-16_fallback",
+    "sourceConfigId": "langchain-blog",
+    "sourceType": "blog",
+    "sourceName": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.dev/rss/",
+    "title": "LangChain Blog signal for ai-agentic",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-16T09:21:36.181Z",
+    "crawledAt": "2026-05-16T09:21:36.181Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.5850000000000001,
+    "crawlStatus": "fallback",
+    "crawlError": "fetch failed",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_anthropic-news_2026-05-16_fallback",
+    "sourceConfigId": "anthropic-news",
+    "sourceType": "blog",
+    "sourceName": "Anthropic News",
+    "sourceUrl": "https://www.anthropic.com/news",
+    "title": "Anthropic News signal for ai-agentic",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-16T09:21:36.181Z",
+    "crawledAt": "2026-05-16T09:21:36.181Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.5850000000000001,
+    "crawlStatus": "fallback",
+    "crawlError": "fetch failed",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_runway-research_2026-05-16_fallback",
+    "sourceConfigId": "runway-research",
+    "sourceType": "blog",
+    "sourceName": "Runway Research",
+    "sourceUrl": "https://runwayml.com/research",
+    "title": "Runway Research signal for ai-video",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-16T09:21:36.181Z",
+    "crawledAt": "2026-05-16T09:21:36.181Z",
+    "categoryHints": [
+      "ai-video"
+    ],
+    "score": 0.5850000000000001,
+    "crawlStatus": "fallback",
+    "crawlError": "fetch failed",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_cursor-changelog_2026-05-16_fallback",
+    "sourceConfigId": "cursor-changelog",
+    "sourceType": "blog",
+    "sourceName": "Cursor Changelog",
+    "sourceUrl": "https://www.cursor.com/changelog",
+    "title": "Cursor Changelog signal for ai-vibe-coding",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-16T09:21:36.182Z",
+    "crawledAt": "2026-05-16T09:21:36.182Z",
+    "categoryHints": [
+      "ai-vibe-coding"
+    ],
+    "score": 0.5525,
+    "crawlStatus": "fallback",
+    "crawlError": "fetch failed",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_reddit-stablediffusion_2026-05-16_fallback",
+    "sourceConfigId": "reddit-stablediffusion",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
+    "title": "r/StableDiffusion signal for ai-image",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-16T09:21:36.182Z",
+    "crawledAt": "2026-05-16T09:21:36.182Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.42250000000000004,
+    "crawlStatus": "fallback",
+    "crawlError": "fetch failed",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_reddit-aivideo_2026-05-16_fallback",
+    "sourceConfigId": "reddit-aivideo",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
+    "title": "r/aivideo signal for ai-video",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-16T09:21:36.182Z",
+    "crawledAt": "2026-05-16T09:21:36.182Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "score": 0.42250000000000004,
+    "crawlStatus": "fallback",
+    "crawlError": "fetch failed",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  }
+]

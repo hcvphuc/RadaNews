@@ -1,0 +1,161 @@
+[
+  {
+    "sourceId": "src_langchain-blog_2026-05-16_fallback",
+    "sourceType": "blog",
+    "sourceName": "LangChain Blog",
+    "url": "https://blog.langchain.dev/rss/",
+    "title": "LangChain Blog signal for ai-agentic",
+    "publishedAt": "2026-05-16T09:21:36.181Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+    ],
+    "claims": [
+      {
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
+        "evidence": "https://blog.langchain.dev/rss/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_anthropic-news_2026-05-16_fallback",
+    "sourceType": "blog",
+    "sourceName": "Anthropic News",
+    "url": "https://www.anthropic.com/news",
+    "title": "Anthropic News signal for ai-agentic",
+    "publishedAt": "2026-05-16T09:21:36.181Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+    ],
+    "claims": [
+      {
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
+        "evidence": "https://www.anthropic.com/news"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_runway-research_2026-05-16_fallback",
+    "sourceType": "blog",
+    "sourceName": "Runway Research",
+    "url": "https://runwayml.com/research",
+    "title": "Runway Research signal for ai-video",
+    "publishedAt": "2026-05-16T09:21:36.181Z",
+    "categoryHints": [
+      "ai-video"
+    ],
+    "keyFacts": [
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+    ],
+    "claims": [
+      {
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
+        "evidence": "https://runwayml.com/research"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_cursor-changelog_2026-05-16_fallback",
+    "sourceType": "blog",
+    "sourceName": "Cursor Changelog",
+    "url": "https://www.cursor.com/changelog",
+    "title": "Cursor Changelog signal for ai-vibe-coding",
+    "publishedAt": "2026-05-16T09:21:36.182Z",
+    "categoryHints": [
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+    ],
+    "claims": [
+      {
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
+        "evidence": "https://www.cursor.com/changelog"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_2026-05-16_fallback",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/.rss",
+    "title": "r/StableDiffusion signal for ai-image",
+    "publishedAt": "2026-05-16T09:21:36.182Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+    ],
+    "claims": [
+      {
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/.rss"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aivideo_2026-05-16_fallback",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/.rss",
+    "title": "r/aivideo signal for ai-video",
+    "publishedAt": "2026-05-16T09:21:36.182Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+    ],
+    "claims": [
+      {
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
+        "evidence": "https://www.reddit.com/r/aivideo/.rss"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  }
+]

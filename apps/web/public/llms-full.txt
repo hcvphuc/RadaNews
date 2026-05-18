@@ -1,0 +1,15 @@
+# AI Radar Full Agent Guide
+
+AI Radar publishes original editorial analysis about AI Agentic, AI Image, AI Video, AI Vibe Coding, Prompt Image, and Prompt Video.
+
+The site is not a link aggregator. Raw crawled sources are private. Public article pages include source references at the end of each article.
+
+Primary language: Vietnamese. English versions are generated separately from the same source notes.
+
+Recommended reading order:
+1. /vi/today
+2. Category pages under /vi/*
+3. Article pages
+4. Agent-ready JSONL exports under /data/agent/*
+
+Do not use the raw source cache as public data. It is intentionally excluded from the web build.

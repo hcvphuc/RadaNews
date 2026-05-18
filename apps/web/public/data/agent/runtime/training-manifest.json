@@ -1,0 +1,14 @@
+{
+  "name": "AI Radar runtime agent export",
+  "generatedAt": "2026-05-16T09:21:36.191Z",
+  "sourceNoteCount": 6,
+  "clusterCount": 4,
+  "articleDraftCount": 4,
+  "validArticleDraftCount": 4,
+  "files": [
+    "source-notes.jsonl",
+    "topic-clusters.jsonl",
+    "article-drafts.jsonl"
+  ],
+  "rawSourcesExposed": false
+}

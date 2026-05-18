@@ -1,0 +1,251 @@
+---
+import Logo from "@/components/Logo.astro";
+import Icon from "@/components/Icon.astro";
+import "@/styles/global.css";
+import { categories } from "@/lib/categories";
+import type { Lang } from "@/lib/schema";
+
+const {
+  title = "AI Radar",
+  description = "Vietnamese-first AI production intelligence publication.",
+  lang = "vi",
+  active = "today"
+} = Astro.props as {
+  title?: string;
+  description?: string;
+  lang?: Lang;
+  active?: string;
+};
+
+const nextLang = lang === "vi" ? "en" : "vi";
+const localizedPath = Astro.url.pathname.replace(`/${lang}/`, `/${nextLang}/`);
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/favicon.svg" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <Logo compact />
+        <nav class="nav-links" aria-label="Primary navigation">
+          <a class={active === "today" ? "active" : ""} href={`/${lang}/today`}>Today</a>
+          {categories.slice(0, 4).map((category) => (
+            <a class={active === category.id ? "active" : ""} href={`/${lang}/${category.id}`}>
+              {category.shortLabel}
+            </a>
+          ))}
+          <a class={active === "prompts" ? "active" : ""} href={`/${lang}/prompts`}>Prompts</a>
+          <a class={active === "chat" ? "active" : ""} href={`/${lang}/chat`}>Chat</a>
+        </nav>
+        <div class="nav-actions">
+          <a class="search-link" href={`/${lang}/search`} aria-label="Search">
+            <Icon name="search" size={16} />
+            <span>Search AI Radar...</span>
+          </a>
+          <a class="icon-btn" href={`/${lang}/saved`} aria-label="Saved articles">
+            <Icon name="bookmark" size={16} />
+          </a>
+          <a class="lang-toggle" href={localizedPath === Astro.url.pathname ? `/${nextLang}/today` : localizedPath}>
+            <span class={lang === "vi" ? "active" : ""}>VI</span>
+            <span class={lang === "en" ? "active" : ""}>EN</span>
+          </a>
+        </div>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="footer shell">
+      <div>
+        <Logo compact />
+        <p>AI Radar is a Vietnamese-first AI production intelligence publication.</p>
+      </div>
+      <div class="footer-links">
+        <a href="/llms.txt">llms.txt</a>
+        <a href="/data/agent/articles.vi.jsonl">Agent data</a>
+        <a href="/data/agent/runtime/article-drafts.jsonl">Runtime data</a>
+        <a href={`/${lang}/admin`}>Admin</a>
+        <a href={`/${lang}/search`}>Search</a>
+      </div>
+    </footer>
+    <script>
+      const KEY = "ai-radar.saved";
+      const readSaved = (): string[] => {
+        try {
+          const value = JSON.parse(localStorage.getItem(KEY) || "[]");
+          return Array.isArray(value) ? value.filter((item): item is string => typeof item === "string") : [];
+        } catch {
+          return [];
+        }
+      };
+      const writeSaved = (saved: string[]) => localStorage.setItem(KEY, JSON.stringify(saved));
+      const refreshSavedState = () => {
+        const saved = new Set(readSaved());
+        document.querySelectorAll("[data-bookmark-card]").forEach((card) => {
+          const id = card.getAttribute("data-bookmark-card");
+          card.setAttribute("data-bookmarked", String(id ? saved.has(id) : false));
+        });
+      };
+      document.addEventListener("click", (event) => {
+        if (!(event.target instanceof Element)) return;
+        const button = event.target.closest("[data-bookmark]");
+        if (!button) return;
+        const id = button.getAttribute("data-bookmark");
+        if (!id) return;
+        const saved = new Set(readSaved());
+        if (saved.has(id)) saved.delete(id);
+        else saved.add(id);
+        writeSaved([...saved]);
+        refreshSavedState();
+      });
+      refreshSavedState();
+    </script>
+  </body>
+</html>
+
+<style>
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    padding: 16px 0;
+    backdrop-filter: blur(18px);
+    background: rgba(11, 12, 12, 0.76);
+    border-bottom: 1px solid rgba(43, 46, 51, 0.62);
+  }
+
+  .topbar-inner {
+    width: min(1480px, calc(100vw - 48px));
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .nav-links {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    min-width: 0;
+  }
+
+  .nav-links a {
+    color: #aeb2ba;
+    font-size: 12px;
+    padding: 10px 12px;
+    border-radius: 8px;
+    white-space: nowrap;
+  }
+
+  .nav-links a.active,
+  .nav-links a:hover {
+    color: white;
+    background: rgba(255, 138, 0, 0.1);
+  }
+
+  .nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .search-link {
+    width: 248px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0 12px;
+    border: 1px solid rgba(43, 46, 51, 0.92);
+    border-radius: 8px;
+    background: rgba(17, 18, 20, 0.72);
+    color: #858a94;
+    font-size: 12px;
+  }
+
+  .lang-toggle {
+    height: 38px;
+    display: inline-flex;
+    align-items: center;
+    padding: 3px;
+    border-radius: 8px;
+    border: 1px solid rgba(43, 46, 51, 0.92);
+    background: rgba(17, 18, 20, 0.84);
+  }
+
+  .lang-toggle span {
+    min-width: 32px;
+    height: 30px;
+    border-radius: 6px;
+    display: grid;
+    place-items: center;
+    color: #aeb2ba;
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+  .lang-toggle span.active {
+    color: #ffb347;
+    background: rgba(255, 138, 0, 0.14);
+  }
+
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 28px;
+    padding: 54px 0 44px;
+    color: var(--muted);
+  }
+
+  .footer p {
+    margin: 12px 0 0;
+    font-size: 13px;
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    font-size: 13px;
+  }
+
+  @media (max-width: 1120px) {
+    .topbar-inner {
+      grid-template-columns: 1fr auto;
+    }
+
+    .nav-links {
+      grid-column: 1 / -1;
+      overflow-x: auto;
+      order: 3;
+      padding-bottom: 4px;
+    }
+
+    .search-link {
+      width: 42px;
+      justify-content: center;
+    }
+
+    .search-link span {
+      display: none;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .topbar-inner {
+      width: min(100% - 28px, 720px);
+    }
+
+    .footer {
+      flex-direction: column;
+    }
+  }
+</style>

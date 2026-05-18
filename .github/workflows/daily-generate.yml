@@ -1,0 +1,37 @@
+name: Daily Generate
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      AI_RADAR_USE_OLLAMA: ${{ secrets.AI_RADAR_USE_OLLAMA }}
+      AI_RADAR_MAX_ITEMS_PER_SOURCE: 5
+      OLLAMA_ENDPOINT: ${{ secrets.OLLAMA_ENDPOINT }}
+      OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run daily
+      - run: npm run check
+      - run: npm run build
+      - name: Commit generated content
+        run: |
+          git config user.name "ai-radar-bot"
+          git config user.email "ai-radar-bot@users.noreply.github.com"
+          git add content apps/web/public/data
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: daily AI Radar generation"
+            git push
+          fi

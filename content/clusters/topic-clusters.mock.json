@@ -1,0 +1,52 @@
+[
+  {
+    "clusterId": "cluster_ai-agentic_agentic-ai-workflow-signal_2026-05-16",
+    "category": "ai-agentic",
+    "topic": "Agentic AI workflow signal",
+    "sourceIds": [
+      "src_anthropic-news_2026-05-16_fallback",
+      "src_langchain-blog_2026-05-16_fallback"
+    ],
+    "articleWorthinessScore": 0.39,
+    "reasonSelected": "Score 0.39 from 2 source item(s), 0 live crawl(s), strongest sources: Anthropic News, LangChain Blog.",
+    "confidence": "low",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_ai-video-workflow-signal_2026-05-16",
+    "category": "ai-video",
+    "topic": "AI video workflow signal",
+    "sourceIds": [
+      "src_runway-research_2026-05-16_fallback",
+      "src_reddit-aivideo_2026-05-16_fallback"
+    ],
+    "articleWorthinessScore": 0.33,
+    "reasonSelected": "Score 0.33 from 2 source item(s), 0 live crawl(s), strongest sources: Runway Research, r/aivideo.",
+    "confidence": "low",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_ai-coding-workflow-signal_2026-05-16",
+    "category": "ai-vibe-coding",
+    "topic": "AI coding workflow signal",
+    "sourceIds": [
+      "src_cursor-changelog_2026-05-16_fallback"
+    ],
+    "articleWorthinessScore": 0.28,
+    "reasonSelected": "Score 0.28 from 1 source item(s), 0 live crawl(s), strongest sources: Cursor Changelog.",
+    "confidence": "low",
+    "selectedForGeneration": false
+  },
+  {
+    "clusterId": "cluster_ai-image_ai-image-production-signal_2026-05-16",
+    "category": "ai-image",
+    "topic": "AI image production signal",
+    "sourceIds": [
+      "src_reddit-stablediffusion_2026-05-16_fallback"
+    ],
+    "articleWorthinessScore": 0.22,
+    "reasonSelected": "Score 0.22 from 1 source item(s), 0 live crawl(s), strongest sources: r/StableDiffusion.",
+    "confidence": "low",
+    "selectedForGeneration": false
+  }
+]

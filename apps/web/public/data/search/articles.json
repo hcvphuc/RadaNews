@@ -1,0 +1,302 @@
+[
+  {
+    "id": "art_2026_05_16_ai_agentic_001_vi",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "AI Agentic đang rời khỏi demo để bước vào workflow sản xuất",
+    "subtitle": "Điểm đáng chú ý không còn là agent có thể tự làm mọi thứ, mà là cách nó phối hợp công cụ, kiểm tra trạng thái và để con người can thiệp đúng lúc.",
+    "tags": [
+      "agentic",
+      "workflow",
+      "tool-use",
+      "production"
+    ],
+    "tldr": [
+      "Agent hữu ích nhất khi được giới hạn trong workflow rõ ràng, không phải khi được giao một nhiệm vụ mơ hồ.",
+      "Tool use, memory và human approval là ba lớp kiểm soát quan trọng cho production.",
+      "Builder nên bắt đầu bằng agent hẹp: research, triage, QA hoặc content ops."
+    ],
+    "body": "Làn sóng agent mới đang bớt phụ thuộc vào những video demo nơi AI tự mở browser, tự click và tự hoàn thành một tác vụ dài. Câu hỏi thực tế hơn là: agent có thể trở thành một phần ổn định trong dây chuyền sản xuất hay không.\n\nTrong các workflow gần đây, điểm chung không nằm ở việc agent mạnh hơn bao nhiêu, mà nằm ở cách hệ thống chia nhỏ quyền hành. Agent đọc yêu cầu, gọi công cụ, ghi lại trạng thái, rồi dừng ở những điểm cần phê duyệt. Đây là khác biệt lớn so với kiểu tự động hóa đen hộp: người vận hành vẫn nhìn thấy agent đang dựa vào dữ liệu nào, vì sao chọn bước tiếp theo và khi nào cần dừng.\n\nVới creator và builder, điều này mở ra một cách dùng thực tế hơn. Thay vì yêu cầu agent 'làm toàn bộ chiến dịch', có thể giao nó rà nguồn, gom claim, tạo checklist, kiểm tra lỗi publish hoặc đề xuất bản nháp đầu tiên. Những việc này có ranh giới rõ và dễ kiểm chứng.\n\nRủi ro vẫn còn. Agent có thể hiểu sai context, gọi sai công cụ hoặc tự tin quá mức khi dữ liệu thiếu. Vì vậy production agent nên có logging, giới hạn quyền, schema output và điểm xác nhận của con người.\n\nNhận định mạnh ở đây là: agent tốt trong năm nay sẽ giống một operator phụ trong hệ thống hơn là một nhân viên ảo tự trị hoàn toàn. Đội nào thiết kế workflow quanh giới hạn đó sẽ có lợi thế sớm hơn đội chỉ chờ model tiếp theo.",
+    "whyItMatters": "AI Agentic chỉ tạo giá trị khi đi vào vận hành thật. Việc chuyển từ demo sang workflow có kiểm soát giúp builder đo được thời gian tiết kiệm, lỗi giảm và điểm cần human review.",
+    "creatorTakeaway": "Hãy chọn một tác vụ lặp lại có input/output rõ, thêm logging và approval step, rồi mới mở rộng quyền cho agent. Đừng bắt đầu bằng một agent tổng quát.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 5,
+    "url": "/vi/ai-agentic/agent-workflow-tu-thu-nghiem-den-doi-song-san-xuat"
+  },
+  {
+    "id": "art_2026_05_16_ai_agentic_001_en",
+    "lang": "en",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "Agentic AI is moving from demos into production workflows",
+    "subtitle": "The useful shift is not full autonomy. It is controlled tool use, visible state, and human checkpoints at the right moments.",
+    "tags": [
+      "agentic",
+      "workflow",
+      "tool-use",
+      "production"
+    ],
+    "tldr": [
+      "Agents work best inside narrow workflows with clear inputs and outputs.",
+      "Tool use, memory, logging, and approval gates are becoming the production control layer.",
+      "Builders should start with research, triage, QA, or content operations before broad autonomy."
+    ],
+    "body": "The agent conversation is becoming less about spectacular demos and more about operating discipline. The interesting question is no longer whether an agent can click through a browser. It is whether that agent can become a dependable part of a production system.\n\nRecent workflow patterns share one trait: they distribute authority. The agent reads the task, calls tools, records state, and stops when approval is required. That is a very different shape from black-box automation. The operator can see what the agent used, why it chose the next step, and where confidence is low.\n\nFor creators and builders, this changes how to adopt agents. Instead of asking for a full campaign, use an agent to collect sources, group claims, produce checklists, inspect publication errors, or create the first draft for review. These jobs have boundaries, which makes the output easier to evaluate.\n\nThe risk is still real. Agents can misunderstand context, call the wrong tool, or overstate certainty when the data is thin. Production agents need logs, permission limits, structured outputs, and human checkpoints.\n\nThe strong read: useful agents this year will look more like junior operators inside well-designed systems than fully autonomous virtual employees. Teams that design around that constraint will move faster than teams waiting for a magical next model.",
+    "whyItMatters": "Agentic AI only matters when it becomes operational. Controlled workflows let teams measure time saved, errors reduced, and the exact points where human review is still needed.",
+    "creatorTakeaway": "Pick one repetitive task with clear input and output, add logs and approval gates, then expand capability. Do not begin with a general-purpose agent.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 5,
+    "url": "/en/ai-agentic/agent-workflows-are-moving-from-demo-to-production"
+  },
+  {
+    "id": "art_2026_05_16_ai_image_001_vi",
+    "lang": "vi",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "Reference image đang trở thành trục chính của sản xuất hình AI",
+    "subtitle": "Prompt chữ vẫn quan trọng, nhưng workflow tạo ảnh nghiêm túc đang xoay quanh style lock, nhân vật nhất quán và kiểm soát composition bằng reference.",
+    "tags": [
+      "ai-image",
+      "reference-image",
+      "style-lock",
+      "comfyui"
+    ],
+    "tldr": [
+      "Reference không còn là phụ kiện, mà là layer kiểm soát visual direction.",
+      "Các workflow tốt tách rõ subject, style, lighting và composition reference.",
+      "Creator nên lưu bộ reference theo brand thay vì viết lại prompt từ đầu mỗi lần."
+    ],
+    "body": "Trong sản xuất hình bằng AI, prompt hay không còn đủ. Khi creator cần một bộ ảnh cùng chiến dịch, cùng nhân vật hoặc cùng moodboard, reference image trở thành thứ quyết định tính nhất quán.\n\nĐiểm thay đổi nằm ở cách người dùng tổ chức workflow. Thay vì nhồi tất cả vào một prompt dài, họ tách visual control thành nhiều lớp: ảnh tham chiếu nhân vật, ảnh tham chiếu ánh sáng, ảnh tham chiếu bố cục và mô tả bằng chữ để khóa ý định. Cách làm này giống art direction hơn là thử vận may.\n\nVới AI production, lợi ích lớn nhất là giảm số vòng sửa. Một brand có thể giữ palette, crop, lighting và nhân vật ổn định hơn nếu xây một thư viện reference nhỏ. Prompt lúc này không phải bài văn miêu tả, mà là lệnh điều phối giữa các asset.\n\nĐiểm cần cẩn trọng là bản quyền và nguồn ảnh tham chiếu. Reference tốt không có nghĩa là sao chép style hoặc nhân vật của người khác. Workflow chuyên nghiệp nên dùng asset tự tạo, ảnh brand có quyền sử dụng hoặc moodboard đủ trừu tượng.\n\nNhận định thực tế: kỹ năng prompt image đang tiến hóa thành kỹ năng thiết kế hệ thống reference. Người làm tốt sẽ không chỉ biết câu chữ, mà biết quản lý visual memory cho cả chiến dịch.",
+    "whyItMatters": "Image AI bắt đầu hữu dụng hơn cho production khi output có thể lặp lại. Reference workflow giúp creator giữ brand, nhân vật và style ổn định qua nhiều asset.",
+    "creatorTakeaway": "Tạo một folder reference cho từng brand gồm subject, lighting, composition và style. Mỗi prompt chỉ nên điều phối các lớp này thay vì viết lại mọi thứ.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 4,
+    "url": "/vi/ai-image/reference-image-dang-tro-thanh-truc-chinh-cua-san-xuat-hinh-ai"
+  },
+  {
+    "id": "art_2026_05_16_ai_image_001_en",
+    "lang": "en",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "Reference images are becoming the backbone of AI image production",
+    "subtitle": "Text prompts still matter, but serious image workflows now depend on style locks, character consistency, and composition control.",
+    "tags": [
+      "ai-image",
+      "reference-image",
+      "style-lock",
+      "comfyui"
+    ],
+    "tldr": [
+      "References are becoming the control layer for visual direction.",
+      "Strong workflows separate subject, style, lighting, and composition references.",
+      "Creators should maintain brand reference kits instead of rewriting prompts from scratch."
+    ],
+    "body": "In AI image production, a clever prompt is no longer enough. When a creator needs a campaign, a recurring character, or a stable brand mood, the reference image becomes the real control surface.\n\nThe shift is workflow design. Instead of stuffing every visual instruction into one long prompt, creators separate control into layers: subject reference, lighting reference, composition reference, and text instructions that lock the intent. That is closer to art direction than guesswork.\n\nFor production teams, the payoff is fewer revision loops. A brand can keep palette, crop logic, lighting, and character identity more stable when it has a small reference library. The prompt becomes coordination, not decoration.\n\nThe caution is rights and originality. A reference workflow should not become a shortcut for copying another artist's style or character. Professional teams should use owned assets, licensed references, or sufficiently abstract moodboards.\n\nThe practical read: image prompting is becoming reference-system design. The best operators will know how to manage visual memory across a campaign, not just write better adjectives.",
+    "whyItMatters": "AI image tools become more useful for production when outputs repeat reliably. Reference workflows make brand, character, and style continuity easier to maintain across assets.",
+    "creatorTakeaway": "Build a reference folder for each brand: subject, lighting, composition, and style. Use prompts to coordinate those layers rather than describing everything from scratch.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 4,
+    "url": "/en/ai-image/reference-images-are-becoming-the-backbone-of-ai-image-production"
+  },
+  {
+    "id": "art_2026_05_16_ai_video_001_vi",
+    "lang": "vi",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Video AI đang chuyển từ shot đẹp sang continuity workflow",
+    "subtitle": "Khi model tạo video tốt hơn, lợi thế không nằm ở một prompt xuất sắc, mà nằm ở cách kiểm soát nhân vật, camera và nhịp dựng qua nhiều shot.",
+    "tags": [
+      "ai-video",
+      "continuity",
+      "image-to-video",
+      "workflow"
+    ],
+    "tldr": [
+      "Shot đơn lẻ đẹp không đủ cho trailer, TVC hoặc nội dung dài.",
+      "Workflow mới cần khóa nhân vật, góc máy, chuyển động và nhịp dựng.",
+      "Image-to-video đang trở thành cầu nối thực tế giữa storyboard và motion."
+    ],
+    "body": "Video AI đã qua giai đoạn chỉ gây ấn tượng bằng một clip vài giây. Với người làm production, câu hỏi khó hơn là làm sao giữ một nhân vật, một không gian và một nhịp kể chuyện qua nhiều shot.\n\nCác update gần đây cho thấy direction đang dịch chuyển: model tạo motion mượt hơn, hiểu camera tốt hơn và hỗ trợ reference rõ hơn. Nhưng điều này cũng làm lộ ra một vấn đề cũ của video AI: continuity. Một shot đẹp không tạo thành phim nếu shot kế tiếp đổi mặt nhân vật, sai ánh sáng hoặc phá nhịp dựng.\n\nWorkflow đáng học là bắt đầu từ storyboard tĩnh. Creator khóa nhân vật bằng ảnh reference, xác định lens/camera movement cho từng shot, rồi dùng image-to-video để thêm motion. Prompt video lúc này nên nói rõ chủ thể, hành động, camera, motion direction, duration và giới hạn không được phá vỡ.\n\nĐiểm này đặc biệt quan trọng với trailer, TVC, content lịch sử hoặc video giáo dục. Những format đó cần sự nhất quán hơn là hiệu ứng bất ngờ. Một hệ thống prompt tốt phải giúp model ít sáng tạo sai chỗ hơn.\n\nNhận định mạnh: trong AI video, người thắng không phải người có prompt đẹp nhất, mà là người xây được pipeline giữ continuity từ reference đến final edit.",
+    "whyItMatters": "Video AI chỉ tiến vào production thật khi creator kiểm soát được chuỗi shot. Continuity workflow giúp giảm lỗi nhân vật, ánh sáng, camera và nhịp dựng.",
+    "creatorTakeaway": "Đừng bắt đầu bằng text-to-video tự do. Hãy tạo storyboard ảnh, khóa reference, viết prompt theo từng shot và kiểm tra continuity trước khi dựng final.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 5,
+    "url": "/vi/ai-video/video-ai-chuyen-tu-shot-dep-sang-continuity-workflow"
+  },
+  {
+    "id": "art_2026_05_16_ai_video_001_en",
+    "lang": "en",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "AI video is moving from beautiful shots to continuity workflows",
+    "subtitle": "As models improve, the advantage shifts from one clever prompt to controlling characters, camera, and editing rhythm across many shots.",
+    "tags": [
+      "ai-video",
+      "continuity",
+      "image-to-video",
+      "workflow"
+    ],
+    "tldr": [
+      "A single beautiful shot is not enough for trailers, ads, or longer content.",
+      "The useful workflow locks character, camera, motion, and edit rhythm.",
+      "Image-to-video is becoming the practical bridge between storyboard and motion."
+    ],
+    "body": "AI video has moved beyond the phase where a few impressive seconds are enough. For production teams, the harder problem is keeping a character, a space, and a story rhythm consistent across multiple shots.\n\nRecent updates point in the same direction: smoother motion, better camera understanding, and stronger reference support. But those improvements expose the old weakness of AI video: continuity. A good shot does not become a film if the next shot changes the character's face, lighting, or pacing.\n\nThe workflow worth learning starts with still storyboards. Creators lock the character with references, define lens and camera movement per shot, then use image-to-video to add motion. A video prompt should specify subject, action, camera, motion direction, duration, and constraints the model should not break.\n\nThis matters most for trailers, ads, historical videos, and education content. Those formats need consistency more than surprise. A strong prompt system should make the model less creative in the wrong places.\n\nThe strong read: in AI video, the winner will not be the person with the prettiest prompt. It will be the team with a pipeline that preserves continuity from reference to final edit.",
+    "whyItMatters": "AI video becomes production-ready only when creators can control shot sequences. Continuity workflows reduce errors in character identity, lighting, camera behavior, and pacing.",
+    "creatorTakeaway": "Do not start with unconstrained text-to-video. Build a still storyboard, lock references, prompt shot by shot, and review continuity before the final edit.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 5,
+    "url": "/en/ai-video/ai-video-is-moving-from-beautiful-shots-to-continuity-workflows"
+  },
+  {
+    "id": "art_2026_05_16_ai_vibe_coding_001_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Vibe coding cần guardrails để không làm vỡ kiến trúc sản phẩm",
+    "subtitle": "AI coding tool giúp ship nhanh hơn, nhưng lợi ích thật chỉ xuất hiện khi project có scope, test và ranh giới module đủ rõ.",
+    "tags": [
+      "vibe-coding",
+      "cursor",
+      "codex",
+      "code-quality"
+    ],
+    "tldr": [
+      "AI coding tăng tốc tốt nhất khi task nhỏ và contract rõ.",
+      "Không có test và module boundary, vibe coding dễ tạo nợ kỹ thuật rất nhanh.",
+      "Builder nên dùng AI như pair engineer, không phải người thay thế kiến trúc."
+    ],
+    "body": "Vibe coding làm cảm giác build app trở nên nhanh hơn rất nhiều. Một yêu cầu ngắn có thể sinh ra component, route, API hoặc test trong vài phút. Nhưng tốc độ đó có mặt trái: nếu project không có ranh giới rõ, AI sẽ vá theo bề mặt và làm kiến trúc lệch dần.\n\nCác tool coding hiện nay mạnh ở việc đọc context, chỉnh nhiều file và đề xuất patch. Điểm yếu nằm ở yêu cầu mơ hồ. Khi user chỉ nói 'làm cho đẹp hơn' hoặc 'fix cái này', model có thể chọn cách nhanh nhất thay vì cách đúng với hệ thống.\n\nWorkflow tốt hơn là viết task như một contract nhỏ: input, output, file ownership, behavior cần giữ, test cần chạy và thứ không được đụng vào. Với cách này, AI trở thành pair engineer biết giới hạn, còn con người vẫn giữ quyết định kiến trúc.\n\nĐiểm đáng chú ý là các đội nhỏ có thể ship nhanh như đội lớn nếu biết tạo guardrails. README, design system, schema, test case và review checklist không phải thủ tục; chúng là hệ điều hành cho AI coding.\n\nNhận định thực tế: vibe coding không thay thế engineering discipline. Nó phóng đại discipline có sẵn. Project sạch sẽ được tăng tốc, project rối sẽ rối nhanh hơn.",
+    "whyItMatters": "AI coding đang trở thành cách build sản phẩm mặc định của nhiều creator. Guardrails quyết định tốc độ đó tạo ra sản phẩm thật hay nợ kỹ thuật.",
+    "creatorTakeaway": "Mỗi task nên có contract rõ: scope, file liên quan, hành vi phải giữ, test cần chạy và điều cấm đụng. Đó là cách dùng AI coding bền hơn.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 5,
+    "url": "/vi/ai-vibe-coding/vibe-coding-can-guardrails-de-code-khong-vo-kien-truc"
+  },
+  {
+    "id": "art_2026_05_16_ai_vibe_coding_001_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Vibe coding needs guardrails or it breaks product architecture",
+    "subtitle": "AI coding tools can help teams ship faster, but the real benefit appears only when scope, tests, and module boundaries are clear.",
+    "tags": [
+      "vibe-coding",
+      "cursor",
+      "codex",
+      "code-quality"
+    ],
+    "tldr": [
+      "AI coding accelerates best when tasks are small and contracts are explicit.",
+      "Without tests and module boundaries, speed quickly becomes technical debt.",
+      "Builders should use AI as a pair engineer, not a substitute for architecture."
+    ],
+    "body": "Vibe coding makes software feel dramatically faster. A short request can produce a component, route, API handler, or test in minutes. But that speed has a cost: without clear boundaries, the AI patches the surface and slowly distorts the architecture.\n\nCurrent coding tools are strong at reading context, editing multiple files, and proposing patches. The weak point is ambiguous intent. When the request is simply 'make it better' or 'fix this', the model may choose the fastest route instead of the one that fits the system.\n\nA better workflow is to write each task as a small contract: input, output, file ownership, behavior to preserve, tests to run, and areas that must not be touched. That turns the AI into a bounded pair engineer while humans keep architectural control.\n\nThe important point is that small teams can ship with the velocity of larger teams if they build guardrails. README files, design systems, schemas, test cases, and review checklists are not bureaucracy. They are the operating system for AI coding.\n\nThe practical read: vibe coding does not replace engineering discipline. It amplifies whatever discipline already exists. A clean project accelerates. A messy project becomes messy faster.",
+    "whyItMatters": "AI coding is becoming a default way to build products. Guardrails decide whether that speed creates real software or just faster debt.",
+    "creatorTakeaway": "Define each task with scope, related files, preserved behavior, required tests, and forbidden areas. That is the more durable way to use AI coding.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 5,
+    "url": "/en/ai-vibe-coding/vibe-coding-needs-guardrails-or-it-breaks-product-architecture"
+  },
+  {
+    "id": "art_2026_05_16_prompt_image_001_vi",
+    "lang": "vi",
+    "category": "prompt-image",
+    "categoryLabel": "Prompt Image",
+    "title": "Một prompt image template để khóa style và bố cục cho brand",
+    "subtitle": "Prompt tốt cho hình ảnh không chỉ mô tả thứ cần tạo; nó chia rõ subject, composition, lighting, style và negative constraints.",
+    "tags": [
+      "prompt-image",
+      "style-lock",
+      "composition",
+      "template"
+    ],
+    "tldr": [
+      "Prompt image nên tách thành các khối có thể tái sử dụng.",
+      "Style lock cần đi cùng reference và negative constraints.",
+      "Template tốt giúp tạo nhiều asset cùng brand mà ít lệch mood."
+    ],
+    "body": "Một prompt image dùng được trong production nên giống brief thiết kế hơn là một câu mô tả dài. Nếu mục tiêu là giữ brand consistency, prompt cần có cấu trúc rõ để creator thay subject mà không làm vỡ style.\n\nTemplate thực dụng có thể gồm năm khối: subject, composition, lighting, style system và constraints. Subject trả lời ai hoặc cái gì xuất hiện. Composition nói khung hình, khoảng trống, góc camera và điểm nhấn. Lighting khóa mood. Style system gắn palette, chất liệu, lens hoặc reference. Constraints nói điều không được xuất hiện.\n\nVí dụ cấu trúc: 'Subject: founder standing beside a translucent AI dashboard. Composition: centered editorial portrait, 35mm lens, clean negative space on the left. Lighting: warm rim light, soft cinematic shadows. Style: AI Radar dark premium, amber glow, charcoal panels. Constraints: no extra text, no distorted hands, no logo imitation.'\n\nĐiều quan trọng là không dùng negative prompt như thùng rác chứa mọi thứ. Negative constraints nên ngắn và gắn với lỗi hay gặp của workflow đó. Nếu quá dài, prompt trở nên khó kiểm soát.\n\nTemplate này đặc biệt hữu ích cho thumbnail, hero image, article cover và social visual. Mỗi lần tạo asset mới, chỉ thay subject và góc kể chuyện; phần style system giữ nguyên.",
+    "whyItMatters": "Prompt image có cấu trúc giúp creator tạo bộ asset nhất quán nhanh hơn, nhất là khi phải xuất nhiều hình cho cùng một publication hoặc brand.",
+    "creatorTakeaway": "Lưu prompt thành module: subject, composition, lighting, style, constraints. Khi đổi bài viết, chỉ đổi subject và intent, giữ style module cố định.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 4,
+    "url": "/vi/prompt-image/prompt-image-template-khoa-style-va-bo-cuc-cho-brand"
+  },
+  {
+    "id": "art_2026_05_16_prompt_image_001_en",
+    "lang": "en",
+    "category": "prompt-image",
+    "categoryLabel": "Prompt Image",
+    "title": "An image prompt template for brand style and composition lock",
+    "subtitle": "A production image prompt does more than describe the subject. It separates subject, composition, lighting, style, and negative constraints.",
+    "tags": [
+      "prompt-image",
+      "style-lock",
+      "composition",
+      "template"
+    ],
+    "tldr": [
+      "Image prompts should be modular and reusable.",
+      "Style lock works best with references and concise negative constraints.",
+      "A good template helps create many assets without drifting away from the brand."
+    ],
+    "body": "A production-ready image prompt should feel more like a design brief than a long descriptive sentence. If the goal is brand consistency, the structure must let creators change the subject without breaking the style.\n\nA useful template has five blocks: subject, composition, lighting, style system, and constraints. Subject defines who or what appears. Composition defines frame, spacing, camera angle, and emphasis. Lighting locks the mood. Style system attaches palette, material, lens, or references. Constraints define what must not appear.\n\nFor example: 'Subject: founder standing beside a translucent AI dashboard. Composition: centered editorial portrait, 35mm lens, clean negative space on the left. Lighting: warm rim light, soft cinematic shadows. Style: AI Radar dark premium, amber glow, charcoal panels. Constraints: no extra text, no distorted hands, no logo imitation.'\n\nThe key is not to treat negative prompts as a dumping ground. Negative constraints should be short and tied to known failure modes. If they become too long, the prompt becomes harder to control.\n\nThis structure is especially useful for thumbnails, hero images, article covers, and social visuals. For each new asset, change the subject and story angle while preserving the style system.",
+    "whyItMatters": "Structured image prompts help creators produce consistent asset sets faster, especially when a publication or brand needs many visuals.",
+    "creatorTakeaway": "Save prompts as modules: subject, composition, lighting, style, constraints. Change the subject and intent per article while keeping the style module stable.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 4,
+    "url": "/en/prompt-image/an-image-prompt-template-for-brand-style-and-composition-lock"
+  },
+  {
+    "id": "art_2026_05_16_prompt_video_001_vi",
+    "lang": "vi",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "Prompt video shot-by-shot cho một trailer AI ngắn",
+    "subtitle": "Muốn video AI có nhịp dựng tốt, hãy viết prompt như shot list: mục tiêu cảnh, camera movement, motion direction và continuity lock.",
+    "tags": [
+      "prompt-video",
+      "shot-list",
+      "camera-movement",
+      "continuity"
+    ],
+    "tldr": [
+      "Prompt video nên đi theo từng shot thay vì một mô tả dài cho cả clip.",
+      "Mỗi shot cần subject, action, camera, motion, duration và continuity note.",
+      "Workflow này giúp trailer ngắn có nhịp và ít lỗi chuyển cảnh hơn."
+    ],
+    "body": "Video prompt thường thất bại khi cố mô tả cả một bộ phim trong một đoạn văn. Model có thể tạo ra hình ảnh đẹp, nhưng nhịp dựng và logic cảnh dễ bị rối. Cách thực dụng hơn là viết prompt theo shot list.\n\nMột shot prompt nên có sáu phần: mục tiêu cảnh, chủ thể, hành động, camera movement, motion direction và continuity lock. Ví dụ: 'Shot 01, 4s: wide establishing shot of a neon AI newsroom, slow dolly-in, warm amber glow, same female editor silhouette from reference, no face change, no text overlays.'\n\nKhi nối nhiều shot, hãy giữ một số biến cố định: nhân vật, palette, lens, môi trường và tempo. Biến thay đổi nên là góc máy, khoảng cách, hành động hoặc điểm nhấn cảm xúc. Nếu mọi thứ đều thay đổi, video sẽ giống montage ngẫu nhiên hơn là trailer.\n\nImage-to-video giúp workflow này ổn hơn vì mỗi shot bắt đầu từ một frame đã kiểm soát. Creator có thể tạo storyboard trước, chọn frame tốt, rồi mới thêm motion.\n\nTakeaway quan trọng: prompt video tốt không cố khiến model tưởng tượng nhiều hơn. Nó giới hạn đúng thứ cần giữ và chỉ cho model sáng tạo trong vùng an toàn.",
+    "whyItMatters": "Shot-by-shot prompting biến video AI từ thử nghiệm may rủi thành workflow có thể kiểm soát, phù hợp hơn cho trailer, TVC và content series.",
+    "creatorTakeaway": "Viết prompt như shot list. Mỗi shot có duration, camera movement và continuity lock. Dùng storyboard ảnh làm anchor trước khi generate motion.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 4,
+    "url": "/vi/prompt-video/prompt-video-shot-by-shot-cho-trailer-ai-ngan"
+  },
+  {
+    "id": "art_2026_05_16_prompt_video_001_en",
+    "lang": "en",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "Shot-by-shot video prompts for a short AI trailer",
+    "subtitle": "If you want AI video with better pacing, write prompts like a shot list: scene goal, camera movement, motion direction, and continuity lock.",
+    "tags": [
+      "prompt-video",
+      "shot-list",
+      "camera-movement",
+      "continuity"
+    ],
+    "tldr": [
+      "Video prompts should be written shot by shot instead of one long description.",
+      "Each shot needs subject, action, camera, motion, duration, and continuity notes.",
+      "This workflow gives short trailers stronger rhythm and fewer transition errors."
+    ],
+    "body": "Video prompts often fail when they try to describe an entire film in one paragraph. The model may produce attractive frames, but pacing and scene logic become unstable. A more practical approach is to write prompts as a shot list.\n\nA shot prompt should contain six parts: scene goal, subject, action, camera movement, motion direction, and continuity lock. Example: 'Shot 01, 4s: wide establishing shot of a neon AI newsroom, slow dolly-in, warm amber glow, same female editor silhouette from reference, no face change, no text overlays.'\n\nAcross shots, keep several variables fixed: character, palette, lens, environment, and tempo. The variables that change should be camera angle, distance, action, or emotional focus. If everything changes at once, the video feels like a random montage rather than a trailer.\n\nImage-to-video makes this workflow more stable because each shot starts from a controlled frame. Creators can storyboard first, choose the best stills, and then add motion.\n\nThe useful takeaway: a good video prompt does not ask the model to imagine more. It limits what must stay stable and lets the model create only inside a safe range.",
+    "whyItMatters": "Shot-by-shot prompting turns AI video from a luck-based experiment into a controllable workflow for trailers, ads, and recurring content.",
+    "creatorTakeaway": "Write prompts like a shot list. Each shot needs duration, camera movement, and continuity lock. Use still storyboards as anchors before generating motion.",
+    "publishedAt": "2026-05-16T06:20:00+07:00",
+    "readingTime": 4,
+    "url": "/en/prompt-video/shot-by-shot-video-prompts-for-a-short-ai-trailer"
+  }
+]

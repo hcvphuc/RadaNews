@@ -1,0 +1,193 @@
+---
+const { lang = "vi" } = Astro.props;
+---
+
+<div class="search-panel panel">
+  <label for="site-search">Search</label>
+  <div class="search-row">
+    <input id="site-search" type="search" placeholder="Search articles, topics, models..." autocomplete="off" />
+    <select id="category-filter" aria-label="Category">
+      <option value="">All categories</option>
+      <option value="ai-agentic">AI Agentic</option>
+      <option value="ai-image">AI Image</option>
+      <option value="ai-video">AI Video</option>
+      <option value="ai-vibe-coding">AI Vibe Coding</option>
+      <option value="prompt-image">Prompt Image</option>
+      <option value="prompt-video">Prompt Video</option>
+    </select>
+  </div>
+  <div id="search-results" class="results" data-lang={lang}></div>
+</div>
+
+<script>
+  const results = document.querySelector("#search-results");
+  const input = document.querySelector("#site-search");
+  const select = document.querySelector("#category-filter");
+  const lang = results?.getAttribute("data-lang") || "vi";
+  type SearchRow = {
+    id: string;
+    lang: string;
+    category: string;
+    categoryLabel: string;
+    title: string;
+    subtitle: string;
+    tags: string[];
+    tldr: string[];
+    body: string;
+    whyItMatters: string;
+    creatorTakeaway: string;
+    publishedAt: string;
+    readingTime: number;
+    url: string;
+  };
+  let index: SearchRow[] = [];
+
+  async function loadIndex() {
+    const response = await fetch("/data/search/articles.json");
+    index = await response.json();
+    render();
+  }
+
+  function render() {
+    if (!results) return;
+    const q = ((input instanceof HTMLInputElement ? input.value : "") || "").toLowerCase().trim();
+    const category = (select instanceof HTMLSelectElement ? select.value : "") || "";
+    const matches = index
+      .filter((item) => item.lang === lang)
+      .filter((item) => !category || item.category === category)
+      .map((item) => ({ item, score: scoreItem(item, q) }))
+      .filter((match) => !q || match.score > 0)
+      .sort((a, b) => b.score - a.score || Date.parse(b.item.publishedAt) - Date.parse(a.item.publishedAt))
+      .map((match) => match.item)
+      .slice(0, 12);
+
+    if (matches.length === 0) {
+      results.innerHTML = `<div class="empty">${lang === "vi" ? "Không có kết quả phù hợp." : "No matching results."}</div>`;
+      return;
+    }
+
+    results.innerHTML = matches
+      .map((item) => {
+        const meta = `${item.categoryLabel} · ${item.readingTime} min`;
+        return `
+          <a class="result" href="${escapeHtml(item.url)}">
+            <span>${escapeHtml(meta)}</span>
+            <strong>${escapeHtml(item.title)}</strong>
+            <small>${escapeHtml(item.subtitle)}</small>
+          </a>
+        `;
+      })
+      .join("");
+  }
+
+  function scoreItem(item: SearchRow, q: string) {
+    if (!q) return Date.parse(item.publishedAt) / 1_000_000_000;
+    const terms = q.split(/\s+/).filter(Boolean);
+    const haystack = {
+      title: item.title.toLowerCase(),
+      subtitle: item.subtitle.toLowerCase(),
+      tags: item.tags.join(" ").toLowerCase(),
+      body: `${item.tldr.join(" ")} ${item.body} ${item.whyItMatters} ${item.creatorTakeaway}`.toLowerCase()
+    };
+
+    return terms.reduce((sum, term) => {
+      if (haystack.title.includes(term)) return sum + 8;
+      if (haystack.tags.includes(term)) return sum + 5;
+      if (haystack.subtitle.includes(term)) return sum + 3;
+      if (haystack.body.includes(term)) return sum + 1;
+      return sum;
+    }, 0);
+  }
+
+  function escapeHtml(value: string) {
+    return value.replace(/[&<>"']/g, (char) => {
+      const entities: Record<string, string> = {
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#039;"
+      };
+      return entities[char] || char;
+    });
+  }
+
+  input?.addEventListener("input", render);
+  select?.addEventListener("change", render);
+  loadIndex();
+</script>
+
+<style>
+  .search-panel {
+    padding: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 12px;
+    color: white;
+    font-weight: 700;
+  }
+
+  .search-row {
+    display: grid;
+    grid-template-columns: 1fr 210px;
+    gap: 12px;
+  }
+
+  input,
+  select {
+    height: 46px;
+    border-radius: 8px;
+    border: 1px solid rgba(43, 46, 51, 0.95);
+    background: rgba(11, 12, 12, 0.62);
+    color: white;
+    padding: 0 14px;
+    font-size: 14px;
+  }
+
+  .results {
+    display: grid;
+    gap: 10px;
+    margin-top: 16px;
+  }
+
+  .result {
+    display: grid;
+    gap: 5px;
+    padding: 14px;
+    border: 1px solid rgba(43, 46, 51, 0.86);
+    border-radius: 12px;
+    background: rgba(24, 26, 29, 0.55);
+  }
+
+  .result span {
+    color: #ffb347;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .result strong {
+    font-size: 15px;
+  }
+
+  .result small {
+    color: var(--muted);
+    font-size: 13px;
+    line-height: 1.45;
+  }
+
+  .empty {
+    border: 1px dashed rgba(255, 179, 71, 0.34);
+    border-radius: 8px;
+    color: var(--muted);
+    padding: 18px;
+  }
+
+  @media (max-width: 700px) {
+    .search-row {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

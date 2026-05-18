@@ -1,0 +1,24 @@
+{
+  "name": "ai-radar-publication",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix apps/web run dev",
+    "build": "npm run export:data && npm run build:search && npm --prefix apps/web run build",
+    "preview": "npm --prefix apps/web run preview",
+    "check": "npm --prefix apps/web run check",
+    "export:data": "node --experimental-strip-types scripts/export-jsonl.ts",
+    "build:search": "node --experimental-strip-types scripts/build-search-index.ts",
+    "daily": "node --experimental-strip-types scripts/run-daily.ts",
+    "mcp:readonly": "node --experimental-strip-types scripts/mcp-readonly.ts"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@astrojs/tailwind": "^5.1.5",
+    "astro": "^5.8.0",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}

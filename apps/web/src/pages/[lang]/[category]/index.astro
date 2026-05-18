@@ -1,0 +1,82 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import ArticleCard from "@/components/ArticleCard.astro";
+import { categories, categoryById } from "@/lib/categories";
+import { getArticlesByCategory } from "@/lib/content";
+import type { Category, Lang } from "@/lib/schema";
+
+export function getStaticPaths() {
+  return ["vi", "en"].flatMap((lang) => categories.map((category) => ({ params: { lang, category: category.id } })));
+}
+
+const lang = Astro.params.lang as Lang;
+const category = Astro.params.category as Category;
+const categoryMeta = categoryById[category];
+const items = getArticlesByCategory(lang, category);
+---
+
+<BaseLayout title={`${categoryMeta.label} - AI Radar`} lang={lang} active={category}>
+  <section class="category-hero shell">
+    <div>
+      <span>{categoryMeta.label}</span>
+      <h1>{categoryMeta.description}</h1>
+    </div>
+    <p>
+      {lang === "vi"
+        ? "Mỗi bài là editorial analysis gốc, có nguồn rõ ràng và được viết cho creator/builder."
+        : "Each article is original editorial analysis with clear sources, written for creators and builders."}
+    </p>
+  </section>
+  <section class="article-grid shell">
+    {items.map((article, index) => <ArticleCard article={article} featured={index === 0} />)}
+  </section>
+</BaseLayout>
+
+<style>
+  .category-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 360px;
+    gap: 28px;
+    align-items: end;
+    padding: 86px 0 28px;
+  }
+
+  span {
+    color: #ffb347;
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    max-width: 900px;
+    margin: 12px 0 0;
+    font-size: clamp(38px, 5vw, 72px);
+    line-height: 0.98;
+    letter-spacing: -0.04em;
+  }
+
+  p {
+    margin: 0;
+    color: #b9bcc4;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .article-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  .article-grid :global(.featured) {
+    grid-column: 1 / -1;
+  }
+
+  @media (max-width: 980px) {
+    .category-hero,
+    .article-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

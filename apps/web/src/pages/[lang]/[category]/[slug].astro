@@ -1,0 +1,243 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Icon from "@/components/Icon.astro";
+import { articleUrl, formatDate, getAllStaticArticlePaths, getLanguageVariant, readingMeta } from "@/lib/content";
+import { localizeCategory } from "@/lib/categories";
+import type { Article } from "@/lib/schema";
+
+export function getStaticPaths() {
+  return getAllStaticArticlePaths();
+}
+
+const { article } = Astro.props as { article: Article };
+const otherLang = article.lang === "vi" ? "en" : "vi";
+const otherVariant = getLanguageVariant(article, otherLang);
+---
+
+<BaseLayout title={`${article.title} - AI Radar`} lang={article.lang} active={article.category}>
+  <article class="article shell" data-bookmark-card={article.id}>
+    <header class="article-header">
+      <div class="article-meta">
+        <span>{localizeCategory(article.category, article.lang)}</span>
+        <span>{formatDate(article.publishedAt, article.lang)}</span>
+        <span>{readingMeta(article, article.lang)}</span>
+      </div>
+      <h1>{article.title}</h1>
+      <p>{article.subtitle}</p>
+      <div class="article-actions">
+        {otherVariant && <a class="btn-secondary" href={articleUrl(otherVariant)}>{otherLang.toUpperCase()} Version</a>}
+        <button class="btn-secondary bookmark-button" type="button" data-bookmark={article.id}>
+          <Icon name="bookmark" size={16} /> Save
+        </button>
+      </div>
+    </header>
+
+    <div class="article-cover hero-cover" aria-hidden="true"></div>
+
+    <div class="article-layout">
+      <aside class="toc thin-panel">
+        <strong>AI Radar</strong>
+        <a href="#tldr">TL;DR</a>
+        <a href="#analysis">Analysis</a>
+        <a href="#why">Why it matters</a>
+        <a href="#takeaway">Takeaway</a>
+        <a href="#sources">Sources</a>
+      </aside>
+
+      <div class="article-main">
+        <section id="tldr" class="panel block">
+          <div class="block-title">
+            <h2>TL;DR</h2>
+            <Icon name="spark" size={16} />
+          </div>
+          <ul>
+            {article.tldr.map((item) => <li>{item}</li>)}
+          </ul>
+        </section>
+
+        <section id="analysis" class="article-prose">
+          {article.bodyMarkdown.split("\n\n").map((paragraph) => <p>{paragraph}</p>)}
+        </section>
+
+        <section id="why" class="panel block">
+          <div class="block-title"><h2>Why it matters</h2></div>
+          <p>{article.whyItMatters}</p>
+        </section>
+
+        <section id="takeaway" class="panel block">
+          <div class="block-title"><h2>Creator / Builder Takeaway</h2></div>
+          <p>{article.creatorTakeaway}</p>
+        </section>
+
+        <section id="sources" class="panel block sources">
+          <div class="block-title"><h2>Sources</h2></div>
+          {article.sources.map((source, index) => (
+            <a href={source.url} target="_blank" rel="noreferrer">
+              <span>{String(index + 1).padStart(2, "0")}</span>
+              <strong>{source.title}</strong>
+              <small>{source.sourceName} · {source.usedFor}</small>
+            </a>
+          ))}
+        </section>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .article {
+    padding: 72px 0 28px;
+  }
+
+  .article-header {
+    max-width: 980px;
+    display: grid;
+    gap: 18px;
+  }
+
+  .article-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    color: var(--muted);
+    font-size: 12px;
+  }
+
+  .article-meta span:first-child {
+    color: #ffb347;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: clamp(42px, 6vw, 86px);
+    line-height: 0.96;
+    letter-spacing: -0.045em;
+  }
+
+  .article-header p {
+    max-width: 780px;
+    margin: 0;
+    color: #c4c7ce;
+    font-size: 19px;
+    line-height: 1.65;
+  }
+
+  .article-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .hero-cover {
+    height: min(460px, 48vw);
+    min-height: 260px;
+    border-radius: 22px;
+    border: 1px solid rgba(43, 46, 51, 0.92);
+    margin: 34px 0;
+  }
+
+  .article-layout {
+    display: grid;
+    grid-template-columns: 220px minmax(0, 860px);
+    gap: 42px;
+    align-items: start;
+  }
+
+  .toc {
+    position: sticky;
+    top: 116px;
+    padding: 14px;
+    display: grid;
+    gap: 10px;
+  }
+
+  .toc strong {
+    color: #ffb347;
+    font-size: 12px;
+  }
+
+  .toc a {
+    color: var(--muted);
+    font-size: 13px;
+  }
+
+  .article-main {
+    display: grid;
+    gap: 28px;
+  }
+
+  .block {
+    padding: 22px;
+  }
+
+  .block-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    color: #ffb347;
+    margin-bottom: 14px;
+  }
+
+  .block h2 {
+    margin: 0;
+    color: white;
+    font-size: 18px;
+  }
+
+  .block p,
+  li {
+    color: #d7d9de;
+    line-height: 1.72;
+  }
+
+  ul {
+    display: grid;
+    gap: 11px;
+    margin: 0;
+    padding-left: 20px;
+  }
+
+  .sources {
+    display: grid;
+    gap: 10px;
+  }
+
+  .sources a {
+    display: grid;
+    grid-template-columns: 38px 1fr;
+    gap: 4px 12px;
+    padding: 12px 0;
+    border-top: 1px solid rgba(43, 46, 51, 0.84);
+  }
+
+  .sources span {
+    grid-row: span 2;
+    color: #ffb347;
+    font-weight: 800;
+  }
+
+  .sources small {
+    color: var(--muted);
+  }
+
+  [data-bookmarked="true"] .bookmark-button {
+    color: #ff8a00;
+    border-color: rgba(255, 138, 0, 0.55);
+    background: rgba(255, 138, 0, 0.1);
+  }
+
+  @media (max-width: 920px) {
+    .article-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .toc {
+      position: static;
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+</style>

@@ -1,0 +1,156 @@
+---
+import Icon from "./Icon.astro";
+import { articleUrl, readingMeta } from "@/lib/content";
+import { localizeCategory } from "@/lib/categories";
+import type { Article } from "@/lib/schema";
+
+const { article, featured = false } = Astro.props as { article: Article; featured?: boolean };
+---
+
+<article class={`article-card ${featured ? "featured" : ""}`} data-bookmark-card={article.id}>
+  <a class="cover article-cover" href={articleUrl(article)} aria-label={article.title}>
+    <span class="cover-copy">
+      <span>{localizeCategory(article.category, article.lang)}</span>
+      {featured && <strong>Featured Analysis</strong>}
+    </span>
+  </a>
+  <div class="card-body">
+    <div class="topline">
+      <span>{localizeCategory(article.category, article.lang)}</span>
+      <span>{readingMeta(article, article.lang)}</span>
+    </div>
+    <h3><a href={articleUrl(article)}>{article.title}</a></h3>
+    <p>{article.subtitle}</p>
+    <div class="footer">
+      <span class="meta-row">AI Radar · {article.sources.length} sources</span>
+      <button class="icon-btn bookmark-button" type="button" data-bookmark={article.id} aria-label="Save article">
+        <Icon name="bookmark" size={17} />
+      </button>
+    </div>
+  </div>
+</article>
+
+<style>
+  .article-card {
+    overflow: hidden;
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(24, 26, 29, 0.9), rgba(17, 18, 20, 0.92));
+    border: 1px solid rgba(43, 46, 51, 0.92);
+    min-height: 100%;
+  }
+
+  .article-card.featured {
+    display: grid;
+    grid-template-columns: 1.05fr 1fr;
+    min-height: 330px;
+    box-shadow: 0 26px 90px rgba(0, 0, 0, 0.42);
+  }
+
+  .cover {
+    min-height: 164px;
+    display: block;
+  }
+
+  .featured .cover {
+    min-height: 100%;
+  }
+
+  .cover-copy {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    min-height: inherit;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 8px;
+    color: #ffb347;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .cover-copy strong {
+    max-width: 230px;
+    color: white;
+    font-size: 24px;
+    line-height: 1.1;
+    text-transform: none;
+  }
+
+  .card-body {
+    padding: 20px;
+    display: grid;
+    gap: 13px;
+  }
+
+  .featured .card-body {
+    align-content: center;
+    padding: 32px;
+  }
+
+  .topline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    color: #ffb347;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .topline span + span {
+    color: var(--muted);
+    font-weight: 500;
+    text-transform: none;
+  }
+
+  h3 {
+    margin: 0;
+    font-size: 20px;
+    line-height: 1.22;
+    letter-spacing: 0;
+  }
+
+  .featured h3 {
+    font-size: clamp(28px, 3vw, 42px);
+    letter-spacing: -0.02em;
+  }
+
+  p {
+    margin: 0;
+    color: #b9bcc4;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+
+  .featured p {
+    font-size: 16px;
+  }
+
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 4px;
+  }
+
+  [data-bookmarked="true"] .bookmark-button {
+    color: #ff8a00;
+    border-color: rgba(255, 138, 0, 0.55);
+    background: rgba(255, 138, 0, 0.1);
+  }
+
+  @media (max-width: 760px) {
+    .article-card.featured {
+      grid-template-columns: 1fr;
+    }
+
+    .featured .cover {
+      min-height: 220px;
+    }
+  }
+</style>

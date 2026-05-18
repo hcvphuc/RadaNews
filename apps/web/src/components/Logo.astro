@@ -1,0 +1,83 @@
+---
+const { compact = false } = Astro.props;
+---
+
+<a class={`logo ${compact ? "compact" : ""}`} href="/vi/today" aria-label="AI Radar home">
+  <span class="mark" aria-hidden="true">
+    <span></span>
+  </span>
+  <span class="word">
+    <strong>AI <em>Radar</em></strong>
+    {!compact && <small>AI Production Intelligence</small>}
+  </span>
+</a>
+
+<style>
+  .logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    min-width: 0;
+  }
+
+  .mark {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    position: relative;
+    display: grid;
+    place-items: center;
+    background:
+      radial-gradient(circle, rgba(255, 138, 0, 0.95) 0 5%, transparent 7%),
+      repeating-radial-gradient(circle, transparent 0 9px, rgba(255, 138, 0, 0.48) 10px, transparent 11px);
+    box-shadow: 0 0 28px rgba(255, 138, 0, 0.28);
+  }
+
+  .mark::before {
+    content: "";
+    position: absolute;
+    width: 70%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #ff8a00, transparent);
+    transform: rotate(-34deg);
+  }
+
+  .mark span {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #ffb347;
+    box-shadow: 0 0 18px #ff8a00;
+  }
+
+  .word {
+    display: grid;
+    gap: 2px;
+  }
+
+  strong {
+    font-size: 21px;
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+
+  em {
+    color: #ff6a00;
+    font-style: normal;
+  }
+
+  small {
+    color: #d9d9dd;
+    font-size: 12px;
+    line-height: 1;
+  }
+
+  .compact .mark {
+    width: 30px;
+    height: 30px;
+  }
+
+  .compact strong {
+    font-size: 14px;
+  }
+</style>
