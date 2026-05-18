@@ -31,6 +31,12 @@ export type Article = {
   readingTime: number;
   publishedAt: string;
   imageUrl?: string;
+  inlineMedia?: {
+    url: string;
+    type: "image" | "video";
+    sourceName: string;
+    sourceUrl: string;
+  }[];
   sources: {
     title: string;
     sourceName: string;

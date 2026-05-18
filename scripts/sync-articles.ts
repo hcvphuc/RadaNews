@@ -86,6 +86,18 @@ async function main() {
     }
   }
 
+  // Build inline media for each cluster
+  const mediaBySourceId = new Map<string, { url: string; sourceName: string; sourceUrl: string }>();
+  for (const item of sourceItems) {
+    if (item.imageUrl && item.id) {
+      mediaBySourceId.set(item.id, {
+        url: item.imageUrl,
+        sourceName: item.sourceName,
+        sourceUrl: item.sourceUrl,
+      });
+    }
+  }
+
   const articles: Article[] = [];
 
   for (const draftSet of drafts) {
@@ -132,6 +144,21 @@ async function main() {
         readingTime: readingTime(draft.bodyMarkdown),
         publishedAt: genTime,
         imageUrl: bestImage,
+        inlineMedia: draft.sourceIds
+          ? draft.sourceIds
+              .map((sid) => mediaBySourceId.get(sid))
+              .filter(
+                (m): m is NonNullable<typeof m> =>
+                  !!m && m.url !== bestImage
+              )
+              .map((m) => ({
+                url: m.url,
+                type: "image" as const,
+                sourceName: m.sourceName,
+                sourceUrl: m.sourceUrl,
+              }))
+              .slice(0, 4)
+          : undefined,
         sources: sources.length > 0 ? sources : [{
           title: draft.title,
           sourceName: "AI Radar",

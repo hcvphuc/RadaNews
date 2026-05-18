@@ -163,6 +163,7 @@ export const articles: Article[] = [
     tags: ["agentic", "workflow", "tool-use", "production"],
     readingTime: 5,
     publishedAt,
+    imageUrl: "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     sources: sources.agent,
     generation: generation("cluster_ai_agentic_2026_05_16_001"),
     status: "published"
@@ -189,6 +190,7 @@ export const articles: Article[] = [
     tags: ["agentic", "workflow", "tool-use", "production"],
     readingTime: 5,
     publishedAt,
+    imageUrl: "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     sources: sources.agent,
     generation: generation("cluster_ai_agentic_2026_05_16_001"),
     status: "published"
@@ -215,6 +217,7 @@ export const articles: Article[] = [
     tags: ["ai-image", "reference-image", "style-lock", "comfyui"],
     readingTime: 4,
     publishedAt,
+    imageUrl: "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0",
     sources: sources.image,
     generation: generation("cluster_ai_image_2026_05_16_001"),
     status: "published"
@@ -241,6 +244,7 @@ export const articles: Article[] = [
     tags: ["ai-image", "reference-image", "style-lock", "comfyui"],
     readingTime: 4,
     publishedAt,
+    imageUrl: "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0",
     sources: sources.image,
     generation: generation("cluster_ai_image_2026_05_16_001"),
     status: "published"
@@ -267,6 +271,7 @@ export const articles: Article[] = [
     tags: ["ai-video", "continuity", "image-to-video", "workflow"],
     readingTime: 5,
     publishedAt,
+    imageUrl: "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
     sources: sources.video,
     generation: generation("cluster_ai_video_2026_05_16_001"),
     status: "published"
@@ -293,6 +298,7 @@ export const articles: Article[] = [
     tags: ["ai-video", "continuity", "image-to-video", "workflow"],
     readingTime: 5,
     publishedAt,
+    imageUrl: "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
     sources: sources.video,
     generation: generation("cluster_ai_video_2026_05_16_001"),
     status: "published"
@@ -319,6 +325,7 @@ export const articles: Article[] = [
     tags: ["vibe-coding", "cursor", "codex", "code-quality"],
     readingTime: 5,
     publishedAt,
+    imageUrl: "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     sources: sources.coding,
     generation: generation("cluster_ai_vibe_coding_2026_05_16_001"),
     status: "published"
@@ -345,6 +352,7 @@ export const articles: Article[] = [
     tags: ["vibe-coding", "cursor", "codex", "code-quality"],
     readingTime: 5,
     publishedAt,
+    imageUrl: "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     sources: sources.coding,
     generation: generation("cluster_ai_vibe_coding_2026_05_16_001"),
     status: "published"
@@ -371,6 +379,7 @@ export const articles: Article[] = [
     tags: ["prompt-image", "style-lock", "composition", "template"],
     readingTime: 4,
     publishedAt,
+    imageUrl: "https://yt3.googleusercontent.com/YRGwKgejKhWyjTkDvi7D4kmXlfyM4Yg5flspybpJ_sah44A-h4N_HWRdyNOEGXnR91rd2-VeYhI=s900-c-k-c0x00ffffff-no-rj",
     sources: sources.promptImage,
     generation: generation("cluster_prompt_image_2026_05_16_001"),
     status: "published"
@@ -397,6 +406,7 @@ export const articles: Article[] = [
     tags: ["prompt-image", "style-lock", "composition", "template"],
     readingTime: 4,
     publishedAt,
+    imageUrl: "https://yt3.googleusercontent.com/YRGwKgejKhWyjTkDvi7D4kmXlfyM4Yg5flspybpJ_sah44A-h4N_HWRdyNOEGXnR91rd2-VeYhI=s900-c-k-c0x00ffffff-no-rj",
     sources: sources.promptImage,
     generation: generation("cluster_prompt_image_2026_05_16_001"),
     status: "published"
@@ -423,6 +433,7 @@ export const articles: Article[] = [
     tags: ["prompt-video", "shot-list", "camera-movement", "continuity"],
     readingTime: 4,
     publishedAt,
+    imageUrl: "https://yt3.googleusercontent.com/U4AE38fpp0B35ULJQlb8XP1NnIL0Y6NmBiniM9z7qiaGA_Vg4qD_tAldiNq2_nxWv-LygmOOJQ=s900-c-k-c0x00ffffff-no-rj",
     sources: sources.promptVideo,
     generation: generation("cluster_prompt_video_2026_05_16_001"),
     status: "published"
@@ -449,6 +460,7 @@ export const articles: Article[] = [
     tags: ["prompt-video", "shot-list", "camera-movement", "continuity"],
     readingTime: 4,
     publishedAt,
+    imageUrl: "https://yt3.googleusercontent.com/U4AE38fpp0B35ULJQlb8XP1NnIL0Y6NmBiniM9z7qiaGA_Vg4qD_tAldiNq2_nxWv-LygmOOJQ=s900-c-k-c0x00ffffff-no-rj",
     sources: sources.promptVideo,
     generation: generation("cluster_prompt_video_2026_05_16_001"),
     status: "published"
