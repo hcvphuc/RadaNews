@@ -9,6 +9,7 @@ export function getStaticPaths() {
 
 const lang = Astro.params.lang as Lang;
 const articles = getArticles(lang);
+const articlesJson = JSON.stringify(articles);
 ---
 
 <BaseLayout title="Saved - AI Radar" lang={lang} active="saved">
@@ -21,10 +22,13 @@ const articles = getArticles(lang);
       <div id="saved-list" data-lang={lang}></div>
     </div>
   </section>
-  <script is:inline define:vars={{ articles }}>
+  <script>
+    const articles = JSON.parse(`{articlesJson}`);
     const KEY = "ai-radar.saved";
     const saved = new Set(JSON.parse(localStorage.getItem(KEY) || "[]"));
     const list = document.querySelector("#saved-list");
+    const lang = list?.getAttribute("data-lang") || "vi";
+
     const matches = articles.filter((article) => saved.has(article.id));
     list.innerHTML = matches.length
       ? matches
@@ -37,7 +41,7 @@ const articles = getArticles(lang);
           </a>`
           )
           .join("")
-      : `<p>${document.documentElement.lang === "vi" ? "Chưa có bài viết nào được lưu." : "No saved articles yet."}</p>`;
+      : `<p>${lang === "vi" ? "Chưa có bài viết nào được lưu." : "No saved articles yet."}</p>`;
   </script>
 </BaseLayout>
 
