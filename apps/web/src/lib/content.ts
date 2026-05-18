@@ -62,6 +62,18 @@ export function getReferencedSources(lang: Lang) {
     .map(([name, count]) => ({ name, count }));
 }
 
+export function getRelatedArticles(article: Article, limit = 5) {
+  return publishedArticles
+    .filter(
+      (candidate) =>
+        candidate.id !== article.id &&
+        candidate.lang === article.lang &&
+        candidate.category === article.category
+    )
+    .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
+    .slice(0, limit);
+}
+
 export function getAllStaticArticlePaths() {
   return articles.map((article) => ({
     params: {

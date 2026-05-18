@@ -1,5 +1,5 @@
 // Auto-generated from pipeline output — do not edit manually
-// Generated at: 2026-05-18T09:23:18.771Z
+// Generated at: 2026-05-18T09:49:33.951Z
 import type { Article } from "@/lib/schema";
 
 export const generatedArticles: Article[] = [
@@ -31,6 +31,32 @@ export const generatedArticles: Article[] = [
     "readingTime": 3,
     "publishedAt": "2026-05-18T09:21:55.863Z",
     "imageUrl": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
+    "inlineMedia": [
+      {
+        "url": "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0",
+        "type": "image",
+        "sourceName": "Black Forest Labs",
+        "sourceUrl": "https://blackforestlabs.ai/blog/"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!rZZF!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fcomfyui.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1801451783%26version%3D9",
+        "type": "image",
+        "sourceName": "ComfyUI Blog",
+        "sourceUrl": "https://blog.comfy.org/"
+      },
+      {
+        "url": "https://external-preview.redd.it/doQ9u6m51J60thMJ2iOQ2KGzMe11a1HEbumdkuZax-Y.png?auto=webp&s=db50bc1716ee868295b728e6de3066e545a3eea9",
+        "type": "image",
+        "sourceName": "r/StableDiffusion",
+        "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tg3rym/generated_1000_liminaldreamcore_images_with_gpt/"
+      },
+      {
+        "url": "https://external-preview.redd.it/bW42aXltYzRwcDFoMZr3TWbZ1wKxRzYoK8BPxCvx6N_waFSIO32fS0QSImC1.png?format=pjpg&auto=webp&s=2a5868d2c35505b60f3e5678e9e3f37375a0c56a",
+        "type": "image",
+        "sourceName": "r/comfyui",
+        "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tfs0yh/cant_load_fp8_as_fp8_ltx_23/"
+      }
+    ],
     "sources": [
       {
         "title": "Stability AI Blog signal for ai-image",
@@ -168,6 +194,32 @@ export const generatedArticles: Article[] = [
     "readingTime": 3,
     "publishedAt": "2026-05-18T09:22:33.012Z",
     "imageUrl": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
+    "inlineMedia": [
+      {
+        "url": "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0",
+        "type": "image",
+        "sourceName": "Black Forest Labs",
+        "sourceUrl": "https://blackforestlabs.ai/blog/"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!rZZF!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fcomfyui.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1801451783%26version%3D9",
+        "type": "image",
+        "sourceName": "ComfyUI Blog",
+        "sourceUrl": "https://blog.comfy.org/"
+      },
+      {
+        "url": "https://external-preview.redd.it/doQ9u6m51J60thMJ2iOQ2KGzMe11a1HEbumdkuZax-Y.png?auto=webp&s=db50bc1716ee868295b728e6de3066e545a3eea9",
+        "type": "image",
+        "sourceName": "r/StableDiffusion",
+        "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tg3rym/generated_1000_liminaldreamcore_images_with_gpt/"
+      },
+      {
+        "url": "https://external-preview.redd.it/bW42aXltYzRwcDFoMZr3TWbZ1wKxRzYoK8BPxCvx6N_waFSIO32fS0QSImC1.png?format=pjpg&auto=webp&s=2a5868d2c35505b60f3e5678e9e3f37375a0c56a",
+        "type": "image",
+        "sourceName": "r/comfyui",
+        "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tfs0yh/cant_load_fp8_as_fp8_ltx_23/"
+      }
+    ],
     "sources": [
       {
         "title": "Stability AI Blog signal for ai-image",
@@ -303,6 +355,32 @@ export const generatedArticles: Article[] = [
     "readingTime": 3,
     "publishedAt": "2026-05-18T09:21:35.355Z",
     "imageUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
+    "inlineMedia": [
+      {
+        "url": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&amp;h=630&amp;fm=jpg",
+        "type": "image",
+        "sourceName": "Luma Labs Blog",
+        "sourceUrl": "https://lumalabs.ai/blog"
+      },
+      {
+        "url": "https://huggingface.co/front/thumbnails/blog.png",
+        "type": "image",
+        "sourceName": "Hugging Face Blog",
+        "sourceUrl": "https://huggingface.co/blog"
+      },
+      {
+        "url": "https://external-preview.redd.it/dWJkYmU3d2oxcTFoMQ4X6RdTLbAKoAWNs6RHUmYNHq9c16fQb6elNPK16TaD.png?format=pjpg&auto=webp&s=23b249819e5ac7fceba134f41ea9379066c17418",
+        "type": "image",
+        "sourceName": "r/StableDiffusion",
+        "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tftqwg/neuralcompanion/"
+      },
+      {
+        "url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png",
+        "type": "image",
+        "sourceName": "Cursor Changelog",
+        "sourceUrl": "https://www.cursor.com/changelog"
+      }
+    ],
     "sources": [
       {
         "title": "LangChain Blog",
@@ -466,6 +544,32 @@ export const generatedArticles: Article[] = [
     "readingTime": 2,
     "publishedAt": "2026-05-18T09:22:25.693Z",
     "imageUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
+    "inlineMedia": [
+      {
+        "url": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&amp;h=630&amp;fm=jpg",
+        "type": "image",
+        "sourceName": "Luma Labs Blog",
+        "sourceUrl": "https://lumalabs.ai/blog"
+      },
+      {
+        "url": "https://huggingface.co/front/thumbnails/blog.png",
+        "type": "image",
+        "sourceName": "Hugging Face Blog",
+        "sourceUrl": "https://huggingface.co/blog"
+      },
+      {
+        "url": "https://external-preview.redd.it/dWJkYmU3d2oxcTFoMQ4X6RdTLbAKoAWNs6RHUmYNHq9c16fQb6elNPK16TaD.png?format=pjpg&auto=webp&s=23b249819e5ac7fceba134f41ea9379066c17418",
+        "type": "image",
+        "sourceName": "r/StableDiffusion",
+        "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tftqwg/neuralcompanion/"
+      },
+      {
+        "url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png",
+        "type": "image",
+        "sourceName": "Cursor Changelog",
+        "sourceUrl": "https://www.cursor.com/changelog"
+      }
+    ],
     "sources": [
       {
         "title": "LangChain Blog",
@@ -629,6 +733,26 @@ export const generatedArticles: Article[] = [
     "readingTime": 2,
     "publishedAt": "2026-05-18T09:23:18.609Z",
     "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "inlineMedia": [
+      {
+        "url": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png",
+        "type": "image",
+        "sourceName": "Replit Blog",
+        "sourceUrl": "https://blog.replit.com/"
+      },
+      {
+        "url": "https://external-preview.redd.it/mOzMgIojgI2D8grgmpxdJFuEd-J1-JX1U5lq-AgJRhc.jpg?auto=webp&s=f7012c782d05d04e0f9549b493a818e2fd5b5b12",
+        "type": "image",
+        "sourceName": "r/MediaSynthesis",
+        "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/"
+      },
+      {
+        "url": "https://external-preview.redd.it/2EZfweYtBVfICAxijcKP2jwNGqvzgr2aJCqKLdn1PaU.jpeg?auto=webp&s=2fb19c1de6a26a7584a273c32fe9da97f8c92cf6",
+        "type": "image",
+        "sourceName": "r/MediaSynthesis",
+        "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/1sokpp8/hundreds_of_fake_protrump_avatars_emerge_on/"
+      }
+    ],
     "sources": [
       {
         "title": "Research \\ Anthropic",
@@ -731,6 +855,32 @@ export const generatedArticles: Article[] = [
     "readingTime": 2,
     "publishedAt": "2026-05-18T09:22:03.572Z",
     "imageUrl": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg",
+    "inlineMedia": [
+      {
+        "url": "https://b.thumbs.redditmedia.com/nLmR7-1DqNZf6XlZCiL1nNRBZ7VF4jaM3vg8PN-Ww-o.jpg",
+        "type": "image",
+        "sourceName": "r/aivideo",
+        "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/"
+      },
+      {
+        "url": "https://external-preview.redd.it/eW00MnNsZTF4eXdnMY2IlQS9GJwoMxuN5nX5IKr8YfwC0_l57M4FAHMDgCFd.png?format=pjpg&auto=webp&s=c634ac62a837c6a69108f6f232959d4ae80e5518",
+        "type": "image",
+        "sourceName": "r/MediaSynthesis",
+        "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/"
+      },
+      {
+        "url": "https://external-preview.redd.it/a3Vxenc2c3pmczFoMaA0WD3cnE5Or4wpMKDekiuvfmD_QQHx04a6lX3vWyod.png?format=pjpg&auto=webp&s=c715fcec8eb90688b6880a54a85fab5937ba3d94",
+        "type": "image",
+        "sourceName": "r/aivideo",
+        "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tg6l8f/alex_pereira_vs_horror_villians/"
+      },
+      {
+        "url": "https://external-preview.redd.it/anJ6aDV6MDFpcjFoMWZ502EeZKJXurnc8KmEN4dESnwDN95eVdxlSUE-IOtB.png?format=pjpg&auto=webp&s=3f5f8f5207999f9934e4a125a27d8deba7d6003d",
+        "type": "image",
+        "sourceName": "r/aivideo",
+        "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tg1qjw/if_they_came_in_peace_would_we/"
+      }
+    ],
     "sources": [
       {
         "title": "Pika blog",
@@ -825,6 +975,32 @@ export const generatedArticles: Article[] = [
     "readingTime": 2,
     "publishedAt": "2026-05-18T09:22:35.163Z",
     "imageUrl": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg",
+    "inlineMedia": [
+      {
+        "url": "https://b.thumbs.redditmedia.com/nLmR7-1DqNZf6XlZCiL1nNRBZ7VF4jaM3vg8PN-Ww-o.jpg",
+        "type": "image",
+        "sourceName": "r/aivideo",
+        "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/"
+      },
+      {
+        "url": "https://external-preview.redd.it/eW00MnNsZTF4eXdnMY2IlQS9GJwoMxuN5nX5IKr8YfwC0_l57M4FAHMDgCFd.png?format=pjpg&auto=webp&s=c634ac62a837c6a69108f6f232959d4ae80e5518",
+        "type": "image",
+        "sourceName": "r/MediaSynthesis",
+        "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/"
+      },
+      {
+        "url": "https://external-preview.redd.it/a3Vxenc2c3pmczFoMaA0WD3cnE5Or4wpMKDekiuvfmD_QQHx04a6lX3vWyod.png?format=pjpg&auto=webp&s=c715fcec8eb90688b6880a54a85fab5937ba3d94",
+        "type": "image",
+        "sourceName": "r/aivideo",
+        "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tg6l8f/alex_pereira_vs_horror_villians/"
+      },
+      {
+        "url": "https://external-preview.redd.it/anJ6aDV6MDFpcjFoMWZ502EeZKJXurnc8KmEN4dESnwDN95eVdxlSUE-IOtB.png?format=pjpg&auto=webp&s=3f5f8f5207999f9934e4a125a27d8deba7d6003d",
+        "type": "image",
+        "sourceName": "r/aivideo",
+        "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tg1qjw/if_they_came_in_peace_would_we/"
+      }
+    ],
     "sources": [
       {
         "title": "Pika blog",
@@ -917,6 +1093,20 @@ export const generatedArticles: Article[] = [
     "readingTime": 2,
     "publishedAt": "2026-05-18T09:20:49.977Z",
     "imageUrl": "https://preview.redd.it/pezivkqmor1h1.jpg?width=140&amp;height=139&amp;auto=webp&amp;s=f036ab2af6e57f78b2e45ac0b467a6ba2106b5a7",
+    "inlineMedia": [
+      {
+        "url": "https://i.redd.it/2wvcse5m8s1h1.png",
+        "type": "image",
+        "sourceName": "r/midjourney",
+        "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/"
+      },
+      {
+        "url": "https://i.redd.it/imuymqzgct1h1.png",
+        "type": "image",
+        "sourceName": "r/midjourney",
+        "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/"
+      }
+    ],
     "sources": [
       {
         "title": "CREEPY VAMPIRE LAIRS",
@@ -974,6 +1164,20 @@ export const generatedArticles: Article[] = [
     "readingTime": 1,
     "publishedAt": "2026-05-18T09:21:12.424Z",
     "imageUrl": "https://preview.redd.it/pezivkqmor1h1.jpg?width=140&amp;height=139&amp;auto=webp&amp;s=f036ab2af6e57f78b2e45ac0b467a6ba2106b5a7",
+    "inlineMedia": [
+      {
+        "url": "https://i.redd.it/2wvcse5m8s1h1.png",
+        "type": "image",
+        "sourceName": "r/midjourney",
+        "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/"
+      },
+      {
+        "url": "https://i.redd.it/imuymqzgct1h1.png",
+        "type": "image",
+        "sourceName": "r/midjourney",
+        "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/"
+      }
+    ],
     "sources": [
       {
         "title": "CREEPY VAMPIRE LAIRS",
@@ -1031,6 +1235,7 @@ export const generatedArticles: Article[] = [
     "readingTime": 1,
     "publishedAt": "2026-05-18T09:20:51.816Z",
     "imageUrl": "https://external-preview.redd.it/hzjXIp6ZNRvYRMJ1WupwQkR4MZs1eahjiH3sMoK7F-M.jpeg?auto=webp&s=fd760d7b165f888bce808eba1633d1b27ed8b24f",
+    "inlineMedia": [],
     "sources": [
       {
         "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
@@ -1072,6 +1277,7 @@ export const generatedArticles: Article[] = [
     "readingTime": 1,
     "publishedAt": "2026-05-18T09:20:56.767Z",
     "imageUrl": "https://external-preview.redd.it/hzjXIp6ZNRvYRMJ1WupwQkR4MZs1eahjiH3sMoK7F-M.jpeg?auto=webp&s=fd760d7b165f888bce808eba1633d1b27ed8b24f",
+    "inlineMedia": [],
     "sources": [
       {
         "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",

@@ -93,8 +93,13 @@ const copy = {
             <div class="compact-list">
               {items.slice(0, 2).map((article) => (
                 <a href={`/${article.lang}/${article.category}/${article.slug}`}>
-                  <span>{article.readingTime} min read · {article.sources.length} sources</span>
-                  <strong>{article.title}</strong>
+                  <div class="compact-thumb"
+                       style={article.imageUrl ? `background-image: url('${article.imageUrl}')` : ""}>
+                  </div>
+                  <div class="compact-copy">
+                    <span>{article.readingTime} min read · {article.sources.length} sources</span>
+                    <strong>{article.title}</strong>
+                  </div>
                 </a>
               ))}
             </div>
@@ -110,8 +115,13 @@ const copy = {
         <div class="archive-grid">
           {(archive.length ? archive : todayArticles.slice(0, 3)).map((article) => (
             <a class="thin-panel archive-item" href={`/${article.lang}/${article.category}/${article.slug}`}>
-              <span>{article.publishedAt.slice(0, 10)}</span>
-              <strong>{article.title}</strong>
+              <div class="archive-thumb"
+                   style={article.imageUrl ? `background-image: url('${article.imageUrl}')` : ""}>
+              </div>
+              <div class="archive-copy">
+                <span>{article.publishedAt.slice(0, 10)}</span>
+                <strong>{article.title}</strong>
+              </div>
             </a>
           ))}
         </div>
@@ -271,8 +281,24 @@ const copy = {
     border: 1px solid rgba(43, 46, 51, 0.82);
     border-radius: 14px;
     display: grid;
-    gap: 8px;
+    grid-template-columns: 72px 1fr;
+    gap: 12px;
+    align-items: center;
     background: rgba(17, 18, 20, 0.54);
+  }
+
+  .compact-thumb {
+    width: 72px;
+    height: 56px;
+    border-radius: 8px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(24, 26, 29, 0.8);
+  }
+
+  .compact-copy {
+    display: grid;
+    gap: 6px;
   }
 
   .compact-list span,
@@ -301,9 +327,24 @@ const copy = {
   }
 
   .archive-item {
-    padding: 15px;
+    padding: 0;
     display: grid;
-    gap: 8px;
+    gap: 0;
+    overflow: hidden;
+    border-radius: 12px;
+  }
+
+  .archive-thumb {
+    height: 110px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(24, 26, 29, 0.8);
+  }
+
+  .archive-copy {
+    padding: 12px;
+    display: grid;
+    gap: 6px;
   }
 
   @media (max-width: 1120px) {
