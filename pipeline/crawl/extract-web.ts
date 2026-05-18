@@ -9,9 +9,14 @@ export async function extractWebContent(item: SourceItem): Promise<SourceItem> {
     const extractedText = stripHtml(html).slice(0, 6_000);
     if (extractedText.length < item.rawSummary.length) return item;
 
+    // Extract og:image
+    const ogMatch = /<meta\b(?=[^>]*property=["']og:image["'])[^>]*content=["']([^"']+)["'][^>]*>/i.exec(html);
+    const imageUrl = ogMatch?.[1] || undefined;
+
     return {
       ...item,
-      extractedText
+      extractedText,
+      imageUrl: imageUrl || item.imageUrl,
     };
   } catch {
     if (item.extractedText) return item;

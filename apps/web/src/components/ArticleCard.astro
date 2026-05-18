@@ -8,7 +8,8 @@ const { article, featured = false } = Astro.props as { article: Article; feature
 ---
 
 <article class={`article-card ${featured ? "featured" : ""}`} data-bookmark-card={article.id}>
-  <a class="cover article-cover" href={articleUrl(article)} aria-label={article.title}>
+  <a class="cover article-cover" href={articleUrl(article)} aria-label={article.title}
+     style={article.imageUrl ? `background-image: url('${article.imageUrl}')` : ""}>
     <span class="cover-copy">
       <span>{localizeCategory(article.category, article.lang)}</span>
       {featured && <strong>Featured Analysis</strong>}
@@ -49,10 +50,26 @@ const { article, featured = false } = Astro.props as { article: Article; feature
   .cover {
     min-height: 164px;
     display: block;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
   }
 
   .featured .cover {
     min-height: 100%;
+  }
+
+  [style*="background-image"] .cover::before,
+  [style*="background-image"] .cover::after {
+    display: none;
+  }
+
+  [style*="background-image"] .cover {
+    background: 
+      linear-gradient(0deg, rgba(11, 12, 12, 0.85) 0%, rgba(11, 12, 12, 0.3) 40%, rgba(11, 12, 12, 0.1) 100%),
+      var(--bg-override);
+    background-size: cover !important;
+    background-position: center !important;
   }
 
   .cover-copy {

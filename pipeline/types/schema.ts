@@ -20,6 +20,7 @@ export type SourceItem = {
   score?: number;
   crawlStatus?: "live" | "fallback";
   crawlError?: string;
+  imageUrl?: string;
 };
 
 export type SourceNote = {
@@ -64,6 +65,7 @@ export type GeneratedArticleDraft = {
   tags: string[];
   sourceIds: string[];
   sourceUrls: string[];
+  imageUrl?: string;
   generation: {
     model: string;
     promptVersion: string;

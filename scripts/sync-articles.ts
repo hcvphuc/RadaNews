@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { GeneratedArticleDraft, SourceNote } from "../pipeline/types/schema.ts";
+import type { GeneratedArticleDraft, SourceItem, SourceNote } from "../pipeline/types/schema.ts";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 
@@ -19,6 +19,7 @@ type Article = {
   tags: string[];
   readingTime: number;
   publishedAt: string;
+  imageUrl?: string;
   sources: {
     title: string;
     sourceName: string;
@@ -67,6 +68,24 @@ async function main() {
     process.exit(0);
   }
 
+  // Load crawled source items for image URLs
+  let sourceItems: SourceItem[] = [];
+  const rawDir = resolve(root, "content/raw/mock");
+  try {
+    const files = await import("node:fs/promises").then((fs) => fs.readdir(rawDir));
+    const latest = files.filter((f) => f.endsWith(".json")).sort().pop();
+    if (latest) {
+      sourceItems = JSON.parse(await readFile(resolve(rawDir, latest), "utf-8"));
+    }
+  } catch { /* best-effort */ }
+
+  const imageUrlBySource = new Map<string, string>();
+  for (const item of sourceItems) {
+    if (item.imageUrl && item.id) {
+      imageUrlBySource.set(item.id, item.imageUrl);
+    }
+  }
+
   const articles: Article[] = [];
 
   for (const draftSet of drafts) {
@@ -82,6 +101,18 @@ async function main() {
         sourceType: n.sourceType,
         usedFor: "primary" as const,
       }));
+
+      // Find best image from source items
+      let bestImage = draft.imageUrl || undefined;
+      if (!bestImage && draft.sourceIds) {
+        for (const sid of draft.sourceIds) {
+          const img = imageUrlBySource.get(sid);
+          if (img) {
+            bestImage = img;
+            break;
+          }
+        }
+      }
 
       const genTime = draft.generation.generatedAt || new Date().toISOString();
       const slug = `${slugify(draft.title.slice(0, 60))}-${genTime.slice(0, 10)}`;
@@ -100,6 +131,7 @@ async function main() {
         tags: Array.isArray(draft.tags) ? draft.tags : [draft.category],
         readingTime: readingTime(draft.bodyMarkdown),
         publishedAt: genTime,
+        imageUrl: bestImage,
         sources: sources.length > 0 ? sources : [{
           title: draft.title,
           sourceName: "AI Radar",

@@ -30,6 +30,7 @@ export type Article = {
   tags: string[];
   readingTime: number;
   publishedAt: string;
+  imageUrl?: string;
   sources: {
     title: string;
     sourceName: string;

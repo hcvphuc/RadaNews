@@ -32,7 +32,8 @@ const otherVariant = getLanguageVariant(article, otherLang);
       </div>
     </header>
 
-    <div class="article-cover hero-cover" aria-hidden="true"></div>
+    <div class="article-cover hero-cover" aria-hidden="true"
+         style={article.imageUrl ? `background-image: url('${article.imageUrl}')` : ""}></div>
 
     <div class="article-layout">
       <aside class="toc thin-panel">
