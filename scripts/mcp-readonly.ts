@@ -83,7 +83,7 @@ async function handleRequest(request: JsonRpcRequest) {
     return callTool(request.params?.name, request.params?.arguments ?? {});
   }
 
-  throw new Error(`Unsupported method: ${request.method}`);
+  respond(request.id, undefined, `Unsupported method: ${request.method}`, -32601);
 }
 
 async function callTool(name: string | undefined, args: Record<string, unknown>) {
@@ -143,9 +143,9 @@ function textResult(text: string) {
   };
 }
 
-function respond(id: JsonRpcRequest["id"], result?: unknown, message?: string) {
+function respond(id: JsonRpcRequest["id"], result?: unknown, message?: string, code = -32000) {
   const payload = message
-    ? { jsonrpc: "2.0", id: id ?? null, error: { code: -32000, message } }
+    ? { jsonrpc: "2.0", id: id ?? null, error: { code, message } }
     : { jsonrpc: "2.0", id: id ?? null, result };
   process.stdout.write(`${JSON.stringify(payload)}\n`);
 }

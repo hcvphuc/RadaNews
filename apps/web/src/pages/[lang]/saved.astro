@@ -9,6 +9,7 @@ export function getStaticPaths() {
 
 const lang = Astro.params.lang as Lang;
 const articles = getArticles(lang);
+const articlesData = JSON.stringify(articles);
 ---
 
 <BaseLayout title="Saved - AI Radar" lang={lang} active="saved">
@@ -21,23 +22,39 @@ const articles = getArticles(lang);
       <div id="saved-list" data-lang={lang}></div>
     </div>
   </section>
-  <script is:inline define:vars={{ articles }}>
+  <script>
+    // @ts-nocheck - client-side DOM script
+    interface Article {
+      id: string;
+      lang: string;
+      category: string;
+      slug: string;
+      title: string;
+      subtitle: string;
+    }
+    const articles: Article[] = JSON.parse(`{articlesData}`);
     const KEY = "ai-radar.saved";
-    const saved = new Set(JSON.parse(localStorage.getItem(KEY) || "[]"));
-    const list = document.querySelector("#saved-list");
-    const matches = articles.filter((article) => saved.has(article.id));
-    list.innerHTML = matches.length
-      ? matches
-          .map(
-            (article) => `
-          <a class="saved-row" href="/${article.lang}/${article.category}/${article.slug}">
-            <span>${article.category}</span>
-            <strong>${article.title}</strong>
-            <small>${article.subtitle}</small>
-          </a>`
-          )
-          .join("")
-      : `<p>${document.documentElement.lang === "vi" ? "Chưa có bài viết nào được lưu." : "No saved articles yet."}</p>`;
+    const saved = new Set<string>(JSON.parse(localStorage.getItem(KEY) || "[]"));
+    const list = document.querySelector("#saved-list") as HTMLElement | null;
+    const lang = list?.getAttribute("data-lang") || "vi";
+
+    const matches = articles.filter((article: Article) => saved.has(article.id));
+    if (!list) {
+      console.warn("saved-list element not found");
+    } else {
+      list.innerHTML = matches.length
+        ? matches
+            .map(
+              (article: Article) => `
+            <a class="saved-row" href="/${article.lang}/${article.category}/${article.slug}">
+              <span>${article.category}</span>
+              <strong>${article.title}</strong>
+              <small>${article.subtitle}</small>
+            </a>`
+            )
+            .join("")
+        : `<p>${lang === "vi" ? "Chưa có bài viết nào được lưu." : "No saved articles yet."}</p>`;
+    }
   </script>
 </BaseLayout>
 

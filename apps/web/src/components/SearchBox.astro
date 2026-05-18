@@ -5,7 +5,13 @@ const { lang = "vi" } = Astro.props;
 <div class="search-panel panel">
   <label for="site-search">Search</label>
   <div class="search-row">
-    <input id="site-search" type="search" placeholder="Search articles, topics, models..." autocomplete="off" />
+    <input
+      id="site-search"
+      type="search"
+      placeholder="Search articles, topics, models..."
+      autocomplete="off"
+      autofocus
+    />
     <select id="category-filter" aria-label="Category">
       <option value="">All categories</option>
       <option value="ai-agentic">AI Agentic</option>
@@ -17,13 +23,16 @@ const { lang = "vi" } = Astro.props;
     </select>
   </div>
   <div id="search-results" class="results" data-lang={lang}></div>
+  <div id="search-status" class="status"></div>
 </div>
 
 <script>
   const results = document.querySelector("#search-results");
+  const status = document.querySelector("#search-status");
   const input = document.querySelector("#site-search");
   const select = document.querySelector("#category-filter");
   const lang = results?.getAttribute("data-lang") || "vi";
+
   type SearchRow = {
     id: string;
     lang: string;
@@ -40,63 +49,158 @@ const { lang = "vi" } = Astro.props;
     readingTime: number;
     url: string;
   };
+
   let index: SearchRow[] = [];
+  let tfidf = new Map<string, Map<string, number>>();
+  let idf = new Map<string, number>();
+  let debounceTimer: ReturnType<typeof setTimeout>;
+
+  function tokenize(text: string): string[] {
+    return text
+      .toLowerCase()
+      .replace(/[^\w\sàáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ]/g, " ")
+      .split(/\s+/)
+      .filter((t) => t.length > 1);
+  }
+
+  function docText(doc: SearchRow): string {
+    return [
+      doc.title,
+      doc.subtitle,
+      doc.categoryLabel,
+      ...doc.tags,
+      ...doc.tldr,
+      doc.body,
+      doc.whyItMatters,
+      doc.creatorTakeaway
+    ].join(" ");
+  }
 
   async function loadIndex() {
     const response = await fetch("/data/search/articles.json");
     index = await response.json();
+
+    // Build TF-IDF index
+    const langDocs = index.filter((d) => d.lang === lang);
+    const docTokens: string[][] = [];
+    const df = new Map<string, number>(); // document frequency
+
+    for (const doc of langDocs) {
+      const tokens = tokenize(docText(doc));
+      docTokens.push(tokens);
+      const uniqueTokens = new Set(tokens);
+      for (const t of uniqueTokens) {
+        df.set(t, (df.get(t) || 0) + 1);
+      }
+    }
+
+    // Compute IDF
+    const N = langDocs.length;
+    idf.clear();
+    for (const [term, count] of df) {
+      idf.set(term, Math.log((N + 1) / (count + 1)) + 1); // smoothed IDF
+    }
+
+    // Compute TF-IDF per document
+    tfidf.clear();
+    for (let i = 0; i < langDocs.length; i++) {
+      const tokens = docTokens[i];
+      const tf = new Map<string, number>();
+      for (const t of tokens) {
+        tf.set(t, (tf.get(t) || 0) + 1);
+      }
+      const maxTf = Math.max(...tf.values(), 1);
+      const scores = new Map<string, number>();
+      for (const [term, freq] of tf) {
+        const tfNorm = freq / maxTf;
+        const idfVal = idf.get(term) || 0;
+        scores.set(term, tfNorm * idfVal);
+      }
+      tfidf.set(langDocs[i].id, scores);
+    }
+
     render();
   }
 
   function render() {
-    if (!results) return;
+    if (!results || !status) return;
     const q = ((input instanceof HTMLInputElement ? input.value : "") || "").toLowerCase().trim();
     const category = (select instanceof HTMLSelectElement ? select.value : "") || "";
-    const matches = index
-      .filter((item) => item.lang === lang)
-      .filter((item) => !category || item.category === category)
-      .map((item) => ({ item, score: scoreItem(item, q) }))
-      .filter((match) => !q || match.score > 0)
-      .sort((a, b) => b.score - a.score || Date.parse(b.item.publishedAt) - Date.parse(a.item.publishedAt))
-      .map((match) => match.item)
-      .slice(0, 12);
+    const langDocs = index.filter((d) => d.lang === lang && (!category || d.category === category));
 
-    if (matches.length === 0) {
-      results.innerHTML = `<div class="empty">${lang === "vi" ? "Không có kết quả phù hợp." : "No matching results."}</div>`;
+    if (!q) {
+      // Show most recent articles when no query
+      const recent = langDocs
+        .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
+        .slice(0, 6);
+      status.textContent = `Showing ${recent.length} most recent articles`;
+      renderResults(recent, "");
       return;
     }
 
-    results.innerHTML = matches
+    const queryTokens = tokenize(q);
+    const scored = langDocs
+      .map((doc) => {
+        const scores = tfidf.get(doc.id);
+        if (!scores) return { doc, score: 0 };
+        let score = 0;
+        for (const t of queryTokens) {
+          score += scores.get(t) || 0;
+        }
+        // Boost exact phrase match in title
+        if (doc.title.toLowerCase().includes(q)) score += 3;
+        if (doc.subtitle.toLowerCase().includes(q)) score += 1.5;
+        return { doc, score };
+      })
+      .filter((m) => m.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 12);
+
+    status.textContent = scored.length
+      ? `${scored.length} results for "${q}"`
+      : `No results for "${q}"`;
+
+    renderResults(
+      scored.map((m) => m.doc),
+      q
+    );
+  }
+
+  function renderResults(items: SearchRow[], query: string) {
+    if (!results) return;
+    if (items.length === 0) {
+      results.innerHTML =
+        '<div class="empty">No matching results found. Try different keywords.</div>';
+      return;
+    }
+    results.innerHTML = items
       .map((item) => {
-        const meta = `${item.categoryLabel} · ${item.readingTime} min`;
+        const meta = `${item.categoryLabel} · ${item.readingTime} min read`;
         return `
           <a class="result" href="${escapeHtml(item.url)}">
             <span>${escapeHtml(meta)}</span>
-            <strong>${escapeHtml(item.title)}</strong>
-            <small>${escapeHtml(item.subtitle)}</small>
+            <strong>${highlight(escapeHtml(item.title), query)}</strong>
+            <small>${highlight(escapeHtml(truncate(item.subtitle, 150)), query)}</small>
           </a>
         `;
       })
       .join("");
   }
 
-  function scoreItem(item: SearchRow, q: string) {
-    if (!q) return Date.parse(item.publishedAt) / 1_000_000_000;
-    const terms = q.split(/\s+/).filter(Boolean);
-    const haystack = {
-      title: item.title.toLowerCase(),
-      subtitle: item.subtitle.toLowerCase(),
-      tags: item.tags.join(" ").toLowerCase(),
-      body: `${item.tldr.join(" ")} ${item.body} ${item.whyItMatters} ${item.creatorTakeaway}`.toLowerCase()
-    };
+  function highlight(text: string, query: string): string {
+    if (!query) return text;
+    const terms = tokenize(query);
+    let result = text;
+    for (const t of terms) {
+      const escaped = t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const regex = new RegExp(`(${escaped})`, "gi");
+      result = result.replace(regex, '<mark class="hl">$1</mark>');
+    }
+    return result;
+  }
 
-    return terms.reduce((sum, term) => {
-      if (haystack.title.includes(term)) return sum + 8;
-      if (haystack.tags.includes(term)) return sum + 5;
-      if (haystack.subtitle.includes(term)) return sum + 3;
-      if (haystack.body.includes(term)) return sum + 1;
-      return sum;
-    }, 0);
+  function truncate(text: string, maxLen: number): string {
+    return text.length > maxLen ? text.slice(0, maxLen) + "..." : text;
   }
 
   function escapeHtml(value: string) {
@@ -105,14 +209,17 @@ const { lang = "vi" } = Astro.props;
         "&": "&amp;",
         "<": "&lt;",
         ">": "&gt;",
-        "\"": "&quot;",
+        '"': "&quot;",
         "'": "&#039;"
       };
       return entities[char] || char;
     });
   }
 
-  input?.addEventListener("input", render);
+  input?.addEventListener("input", () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(render, 200);
+  });
   select?.addEventListener("change", render);
   loadIndex();
 </script>
@@ -146,10 +253,23 @@ const { lang = "vi" } = Astro.props;
     font-size: 14px;
   }
 
+  input:focus,
+  select:focus {
+    outline: none;
+    border-color: rgba(255, 138, 0, 0.55);
+  }
+
+  .status {
+    color: var(--muted);
+    font-size: 12px;
+    margin-top: 12px;
+    min-height: 18px;
+  }
+
   .results {
     display: grid;
     gap: 10px;
-    margin-top: 16px;
+    margin-top: 8px;
   }
 
   .result {
@@ -159,6 +279,12 @@ const { lang = "vi" } = Astro.props;
     border: 1px solid rgba(43, 46, 51, 0.86);
     border-radius: 12px;
     background: rgba(24, 26, 29, 0.55);
+    transition: border-color 160ms ease, background 160ms ease;
+  }
+
+  .result:hover {
+    border-color: rgba(255, 138, 0, 0.4);
+    background: rgba(24, 26, 29, 0.72);
   }
 
   .result span {
@@ -170,12 +296,20 @@ const { lang = "vi" } = Astro.props;
 
   .result strong {
     font-size: 15px;
+    color: white;
   }
 
   .result small {
     color: var(--muted);
     font-size: 13px;
     line-height: 1.45;
+  }
+
+  :global(.hl) {
+    background: rgba(255, 138, 0, 0.22);
+    color: #ffb347;
+    border-radius: 2px;
+    padding: 0 2px;
   }
 
   .empty {

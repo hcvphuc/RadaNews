@@ -16,6 +16,7 @@ jobs:
       AI_RADAR_MAX_ITEMS_PER_SOURCE: 5
       OLLAMA_ENDPOINT: ${{ secrets.OLLAMA_ENDPOINT }}
       OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
+      OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
