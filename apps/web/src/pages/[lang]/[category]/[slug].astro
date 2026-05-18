@@ -20,6 +20,9 @@ const { article } = Astro.props as { article: Article };
 const otherLang = article.lang === "vi" ? "en" : "vi";
 const otherVariant = getLanguageVariant(article, otherLang);
 const relatedArticles = getRelatedArticles(article);
+
+// Pre-compute style strings to avoid template literals in JSX
+const heroStyle = article.imageUrl ? "background-image: url(" + article.imageUrl + ")" : "";
 ---
 
 <BaseLayout title={`${article.title} - AI Radar`} lang={article.lang} active={article.category}>
@@ -40,8 +43,7 @@ const relatedArticles = getRelatedArticles(article);
       </div>
     </header>
 
-    <div class="article-cover hero-cover" aria-hidden="true"
-         style={article.imageUrl ? `background-image: url('${article.imageUrl}')` : ""}></div>
+    <div class="article-cover hero-cover" aria-hidden="true" style={heroStyle}></div>
 
     <div class="article-layout">
       <aside class="toc thin-panel">
@@ -65,52 +67,16 @@ const relatedArticles = getRelatedArticles(article);
         </section>
 
         <section id="analysis" class="article-prose">
+          {article.bodyMarkdown.split("\n\n").map((paragraph) => <p>{paragraph}</p>)}
           {
-            (() => {
-              const paragraphs = article.bodyMarkdown.split("\n\n");
-              const media = article.inlineMedia || [];
-              const chunks: Array<{ type: "p" | "media"; content: unknown }> = [];
-              let mediaIdx = 0;
-
-              for (let i = 0; i < paragraphs.length; i++) {
-                chunks.push({ type: "p", content: paragraphs[i] });
-                if (mediaIdx < media.length && i % 2 === 0) {
-                  chunks.push({ type: "media", content: media[mediaIdx++] });
-                }
-              }
-              return chunks.map((chunk) => {
-                if (chunk.type === "p") {
-                  return <p>{String(chunk.content)}</p>;
-                }
-                const m = chunk.content as {
-                  url: string;
-                  type: string;
-                  sourceName: string;
-                  sourceUrl: string;
-                };
-                return (
-                  <figure class="inline-media">
-                    {m.type === "image" ? (
-                      <img src={m.url} alt={m.sourceName} loading="lazy" />
-                    ) : (
-                      <div class="video-wrapper">
-                        <iframe
-                          src={m.url}
-                          frameborder="0"
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                          allowfullscreen
-                        />
-                      </div>
-                    )}
-                    <figcaption>
-                      Source: <a href={m.sourceUrl} target="_blank" rel="noreferrer">
-                        {m.sourceName}
-                      </a>
-                    </figcaption>
-                  </figure>
-                );
-              });
-            })()
+            article.inlineMedia && article.inlineMedia.length > 0 && article.inlineMedia.map((m) => (
+              <figure class="inline-media">
+                <img src={m.url} alt={m.sourceName} loading="lazy" />
+                <figcaption>
+                  Source: <a href={m.sourceUrl} target="_blank" rel="noreferrer">{m.sourceName}</a>
+                </figcaption>
+              </figure>
+            ))
           }
         </section>
 
@@ -145,7 +111,7 @@ const relatedArticles = getRelatedArticles(article);
             {relatedArticles.map((related) => (
               <a class="related-item" href={articleUrl(related)}>
                 <div class="related-thumb"
-                     style={related.imageUrl ? `background-image: url('${related.imageUrl}')` : ""}>
+                     style={related.imageUrl ? "background-image: url(" + related.imageUrl + ")" : ""}>
                 </div>
                 <div class="related-copy">
                   <span class="related-time">{formatDate(related.publishedAt, article.lang)}</span>

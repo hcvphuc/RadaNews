@@ -15,6 +15,11 @@ const lang = Astro.params.lang as Lang;
 const todayArticles = getTodayArticles(lang);
 const featured = getFeaturedArticle(lang);
 const archive = getArchiveArticles(lang);
+
+function bgStyle(url: string | undefined): string {
+  return url ? "background-image: url(" + url + ")" : "";
+}
+
 const copy = {
   vi: {
     title: "AI Radar - Today",
@@ -93,9 +98,7 @@ const copy = {
             <div class="compact-list">
               {items.slice(0, 2).map((article) => (
                 <a href={`/${article.lang}/${article.category}/${article.slug}`}>
-                  <div class="compact-thumb"
-                       style={article.imageUrl ? `background-image: url('${article.imageUrl}')` : ""}>
-                  </div>
+                  <div class="compact-thumb" style={bgStyle(article.imageUrl)}></div>
                   <div class="compact-copy">
                     <span>{article.readingTime} min read · {article.sources.length} sources</span>
                     <strong>{article.title}</strong>
@@ -115,9 +118,7 @@ const copy = {
         <div class="archive-grid">
           {(archive.length ? archive : todayArticles.slice(0, 3)).map((article) => (
             <a class="thin-panel archive-item" href={`/${article.lang}/${article.category}/${article.slug}`}>
-              <div class="archive-thumb"
-                   style={article.imageUrl ? `background-image: url('${article.imageUrl}')` : ""}>
-              </div>
+              <div class="archive-thumb" style={bgStyle(article.imageUrl)}></div>
               <div class="archive-copy">
                 <span>{article.publishedAt.slice(0, 10)}</span>
                 <strong>{article.title}</strong>
