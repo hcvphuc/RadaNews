@@ -9,41 +9,142 @@ export type Category =
   | "prompt-video";
 
 export type SourceType = "reddit" | "youtube" | "blog" | "x" | "other";
-
 export type SourceUse = "primary" | "context" | "discussion";
-
 export type ArticleStatus = "published" | "draft" | "failed";
-
 export type Confidence = "high" | "medium" | "low";
 
+// ── Media ──
+export type MediaType = "image" | "diagram" | "screenshot" | "comparison" | "video" | "embed";
+
+export type MediaBlock = {
+  type: MediaType;
+  src: string;
+  alt: string;
+  caption?: string;
+  credit?: string;
+  sourceUrl?: string;
+};
+
+// ── Highlights ──
+export type HighlightItem = {
+  text: string;
+};
+
+// ── Content Blocks (within sections) ──
+export type ParagraphBlock = {
+  type: "paragraph";
+  text: string;
+};
+
+export type ListBlock = {
+  type: "list";
+  items: string[];
+};
+
+export type SectionMediaBlock = {
+  type: "media";
+  mediaType: MediaType;
+  src: string;
+  alt: string;
+  caption?: string;
+  credit?: string;
+  sourceUrl?: string;
+  placement?: "after-heading" | "after-paragraph" | "inline";
+};
+
+export type CalloutBlock = {
+  type: "callout";
+  variant: "note" | "technical" | "warning" | "insight" | "context";
+  title?: string;
+  text: string;
+};
+
+export type QuoteBlock = {
+  type: "quote";
+  text: string;
+  attribution?: string;
+};
+
+export type CodeBlock = {
+  type: "code";
+  language?: string;
+  code: string;
+};
+
+export type ContentBlock =
+  | ParagraphBlock
+  | ListBlock
+  | SectionMediaBlock
+  | CalloutBlock
+  | QuoteBlock
+  | CodeBlock;
+
+// ── Section ──
+export type ArticleSection = {
+  id: string;
+  heading: string;
+  subheading?: string;
+  blocks: ContentBlock[];
+};
+
+// ── Insight Block ──
+export type InsightBlock = {
+  title: string;
+  text: string;
+  variant?: "analysis" | "impact" | "risk" | "opportunity" | "context";
+};
+
+// ── Takeaway ──
+export type TakeawayBlock = {
+  title?: string;
+  text?: string;
+  items?: string[];
+};
+
+// ── Source ──
+export type Source = {
+  title: string;
+  publisher?: string;
+  url: string;
+  publishedAt?: string;
+};
+
+// ── Article (new structured format) ──
 export type Article = {
   id: string;
   slug: string;
   lang: Lang;
+  status: ArticleStatus;
+
+  // Header
   category: Category;
   title: string;
-  subtitle: string;
-  tldr: string[];
-  bodyMarkdown: string;
-  whyItMatters: string;
-  creatorTakeaway: string;
-  tags: string[];
-  readingTime: number;
+  subtitle?: string;
   publishedAt: string;
-  imageUrl?: string;
-  inlineMedia?: {
-    url: string;
-    type: "image" | "video";
-    sourceName: string;
-    sourceUrl: string;
-  }[];
-  sources: {
-    title: string;
-    sourceName: string;
-    url: string;
-    sourceType: SourceType;
-    usedFor: SourceUse;
-  }[];
+  readingTime: number;
+  sourceCount?: number;
+  author?: string;
+  tags: string[];
+
+  // Media
+  heroMedia?: MediaBlock;
+
+  // Highlights (replaces TL;DR)
+  highlights?: HighlightItem[];
+
+  // Main content as structured sections
+  sections: ArticleSection[];
+
+  // Analysis blocks (replaces single whyItMatters)
+  insightBlocks?: InsightBlock[];
+
+  // Takeaway (replaces creatorTakeaway)
+  takeaway?: TakeawayBlock;
+
+  // Sources
+  sources: Source[];
+
+  // Generation metadata (unchanged)
   generation: {
     model: string;
     promptVersion: string;
@@ -51,9 +152,9 @@ export type Article = {
     sourceClusterId: string;
     confidence: Confidence;
   };
-  status: ArticleStatus;
 };
 
+// ── Pipeline types (unchanged) ──
 export type SourceItem = {
   id: string;
   sourceType: SourceType;
@@ -68,6 +169,7 @@ export type SourceItem = {
   transcript?: string;
   author?: string;
   score?: number;
+  imageUrl?: string;
 };
 
 export type SourceNote = {

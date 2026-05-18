@@ -5,11 +5,12 @@ import { localizeCategory } from "@/lib/categories";
 import type { Article } from "@/lib/schema";
 
 const { article, featured = false } = Astro.props as { article: Article; featured?: boolean };
+const coverImg = article.heroMedia?.src;
 ---
 
 <article class={`article-card ${featured ? "featured" : ""}`} data-bookmark-card={article.id}>
   <a class="cover article-cover" href={articleUrl(article)} aria-label={article.title}
-     style={article.imageUrl ? `background-image: url('${article.imageUrl}')` : ""}>
+     style={coverImg ? "background-image: url(" + coverImg + ")" : ""}>
     <span class="cover-copy">
       <span>{localizeCategory(article.category, article.lang)}</span>
       {featured && <strong>Featured Analysis</strong>}
