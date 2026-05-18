@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-18T08:09:10.245Z",
+    "publishedAt": "2026-05-18T08:28:41.740Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-18T08:09:14.754Z",
+    "publishedAt": "2026-05-18T08:28:43.161Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-18T08:09:09.153Z",
+    "publishedAt": "2026-05-18T08:28:40.698Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-18T08:09:09.479Z",
+    "publishedAt": "2026-05-18T08:28:47.244Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -123,9 +123,10 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Weekly thread to show off your AI Agents and LLM Apps!",
-      "Top voted projects will be featured in our weekly newsletter .",
-      "submitted by /u/help-me-grow [link] [comments]"
+      "Post: Weekly thread to show off your AI Agents and LLM Apps!",
+      "Top voted projects will be featured in our weekly [newsletter](http://ai-agents-weekly.beehiiv.com).",
+      "Top comments:\ni'm building the first agentic marketplace with automated clearinghouse: [https://github.com/meajsinghk/agnt](https://github.com/meajsinghk/agnt) see the demo on my X launch: [https://x.com/aj\\_singhjohal/status/2054546658386669861?s=20](https://x.com/aj_singhjohal/status/2054546658386669861?s=20) w\n\nBuilt a small open-source agent skill from SUN called `sun-to-spotify`.",
+      "It turns any topic or prompt into a ready-to-listen audio course, so notes, research, Slack updates, study material, product docs, or random rabbit holes can become something you can listen to on a walk/commute."
     ],
     "claims": [
       {
@@ -151,6 +152,8 @@
       "ai-agentic"
     ],
     "keyFacts": [
+      "Visa Sponsorship or Not\n\nTop comments:\nThank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki) *I am a bot, and this action was performed automatically.",
+      "Please [contact the moderators of this subr\n\nSummary: If you're hiring use this thread.",
       "Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
     ],
     "claims": [
@@ -177,7 +180,7 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’ve been paying $40 a month since January to run Claude Pro and ChatGPT Plus head-to-head.",
+      "Post: I’ve been paying $40 a month since January to run Claude Pro and ChatGPT Plus head-to-head.",
       "Tracked which tab I instinctively opened.",
       "Tracked where I had to copy-paste from one to the other because the first one failed.",
       "I’m sharing this because the comparison posts lately are ridiculously tribal, and the reality is far more boring than tech Twitter wants you to believe."
@@ -206,9 +209,9 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "I've been watching how AI agent products evolve their pricing over the last 18 months and I think we're heading somewhere specific.",
+      "Post: I've been watching how AI agent products evolve their pricing over the last 18 months and I think we're heading somewhere specific.",
       "Posting a prediction with my reasoning, would love pushback.",
-      "The prediction: By end of 2026, the dominant monetization model for AI agent products will look almost identical to AWS pricing.",
+      "**The prediction:** By end of 2026, the dominant monetization model for AI agent products will look almost identical to AWS pricing.",
       "Variable rates per dimension, real-time consumption tracking, customer-visible balances and usage, programmatic price changes via API."
     ],
     "claims": [
@@ -222,7 +225,7 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_reddit-aiagents_81949410f065ac4f",
@@ -259,7 +262,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-18T08:09:09.430Z",
+    "publishedAt": "2026-05-18T08:28:40.953Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +288,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-18T08:09:10.234Z",
+    "publishedAt": "2026-05-18T08:28:41.926Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +317,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-18T08:09:09.528Z",
+    "publishedAt": "2026-05-18T08:28:42.236Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -351,7 +354,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "NeuralCompanion is an open-source, local-first AI companion project for people who like building, experimenting, and seeing how far personal AI can go on their own hardware.",
+      "Post: NeuralCompanion is an open-source, local-first AI companion project for people who like building, experimenting, and seeing how far personal AI can go on their own hardware.",
       "It brings together realtime voice chat, local LLMs, TTS/STT, image generation, interactive tutorials, API-friendly workflows, and a modular addon system into one desktop app designed to be flexible, hackable, and genuinely fun to explore.",
       "NC also supports avatar systems and avatar engines like VSeeFace, VAM/VAM2, and other experimental realtime avatar workflows.",
       "It is still experimental and a little rough around the edges in places, but that is part of the project."
@@ -381,7 +384,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "I'm a huge fan of lodestones/Chroma, as it's very good at realism, creativity, and overall freedom.",
+      "Post: I'm a huge fan of lodestones/Chroma, as it's very good at realism, creativity, and overall freedom.",
       "It is based on FLUX.1-schnell, so it's a bit of an older architecture by now.",
       "One thing I like the most about Chroma is the incredible team and community behind it especially the Legendary Lodestones and the almighty, wise Silver.",
       "As it must be a monumental load of time effort and work to create a good model like this."
@@ -411,7 +414,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Was playing around with GPT Image 2 on 2K medium and ended up with about 1000 images that all have this liminal space / dreamcore feel.",
+      "Post: Was playing around with GPT Image 2 on 2K medium and ended up with about 1000 images that all have this liminal space / dreamcore feel.",
       "Empty indoor pools, weird corridors, foggy parking lots at night, that sort of thing.",
       "Instead of letting them sit on my drive I packaged everything up and put it on Hugging Face.",
       "Could be decent for fine-tuning SD models or just as a reference set for this aesthetic."
@@ -471,7 +474,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Something I've been experimenting working on in my free time.",
+      "Post: Something I've been experimenting working on in my free time.",
       "Since KV Edit works well with curated prompts, it allows you to create/save prompts to reuse when you need them and combine prompts.",
       "(default has no prompts pre-configured) They save to the cache once created.",
       "Fully editable with drag and drop to reorganize everything."
@@ -487,7 +490,7 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_reddit-comfyui_a5ede4bc4c38e4dd",
@@ -501,7 +504,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Hey guys, running the 10Eros LikenessGuideHelper I2V v3.2 workflow from TenStrip and it takes about 10 minutes for a 19 second clip at 1000x1744.",
+      "Post: Hey guys, running the 10Eros LikenessGuideHelper I2V v3.2 workflow from TenStrip and it takes about 10 minutes for a 19 second clip at 1000x1744.",
       "Wondering if I'm leaving performance on the table.",
       "My rig is a 5070 Ti (16GB), 64GB DDR5, WD BLACK SN7100 NVMe Gen5 SSD, Ubuntu.",
       "The problem is pretty obvious — the 10Eros checkpoint is like 29GB in fp8 mixed so it just doesn't fit in 16GB VRAM."
@@ -531,8 +534,10 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Tried allmost everything, starting from editing bat to custom nodes...",
-      "Console logs: https://docs.google.com/document/d/1NA1qGq3Hiw0Coxy3j27rrlOVoTps019aRzikoS3zPNM/edit?usp=drive_link Json: https://docs.google.com/document/d/1b6mfZ370ZpzNzQlyD00WMSESY_Z9Y6q0peMMke_wbyg/edit?usp=drive_link submitted by /u/Creative_aidumpster [link] [comments]"
+      "Post: Tried allmost everything, starting from editing bat to custom nodes...",
+      "Console logs: [https://docs.google.com/document/d/1NA1qGq3Hiw0Coxy3j27rrlOVoTps019aRzikoS3zPNM/edit?usp=drive\\_link](https://docs.google.com/document/d/1NA1qGq3Hiw0Coxy3j27rrlOVoTps019aRzikoS3zPNM/edit?usp=drive_link) Json: [https://docs.google.com/document/d/1b6mfZ370ZpzNzQlyD00WMSESY\\_Z9Y6q0peMMke\\_wbyg/edit?usp=drive\\_link](https://docs.google.com/document/d/1b6mfZ370ZpzNzQlyD00WMSESY_Z9Y6q0peMMke_wbyg/edit?usp=drive_link)\n\nTop comments:\nYou got my attention.",
+      "How do you even know it's loading as bf16?",
+      "I'm not the right person to answer this, but if you load the model with kijai checkpoint loader, you have some options about fp types."
     ],
     "claims": [
       {
@@ -559,41 +564,14 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "submitted by /u/boricuapab [link] [comments]"
+      "There's nothing in the YouTube video description either.",
+      "There's literally no reason for the vid without sharing the workflow\n\nSummary: submitted by /u/boricuapab [link] [comments]"
     ],
     "claims": [
       {
         "text": "submitted by /u/boricuapab [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/comfyui/comments/1tg5869/comfy_ui_ltx_23_t2v_crisp_enhance_lora_wedges/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_516c6409f31de6ee",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/",
-    "title": "camera angle to show all sides of room",
-    "publishedAt": "2026-05-18T07:20:55.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "how to see all the four sides of the room keeping same theme and style, i trying qwen multi angle camera tool, but its not so good i used klein prompt like show the left ride of this room but still nothing.",
-      "especially like to generate the other side of the door or wall after entering thru it.any suggestions, submitted by /u/NefariousnessFun4043 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "how to see all the four sides of the room keeping same theme and style, i trying qwen multi angle camera tool, but its not so good i used klein prompt like show the left ride of this room but still nothing. especially like to generate the other side of the door or wall after entering thru it.any suggestions, submitted by /u/NefariousnessFun4043 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/"
       }
     ],
     "usableFor": [
@@ -614,10 +592,10 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "hey all, just wanted to drop a note that v2.6.0 is out!",
+      "Post: hey all, just wanted to drop a note that v2.6.0 is out!",
       "It has a cool new infinite generation mode feature that was contributed by a new contributor on the github repo, plus some quality of life improvements for the image viewer.",
       "The new infinite generation mode is opt in via a new preference under Menu > Server > Preferences > Enable infinite mode.",
-      "Give it a try and feel free to drop me any feedback or feature requests using the also recently added feedback tool (reachable at the bottom of the menu) https://registry.comfy.org/publishers/cosmicbuffalo/nodes/comfyui-mobile-frontend submitted by /u/galactic_lobster [link] [comments]"
+      "Give it a try and feel free to drop me any feedback or feature requests using the also recently added feedback tool (reachable at the bottom of the menu) [https://registry.comfy.org/publishers/cosmicbuffalo/nodes/comfyui-mobile-frontend](https://registry.comfy.org/publishers/cosmicbuffalo/nodes/comfyui-mobile-frontend)\n\nTop comments:\nnice work on the update!"
     ],
     "claims": [
       {
@@ -633,12 +611,42 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-comfyui_516c6409f31de6ee",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/",
+    "title": "camera angle to show all sides of room",
+    "publishedAt": "2026-05-18T07:20:55.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Post: how to see all the four sides of the room keeping same theme and style, i trying qwen multi angle camera tool, but its not so good i used klein prompt like show the left ride of this room but still nothing.",
+      "especially like to generate the other side of the door or wall after entering thru it.any suggestions,\n\nTop comments:\nTry using depth estimation models first to get better spatial understanding of your room layout before feeding it to the multi angle tool.",
+      "I had similar issues where the model would just generate random stuff instead of maintaining spatial consistency.",
+      "What works better for me is using controlnet wi\n\n> i trying qwen multi angle camera tool, but its not so good You mean Qwen Edit Multi-Angle LoRA or something else?"
+    ],
+    "claims": [
+      {
+        "text": "how to see all the four sides of the room keeping same theme and style, i trying qwen multi angle camera tool, but its not so good i used klein prompt like show the left ride of this room but still nothing. especially like to generate the other side of the door or wall after entering thru it.any suggestions, submitted by /u/NefariousnessFun4043 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_runway-research_4c72ae34dd32cd2b",
     "sourceType": "blog",
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-18T08:09:09.425Z",
+    "publishedAt": "2026-05-18T08:28:40.865Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -667,7 +675,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-18T08:09:09.551Z",
+    "publishedAt": "2026-05-18T08:28:41.453Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -696,7 +704,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-18T08:09:10.211Z",
+    "publishedAt": "2026-05-18T08:28:42.552Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -731,7 +739,8 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "This post contains content not supported on old Reddit.",
+      "Post: This post contains content not supported on old Reddit.",
+      "[Click here to view the full post](https://sh.reddit.com/r/aivideo/comments/1tbrjwg)\n\nSummary: This post contains content not supported on old Reddit.",
       "Click here to view the full post submitted by /u/browsecarousel [link] [comments]"
     ],
     "claims": [
@@ -759,10 +768,10 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION .",
-      "WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
+      "# UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS **COMING TO** [r/aivideo](r/aivideo) **LIVE FROM LAS VEGAS, NEVADA** **AIRING EXCLUSIVELY HERE ON** [r/aivideo](r/aivideo) **REDDIT** **AN ORIGINAL** [r/aivideo](r/aivideo) **PRODUCTION** .",
+      "**WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET** **AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
       "REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY.",
-      "ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
+      "ALL VIDEOS SUBMITTED TO** [r/aivideo](r/aivideo) **ARE AUTOMATICALLY ENTERED IN THE RACE** **THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY** **AI VIDEO AWARDS IS AN ORIGINAL** [r/aivideo](r/aivideo) **PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI** # WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE # https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
     ],
     "claims": [
       {
@@ -789,7 +798,9 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/kango888 [link] [comments]"
+      "Top comments:\nThat was nice of Jason to abandon all of his machetes when he had the advantage.",
+      "#CHAMA\n\n1- He'd never beat Jason 2- It's spelled \"villains\".",
+      "Summary: submitted by /u/kango888 [link] [comments]"
     ],
     "claims": [
       {
@@ -816,7 +827,8 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/Used_Ship_9229 [link] [comments]"
+      "Top comments:\nThese are getting a bit predictable now.",
+      "Baggio :(\n\n*smooch\n\nSummary: submitted by /u/Used_Ship_9229 [link] [comments]"
     ],
     "claims": [
       {
@@ -843,7 +855,7 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/flipflop-dude [link] [comments]"
+      "written, edited and directed 👉 MRABUJOE\n\nAnother ai movie that beats anything Hollywood has shown me in years\n\nSummary: submitted by /u/flipflop-dude [link] [comments]"
     ],
     "claims": [
       {
@@ -864,7 +876,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-18T08:09:10.053Z",
+    "publishedAt": "2026-05-18T08:28:41.234Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -893,7 +905,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-18T08:09:09.567Z",
+    "publishedAt": "2026-05-18T08:28:41.073Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -922,7 +934,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-18T08:09:09.497Z",
+    "publishedAt": "2026-05-18T08:28:41.173Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -949,7 +961,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-18T08:09:09.569Z",
+    "publishedAt": "2026-05-18T08:28:41.361Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -978,7 +990,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-18T08:09:09.601Z",
+    "publishedAt": "2026-05-18T08:28:41.116Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1014,10 +1026,10 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Thanks for testing our V8.0 model over the last month!",
-      "Today we're releasing our next version of V8 - V8.1 What’s new in V8.1?",
-      "V8.1 has a consistent and familiar aesthetic in the spirit of V7 .",
-      "Moodboards and srefs are now super stable and will be everything you love."
+      "Post: Thanks for testing our V8.0 model over the last month!",
+      "Today we're releasing our next version of V8 - V8.1 **What’s new in V8.1?** * **V8.1 has a consistent and familiar aesthetic in the spirit of V7**.",
+      "Moodboards and srefs are now super stable and will be everything you love.",
+      "* **HD mode is now 3x faster and 3x cheaper**."
     ],
     "claims": [
       {
@@ -1044,9 +1056,9 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com .",
+      "Today we’re letting the community test an early version of our V8 model on [alpha.midjourney.com](https://alpha.midjourney.com).",
       "Let’s explore what this new model can do!",
-      "It’s much better at following detailed directions and will still surprise you when you ask.",
+      "**V8 is an incredible model.** It’s much better at following detailed directions and will still surprise you when you ask.",
       "Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing."
     ],
     "claims": [
@@ -1060,7 +1072,7 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_reddit-midjourney_975cff191eaa24ce",
@@ -1074,7 +1086,9 @@
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/GaryWray [link] [comments]"
+      "I genuinely want my house to look like this.",
+      "Maybe I can at least design the basement like this one day 😭\n\nhttps://preview.redd.it/afyq85wrbs1h1.jpeg?width=3384&format=pjpg&auto=webp&s=06a61a491b4e62215267d8c808638cd4ceb63865\n\nPsychedelic and chill.",
+      "I want to be a vampire in there for sure\n\nSummary: submitted by /u/GaryWray [link] [comments]"
     ],
     "claims": [
       {
@@ -1101,7 +1115,7 @@
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/EleanorKalatheraine [link] [comments]"
+      "Top comments:\n![gif](giphy|Lz6971fkGSgCMOOncl)\n\nSummary: submitted by /u/EleanorKalatheraine [link] [comments]"
     ],
     "claims": [
       {
@@ -1117,24 +1131,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_51241c29e112183d",
+    "sourceId": "src_reddit-midjourney_a1ff391fc46ed638",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tfwdpv/reaper_and_demons/",
-    "title": "Reaper and Demons",
-    "publishedAt": "2026-05-17T17:45:06.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/",
+    "title": "Reaper",
+    "publishedAt": "2026-05-17T23:31:12.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Scary-Demand7252 [link] [comments]"
+      "Top comments:\nEl ángel de chatarra aguarda bajo un halo de hierro, custodiando el silencio del páramo.",
+      "La composición presenta una figura bípede con extremidades mecánicas, alas de engranajes y un arma de gran escala con restos orgánicos.",
+      "Cyberpunk Death\n\nSummary: submitted by /u/Tinsnow1 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Scary-Demand7252 [link] [comments]",
+        "text": "submitted by /u/Tinsnow1 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tfwdpv/reaper_and_demons/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/"
       }
     ],
     "usableFor": [
@@ -1149,7 +1165,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-18T08:09:11.456Z",
+    "publishedAt": "2026-05-18T08:28:41.611Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1184,7 +1200,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/Wiskkey [link] [comments]"
+      "Top comments:\nGreat news, open source replications of DALL-E are being worked on.",
+      "Code is out but you'll need to be a ML developer to know what to do with it, so we wait and see what happens.",
+      "https://github.com/lucidrains/DALLE-pytorch https://github.com/EleutherAI/DALLE-mtf\n\nThe six month time limit before posts are archived has been lifted.",
+      "Feel free to comment about new developments as you wish."
     ],
     "claims": [
       {
@@ -1211,7 +1230,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved.",
+      "Post: In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved.",
       "Basically, individual images or albums you created in Midjourney/Stable Diffusion/DALL-E 2 would not be enough to get approved.",
       "For those, the dedicated subreddits are more fitting I.e.",
       "/r/midjourney /r/StableDiffusion /r/dalle2 /r/deepdream \"But that will kill this forum's traffic!\" Almost certainly, but it'd be for the purpose of reorienting it."
@@ -1241,7 +1260,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/gwern [link] [comments]"
+      "Summary: submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1268,10 +1287,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "Most AI videos are generated in minutes.",
+      "Post: Most AI videos are generated in minutes.",
       "Character design, scenario, lyrics, scene composition — I directed every single detail by hand.",
       "An 8-minute AI musical film called GOD IS DEAD.",
-      "Watch the full version here: https://youtu.be/uS9wHPBSqUo Tools used: SUNO AI : Song production & narration/dialogue reading Wan2.5 Speak, Sync Lipsync 2 Pro, Kling Avatars 2.0 : Lip-sync work aligned to audio Nanobanana, Freepik Space Nord, Freepik App : Image generation, character sheet production & character design Kling 3.0, Runway Gen 4.5, Higsfield Cinema Studio 2.5 Seadance 1.5, Higsfield App (Transitions) : Image-to-video conversion & video asset production ChatGPT, Claude : AI prompt creation, story assistance & English translation submitted by /u/HANSHIN_93hz [link] [comments]"
+      "Watch the full version here: [https://youtu.be/uS9wHPBSqUo](https://youtu.be/uS9wHPBSqUo) Tools used: SUNO AI : Song production & narration/dialogue reading Wan2.5 Speak, Sync Lipsync 2 Pro, Kling Avatars 2.0 : Lip-sync work aligned to audio Nanobanana, Freepik Space Nord, Freepik App : Image generation, character sheet production & character design Kling 3.0, Runway Gen 4.5, Higsfield Cinema Studio 2.5 Seadance 1.5, Higsfield App (Transitions) : Image-to-video conversion & video asset production ChatGPT, Claude : AI prompt creation, story assistance & English translation\n\nTop comments:\nProof that no matter how much effort someone puts in the current technology is unable to deliver\n\n57 days to make something that looks exactly like every other AI video\n\nAwesome!"
     ],
     "claims": [
       {
@@ -1298,7 +1317,8 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/gwern [link] [comments]"
+      "Top comments:\nThey look fake and not impactful.",
+      "Summary: submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1319,7 +1339,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-18T08:09:09.732Z",
+    "publishedAt": "2026-05-18T08:28:41.446Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1327,10 +1347,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 7 days ago • 20 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 3 days ago • 14 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 3 days ago • 11 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 330 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 161 CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models lablab-ai-amd-developer-hackathon • 10 days ago • 8 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 3 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 853 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 334 QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices qvac • 11 days ago • 16 Hugging Face on JFrog Artifactory: An Enterprise Guide (and What Changes in June 2026) jeffboudier • 10 days ago • 5 Safety Evals Should Project Test-Time Compute Cerru02 • 7 days ago • 3 You do the work.",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 7 days ago • 20 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 3 days ago • 14 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 3 days ago • 11 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 330 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 161 CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models lablab-ai-amd-developer-hackathon • 10 days ago • 8 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 4 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 853 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 334 QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices qvac • 11 days ago • 16 Hugging Face on JFrog Artifactory: An Enterprise Guide (and What Changes in June 2026) jeffboudier • 10 days ago • 5 Safety Evals Should Project Test-Time Compute Cerru02 • 7 days ago • 3 You do the work.",
       "urroxyz • 6 days ago • 3 Self Evolving is the Endgame or final destiny rajkumarrawal • 6 days ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 152 Common AI Model Formats ngxson • Feb 27, 2025 • 71 DualPipe Explained: A Comprehensive Guide to DualPipe That Anyone Can Understand—Even Without a Distributed Training Background NormalUhr • Feb 28, 2025 • 19 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 118 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 21 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 44 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 EMO: Pretraining mixture of experts for emergent modularity 33 May 8, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 8 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 70 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 9 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 55 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 8 April 27, 2026 llm moe long-context DeepSeek-V4: a million-token context that agents can actually use 45 April 24, 2026 guide transformers.js javascript How to Use Transformers.js in a Chrome Extension 37 April 23, 2026 QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard 12 April 21, 2026 cybersecurity open-source community AI and the Future of Cybersecurity: Why Openness Matters 38 April 21, 2026 Previous 1 2 3 ...",
       "56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 7 days ago • 20 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 3 days ago • 14 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 3 days ago • 11 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 330 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 161 CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models lablab-ai-amd-developer-hackathon • 10 days ago • 8 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 3 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 853 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 334 QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices qvac • 11 days ago • 16 Hugging Face on JFrog Artifactory: An Enterprise Guide (and What Changes in June 2026) jeffboudier • 10 days ago • 5 Safety Evals Should Project Test-Time Compute Cerru02 • 7 days ago • 3 You do the work."
+      "Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 7 days ago • 20 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 3 days ago • 14 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 3 days ago • 11 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 330 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 161 CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models lablab-ai-amd-developer-hackathon • 10 days ago • 8 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 4 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 853 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 334 QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices qvac • 11 days ago • 16 Hugging Face on JFrog Artifactory: An Enterprise Guide (and What Changes in June 2026) jeffboudier • 10 days ago • 5 Safety Evals Should Project Test-Time Compute Cerru02 • 7 days ago • 3 You do the work."
     ],
     "claims": [
       {
@@ -1501,7 +1521,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-18T08:09:09.819Z",
+    "publishedAt": "2026-05-18T08:28:41.207Z",
     "categoryHints": [
       "ai-agentic"
     ],

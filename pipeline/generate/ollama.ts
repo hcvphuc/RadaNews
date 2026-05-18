@@ -63,8 +63,6 @@ async function generateWithChatCompletions(
     messages,
     temperature: 0.45,
     max_tokens: 3000,
-    // Explicitly disable thinking for non-reasoning tasks (Ollama cloud default)
-    reasoning_effort: "disabled",
   };
 
   try {
