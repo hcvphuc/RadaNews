@@ -51,9 +51,8 @@ const { lang = "vi" } = Astro.props;
   };
 
   let index: SearchRow[] = [];
-  let tfidf = new Map<string, Map<string, number>>(); // docId -> {term: tfidf}
-  let idf = new Map<string, number>(); // term -> idf
-  let allTerms: string[] = [];
+  let tfidf = new Map<string, Map<string, number>>();
+  let idf = new Map<string, number>();
   let debounceTimer: ReturnType<typeof setTimeout>;
 
   function tokenize(text: string): string[] {
@@ -98,7 +97,6 @@ const { lang = "vi" } = Astro.props;
     // Compute IDF
     const N = langDocs.length;
     idf.clear();
-    allTerms = [...df.keys()];
     for (const [term, count] of df) {
       idf.set(term, Math.log((N + 1) / (count + 1)) + 1); // smoothed IDF
     }
