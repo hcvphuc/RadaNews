@@ -1,0 +1,1180 @@
+// Auto-generated from pipeline output — do not edit manually
+// Generated at: 2026-05-18T08:38:44.677Z
+import type { Article } from "@/lib/schema";
+
+export const generatedArticles: Article[] = [
+  {
+    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18_vi",
+    "slug": "toan-canh-oi-moi-ai-video-va-hinh-anh-tu-runway-ai-en-flu-2026-05-18",
+    "lang": "vi",
+    "category": "ai-image",
+    "title": "Toàn cảnh Đổi mới AI Video và Hình ảnh: Từ Runway AI đến FLUX Outpainting",
+    "subtitle": "Sự giao thoa giữa các mô hình thế giới (World Models) và các công cụ sáng tạo mở đang định hình lại tương lai của nội dung số.",
+    "tldr": [
+      "Runway AI tiếp tục tiên phong trong việc xây dựng các 'mô hình mô phỏng thế giới' đa phương thức thông qua video.",
+      "Black Forest Labs ra mắt tính năng FLUX Outpainting, cho phép mở rộng hình ảnh không giới hạn mà vẫn giữ nguyên chất lượng.",
+      "Midjourney tiến gần hơn đến sự hoàn thiện với phiên bản V8.1 Alpha, tối ưu hóa tốc độ render HD và độ ổn định của style.",
+      "Cộng đồng mã nguồn mở (ComfyUI, Stable Diffusion) đang phát triển mạnh mẽ với các công cụ tự động hóa caption và giao diện di động."
+    ],
+    "bodyMarkdown": "Lĩnh vực AI tạo hình ảnh và video đang chuyển dịch từ việc chỉ tạo ra các khung hình đơn lẻ sang việc xây dựng những hệ thống hiểu biết sâu sắc về vật lý và không gian.\n\n### Runway AI và Tầm nhìn về 'Mô hình Thế giới'\nRunway Research hiện đang tập trung vào việc phát triển các trình mô phỏng đa phương thức tổng quát. Thay vì chỉ coi video là một chuỗi hình ảnh, Runway tin rằng các mô hình sử dụng video làm đầu vào/đầu ra chính, kết hợp với văn bản và âm thanh, sẽ tạo ra một paradigm (mô hình) tính toán mới. Các dự án như Gen-4 và Aleph cho thấy tham vọng biến AI thành một công cụ hiểu và tái tạo thế giới thực một cách chính xác.\n\n### Bước tiến từ Black Forest Labs và Midjourney\nTrong khi đó, các công cụ tạo hình ảnh đang tập trung vào khả năng kiểm soát và mở rộng:\n* **FLUX Outpainting:** Black Forest Labs vừa giới thiệu khả năng mở rộng hình ảnh ra ngoài khung hình gốc theo bất kỳ hướng nào, đảm bảo sự liền mạch về ánh sáng, kết cấu và bố cục.\n* **Midjourney V8.1 Alpha:** Phiên bản mới nhất mang lại sự cải thiện đáng kể về hiệu suất. Chế độ HD hiện nhanh hơn và rẻ hơn gấp 3 lần, đồng thời các tính năng như Moodboards và Srefs (style references) trở nên ổn định hơn, giúp nghệ sĩ duy trì phong cách nhất quán qua nhiều tác phẩm.\n\n### Sức sống từ Cộng đồng Mã nguồn Mở\nKhông nằm ngoài cuộc đua, hệ sinh thái mã nguồn mở đang chứng kiến sự bùng nổ của các công cụ hỗ trợ:\n* **ComfyUI:** Vừa ra mắt Mobile-Frontend v2.6.0 với chế độ 'infinite generation' (tạo hình vô hạn), đưa khả năng điều khiển workflow phức tạp lên thiết bị di động.\n* **Sáng tạo cộng đồng:** Các mô hình như *Chroma* (dựa trên FLUX.1-schnell) tiếp tục chứng minh sức mạnh của cộng đồng trong việc tối ưu hóa tính thực tế và tự do sáng tạo, đối trọng với xu hướng đóng mã nguồn của nhiều công ty lớn.\n* **Tối ưu hóa quy trình:** Việc xuất hiện các bộ dữ liệu chuyên biệt (như Liminal-Dreamcore 1K trên Hugging Face) và các công cụ tự động tạo caption cho LoRA cho thấy quy trình huấn luyện AI đang trở nên dân chủ hóa và dễ tiếp cận hơn.",
+    "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+    "creatorTakeaway": "Các nhà sáng tạo nên tận dụng sự kết hợp giữa sức mạnh thương mại (Midjourney V8.1 cho tốc độ/chất lượng) và sự linh hoạt của mã nguồn mở (ComfyUI cho workflow tùy chỉnh) để tối ưu hóa quy trình sản xuất nội dung.",
+    "tags": [
+      "AI Video",
+      "Runway AI",
+      "FLUX",
+      "Midjourney",
+      "ComfyUI",
+      "Generative AI"
+    ],
+    "readingTime": 3,
+    "publishedAt": "2026-05-18T08:29:11.933Z",
+    "sources": [
+      {
+        "title": "Stability AI Blog signal for ai-image",
+        "sourceName": "Stability AI Blog",
+        "url": "https://stability.ai/news/rss",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Blog | Black Forest Labs",
+        "sourceName": "Black Forest Labs",
+        "url": "https://blackforestlabs.ai/blog/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Blog – Replicate",
+        "sourceName": "Replicate Blog",
+        "url": "https://replicate.com/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Captivating Chroma",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tg5nit/captivating_chroma/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Generated 1000 liminal/dreamcore images with GPT Image 2 and put them in a dataset - could be useful for training",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tg3rym/generated_1000_liminaldreamcore_images_with_gpt/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "[LoRA Training] Auto-caption generator recommendation?",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tgd3zo/lora_training_autocaption_generator_recommendation/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "[WIP] Klein 2 KV Edit Web UI / Prompt Builder",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tg5aav/wip_klein_2_kv_edit_web_ui_prompt_builder/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Can't load fp8 as fp8, LTX 2.3",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tfs0yh/cant_load_fp8_as_fp8_ltx_23/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "ComfyUI-Mobile-Frontend v2.6.0 Released",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tgc5yj/comfyuimobilefrontend_v260_released/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "AI Video Research & Innovation | Runway AI",
+        "sourceName": "Runway Research",
+        "url": "https://runwayml.com/research",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "ComfyUI Blog | Robin | Substack",
+        "sourceName": "ComfyUI Blog",
+        "url": "https://blog.comfy.org/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "V8.1 Alpha is out!",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "V8 alpha is here!",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Probable changes to the subreddit",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v1",
+      "generatedAt": "2026-05-18T08:29:11.933Z",
+      "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18_en",
+    "slug": "the-new-frontier-of-generative-visuals-from-world-models-to-2026-05-18",
+    "lang": "en",
+    "category": "ai-image",
+    "title": "The New Frontier of Generative Visuals: From World Models to Precision Outpainting",
+    "subtitle": "Runway AI, Black Forest Labs, and Midjourney push the boundaries of spatial intelligence and creative control.",
+    "tldr": [
+      "Runway AI is pivoting toward 'multimodal simulators' to create general-purpose world models.",
+      "Black Forest Labs introduced FLUX Outpainting, allowing seamless image extension in any direction.",
+      "Midjourney V8.1 Alpha brings 3x faster HD mode and stabilized style references (srefs).",
+      "Open-source communities are innovating with custom Web UIs for KV Edit and mobile frontends for ComfyUI."
+    ],
+    "bodyMarkdown": "The landscape of AI image and video generation is shifting from simple prompt-to-pixel outputs toward a deeper understanding of spatial physics and granular user control.\n\n### The Rise of World Models\nRunway AI is leading the charge toward a new computing paradigm. Rather than treating video as a sequence of frames, Runway's research focuses on building **general-purpose multimodal simulators of the world**. By integrating video as the primary modality—supplemented by text and audio—Runway aims to create models that understand the underlying laws of the physical world, moving beyond mere animation toward true simulation.\n\n### Precision and Expansion in Image Gen\nWhile Runway focuses on the macro-scale of world simulation, other labs are refining the micro-scale of image manipulation:\n\n*   **Black Forest Labs** has released **FLUX Outpainting**, a feature designed to extend images beyond their original frames. The tool preserves lighting, texture, and composition, eliminating visible seams during expansion.\n*   **Midjourney** has entered the V8.1 Alpha phase. This update prioritizes efficiency and consistency, making **HD mode 3x faster and cheaper** while stabilizing moodboards and style references (srefs) to ensure a familiar aesthetic reminiscent of V7.\n\n### The Open-Source Ecosystem's Edge\nParallel to these corporate breakthroughs, the community is building the infrastructure to make these models more accessible. Recent developments include:\n\n*   **ComfyUI-Mobile-Frontend v2.6.0**: Now featuring an 'infinite generation mode' for streamlined mobile workflows.\n*   **KV Edit Web UI**: A work-in-progress prompt builder for the Klein 2 model that allows creators to save and combine curated prompts via a drag-and-drop interface.\n*   **Community Datasets**: Creators are leveraging GPT Image 2 to generate specialized datasets (such as 'liminal/dreamcore' aesthetics) on Hugging Face to fine-tune Stable Diffusion models.\n\nFrom the high-level research of Runway to the grassroots tool-building in ComfyUI, the industry is moving toward a future where AI doesn't just 'draw' but 'understands' and 'extends' visual reality.",
+    "whyItMatters": "The transition from 'generative art' to 'world simulation' (Runway) and 'precision editing' (FLUX/Midjourney) marks the professionalization of AI visuals. It moves the technology from a novelty tool to a reliable production pipeline for filmmakers and designers.",
+    "creatorTakeaway": "Creators should move beyond basic prompting and explore 'spatial' tools: use FLUX for scene expansion, Midjourney V8.1 for rapid HD iteration, and ComfyUI's new mobile tools to manage complex workflows on the go.",
+    "tags": [
+      "AI Video",
+      "Runway AI",
+      "Black Forest Labs",
+      "Midjourney",
+      "ComfyUI",
+      "World Models",
+      "Outpainting"
+    ],
+    "readingTime": 2,
+    "publishedAt": "2026-05-18T08:29:23.052Z",
+    "sources": [
+      {
+        "title": "Stability AI Blog signal for ai-image",
+        "sourceName": "Stability AI Blog",
+        "url": "https://stability.ai/news/rss",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Blog | Black Forest Labs",
+        "sourceName": "Black Forest Labs",
+        "url": "https://blackforestlabs.ai/blog/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Blog – Replicate",
+        "sourceName": "Replicate Blog",
+        "url": "https://replicate.com/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Captivating Chroma",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tg5nit/captivating_chroma/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Generated 1000 liminal/dreamcore images with GPT Image 2 and put them in a dataset - could be useful for training",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tg3rym/generated_1000_liminaldreamcore_images_with_gpt/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "[LoRA Training] Auto-caption generator recommendation?",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tgd3zo/lora_training_autocaption_generator_recommendation/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "[WIP] Klein 2 KV Edit Web UI / Prompt Builder",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tg5aav/wip_klein_2_kv_edit_web_ui_prompt_builder/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Can't load fp8 as fp8, LTX 2.3",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tfs0yh/cant_load_fp8_as_fp8_ltx_23/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "ComfyUI-Mobile-Frontend v2.6.0 Released",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tgc5yj/comfyuimobilefrontend_v260_released/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "AI Video Research & Innovation | Runway AI",
+        "sourceName": "Runway Research",
+        "url": "https://runwayml.com/research",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "ComfyUI Blog | Robin | Substack",
+        "sourceName": "ComfyUI Blog",
+        "url": "https://blog.comfy.org/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "V8.1 Alpha is out!",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "V8 alpha is here!",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Probable changes to the subreddit",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v1",
+      "generatedAt": "2026-05-18T08:29:23.052Z",
+      "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-agentic_langchain-blog_2026-05-18_vi",
+    "slug": "he-sinh-thai-ai-agent-2026-tu-framework-phat-trien-en-mo-h-2026-05-18",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "title": "Hệ sinh thái AI Agent 2026: Từ Framework phát triển đến Mô hình kinh doanh mới",
+    "subtitle": "Phân tích xu hướng chuyển dịch từ các chatbot đơn giản sang các hệ thống Agent tự trị với khả năng quan sát (observability) và định giá theo hạ tầng.",
+    "tldr": [
+      "LangChain ra mắt loạt công cụ mới (LangSmith Engine, SmithDB, Context Hub) tập trung vào vòng đời phát triển và khả năng quan sát của Agent.",
+      "Xu hướng định giá AI Agent đang chuyển dịch từ gói thuê bao (subscription) sang mô hình tính phí theo mức tiêu thụ thực tế (tương tự AWS).",
+      "Sự xuất hiện của các dự án Local-first AI (như NeuralCompanion) và đề xuất về mạng lưới Agent mở (Open Network) để phá vỡ rào cản giữa các nền tảng.",
+      "Cursor cập nhật môi trường phát triển cho Cloud Agents, cho phép vận hành các 'fleet' Agent xử lý tác vụ end-to-end."
+    ],
+    "bodyMarkdown": "### Sự trưởng thành của hạ tầng phát triển Agent\n\nThị trường AI Agent đang chuyển từ giai đoạn 'thử nghiệm' sang 'vận hành quy mô lớn'. **LangChain** đã khẳng định điều này thông qua việc ra mắt một loạt các công cụ chuyên sâu trong hệ sinh thái LangSmith. Đáng chú ý là **SmithDB** (lớp dữ liệu cho khả năng quan sát Agent) và **LangSmith Engine**, cho thấy trọng tâm hiện nay không còn là việc tạo ra Agent, mà là làm sao để *kiểm soát, đánh giá và tối ưu hóa* hiệu suất của chúng trong môi trường production.\n\nSong song đó, **Cursor** cũng nâng cấp khả năng hỗ trợ Cloud Agents bằng cách cung cấp các môi trường phát triển (development environments) đầy đủ—bao gồm repo, dependencies và quyền truy cập build system. Điều này cho phép các đội ngũ kỹ thuật vận hành các 'phi đội' (fleets) Agent song song để giải quyết các tác vụ lập trình phức tạp từ đầu đến cuối.\n\n### Bước ngoặt về mô hình kinh doanh: \"AWS hóa\" AI Agent\n\nMột cuộc thảo luận đáng chú ý trên cộng đồng r/AI_Agents dự báo rằng đến cuối năm 2026, mô hình định giá gói thuê bao cố định (flat subscription) sẽ trở nên lỗi thời. Lý do là sự chênh lệch chi phí vận hành giữa một tác vụ đơn giản (lookup) và một tác vụ nghiên cứu sâu (deep research) có thể lên tới 100 lần.\n\nThay vào đó, mô hình **định giá theo chiều (dimensional pricing)** và theo thời gian thực—tương tự như cách AWS tính phí hạ tầng đám mây—sẽ chiếm ưu thế. Điều này giúp nhà phát triển tránh được rủi ro thua lỗ khi gặp những 'power user' tiêu tốn quá nhiều tài nguyên trong khi vẫn giữ được mức giá tiếp cận cho người dùng phổ thông.\n\n### Hướng tới sự phi tập trung và Local-first\n\nTrong khi các ông lớn như OpenAI hay Anthropic xây dựng những 'bức tường' bao quanh Agent của họ, cộng đồng mã nguồn mở đang tìm cách phá vỡ điều này. Đã có những đề xuất về một **Mạng lưới Agent mở (Open Network)**, hoạt động giống như DNS hơn là App Store, nơi các Agent có thể tìm thấy nhau, giao tiếp và thanh toán cho nhau bằng những khoản phí cực nhỏ (fractions of a cent).\n\nXu hướng **Local-first AI** cũng đang mạnh mẽ với các dự án như **NeuralCompanion**, tích hợp LLM cục bộ, voice chat và image generation trên phần cứng cá nhân, nhằm tạo ra những trợ lý AI tùy biến cao và không bị kiểm soát bởi các tập đoàn.",
+    "whyItMatters": "Việc chuyển dịch sang mô hình định giá theo hạ tầng và tập trung vào 'observability' cho thấy AI Agent đang trở thành một thành phần cốt lõi của kiến trúc phần mềm doanh nghiệp, không còn là những công cụ bổ trợ đơn giản. Sự xuất hiện của các mạng lưới Agent mở có thể định nghĩa lại cách các dịch vụ AI tương tác với nhau trong tương lai.",
+    "creatorTakeaway": "Nếu bạn đang xây dựng sản phẩm AI Agent, hãy ngừng tư duy về gói 'Pro $20/tháng' và bắt đầu thiết kế hệ thống thanh toán linh hoạt theo mức tiêu thụ. Đồng thời, hãy đầu tư vào khả năng quan sát (observability) ngay từ đầu để có thể scale hệ thống mà không bị mất kiểm soát về chi phí và chất lượng.",
+    "tags": [
+      "ai-agentic",
+      "langchain",
+      "ai-monetization",
+      "local-ai",
+      "software-architecture"
+    ],
+    "readingTime": 3,
+    "publishedAt": "2026-05-18T08:29:20.177Z",
+    "sources": [
+      {
+        "title": "LangChain Blog",
+        "sourceName": "LangChain Blog",
+        "url": "https://blog.langchain.dev/rss/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "OpenAI Blog signal for ai-agentic",
+        "sourceName": "OpenAI Blog",
+        "url": "https://openai.com/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "MCP Blog signal for ai-agentic",
+        "sourceName": "MCP Blog",
+        "url": "https://modelcontextprotocol.io/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Weekly Thread: Project Display",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tc3ybb/weekly_thread_project_display/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Weekly Hiring Thread",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1ta7m1m/weekly_hiring_thread/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "In 18 months, billing for AI agents will look like cloud infrastructure pricing. Variable, dimensional, real-time",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tg3i11/in_18_months_billing_for_ai_agents_will_look_like/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Has anyone else been thinking about an open network for AI agents?",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tgekph/has_anyone_else_been_thinking_about_an_open/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "NeuralCompanion",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tftqwg/neuralcompanion/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "ltx 2.3 10Eros on RTX 5070 Ti (16GB) — ~10min per clip, any way to speed this up?",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tg0xy9/ltx_23_10eros_on_rtx_5070_ti_16gb_10min_per_clip/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Comfy UI + LTX 2.3 T2V + Crisp Enhance Lora Wedges",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tg5869/comfy_ui_ltx_23_t2v_crisp_enhance_lora_wedges/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "News | Luma",
+        "sourceName": "Luma Labs Blog",
+        "url": "https://lumalabs.ai/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "What's New in Cursor — Latest Updates & Release Notes",
+        "sourceName": "Cursor Changelog",
+        "url": "https://www.cursor.com/changelog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Hugging Face – Blog",
+        "sourceName": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Warelay -> OpenClaw",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Quoting Julia Evans",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "inaturalist-clumper 0.1",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Western Gull, Rock Pigeon",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Lil'Log",
+        "sourceName": "Lil'Log",
+        "url": "https://lilianweng.github.io/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v1",
+      "generatedAt": "2026-05-18T08:29:20.177Z",
+      "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-18",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-agentic_langchain-blog_2026-05-18_en",
+    "slug": "the-industrialization-of-ai-agents-from-frameworks-to-infra-2026-05-18",
+    "lang": "en",
+    "category": "ai-agentic",
+    "title": "The Industrialization of AI Agents: From Frameworks to Infrastructure",
+    "subtitle": "LangChain, Cursor, and the community are shifting focus from simple agent creation to the complex lifecycle of observability, environment management, and monetization.",
+    "tldr": [
+      "LangChain is expanding its ecosystem with LangSmith Engine and SmithDB to solve the 'observability gap' in agent production.",
+      "Cursor is introducing dedicated development environments for cloud agents to enable end-to-end task completion.",
+      "Community discourse is shifting toward 'infrastructure-style' billing (similar to AWS) to handle the high cost variance of agentic actions.",
+      "Emerging interest in 'open agent networks' suggests a future where specialized agents can discover and pay each other for micro-tasks."
+    ],
+    "bodyMarkdown": "The AI agent landscape is moving past the 'demo phase.' While early 2024 was defined by the excitement of simple LLM wrappers, the current trajectory—led by major frameworks and developer tools—is focused on the grueling realities of production: reliability, environment control, and unit economics.\n\n### Solving the Observability Gap\nLangChain is aggressively expanding its suite of tools to move agents from prototype to production. The recent introduction of **LangSmith Engine** and **SmithDB** (a dedicated data layer for agent observability) signals a shift toward treating agents as complex software systems rather than simple prompts. By focusing on the 'Agent Development Lifecycle,' LangChain is addressing the critical need for developers to see exactly what agents are doing and how to evaluate their performance at scale.\n\n### Agents Need a Home: The Environment Shift\nOne of the primary hurdles for autonomous agents is the lack of a stable workspace. **Cursor** is addressing this by introducing development environments for cloud agents. For an agent to handle an engineering task from start to finish, it requires more than just an API; it needs cloned repositories, installed dependencies, and access to build systems. By allowing teams to configure these environments, Cursor is enabling 'fleets' of parallelized agents to operate within controlled, reproducible sandboxes.\n\n### The Economics of Agency\nAs agents move toward long-running, complex tasks, the financial model is breaking. Community discussions on r/AI_Agents highlight a growing consensus: flat-rate subscriptions are structurally incompatible with agentic workflows. Because a simple lookup costs a fraction of a cent while a deep research run can cost several dollars, the cost variance is too high for 'Pro' tiers to survive. The predicted solution is a shift toward **dimensional, real-time billing**—essentially turning AI agent products into cloud infrastructure providers similar to AWS, where users pay for precise consumption per dimension.\n\n### Toward an Open Agent Ecosystem\nBeyond individual platforms, there is a burgeoning conceptual movement toward an 'open network' for agents. The current state is siloed (OpenAI agents talk to OpenAI tools), but the vision is a DNS-like registry where a small, local 'orchestrator' model can discover a specialized 'math' or 'scraping' agent on the network, pay it a micro-fraction of a cent, and return the result to the user. This would decouple the user interface from the specialized compute, allowing for a more modular and efficient AI economy.",
+    "whyItMatters": "We are witnessing the transition of AI agents from 'toys' to 'tools.' The focus on observability, sandboxed environments, and granular billing indicates that the industry is preparing for a world where agents perform significant, autonomous work in production environments, requiring the same rigor as traditional cloud infrastructure.",
+    "creatorTakeaway": "If you are building an agentic product, stop thinking about 'features' and start thinking about 'infrastructure.' Your biggest bottlenecks will not be the LLM's intelligence, but how you observe its failures, how you provide it a secure environment to execute code, and how you price a service with wildly variable compute costs.",
+    "tags": [
+      "ai-agents",
+      "langchain",
+      "cursor",
+      "ai-infrastructure",
+      "llm-ops"
+    ],
+    "readingTime": 2,
+    "publishedAt": "2026-05-18T08:29:36.496Z",
+    "sources": [
+      {
+        "title": "LangChain Blog",
+        "sourceName": "LangChain Blog",
+        "url": "https://blog.langchain.dev/rss/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "OpenAI Blog signal for ai-agentic",
+        "sourceName": "OpenAI Blog",
+        "url": "https://openai.com/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "MCP Blog signal for ai-agentic",
+        "sourceName": "MCP Blog",
+        "url": "https://modelcontextprotocol.io/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Weekly Thread: Project Display",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tc3ybb/weekly_thread_project_display/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Weekly Hiring Thread",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1ta7m1m/weekly_hiring_thread/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "In 18 months, billing for AI agents will look like cloud infrastructure pricing. Variable, dimensional, real-time",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tg3i11/in_18_months_billing_for_ai_agents_will_look_like/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Has anyone else been thinking about an open network for AI agents?",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tgekph/has_anyone_else_been_thinking_about_an_open/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "NeuralCompanion",
+        "sourceName": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tftqwg/neuralcompanion/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "ltx 2.3 10Eros on RTX 5070 Ti (16GB) — ~10min per clip, any way to speed this up?",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tg0xy9/ltx_23_10eros_on_rtx_5070_ti_16gb_10min_per_clip/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Comfy UI + LTX 2.3 T2V + Crisp Enhance Lora Wedges",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tg5869/comfy_ui_ltx_23_t2v_crisp_enhance_lora_wedges/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "News | Luma",
+        "sourceName": "Luma Labs Blog",
+        "url": "https://lumalabs.ai/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "What's New in Cursor — Latest Updates & Release Notes",
+        "sourceName": "Cursor Changelog",
+        "url": "https://www.cursor.com/changelog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Hugging Face – Blog",
+        "sourceName": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Warelay -> OpenClaw",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Quoting Julia Evans",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "inaturalist-clumper 0.1",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Western Gull, Rock Pigeon",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Lil'Log",
+        "sourceName": "Lil'Log",
+        "url": "https://lilianweng.github.io/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v1",
+      "generatedAt": "2026-05-18T08:29:36.496Z",
+      "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-18",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-18_vi",
+    "slug": "ky-nguyen-vibe-coding-khi-lap-trinh-khong-con-la-viet-cod-2026-05-18",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "title": "Kỷ nguyên 'Vibe Coding': Khi lập trình không còn là viết code",
+    "subtitle": "Sự trỗi dậy của các AI Agent như Claude Code và Replit Agent 4 đang thay đổi vai trò của lập trình viên từ người viết dòng lệnh sang người điều phối sản phẩm.",
+    "tldr": [
+      "Khái niệm 'Vibe Coding' đang định nghĩa lại việc phát triển phần mềm: tập trung vào mô tả ý tưởng và điều phối thay vì viết code thủ công.",
+      "Claude (Anthropic) được đánh giá cao hơn GPT-5.5 về khả năng duy trì ngữ cảnh dài và chiều sâu tư duy trong các tác vụ lập trình phức tạp.",
+      "Các công cụ như Replit Agent 4 và Claude Code cho phép người dùng xây dựng ứng dụng production-ready nhanh hơn thông qua giao tiếp ngôn ngữ tự nhiên.",
+      "Sự phân hóa rõ rệt: ChatGPT chiếm ưu thế về tốc độ và đa năng, trong khi Claude dẫn đầu về độ sâu và khả năng tổng hợp dữ liệu lớn."
+    ],
+    "bodyMarkdown": "### Sự chuyển dịch sang 'Vibe Coding'\n\nThuật ngữ **\"Vibe Coding\"** không còn là một khái niệm mơ hồ mà đang trở thành một phương thức phát triển phần mềm thực thụ. Với sự ra đời của các công cụ như **Replit Agent 4**, ranh giới giữa ý tưởng và sản phẩm thực tế đang bị xóa nhòa. Thay vì dành hàng giờ để gõ từng dòng lệnh, lập trình viên giờ đây đóng vai trò như một Product Manager, điều phối AI để hiện thực hóa các tính năng thông qua mô tả ngôn ngữ tự nhiên.\n\n### Cuộc đối đầu: Claude vs. ChatGPT trong lập trình\n\nTheo phân tích thực tế từ người dùng chuyên sâu, sự khác biệt giữa hai hệ sinh thái AI hàng đầu hiện nay đã trở nên rõ rệt:\n\n*   **Claude (Anthropic):** Được coi là \"vũ khí\" cho những công việc chuyên sâu. Với khả năng xử lý cửa sổ ngữ cảnh lên đến 1 triệu token, Claude vượt trội trong việc phân tích các codebase khổng lồ và duy trì tính nhất quán về cấu trúc trong các tài liệu dài (như PRD). Tính năng *compaction* (nén ngữ cảnh) của Claude Code giúp mô hình không bị \"mất trí nhớ\" khi xử lý các tác vụ refactoring phức tạp.\n*   **ChatGPT (OpenAI):** Vẫn giữ ngôi vương về tốc độ và sự linh hoạt. Đây là công cụ lý tưởng cho các tác vụ \"quick-hit\": tra cứu nhanh công thức Excel, debug ngắn hoặc brainstorm ý tưởng. Tuy nhiên, khi đối mặt với các tệp dữ liệu quá lớn, ChatGPT có xu hướng tóm tắt hời hợt hoặc xảy ra hiện tượng ảo giác (hallucination).\n\n### Tác động đến quy trình phát triển\n\nViệc tích hợp AI sâu vào IDE (như Cursor Pro hay GitHub Copilot) đang thay đổi cách tư duy về mã nguồn. Lập trình viên không còn bị kẹt trong những lỗi cú pháp nhỏ nhặt mà tập trung vào kiến trúc hệ thống và luồng vận hành. \n\nTuy nhiên, sự phụ thuộc này cũng đặt ra những thách thức mới về an ninh. Việc quản lý mã nguồn mở trong khu vực công (như trường hợp của NHS tại Anh) đang gây tranh cãi khi các lỗ hổng bảo mật xuất hiện, đặt ra câu hỏi về sự cân bằng giữa tính mở của mã nguồn và rủi ro an ninh trong kỷ nguyên AI.",
+    "whyItMatters": "Vibe Coding không chỉ là một xu hướng nhất thời mà là sự thay đổi về mô hình năng suất. Khi AI có thể đảm nhiệm phần 'viết' (implementation), giá trị của con người sẽ chuyển dịch sang phần 'tư duy' (architecture) và 'định hướng' (steering). Điều này hạ thấp rào cản gia nhập ngành lập trình nhưng đồng thời nâng cao yêu cầu về khả năng quản lý sản phẩm.",
+    "creatorTakeaway": "Nếu bạn cần tốc độ và sự đa năng cho công việc hàng ngày, ChatGPT là lựa chọn số 1. Nhưng nếu bạn đang xây dựng một ứng dụng phức tạp, cần đọc hiểu hàng nghìn dòng code hoặc viết tài liệu kỹ thuật chi tiết, hãy chuyển sang Claude. Tương lai của lập trình không nằm ở việc thuộc lòng cú pháp, mà ở khả năng giao tiếp hiệu quả với AI Agent.",
+    "tags": [
+      "ai-vibe-coding",
+      "anthropic",
+      "claude-code",
+      "replit-agent",
+      "software-development",
+      "ai-agents"
+    ],
+    "readingTime": 3,
+    "publishedAt": "2026-05-18T08:29:39.910Z",
+    "sources": [
+      {
+        "title": "Research \\ Anthropic",
+        "sourceName": "Anthropic Research",
+        "url": "https://www.anthropic.com/research",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Honest comparison after 4 months running Claude Pro + ChatGPT Plus side by side",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tg953c/honest_comparison_after_4_months_running_claude/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "camera angle to show all sides of room",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "GitHub Copilot Archives - The GitHub Blog",
+        "sourceName": "GitHub Copilot Blog",
+        "url": "https://github.blog/tag/github-copilot/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Vercel AI Blog signal for ai-vibe-coding",
+        "sourceName": "Vercel AI Blog",
+        "url": "https://vercel.com/blog/ai",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Replit — Replit Blog – Product updates from the team",
+        "sourceName": "Replit Blog",
+        "url": "https://blog.replit.com/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Extensive list of generative tools curated by Eyal Gruss",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "\"Hundreds of Fake Pro-Trump Avatars Emerge on Social Media\" (karma/attention farming via identity politics engagement bait)",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1sokpp8/hundreds_of_fake_protrump_avatars_emerge_on/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v1",
+      "generatedAt": "2026-05-18T08:29:39.910Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-18",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-18_en",
+    "slug": "the-rise-of-vibe-coding-from-line-level-logic-to-product-2026-05-18",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "title": "The Rise of 'Vibe Coding': From Line-Level Logic to Product Orchestration",
+    "subtitle": "How agentic tools like Replit Agent 4 and Claude Code are shifting the developer's role from writing syntax to managing intent.",
+    "tldr": [
+      "The emergence of 'vibe coding' allows developers to build production-ready apps by focusing on high-level intent rather than manual line-by-line coding.",
+      "Replit has introduced Agent 4, specifically designed to push the boundaries of vibe coding and accelerate app deployment.",
+      "Power users are increasingly splitting workflows between 'speed' (ChatGPT) and 'depth' (Claude), with Claude's massive context window and 'compaction' features enabling complex multi-file reasoning.",
+      "The developer's role is evolving into a 'Product Manager' persona, where the primary skill is steering AI agents rather than managing syntax."
+    ],
+    "bodyMarkdown": "The paradigm of software development is shifting. A new trend termed **\"vibe coding\"** is emerging, where the barrier between a conceptual idea and a production-ready application is bridged by highly autonomous AI agents. \n\n### The Tools of the Vibe Shift\nRecent releases highlight this transition toward agentic development. **Replit** has introduced **Agent 4**, a versatile tool explicitly built to facilitate vibe coding, allowing creators to build apps faster by focusing on the 'vibe' or intent of the product rather than the underlying boilerplate. Similarly, the integration of tools like **Claude Code (CC)** is changing the developer experience. \n\nAccording to user reports from the AI agent community, using these advanced instruments allows a developer to act more like a **Product Manager** than a line-level coder. When navigating complex React codebases or Python microservices, the focus shifts from writing functions to managing context and steering the agent's progress.\n\n### Depth vs. Speed: The New Workflow\nAs these tools proliferate, a distinct bifurcation in AI usage has emerged among power users:\n\n*   **The 'Depth' Stack (Claude):** Preferred for heavy documentation, deep analysis, and massive codebase reasoning. Claude's 1-million-token context window and its ability to 'compact' (summarize its own progress) prevent the model from hitting a 'context wall,' making it superior for long-form structural constraints and complex refactoring.\n*   **The 'Speed' Stack (ChatGPT):** Remains the industry standard for 'quick-twitch' tasks—rapid debugging, brainstorming, and general versatility. \n\n### The Infrastructure of Intent\nThis shift is supported by a broader ecosystem including **GitHub Copilot** and **Vercel AI**, which continue to integrate LLMs deeper into the IDE. The goal is no longer just autocomplete, but full-scale agentic coding where the AI handles the implementation details while the human ensures the architectural integrity.\n\nHowever, this transition is not without friction. As developers rely more on these agents, the industry is grappling with the balance between open-source transparency and security, as seen in recent debates regarding public sector AI and open-code repositories.",
+    "whyItMatters": "Vibe coding represents a fundamental shift in the economics of software creation. By decoupling the 'intent' (what to build) from the 'implementation' (how to write it), the speed of prototyping increases exponentially, potentially lowering the barrier to entry for non-technical founders while requiring professional developers to evolve into system architects.",
+    "creatorTakeaway": "Stop focusing on mastering every syntax nuance of a framework and start mastering 'context management.' The most valuable skill in the era of vibe coding is the ability to provide clear, constrained steering to an agent and the discernment to know when to switch from a 'speed' model to a 'depth' model.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "Anthropic",
+      "Replit",
+      "software-development",
+      "LLM-workflows"
+    ],
+    "readingTime": 2,
+    "publishedAt": "2026-05-18T08:30:14.047Z",
+    "sources": [
+      {
+        "title": "Research \\ Anthropic",
+        "sourceName": "Anthropic Research",
+        "url": "https://www.anthropic.com/research",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Honest comparison after 4 months running Claude Pro + ChatGPT Plus side by side",
+        "sourceName": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tg953c/honest_comparison_after_4_months_running_claude/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "camera angle to show all sides of room",
+        "sourceName": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "GitHub Copilot Archives - The GitHub Blog",
+        "sourceName": "GitHub Copilot Blog",
+        "url": "https://github.blog/tag/github-copilot/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Vercel AI Blog signal for ai-vibe-coding",
+        "sourceName": "Vercel AI Blog",
+        "url": "https://vercel.com/blog/ai",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Replit — Replit Blog – Product updates from the team",
+        "sourceName": "Replit Blog",
+        "url": "https://blog.replit.com/",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Extensive list of generative tools curated by Eyal Gruss",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "\"Hundreds of Fake Pro-Trump Avatars Emerge on Social Media\" (karma/attention farming via identity politics engagement bait)",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1sokpp8/hundreds_of_fake_protrump_avatars_emerge_on/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+        "sourceName": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v1",
+      "generatedAt": "2026-05-18T08:30:14.047Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-18",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-video_kling-ai_2026-05-18_vi",
+    "slug": "kling-ai-va-cuoc-cach-mang-video-ai-tu-cong-cu-sang-tao-en-2026-05-18",
+    "lang": "vi",
+    "category": "ai-video",
+    "title": "Kling AI và Cuộc Cách Mạng Video AI: Từ Công Cụ Sáng Tạo Đến Điện Ảnh Số",
+    "subtitle": "Phân tích sự trỗi dậy của Kling AI trong hệ sinh thái video generative và tác động đến quy trình sản xuất nội dung hiện đại.",
+    "tldr": [
+      "Kling AI ra mắt phiên bản 3.0 với khả năng xuất video 4K gốc, đồng bộ môi (lip-sync) đa ngôn ngữ và chế độ Director Mode.",
+      "Công cụ này đang trở thành lựa chọn hàng đầu cho các nhà sáng tạo phim AI nhờ khả năng kiểm soát nhân vật (Subject Binding) và vật lý chính xác.",
+      "Xu hướng chuyển dịch từ 'tạo video một lần nhấp' sang quy trình sản xuất kỳ công, kết hợp nhiều công cụ AI để đạt chất lượng điện ảnh."
+    ],
+    "bodyMarkdown": "Trong bối cảnh cuộc đua AI video đang nóng hơn bao giờ hết, **Kling AI** đã nổi lên như một đối thủ đáng gờm với những cập nhật đột phá trong phiên bản 3.0. Không còn chỉ là những đoạn clip ngắn ngẫu nhiên, Kling AI đang hướng tới việc cung cấp một bộ công cụ sản xuất chuyên nghiệp.\n\n### Những đột phá kỹ thuật của Kling AI 3.0\nTheo blog chính thức của Kling AI, nền tảng này đã giới thiệu một loạt tính năng nâng cao nhằm xóa bỏ ranh giới giữa video AI và phim ảnh truyền thống:\n- **Native 4K Output:** Khả năng xuất video 4K trực tiếp thay vì upscale, mang lại độ chi tiết và sắc nét vượt trội.\n- **Omni Audio & Lip Sync:** Tích hợp đồng bộ môi tự nhiên và giọng nói đa ngôn ngữ, giải quyết một trong những bài toán khó nhất của video AI.\n- **Director Mode & Subject Binding:** Cho phép nhà sáng tạo kiểm soát chuyển cảnh (multi-shot transitions) và khóa đặc điểm nhân vật xuyên suốt các cảnh quay, đảm bảo tính nhất quán về mặt hình ảnh.\n- **Physics & Motion Prompts:** Hệ thống cú pháp Prompt 2.0 tập trung vào mô phỏng vật lý, giúp các cử động như chạy, nhảy và cử chỉ trở nên chân thực hơn.\n\n### Từ công cụ đến tác phẩm nghệ thuật\nSự ảnh hưởng của Kling AI không chỉ dừng lại ở thông số kỹ thuật mà còn lan tỏa trong cộng đồng sáng tạo. Tại các diễn đàn như *r/aivideo*, Kling AI thường xuyên xuất hiện trong các tác phẩm được đề cử tại **AI Video Awards 2026**. \n\nĐáng chú ý, một xu hướng mới đang hình thành: các nhà làm phim AI không còn dựa dẫm vào một công cụ duy nhất. Ví dụ, bộ phim ca nhạc AI *\"GOD IS DEAD\"* đã mất 57 ngày sản xuất, kết hợp Kling 3.0 với Runway Gen 4.5, Suno AI và các công cụ thiết kế nhân vật từ Freepik để đạt được độ chi tiết tối đa. Điều này cho thấy AI không thay thế đạo diễn, mà đang trở thành một \"studio ảo\" cho phép một cá nhân có thể điều phối toàn bộ quy trình sản xuất phức tạp.\n\n### Cạnh tranh và Hệ sinh thái\nTrong khi các đối thủ như Pika Labs tiếp tục huy động vốn mạnh mẽ (vừa gọi vốn thành công 80 triệu USD vòng Series B) để phổ cập hóa việc tạo video, Kling AI lại chọn hướng đi sâu vào chất lượng kỹ thuật và khả năng kiểm soát chi tiết cho người dùng chuyên nghiệp.",
+    "whyItMatters": "Việc Kling AI làm chủ được độ phân giải 4K gốc và tính nhất quán của nhân vật (Subject Binding) đánh dấu bước chuyển mình từ 'video minh họa' sang 'sản xuất nội dung chuyên nghiệp'. Điều này mở ra cơ hội cho các studio nhỏ hoặc cá nhân tạo ra những bộ phim ngắn có chất lượng tiệm cận điện ảnh mà không cần chi phí khổng lồ.",
+    "creatorTakeaway": "Đừng kỳ vọng vào việc tạo ra một bộ phim chất lượng chỉ bằng một câu lệnh. Hãy sử dụng Kling AI như một phần trong pipeline: dùng Image-to-Video để kiểm soát bố cục, Subject Binding để giữ nhân vật, và kết hợp với các công cụ âm thanh/lip-sync để hoàn thiện tác phẩm.",
+    "tags": [
+      "Kling AI",
+      "AI Video",
+      "Generative AI",
+      "Điện ảnh AI",
+      "Sản xuất nội dung"
+    ],
+    "readingTime": 3,
+    "publishedAt": "2026-05-18T08:29:11.021Z",
+    "sources": [
+      {
+        "title": "Pika blog",
+        "sourceName": "Pika Labs Blog",
+        "url": "https://pika.art/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Featured Titles + Latest Releases",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Alex Pereira vs Horror Villians",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tg6l8f/alex_pereira_vs_horror_villians/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Someone fixed the famous World Cup problems",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tgdk4y/someone_fixed_the_famous_world_cup_problems/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "if they came in peace! would we?",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tg1qjw/if_they_came_in_peace_would_we/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Kling AI",
+        "sourceName": "Kling AI Blog",
+        "url": "https://klingai.com/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "People think AI films are just one click — mine took 57 days of obsessive detail",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v1",
+      "generatedAt": "2026-05-18T08:29:11.021Z",
+      "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-18",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-video_kling-ai_2026-05-18_en",
+    "slug": "kling-ai-3-0-pushing-the-boundaries-of-cinematic-ai-video-2026-05-18",
+    "lang": "en",
+    "category": "ai-video",
+    "title": "Kling AI 3.0: Pushing the Boundaries of Cinematic AI Video",
+    "subtitle": "From native 4K output to advanced subject binding, Kling AI is evolving into a comprehensive director's toolkit.",
+    "tldr": [
+      "Kling AI has introduced native 4K image-to-video output, moving beyond traditional upscaling.",
+      "Version 3.0 introduces 'Director Mode' for multi-shot transitions and 'Subject Binding' to maintain character consistency.",
+      "New 'Omni Audio' capabilities provide native lip-sync and multilingual voice support.",
+      "The platform is increasingly used in high-effort AI cinema, including award-nominated works and long-form musical films."
+    ],
+    "bodyMarkdown": "The landscape of generative AI video is shifting from short, experimental clips to structured cinematic production. At the forefront of this transition is **Kling AI**, which has recently rolled out a suite of professional-grade features in its 3.0 ecosystem designed to give creators granular control over their output.\n\n### Technical Leaps: Native 4K and Precision Control\nOne of the most significant updates is the move toward **native 4K AI video output**. Unlike traditional upscaling, which enhances a low-resolution image after generation, Kling's direct 4K output aims for higher fidelity and sharper detail from the start. \n\nTo support narrative storytelling, Kling 3.0 has introduced several 'Director' level tools:\n*   **Subject Binding:** This allows creators to lock character features across different shots, solving one of the most persistent problems in AI video: character consistency.\n*   **Director Mode:** A specialized tool for creating multi-shot transition videos, enabling more complex sequencing than single-prompt generations.\n*   **Omni Audio:** Integrating native lip-sync and multilingual voices to bridge the gap between visual generation and auditory performance.\n\n### From 'One-Click' to 'Obsessive Detail'\nWhile many AI videos are generated in minutes, a new wave of creators is using tools like Kling 3.0 as part of a rigorous production pipeline. In the community, some creators are spending months on single projects—such as the 8-minute musical film *GOD IS DEAD*—combining Kling with other tools like SUNO AI and Runway Gen 4.5 to achieve a level of detail that transcends simple prompting.\n\nThis professionalization is further evidenced by the **AI Video Awards 2026**, where Kling AI is a collaborating partner. The awards highlight a growing diversity of genres, from \"Mindblowing Video of the Year\" to specialized categories like TV Ads and Movie Trailers, many of which utilize Kling's advanced physics and motion prompt syntax to achieve realistic movement.",
+    "whyItMatters": "Kling AI is transitioning from a 'generator' to a 'production suite.' By solving for character consistency (Subject Binding) and resolution (Native 4K), it removes the primary technical barriers preventing AI from being used in professional filmmaking and advertising.",
+    "creatorTakeaway": "Stop relying on single prompts. To achieve cinematic quality, leverage Kling 3.0's Director Mode for sequencing and Subject Binding for character stability, and integrate them into a multi-tool pipeline involving dedicated audio and image generation software.",
+    "tags": [
+      "Kling AI",
+      "AI Video",
+      "Generative AI",
+      "Cinematic AI",
+      "AI Filmmaking"
+    ],
+    "readingTime": 2,
+    "publishedAt": "2026-05-18T08:29:30.667Z",
+    "sources": [
+      {
+        "title": "Pika blog",
+        "sourceName": "Pika Labs Blog",
+        "url": "https://pika.art/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Featured Titles + Latest Releases",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Alex Pereira vs Horror Villians",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tg6l8f/alex_pereira_vs_horror_villians/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Someone fixed the famous World Cup problems",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tgdk4y/someone_fixed_the_famous_world_cup_problems/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "if they came in peace! would we?",
+        "sourceName": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tg1qjw/if_they_came_in_peace_would_we/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Kling AI",
+        "sourceName": "Kling AI Blog",
+        "url": "https://klingai.com/blog",
+        "sourceType": "blog",
+        "usedFor": "primary"
+      },
+      {
+        "title": "People think AI films are just one click — mine took 57 days of obsessive detail",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v1",
+      "generatedAt": "2026-05-18T08:29:30.667Z",
+      "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-18",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_prompt-image_creepy-vampire-lairs_2026-05-18_vi",
+    "slug": "kham-pha-nghe-thuat-tao-hinh-hang-o-ma-ca-rong-rung-ron-qu-2026-05-18",
+    "lang": "vi",
+    "category": "prompt-image",
+    "title": "Khám phá nghệ thuật tạo hình 'Hang ổ Ma cà rồng' rùng rợn qua Midjourney",
+    "subtitle": "Khi nỗi sợ hãi hòa quyện cùng thẩm mỹ psychedelic trong các tác phẩm AI",
+    "tldr": [
+      "Cộng đồng Midjourney chia sẻ các thiết kế hang ổ ma cà rồng mang phong cách u ám và siêu thực.",
+      "Sự kết hợp giữa yếu tố rùng rợn và phong cách 'psychedelic' tạo ra sức hút thị giác mạnh mẽ.",
+      "Người dùng thể hiện sự quan tâm đến việc ứng dụng thẩm mỹ này vào thiết kế không gian thực (như tầng hầm)."
+    ],
+    "bodyMarkdown": "Trong cộng đồng nghệ thuật AI, đặc biệt là trên subreddit r/midjourney, xu hướng tạo ra các không gian sống giả tưởng mang đậm chất kinh dị đang thu hút sự chú ý. Một trong những chủ đề nổi bật gần đây là việc thiết kế các **'hang ổ ma cà rồng' (vampire lairs)** với độ chi tiết cực cao.\n\nCác tác phẩm này không chỉ dừng lại ở việc tạo ra cảm giác sợ hãi truyền thống mà còn kết hợp với phong cách **psychedelic (ảo giác)**, tạo nên một bầu không khí vừa u ám vừa thư giãn một cách kỳ lạ. Sự đối lập này khiến người xem cảm thấy bị thu hút, thậm chí có người dùng bày tỏ mong muốn áp dụng phong cách thiết kế này vào thực tế, chẳng hạn như trang trí tầng hầm của ngôi nhà để tạo ra một không gian riêng biệt và huyền bí.\n\nViệc tận dụng sức mạnh của Midjourney cho phép các nghệ sĩ AI thử nghiệm với những chất liệu phi thực tế, ánh sáng ma mị và cấu trúc kiến trúc kỳ dị, biến những nỗi sợ nguyên thủy thành những tác phẩm nghệ thuật kỹ thuật số đầy mê hoặc.",
+    "whyItMatters": "Điều này cho thấy sự dịch chuyển trong cách con người sử dụng AI để khám phá 'thẩm mỹ của nỗi sợ'. Thay vì chỉ tạo ra hình ảnh kinh dị thuần túy, người dùng đang tìm cách pha trộn các yếu tố đối lập (như sự rùng rợn và sự thư giãn) để tạo ra những trải nghiệm thị giác mới lạ.",
+    "creatorTakeaway": "Để tạo ra những hình ảnh có sức tác động mạnh, hãy thử kết hợp các từ khóa đối lập (ví dụ: 'creepy' đi cùng 'psychedelic' hoặc 'chill') để tạo ra một bầu không khí độc đáo, thoát khỏi những khuôn mẫu thông thường của thể loại kinh dị.",
+    "tags": [
+      "Midjourney",
+      "AI Art",
+      "Vampire Aesthetic",
+      "Digital Art",
+      "Psychedelic"
+    ],
+    "readingTime": 2,
+    "publishedAt": "2026-05-18T08:29:43.550Z",
+    "sources": [
+      {
+        "title": "CREEPY VAMPIRE LAIRS",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tg2r8d/creepy_vampire_lairs/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "\"What are trees?\"",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Reaper",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v1",
+      "generatedAt": "2026-05-18T08:29:43.550Z",
+      "sourceClusterId": "cluster_prompt-image_creepy-vampire-lairs_2026-05-18",
+      "confidence": "medium"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_prompt-image_creepy-vampire-lairs_2026-05-18_en",
+    "slug": "atmospheric-horror-crafting-creepy-vampire-lairs-in-midjour-2026-05-18",
+    "lang": "en",
+    "category": "prompt-image",
+    "title": "Atmospheric Horror: Crafting Creepy Vampire Lairs in Midjourney",
+    "subtitle": "Exploring the intersection of psychedelic aesthetics and gothic dread in AI-generated architecture.",
+    "tldr": [
+      "Midjourney users are experimenting with 'creepy vampire lairs' that blend gothic horror with psychedelic elements.",
+      "Community reactions highlight a desire to translate these surreal AI interiors into real-world basement designs.",
+      "The trend emphasizes 'chill' yet unsettling atmospheres over traditional horror tropes."
+    ],
+    "bodyMarkdown": "The Midjourney community is currently exploring the boundaries of gothic architecture and surrealism, specifically through the creation of 'creepy vampire lairs.' Rather than relying solely on cliché coffins and cobwebs, these AI-generated spaces are leaning into a 'psychedelic and chill' aesthetic that blends high-concept art with unsettling atmospheres.\n\nRecent showcases on r/midjourney demonstrate a shift toward immersive environmental storytelling. One notable set of images has sparked discussions among users about the viability of these designs in reality, with some creators expressing a genuine desire to mirror these surreal layouts in their own home basements. This suggests that the appeal of these 'lairs' lies not just in their horror elements, but in their unique approach to interior design and mood-setting.\n\nBy combining dark, vampiric themes with psychedelic visual cues, artists are creating spaces that feel both welcoming and predatory—a juxtaposition that defines the modern AI-driven approach to the 'dark fantasy' genre.",
+    "whyItMatters": "This trend illustrates how AI image generation is moving beyond simple character creation and into complex environmental design, influencing how people conceptualize real-world interior aesthetics through a lens of surrealism.",
+    "creatorTakeaway": "To achieve this specific 'vampire lair' look, experiment with prompts that blend 'gothic horror' with 'psychedelic' and 'chill' descriptors to create a contrast between comfort and dread.",
+    "tags": [
+      "Midjourney",
+      "AI Art",
+      "Gothic Architecture",
+      "Environmental Design",
+      "Digital Art"
+    ],
+    "readingTime": 1,
+    "publishedAt": "2026-05-18T08:30:06.290Z",
+    "sources": [
+      {
+        "title": "CREEPY VAMPIRE LAIRS",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tg2r8d/creepy_vampire_lairs/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "\"What are trees?\"",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      },
+      {
+        "title": "Reaper",
+        "sourceName": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v1",
+      "generatedAt": "2026-05-18T08:30:06.290Z",
+      "sourceClusterId": "cluster_prompt-image_creepy-vampire-lairs_2026-05-18",
+      "confidence": "medium"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-18_vi",
+    "slug": "anh-gia-cuon-sach-50-years-of-text-games-cua-aaron-reed-2026-05-18",
+    "lang": "vi",
+    "category": "prompt-video",
+    "title": "Đánh giá cuốn sách '50 Years of Text Games' của Aaron Reed",
+    "subtitle": "Cái nhìn sâu sắc về lịch sử trò chơi văn bản qua góc nhìn của chuyên gia",
+    "tldr": [
+      "Bài đánh giá về tác phẩm '50 Years of Text Games' của tác giả Aaron Reed.",
+      "Nội dung được chia sẻ và thảo luận trong cộng đồng r/MediaSynthesis.",
+      "Tập trung vào sự tiến hóa của thể loại trò chơi dựa trên văn bản trong nửa thế kỷ."
+    ],
+    "bodyMarkdown": "Một bài đánh giá chi tiết về cuốn sách **\"50 Years of Text Games\"** của Aaron Reed vừa được chia sẻ trên cộng đồng *r/MediaSynthesis* bởi người dùng /u/gwern. \n\nCuốn sách đi sâu vào phân tích quá trình phát triển của các trò chơi văn bản (text games) trong suốt 50 năm qua, từ những ngày đầu sơ khai cho đến các hình thức hiện đại. Việc thảo luận về chủ đề này trong một cộng đồng chuyên về tổng hợp truyền thông (Media Synthesis) cho thấy sự giao thoa thú vị giữa lịch sử trò chơi truyền thống và cách AI/mô hình ngôn ngữ hiện nay đang tái định nghĩa trải nghiệm kể chuyện tương tác thông qua văn bản.",
+    "whyItMatters": "Hiểu về lịch sử trò chơi văn bản giúp các nhà phát triển AI và sáng tạo nội dung nắm bắt được cơ chế tương tác cốt lõi, từ đó cải thiện khả năng tạo ra các trải nghiệm nhập vai (immersive experiences) bằng ngôn ngữ trong tương lai.",
+    "creatorTakeaway": "Đừng bỏ qua những giá trị từ các thể loại game cổ điển; chúng cung cấp khung sườn tư duy quan trọng cho việc thiết kế prompt và luồng tương tác trong các ứng dụng AI hiện đại.",
+    "tags": [
+      "Text Games",
+      "Aaron Reed",
+      "Media Synthesis",
+      "Lịch sử Game",
+      "Interactive Fiction"
+    ],
+    "readingTime": 1,
+    "publishedAt": "2026-05-18T08:29:08.000Z",
+    "sources": [
+      {
+        "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v1",
+      "generatedAt": "2026-05-18T08:29:08.000Z",
+      "sourceClusterId": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-18",
+      "confidence": "low"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-18_en",
+    "slug": "review-analysis-50-years-of-text-games-by-aaron-reed-2026-05-18",
+    "lang": "en",
+    "category": "prompt-video",
+    "title": "Review Analysis: '50 Years of Text Games' by Aaron Reed",
+    "subtitle": "Exploring the evolution of interactive fiction through a retrospective lens",
+    "tldr": [
+      "Analysis of Aaron Reed's work on the history of text-based gaming.",
+      "Discussion shared via the r/MediaSynthesis community.",
+      "Focuses on the trajectory of text games over a five-decade span."
+    ],
+    "bodyMarkdown": "A recent review of *50 Years of Text Games* by Aaron Reed has surfaced within the r/MediaSynthesis community. The work serves as a comprehensive retrospective, tracing the development, mechanics, and cultural impact of text-based interactive fiction from its inception to the present day.\n\nShared by user /u/gwern, the review highlights the intersection of early computing and narrative design. By examining fifty years of evolution, Reed provides a framework for understanding how text games laid the groundwork for modern RPGs and interactive storytelling, offering critical insights for those interested in the synthesis of media and algorithmic narrative.",
+    "whyItMatters": "Understanding the history of text games is essential for AI researchers and game designers working on Large Language Models (LLMs) and prompt-based gaming, as these modern tools are the direct spiritual successors to the text adventures of the last 50 years.",
+    "creatorTakeaway": "Studying the constraints and successes of early text games can provide a blueprint for designing more engaging, coherent, and structured AI-driven narratives.",
+    "tags": [
+      "Interactive Fiction",
+      "Text Games",
+      "Media Synthesis",
+      "Gaming History",
+      "Aaron Reed"
+    ],
+    "readingTime": 1,
+    "publishedAt": "2026-05-18T08:29:26.195Z",
+    "sources": [
+      {
+        "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+        "sourceName": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/",
+        "sourceType": "reddit",
+        "usedFor": "primary"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v1",
+      "generatedAt": "2026-05-18T08:29:26.195Z",
+      "sourceClusterId": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-18",
+      "confidence": "low"
+    },
+    "status": "published"
+  }
+];

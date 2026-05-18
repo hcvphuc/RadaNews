@@ -50,5 +50,6 @@ await writeFile(resolve(root, "content/exports/generation-drafts.mock.json"), JS
 
 await exportRuntimeAgentData({ notes, clusters, drafts: generationDrafts });
 await exportAgentData();
+await import("./sync-articles.ts");
 
 console.log(`Daily pipeline completed with ${extracted.length} sources, ${clusters.length} clusters and ${generationDrafts.length} generation draft sets.`);

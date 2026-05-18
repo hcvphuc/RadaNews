@@ -1,6 +1,11 @@
-import { articles, publishedArticles } from "@/data/articles";
+import { articles as mockArticles, publishedArticles as mockPublished } from "@/data/articles";
+import { generatedArticles } from "@/data/articles-generated";
 import { categories } from "@/lib/categories";
 import type { Article, Category, Lang } from "@/lib/schema";
+
+const allArticles: Article[] = [...mockArticles, ...generatedArticles];
+export const articles: Article[] = allArticles;
+export const publishedArticles: Article[] = allArticles.filter((a) => a.status === "published");
 
 export function getArticles(lang?: Lang) {
   return publishedArticles
