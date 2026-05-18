@@ -1,30 +1,5 @@
 [
   {
-    "clusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18",
-    "category": "ai-image",
-    "topic": "AI Video Research & Innovation | Runway AI",
-    "sourceIds": [
-      "src_runway-research_4c72ae34dd32cd2b",
-      "src_black-forest-labs_db0e6d09e99dbd6f",
-      "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-stablediffusion_cfae1b6c274147b7",
-      "src_reddit-stablediffusion_9d8b8ef5bcfa4fae",
-      "src_reddit-stablediffusion_cb06d8bf50984649",
-      "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-stablediffusion_c4bf38f81527d76a",
-      "src_reddit-comfyui_0618b627062efca3",
-      "src_reddit-comfyui_60cc90b7ffbe8bbf",
-      "src_reddit-midjourney_8df2718c2362b144",
-      "src_reddit-midjourney_91c5cf49176c170c",
-      "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_stability-ai-blog_2026-05-18_fallback"
-    ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 14 source item(s), 13 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
     "clusterId": "cluster_ai-agentic_warelay-openclaw_2026-05-18",
     "category": "ai-agentic",
     "topic": "Warelay -> OpenClaw",
@@ -33,17 +8,17 @@
       "src_langchain-blog_40ded3f923e3291d",
       "src_luma-blog_c7449029956c34f9",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_reddit-stablediffusion_fd727932349bd495",
-      "src_reddit-comfyui_a5ede4bc4c38e4dd",
       "src_simonwillison-blog_5bb767fc96d52556",
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_lilianweng-blog_31a2c7baf9b791a5",
+      "src_reddit-comfyui_a5ede4bc4c38e4dd",
       "src_simonwillison-blog_4de95d521694bc0e",
       "src_simonwillison-blog_db318862e4e2d144",
       "src_reddit-aiagents_6438a4e0e0347d32",
-      "src_reddit-aiagents_55505a7b913bd1e2",
+      "src_reddit-stablediffusion_fd727932349bd495",
+      "src_reddit-aiagents_81949410f065ac4f",
       "src_reddit-aiagents_40b6a9a6ec813c8b",
-      "src_reddit-comfyui_453da0d5e0f9f930",
+      "src_reddit-aiagents_55505a7b913bd1e2",
       "src_openai-blog_2026-05-18_fallback",
       "src_mcp-blog_2026-05-18_fallback"
     ],
@@ -63,33 +38,56 @@
       "src_reddit-aiagents_84a136c0826ee136",
       "src_replit-blog_49899058ba32f8e5",
       "src_reddit-comfyui_516c6409f31de6ee",
-      "src_reddit-midjourney_51241c29e112183d",
-      "src_reddit-mediasynthesis_334324f1d5231047",
       "src_vercel-ai-blog_2026-05-18_fallback",
       "src_reddit-mediasynthesis_b86ed67c8d8e526c"
     ],
-    "articleWorthinessScore": 0.92,
-    "reasonSelected": "Score 0.92 from 10 source item(s), 9 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "articleWorthinessScore": 0.98,
+    "reasonSelected": "Score 0.98 from 8 source item(s), 7 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_we-are-losing-the-ability-to-sit-alone-with-our-thoughts_2026-05-18",
-    "category": "ai-video",
-    "topic": "We are losing the ability to sit alone with our thoughts",
+    "clusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18",
+    "category": "ai-image",
+    "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
-      "src_reddit-aiagents_174609157be1f79d",
+      "src_runway-research_4c72ae34dd32cd2b",
+      "src_black-forest-labs_db0e6d09e99dbd6f",
+      "src_replicate-blog_572c1f4ac9c0ea5c",
+      "src_reddit-stablediffusion_df77060a0e4471c8",
+      "src_comfyui-blog_fa3eb47ac5fb52c8",
+      "src_reddit-stablediffusion_9d8b8ef5bcfa4fae",
+      "src_reddit-stablediffusion_c4bf38f81527d76a",
+      "src_reddit-comfyui_0618b627062efca3",
+      "src_reddit-stablediffusion_a5c219d916349fa2",
+      "src_reddit-comfyui_60cc90b7ffbe8bbf",
+      "src_reddit-midjourney_91c5cf49176c170c",
+      "src_reddit-midjourney_8df2718c2362b144",
+      "src_reddit-mediasynthesis_459f419f1f6e36c2",
+      "src_reddit-comfyui_453da0d5e0f9f930",
+      "src_stability-ai-blog_2026-05-18_fallback"
+    ],
+    "articleWorthinessScore": 0.95,
+    "reasonSelected": "Score 0.95 from 15 source item(s), 14 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_kling-ai_2026-05-18",
+    "category": "ai-video",
+    "topic": "Kling AI",
+    "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
       "src_pika-blog_80e55ecea6acd04d",
       "src_reddit-aivideo_a7a9a72758720ba6",
-      "src_reddit-mediasynthesis_77fd766897b9ab43",
       "src_reddit-aivideo_5a163fe980d106d8",
+      "src_reddit-mediasynthesis_77fd766897b9ab43",
       "src_reddit-aivideo_dc7e3297fc3d45c6",
-      "src_reddit-aivideo_d40c722bd98a42b8",
-      "src_reddit-aivideo_ea1d9ffb844226b3"
+      "src_reddit-aivideo_ea1d9ffb844226b3",
+      "src_reddit-aivideo_d40c722bd98a42b8"
     ],
-    "articleWorthinessScore": 0.87,
-    "reasonSelected": "Score 0.87 from 9 source item(s), 9 live crawl(s), strongest sources: r/AI_Agents, Kling AI Blog, Pika Labs Blog.",
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 8 source item(s), 8 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -99,10 +97,11 @@
     "topic": "CREEPY VAMPIRE LAIRS",
     "sourceIds": [
       "src_reddit-midjourney_975cff191eaa24ce",
-      "src_reddit-midjourney_af92d3bef5780c79"
+      "src_reddit-midjourney_af92d3bef5780c79",
+      "src_reddit-midjourney_51241c29e112183d"
     ],
-    "articleWorthinessScore": 0.62,
-    "reasonSelected": "Score 0.62 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
+    "articleWorthinessScore": 0.68,
+    "reasonSelected": "Score 0.68 from 3 source item(s), 3 live crawl(s), strongest sources: r/midjourney.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
@@ -111,11 +110,12 @@
     "category": "prompt-video",
     "topic": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
     "sourceIds": [
-      "src_reddit-mediasynthesis_8dc8d246a27d02f6"
+      "src_reddit-mediasynthesis_8dc8d246a27d02f6",
+      "src_reddit-mediasynthesis_334324f1d5231047"
     ],
-    "articleWorthinessScore": 0.42,
-    "reasonSelected": "Score 0.42 from 1 source item(s), 1 live crawl(s), strongest sources: r/MediaSynthesis.",
-    "confidence": "low",
+    "articleWorthinessScore": 0.46,
+    "reasonSelected": "Score 0.46 from 2 source item(s), 2 live crawl(s), strongest sources: r/MediaSynthesis.",
+    "confidence": "medium",
     "selectedForGeneration": true
   }
 ]
