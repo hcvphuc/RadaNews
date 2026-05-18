@@ -38,6 +38,21 @@ function bgStyle(src: string | undefined): string {
       </div>
       <h1>{article.title}</h1>
       {article.subtitle && <p>{article.subtitle}</p>}
+
+      {article.heroMedia && (
+        <figure class="hero-media" aria-hidden="true">
+          <img src={article.heroMedia.src} alt={article.heroMedia.alt} loading="eager" />
+          {(article.heroMedia.caption || article.heroMedia.credit) && (
+            <figcaption>
+              {article.heroMedia.caption}
+              {article.heroMedia.credit && (
+                <span class="hero-credit"> · {article.heroMedia.credit}</span>
+              )}
+            </figcaption>
+          )}
+        </figure>
+      )}
+
       <div class="article-actions">
         {otherVariant && <a class="btn-secondary" href={articleUrl(otherVariant)}>{otherLang.toUpperCase()} Version</a>}
         <button class="btn-secondary bookmark-button" type="button" data-bookmark={article.id}>
@@ -61,21 +76,6 @@ function bgStyle(src: string | undefined): string {
 
       <!-- Center: Main content -->
       <div class="article-main">
-
-        <!-- ═══ 2. Hero Media ═══ -->
-        {article.heroMedia && (
-          <figure class="hero-media" aria-hidden="true">
-            <img src={article.heroMedia.src} alt={article.heroMedia.alt} loading="eager" />
-            {(article.heroMedia.caption || article.heroMedia.credit) && (
-              <figcaption>
-                {article.heroMedia.caption}
-                {article.heroMedia.credit && (
-                  <span class="hero-credit"> · {article.heroMedia.credit}</span>
-                )}
-              </figcaption>
-            )}
-          </figure>
-        )}
 
         <!-- ═══ 3. Highlights ═══ -->
         {article.highlights && article.highlights.length > 0 && (
@@ -241,7 +241,7 @@ function bgStyle(src: string | undefined): string {
 
   /* ── 2. Hero Media ── */
   .hero-media {
-    margin: 20px 0 32px;
+    margin: 0;
     border-radius: 14px;
     overflow: hidden;
     border: 1px solid rgba(43, 46, 51, 0.8);
