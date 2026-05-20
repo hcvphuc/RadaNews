@@ -298,5 +298,219 @@
     "publishedAt": "2026-05-16T06:20:00+07:00",
     "readingTime": 4,
     "url": "/en/prompt-video/shot-by-shot-video-prompts-for-a-short-ai-trailer"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-20_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Kỷ nguyên 'Vibe Coding': Khi AI xóa nhòa ranh giới giữa Ý tưởng và Mã nguồn",
+    "subtitle": "Sự trỗi dậy của các AI Agent như Replit Agent 4 và Cursor đang chuyển dịch trọng tâm từ việc 'viết code' sang 'điều phối vibe', biến lập trình thành một hoạt động sáng tạo thuần túy.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "software-engineering",
+      "anthropic",
+      "google-gemini"
+    ],
+    "publishedAt": "2026-05-20T13:47:32.998Z",
+    "readingTime": 6,
+    "url": "/vi/ai-vibe-coding/ky-nguyen-vibe-coding-khi-ai-xoa-nhoa-ranh-gioi-giua-y-tu-2026-05-20"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-20_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "The Vibe Coding Paradox: High-Velocity Prototyping vs. The Rising Cost of Intelligence",
+    "subtitle": "As Replit and Cursor push 'vibe coding' into the mainstream, a new economic tension emerges between the ease of agentic creation and the aggressive price hikes of frontier models.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "llm-economics",
+      "software-engineering",
+      "anthropic"
+    ],
+    "publishedAt": "2026-05-20T13:48:44.702Z",
+    "readingTime": 5,
+    "url": "/en/ai-vibe-coding/the-vibe-coding-paradox-high-velocity-prototyping-vs-the-r-2026-05-20"
+  },
+  {
+    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20_vi",
+    "lang": "vi",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "Từ 'Vibe-coding' đến World Models: Cuộc Đua Tái Định Nghĩa Quy Trình Sản Xuất Video AI",
+    "subtitle": "Sự dịch chuyển từ việc chỉ tạo ra các clip ngắn sang xây dựng hệ sinh thái 'mô phỏng thế giới' và tối ưu hóa pipeline thực tế cho filmmaker.",
+    "tags": [
+      "AI-Video",
+      "Runway-AI",
+      "ComfyUI",
+      "World-Models",
+      "Generative-AI"
+    ],
+    "publishedAt": "2026-05-20T13:50:23.516Z",
+    "readingTime": 5,
+    "url": "/vi/ai-image/tu-vibe-coding-en-world-models-cuoc-ua-tai-inh-nghia-q-2026-05-20"
+  },
+  {
+    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20_en",
+    "lang": "en",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "Beyond the Prompt: The Shift from 'Magic Boxes' to Precision Pipelines",
+    "subtitle": "The AI visual landscape is pivoting from simple text-to-image generation toward complex, multi-stage pipelines that prioritize cinematic control, hardware efficiency, and structural coherence.",
+    "tags": [
+      "AI-Video-Production",
+      "ComfyUI-Workflows",
+      "Runway-Research",
+      "Diffusion-Optimization",
+      "Cinematic-AI"
+    ],
+    "publishedAt": "2026-05-20T13:51:11.061Z",
+    "readingTime": 5,
+    "url": "/en/ai-image/beyond-the-prompt-the-shift-from-magic-boxes-to-precision-2026-05-20"
+  },
+  {
+    "id": "cluster_ai-agentic_langchain-blog_2026-05-20_vi",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "Từ 'Demo Hào Nhoáng' đến 'Sản Phẩm Tin Cậy': Cuộc Chiến Chống Lại Sự Bất Định của AI Agent",
+    "subtitle": "Khi các framework như LangGraph và LangSmith cố gắng chuẩn hóa 'tư duy' của Agent, các builder đang đối mặt với một thực tế phũ phàng: Sự thông minh không còn là nút thắt, mà là sự ổn định.",
+    "tags": [
+      "AI-Agents",
+      "LangChain",
+      "LLMOps",
+      "SoftwareEngineering",
+      "Automation"
+    ],
+    "publishedAt": "2026-05-20T13:47:52.653Z",
+    "readingTime": 6,
+    "url": "/vi/ai-agentic/tu-demo-hao-nhoang-en-san-pham-tin-cay-cuoc-chien-chon-2026-05-20"
+  },
+  {
+    "id": "cluster_ai-agentic_langchain-blog_2026-05-20_en",
+    "lang": "en",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "The Reliability Gap: Why Agentic AI is Shifting from 'Intelligence' to 'Infrastructure'",
+    "subtitle": "As the industry moves past impressive demos, the new frontier for AI agents isn't smarter LLMs, but the observability and stability layers that prevent autonomous loops.",
+    "tags": [
+      "AI-Agents",
+      "AgentOps",
+      "LangChain",
+      "LLM-Observability",
+      "Software-Architecture"
+    ],
+    "publishedAt": "2026-05-20T13:50:00.083Z",
+    "readingTime": 5,
+    "url": "/en/ai-agentic/the-reliability-gap-why-agentic-ai-is-shifting-from-intell-2026-05-20"
+  },
+  {
+    "id": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20_vi",
+    "lang": "vi",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Từ 'Lắc Hình' đến 'Điều Khiển Cảnh': Bước Nhảy Vọt của Local I2V với LTX Director",
+    "subtitle": "Kỷ nguyên của những video AI 'một click' đang kết thúc, nhường chỗ cho quy trình điều phối đa hình ảnh (multi-image) giúp kiểm soát tuyệt đối chuyển động và góc máy.",
+    "tags": [
+      "AI-Video",
+      "LTX-Director",
+      "Image-to-Video",
+      "AI-Cinematography",
+      "Workflow-Optimization"
+    ],
+    "publishedAt": "2026-05-20T13:48:52.889Z",
+    "readingTime": 6,
+    "url": "/vi/ai-video/tu-lac-hinh-en-ieu-khien-canh-buoc-nhay-vot-cua-local-2026-05-20"
+  },
+  {
+    "id": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20_en",
+    "lang": "en",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Beyond the 'Image Wiggle': The Rise of Shot Direction in Local I2V",
+    "subtitle": "New workflows in LTX Director and advanced storyboarding are shifting AI video from random motion to intentional cinematography.",
+    "tags": [
+      "AI-Video",
+      "LTX-Director",
+      "Cinematography",
+      "I2V-Workflows",
+      "Local-AI"
+    ],
+    "publishedAt": "2026-05-20T13:49:28.972Z",
+    "readingTime": 5,
+    "url": "/en/ai-video/beyond-the-image-wiggle-the-rise-of-shot-direction-in-loc-2026-05-20"
+  },
+  {
+    "id": "cluster_prompt-image_release-the-hounds_2026-05-20_vi",
+    "lang": "vi",
+    "category": "prompt-image",
+    "categoryLabel": "Prompt Image",
+    "title": "Từ 'Release The Hounds' đến Chiaroscuro: Khi AI Image Generation Chuyển Mình Từ Mô Phỏng Sang Kể Chuyện Thị Giác",
+    "subtitle": "Phân tích xu hướng dịch chuyển từ việc tạo ảnh 'đẹp' sang việc xây dựng bầu không khí (atmosphere) và chiều sâu tự sự thông qua các kỹ thuật prompt nâng cao trên Midjourney.",
+    "tags": [
+      "Midjourney",
+      "AI-Art-Trends",
+      "VisualStorytelling",
+      "Chiaroscuro",
+      "PromptEngineering"
+    ],
+    "publishedAt": "2026-05-20T13:47:46.436Z",
+    "readingTime": 6,
+    "url": "/vi/prompt-image/tu-release-the-hounds-en-chiaroscuro-khi-ai-image-genera-2026-05-20"
+  },
+  {
+    "id": "cluster_prompt-image_release-the-hounds_2026-05-20_en",
+    "lang": "en",
+    "category": "prompt-image",
+    "categoryLabel": "Prompt Image",
+    "title": "The Chiaroscuro Pivot: Why Midjourney Creators are Abandoning Photorealism for High-Contrast Narrative",
+    "subtitle": "A shift toward 'dark fairy tales' and high-contrast lighting indicates a move away from generic AI realism toward intentional, mood-driven digital artistry.",
+    "tags": [
+      "Midjourney",
+      "AI-Art-Trends",
+      "Chiaroscuro",
+      "DigitalStorytelling",
+      "PromptEngineering"
+    ],
+    "publishedAt": "2026-05-20T13:48:53.143Z",
+    "readingTime": 5,
+    "url": "/en/prompt-image/the-chiaroscuro-pivot-why-midjourney-creators-are-abandonin-2026-05-20"
+  },
+  {
+    "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20_vi",
+    "lang": "vi",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "Từ 'The Odyssey' đến Kỷ nguyên Hyper-Realistic: Khi AI Video không còn là 'Đồ chơi' mà là Công cụ Tái định nghĩa Điện ảnh",
+    "subtitle": "Phân tích sự chuyển dịch từ việc tạo clip ngắn ngẫu nhiên sang khả năng xây dựng thế giới (world-building) nhất quán thông qua các trailer AI 4K chất lượng cao.",
+    "tags": [
+      "AI-Video",
+      "Generative-AI",
+      "Digital-Storytelling",
+      "AI-Cinematography",
+      "Content-Creation"
+    ],
+    "publishedAt": "2026-05-20T13:49:02.786Z",
+    "readingTime": 6,
+    "url": "/vi/prompt-video/tu-the-odyssey-en-ky-nguyen-hyper-realistic-khi-ai-video-2026-05-20"
+  },
+  {
+    "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20_en",
+    "lang": "en",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "The 'Accuracy' Paradox: Decoding the AI Cinematic Pivot in 'The Odyssey'",
+    "subtitle": "As AI video moves from surrealist loops to structured narratives like 'The Odyssey (But Accurate)', the industry is shifting from 'prompting for vibes' to 'prompting for precision'.",
+    "tags": [
+      "prompt-video",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-20T13:49:40.772Z",
+    "readingTime": 5,
+    "url": "/en/prompt-video/the-accuracy-paradox-decoding-the-ai-cinematic-pivot-in-2026-05-20"
   }
 ]
