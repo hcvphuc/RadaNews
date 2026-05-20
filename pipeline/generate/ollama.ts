@@ -26,10 +26,10 @@ export async function generateWithOllama(options: {
   system: string;
   prompt: string;
 }): Promise<string | undefined> {
-  const useOllama = process.env.AI_RADAR_USE_OLLAMA;
-  console.log(`[ollama] AI_RADAR_USE_OLLAMA="${useOllama}" (len=${useOllama?.length})`);
-  if (useOllama !== "true") {
-    console.log("[ollama] SKIPPED — AI_RADAR_USE_OLLAMA is not exactly 'true'");
+  const useOllama = (process.env.AI_RADAR_USE_OLLAMA || "").trim().toLowerCase();
+  console.log(`[ollama] AI_RADAR_USE_OLLAMA="${process.env.AI_RADAR_USE_OLLAMA}" → normalized="${useOllama}"`);
+  if (useOllama !== "true" && useOllama !== "1") {
+    console.log("[ollama] SKIPPED — AI_RADAR_USE_OLLAMA not true/1");
     return undefined;
   }
 
