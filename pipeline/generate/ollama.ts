@@ -15,11 +15,11 @@ type GenerateResponse = {
   response?: string;
 };
 
-const DEFAULT_MODEL = "gemma4:31b";
-const DEFAULT_ENDPOINT = "https://ollama.com/v1";
+const ENDPOINT = "https://ollama.com/v1";
+const MODEL = "gemma4:31b";
 
 export function ollamaModel() {
-  return process.env.OLLAMA_MODEL || DEFAULT_MODEL;
+  return MODEL;
 }
 
 export async function generateWithOllama(options: {
@@ -27,22 +27,13 @@ export async function generateWithOllama(options: {
   prompt: string;
 }): Promise<string | undefined> {
   const apiKey = process.env.OLLAMA_API_KEY;
-  console.log(`[ollama] OLLAMA_API_KEY present=${!!apiKey}`);
   if (!apiKey) {
-    console.log("[ollama] SKIPPED — no OLLAMA_API_KEY");
+    console.error("[ollama] SKIPPED — OLLAMA_API_KEY not set");
     return undefined;
   }
+  console.log("[ollama] OLLAMA_API_KEY found, calling API...");
 
-  const endpoint = process.env.OLLAMA_ENDPOINT || DEFAULT_ENDPOINT;
-
-  // Detect protocol: OpenAI-compatible (/v1) vs legacy Ollama (/api)
-  const isOpenAICompatible = endpoint.includes("/v1");
-
-  if (isOpenAICompatible) {
-    return generateWithChatCompletions(endpoint, options, apiKey);
-  }
-
-  return generateWithLegacyOllama(endpoint, options);
+  return generateWithChatCompletions(ENDPOINT, options, apiKey);
 }
 
 async function generateWithChatCompletions(
