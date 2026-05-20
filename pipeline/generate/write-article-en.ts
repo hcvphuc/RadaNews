@@ -103,7 +103,7 @@ function templateDraft(cluster: TopicCluster, notes: SourceNote[]): GeneratedArt
     category: cluster.category,
     title: `${cluster.topic}: creator and builder analysis`,
     subtitle: `Signal synthesized from ${sourceNames}, scored by recency, content depth, and source reliability.`,
-    heroMedia: firstSrc?.url ? { type: "image" as const, src: firstSrc.url, alt: cluster.topic, caption: `Source: ${firstSrc.sourceName}` } : undefined as any,
+    heroMedia: undefined as any,
     highlights: facts.slice(0, 4).map((f) => ({ text: f })),
     sections: [{
       id: "main",

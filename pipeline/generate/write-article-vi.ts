@@ -103,7 +103,7 @@ function templateDraft(cluster: TopicCluster, notes: SourceNote[]): GeneratedArt
     category: cluster.category,
     title: `${cluster.topic}: góc nhìn cho creator và builder`,
     subtitle: `Tín hiệu được tổng hợp từ ${sourceNames}, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.`,
-    heroMedia: firstSrc?.url ? { type: "image" as const, src: firstSrc.url, alt: cluster.topic, caption: `Nguồn: ${firstSrc.sourceName}` } : undefined as any,
+    heroMedia: undefined as any,
     highlights: facts.slice(0, 4).map((f) => ({ text: f })),
     sections: [{
       id: "main",

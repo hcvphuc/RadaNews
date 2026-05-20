@@ -58,10 +58,43 @@ export type GeneratedArticleDraft = {
   category: Category;
   title: string;
   subtitle: string;
+  // Legacy fields (kept for backward compat)
   tldr: string[];
   bodyMarkdown: string;
   whyItMatters: string;
   creatorTakeaway: string;
+  // New structured fields
+  heroMedia?: {
+    type: string;
+    src: string;
+    alt: string;
+    caption?: string;
+    credit?: string;
+    sourceUrl?: string;
+  };
+  highlights?: { text: string }[];
+  sections?: {
+    id: string;
+    heading: string;
+    subheading?: string;
+    blocks: Record<string, unknown>[];
+  }[];
+  insightBlocks?: {
+    title: string;
+    text: string;
+    variant?: string;
+  }[];
+  takeaway?: {
+    title?: string;
+    text?: string | string[];
+    items?: string[];
+  };
+  sources?: {
+    title: string;
+    publisher?: string;
+    url: string;
+    publishedAt?: string;
+  }[];
   tags: string[];
   sourceIds: string[];
   sourceUrls: string[];

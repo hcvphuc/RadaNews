@@ -36,18 +36,15 @@ function buildCluster(category: Category, items: SourceItem[]): TopicCluster {
 
 function topicLabel(category: Category, items: SourceItem[]) {
   const bestTitle = items[0]?.title.replace(/\s+/g, " ").trim();
-  if (bestTitle && !bestTitle.toLowerCase().includes("signal for")) return bestTitle;
-
-  const labels: Record<Category, string> = {
-    "ai-agentic": "Agentic AI workflow signal",
-    "ai-image": "AI image production signal",
-    "ai-video": "AI video workflow signal",
-    "ai-vibe-coding": "AI coding workflow signal",
-    "prompt-image": "Image prompt workflow signal",
-    "prompt-video": "Video prompt workflow signal"
-  };
-
-  return labels[category];
+  // Truncate long titles, remove "signal for" suffix
+  let clean = (bestTitle && !bestTitle.toLowerCase().includes("signal for"))
+    ? bestTitle
+    : "AI signal";
+  // Max 80 chars for topic label
+  if (clean.length > 80) {
+    clean = clean.slice(0, 77) + "...";
+  }
+  return clean;
 }
 
 function reasonForSelection(items: SourceItem[], score: number) {
