@@ -26,15 +26,14 @@ export async function generateWithOllama(options: {
   system: string;
   prompt: string;
 }): Promise<string | undefined> {
-  const useOllama = (process.env.AI_RADAR_USE_OLLAMA || "").trim().toLowerCase();
-  console.log(`[ollama] AI_RADAR_USE_OLLAMA="${process.env.AI_RADAR_USE_OLLAMA}" → normalized="${useOllama}"`);
-  if (useOllama !== "true" && useOllama !== "1") {
-    console.log("[ollama] SKIPPED — AI_RADAR_USE_OLLAMA not true/1");
+  const apiKey = process.env.OLLAMA_API_KEY;
+  console.log(`[ollama] OLLAMA_API_KEY present=${!!apiKey}`);
+  if (!apiKey) {
+    console.log("[ollama] SKIPPED — no OLLAMA_API_KEY");
     return undefined;
   }
 
   const endpoint = process.env.OLLAMA_ENDPOINT || DEFAULT_ENDPOINT;
-  const apiKey = process.env.OLLAMA_API_KEY;
 
   // Detect protocol: OpenAI-compatible (/v1) vs legacy Ollama (/api)
   const isOpenAICompatible = endpoint.includes("/v1");
