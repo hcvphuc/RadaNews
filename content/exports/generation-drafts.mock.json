@@ -70,7 +70,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T07:10:44.922Z",
+        "generatedAt": "2026-05-20T10:54:49.742Z",
         "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -129,7 +129,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T07:10:44.923Z",
+        "generatedAt": "2026-05-20T10:54:49.742Z",
         "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -175,7 +175,7 @@
         "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.",
         "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
       ],
-      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.96 với confidence high.\n\n## Phân tích\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.\n- Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.\n\n## Nguồn cần kiểm chứng\n\n- Stability AI Blog: Stability AI Blog signal for ai-image\n- Black Forest Labs: Blog | Black Forest Labs\n- Replicate Blog: Blog – Replicate\n- r/StableDiffusion: RL lora for LTX2.3. It greatly increases coherence and quality while reducing artifacts.\n- r/StableDiffusion: Nvidia RTX 2 pass Upscaler (4GB VRAM + 8GB RAM)\n- r/comfyui: How to change camera angle while preserving everything else in FLUX 2 Klein? (img2img)\n- r/comfyui: [Free Grab] Juggernaut Z — Cinematic Still Plate Workflow for AI Filmmaking\n- r/comfyui: I've worked to optimize this workflow and add Ollama to help with Prompts!\n- Runway Research: AI Video Research & Innovation | Runway AI\n- ComfyUI Blog: ComfyUI Blog | Robin | Substack\n- r/midjourney: V8.1 Alpha is out!\n- r/midjourney: V8 alpha is here!\n- r/MediaSynthesis: Probable changes to the subreddit",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.97 với confidence high.\n\n## Phân tích\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.\n- Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.\n\n## Nguồn cần kiểm chứng\n\n- Stability AI Blog: Stability AI Blog signal for ai-image\n- Black Forest Labs: Blog | Black Forest Labs\n- Replicate Blog: Blog – Replicate\n- r/StableDiffusion: RL lora for LTX2.3. It greatly increases coherence and quality while reducing artifacts.\n- r/StableDiffusion: Vibecoded a SPEED sampler for Anima in ComfyUI\n- r/StableDiffusion: Nvidia RTX 2 pass Upscaler (4GB VRAM + 8GB RAM)\n- r/comfyui: How to change camera angle while preserving everything else in FLUX 2 Klein? (img2img)\n- r/comfyui: [Free Grab] Juggernaut Z — Cinematic Still Plate Workflow for AI Filmmaking\n- r/comfyui: I've worked to optimize this workflow and add Ollama to help with Prompts!\n- Runway Research: AI Video Research & Innovation | Runway AI\n- ComfyUI Blog: ComfyUI Blog | Robin | Substack\n- r/midjourney: V8.1 Alpha is out!\n- r/midjourney: V8 alpha is here!\n- r/MediaSynthesis: Probable changes to the subreddit",
       "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
       "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
@@ -189,6 +189,7 @@
         "src_replicate-blog_572c1f4ac9c0ea5c",
         "src_reddit-stablediffusion_806c984aa04fe8af",
         "src_reddit-comfyui_ddde2dc70fd315db",
+        "src_reddit-stablediffusion_7248c9009f6a84e8",
         "src_comfyui-blog_fa3eb47ac5fb52c8",
         "src_reddit-comfyui_7c5a208124eb6ba0",
         "src_reddit-stablediffusion_9e64a5e0ac12658e",
@@ -203,6 +204,7 @@
         "https://blackforestlabs.ai/blog/",
         "https://replicate.com/blog",
         "https://www.reddit.com/r/StableDiffusion/comments/1ti3jar/rl_lora_for_ltx23_it_greatly_increases_coherence/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tiff8k/vibecoded_a_speed_sampler_for_anima_in_comfyui/",
         "https://www.reddit.com/r/StableDiffusion/comments/1ti0dfv/nvidia_rtx_2_pass_upscaler_4gb_vram_8gb_ram/",
         "https://www.reddit.com/r/comfyui/comments/1tic05s/how_to_change_camera_angle_while_preserving/",
         "https://www.reddit.com/r/comfyui/comments/1ti4qe5/free_grab_juggernaut_z_cinematic_still_plate/",
@@ -216,7 +218,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T07:10:44.922Z",
+        "generatedAt": "2026-05-20T10:54:49.742Z",
         "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -234,7 +236,7 @@
         "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.",
         "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
       ],
-      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.96 with high confidence.\n\n## Analysis\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.\n- Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.\n\n## Sources to verify\n\n- Stability AI Blog: Stability AI Blog signal for ai-image\n- Black Forest Labs: Blog | Black Forest Labs\n- Replicate Blog: Blog – Replicate\n- r/StableDiffusion: RL lora for LTX2.3. It greatly increases coherence and quality while reducing artifacts.\n- r/StableDiffusion: Nvidia RTX 2 pass Upscaler (4GB VRAM + 8GB RAM)\n- r/comfyui: How to change camera angle while preserving everything else in FLUX 2 Klein? (img2img)\n- r/comfyui: [Free Grab] Juggernaut Z — Cinematic Still Plate Workflow for AI Filmmaking\n- r/comfyui: I've worked to optimize this workflow and add Ollama to help with Prompts!\n- Runway Research: AI Video Research & Innovation | Runway AI\n- ComfyUI Blog: ComfyUI Blog | Robin | Substack\n- r/midjourney: V8.1 Alpha is out!\n- r/midjourney: V8 alpha is here!\n- r/MediaSynthesis: Probable changes to the subreddit",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.97 with high confidence.\n\n## Analysis\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.\n- Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.\n\n## Sources to verify\n\n- Stability AI Blog: Stability AI Blog signal for ai-image\n- Black Forest Labs: Blog | Black Forest Labs\n- Replicate Blog: Blog – Replicate\n- r/StableDiffusion: RL lora for LTX2.3. It greatly increases coherence and quality while reducing artifacts.\n- r/StableDiffusion: Vibecoded a SPEED sampler for Anima in ComfyUI\n- r/StableDiffusion: Nvidia RTX 2 pass Upscaler (4GB VRAM + 8GB RAM)\n- r/comfyui: How to change camera angle while preserving everything else in FLUX 2 Klein? (img2img)\n- r/comfyui: [Free Grab] Juggernaut Z — Cinematic Still Plate Workflow for AI Filmmaking\n- r/comfyui: I've worked to optimize this workflow and add Ollama to help with Prompts!\n- Runway Research: AI Video Research & Innovation | Runway AI\n- ComfyUI Blog: ComfyUI Blog | Robin | Substack\n- r/midjourney: V8.1 Alpha is out!\n- r/midjourney: V8 alpha is here!\n- r/MediaSynthesis: Probable changes to the subreddit",
       "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
       "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
@@ -248,6 +250,7 @@
         "src_replicate-blog_572c1f4ac9c0ea5c",
         "src_reddit-stablediffusion_806c984aa04fe8af",
         "src_reddit-comfyui_ddde2dc70fd315db",
+        "src_reddit-stablediffusion_7248c9009f6a84e8",
         "src_comfyui-blog_fa3eb47ac5fb52c8",
         "src_reddit-comfyui_7c5a208124eb6ba0",
         "src_reddit-stablediffusion_9e64a5e0ac12658e",
@@ -262,6 +265,7 @@
         "https://blackforestlabs.ai/blog/",
         "https://replicate.com/blog",
         "https://www.reddit.com/r/StableDiffusion/comments/1ti3jar/rl_lora_for_ltx23_it_greatly_increases_coherence/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tiff8k/vibecoded_a_speed_sampler_for_anima_in_comfyui/",
         "https://www.reddit.com/r/StableDiffusion/comments/1ti0dfv/nvidia_rtx_2_pass_upscaler_4gb_vram_8gb_ram/",
         "https://www.reddit.com/r/comfyui/comments/1tic05s/how_to_change_camera_angle_while_preserving/",
         "https://www.reddit.com/r/comfyui/comments/1ti4qe5/free_grab_juggernaut_z_cinematic_still_plate/",
@@ -275,7 +279,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T07:10:44.923Z",
+        "generatedAt": "2026-05-20T10:54:49.743Z",
         "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -315,13 +319,13 @@
       "lang": "vi",
       "category": "ai-agentic",
       "title": "LangChain Blog: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, r/comfyui, Luma Labs Blog, Hugging Face Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "tldr": [
         "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
         "Something went wrong while submitting the form.",
         "How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories No items found."
       ],
-      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.94 với confidence high.\n\n## Phân tích\n\n- LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n- Something went wrong while submitting the form.\n- How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories No items found.\n\n## Nguồn cần kiểm chứng\n\n- LangChain Blog: LangChain Blog\n- OpenAI Blog: OpenAI Blog signal for ai-agentic\n- MCP Blog: MCP Blog signal for ai-agentic\n- r/AI_Agents: Weekly Thread: Project Display\n- r/AI_Agents: Weekly Hiring Thread\n- r/AI_Agents: AI agents for someone just starting out?\n- r/AI_Agents: AI started feeling useful to me when it stopped waiting for every next instruction\n- r/StableDiffusion: Update Characters generator - v1.3 Now with Anima! | Generation of detailed сharacter for full body\n- r/comfyui: ComfyUI Tutorial: Realistic AI Lip Sync Dubbing with LTX 2.3 LORA Low Vram workflow (6 Gb Vram,16 Gb of Ram)\n- r/comfyui: How do i create a 85% to 95% LoRA of a complex character?\n- Luma Labs Blog: News | Luma\n- Hugging Face Blog: Hugging Face – Blog\n- Lil'Log: Lil'Log",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.93 với confidence high.\n\n## Phân tích\n\n- LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n- Something went wrong while submitting the form.\n- How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories No items found.\n\n## Nguồn cần kiểm chứng\n\n- LangChain Blog: LangChain Blog\n- OpenAI Blog: OpenAI Blog signal for ai-agentic\n- MCP Blog: MCP Blog signal for ai-agentic\n- r/AI_Agents: Weekly Thread: Project Display\n- r/AI_Agents: Weekly Hiring Thread\n- r/AI_Agents: What’s the most unhinged AI agent setup you’ve seen someone actually use in production?\n- r/AI_Agents: AI agents for someone just starting out?\n- r/comfyui: ComfyUI Tutorial: Realistic AI Lip Sync Dubbing with LTX 2.3 LORA Low Vram workflow (6 Gb Vram,16 Gb of Ram)\n- r/comfyui: How do i create a 85% to 95% LoRA of a complex character?\n- Luma Labs Blog: News | Luma\n- Hugging Face Blog: Hugging Face – Blog\n- Lil'Log: Lil'Log",
       "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
       "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
@@ -335,9 +339,8 @@
         "src_huggingface-blog_af185e1e7e4dfbac",
         "src_reddit-comfyui_40f726ab7f3ce111",
         "src_lilianweng-blog_31a2c7baf9b791a5",
-        "src_reddit-stablediffusion_135723a307ccffa0",
-        "src_reddit-aiagents_dec625f3d2e0e2e5",
         "src_reddit-comfyui_0e3479cb55106b2f",
+        "src_reddit-aiagents_f4314bfbe01c74eb",
         "src_reddit-aiagents_bde5886593514258",
         "src_reddit-aiagents_a8d909420e99b084",
         "src_reddit-aiagents_55505a7b913bd1e2",
@@ -350,9 +353,8 @@
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tc3ybb/weekly_thread_project_display/",
         "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tigh13/whats_the_most_unhinged_ai_agent_setup_youve_seen/",
         "https://www.reddit.com/r/AI_Agents/comments/1ti93ra/ai_agents_for_someone_just_starting_out/",
-        "https://www.reddit.com/r/AI_Agents/comments/1ti4go8/ai_started_feeling_useful_to_me_when_it_stopped/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1thtuk5/update_characters_generator_v13_now_with_anima/",
         "https://www.reddit.com/r/comfyui/comments/1thm9k6/comfyui_tutorial_realistic_ai_lip_sync_dubbing/",
         "https://www.reddit.com/r/comfyui/comments/1tict5l/how_do_i_create_a_85_to_95_lora_of_a_complex/",
         "https://lumalabs.ai/blog",
@@ -362,7 +364,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T07:10:44.922Z",
+        "generatedAt": "2026-05-20T10:54:49.742Z",
         "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -374,13 +376,13 @@
       "lang": "en",
       "category": "ai-agentic",
       "title": "LangChain Blog: creator and builder analysis",
-      "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, r/comfyui, Luma Labs Blog, Hugging Face Blog, Lil'Log, scored by recency, content depth, and source reliability.",
+      "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Lil'Log, scored by recency, content depth, and source reliability.",
       "tldr": [
         "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
         "Something went wrong while submitting the form.",
         "How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories No items found."
       ],
-      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.94 with high confidence.\n\n## Analysis\n\n- LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n- Something went wrong while submitting the form.\n- How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories No items found.\n\n## Sources to verify\n\n- LangChain Blog: LangChain Blog\n- OpenAI Blog: OpenAI Blog signal for ai-agentic\n- MCP Blog: MCP Blog signal for ai-agentic\n- r/AI_Agents: Weekly Thread: Project Display\n- r/AI_Agents: Weekly Hiring Thread\n- r/AI_Agents: AI agents for someone just starting out?\n- r/AI_Agents: AI started feeling useful to me when it stopped waiting for every next instruction\n- r/StableDiffusion: Update Characters generator - v1.3 Now with Anima! | Generation of detailed сharacter for full body\n- r/comfyui: ComfyUI Tutorial: Realistic AI Lip Sync Dubbing with LTX 2.3 LORA Low Vram workflow (6 Gb Vram,16 Gb of Ram)\n- r/comfyui: How do i create a 85% to 95% LoRA of a complex character?\n- Luma Labs Blog: News | Luma\n- Hugging Face Blog: Hugging Face – Blog\n- Lil'Log: Lil'Log",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.93 with high confidence.\n\n## Analysis\n\n- LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n- Something went wrong while submitting the form.\n- How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories No items found.\n\n## Sources to verify\n\n- LangChain Blog: LangChain Blog\n- OpenAI Blog: OpenAI Blog signal for ai-agentic\n- MCP Blog: MCP Blog signal for ai-agentic\n- r/AI_Agents: Weekly Thread: Project Display\n- r/AI_Agents: Weekly Hiring Thread\n- r/AI_Agents: What’s the most unhinged AI agent setup you’ve seen someone actually use in production?\n- r/AI_Agents: AI agents for someone just starting out?\n- r/comfyui: ComfyUI Tutorial: Realistic AI Lip Sync Dubbing with LTX 2.3 LORA Low Vram workflow (6 Gb Vram,16 Gb of Ram)\n- r/comfyui: How do i create a 85% to 95% LoRA of a complex character?\n- Luma Labs Blog: News | Luma\n- Hugging Face Blog: Hugging Face – Blog\n- Lil'Log: Lil'Log",
       "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
       "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
@@ -394,9 +396,8 @@
         "src_huggingface-blog_af185e1e7e4dfbac",
         "src_reddit-comfyui_40f726ab7f3ce111",
         "src_lilianweng-blog_31a2c7baf9b791a5",
-        "src_reddit-stablediffusion_135723a307ccffa0",
-        "src_reddit-aiagents_dec625f3d2e0e2e5",
         "src_reddit-comfyui_0e3479cb55106b2f",
+        "src_reddit-aiagents_f4314bfbe01c74eb",
         "src_reddit-aiagents_bde5886593514258",
         "src_reddit-aiagents_a8d909420e99b084",
         "src_reddit-aiagents_55505a7b913bd1e2",
@@ -409,9 +410,8 @@
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tc3ybb/weekly_thread_project_display/",
         "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tigh13/whats_the_most_unhinged_ai_agent_setup_youve_seen/",
         "https://www.reddit.com/r/AI_Agents/comments/1ti93ra/ai_agents_for_someone_just_starting_out/",
-        "https://www.reddit.com/r/AI_Agents/comments/1ti4go8/ai_started_feeling_useful_to_me_when_it_stopped/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1thtuk5/update_characters_generator_v13_now_with_anima/",
         "https://www.reddit.com/r/comfyui/comments/1thm9k6/comfyui_tutorial_realistic_ai_lip_sync_dubbing/",
         "https://www.reddit.com/r/comfyui/comments/1tict5l/how_do_i_create_a_85_to_95_lora_of_a_complex/",
         "https://lumalabs.ai/blog",
@@ -421,7 +421,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T07:10:44.923Z",
+        "generatedAt": "2026-05-20T10:54:49.743Z",
         "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -467,7 +467,7 @@
         "Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.",
         "But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor."
       ],
-      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.87 với confidence high.\n\n## Phân tích\n\n- I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.\n- Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.\n- But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.\n\n## Nguồn cần kiểm chứng\n\n- r/StableDiffusion: Local I2V finally feels less like image wiggle and more like shot direction with LTX Director\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: It Was Mister Fluffy\n- r/aivideo: Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)\n- r/aivideo: VAULT 13 - MY FIRST AI VIDEO :D\n- Kling AI Blog: Kling AI\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.88 với confidence high.\n\n## Phân tích\n\n- I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.\n- Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.\n- But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.\n\n## Nguồn cần kiểm chứng\n\n- r/StableDiffusion: Local I2V finally feels less like image wiggle and more like shot direction with LTX Director\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: It Was Mister Fluffy\n- r/aivideo: Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)\n- Kling AI Blog: Kling AI\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
       "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
       "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
@@ -483,8 +483,7 @@
         "src_reddit-aivideo_5a163fe980d106d8",
         "src_reddit-mediasynthesis_77fd766897b9ab43",
         "src_reddit-aivideo_2dd3612a2dadaddf",
-        "src_reddit-aivideo_b565a5af23106c40",
-        "src_reddit-aivideo_9a52943a45c1eb3b"
+        "src_reddit-aivideo_b565a5af23106c40"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/StableDiffusion/comments/1thuq4k/local_i2v_finally_feels_less_like_image_wiggle/",
@@ -493,14 +492,13 @@
         "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
         "https://www.reddit.com/r/aivideo/comments/1thtfhq/it_was_mister_fluffy/",
         "https://www.reddit.com/r/aivideo/comments/1ti90rx/chewbacca_at_the_barbershop_in_case_you_ever/",
-        "https://www.reddit.com/r/aivideo/comments/1thvsd8/vault_13_my_first_ai_video_d/",
         "https://klingai.com/blog",
         "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/"
       ],
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T07:10:44.922Z",
+        "generatedAt": "2026-05-20T10:54:49.742Z",
         "sourceClusterId": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -518,7 +516,7 @@
         "Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.",
         "But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor."
       ],
-      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.87 with high confidence.\n\n## Analysis\n\n- I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.\n- Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.\n- But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.\n\n## Sources to verify\n\n- r/StableDiffusion: Local I2V finally feels less like image wiggle and more like shot direction with LTX Director\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: It Was Mister Fluffy\n- r/aivideo: Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)\n- r/aivideo: VAULT 13 - MY FIRST AI VIDEO :D\n- Kling AI Blog: Kling AI\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.88 with high confidence.\n\n## Analysis\n\n- I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.\n- Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.\n- But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.\n\n## Sources to verify\n\n- r/StableDiffusion: Local I2V finally feels less like image wiggle and more like shot direction with LTX Director\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: It Was Mister Fluffy\n- r/aivideo: Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)\n- Kling AI Blog: Kling AI\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
       "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
       "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
@@ -534,8 +532,7 @@
         "src_reddit-aivideo_5a163fe980d106d8",
         "src_reddit-mediasynthesis_77fd766897b9ab43",
         "src_reddit-aivideo_2dd3612a2dadaddf",
-        "src_reddit-aivideo_b565a5af23106c40",
-        "src_reddit-aivideo_9a52943a45c1eb3b"
+        "src_reddit-aivideo_b565a5af23106c40"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/StableDiffusion/comments/1thuq4k/local_i2v_finally_feels_less_like_image_wiggle/",
@@ -544,16 +541,124 @@
         "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
         "https://www.reddit.com/r/aivideo/comments/1thtfhq/it_was_mister_fluffy/",
         "https://www.reddit.com/r/aivideo/comments/1ti90rx/chewbacca_at_the_barbershop_in_case_you_ever/",
-        "https://www.reddit.com/r/aivideo/comments/1thvsd8/vault_13_my_first_ai_video_d/",
         "https://klingai.com/blog",
         "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/"
       ],
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T07:10:44.923Z",
+        "generatedAt": "2026-05-20T10:54:49.743Z",
         "sourceClusterId": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20",
         "confidence": "high",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "viValidation": {
+      "ok": true,
+      "errors": []
+    },
+    "enValidation": {
+      "ok": true,
+      "errors": []
+    }
+  },
+  {
+    "outline": {
+      "titleDirection": "The Odyssey (But Accurate) | Trailer 4K",
+      "angle": "workflow-first prompt breakdown",
+      "sections": [
+        "TL;DR",
+        "Main analysis",
+        "Why it matters",
+        "Creator / Builder takeaway",
+        "Sources"
+      ],
+      "sourceFacts": [
+        "submitted by /u/Exciting-Ladder-30 [link] [comments]",
+        "submitted by /u/Wiskkey [link] [comments]",
+        "submitted by /u/gwern [link] [comments]",
+        "submitted by /u/gwern [link] [comments]"
+      ]
+    },
+    "vi": {
+      "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20_vi",
+      "lang": "vi",
+      "category": "prompt-video",
+      "title": "The Odyssey (But Accurate) | Trailer 4K: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "tldr": [
+        "submitted by /u/Exciting-Ladder-30 [link] [comments]",
+        "submitted by /u/Wiskkey [link] [comments]",
+        "submitted by /u/gwern [link] [comments]"
+      ],
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.67 với confidence medium.\n\n## Phân tích\n\n- submitted by /u/Exciting-Ladder-30 [link] [comments]\n- submitted by /u/Wiskkey [link] [comments]\n- submitted by /u/gwern [link] [comments]\n\n## Nguồn cần kiểm chứng\n\n- r/aivideo: The Odyssey (But Accurate) | Trailer 4K\n- r/MediaSynthesis: Extensive list of generative tools curated by Eyal Gruss\n- r/MediaSynthesis: \"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14\n- r/MediaSynthesis: \"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
+      "tags": [
+        "prompt-video",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_reddit-aivideo_152c45103ec69146",
+        "src_reddit-mediasynthesis_98111c99496f6ea1",
+        "src_reddit-mediasynthesis_8dc8d246a27d02f6",
+        "src_reddit-mediasynthesis_334324f1d5231047"
+      ],
+      "sourceUrls": [
+        "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/"
+      ],
+      "generation": {
+        "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
+        "promptVersion": "article-vi-v1",
+        "generatedAt": "2026-05-20T10:54:49.742Z",
+        "sourceClusterId": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20",
+        "confidence": "medium",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "en": {
+      "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20_en",
+      "lang": "en",
+      "category": "prompt-video",
+      "title": "The Odyssey (But Accurate) | Trailer 4K: creator and builder analysis",
+      "subtitle": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+      "tldr": [
+        "submitted by /u/Exciting-Ladder-30 [link] [comments]",
+        "submitted by /u/Wiskkey [link] [comments]",
+        "submitted by /u/gwern [link] [comments]"
+      ],
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.67 with medium confidence.\n\n## Analysis\n\n- submitted by /u/Exciting-Ladder-30 [link] [comments]\n- submitted by /u/Wiskkey [link] [comments]\n- submitted by /u/gwern [link] [comments]\n\n## Sources to verify\n\n- r/aivideo: The Odyssey (But Accurate) | Trailer 4K\n- r/MediaSynthesis: Extensive list of generative tools curated by Eyal Gruss\n- r/MediaSynthesis: \"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14\n- r/MediaSynthesis: \"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
+      "tags": [
+        "prompt-video",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_reddit-aivideo_152c45103ec69146",
+        "src_reddit-mediasynthesis_98111c99496f6ea1",
+        "src_reddit-mediasynthesis_8dc8d246a27d02f6",
+        "src_reddit-mediasynthesis_334324f1d5231047"
+      ],
+      "sourceUrls": [
+        "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/"
+      ],
+      "generation": {
+        "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
+        "promptVersion": "article-en-v1",
+        "generatedAt": "2026-05-20T10:54:49.743Z",
+        "sourceClusterId": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20",
+        "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
@@ -581,7 +686,7 @@
       "sourceFacts": [
         "Watch on YouTube or Follow me on TikTok !",
         "Cheerio submitted by /u/BlueMonStar [link] [comments]",
-        "submitted by /u/EyeToAI [link] [comments]"
+        "submitted by /u/Scary-Demand7252 [link] [comments]"
       ]
     },
     "vi": {
@@ -593,9 +698,9 @@
       "tldr": [
         "Watch on YouTube or Follow me on TikTok !",
         "Cheerio submitted by /u/BlueMonStar [link] [comments]",
-        "submitted by /u/EyeToAI [link] [comments]"
+        "submitted by /u/Scary-Demand7252 [link] [comments]"
       ],
-      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.61 với confidence medium.\n\n## Phân tích\n\n- Watch on YouTube or Follow me on TikTok !\n- Cheerio submitted by /u/BlueMonStar [link] [comments]\n- submitted by /u/EyeToAI [link] [comments]\n\n## Nguồn cần kiểm chứng\n\n- r/midjourney: Duel in the Wasteland\n- r/midjourney: an artificial zombie apocalypse: newsroom.",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.61 với confidence medium.\n\n## Phân tích\n\n- Watch on YouTube or Follow me on TikTok !\n- Cheerio submitted by /u/BlueMonStar [link] [comments]\n- submitted by /u/Scary-Demand7252 [link] [comments]\n\n## Nguồn cần kiểm chứng\n\n- r/midjourney: Duel in the Wasteland\n- r/midjourney: Release The Hounds",
       "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
       "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
@@ -605,16 +710,16 @@
       ],
       "sourceIds": [
         "src_reddit-midjourney_c24d93617fc9bfa9",
-        "src_reddit-midjourney_a2ea8750e4897c25"
+        "src_reddit-midjourney_5c05c058f9404370"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/midjourney/comments/1thtxah/duel_in_the_wasteland/",
-        "https://www.reddit.com/r/midjourney/comments/1th9euy/an_artificial_zombie_apocalypse_newsroom/"
+        "https://www.reddit.com/r/midjourney/comments/1tiheah/release_the_hounds/"
       ],
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T07:10:44.922Z",
+        "generatedAt": "2026-05-20T10:54:49.742Z",
         "sourceClusterId": "cluster_prompt-image_duel-in-the-wasteland_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -630,9 +735,9 @@
       "tldr": [
         "Watch on YouTube or Follow me on TikTok !",
         "Cheerio submitted by /u/BlueMonStar [link] [comments]",
-        "submitted by /u/EyeToAI [link] [comments]"
+        "submitted by /u/Scary-Demand7252 [link] [comments]"
       ],
-      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.61 with medium confidence.\n\n## Analysis\n\n- Watch on YouTube or Follow me on TikTok !\n- Cheerio submitted by /u/BlueMonStar [link] [comments]\n- submitted by /u/EyeToAI [link] [comments]\n\n## Sources to verify\n\n- r/midjourney: Duel in the Wasteland\n- r/midjourney: an artificial zombie apocalypse: newsroom.",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.61 with medium confidence.\n\n## Analysis\n\n- Watch on YouTube or Follow me on TikTok !\n- Cheerio submitted by /u/BlueMonStar [link] [comments]\n- submitted by /u/Scary-Demand7252 [link] [comments]\n\n## Sources to verify\n\n- r/midjourney: Duel in the Wasteland\n- r/midjourney: Release The Hounds",
       "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
       "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
@@ -642,121 +747,17 @@
       ],
       "sourceIds": [
         "src_reddit-midjourney_c24d93617fc9bfa9",
-        "src_reddit-midjourney_a2ea8750e4897c25"
+        "src_reddit-midjourney_5c05c058f9404370"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/midjourney/comments/1thtxah/duel_in_the_wasteland/",
-        "https://www.reddit.com/r/midjourney/comments/1th9euy/an_artificial_zombie_apocalypse_newsroom/"
+        "https://www.reddit.com/r/midjourney/comments/1tiheah/release_the_hounds/"
       ],
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T07:10:44.923Z",
+        "generatedAt": "2026-05-20T10:54:49.743Z",
         "sourceClusterId": "cluster_prompt-image_duel-in-the-wasteland_2026-05-20",
-        "confidence": "medium",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "viValidation": {
-      "ok": true,
-      "errors": []
-    },
-    "enValidation": {
-      "ok": true,
-      "errors": []
-    }
-  },
-  {
-    "outline": {
-      "titleDirection": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
-      "angle": "workflow-first prompt breakdown",
-      "sections": [
-        "TL;DR",
-        "Main analysis",
-        "Why it matters",
-        "Creator / Builder takeaway",
-        "Sources"
-      ],
-      "sourceFacts": [
-        "submitted by /u/Wiskkey [link] [comments]",
-        "submitted by /u/gwern [link] [comments]",
-        "submitted by /u/gwern [link] [comments]"
-      ]
-    },
-    "vi": {
-      "id": "cluster_prompt-video_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-20_vi",
-      "lang": "vi",
-      "category": "prompt-video",
-      "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-      "tldr": [
-        "submitted by /u/Wiskkey [link] [comments]",
-        "submitted by /u/gwern [link] [comments]",
-        "submitted by /u/gwern [link] [comments]"
-      ],
-      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.58 với confidence medium.\n\n## Phân tích\n\n- submitted by /u/Wiskkey [link] [comments]\n- submitted by /u/gwern [link] [comments]\n- submitted by /u/gwern [link] [comments]\n\n## Nguồn cần kiểm chứng\n\n- r/MediaSynthesis: Extensive list of generative tools curated by Eyal Gruss\n- r/MediaSynthesis: \"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14\n- r/MediaSynthesis: \"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
-      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
-      "tags": [
-        "prompt-video",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_reddit-mediasynthesis_98111c99496f6ea1",
-        "src_reddit-mediasynthesis_8dc8d246a27d02f6",
-        "src_reddit-mediasynthesis_334324f1d5231047"
-      ],
-      "sourceUrls": [
-        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/"
-      ],
-      "generation": {
-        "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
-        "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T07:10:44.922Z",
-        "sourceClusterId": "cluster_prompt-video_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-20",
-        "confidence": "medium",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "en": {
-      "id": "cluster_prompt-video_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-20_en",
-      "lang": "en",
-      "category": "prompt-video",
-      "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14: creator and builder analysis",
-      "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-      "tldr": [
-        "submitted by /u/Wiskkey [link] [comments]",
-        "submitted by /u/gwern [link] [comments]",
-        "submitted by /u/gwern [link] [comments]"
-      ],
-      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.58 with medium confidence.\n\n## Analysis\n\n- submitted by /u/Wiskkey [link] [comments]\n- submitted by /u/gwern [link] [comments]\n- submitted by /u/gwern [link] [comments]\n\n## Sources to verify\n\n- r/MediaSynthesis: Extensive list of generative tools curated by Eyal Gruss\n- r/MediaSynthesis: \"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14\n- r/MediaSynthesis: \"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
-      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
-      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
-      "tags": [
-        "prompt-video",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_reddit-mediasynthesis_98111c99496f6ea1",
-        "src_reddit-mediasynthesis_8dc8d246a27d02f6",
-        "src_reddit-mediasynthesis_334324f1d5231047"
-      ],
-      "sourceUrls": [
-        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/"
-      ],
-      "generation": {
-        "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
-        "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T07:10:44.923Z",
-        "sourceClusterId": "cluster_prompt-video_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"
       },

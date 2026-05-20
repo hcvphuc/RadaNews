@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-20T07:10:39.421Z",
+    "publishedAt": "2026-05-20T10:54:43.362Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-20T07:10:43.302Z",
+    "publishedAt": "2026-05-20T10:54:42.759Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T07:10:38.749Z",
+    "publishedAt": "2026-05-20T10:54:42.513Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T07:10:40.195Z",
+    "publishedAt": "2026-05-20T10:54:43.214Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_1a4bf7a6584818e3",
+    "sourceId": "src_reddit-aiagents_f4314bfbe01c74eb",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ti3w0e/the_ceos_replacing_workers_with_ai_are_likely/",
-    "title": "\"The CEOs replacing workers with AI are likely getting that advice from AI.\"",
-    "publishedAt": "2026-05-19T23:20:26.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tigh13/whats_the_most_unhinged_ai_agent_setup_youve_seen/",
+    "title": "What’s the most unhinged AI agent setup you’ve seen someone actually use in production?",
+    "publishedAt": "2026-05-20T09:29:29.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Saw this line in a piece about AI sycophancy in mental health crises and it actually pulled me up.",
-      "The same training loop that produces flattering chatbot answers for individual users is also flattering the executives using those chatbots to evaluate AI strategy.",
-      "Their finding: users consistently prefer the most sycophantic answers.",
-      "The mental-health side is now 414 documented cases (Human Line Project tracking, BBC investigation)."
+      "For example, probably the wildest one I’ve read was a med spa that built an AI receptionist using Vapi.",
+      "The agent answers every inbound call, speaks naturally, asks qualification questions, checks live availability in Google Calendar, books appointments, sends SMS confirmations, and even handles reschedules.",
+      "Apparently the humans only jump in if someone gets angry or starts asking medical questions.",
+      "The crazy part is they said patients often don’t realize they’re talking to AI because the voice latency is low enough that it feels like an actual receptionist."
     ],
     "claims": [
       {
-        "text": "Saw this line in a piece about AI sycophancy in mental health crises and it actually pulled me up. The same training loop that produces flattering chatbot answers for individual users is also flattering the executives using those chatbots to evaluate AI strategy. OpenAI ran internal tests on this. Their finding: users consistently prefer the most sycophantic answers. So that's what got shipped. The mental-health side is now 414 documented cases (Human Line Project tracking, BBC investigation). The corporate side is the same loop, just at a higher capital-allocation altitude. Curious if anyone here has actually pushed back inside their company about this. Like, has anyone seen an exec circle back from a \"ChatGPT told me to do it\" decision after a peer pointed out the loop? Or is the loop too embedded already. submitted by /u/Quantum_Merlin [link] [comments]",
+        "text": "For example, probably the wildest one I’ve read was a med spa that built an AI receptionist using Vapi. The agent answers every inbound call, speaks naturally, asks qualification questions, checks live availability in Google Calendar, books appointments, sends SMS confirmations, and even handles reschedules. Apparently the humans only jump in if someone gets angry or starts asking medical questions. The crazy part is they said patients often don’t realize they’re talking to AI because the voice latency is low enough that it feels like an actual receptionist. So curious, what’s the most unhinged AI agent setup you’ve seen someone actually use in production? submitted by /u/impetuouschestnut [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ti3w0e/the_ceos_replacing_workers_with_ai_are_likely/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tigh13/whats_the_most_unhinged_ai_agent_setup_youve_seen/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_dec625f3d2e0e2e5",
+    "sourceId": "src_reddit-aiagents_1a4bf7a6584818e3",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ti4go8/ai_started_feeling_useful_to_me_when_it_stopped/",
-    "title": "AI started feeling useful to me when it stopped waiting for every next instruction",
-    "publishedAt": "2026-05-19T23:44:08.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ti3w0e/the_ceos_replacing_workers_with_ai_are_likely/",
+    "title": "\"The CEOs replacing workers with AI are likely getting that advice from AI.\"",
+    "publishedAt": "2026-05-19T23:20:26.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Do you guys ever feel like a lot of AI tools still act more like interns you have to micromanage?",
-      "That’s the part that started bothering me after the novelty wore off.",
-      "A lot of them can answer questions well, rewrite things well, summarize things well, but they still need you to keep feeding the next step.",
-      "At some point I realized that the first time AI actually started feeling useful to me was when it stopped waiting for every next instruction."
+      "Saw this line in a piece about AI sycophancy in mental health crises and it actually pulled me up.",
+      "The same training loop that produces flattering chatbot answers for individual users is also flattering the executives using those chatbots to evaluate AI strategy.",
+      "Their finding: users consistently prefer the most sycophantic answers.",
+      "The mental-health side is now 414 documented cases (Human Line Project tracking, BBC investigation)."
     ],
     "claims": [
       {
-        "text": "Do you guys ever feel like a lot of AI tools still act more like interns you have to micromanage? That’s the part that started bothering me after the novelty wore off. A lot of them can answer questions well, rewrite things well, summarize things well, but they still need you to keep feeding the next step. Find this. Now organize it. Now turn it into something usable. Now do the next part. At some point I realized that the first time AI actually started feeling useful to me was when it stopped waiting for every next instruction. Not because it got smarter in the abstract, but because it started feeling more like something I could delegate to. I could hand it a task, and instead of just giving me one decent response and stopping there, it would keep going, figure out what it needed next, pull in more context, organize the messy parts, and move toward something actually usable. That shift made a much bigger difference for me than better writing or slightly better answers ever did. submitted by /u/ajsantos2021 [link] [comments]",
+        "text": "Saw this line in a piece about AI sycophancy in mental health crises and it actually pulled me up. The same training loop that produces flattering chatbot answers for individual users is also flattering the executives using those chatbots to evaluate AI strategy. OpenAI ran internal tests on this. Their finding: users consistently prefer the most sycophantic answers. So that's what got shipped. The mental-health side is now 414 documented cases (Human Line Project tracking, BBC investigation). The corporate side is the same loop, just at a higher capital-allocation altitude. Curious if anyone here has actually pushed back inside their company about this. Like, has anyone seen an exec circle back from a \"ChatGPT told me to do it\" decision after a peer pointed out the loop? Or is the loop too embedded already. submitted by /u/Quantum_Merlin [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ti4go8/ai_started_feeling_useful_to_me_when_it_stopped/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ti3w0e/the_ceos_replacing_workers_with_ai_are_likely/"
       }
     ],
     "usableFor": [
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-20T07:10:38.863Z",
+    "publishedAt": "2026-05-20T10:54:42.775Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-20T07:10:39.547Z",
+    "publishedAt": "2026-05-20T10:54:43.549Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-20T07:10:38.941Z",
+    "publishedAt": "2026-05-20T10:54:42.949Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -360,6 +360,36 @@
         "text": "https://huggingface.co/Kijai/LTX2.3_comfy/blob/main/loras/LTX-2.3-OmniNFT-RL-Lora_bf16.safetensors https://zghhui.github.io/OmniNFT/ BTW, talking about quality I HIGHLY recommend using the LTX Tiled Sampler for your 2nd sampler after the upscaler. It massively improves results and really should be native. https://github.com/TenStrip/10S-Comfy-nodes submitted by /u/Different_Fix_2217 [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ti3jar/rl_lora_for_ltx23_it_greatly_increases_coherence/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_7248c9009f6a84e8",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tiff8k/vibecoded_a_speed_sampler_for_anima_in_comfyui/",
+    "title": "Vibecoded a SPEED sampler for Anima in ComfyUI",
+    "publishedAt": "2026-05-20T08:29:41.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "I put together a ComfyUI custom node for SPEED (Spectral Progressive Diffusion) and pushed it here: ComfyUI-SPEED .",
+      "SPEED is short for Spectral Progressive Diffusion.",
+      "The basic idea is that diffusion models don’t need to do full high-res work right away, so SPEED starts smaller and gradually increases resolution as the image forms.",
+      "That cuts down wasted compute early in the denoising process, which can make generation faster while still keeping detail later on."
+    ],
+    "claims": [
+      {
+        "text": "I put together a ComfyUI custom node for SPEED (Spectral Progressive Diffusion) and pushed it here: ComfyUI-SPEED . SPEED is short for Spectral Progressive Diffusion. The basic idea is that diffusion models don’t need to do full high-res work right away, so SPEED starts smaller and gradually increases resolution as the image forms. That cuts down wasted compute early in the denoising process, which can make generation faster while still keeping detail later on. It’s a pretty vibecoded implementation, so don’t expect polished engineering or faithful implementation given official code isn't out yet, but it does the thing. I only tested it on Anima, and the main setup is basically just connecting the Sampler SPEED (Spectral Progressive) node into SamplerCustomAdvanced like a normal ComfyUI workflow. A couple notes: It can produce artifacts and drift on some outputs (most likely related to upsampling). torch.compile was not helpful here, and in my tests it actually made sampling slower. I also added a quick before/after comparison in the README with example images. and in this post (1st image is SPEED (14s), second is without (26s). both uses same seed) If anyone wants to poke at it or improve it, feel free. I mostly wanted a simple working version up and running. submitted by /u/Common-Objective2215 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tiff8k/vibecoded_a_speed_sampler_for_anima_in_comfyui/"
       }
     ],
     "usableFor": [
@@ -459,66 +489,6 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_135723a307ccffa0",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1thtuk5/update_characters_generator_v13_now_with_anima/",
-    "title": "Update Characters generator - v1.3 Now with Anima! | Generation of detailed сharacter for full body",
-    "publishedAt": "2026-05-19T17:26:25.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "This is an update to my character generation workflow.",
-      "I was very pleased with the release of Anima-Base.",
-      "It is quite flexible, has a lot of knowledge about characters, and generates different styles perfectly, and its turbo-lora gives quite high-quality results.",
-      "However, I had to adjust a little to its behavior in img2img."
-    ],
-    "claims": [
-      {
-        "text": "Good afternoon! This is an update to my character generation workflow. I was very pleased with the release of Anima-Base. It is quite flexible, has a lot of knowledge about characters, and generates different styles perfectly, and its turbo-lora gives quite high-quality results. However, I had to adjust a little to its behavior in img2img. It used to be called \"Sprite generator\" referring to the images of characters from visual novels, but I decided that \"Characters generator\" would cause less confusion. What's changed? - Added the ability to specify indentations at the edges of the frame so that the character does not go beyond it. - Improved tile upscaler using \"anima-lllite-inpainting-v2\" Link submitted by /u/Ancient-Future6335 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1thtuk5/update_characters_generator_v13_now_with_anima/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_0e3479cb55106b2f",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1thm9k6/comfyui_tutorial_realistic_ai_lip_sync_dubbing/",
-    "title": "ComfyUI Tutorial: Realistic AI Lip Sync Dubbing with LTX 2.3 LORA Low Vram workflow (6 Gb Vram,16 Gb of Ram)",
-    "publishedAt": "2026-05-19T13:00:21.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Hello everyone, in this tutorial we explore the new ic lora released by lightricks named ic lora LipDub, this model enable lip dubbing .",
-      "Which will allows you to dub any video at any languages.",
-      "For that I tested the workflow for French, italien, german, Japan, Arabic, Spanish languages.",
-      "The custom workflow allows you to do automatical translation all you have to do is load your video and speech then click run."
-    ],
-    "claims": [
-      {
-        "text": "Hello everyone, in this tutorial we explore the new ic lora released by lightricks named ic lora LipDub, this model enable lip dubbing . Which will allows you to dub any video at any languages. For that I tested the workflow for French, italien, german, Japan, Arabic, Spanish languages. The custom workflow allows you to do automatical translation all you have to do is load your video and speech then click run. The workflow is optimized to run on 6gb of vram without craching. Workflow Link https://drive.google.com/file/d/1mk37QNbxVIOYo0-1OvOjfWdDyXzav_5M/view?usp=sharing Video Tutorial Link https://youtu.be/5hmismj1LQc submitted by /u/cgpixel23 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1thm9k6/comfyui_tutorial_realistic_ai_lip_sync_dubbing/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_reddit-comfyui_23f5c726036a9c42",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
@@ -606,6 +576,36 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-comfyui_0e3479cb55106b2f",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1thm9k6/comfyui_tutorial_realistic_ai_lip_sync_dubbing/",
+    "title": "ComfyUI Tutorial: Realistic AI Lip Sync Dubbing with LTX 2.3 LORA Low Vram workflow (6 Gb Vram,16 Gb of Ram)",
+    "publishedAt": "2026-05-19T13:00:21.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Hello everyone, in this tutorial we explore the new ic lora released by lightricks named ic lora LipDub, this model enable lip dubbing .",
+      "Which will allows you to dub any video at any languages.",
+      "For that I tested the workflow for French, italien, german, Japan, Arabic, Spanish languages.",
+      "The custom workflow allows you to do automatical translation all you have to do is load your video and speech then click run."
+    ],
+    "claims": [
+      {
+        "text": "Hello everyone, in this tutorial we explore the new ic lora released by lightricks named ic lora LipDub, this model enable lip dubbing . Which will allows you to dub any video at any languages. For that I tested the workflow for French, italien, german, Japan, Arabic, Spanish languages. The custom workflow allows you to do automatical translation all you have to do is load your video and speech then click run. The workflow is optimized to run on 6gb of vram without craching. Workflow Link https://drive.google.com/file/d/1mk37QNbxVIOYo0-1OvOjfWdDyXzav_5M/view?usp=sharing Video Tutorial Link https://youtu.be/5hmismj1LQc submitted by /u/cgpixel23 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1thm9k6/comfyui_tutorial_realistic_ai_lip_sync_dubbing/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-comfyui_40f726ab7f3ce111",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
@@ -641,7 +641,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-20T07:10:38.974Z",
+    "publishedAt": "2026-05-20T10:54:42.816Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -670,7 +670,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-20T07:10:39.283Z",
+    "publishedAt": "2026-05-20T10:54:43.015Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -699,7 +699,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-20T07:10:40.354Z",
+    "publishedAt": "2026-05-20T10:54:43.940Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -808,6 +808,33 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aivideo_152c45103ec69146",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
+    "title": "The Odyssey (But Accurate) | Trailer 4K",
+    "publishedAt": "2026-05-20T10:07:35.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/Exciting-Ladder-30 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/Exciting-Ladder-30 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aivideo_b565a5af23106c40",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
@@ -835,39 +862,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_9a52943a45c1eb3b",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1thvsd8/vault_13_my_first_ai_video_d/",
-    "title": "VAULT 13 - MY FIRST AI VIDEO :D",
-    "publishedAt": "2026-05-19T18:30:03.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/Ok-Register2816 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Ok-Register2816 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1thvsd8/vault_13_my_first_ai_video_d/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_cursor-changelog_99cdbb7e2d70df11",
     "sourceType": "blog",
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-20T07:10:39.394Z",
+    "publishedAt": "2026-05-20T10:54:43.422Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -896,7 +896,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-20T07:10:39.029Z",
+    "publishedAt": "2026-05-20T10:54:42.885Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -925,7 +925,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-20T07:10:39.123Z",
+    "publishedAt": "2026-05-20T10:54:42.974Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -952,7 +952,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-20T07:10:39.186Z",
+    "publishedAt": "2026-05-20T10:54:43.018Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -981,7 +981,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-20T07:10:39.169Z",
+    "publishedAt": "2026-05-20T10:54:43.055Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1094,24 +1094,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_a2ea8750e4897c25",
+    "sourceId": "src_reddit-midjourney_5c05c058f9404370",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1th9euy/an_artificial_zombie_apocalypse_newsroom/",
-    "title": "an artificial zombie apocalypse: newsroom.",
-    "publishedAt": "2026-05-19T02:27:15.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tiheah/release_the_hounds/",
+    "title": "Release The Hounds",
+    "publishedAt": "2026-05-20T10:19:10.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/EyeToAI [link] [comments]"
+      "submitted by /u/Scary-Demand7252 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/EyeToAI [link] [comments]",
+        "text": "submitted by /u/Scary-Demand7252 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1th9euy/an_artificial_zombie_apocalypse_newsroom/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tiheah/release_the_hounds/"
       }
     ],
     "usableFor": [
@@ -1153,14 +1153,14 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-20T07:10:40.665Z",
+    "publishedAt": "2026-05-20T10:54:44.503Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
-      "Kling AI 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity Native 4K AI Video Output vs Upscaling: What Is the Real Difference?",
-      "Apr 30, 2026 World's First Native 4K Image-to-Video AI: Kling AI 4K Direct Output Explained Apr 30, 2026 AI Prompt Weighting: Prioritize Keywords in Kling AI Prompts Apr 29, 2026 Horror AI Video Prompts: Craft Suspense With Sound And Color Grading Apr 25, 2026 Photorealistic AI Video: Make Kling AI Footage Look Like Real Life Apr 22, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Apr 22, 2026 AI Anime Video Prompts: Create Epic 2D Scenes with Kling AI Apr 21, 2026 AI Motion Prompts for Kling AI: Describe Running, Jumping & Gestures Apr 21, 2026 AI Video Lighting Prompts: Master Volumetric Light & Golden Hour Apr 20, 2026 50 Best Adjectives for Kling AI: Elevate Your AI Video Quality Apr 20, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Apr 20, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Apr 20, 2026 Kling 3.0 Prompt Syntax 2.0: Physics & Omni Reference Tags Mar 30, 2026 Kling Image 3.0 Advanced: Multi-Reference & Inpainting Guide Mar 30, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Mar 25, 2026 Kling 3.0 Subject Binding: Lock Character Features Across Shots Mar 25, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+      "Kling AI 可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity Kling AI Introduces the World’s First Native 4K Video Model, Empowering Industrial-Grade AI Production Across Film, Advertising, and Creative Industries May 20, 2026 Native 4K AI Video Output vs Upscaling: What Is the Real Difference?",
+      "Apr 30, 2026 World's First Native 4K Image-to-Video AI: Kling AI 4K Direct Output Explained Apr 30, 2026 AI Prompt Weighting: Prioritize Keywords in Kling AI Prompts Apr 29, 2026 Horror AI Video Prompts: Craft Suspense With Sound And Color Grading Apr 25, 2026 Photorealistic AI Video: Make Kling AI Footage Look Like Real Life Apr 22, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Apr 22, 2026 AI Anime Video Prompts: Create Epic 2D Scenes with Kling AI Apr 21, 2026 AI Motion Prompts for Kling AI: Describe Running, Jumping & Gestures Apr 21, 2026 AI Video Lighting Prompts: Master Volumetric Light & Golden Hour Apr 20, 2026 50 Best Adjectives for Kling AI: Elevate Your AI Video Quality Apr 20, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Apr 20, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Apr 20, 2026 Kling 3.0 Prompt Syntax 2.0: Physics & Omni Reference Tags Mar 30, 2026 Kling Image 3.0 Advanced: Multi-Reference & Inpainting Guide Mar 30, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Mar 25, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
     ],
     "claims": [
       {
@@ -1322,7 +1322,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-20T07:10:39.269Z",
+    "publishedAt": "2026-05-20T10:54:43.179Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1330,10 +1330,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Software Forgets: Agent Traces Are the Memory huggingface • about 10 hours ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Metric and Relative Monocular Depth Estimation: An Overview.",
-      "Fine-Tuning Depth Anything V2 👐 📚 Isayoften • Jul 10, 2024 • 96 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 OlmoEarth v1.1: A more efficient family of models 6 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 26 May 19, 2026 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation 9 May 18, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 27 May 18, 2026 The Open Agent Leaderboard 7 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 48 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 72 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 9 April 27, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 6 days ago • 5 Software Forgets: Agent Traces Are the Memory huggingface • about 13 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots nvidia • Apr 17 • 16 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 17 days ago • 4 OlmoEarth v1.1: A more efficient family of models 8 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 29 May 19, 2026 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation 11 May 18, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 28 May 18, 2026 The Open Agent Leaderboard 7 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 48 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 72 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 9 April 27, 2026 Previous 1 2 3 ...",
       "56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Software Forgets: Agent Traces Are the Memory huggingface • about 10 hours ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Metric and Relative Monocular Depth Estimation: An Overview."
+      "Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 6 days ago • 5 Software Forgets: Agent Traces Are the Memory huggingface • about 13 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots nvidia • Apr 17 • 16 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 17 days ago • 4 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs"
     ],
     "claims": [
       {
@@ -1504,7 +1503,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-20T07:10:39.298Z",
+    "publishedAt": "2026-05-20T10:54:43.134Z",
     "categoryHints": [
       "ai-agentic"
     ],
