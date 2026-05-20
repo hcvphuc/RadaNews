@@ -36,6 +36,12 @@ export function getFeaturedArticle(lang: Lang) {
   return getArticlesByCategory(lang, "ai-video")[0] ?? getArticles(lang)[0];
 }
 
+export function getRelatedArticles(article: Article, limit = 5) {
+  return getArticles(article.lang)
+    .filter((a) => a.category === article.category && a.id !== article.id)
+    .slice(0, limit);
+}
+
 export function getArchiveArticles(lang: Lang) {
   return getArticles(lang).slice(6);
 }
