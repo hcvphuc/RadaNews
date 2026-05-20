@@ -14,10 +14,12 @@
       "src_replit-blog_49899058ba32f8e5",
       "src_simonwillison-blog_9c9979f7c9ac502d",
       "src_reddit-stablediffusion_421aafce27d1ae18",
+      "src_reddit-mediasynthesis_98111c99496f6ea1",
+      "src_reddit-mediasynthesis_334324f1d5231047",
       "src_vercel-ai-blog_2026-05-20_fallback"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 11 source item(s), 10 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 13 source item(s), 12 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -29,21 +31,22 @@
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
+      "src_reddit-stablediffusion_7248c9009f6a84e8",
       "src_reddit-stablediffusion_806c984aa04fe8af",
+      "src_reddit-stablediffusion_1bf3877c1836569a",
       "src_reddit-comfyui_ddde2dc70fd315db",
       "src_reddit-comfyui_1809675118e52a90",
-      "src_reddit-stablediffusion_7248c9009f6a84e8",
+      "src_reddit-comfyui_7c5a208124eb6ba0",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
       "src_reddit-stablediffusion_9e64a5e0ac12658e",
-      "src_reddit-midjourney_91c5cf49176c170c",
       "src_reddit-midjourney_8df2718c2362b144",
+      "src_reddit-midjourney_91c5cf49176c170c",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-comfyui_50a3de08e857d6ef",
       "src_reddit-comfyui_23f5c726036a9c42",
       "src_stability-ai-blog_2026-05-20_fallback"
     ],
-    "articleWorthinessScore": 0.96,
-    "reasonSelected": "Score 0.96 from 15 source item(s), 14 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "articleWorthinessScore": 1,
+    "reasonSelected": "Score 1.00 from 16 source item(s), 15 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -64,39 +67,38 @@
       "src_openai-blog_2026-05-20_fallback",
       "src_mcp-blog_2026-05-20_fallback"
     ],
-    "articleWorthinessScore": 0.93,
-    "reasonSelected": "Score 0.93 from 11 source item(s), 9 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Hugging Face Blog.",
+    "articleWorthinessScore": 0.95,
+    "reasonSelected": "Score 0.95 from 11 source item(s), 9 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20",
+    "clusterId": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-20",
     "category": "ai-video",
-    "topic": "Local I2V finally feels less like image wiggle and more like shot direction with LTX Director",
+    "topic": "This kind of storyboard image combined with seedance is very useful for creating videos. I created an agent to create prompts for these storyboards. It can generate complete prompts for creating storyboards based on a simple plot description. However, unfortunately, it can only use nanobanana or gpt",
     "sourceIds": [
-      "src_reddit-stablediffusion_1bf3877c1836569a",
       "src_reddit-comfyui_0e8e2a585e4cb99b",
       "src_kling-blog_93b43a5f7aed1c98",
       "src_pika-blog_80e55ecea6acd04d",
       "src_reddit-aivideo_a7a9a72758720ba6",
-      "src_reddit-aivideo_5a163fe980d106d8",
       "src_reddit-mediasynthesis_77fd766897b9ab43",
-      "src_reddit-aivideo_2dd3612a2dadaddf",
-      "src_reddit-aivideo_b565a5af23106c40"
+      "src_reddit-aivideo_5a163fe980d106d8",
+      "src_reddit-aivideo_b565a5af23106c40",
+      "src_reddit-aivideo_2dd3612a2dadaddf"
     ],
-    "articleWorthinessScore": 0.9,
-    "reasonSelected": "Score 0.90 from 9 source item(s), 9 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, Kling AI Blog.",
+    "articleWorthinessScore": 0.89,
+    "reasonSelected": "Score 0.89 from 8 source item(s), 8 live crawl(s), strongest sources: r/comfyui, Kling AI Blog, Pika Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_release-the-hounds_2026-05-20",
+    "clusterId": "cluster_prompt-image_fairy-tales-in-chiaroscuro_2026-05-20",
     "category": "prompt-image",
-    "topic": "Release The Hounds",
+    "topic": "Fairy tales in chiaroscuro",
     "sourceIds": [
-      "src_reddit-midjourney_5c05c058f9404370",
+      "src_reddit-midjourney_c994783cdf758492",
       "src_reddit-midjourney_75de158aacc5b3e3",
-      "src_reddit-midjourney_c994783cdf758492"
+      "src_reddit-midjourney_5c05c058f9404370"
     ],
     "articleWorthinessScore": 0.68,
     "reasonSelected": "Score 0.68 from 3 source item(s), 3 live crawl(s), strongest sources: r/midjourney.",
@@ -109,12 +111,10 @@
     "topic": "The Odyssey (But Accurate) | Trailer 4K",
     "sourceIds": [
       "src_reddit-aivideo_152c45103ec69146",
-      "src_reddit-mediasynthesis_98111c99496f6ea1",
-      "src_reddit-mediasynthesis_8dc8d246a27d02f6",
-      "src_reddit-mediasynthesis_334324f1d5231047"
+      "src_reddit-mediasynthesis_8dc8d246a27d02f6"
     ],
-    "articleWorthinessScore": 0.67,
-    "reasonSelected": "Score 0.67 from 4 source item(s), 4 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
+    "articleWorthinessScore": 0.57,
+    "reasonSelected": "Score 0.57 from 2 source item(s), 2 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
     "confidence": "medium",
     "selectedForGeneration": true
   }
