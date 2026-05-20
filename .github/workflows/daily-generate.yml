@@ -54,4 +54,4 @@ jobs:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_PROJECT_ID: prj_hqAfomj61Bh3Oo5m3QokuWtzyvZL
           VERCEL_ORG_ID: team_Sd6apx5desRR3EP7N5vo2xFa
-        run: npx vercel deploy --prebuilt --prod --token "$VERCEL_TOKEN" --yes
+        run: npx vercel deploy --prod --token "$VERCEL_TOKEN" --yes
