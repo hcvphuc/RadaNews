@@ -70,7 +70,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.906Z",
         "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -129,7 +129,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.906Z",
         "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -216,7 +216,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.906Z",
         "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -275,7 +275,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.906Z",
         "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -360,7 +360,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.906Z",
         "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -417,7 +417,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.907Z",
         "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -463,7 +463,7 @@
         "Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.",
         "But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor."
       ],
-      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.84 với confidence high.\n\n## Phân tích\n\n- I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.\n- Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.\n- But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.\n\n## Nguồn cần kiểm chứng\n\n- r/StableDiffusion: Local I2V finally feels less like image wiggle and more like shot direction with LTX Director\n- r/comfyui: 5-Min-How-To: VibeVoice & Audacity For Dialogue Tasks\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: It Was Mister Fluffy\n- r/aivideo: Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)\n- r/aivideo: VAULT 13 - MY FIRST AI VIDEO :D\n- Kling AI Blog: Kling AI Blog signal for prompt-video\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.88 với confidence high.\n\n## Phân tích\n\n- I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.\n- Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.\n- But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.\n\n## Nguồn cần kiểm chứng\n\n- r/StableDiffusion: Local I2V finally feels less like image wiggle and more like shot direction with LTX Director\n- r/comfyui: 5-Min-How-To: VibeVoice & Audacity For Dialogue Tasks\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: It Was Mister Fluffy\n- r/aivideo: Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)\n- r/aivideo: VAULT 13 - MY FIRST AI VIDEO :D\n- Kling AI Blog: Kling AI\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
       "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
       "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
@@ -473,6 +473,7 @@
       ],
       "sourceIds": [
         "src_reddit-stablediffusion_1bf3877c1836569a",
+        "src_kling-blog_93b43a5f7aed1c98",
         "src_reddit-comfyui_fd0db9103adfbe16",
         "src_pika-blog_80e55ecea6acd04d",
         "src_reddit-aivideo_a7a9a72758720ba6",
@@ -480,8 +481,7 @@
         "src_reddit-mediasynthesis_77fd766897b9ab43",
         "src_reddit-aivideo_2dd3612a2dadaddf",
         "src_reddit-aivideo_b565a5af23106c40",
-        "src_reddit-aivideo_9a52943a45c1eb3b",
-        "src_kling-blog_2026-05-20_fallback"
+        "src_reddit-aivideo_9a52943a45c1eb3b"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/StableDiffusion/comments/1thuq4k/local_i2v_finally_feels_less_like_image_wiggle/",
@@ -498,7 +498,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.906Z",
         "sourceClusterId": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -516,7 +516,7 @@
         "Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.",
         "But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor."
       ],
-      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.84 with high confidence.\n\n## Analysis\n\n- I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.\n- Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.\n- But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.\n\n## Sources to verify\n\n- r/StableDiffusion: Local I2V finally feels less like image wiggle and more like shot direction with LTX Director\n- r/comfyui: 5-Min-How-To: VibeVoice & Audacity For Dialogue Tasks\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: It Was Mister Fluffy\n- r/aivideo: Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)\n- r/aivideo: VAULT 13 - MY FIRST AI VIDEO :D\n- Kling AI Blog: Kling AI Blog signal for prompt-video\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.88 with high confidence.\n\n## Analysis\n\n- I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.\n- Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.\n- But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.\n\n## Sources to verify\n\n- r/StableDiffusion: Local I2V finally feels less like image wiggle and more like shot direction with LTX Director\n- r/comfyui: 5-Min-How-To: VibeVoice & Audacity For Dialogue Tasks\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: It Was Mister Fluffy\n- r/aivideo: Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)\n- r/aivideo: VAULT 13 - MY FIRST AI VIDEO :D\n- Kling AI Blog: Kling AI\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
       "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
       "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
@@ -526,6 +526,7 @@
       ],
       "sourceIds": [
         "src_reddit-stablediffusion_1bf3877c1836569a",
+        "src_kling-blog_93b43a5f7aed1c98",
         "src_reddit-comfyui_fd0db9103adfbe16",
         "src_pika-blog_80e55ecea6acd04d",
         "src_reddit-aivideo_a7a9a72758720ba6",
@@ -533,8 +534,7 @@
         "src_reddit-mediasynthesis_77fd766897b9ab43",
         "src_reddit-aivideo_2dd3612a2dadaddf",
         "src_reddit-aivideo_b565a5af23106c40",
-        "src_reddit-aivideo_9a52943a45c1eb3b",
-        "src_kling-blog_2026-05-20_fallback"
+        "src_reddit-aivideo_9a52943a45c1eb3b"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/StableDiffusion/comments/1thuq4k/local_i2v_finally_feels_less_like_image_wiggle/",
@@ -551,7 +551,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.907Z",
         "sourceClusterId": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -614,7 +614,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.906Z",
         "sourceClusterId": "cluster_prompt-image_duel-in-the-wasteland_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -651,7 +651,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.907Z",
         "sourceClusterId": "cluster_prompt-image_duel-in-the-wasteland_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -716,7 +716,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.906Z",
         "sourceClusterId": "cluster_prompt-video_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -755,7 +755,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T05:58:05.494Z",
+        "generatedAt": "2026-05-20T06:03:39.907Z",
         "sourceClusterId": "cluster_prompt-video_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"

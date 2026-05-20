@@ -76,6 +76,7 @@
     "topic": "Local I2V finally feels less like image wiggle and more like shot direction with LTX Director",
     "sourceIds": [
       "src_reddit-stablediffusion_1bf3877c1836569a",
+      "src_kling-blog_93b43a5f7aed1c98",
       "src_reddit-comfyui_fd0db9103adfbe16",
       "src_pika-blog_80e55ecea6acd04d",
       "src_reddit-aivideo_a7a9a72758720ba6",
@@ -83,11 +84,10 @@
       "src_reddit-mediasynthesis_77fd766897b9ab43",
       "src_reddit-aivideo_2dd3612a2dadaddf",
       "src_reddit-aivideo_b565a5af23106c40",
-      "src_reddit-aivideo_9a52943a45c1eb3b",
-      "src_kling-blog_2026-05-20_fallback"
+      "src_reddit-aivideo_9a52943a45c1eb3b"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 10 source item(s), 9 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, Pika Labs Blog.",
+    "articleWorthinessScore": 0.88,
+    "reasonSelected": "Score 0.88 from 10 source item(s), 10 live crawl(s), strongest sources: r/StableDiffusion, Kling AI Blog, r/comfyui.",
     "confidence": "high",
     "selectedForGeneration": true
   },

@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-20T05:57:55.710Z",
+    "publishedAt": "2026-05-20T06:03:33.120Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-20T05:57:59.650Z",
+    "publishedAt": "2026-05-20T06:03:32.380Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T05:57:54.616Z",
+    "publishedAt": "2026-05-20T06:03:32.272Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T05:57:55.063Z",
+    "publishedAt": "2026-05-20T06:03:32.584Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-20T05:57:54.857Z",
+    "publishedAt": "2026-05-20T06:03:32.509Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-20T05:57:55.740Z",
+    "publishedAt": "2026-05-20T06:03:33.243Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-20T05:57:55.039Z",
+    "publishedAt": "2026-05-20T06:03:32.512Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -641,7 +641,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-20T05:57:54.861Z",
+    "publishedAt": "2026-05-20T06:03:32.411Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -670,7 +670,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-20T05:57:55.151Z",
+    "publishedAt": "2026-05-20T06:03:32.716Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -699,7 +699,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-20T05:57:55.980Z",
+    "publishedAt": "2026-05-20T06:03:34.115Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -867,7 +867,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-20T05:57:55.545Z",
+    "publishedAt": "2026-05-20T06:03:33.075Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -896,7 +896,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-20T05:57:55.128Z",
+    "publishedAt": "2026-05-20T06:03:32.583Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -925,7 +925,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-20T05:57:55.097Z",
+    "publishedAt": "2026-05-20T06:03:32.625Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -952,7 +952,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-20T05:57:55.168Z",
+    "publishedAt": "2026-05-20T06:03:32.745Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -981,7 +981,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-20T05:57:55.323Z",
+    "publishedAt": "2026-05-20T06:03:32.751Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1148,23 +1148,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_kling-blog_2026-05-20_fallback",
+    "sourceId": "src_kling-blog_93b43a5f7aed1c98",
     "sourceType": "blog",
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
-    "title": "Kling AI Blog signal for prompt-video",
-    "publishedAt": "2026-05-20T05:57:56.150Z",
+    "title": "Kling AI",
+    "publishedAt": "2026-05-20T06:03:34.583Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
-      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      "Kling AI 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity Native 4K AI Video Output vs Upscaling: What Is the Real Difference?",
+      "Apr 30, 2026 World's First Native 4K Image-to-Video AI: Kling AI 4K Direct Output Explained Apr 30, 2026 AI Prompt Weighting: Prioritize Keywords in Kling AI Prompts Apr 29, 2026 Horror AI Video Prompts: Craft Suspense With Sound And Color Grading Apr 25, 2026 Photorealistic AI Video: Make Kling AI Footage Look Like Real Life Apr 22, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Apr 22, 2026 AI Anime Video Prompts: Create Epic 2D Scenes with Kling AI Apr 21, 2026 AI Motion Prompts for Kling AI: Describe Running, Jumping & Gestures Apr 21, 2026 AI Video Lighting Prompts: Master Volumetric Light & Golden Hour Apr 20, 2026 50 Best Adjectives for Kling AI: Elevate Your AI Video Quality Apr 20, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Apr 20, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Apr 20, 2026 Kling 3.0 Prompt Syntax 2.0: Physics & Omni Reference Tags Mar 30, 2026 Kling Image 3.0 Advanced: Multi-Reference & Inpainting Guide Mar 30, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Mar 25, 2026 Kling 3.0 Subject Binding: Lock Character Features Across Shots Mar 25, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
     ],
     "claims": [
       {
-        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-        "confidence": "low",
+        "text": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
+        "confidence": "medium",
         "evidence": "https://klingai.com/blog"
       }
     ],
@@ -1321,7 +1322,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-20T05:57:55.348Z",
+    "publishedAt": "2026-05-20T06:03:32.840Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1503,7 +1504,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-20T05:57:55.382Z",
+    "publishedAt": "2026-05-20T06:03:32.939Z",
     "categoryHints": [
       "ai-agentic"
     ],
