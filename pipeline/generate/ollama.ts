@@ -65,7 +65,7 @@ async function generateWithChatCompletions(
       method: "POST",
       headers,
       body: JSON.stringify(body),
-      signal: AbortSignal.timeout(120_000),
+      signal: AbortSignal.timeout(300_000),
     });
 
     if (!response.ok) {

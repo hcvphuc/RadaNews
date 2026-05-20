@@ -3,9 +3,13 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { articles as mockArticles } from "../apps/web/src/data/articles.ts";
 import { generatedArticles } from "../apps/web/src/data/articles-generated.ts";
+import type { Article, ArticleChunk, Lang, Source } from "../apps/web/src/lib/schema.ts";
 
 const articles = [...mockArticles, ...generatedArticles];
-import type { Article, ArticleChunk, Lang } from "../apps/web/src/lib/schema.ts";
+
+function safeSources(article: Article): Source[] {
+  return Array.isArray(article.sources) ? article.sources : [];
+}
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const publicAgentDir = resolve(root, "apps/web/public/data/agent");
@@ -36,8 +40,7 @@ function agentDoc(article: Article) {
     category: article.category,
     title: article.title,
     text: articleText(article),
-    tags: article.tags,
-    source_urls: article.sources.map((source) => source.url),
+    source_urls: safeSources(article).map((source) => source.url),
     canonical_url: `https://ai-radar.vercel.app/${article.lang}/${article.category}/${article.slug}`,
     created_at: article.generation.generatedAt,
     license: "internal-training-allowed",
@@ -52,7 +55,7 @@ function chunksForArticle(article: Article): ArticleChunk[] {
     category: article.category,
     title: article.title,
     tags: article.tags,
-    sourceUrls: article.sources.map((source) => source.url),
+    sourceUrls: safeSources(article).map((source) => source.url),
     canonicalUrl: `https://ai-radar.vercel.app/${article.lang}/${article.category}/${article.slug}`,
     publishedAt: article.publishedAt
   };
@@ -61,32 +64,32 @@ function chunksForArticle(article: Article): ArticleChunk[] {
     {
       ...base,
       chunkId: `${article.id}_tldr`,
-      section: "tldr",
+      section: "tldr" as const,
       text: (article.tldr || []).join("\n")
     },
     {
       ...base,
       chunkId: `${article.id}_body`,
-      section: "body",
-      text: article.bodyMarkdown
+      section: "body" as const,
+      text: article.bodyMarkdown || ""
     },
     {
       ...base,
       chunkId: `${article.id}_why`,
-      section: "whyItMatters",
-      text: article.whyItMatters
+      section: "whyItMatters" as const,
+      text: article.whyItMatters || ""
     },
     {
       ...base,
       chunkId: `${article.id}_takeaway`,
-      section: "creatorTakeaway",
-      text: article.creatorTakeaway
+      section: "creatorTakeaway" as const,
+      text: article.creatorTakeaway || ""
     },
     {
       ...base,
       chunkId: `${article.id}_sources`,
-      section: "sources",
-      text: article.sources.map((source) => `${source.sourceName}: ${source.title} (${source.url})`).join("\n")
+      section: "sources" as const,
+      text: safeSources(article).map((source) => `${source.sourceName || source.publisher || "unknown"}: ${source.title} (${source.url})`).join("\n")
     }
   ];
 }
@@ -102,28 +105,28 @@ function promptWorkflows(lang: Lang) {
       summary: article.subtitle,
       tags: article.tags,
       canonical_url: `https://ai-radar.vercel.app/${article.lang}/${article.category}/${article.slug}`,
-      source_urls: article.sources.map((source) => source.url)
+      source_urls: safeSources(article).map((source) => source.url)
     }));
 }
 
 function sourceNotes() {
   return articles.flatMap((article) =>
-    article.sources.map((source, index) => ({
+    safeSources(article).map((source, index) => ({
       sourceId: `${article.id}_src_${index + 1}`,
-      sourceType: source.sourceType,
-      sourceName: source.sourceName,
+      sourceType: source.sourceType || "other",
+      sourceName: source.sourceName || source.publisher || "unknown",
       url: source.url,
       title: source.title,
       publishedAt: article.publishedAt,
       categoryHints: [article.category],
-      keyFacts: article.tldr,
-      claims: article.tldr.map((item) => ({
+      keyFacts: article.tldr || [],
+      claims: (article.tldr || []).map((item) => ({
         text: item,
         confidence: article.generation.confidence,
         evidence: source.url
       })),
-      usableFor: article.category.startsWith("prompt-") ? ["article", "prompt-workflow"] : ["article", "trend"],
-      copyrightRisk: "low"
+      usableFor: article.category.startsWith("prompt-") ? ["article", "prompt-workflow"] : ["article", "trend"] as const,
+      copyrightRisk: "low" as const
     }))
   );
 }
@@ -138,7 +141,7 @@ function topicClusters() {
     clusterId,
     category: clusterArticles[0].category,
     topic: clusterArticles[0].title,
-    sourceIds: clusterArticles.flatMap((article) => article.sources.map((source) => source.url)),
+    sourceIds: clusterArticles.flatMap((article) => safeSources(article).map((source) => source.url)),
     articleWorthinessScore: 0.78,
     reasonSelected: "Mock MVP topic selected to validate publication structure and agent exports.",
     confidence: clusterArticles[0].generation.confidence,
