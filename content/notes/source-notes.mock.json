@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-18T09:20:31.540Z",
+    "publishedAt": "2026-05-19T02:39:44.521Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-18T09:20:33.908Z",
+    "publishedAt": "2026-05-19T02:39:44.613Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-05-18_fallback",
+    "sourceId": "src_openai-blog_2026-05-19_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-18T09:20:30.425Z",
+    "publishedAt": "2026-05-19T02:39:43.461Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-05-18_fallback",
+    "sourceId": "src_mcp-blog_2026-05-19_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-18T09:20:32.153Z",
+    "publishedAt": "2026-05-19T02:39:43.946Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -142,12 +142,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_40b6a9a6ec813c8b",
+    "sourceId": "src_reddit-aiagents_a8d909420e99b084",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ta7m1m/weekly_hiring_thread/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
-    "publishedAt": "2026-05-11T16:01:02.000Z",
+    "publishedAt": "2026-05-18T16:00:57.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -160,7 +160,7 @@
       {
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ta7m1m/weekly_hiring_thread/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/"
       }
     ],
     "usableFor": [
@@ -170,99 +170,99 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_25adcc989a2f5bd4",
+    "sourceId": "src_reddit-aiagents_780311747f460dad",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tgg5xw/we_automated_client_deck_creation_for_a_200/",
-    "title": "We automated client deck creation for a 200+ person sales team - here's the exact stack we built",
-    "publishedAt": "2026-05-18T08:20:35.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tgw0jw/this_subreddit_is_basically_unusable_due_to_the/",
+    "title": "This subreddit is basically unusable due to the amount of agent-generated content (posts AND comments)",
+    "publishedAt": "2026-05-18T18:25:37.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Post: Spent the last 2 months helping a B2B enterprise automate their client deck workflow.",
-      "Reps were spending 3-4 hours per deck pulling info from CRM + Notion + call recordings, then formatting in Powerpoint.",
-      "With 200+ reps making 5-8 decks a week, the math was insane.",
-      "Most AI for sales decks posts stop at \"use ChatGPT or Gamma\" which is nowhere close to what enterprise teams actually need."
+      "Post: I don’t think there’s anything we can do about it, but man it’s bad.",
+      "Just a fair warning to any folks new-ish to LLMs/Agents/software engineering, take pretty much everything you see here with a HUGE grain of salt.",
+      "Don’t make decisions to use tools based on threads in this subreddit.",
+      "That said, there are good discussions floating around in here it just takes a lot of cognitive load to chisel away at the true value when necessary."
     ],
     "claims": [
       {
-        "text": "Spent the last 2 months helping a B2B enterprise automate their client deck workflow. Reps were spending 3-4 hours per deck pulling info from CRM + Notion + call recordings, then formatting in Powerpoint. With 200+ reps making 5-8 decks a week, the math was insane. Most AI for sales decks posts stop at \"use ChatGPT or Gamma\" which is nowhere close to what enterprise teams actually need. The goal was never \"make AI build decks.\" It was make AI build the RIGHT deck for THIS client without the rep doing manual work. The stack: Data source - CRM (They currently use Salesforce, which was their existing stack - no big changes there) Account data, deal stage, industry, stakeholders, pain points from discovery Reps already maintain this, no extra work Added a \"deck trigger\" field - rep marks it when a deck is needed Claude Pulls account data from CRM via API Maps it to a fixed content structure we built (problem framing, solution fit, ROI math, case study selection, pricing framing) This is the part most people skip - without a fixed structure, Claude outputs are inconsistent across reps Also handles tone-matching by industry (different profiles for financial services vs SaaS vs healthcare) Alai Connected via API Has our full design system pre-loaded (brand colours, fonts, layouts, approved iconography, tone of voice and even specific brand -approved templates it needs to pull from) Uses memory to pull from approved decks - \"about us\", \"leadership\", \"customer logos\", \"case studies\" come from a vetted pool instead of getting regenerated badly every time What the rep actually does now: marks the deck trigger in CRM, gets a fully branded deck in ~8-10 mins, tweaks 1-2 slides if needed, sends. We went from 3-4 hours → ~15 mins of human time. The honest stuff: CRM hygiene needs to be perfect here, notes need to be filled, data points like industry etc need to be updated precisely for content accuracy - we spent a week getting AEs to fully understand the importance of this Tried Gamma & Beautiful AI initially for the design layer. Brand consistency was very basic - the output was not approved by the brand team, plus no memory feature meant repetitive slides kept being regenerated differently. (We are planning on implementing Gamma for their CX team's onboarding docs though.) Setting the content structure in Claude is non-negotiable imo. Without it no two reps get similar quality. We are now working on pre-enriching crm fields as much as possible + automating meeting notes to CRM notes so that AEs can just review the update and don't need to spend too much time just maintaining CRM hygiene. Would love any suggestions on how to optimise further or happy to ans any questions around the stack choice, what we tested, etc submitted by /u/ai-expert-6391 [link] [comments]",
+        "text": "I don’t think there’s anything we can do about it, but man it’s bad. Just a fair warning to any folks new-ish to LLMs/Agents/software engineering, take pretty much everything you see here with a HUGE grain of salt. Don’t make decisions to use tools based on threads in this subreddit. That said, there are good discussions floating around in here it just takes a lot of cognitive load to chisel away at the true value when necessary. submitted by /u/g3t0nmyl3v3l [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tgg5xw/we_automated_client_deck_creation_for_a_200/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tgw0jw/this_subreddit_is_basically_unusable_due_to_the/"
       }
     ],
     "usableFor": [
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_84a136c0826ee136",
+    "sourceId": "src_reddit-aiagents_a5685fe32e35f73a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tg953c/honest_comparison_after_4_months_running_claude/",
-    "title": "Honest comparison after 4 months running Claude Pro + ChatGPT Plus side by side",
-    "publishedAt": "2026-05-18T02:19:49.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1th165p/how_do_you_guys_handle_the_conversation_with/",
+    "title": "how do you guys handle the conversation with skeptical clients when selling agents?",
+    "publishedAt": "2026-05-18T21:02:37.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Post: I’ve been paying $40 a month since January to run Claude Pro and ChatGPT Plus head-to-head.",
-      "Tracked which tab I instinctively opened.",
-      "Tracked where I had to copy-paste from one to the other because the first one failed.",
-      "I’m sharing this because the comparison posts lately are ridiculously tribal, and the reality is far more boring than tech Twitter wants you to believe."
+      "Post: struggling with a bit of a reality check lately and wanted to see if anyone else is running into this.",
+      "been pitching agentic workflows for a while, and I've realized that leading with the tech - the orchestration the RAG, the \"intelligence\" is actually killing my conversion rate.",
+      "The word \"ai\" has basically become code for expensive experiment at the enterprise level.",
+      "how are you framing the sales side of this?"
     ],
     "claims": [
       {
-        "text": "I’ve been paying $40 a month since January to run Claude Pro and ChatGPT Plus head-to-head. Tracked every single task. Tracked which tab I instinctively opened. Tracked where I had to copy-paste from one to the other because the first one failed. I’m sharing this because the comparison posts lately are ridiculously tribal, and the reality is far more boring than tech Twitter wants you to believe. PM by day, tool hunter by night. 🔍 Tested it, here's my take. Let me break this down by actual daily workflows, not benchmark scores that mean nothing to our actual jobs. Longform Writing & Documentation (The 2000+ Word Problem) If you do any form of heavy writing, structured documentation, or deep analysis, Claude is the clear winner. Period. Opus 4.7 and Sonnet 4.6 completely body GPT-5.5 when it comes to maintaining voice over long distances. Here's what most people miss: AI writing isn't about the first paragraph. It's about the tenth. I pushed a 2,500-word PRD (Product Requirements Document) generation task to both. GPT-5.5 starts incredibly strong, but right around the 800-word mark, it defaults back to that sterile, robotic cadence we all know and hate. It loses the structural constraints. It forgets the formatting rules you set in the system prompt. Claude, on the other hand, keeps the exact formatting constraints and tone through the entire piece. It feels less like a predictive text machine and more like a junior PM who actually read your brief. You get natural-sounding output without needing six follow-up prompts to fix the tone. Coding & Development Workflows This is where the split gets incredibly interesting. Your IDE setup matters significantly more than the raw web model. If you are using CC (Claude Code) as your main instrument, you start acting more like a product manager than a line-level coder. When you're deeply nested in a complex React codebase or debugging Python microservices, context retention is everything. Claude’s compaction feature isn't just a gimmick. It actively rewrites and summarizes its own progress to avoid hitting a context wall, which lets you handle massive multi-file reasoning without the model losing its mind. There was a specific API refactoring task last month where ChatGPT essentially stalled out on me—it gave me the classic 'give me a few hours' equivalent of endless looping and hallucinated imports. Claude had it done in 40 seconds flat. That alone paid for the month. But... if you are running a heavy localized stack like Cursor Pro+ coupled with Codex, you might actually prefer keeping ChatGPT Plus around instead of Claude Pro. Why? Because Cursor handles the deep IDE integration and agentic coding tasks beautifully on its own. In that specific setup, you don't need Claude taking up your main monitor. You use ChatGPT Plus for the quick hits: planning, rapid debugging, general research, and throwing ideas at the wall. Speed, Versatility, and Everyday Utility ChatGPT is still the undisputed king of speed and casual versatility. It's the multi-tool in your pocket. When I need to figure out a quick Excel formula, draft a fast email response, or use voice mode while walking to brainstorm a feature launch, ChatGPT is unmatched. The latency is noticeably lower. The app ecosystem just feels faster and more responsive for quick-twitch tasks. Someone recently summed it up perfectly: \"ChatGPT for speed, Claude for depth.\" That is the most accurate TLDR you can get. ChatGPT is for everyday use, quick questions, and casual conversations. It’s what replaced traditional search for me. Claude is what replaced a blank Word document. Context Windows and Research (The 1M Token Reality) Claude gives you that massive 1 million token context window. Sounds amazing on paper, right? In practice, you only really need it if you're actively analyzing giant datasets, heavy financial PDFs, or a massive codebase. I uploaded a dense 60-page user research transcript into both. Claude extracted highly specific, subtle pain points. It actually understood the context bridging page 2 and page 58. It didn't just summarize; it synthesized. ChatGPT, even on the new GPT-5.5 architecture, tends to hallucinate or give a surface-level summary when the context gets too fat. It skims. If you ask it a hyper-specific question about a data point on page 41, GPT-5.5 might confidently lie to you or pull generic industry knowledge instead of reading the actual document. But let's be real about the $20/month tier limits. Both platforms have caps. When you're in the middle of a heavy workflow and get hit with a message cap, it's infuriating. Having both means you never hit a hard stop, but burning $40 a month isn't feasible for everyone. The Platform Trust Dynamic There’s also a weird vibe shift happening lately. A lot of people have been jumping ship back to ChatGPT because of Anthropic's recent shadow-bans or overly aggressive safety filters. You can't build a brand on trust and caring about humanity and then be shady about user limits or prompt ownership. OpenAI has 500 million users and they just plow forward. Both are incredible products, but ChatGPT's ecosystem consistency is a safety net. Plus, Claude still stubbornly refuses to add native image generation. If you need multimodal outputs in one window, you're forced into the OpenAI ecosystem. The Bottom Line You don't need both unless you are a heavy power user or making money directly from your output. - If you are a student, analyst, or writer doing deep work: go Claude. Opus 4.7 is worth the $20 alone for the reasoning depth. - If you need image generation, quick search, voice mode, and a versatile daily assistant: stick with ChatGPT Plus. I'm curious though, for the people in this sub running local models or switching stacks lately, what's your primary driver right now? Are you guys actually hitting the context limits on Sonnet 4.6, or just sticking to ChatGPT for convenience? Let's talk about it. submitted by /u/TroyHay6677 [link] [comments]",
+        "text": "struggling with a bit of a reality check lately and wanted to see if anyone else is running into this. been pitching agentic workflows for a while, and I've realized that leading with the tech - the orchestration the RAG, the \"intelligence\" is actually killing my conversion rate. The word \"ai\" has basically become code for expensive experiment at the enterprise level. how are you framing the sales side of this? are you hiding the ai under the hood to get people focused on business outcomes? genuinely considering dropping \"agent\" from my discovery calls entirely and just calling it \"workflow automation.\" submitted by /u/rukola99 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tg953c/honest_comparison_after_4_months_running_claude/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1th165p/how_do_you_guys_handle_the_conversation_with/"
       }
     ],
     "usableFor": [
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6438a4e0e0347d32",
+    "sourceId": "src_reddit-aiagents_26b3399c56763d59",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tg3i11/in_18_months_billing_for_ai_agents_will_look_like/",
-    "title": "In 18 months, billing for AI agents will look like cloud infrastructure pricing. Variable, dimensional, real-time",
-    "publishedAt": "2026-05-17T22:10:32.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tgx8ok/with_the_rise_of_ai_agents_and_other_automations/",
+    "title": "With the rise of AI Agents and other automations, why hasn't there been a surge of HIPAA compliant app makers?",
+    "publishedAt": "2026-05-18T18:59:54.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Post: I've been watching how AI agent products evolve their pricing over the last 18 months and I think we're heading somewhere specific.",
-      "Posting a prediction with my reasoning, would love pushback.",
-      "**The prediction:** By end of 2026, the dominant monetization model for AI agent products will look almost identical to AWS pricing.",
-      "Variable rates per dimension, real-time consumption tracking, customer-visible balances and usage, programmatic price changes via API."
+      "Post: I'm asking this because I have a degree in nursing and I am looking to amke the jump to health tech.",
+      "However, my coding and programming skills are not up to par yet.",
+      "(Of course I am still learning and doing crash courses) But the thing is, there are tons of people who build healthcare apps and sell MVPs and prototypes for various clients just through AI and other vibecoding platforms, so I'm wondering why this isn't the norm when it comes to health apps?",
+      "Top comments:\nBarrier to entry - One does not simply vibe code HIPAA compliance."
     ],
     "claims": [
       {
-        "text": "I've been watching how AI agent products evolve their pricing over the last 18 months and I think we're heading somewhere specific. Posting a prediction with my reasoning, would love pushback. The prediction: By end of 2026, the dominant monetization model for AI agent products will look almost identical to AWS pricing. Variable rates per dimension, real-time consumption tracking, customer-visible balances and usage, programmatic price changes via API. Not \"subscriptions plus overage.\" Actual infrastructure-style billing. Why I think this is happening: Cost variance per agent action is structural, not transitional. A simple lookup costs $0.001, a deep research run costs $2.80. That 100x ratio isn't going to compress. It's going to widen as models specialize. Customers are getting sophisticated about consumption. Three years ago a customer would accept \"Pro plan, $99/month.\" Today they want to know cost per query, and they're shopping on price-per-thousand-actions. The unit economics of AI agents make flat pricing structurally lossy. You either price for the heavy user (price out the casual user) or price for the casual user (lose money on the heavy user). Neither works at scale. Cloud infrastructure already solved this problem in the 2010s. The pattern is proven: dimensional pricing, real-time usage tracking, customer-visible dashboards, API-driven plan changes. What this means tactically for builders: If you're shipping an AI agent product and your billing is \"Pro tier, $X/month\", you are pricing on a model that won't survive the next 18 months. You'll either compress to flat pricing that loses money on power users, or you'll bolt on overage in a way that frustrates customers because it's bolted-on. The teams that are getting it right early are designing pricing as a first-class infrastructure concern, not a checkout-flow afterthought. Where I might be wrong: The flat-subscription faction has a strong argument: customers hate variable bills. There's a counter-prediction where the market keeps flat pricing and just absorbs the margin pain via aggressive caps. Possible, but I think it loses to the more efficient monetization model long-term. submitted by /u/o9dev [link] [comments]",
+        "text": "I'm asking this because I have a degree in nursing and I am looking to amke the jump to health tech. However, my coding and programming skills are not up to par yet. (Of course I am still learning and doing crash courses) But the thing is, there are tons of people who build healthcare apps and sell MVPs and prototypes for various clients just through AI and other vibecoding platforms, so I'm wondering why this isn't the norm when it comes to health apps? submitted by /u/relived_greats12 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tg3i11/in_18_months_billing_for_ai_agents_will_look_like/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tgx8ok/with_the_rise_of_ai_agents_and_other_automations/"
       }
     ],
     "usableFor": [
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-05-18_fallback",
+    "sourceId": "src_stability-ai-blog_2026-05-19_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-18T09:20:31.057Z",
+    "publishedAt": "2026-05-19T02:39:44.102Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -288,7 +288,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-18T09:20:31.741Z",
+    "publishedAt": "2026-05-19T02:39:44.756Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -317,7 +317,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-18T09:20:32.082Z",
+    "publishedAt": "2026-05-19T02:39:45.031Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -343,27 +343,26 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_fd727932349bd495",
+    "sourceId": "src_reddit-stablediffusion_bf55f1c496abf023",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tftqwg/neuralcompanion/",
-    "title": "NeuralCompanion",
-    "publishedAt": "2026-05-17T16:07:34.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tgjrm2/lance_by_bytedance_3b_apache2_model_for_image_and/",
+    "title": "Lance by ByteDance: 3B Apache2 model for image and video understanding, generation, and editing",
+    "publishedAt": "2026-05-18T11:29:42.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: NeuralCompanion is an open-source, local-first AI companion project for people who like building, experimenting, and seeing how far personal AI can go on their own hardware.",
-      "It brings together realtime voice chat, local LLMs, TTS/STT, image generation, interactive tutorials, API-friendly workflows, and a modular addon system into one desktop app designed to be flexible, hackable, and genuinely fun to explore.",
-      "NC also supports avatar systems and avatar engines like VSeeFace, VAM/VAM2, and other experimental realtime avatar workflows.",
-      "It is still experimental and a little rough around the edges in places, but that is part of the project."
+      "Post: [https://lance-project.github.io/](https://lance-project.github.io/) [https://github.com/bytedance/Lance](https://github.com/bytedance/Lance) [https://huggingface.co/bytedance-research/Lance](https://huggingface.co/bytedance-research/Lance)\n\nTop comments:\nWow all Edit models are welcomed\n\nI can't beleive benchmarks at all it's showing bette than qwen image\n\nThe reasoning and character consistency looks great so far.",
+      "Video understanding could be useful for lora captioning.",
+      "Summary: https://lance-project.github.io/ https://github.com/bytedance/Lance https://huggingface.co/bytedance-research/Lance submitted by /u/HatEducational9965 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "NeuralCompanion is an open-source, local-first AI companion project for people who like building, experimenting, and seeing how far personal AI can go on their own hardware. It brings together realtime voice chat, local LLMs, TTS/STT, image generation, interactive tutorials, API-friendly workflows, and a modular addon system into one desktop app designed to be flexible, hackable, and genuinely fun to explore. NC also supports avatar systems and avatar engines like VSeeFace, VAM/VAM2, and other experimental realtime avatar workflows. It is still experimental and a little rough around the edges in places, but that is part of the project. The goal is not to make another locked-down corporate assistant. It is to build a customizable AI companion platform you can actually run, modify, and shape yourself. If you are into local AI, creative tools, avatars, plugins, voice interfaces, automation, or weird future-facing software, come take a look. GitHub: https://github.com/Rakile/NeuralCompanion Discord: https://discord.com/invite/UqnwX46rcK Developers, tinkerers, artists, AI enthusiasts, and curious people very welcome. Rakila & LAinol submitted by /u/lainol [link] [comments]",
+        "text": "https://lance-project.github.io/ https://github.com/bytedance/Lance https://huggingface.co/bytedance-research/Lance submitted by /u/HatEducational9965 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tftqwg/neuralcompanion/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tgjrm2/lance_by_bytedance_3b_apache2_model_for_image_and/"
       }
     ],
     "usableFor": [
@@ -373,27 +372,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_9d8b8ef5bcfa4fae",
+    "sourceId": "src_reddit-stablediffusion_c8e19cb44c5523a6",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tg5nit/captivating_chroma/",
-    "title": "Captivating Chroma",
-    "publishedAt": "2026-05-17T23:42:02.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tgyrsa/how_to_use_ltx_director_a_free_tool_for_creating/",
+    "title": "How to use LTX Director - A Free Tool for Creating Advanced LTX 2.3 Videos in ComfyUI",
+    "publishedAt": "2026-05-18T19:41:30.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: I'm a huge fan of lodestones/Chroma, as it's very good at realism, creativity, and overall freedom.",
-      "It is based on FLUX.1-schnell, so it's a bit of an older architecture by now.",
-      "One thing I like the most about Chroma is the incredible team and community behind it especially the Legendary Lodestones and the almighty, wise Silver.",
-      "As it must be a monumental load of time effort and work to create a good model like this."
+      "Post: Just finished the first tutorial for LTX Director.",
+      "It covers how to setup the node, and has multiple examples on how to use all of the nodes main features.",
+      "Top comments:\nPerfect timing, was just playing around with this and 10eros combination.",
+      "Do we add steps to first or second pass?"
     ],
     "claims": [
       {
-        "text": "I'm a huge fan of lodestones/Chroma, as it's very good at realism, creativity, and overall freedom. It is based on FLUX.1-schnell, so it's a bit of an older architecture by now. One thing I like the most about Chroma is the incredible team and community behind it especially the Legendary Lodestones and the almighty, wise Silver. As it must be a monumental load of time effort and work to create a good model like this. There is also the work-in-progress lodestones/Zeta-Chroma on the horizon, which is based on the great Z-Image/turbo. In a world where companies are closed-sourcing their models, it's amazing to see the great independent work that creators like these are doing to keep the open-source community alive. Well done to the Chroma team and the community behind it. You are all legends. submitted by /u/Time-Teaching1926 [link] [comments]",
+        "text": "Just finished the first tutorial for LTX Director. It covers how to setup the node, and has multiple examples on how to use all of the nodes main features. Hopefully it helps! submitted by /u/WhatDreamsCost [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tg5nit/captivating_chroma/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tgyrsa/how_to_use_ltx_director_a_free_tool_for_creating/"
       }
     ],
     "usableFor": [
@@ -403,27 +402,87 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_78f61f5c3a4cede8",
+    "sourceId": "src_reddit-stablediffusion_a371cf5b066e4cbd",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tgggrv/training_a_portrait_lora_on_amd_rx_9060_xt_rdna4/",
-    "title": "Training a Portrait LoRA on AMD RX 9060 XT (RDNA4 / gfx1200) on Native Linux",
-    "publishedAt": "2026-05-18T08:37:54.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tgqzkm/are_these_models_outdated/",
+    "title": "are these models outdated?",
+    "publishedAt": "2026-05-18T16:00:49.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: This is a full account of getting LoRA training working on an AMD RX 9060 XT (Navi 44, RDNA4) on native Kubuntu 24.04.4.",
-      "It covers everything tried, what failed and why, what had to be fixed, and what ended up working.",
-      "Written for anyone with the same or similar hardware who wants to skip the trial-and-error.",
-      "--- ## Hardware - **GPU:** AMD RX 9060 XT — Navi 44, RDNA4, gfx1200, 16GB GDDR6, 150W TDP - **CPU:** AMD Ryzen 5 5600G - **RAM:** 32GB - **OS:** Kubuntu 24.04.4, kernel 6.17.0-23-generic - **Primary SSD:** Samsung 990 1TB M.2 (ext4, Linux) - **ROCm:** 7.2.3 **Important architecture note:** Native Linux ROCm and `amd-smi` report this GPU as **gfx1200**."
+      "Post: so I havent used SD since 2024, and im doing some files cleaning/updating.",
+      "are any of these models safe to delete and update?",
+      "in that case, **which new/updated models should i replace these with?** thanks!",
+      "Top comments:\nIt depends on your taste\n\nmany have newer iterations."
     ],
     "claims": [
       {
-        "text": "This is a full account of getting LoRA training working on an AMD RX 9060 XT (Navi 44, RDNA4) on native Kubuntu 24.04.4. It covers everything tried, what failed and why, what had to be fixed, and what ended up working. Written for anyone with the same or similar hardware who wants to skip the trial-and-error. Hardware GPU: AMD RX 9060 XT — Navi 44, RDNA4, gfx1200, 16GB GDDR6, 150W TDP CPU: AMD Ryzen 5 5600G RAM: 32GB OS: Kubuntu 24.04.4, kernel 6.17.0-23-generic Primary SSD: Samsung 990 1TB M.2 (ext4, Linux) ROCm: 7.2.3 Important architecture note: Native Linux ROCm and amd-smi report this GPU as gfx1200 . If you have WSL2 experience with this card, you may have seen gfx1201 — that was the WSL2 librocdxg bridge reporting incorrectly. The correct arch ID on native Linux is gfx1200 . This matters for cmake flags and any arch-specific builds. Goal Train a LoRA on portrait photos and use it with ComfyUI to generate lifestyle portrait photos. Models tested: SDXL (completed), Flux.1 Dev (completed, 1500 steps). The article covers both models in sequence. The SDXL sections document a fully working pipeline and are useful standalone — but if you only care about Flux, you can skip ahead. The SDXL sections are not a prerequisite for Flux. Why Native Linux, Not WSL2 I started on Windows 10 + WSL2 (Ubuntu 24.04). Short version: don't bother with WSL2 for RDNA4 training as of May 2026. What happens in WSL2 WSL2 GPU passthrough for AMD goes through the DXG bridge — a closed-source component ( libthunk_proxy.a ) inside the AMD Adrenalin driver. On RDNA4, there is a confirmed bug in this library that breaks GPU kernel dispatch for large workloads. Symptom: training appears to start, pipeline loads successfully, GPU VRAM fills to 8-10GB — but then nothing. CPU climbs to 30%, RAM to 28GB, GPU compute stays at 0%. The first training step either runs entirely on CPU (~50 minutes for one SDXL step at batch size 1) or the process hangs indefinitely. The error that appears in logs: [GetSegmentId] Failed to get segment id for type 1 This is librocdxg Issue #22 (opened April 2026, unfixed as of May 2026). Root cause is in libthunk_proxy.a which is closed source — librocdxg cannot fix it, only AMD can by shipping an updated driver. What was ruled out through testing: - bitsandbytes (same hang with plain adamw) - bf16 precision (same hang with fp16) - accelerate config (explicit single-GPU config made no difference) - model loading (all 7 pipeline components load fine, VRAM fills correctly) - Proof: MIOpen kernel cache after a 50-minute \"run\" was 180KB — essentially empty. If GPU kernels had been compiling for 50 minutes, the cache would be hundreds of MB. The work was running on CPU the whole time. Do not try float32 in WSL2 either. dtype: float32 doubles VRAM to ~26-30GB, exceeds 16GB, OOM crashes the GPU driver, and on Windows this causes a BSOD. Use bf16 or fp16 always. Native Linux Bypasses the DXG bridge entirely. ROCm accesses the GPU natively via /dev/kfd and /dev/dri . The same training config that hung indefinitely in WSL2 ran at 3-4 seconds per step on native Linux. First 50-step test: 8 minutes total. The difference is dramatic. ROCm Installation on Native Linux ```bash Download the installer .deb — the package is not in the default Ubuntu repos wget https://repo.radeon.com/amdgpu-install/7.2.3/ubuntu/noble/amdgpu-install_7.2.3.70203-1_all.deb sudo apt install -y ./amdgpu-install_7.2.3.70203-1_all.deb sudo amdgpu-install --usecase=rocm --no-dkms -y ``` --no-dkms skips kernel module installation — not needed if the amdgpu module is already loaded (which it is in current kernels). Critical: amdgpu-install does NOT add your user to the required groups. You must do this manually: ```bash sudo usermod -aG render,video $USER Then log out and log back in — groups don't apply to existing sessions ``` Without render and video group membership, ROCm cannot access /dev/kfd and /dev/dri . Training will fail silently or with permission errors. Verify: ```bash rocminfo | grep -E \"gfx|Marketing\" Should show: gfx1200 and \"AMD Radeon RX 9060 XT\" amd-smi static | grep -i \"gfx|market\" ``` Additional packages needed that are not in default Kubuntu 24.04: bash sudo apt install python3.12-venv cmake radeontop python3.12-venv is required before you can create any Python venv. cmake is required for bitsandbytes compilation. Training Tool Selection All major training tools were evaluated. The main blocker for most is ROCm version compatibility: Tool Verdict Reason cupertinomiranda/ai-toolkit-amd-rocm-support Use this Explicitly mentions gfx1200/gfx1201, tested on ROCm 7.1 (7.2 works), bitsandbytes instructions included ostris/ai-toolkit (main) May work Civitai guide used it on RX 9070 + ROCm 7.2; no confirmed end-to-end results daMustermann/ai-toolkit-rocm Do not use Targets ROCm 6.2 — incompatible with RDNA4 Kohya_ss / sd-scripts Do not use requirements_linux_rocm.txt targets ROCm 6.3 — incompatible FluxGym Do not use Wraps Kohya internally, same incompatibility SimpleTuner Avoid Explicitly states \"AMD and Apple GPUs do not work for training Flux\" OneTrainer Possibly Needs manual ROCm version edit in requirements; AMD support \"may be outdated\" per maintainers Use cupertinomiranda/ai-toolkit-amd-rocm-support. It's the only fork that explicitly documents gfx1200/gfx1201 support, ROCm 7.x compatibility, and provides working bitsandbytes build instructions. Clone and install: bash cd ~ git clone https://github.com/cupertinomiranda/ai-toolkit-amd-rocm-support cd ai-toolkit-amd-rocm-support python3 -m venv venv source venv/bin/activate pip install torch torchvision --index-url https://download.pytorch.org/whl/rocm7.2 pip install -r requirements-amd.txt Do not use PyTorch nightly ( https://download.pytorch.org/whl/nightly/rocm7.2 ). Nightly 2.13.0.dev crashes due to a rocprofiler fatal error. Use stable: https://download.pytorch.org/whl/rocm7.2 which gives 2.11.0+rocm7.2. Important: do not clone or install on NTFS mounts ( /media/ , /mnt/ ). NTFS does not support Linux file permissions — chmod operations will fail with \"Operation not permitted\". Always install in ~/ (ext4). bitsandbytes: Must Compile From Source pip install bitsandbytes installs a CUDA version that does not work on AMD. You must compile from source for gfx1200. ```bash source ~/ai-toolkit-amd-rocm-support/venv/bin/activate cd ~ git clone https://github.com/bitsandbytes-foundation/bitsandbytes -b 0.48.2 cd bitsandbytes cmake \\ -DCMAKE_HIP_COMPILER=\"/opt/rocm/lib/llvm/bin/clang++\" \\ -DBNB_ROCM_ARCH=\"gfx1200\" \\ -DCOMPUTE_BACKEND=hip \\ . make -j$(nproc) pip install . ``` Key flags: - -DBNB_ROCM_ARCH=\"gfx1200\" — use gfx1200, not gfx1201. Native Linux ROCm reports gfx1200. Building for the wrong arch produces a binary that silently falls back to CPU. - -DCMAKE_HIP_COMPILER — full path required; ROCm's clang++ is not always in PATH. Verify after install (run inside the training venv): ```python import bitsandbytes as bnb print(bnb. version ) Should print 0.48.x or similar, no errors ``` SDXL Model Download ai-toolkit uses diffusers format (separate component folders). Download fp16 only — the full repo is 25-30GB and you only need ~6.7GB: bash source ~/ai-toolkit-amd-rocm-support/venv/bin/activate huggingface-cli download stabilityai/stable-diffusion-xl-base-1.0 \\ --include \"*.fp16.safetensors\" \"*.json\" \"*.txt\" \\ --local-dir ~/models/sdxl/ diffusers looks for diffusion_pytorch_model.safetensors but only the fp16 versions exist. Create symlinks: bash cd ~/models/sdxl ln -sf unet/diffusion_pytorch_model.fp16.safetensors unet/diffusion_pytorch_model.safetensors ln -sf vae/diffusion_pytorch_model.fp16.safetensors vae/diffusion_pytorch_model.safetensors ln -sf text_encoder/model.fp16.safetensors text_encoder/model.safetensors ln -sf text_encoder_2/model.fp16.safetensors text_encoder_2/model.safetensors Without these symlinks, the pipeline load fails with a missing file error. GPU Monitoring rocm-smi works on native Linux (unlike WSL2 where it was broken): bash watch -n1 rocm-smi # text monitor, refreshes every second radeontop # AMD-specific graphical TUI — recommended Do not use nvtop 3.0.2 — it crashes on this ROCm/AMD setup. Use radeontop instead. If your system has both a discrete GPU and an integrated GPU (e.g. Ryzen with Vega iGPU), radeontop defaults to bus 0 which may be the iGPU. Find your discrete GPU's bus ID with radeontop -l and pass it with -b : radeontop -b 03 (the number varies by system). Photo Captioning with JoyCaption JoyCaption Beta One ( fancyfeast/llama-joycaption-beta-one-hf-llava ) produces high-quality captions specifically designed for LoRA training. It's a Llama 3.1 base with a SigLIP vision encoder. Download (~16GB): bash source ~/ai-toolkit-amd-rocm-support/venv/bin/activate huggingface-cli download fancyfeast/llama-joycaption-beta-one-hf-llava \\ --local-dir ~/models/joycaption/ Performance on RX 9060 XT: ~5 sec/photo, ~82% GPU load, ~11.7GB VRAM peak. Three bugs to know about Bug 1: Use local path, not HF repo ID ```python Wrong — re-downloads 16GB from HuggingFace every run: MODEL_NAME = \"fancyfeast/llama-joycaption-beta-one-hf-llava\" Correct: MODEL_NAME = os.path.expanduser(\"~/models/joycaption\") ``` Bug 2: apply_chat_template with multimodal list content fails The Jinja2 sandbox in this version of transformers cannot call .replace() on list content. The multimodal format [{\"type\": \"image\"}, {\"type\": \"text\", ...}] throws: UndefinedError: 'list object' has no attribute 'replace' Fix: use a plain string with the image token embedded: python conversation = [{\"role\": \"user\", \"content\": f\" \\n{PROMPT}\"}] text_input = processor.tokenizer.apply_chat_template( conversation, tokenize=False, add_generation_prompt=True ) inputs = processor(images=image, text=text_input, return_tensors=\"pt\").to(model.device) Bug 3: 4-bit quantization breaks SigLIP vision tower BitsAndBytesConfig(load_in_4bit=True) quantizes all linear layers including SigLIP's MultiheadAttention.out_proj . SigLIP calls F.multi_head_attention_forward with raw weight tensors, bypassing bitsandbytes' override, causing: RuntimeError: self and mat2 must have the same dtype, but got Half and Byte Fix: use 8-bit with vision modules excluded: ```python from transformers import BitsAndBytesConfig bnb_config = BitsAndBytesConfig( load_in_8bit=True, llm_int8_skip_modules=[\"vision_tower\", \"multi_modal_projector\"], ) model = LlavaForConditionalGeneration.from_pretrained( MODEL_NAME, quantization_config=bnb_config, torch_dtype=torch.float16, device_map=\"auto\", ) ``` This keeps the LLM at 8-bit (~8GB) and the vision tower at fp16 (~1-2GB), totalling ~10-11GB VRAM. Fits comfortably on 16GB. The Trigger Word Problem If you generate captions with JoyCaption (or any captioner), the captions are plain descriptive text. The model has no trigger word unless you explicitly add one to every caption. Example: if you train with JoyCaption captions and then generate with prompt \"ohwx man, portrait photo...\" , the token ohwx man was never in the training data and is ignored by the LoRA. It is not harmful but it does nothing. Options: 1. Prepend a trigger word to all captions before training: \"ohwx man, [joycaption text]\" — requires a script to add the prefix to every .txt file 2. Use the trigger_word or caption_prefix setting in the training config if the tool supports it — cupertinomiranda/ai-toolkit does not currently expose this for Flux Recommendation: For option 1, a one-liner to prepend to all captions: for f in /path/to/photos/*.txt; do sed -i \"1s/^/ohwx man, /\" \"$f\"; done . Include the trigger word in your generation prompts. SDXL Training Config Save this as ~/ai-toolkit-amd-rocm-support/config/train_sdxl_full.yaml . Minimum working config for 1500 steps, batch size 1, gfx1200: yaml job: extension config: name: \"sdxl_ohwx_man\" process: - type: 'sd_trainer' training_folder: \"output\" device: cuda:0 network: type: \"lora\" linear: 32 linear_alpha: 16 save: dtype: float16 save_every: 250 max_step_saves_to_keep: 4 datasets: - folder_path: \"/path/to/your/photos\" caption_ext: \"txt\" caption_dropout_rate: 0.05 shuffle_tokens: false cache_latents_to_disk: true resolution: [512, 1024] train: batch_size: 1 steps: 1500 gradient_accumulation_steps: 1 train_unet: true train_text_encoder: false gradient_checkpointing: true noise_scheduler: \"ddpm\" optimizer: \"adamw8bit\" lr: 1e-4 disable_sampling: true dtype: bf16 model: name_or_path: \"~/models/sdxl\" is_xl: true meta: name: \"[name]\" version: '1.0' Critical config notes: - name: \"sdxl_ohwx_man\" — determines the output folder name and LoRA filename. Change this to whatever name you want. - dtype: bf16 — never use float32 . Float32 doubles VRAM to ~26-30GB, causes OOM, GPU driver crash, and on Windows a BSOD. - disable_sampling: true — skips sample image generation during training. Saves time and VRAM. - cache_latents_to_disk: true — first run does two caching passes (preview resolution and training resolution), then saves to disk. Subsequent runs skip both passes. - optimizer: \"adamw8bit\" — requires bitsandbytes compiled from source. Halves optimizer VRAM vs standard adamw. - linear: 32, linear_alpha: 16 — rank 32 LoRA. Higher rank captures more detail but risks overfitting with smaller datasets. For Flux, rank 16 is sufficient — Flux is architecturally more capable and lower rank achieves equivalent quality. - train_text_encoder: false — optional for SDXL (CLIP encoder is ~500MB, you could train it). For Flux this becomes mandatory — T5 is 9.5GB and must stay on CPU. - noise_scheduler: \"ddpm\" — SDXL-specific. Flux uses \"flowmatch\" instead — the two are not interchangeable. - resolution: [512, 1024] — works for SDXL. For Flux, the 1024 bucket (832×1216 / 1216×832) OOMs even with 4-bit quantization because weights are dequantized to bf16 at compute time. Use [512, 768] for Flux. Training command ```bash cd ~/ai-toolkit-amd-rocm-support source venv/bin/activate systemd-inhibit --what=sleep:idle --who=\"LoRA training\" --why=\"Training in progress\" \\ bash -c 'HSA_ENABLE_SDMA=0 python run.py config/train_sdxl_full.yaml' ``` Why systemd-inhibit : Kubuntu's power manager will suspend the system after a period of inactivity. Training looks like an idle desktop to the power manager — there is no mouse or keyboard input. systemd-inhibit prevents sleep and idle suspension for the duration of training. Why bash -c '...' wrapper: systemd-inhibit expects a command to execute, not a shell expression. HSA_ENABLE_SDMA=0 python run.py ... is an env variable assignment + command — that's shell syntax, not a standalone command. Without the bash -c wrapper, systemd-inhibit tries to execute HSA_ENABLE_SDMA=0 as a binary and fails with \"No such file or directory\". HSA_ENABLE_SDMA=0 : Disables SDMA (system DMA) in the ROCm HSA runtime. Costs ~10-15% training speed but prevents random crashes and hangs that can occur on some RDNA4 configurations. Recommended for training runs you don't want to babysit. Results on RX 9060 XT Steps: 1500 Wall time: ~76 minutes Speed: 1.5-3.6 sec/step (variable; first steps slower due to caching passes) VRAM peak: ~10GB Final loss: 0.005 Output: single .safetensors file, ~150MB Two latent caching passes happen before training starts: - Pass 1 (preview resolution ~416×608): ~40 seconds - Pass 2 (training resolution ~832×1216): ~2.5 minutes These only run once; subsequent training runs from the same dataset skip them. ComfyUI Installation ComfyUI is the recommended generation UI — it has official ROCm Linux support and an AMD partnership. bash cd ~ git clone https://github.com/comfyanonymous/ComfyUI cd ComfyUI python3 -m venv venv source venv/bin/activate pip install torch torchvision --index-url https://download.pytorch.org/whl/rocm7.2 pip install -r requirements.txt Note on disk space: This installs a second copy of PyTorch (~14GB). If you already have a training venv, you now have 28GB of PyTorch on disk. There is no simple way around this — the two venvs need different PyTorch versions in some cases, and sharing venvs across tools is fragile. Launch command bash cd ~/ComfyUI HSA_OVERRIDE_GFX_VERSION=12.0.0 ~/ComfyUI/venv/bin/python main.py --listen Then open http://localhost:8188 . HSA_OVERRIDE_GFX_VERSION=12.0.0 is required for some operations. Without it, some ROCm ops may not target the RDNA4 instruction set correctly, causing errors or silent CPU fallback. Model format: diffusers vs single-file This trips everyone up at least once. ai-toolkit downloads and uses SDXL in diffusers format — a folder structure with separate unet/ , vae/ , text_encoder/ , text_encoder_2/ subfolders. ComfyUI requires a single merged .safetensors file (e.g. sd_xl_base_1.0.safetensors ). The weights are identical — just packaged differently. You cannot point ComfyUI at your training model folder. Download the single-file version separately: bash source ~/ai-toolkit-amd-rocm-support/venv/bin/activate huggingface-cli download stabilityai/stable-diffusion-xl-base-1.0 \\ sd_xl_base_1.0.safetensors \\ --local-dir ~/ComfyUI/models/checkpoints/ This is ~6.5GB. For Flux, flux1-dev.safetensors (the ComfyUI single-file) and ae.safetensors (VAE) are already in the download and can be symlinked directly. Catch: the T5 text encoder is stored sharded across two files in the HuggingFace download — ComfyUI needs a single merged file. See the ComfyUI Flux Setup section for the merge script and an fp8 alternative. Workflow JSON format ComfyUI 0.21.1 uses a specific flat JSON format for workflows. The blueprint files in ~/ComfyUI/blueprints/ use a different subgraph format — do not use those as a template for manually-authored workflows. Classic flat format structure: json { \"nodes\": [ { \"id\": 1, \"type\": \"CheckpointLoaderSimple\", ... }, ... ], \"links\": [ [link_id, from_node_id, from_slot_index, to_node_id, to_slot_index, \"TYPE\"], ... ], \"version\": 0.4 } Links are arrays, not objects. Each link: [id, source_node, source_slot, dest_node, dest_slot, \"TYPENAME\"] . SDXL workflow SDXL uses CheckpointLoaderSimple — one node loads the entire model from one file. Simpler than the Flux multi-loader setup. Node graph: - CheckpointLoaderSimple → loads sd_xl_base_1.0.safetensors - LoraLoader → applies trained LoRA (strength 1.0) - CLIPTextEncode (×2) → positive prompt + negative prompt - KSampler → sampling loop - VAEDecode → latent → pixel image - SaveImage → saves to ~/ComfyUI/output/ Symlink the LoRA output into ComfyUI (replace sdxl_ohwx_man with the name from your training config): bash ln -s ~/ai-toolkit-amd-rocm-support/output/sdxl_ohwx_man/sdxl_ohwx_man.safetensors \\ ~/ComfyUI/models/loras/sdxl_ohwx_man.safetensors Working settings for portrait generation on RX 9060 XT: - Resolution: 832×1216 (matches the 1024-bucket training resolution) - Steps: 30, CFG: 7.0, sampler: dpmpp_2m, scheduler: karras - LoRA strength: 1.0 - Positive: portrait photo of a man, smiling, outdoor park, natural light, bokeh background, sharp focus, photorealistic — if you added a trigger word (Option 1 above), prepend it here - Negative: bad teeth, broken teeth, missing teeth, gaps in teeth, dental artifacts, blurry, watermark The node graph above is the complete workflow — wire it up in ComfyUI or save it as a JSON to reuse. Disk Space Reality Check Before moving on to Flux — which adds another 54GB — here is the full storage picture after SDXL setup: Component Size ROCm 7.2.3 22GB JoyCaption Beta One 16GB SDXL (diffusers format, for training) 6.7GB SDXL (single-file, for ComfyUI) 6.5GB SDXL LoRA output ~150MB Training venv (PyTorch + deps) ~16GB ComfyUI venv (PyTorch + deps) ~16GB ai-toolkit code 1.2GB ComfyUI code ~130MB Total ~85GB PyTorch alone is 28GB — 14GB per venv, downloaded twice because the two tools need separate environments. SDXL is downloaded twice in different formats. Flux.1 Dev adds 54GB on disk — not ~34GB as commonly estimated. The HuggingFace repo contains the transformer weights twice in different formats : - flux1-dev.safetensors ~23.8GB — single-file format (ComfyUI) - transformer/diffusion_pytorch_model-* ~23GB — diffusers format (training) - T5 text encoder ~9.5GB - CLIP, VAE, ae.safetensors ~0.8GB The upside: the transformer and VAE are ready for both training and generation from one download — no separate 23GB checkpoint needed like SDXL. Catch: the T5 text encoder is sharded across two files — ComfyUI needs a single merged file. See the ComfyUI Flux Setup section for the merge script. Plan for ~130GB+ total if you want both SDXL and Flux training and generation. Flux Model Download Flux.1 Dev requires a HuggingFace account and license agreement (free). Accept the license at black-forest-labs/FLUX.1-dev on HuggingFace, then: bash source ~/ai-toolkit-amd-rocm-support/venv/bin/activate huggingface-cli download black-forest-labs/FLUX.1-dev \\ --local-dir ~/models/flux/ This downloads ~54GB — not ~34GB as commonly estimated. The repo contains the transformer weights twice: flux1-dev.safetensors (~23GB, single-file for ComfyUI) and transformer/ (~23GB, diffusers format for training), plus T5 (~9GB), CLIP, VAE, and ae.safetensors (~0.8GB). Both formats are needed; one download covers training and the transformer/VAE for generation. See the T5 catch below in the ComfyUI section. Flux Training on 16GB VRAM The cupertinomiranda fork states 24GB minimum for Flux. This is based on loading the transformer in bf16 (~24GB alone). With quantization it fits comfortably on 16GB. VRAM is determined by bucket resolution, not photo count. Training tools group images by aspect ratio into resolution buckets (e.g. 512×768, 768×512). Each training step processes one bucket at a time. The VRAM cost per step depends entirely on the pixel dimensions of that bucket — a dataset with 5 photos and one with 500 photos use identical VRAM per step if their resolution buckets are the same. This matters because some guides suggest reducing photo count to fix OOM — it doesn't help. The right lever is resolution. VRAM by quantization level: Mode Transformer Total floor Fits 16GB for training? bf16 ~24GB ~30GB+ No qfloat8/uint8 (8-bit) ~12GB ~14.87GB No — only ~1GB for activations uint4 torchao (4-bit) ~6GB ~7-8GB Yes — with [512, 768] resolution Note: 8-bit sounds like it should fit on 16GB but doesn't. The 14.87GB floor leaves ~1GB for training activations, which is not enough for a Flux forward+backward pass. 4-bit is required. At 1024px training resolution, even 4-bit OOMs on forward/backward — use [512, 768] max resolution. The HuggingFace QLoRA blog documents ~9-10GB peak VRAM with 4-bit quantization on FLUX.1-dev. Multiple Civitai guides confirm Flux LoRA training on RTX 3060 (12GB), so 16GB is not a concern once quantization is enabled. Save as ~/ai-toolkit-amd-rocm-support/config/train_flux_full.yaml : yaml job: extension config: name: \"[your-lora-name]\" # determines output folder name and LoRA filename process: - type: 'sd_trainer' training_folder: \"output\" device: cuda:0 network: type: \"lora\" linear: 16 # rank 16 — Flux needs less rank than SDXL's 32 for equivalent quality linear_alpha: 16 save: dtype: float16 save_every: 250 max_step_saves_to_keep: 4 datasets: - folder_path: \"/path/to/your/photos\" caption_ext: \"txt\" caption_dropout_rate: 0.05 shuffle_tokens: false cache_latents_to_disk: true cache_text_embeddings: true # Flux only — T5 encodes captions once then fully unloads; # without this: training uses blank prompts, captions ignored resolution: [512, 768] # Flux only — SDXL ran fine at [512, 1024]; Flux OOMs at the # 832×1216 bucket even with uint4 (bf16 dequantization at compute time) num_workers: 0 # Flux only — workers fork and inherit T5's ~15GB CPU footprint; # 2 workers × 15GB + main process = OOM on 32GB. SDXL has no such issue. train: batch_size: 1 steps: 1500 gradient_accumulation_steps: 1 train_text_encoder: false # mandatory for Flux (T5 is 9.5GB); was optional for SDXL (CLIP is ~500MB) unload_text_encoder: true # Flux only — keeps T5 off GPU during training loop gradient_checkpointing: true noise_scheduler: \"flowmatch\" # Flux only — SDXL uses \"ddpm\" optimizer: \"adamw8bit\" lr: 1e-4 disable_sampling: true dtype: bf16 model: name_or_path: \"~/models/flux\" is_flux: true quantize: true # not needed for SDXL; mandatory for Flux (24GB transformer) qtype: \"uint4\" # torchao uint4 — ROCm compatible. qint4 (optimum.quanto) is CUDA-only, won't work. low_vram: true meta: name: \"[your-lora-name]\" version: '1.0' Use 4-bit (uint4 via torchao). 8-bit (qfloat8) does not fit on 16GB for training — the model floor is 14.87GB leaving only ~1GB for activations. 4-bit reduces stored weight size to ~6GB. Important caveat: uint4 means weights are stored in 4-bit, but they are dequantized to bf16 on the fly during the forward and backward pass. Activations, intermediate tensors, and gradients are still bf16. Compute-time VRAM is therefore higher than storage size suggests — if you include 1024 in the resolution list, the resulting 832×1216 bucket will still OOM even with uint4. This is why [512, 768] is recommended: it eliminates that bucket entirely. Important: qint4 (optimum.quanto) does NOT work on ROCm. It uses TinyGEMM packing ( torch._convert_weight_to_int4pack ) which is a CUDA-only kernel. Use qtype: \"uint4\" (torchao) instead — confirmed working on gfx1200. Text encoders: train_text_encoder: false is mandatory. Use cache_text_embeddings: true so T5 encodes all captions in a one-time caching pass, saves the embeddings to disk, then fully unloads from VRAM before training starts. Why unload_text_encoder: true is required: Without it, get_train_sd_device_state_preset() sets text_encoder.device = cuda:0 even when train_text_encoder: false — meaning T5 gets moved to GPU at the start of the training loop, not just during model loading. This is a non-obvious flag that the fork does not set automatically. Required code patches to the cupertinomiranda fork: The fork's low_vram: true flag only affects transformer quantization — it does not prevent T5 (~9.5GB) from being loaded to GPU during model initialization. Five patches are needed: Patch 1 — toolkit/stable_diffusion_model.py ~line 795 (T5 initial load): ```python Before: text_encoder_2.to(self.device_torch, dtype=dtype) After: if not self.low_vram: text_encoder_2.to(self.device_torch, dtype=dtype) ``` Patch 2 — toolkit/stable_diffusion_model.py ~line 838 (T5 move during pipe preparation): ```python Before: text_encoder[1].to(self.device_torch) After: if not self.low_vram: text_encoder[1].to(self.device_torch) ``` Patch 3 — toolkit/train_tools.py ~line 564 (device mismatch when T5 is on CPU): ```python Before: prompt_embeds = text_encoder[1](text_input_ids.to(device), output_hidden_states=False)[0] After: t5_device = next(text_encoder[1].parameters()).device prompt_embeds = text_encoder[1](text_input_ids.to(t5_device), output_hidden_states=False)[0] ``` Patch 4 — extensions_built_in/sd_trainer/SDTrainer.py ~line 317 (T5 moved to GPU for embedding caching before unload): ```python Before: self.sd.text_encoder_to(self.device_torch) After: if getattr(self.sd, 'low_vram', False) and isinstance(self.sd.text_encoder, list): self.sd.text_encoder[0].to(self.device_torch) else: self.sd.text_encoder_to(self.device_torch) ``` With unload_text_encoder: true , the code caches text embeddings then fully unloads T5 before training starts. But before caching, it tried to move T5 to GPU — OOM. This patch keeps T5 on CPU for the caching step. Patch 3 ensures encode_prompt works correctly with T5 on CPU. Patch 5 — toolkit/data_loader.py ~line 674 (DataLoader crashes when num_workers=0): ```python Before: dataloader_kwargs['num_workers'] = dataset_config_list[0].num_workers dataloader_kwargs['prefetch_factor'] = dataset_config_list[0].prefetch_factor After: dataloader_kwargs['num_workers'] = dataset_config_list[0].num_workers if dataloader_kwargs['num_workers'] > 0: dataloader_kwargs['prefetch_factor'] = dataset_config_list[0].prefetch_factor ``` The default num_workers: 2 causes system RAM OOM — each worker forks the main process and inherits the full ~15GB RAM footprint (T5 on CPU). On 32GB: 2 workers × ~15GB = ~30GB + main process = OOM. The kernel OOM killer terminates the workers and can kill the terminal window. Setting num_workers: 0 avoids forking entirely, but prefetch_factor must not be set when num_workers=0 — hence this patch. After all 5 patches, T5 runs on CPU for embedding caching (only happens once with cache_text_embeddings: true ), then fully unloads before training starts. With resolution: [512, 768] , training runs with zero OOM skips — confirmed on 5 photos × 50 steps. Flux training confirmed working on gfx1200 After all 5 patches and the correct config flags: - Transformer quantized and loaded (uint4 torchao) ✓ - T5 runs on CPU, encodes captions once, fully unloads ✓ - Training runs with zero OOM skips at [512, 768] resolution ✓ - Loss moves, gradient updates confirmed ✓ - Step speed: ~15 sec/step on RX 9060 XT Full 1500-step run on 38 photos: ~7 hours, VRAM 13.7GB at step 1 → 14.4GB at step 1500, final loss 0.369. Training command (use this for actual training): bash source ~/ai-toolkit-amd-rocm-support/venv/bin/activate systemd-inhibit --what=sleep:idle --who=\"LoRA training\" --why=\"Training in progress\" \\ bash -c 'HSA_ENABLE_SDMA=0 PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True python run.py config/train_flux_full.yaml' PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True reduces memory fragmentation — not needed for SDXL but important for Flux where the quantized model sits close to the VRAM limit. For quick test runs without the sleep inhibitor: bash HSA_ENABLE_SDMA=0 PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True python run.py config/train_flux_full.yaml iGPU display note: KDE desktop on the training GPU wastes ~1.3GB VRAM (framebuffer). If your CPU has integrated graphics (Ryzen 5 5600G has Vega 7), plug the monitor into the motherboard output instead. No BIOS change needed — Linux detects both GPUs on boot and uses the iGPU for display automatically, freeing the full 16GB for training. Confirmed working on this setup. Caveat: automatic only on a full restart — after sleep/wake the system may revert to the discrete GPU for display; restart to recover. Auto-resume: ai-toolkit automatically resumes from the latest checkpoint if training is interrupted. It reads step metadata from the safetensors files in the output folder and loads both the weights and the optimizer state — mathematically identical to never having stopped. If you kill the process (accidentally or on purpose), just run the same command again. It will print #### IMPORTANT RESUMING FROM step XXXX #### and continue from there. For a 7-hour run this is essential — checkpoints save every 250 steps as configured in save_every . Resolution tradeoff: SDXL trained without issue at [512, 1024]. Flux cannot — the 1024 bucket (832×1216 / 1216×832) OOMs during the forward/backward pass even with uint4, because weights are dequantized to bf16 at compute time. Training at [512, 768] means the LoRA sees a maximum of 768px. Flux can still generate at 1024px or higher at inference time — the LoRA extrapolates. For portrait and social media use (viewed on phones at 1080px or less), the quality difference is negligible compared to the alternative of skipping ~30% of training batches due to OOM. ComfyUI Flux Setup After training, you need to point ComfyUI at your Flux models. The HuggingFace download already has everything — just symlink rather than copy. Model symlinks ComfyUI expects models in specific subdirectories under ~/ComfyUI/models/ . Create symlinks from those locations into ~/models/flux/ : ```bash Flux transformer (single-file, 23GB) ln -s ~/models/flux/flux1-dev.safetensors ~/ComfyUI/models/diffusion_models/flux1-dev.safetensors VAE ln -s ~/models/flux/ae.safetensors ~/ComfyUI/models/vae/ae.safetensors CLIP text encoder ln -s ~/models/flux/text_encoder/model.safetensors ~/ComfyUI/models/clip/clip_l.safetensors ``` T5 text encoder: merging shards The HuggingFace Flux download stores T5 sharded across two files ( model-00001-of-00002.safetensors and model-00002-of-00002.safetensors in text_encoder_2/ ). ComfyUI needs a single file. The merge is straightforward — the shards are the same format, just split by size, with no key remapping needed: ```python import os from safetensors.torch import load_file, save_file home = os.path.expanduser(\"~\") shard1 = load_file(f\"{home}/models/flux/text_encoder_2/model-00001-of-00002.safetensors\") shard2 = load_file(f\"{home}/models/flux/text_encoder_2/model-00002-of-00002.safetensors\") merged = {* shard1, * shard2} save_file(merged, f\"{home}/ComfyUI/models/clip/t5xxl_fp16_merged.safetensors\") ``` Result: 219 tensors, 9.5GB, keys in standard T5 format ( encoder.block.0.layer.0.SelfAttention.k.weight ). No key conflicts. Original shards are untouched — to revert: rm ~/ComfyUI/models/clip/t5xxl_fp16_merged.safetensors . Alternative if you prefer not to merge: download the standalone t5xxl_fp8_e4m3fn.safetensors (~4.9GB, fp8 precision) from HuggingFace and place it in ~/ComfyUI/models/clip/ . Adjust the workflow to point to that filename. Workflow JSON Flux uses a different node set from SDXL in ComfyUI. SDXL uses CheckpointLoaderSimple which loads everything from one file. Flux loads each component separately because the sources are separate files. The native node graph: UNETLoader → loads flux1-dev.safetensors (stored in bf16; ComfyUI quantizes to fp8_e4m3fn on load) DualCLIPLoader → loads clip_l.safetensors + t5xxl_fp16_merged.safetensors VAELoader → loads ae.safetensors LoraLoader → applies the trained LoRA to model and CLIP CLIPTextEncode → encodes the positive prompt EmptyLatentImage → creates the starting latent (1024×1024) RandomNoise → generates noise seed BasicGuider → combines model + conditioning (replaces CFGGuider for Flux) KSamplerSelect → selects sampler algorithm (euler) BasicScheduler → generates sigma schedule (simple, 25 steps) SamplerCustomAdvanced → runs the full sampling loop VAEDecode → latent → pixel image SaveImage → saves to ~/ComfyUI/output/ No custom nodes required. The node graph above is the complete workflow. After training completes, symlink the LoRA output (replace [your-lora-name] with the name from your training config): bash ln -sf ~/ai-toolkit-amd-rocm-support/output/[your-lora-name]/[your-lora-name]_000001500.safetensors \\ ~/ComfyUI/models/loras/flux_portrait_lora.safetensors ( -sf forces the symlink update — useful if you tested with an earlier checkpoint and are now pointing at the final one.) Generation speed Flux is noticeably slower than SDXL in ComfyUI — 25 steps takes considerably longer due to the 23GB transformer size and fp8 dequantization at inference time. Face Restoration in ComfyUI Do not use ReActor on ROCm. ReActor ( Gourieff/ComfyUI-ReActor ) uses ONNX Runtime for InsightFace face detection. The ROCm Execution Provider was removed from ORT 1.23 — on ROCm 7.1+ only the CPU EP is available via pip, so face detection runs on CPU. Use facerestore_cf instead ( https://github.com/mav-rik/facerestore_cf ) — pure PyTorch, no ONNX Runtime, runs fully on GPU on ROCm. Install bash cd ~/ComfyUI/custom_nodes git clone https://github.com/mav-rik/facerestore_cf source ~/ComfyUI/venv/bin/activate pip install -r facerestore_cf/requirements.txt Watch out for basicsr — an older package that breaks with modern PyTorch. If you get import errors after install: pip uninstall basicsr . Restart ComfyUI to load the new nodes. Models Download into ~/ComfyUI/models/facerestore_models/ : ```bash CodeFormer — better identity preservation, recommended for portraits (~359MB) wget -P ~/ComfyUI/models/facerestore_models/ \\ https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer.pth GFPGAN v1.4 — faster, better for skin texture wget -P ~/ComfyUI/models/facerestore_models/ \\ https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth ``` Face detection models (RetinaFace) auto-download on first run. Workflow wiring Place after VAEDecode, before SaveImage : [sampler] → VAEDecode → FaceRestoreWithModel → SaveImage For Flux the sampler node is SamplerCustomAdvanced ; for SDXL it is KSampler . Summary: What Actually Works on RX 9060 XT (gfx1200) as of May 2026 Task Works? Notes ROCm 7.2.3 install ✓ Via amdgpu-install; manually add user to render/video groups PyTorch 2.11.0+rocm7.2 ✓ Stable index only; nightly crashes bitsandbytes (compiled) ✓ Must build from source with -DBNB_ROCM_ARCH=gfx1200 JoyCaption captioning ✓ 3 bugs to fix (documented above); 5 sec/photo, 11.7GB VRAM SDXL LoRA training ✓ 1500 steps in 76 min; 10GB VRAM peak; bf16 required SDXL ComfyUI generation ✓ HSA_OVERRIDE_GFX_VERSION=12.0.0 required; dpmpp_2m karras, CFG 7.0 Flux.1 Dev training (uint4) ✓ 5 code patches + cache_text_embeddings + num_workers: 0 + [512, 768] required; zero OOM skips confirmed; qint4 fails (CUDA-only) Flux ComfyUI generation ✓ Symlinks + T5 shard merge confirmed working; slower than SDXL (expected) Flux LoRA 1500-step training ✓ Completed — ~7 hours, 13.7–14.4GB VRAM, final loss 0.369, ~15 sec/step WSL2 training ✗ DXG bridge bug (libthunk_proxy.a), unfixed as of May 2026 submitted by /u/Jinjinov [link] [comments]",
+        "text": "so I havent used SD since 2024, and im doing some files cleaning/updating. are any of these models safe to delete and update? in that case, which new/updated models should i replace these with? thanks! submitted by /u/baejohnd [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tgggrv/training_a_portrait_lora_on_amd_rx_9060_xt_rdna4/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tgqzkm/are_these_models_outdated/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_7cf047318b029894",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1th6ohk/full_head_swap_model_that_make_sure_facial/",
+    "title": "Full Head swap model that make sure Facial features are so strong as well as head size matching of the target",
+    "publishedAt": "2026-05-19T00:30:01.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Post: Hey guys, I hope everyone is having great day.",
+      "I'm currently working on a project where I need to swap entire head between two images.",
+      "I have tried all sort of models, both open source and commercial and always got stuck between two priorities when one gets fulfilled the other doesn't.",
+      "First priority is that facial features should look so strong so that the person is so well recognizable as the source."
+    ],
+    "claims": [
+      {
+        "text": "Hey guys, I hope everyone is having great day. I'm currently working on a project where I need to swap entire head between two images. I have tried all sort of models, both open source and commercial and always got stuck between two priorities when one gets fulfilled the other doesn't. First priority is that facial features should look so strong so that the person is so well recognizable as the source. Second ( which is what most commercial models fail with), is that head should be resized to match target. Third (not really strong priority semi priority) : adaption of body color or style, for example changing body color slightly to match head color of the source. There other things like, Copying Facial emotions from target and head position, but these are not priorities. For commercial models I think i have tried every possible model out there. And for open source models, I have tried bfs with Qwen basically have tried everything in this repo https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap and it worked well for head size matching target, but facial expressions got so weak. I was wondering can I find a workflow that fulfills my priorities very well, even if it requires large models size. submitted by /u/IndependentPayment70 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1th6ohk/full_head_swap_model_that_make_sure_facial/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_737a2ab436d814fa",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1th114r/trying_to_distill_the_soontobesunset_imagen_4_to/",
+    "title": "Trying to distill the soon-to-be-sunset Imagen 4 to a LoRA for Illustrious 2.0 but the result is a bit wonky, would appreciate some pointers",
+    "publishedAt": "2026-05-18T20:57:50.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Post: Google's Imagen 4 and Imagen 4 Ultra are being sunset on June 30 but are essentially the only models out there that can reliably output a convincing 1990s \"Disney renaissance\" look, with the blurry-edge shading that defines the [CAPS](https://en.wikipedia.org/wiki/Computer_Animation_Production_System)\\-style of that era.",
+      "So I'm trying to distill it into something that can be used until I come across another model that can do this.",
+      "I've made my first Illustrious 2.0 LoRA (through TensorArt because my graphics card is busted and I already had an account with them since before they started censoring everything) with a purely Imagen 4-generated 100 image dataset of 16:9, 1408x768 graphics.",
+      "Auto-labelled with \"wd-v1-4-vit-tagger-v2\"."
+    ],
+    "claims": [
+      {
+        "text": "Google's Imagen 4 and Imagen 4 Ultra are being sunset on June 30 but are essentially the only models out there that can reliably output a convincing 1990s \"Disney renaissance\" look, with the blurry-edge shading that defines the CAPS -style of that era. So I'm trying to distill it into something that can be used until I come across another model that can do this. I've made my first Illustrious 2.0 LoRA (through TensorArt because my graphics card is busted and I already had an account with them since before they started censoring everything) with a purely Imagen 4-generated 100 image dataset of 16:9, 1408x768 graphics. I did Repeat 3 / Epoch 10 = 2910 steps. Auto-labelled with \"wd-v1-4-vit-tagger-v2\". And the resulting images absolutely do capture the style, but... the result is a little wonky, it's got random artifacts, often shitty lines, weird eyes, IDK, the way AI gen looked like 2 years ago? Back when \"AI slop\" didn't mean it looked too polished, but that it actually looked sloppy? It'd be easy to just jump back in and add more images, do more steps, but I've already wasted nearly $10 so I'd be so thankful if somebody with more experience could hint what I might be doing wrong. Should I use Imagen 4 ultra images for training instead? They tend to be a little sharper and I can get at 2x the resolution, though they cost $0.06 per image. Or should I try and automate some de-noising or upscaling or sharpening of the training set I already have? Or is like... my LoRA essentially fine and what is vexing me is just the limitations of using an older local model like Illustrious 2.0? (edit: also tried doing a Qwen Image Edit 2511 LoRA (through FAL's trainer) that would just change the character but the results were not great there either) submitted by /u/alwaysshouldbesome1 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1th114r/trying_to_distill_the_soontobesunset_imagen_4_to/"
       }
     ],
     "usableFor": [
@@ -433,87 +492,27 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_c4bf38f81527d76a",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tg3rym/generated_1000_liminaldreamcore_images_with_gpt/",
-    "title": "Generated 1000 liminal/dreamcore images with GPT Image 2 and put them in a dataset - could be useful for training",
-    "publishedAt": "2026-05-17T22:21:56.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Post: Was playing around with GPT Image 2 on 2K medium and ended up with about 1000 images that all have this liminal space / dreamcore feel.",
-      "Empty indoor pools, weird corridors, foggy parking lots at night, that sort of thing.",
-      "Instead of letting them sit on my drive I packaged everything up and put it on Hugging Face.",
-      "Could be decent for fine-tuning SD models or just as a reference set for this aesthetic."
-    ],
-    "claims": [
-      {
-        "text": "Was playing around with GPT Image 2 on 2K medium and ended up with about 1000 images that all have this liminal space / dreamcore feel. Empty indoor pools, weird corridors, foggy parking lots at night, that sort of thing. Instead of letting them sit on my drive I packaged everything up and put it on Hugging Face. Could be decent for fine-tuning SD models or just as a reference set for this aesthetic. https://huggingface.co/datasets/LukaDev13/Liminal-Dreamcore-1K If anyone uses it for training I'd be curious how it turns out. submitted by /u/Luka8x [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tg3rym/generated_1000_liminaldreamcore_images_with_gpt/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_a5c219d916349fa2",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tgd3zo/lora_training_autocaption_generator_recommendation/",
-    "title": "[LoRA Training] Auto-caption generator recommendation?",
-    "publishedAt": "2026-05-18T05:31:56.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "I'm trying to train a character image LoRA with multiple image references.",
-      "And I believe captions for each image are needed right?",
-      "If I have, let's say 30 or more images, it'll be tiring to put caption for each.",
-      "Would you recommend any great LoRA auto-caption generator that is free to use for multiple images all at once?"
-    ],
-    "claims": [
-      {
-        "text": "Hi Guys! I'm kinda new in image generation. I'm trying to train a character image LoRA with multiple image references. And I believe captions for each image are needed right? If I have, let's say 30 or more images, it'll be tiring to put caption for each. Would you recommend any great LoRA auto-caption generator that is free to use for multiple images all at once? By the way, i'm training for ZIT model. Thank you in advance! submitted by /u/Working-Bass4425 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tgd3zo/lora_training_autocaption_generator_recommendation/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_a5ede4bc4c38e4dd",
+    "sourceId": "src_reddit-comfyui_57fe1d859be0960a",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tg0xy9/ltx_23_10eros_on_rtx_5070_ti_16gb_10min_per_clip/",
-    "title": "ltx 2.3 10Eros on RTX 5070 Ti (16GB) — ~10min per clip, any way to speed this up?",
-    "publishedAt": "2026-05-17T20:31:54.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tgzotx/how_to_use_ltx_director_a_free_tool_for_creating/",
+    "title": "How to use LTX Director - A Free Tool for Creating Advanced LTX 2.3 Videos in ComfyUI",
+    "publishedAt": "2026-05-18T20:12:08.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: Hey guys, running the 10Eros LikenessGuideHelper I2V v3.2 workflow from TenStrip and it takes about 10 minutes for a 19 second clip at 1000x1744.",
-      "Wondering if I'm leaving performance on the table.",
-      "My rig is a 5070 Ti (16GB), 64GB DDR5, WD BLACK SN7100 NVMe Gen5 SSD, Ubuntu.",
-      "The problem is pretty obvious — the 10Eros checkpoint is like 29GB in fp8 mixed so it just doesn't fit in 16GB VRAM."
+      "Post: Just finished the first tutorial for LTX Director.",
+      "It covers how to setup the node, and has multiple examples on how to use all of the nodes main features.",
+      "Top comments:\nYou are one of the good ones.",
+      "Than you for your additions to the community."
     ],
     "claims": [
       {
-        "text": "Hey guys, running the 10Eros LikenessGuideHelper I2V v3.2 workflow from TenStrip and it takes about 10 minutes for a 19 second clip at 1000x1744. Wondering if I'm leaving performance on the table. My rig is a 5070 Ti (16GB), 64GB DDR5, WD BLACK SN7100 NVMe Gen5 SSD, Ubuntu. ComfyUI 0.21.1 with PyTorch 2.11+cu130. The problem is pretty obvious — the 10Eros checkpoint is like 29GB in fp8 mixed so it just doesn't fit in 16GB VRAM. ComfyUI offloads the whole thing (~24GB offloaded, 0MB actually loaded on GPU, 1660 lowvram patches). Every single step is just streaming weights from CPU RAM to GPU through async offload. The first pass alone is 4min15 for 13 steps, then the tiled upscale pass adds another 2 minutes on top. I already have sage attention, fp8 matrix mult, 3 async offload streams, pinned memory on 55GB of RAM, mmap for faster loading, channels last, etc. RTX VSR is already in the workflow for final upscale so that part is fast. I feel like I've squeezed what I can from the launch args side. Now I know the base LTX-2.3 NVFP4 checkpoint from Lightricks would actually fit in VRAM and probably cut my time in half or more, but that's not 10Eros — the whole point of using 10Eros is the fine-tune quality. So my question is: has anyone managed to quantize 10Eros down to NVFP4 or some format that would actually fit on a 16GB card? Or is there some trick I'm not seeing to get partial VRAM loading working better with this model? Open to any ideas, thanks submitted by /u/Fresh-Medicine-2558 [link] [comments]",
+        "text": "Just finished the first tutorial for LTX Director. It covers how to setup the node, and has multiple examples on how to use all of the nodes main features. Hopefully it helps! submitted by /u/WhatDreamsCost [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tg0xy9/ltx_23_10eros_on_rtx_5070_ti_16gb_10min_per_clip/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tgzotx/how_to_use_ltx_director_a_free_tool_for_creating/"
       }
     ],
     "usableFor": [
@@ -523,25 +522,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_453da0d5e0f9f930",
+    "sourceId": "src_reddit-comfyui_b75a829da0e7142a",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tg5869/comfy_ui_ltx_23_t2v_crisp_enhance_lora_wedges/",
-    "title": "Comfy UI + LTX 2.3 T2V + Crisp Enhance Lora Wedges",
-    "publishedAt": "2026-05-17T23:23:13.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tgk7np/olm_liquify_an_interactive_photoshopstyle_liquify/",
+    "title": "Olm Liquify - An interactive, Photoshop-style Liquify editor inside ComfyUI",
+    "publishedAt": "2026-05-18T11:49:59.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "There's nothing in the YouTube video description either.",
-      "There's literally no reason for the vid without sharing the workflow\n\nSummary: submitted by /u/boricuapab [link] [comments]"
+      "Post: Hey everyone, I just released Olm Liquify, a small custom node that brings an interactive real-time warping editor directly into your ComfyUI workspace.",
+      "It's a practical utility node that can help with cleanup, proportions, stylization tweaks, face/profile adjustments, clothing folds and similar edits directly inside ComfyUI.",
+      "I don't want to depend on commercial solutions for image warping which I do need quite often when I'm working with image generation and videos, so that's why I created this, and I cleaned it up for sharing now.",
+      "This will also work nicely in co-op with my other nodes like Olm DragCrop and the various color adjustment nodes."
     ],
     "claims": [
       {
-        "text": "submitted by /u/boricuapab [link] [comments]",
+        "text": "Hey everyone, I just released Olm Liquify, a small custom node that brings an interactive real-time warping editor directly into your ComfyUI workspace. It's a practical utility node that can help with cleanup, proportions, stylization tweaks, face/profile adjustments, clothing folds and similar edits directly inside ComfyUI. I don't want to depend on commercial solutions for image warping which I do need quite often when I'm working with image generation and videos, so that's why I created this, and I cleaned it up for sharing now. This will also work nicely in co-op with my other nodes like Olm DragCrop and the various color adjustment nodes. I also tried to keep the dependency footprint fairly small. The requirements are basically torch, numpy, and opencv-python; most of the rest is standard library / ComfyUI-side stuff. OpenCV may be the only extra for some installs, though many ComfyUI setups already have it through other common nodes. Key Features: Interactive Editor: Push, Pull, Twirl, Pinch, Expand, and Smooth brushes. Hotkeys & Shortcuts: 1-6 for tools, mouse wheel for radius, shift + wheel for strength, hold S to temporarily smooth, Ctrl/Cmd + Z for undo. Grid & Mesh Overlays: Easily track exactly how much you're deforming the image (color and opacity adjustments are possible.) Save/Load Warps: Export your warp fields to files to reuse them. It plays nicely with the native ComfyUI themes. GitHub Repo: https://github.com/o-l-l-i/ComfyUI-Olm-Liquify Note: Still images only (no batch/video support). Check it out, and let me know if you have any feedback! And please open a GitHub issue if you find something broken! And please leave a GitHub star if you find it useful. submitted by /u/imlo2 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tg5869/comfy_ui_ltx_23_t2v_crisp_enhance_lora_wedges/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tgk7np/olm_liquify_an_interactive_photoshopstyle_liquify/"
       }
     ],
     "usableFor": [
@@ -551,27 +552,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_60cc90b7ffbe8bbf",
+    "sourceId": "src_reddit-comfyui_4348063879c4db03",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tfs0yh/cant_load_fp8_as_fp8_ltx_23/",
-    "title": "Can't load fp8 as fp8, LTX 2.3",
-    "publishedAt": "2026-05-17T15:04:08.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1th6mie/full_head_swap_model_that_make_sure_facial/",
+    "title": "Full Head swap model that make sure Facial features are so strong as well as head size matching of the target",
+    "publishedAt": "2026-05-19T00:27:47.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: Tried allmost everything, starting from editing bat to custom nodes...",
-      "Console logs: [https://docs.google.com/document/d/1NA1qGq3Hiw0Coxy3j27rrlOVoTps019aRzikoS3zPNM/edit?usp=drive\\_link](https://docs.google.com/document/d/1NA1qGq3Hiw0Coxy3j27rrlOVoTps019aRzikoS3zPNM/edit?usp=drive_link) Json: [https://docs.google.com/document/d/1b6mfZ370ZpzNzQlyD00WMSESY\\_Z9Y6q0peMMke\\_wbyg/edit?usp=drive\\_link](https://docs.google.com/document/d/1b6mfZ370ZpzNzQlyD00WMSESY_Z9Y6q0peMMke_wbyg/edit?usp=drive_link)\n\nTop comments:\nYou got my attention.",
-      "How do you even know it's loading as bf16?",
-      "I'm not the right person to answer this, but if you load the model with kijai checkpoint loader, you have some options about fp types."
+      "Post: Hey guys, I hope everyone is having great day.",
+      "I'm currently working on a project where I need to swap entire head between two images.",
+      "I have tried all sort of models, both open source and commercial and always got stuck between two priorities when one gets fulfilled the other doesn't.",
+      "First priority is that facial features should look so strong so that the person is so well recognizable as the source."
     ],
     "claims": [
       {
-        "text": "Tried allmost everything, starting from editing bat to custom nodes... Console logs: https://docs.google.com/document/d/1NA1qGq3Hiw0Coxy3j27rrlOVoTps019aRzikoS3zPNM/edit?usp=drive_link Json: https://docs.google.com/document/d/1b6mfZ370ZpzNzQlyD00WMSESY_Z9Y6q0peMMke_wbyg/edit?usp=drive_link submitted by /u/Creative_aidumpster [link] [comments]",
+        "text": "Hey guys, I hope everyone is having great day. I'm currently working on a project where I need to swap entire head between two images. I have tried all sort of models, both open source and commercial and always got stuck between two priorities when one gets fulfilled the other doesn't. First priority is that facial features should look so strong so that the person is so well recognizable as the source. Second ( which is what most commercial models fail with), is that head should be resized to match target. Third (not really strong priority semi priority) : adaption of body color or style, for example changing body color slightly to match head color of the source. There other things like, Copying Facial emotions from target and head position, but these are not priorities. For commercial models I think i have tried every possible model out there. And for open source models, I have tried bfs with Qwen basically have tried everything in this repo https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap and it worked well for head size matching target, but facial expressions got so weak. I was wondering can I find a workflow that fulfills my priorities very well, even if it requires large models size. submitted by /u/IndependentPayment70 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tfs0yh/cant_load_fp8_as_fp8_ltx_23/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1th6mie/full_head_swap_model_that_make_sure_facial/"
       }
     ],
     "usableFor": [
@@ -581,27 +582,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_0618b627062efca3",
+    "sourceId": "src_reddit-comfyui_ac78663e05c2d023",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tgc5yj/comfyuimobilefrontend_v260_released/",
-    "title": "ComfyUI-Mobile-Frontend v2.6.0 Released",
-    "publishedAt": "2026-05-18T04:44:07.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1th4jww/removed_by_reddit/",
+    "title": "[ Removed by Reddit ]",
+    "publishedAt": "2026-05-18T23:03:01.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: hey all, just wanted to drop a note that v2.6.0 is out!",
-      "It has a cool new infinite generation mode feature that was contributed by a new contributor on the github repo, plus some quality of life improvements for the image viewer.",
-      "The new infinite generation mode is opt in via a new preference under Menu > Server > Preferences > Enable infinite mode.",
-      "Give it a try and feel free to drop me any feedback or feature requests using the also recently added feedback tool (reachable at the bottom of the menu) [https://registry.comfy.org/publishers/cosmicbuffalo/nodes/comfyui-mobile-frontend](https://registry.comfy.org/publishers/cosmicbuffalo/nodes/comfyui-mobile-frontend)\n\nTop comments:\nnice work on the update!"
+      "Post: [ Removed by Reddit on account of violating the [content policy](/help/contentpolicy).",
+      "]\n\nTop comments:\nYo, thanks for sharing this.",
+      "I've been building an solution exactly in this space for 10 months now, trying to automate most of the steps and decisions on which model to choose.",
+      "since this post got removed by reddit i'd like to use this opportunity to say that i love ai because it's basically divine punishment for obnoxious twitter artists."
     ],
     "claims": [
       {
-        "text": "hey all, just wanted to drop a note that v2.6.0 is out! It has a cool new infinite generation mode feature that was contributed by a new contributor on the github repo, plus some quality of life improvements for the image viewer. The new infinite generation mode is opt in via a new preference under Menu > Server > Preferences > Enable infinite mode. Give it a try and feel free to drop me any feedback or feature requests using the also recently added feedback tool (reachable at the bottom of the menu) https://registry.comfy.org/publishers/cosmicbuffalo/nodes/comfyui-mobile-frontend submitted by /u/galactic_lobster [link] [comments]",
+        "text": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/leepplearsure5 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tgc5yj/comfyuimobilefrontend_v260_released/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1th4jww/removed_by_reddit/"
       }
     ],
     "usableFor": [
@@ -611,27 +612,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_516c6409f31de6ee",
+    "sourceId": "src_reddit-comfyui_146ab70cb31ff5f6",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/",
-    "title": "camera angle to show all sides of room",
-    "publishedAt": "2026-05-18T07:20:55.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1th10pa/llm_gemma4_text_gen_uncensored/",
+    "title": "LLM_Gemma4_Text_Gen Uncensored?",
+    "publishedAt": "2026-05-18T20:57:25.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: how to see all the four sides of the room keeping same theme and style, i trying qwen multi angle camera tool, but its not so good i used klein prompt like show the left ride of this room but still nothing.",
-      "especially like to generate the other side of the door or wall after entering thru it.any suggestions,\n\nTop comments:\nTry using depth estimation models first to get better spatial understanding of your room layout before feeding it to the multi angle tool.",
-      "I had similar issues where the model would just generate random stuff instead of maintaining spatial consistency.",
-      "What works better for me is using controlnet wi\n\n> i trying qwen multi angle camera tool, but its not so good You mean Qwen Edit Multi-Angle LoRA or something else?"
+      "Post: So, is there un-uncensored version (For use inside ComfyUI) yet?",
+      "As hilarious as output like this is -> \"She seems to holding a cylindrical object, maybe a piece of fruit?\" :) It would be nice to have it just tell it like it is.",
+      "Top comments:\nHave you checked hugging face for abliterated models for the weights and quant of Gemma4 that you're using?",
+      "The meta right now seems to be \"heretic\" models, not abliteration."
     ],
     "claims": [
       {
-        "text": "how to see all the four sides of the room keeping same theme and style, i trying qwen multi angle camera tool, but its not so good i used klein prompt like show the left ride of this room but still nothing. especially like to generate the other side of the door or wall after entering thru it.any suggestions, submitted by /u/NefariousnessFun4043 [link] [comments]",
+        "text": "So, is there un-uncensored version (For use inside ComfyUI) yet? As hilarious as output like this is -> \"She seems to holding a cylindrical object, maybe a piece of fruit?\" :) It would be nice to have it just tell it like it is. Cheers. submitted by /u/DJSpadge [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1th10pa/llm_gemma4_text_gen_uncensored/"
       }
     ],
     "usableFor": [
@@ -646,7 +647,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-18T09:20:30.564Z",
+    "publishedAt": "2026-05-19T02:39:43.609Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -675,12 +676,12 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-18T09:20:31.407Z",
+    "publishedAt": "2026-05-19T02:39:44.060Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+      "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
       "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
       "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.",
       "That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M."
@@ -704,7 +705,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-18T09:20:32.857Z",
+    "publishedAt": "2026-05-19T02:39:46.025Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -787,26 +788,26 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_dc7e3297fc3d45c6",
+    "sourceId": "src_reddit-aivideo_27f1d44fe660b973",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tg6l8f/alex_pereira_vs_horror_villians/",
-    "title": "Alex Pereira vs Horror Villians",
-    "publishedAt": "2026-05-18T00:22:50.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tgw0i7/the_gatekeeper_by_jboogxcreative_me/",
+    "title": "\"The Gatekeeper\" by jboogxcreative (me)",
+    "publishedAt": "2026-05-18T18:25:35.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "Top comments:\nThat was nice of Jason to abandon all of his machetes when he had the advantage.",
-      "#CHAMA\n\n1- He'd never beat Jason 2- It's spelled \"villains\".",
-      "Summary: submitted by /u/kango888 [link] [comments]"
+      "Top comments:\nThis was some epic sh\\*t 😮👍 https://preview.redd.it/mrz2bqeq6z1h1.jpeg?width=1278&format=pjpg&auto=webp&s=f972cd51307845bb0fac9face6702550e3d00413\n\nAre these coming together at some point?",
+      "Just imagine how cool it would look in proper 16:9 and not in mobile first portrait modes SIGH!",
+      "Summary: submitted by /u/JBOOGZEE [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/kango888 [link] [comments]",
+        "text": "submitted by /u/JBOOGZEE [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tg6l8f/alex_pereira_vs_horror_villians/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tgw0i7/the_gatekeeper_by_jboogxcreative_me/"
       }
     ],
     "usableFor": [
@@ -816,25 +817,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_ea1d9ffb844226b3",
+    "sourceId": "src_reddit-aivideo_7aedcd35a57827aa",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tgdk4y/someone_fixed_the_famous_world_cup_problems/",
-    "title": "Someone fixed the famous World Cup problems",
-    "publishedAt": "2026-05-18T05:55:47.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tgvmis/the_warden/",
+    "title": "The Warden",
+    "publishedAt": "2026-05-18T18:14:22.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "Top comments:\nThese are getting a bit predictable now.",
-      "Baggio :(\n\n*smooch\n\nSummary: submitted by /u/Used_Ship_9229 [link] [comments]"
+      "Top comments:\nThis was awesome\n\nNow I want to watch this movie, lol.",
+      "Only with AI is this possible, since studios wouldn't risk millions to make a random super production like this.",
+      "Summary: submitted by /u/protector111 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Used_Ship_9229 [link] [comments]",
+        "text": "submitted by /u/protector111 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tgdk4y/someone_fixed_the_famous_world_cup_problems/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tgvmis/the_warden/"
       }
     ],
     "usableFor": [
@@ -844,24 +846,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_d40c722bd98a42b8",
+    "sourceId": "src_reddit-aivideo_a14273c7100d3cdd",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tg1qjw/if_they_came_in_peace_would_we/",
-    "title": "if they came in peace! would we?",
-    "publishedAt": "2026-05-17T21:01:52.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tgx8vh/antiques_roadshow_vs_annabelle_dungerzone_parody/",
+    "title": "Antiques Roadshow vs Annabelle - DungerZone Parody",
+    "publishedAt": "2026-05-18T19:00:02.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "written, edited and directed 👉 MRABUJOE\n\nAnother ai movie that beats anything Hollywood has shown me in years\n\nSummary: submitted by /u/flipflop-dude [link] [comments]"
+      "I don't mind the number of data center we need for it.",
+      "This is hilarious 😂 https://i.redd.it/y21lfesu5z1h1.gif\n\nLMAO\n\nSummary: submitted by /u/YouAreNowDUM [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/flipflop-dude [link] [comments]",
+        "text": "submitted by /u/YouAreNowDUM [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tg1qjw/if_they_came_in_peace_would_we/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tgx8vh/antiques_roadshow_vs_annabelle_dungerzone_parody/"
       }
     ],
     "usableFor": [
@@ -876,15 +879,15 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-18T09:20:30.903Z",
+    "publishedAt": "2026-05-19T02:39:43.998Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Code Review Cloud Tab CLI Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.4 May 13, 2026 · Changelog Development environments for cloud agents To take engineering tasks from start to finish, agents need a development environment similar to the setup on your laptop: cloned repositories, installed dependencies, credentials for internal toolchains, and access to build systems.",
-      "This release introduces new tools for teams to configure development environments for their agents.",
-      "Cursor also can use these tools to set up and maintain environments for you.",
-      "Together, this makes it easier for teams to run fleets of parallelized agents that handle tasks from end-to-end, inside development environments you fully control."
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Code Review Cloud Tab CLI Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog May 18, 2026 · Changelog Composer 2.5 Composer 2.5 is now available in Cursor.",
+      "It's a substantial improvement in intelligence and behavior over Composer 2 .",
+      "It is better at sustained work on long-running tasks, follows complex instructions more reliably, and is more pleasant to collaborate with.",
+      "Standard: $0.50/M input, $2.50/M output tokens Fast (default): $3.00/M input, $15.00/M output tokens Composer 2.5 includes double usage for the first week."
     ],
     "claims": [
       {
@@ -905,7 +908,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-18T09:20:30.731Z",
+    "publishedAt": "2026-05-19T02:39:43.744Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -929,12 +932,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-05-18_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-05-19_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-18T09:20:30.819Z",
+    "publishedAt": "2026-05-19T02:39:43.937Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -961,7 +964,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-18T09:20:31.006Z",
+    "publishedAt": "2026-05-19T02:39:44.091Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -990,7 +993,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-18T09:20:30.793Z",
+    "publishedAt": "2026-05-19T02:39:43.813Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1075,26 +1078,26 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-midjourney_975cff191eaa24ce",
+    "sourceId": "src_reddit-midjourney_2d860b89777e2feb",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tg2r8d/creepy_vampire_lairs/",
-    "title": "CREEPY VAMPIRE LAIRS",
-    "publishedAt": "2026-05-17T21:41:32.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1th500k/neon_oracle_pop/",
+    "title": "Neon Oracle Pop",
+    "publishedAt": "2026-05-18T23:20:47.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "I genuinely want my house to look like this.",
-      "Maybe I can at least design the basement like this one day 😭\n\nhttps://preview.redd.it/afyq85wrbs1h1.jpeg?width=3384&format=pjpg&auto=webp&s=06a61a491b4e62215267d8c808638cd4ceb63865\n\nPsychedelic and chill.",
-      "I want to be a vampire in there for sure\n\nSummary: submitted by /u/GaryWray [link] [comments]"
+      "Top comments:\n![gif](giphy|RrVzUOXldFe8M)\n\nLove this look!",
+      "The colors all work well and complement one another.",
+      "Summary: submitted by /u/liibertypriimex1 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/GaryWray [link] [comments]",
+        "text": "submitted by /u/liibertypriimex1 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tg2r8d/creepy_vampire_lairs/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1th500k/neon_oracle_pop/"
       }
     ],
     "usableFor": [
@@ -1104,24 +1107,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_af92d3bef5780c79",
+    "sourceId": "src_reddit-midjourney_59b46b90070d954b",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/",
-    "title": "\"What are trees?\"",
-    "publishedAt": "2026-05-18T03:13:47.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tgm6m8/preserving_the_age_of_aviation/",
+    "title": "Preserving the Age of Aviation",
+    "publishedAt": "2026-05-18T13:10:18.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "Top comments:\n![gif](giphy|Lz6971fkGSgCMOOncl)\n\nSummary: submitted by /u/EleanorKalatheraine [link] [comments]"
+      "Top comments:\nI love these, but the scale is seriously off in these images.",
+      "I think of number 1 as a A-12 Archangel after it was excavated by a future archaeologist, working on the strata of a twentieth century military midden, using thirtieth century robotics to recreate the missing pieces of the “primitive” aircraft.",
+      "Summary: submitted by /u/Zaicab [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/EleanorKalatheraine [link] [comments]",
+        "text": "submitted by /u/Zaicab [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tgm6m8/preserving_the_age_of_aviation/"
       }
     ],
     "usableFor": [
@@ -1131,26 +1136,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_a1ff391fc46ed638",
+    "sourceId": "src_reddit-midjourney_735be1fb396922d1",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/",
-    "title": "Reaper",
-    "publishedAt": "2026-05-17T23:31:12.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1th458o/leviathan_ocean_drift_ships/",
+    "title": "Leviathan Ocean - Drift Ships",
+    "publishedAt": "2026-05-18T22:46:52.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "Top comments:\nEl ángel de chatarra aguarda bajo un halo de hierro, custodiando el silencio del páramo.",
-      "La composición presenta una figura bípede con extremidades mecánicas, alas de engranajes y un arma de gran escala con restos orgánicos.",
-      "Cyberpunk Death\n\nSummary: submitted by /u/Tinsnow1 [link] [comments]"
+      "Summary: submitted by /u/SharpDress176 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Tinsnow1 [link] [comments]",
+        "text": "submitted by /u/SharpDress176 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1th458o/leviathan_ocean_drift_ships/"
       }
     ],
     "usableFor": [
@@ -1165,15 +1168,14 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-18T09:20:31.779Z",
+    "publishedAt": "2026-05-19T02:39:44.369Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
       "Kling AI 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity Native 4K AI Video Output vs Upscaling: What Is the Real Difference?",
-      "Apr 30, 2026 World's First Native 4K Image-to-Video AI: Kling AI 4K Direct Output Explained Apr 30, 2026 AI Anime Video Prompts: Create Epic 2D Scenes with Kling AI Apr 21, 2026 AI Motion Prompts for Kling AI: Describe Running, Jumping & Gestures Apr 21, 2026 AI Video Lighting Prompts: Master Volumetric Light & Golden Hour Apr 20, 2026 50 Best Adjectives for Kling AI: Elevate Your AI Video Quality Apr 20, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Apr 20, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Apr 20, 2026 Kling 3.0 Prompt Syntax 2.0: Physics & Omni Reference Tags Mar 30, 2026 Kling Image 3.0 Advanced: Multi-Reference & Inpainting Guide Mar 30, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Mar 25, 2026 Kling 3.0 Subject Binding: Lock Character Features Across Shots Mar 25, 2026 Kling V3 vs O3: Which Model Is Right for Your Use Case?",
-      "Mar 17, 2026 Kling Video 3.0 Omni Audio: Native Lip Sync & Multilingual Voices Mar 17, 2026 Kling Image 3.0 Omni: Native 4K & Series Mode Creation Guide Mar 31, 2026 Kling Video 3.0 Director Mode: Create Multi-Shot Transition Videos Mar 14, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+      "Apr 30, 2026 World's First Native 4K Image-to-Video AI: Kling AI 4K Direct Output Explained Apr 30, 2026 AI Prompt Weighting: Prioritize Keywords in Kling AI Prompts Apr 29, 2026 Horror AI Video Prompts: Craft Suspense With Sound And Color Grading Apr 25, 2026 Photorealistic AI Video: Make Kling AI Footage Look Like Real Life Apr 22, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Apr 22, 2026 AI Anime Video Prompts: Create Epic 2D Scenes with Kling AI Apr 21, 2026 AI Motion Prompts for Kling AI: Describe Running, Jumping & Gestures Apr 21, 2026 AI Video Lighting Prompts: Master Volumetric Light & Golden Hour Apr 20, 2026 50 Best Adjectives for Kling AI: Elevate Your AI Video Quality Apr 20, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Apr 20, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Apr 20, 2026 Kling 3.0 Prompt Syntax 2.0: Physics & Omni Reference Tags Mar 30, 2026 Kling Image 3.0 Advanced: Multi-Reference & Inpainting Guide Mar 30, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Mar 25, 2026 Kling 3.0 Subject Binding: Lock Character Features Across Shots Mar 25, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
     ],
     "claims": [
       {
@@ -1339,7 +1341,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-18T09:20:31.152Z",
+    "publishedAt": "2026-05-19T02:39:44.119Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1347,10 +1349,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 7 days ago • 21 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 3 days ago • 14 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 3 days ago • 11 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 330 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 161 CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models lablab-ai-amd-developer-hackathon • 10 days ago • 8 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 4 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 853 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 334 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 119 Safety Evals Should Project Test-Time Compute Cerru02 • 7 days ago • 3 You do the work.",
-      "urroxyz • 6 days ago • 3 Self Evolving is the Endgame or final destiny rajkumarrawal • 6 days ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 152 Common AI Model Formats ngxson • Feb 27, 2025 • 71 DualPipe Explained: A Comprehensive Guide to DualPipe That Anyone Can Understand—Even Without a Distributed Training Background NormalUhr • Feb 28, 2025 • 19 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 21 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 44 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 EMO: Pretraining mixture of experts for emergent modularity 33 May 8, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 8 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 70 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 9 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 55 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 8 April 27, 2026 llm moe long-context DeepSeek-V4: a million-token context that agents can actually use 45 April 24, 2026 guide transformers.js javascript How to Use Transformers.js in a Chrome Extension 37 April 23, 2026 QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard 12 April 21, 2026 cybersecurity open-source community AI and the Future of Cybersecurity: Why Openness Matters 38 April 21, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 4 days ago • 16 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 4 days ago • 11 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 8 days ago • 21 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 331 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 161 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 4 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 853 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 334 Introducing the agentic robotics appstore for 10,000 Reachy Minis clem • 13 days ago • 35 Self Evolving is the Endgame or final destiny rajkumarrawal • 6 days ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 152 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots nvidia • Apr 17 • 16 Safety Evals Should Project Test-Time Compute Cerru02 • 7 days ago • 3 You do the work.",
+      "urroxyz • 7 days ago • 3 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation 7 May 18, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 18 May 18, 2026 The Open Agent Leaderboard 4 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 25 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 46 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 EMO: Pretraining mixture of experts for emergent modularity 37 May 8, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 8 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 71 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 9 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 55 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 8 April 27, 2026 llm moe long-context DeepSeek-V4: a million-token context that agents can actually use 45 April 24, 2026 Previous 1 2 3 ...",
       "56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 7 days ago • 21 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 3 days ago • 14 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 3 days ago • 11 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 330 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 161 CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models lablab-ai-amd-developer-hackathon • 10 days ago • 8 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 4 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 853 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 334 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 119 Safety Evals Should Project Test-Time Compute Cerru02 • 7 days ago • 3 You do the work."
+      "Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 4 days ago • 16 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 4 days ago • 11 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 8 days ago • 21 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 331 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 161 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 4 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 853 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 334 Introducing the agentic robotics appstore for 10,000 Reachy Minis clem • 13 days ago • 35 Self Evolving is the Endgame or final destiny rajkumarrawal • 6 days ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 152 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots nvidia • Apr 17 • 16 Safety Evals Should Project Test-Time Compute Cerru02 • 7 days ago • 3 You do the work."
     ],
     "claims": [
       {
@@ -1364,6 +1366,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_d86cb09bcc1cc5d8",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+    "title": "The last six months in LLMs in five minutes",
+    "publishedAt": "2026-05-19T01:09:44.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool .",
+      "# I presented this lightning talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in five minutes.",
+      "# Six months is a pretty convenient time period to cover, because it captures what I've been calling the November 2025 inflection point .",
+      "November was a critical month in LLMs, especially for coding."
+    ],
+    "claims": [
+      {
+        "text": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool . # I presented this lightning talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in five minutes. # Six months is a pretty convenient time period to cover, because it captures what I've been calling the November 2025 inflection point . November was a critical month in LLMs, especially for coding. # For one thing, the supposedly \"best\" model (depending mostly on vibes) changed hands five times between the three big providers. # As always, I'm using my Generate an SVG of a pelican riding a bicycle test to help illustrate the differences between the models. Why this test? Because pelicans are hard to draw, bicycles are hard to draw, pelicans can't ride bicycles ... and there's zero chance any AI lab would train a model for such a ridiculous task. # At the start of November the widely acknowledged \"best\" model was Claude Sonnet 4.5, released on 29th September . It drew me this pelican. In November it was overtaken by GPT-5.1 , then Gemini 3 , then GPT-5.1 Codex Max , and then Anthropic took the crown back again with Claude Opus 4.5 . I think Gemini 3 drew the best pelican out of this lot, but pelicans aren't everything. Most practitioners will agree that Opus 4.5 held the crown for the next couple of months. # It took a little while for this to become clear, but the real news from November was that the coding agents got good . OpenAI and Anthropic had spent most of 2025 running Reinforcement Learning from Verifiable Rewards to increase the quality of code written by their models, especially when paired up with their Codex and Claude Code agent harnesses. In November the results of this work became apparent. Coding agents went from often-work to mostly-work, crossing a quality barrier where you could use them as a daily-driver to get real work done, without needing to spend most of your time fixing their stupid mistakes. # Also in November, this happened - the first commit to an obscure (back then) repo called \"Warelay\" by some guy called Pete. # Over the holiday period, from December to January, a whole lot of us took advantage of the break to have a poke at these new models and coding agents and see what they could do. They could do a lot! Some of us got a little bit over-excited. I had my own short-lived bout of a form of LLM psychosis as I started spinning up wildly ambitious projects to see how far I could push them. # One of my projects was a vibe-coded implementation of JavaScript in Python - a loose port of MicroQuickJS - which I called micro-javascript . You can try it out in your browser in this playground . # That playground demo shows JavaScript code run using my micro-javascript library, in Python, running inside Pyodide, running in WebAssembly, running in JavaScript, running in a browser! It's pretty cool! But did anyone out there need a buggy, slow, insecure half-baked implementation of JavaScript in Python? They did not. I have quite a few other projects from that holiday period that I have since quietly retired! # On to February. Remember that Warelay project that had its first commit at the end of November? # In December and January it had gone through quite a few name changes ... and by February it was taking the world by storm under its final name, OpenClaw. The amount of attention it got is pretty astonishing for a project that was less than three months old. # OpenClaw is a \"personal AI assistant\", and we actually got a generic term for these, based on NanoClaw and ZeroClaw and suchlike... they're called Claws . # Mac Minis started to sell out around Silicon Valley, because people were buying them to run their Claws. Drew Breunig joked to me that this is because they're the new digital pets, and a Mac Mini is the perfect aquarium for your Claw. # My favourite metaphor for Claws is Alfred Molina's Doc Ock in the 2004 movie Spider-Man 2. His claws were powered by AI, and were perfectly safe provided nothing damaged his inhibitor chip... after which they turned evil and took over. # Also in February: Gemini 3.1 Pro came out, and drew me a really good pelican riding a bicycle . Look at this! It's even got a fish in its basket. # And then Google's Jeff Dean tweeted this video of an animated pelican riding a bicycle, plus a frog on a penny-farthing and a giraffe driving a tiny car and an ostrich on roller skates and a turtle kickflipping a skateboard and a dachshund driving a stretch limousine. So maybe the AI labs have been paying attention after all! # A lot of stuff happened just in the past month. # Google released the Gemma 4 series of models, which are the most capable open weight models I've seen from a US company. # Also last month, Chinese AI lab GLM came out with GLM-5.1 - an open weight 1.5TB monster! This is a very effective model... if you can afford the hardware to run it. # GLM-5.1 drew me this very competent pelican on a bicycle. # ... though when it tried to animate it the bicycle bounced off into the top and the bicycle got warped. # Charles on Bluesky suggested I try it with a North Virginia Opossum on an E-scooter # And it did this! I've tried this on other models and they don't even come close. \"Cruising the commonwealth since dusk\" is perfect. It's animated too . # The other neat Chinese open weight models in April came from Qwen. Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7 . That's a 20.9GB open weights model that runs on my laptop! (I think this mainly demonstrates that the pelican on the bicycle has firmly exceeded its limits as a useful benchmark.) # Here's that Claude Sonnet 4.5 pelican from September for comparison. # So those were the two main themes of the past six months. The coding agents got really good... and the laptop-available models, while a lot weaker than the frontier, have started wildly outperforming expectations. Tags: lightning-talks , pycon , speaking , ai , generative-ai , local-llms , llms , annotated-talks , pelican-riding-a-bicycle , coding-agents",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_05db453b3359e1e5",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+    "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
+    "publishedAt": "2026-05-18T14:51:00.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Sighting: Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose Simon Willison’s Weblog Subscribe Sponsored by: Datadog &mdash; Ship reliable AI faster with LLM Observability.",
+      "Read the best practices guide 18th May 2026 Sighting 7:51 AM – 8:13 AM &mdash; Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, US Glaucous-winged Gull Glaucous-winged Gull Brown Pelican Snowy Egret Snowy Egret Canada Goose Canada Goose I'm heading home from PyCon US today so I went on a last morning walk to try and spot a pelican.",
+      "Didn't get a great photo of that, but I did see some goslings down by the swan boat lake.",
+      "Posted 18th May 2026 at 2:51 pm Recent articles The last six months in LLMs in five minutes - 19th May 2026 Notes on the xAI/Anthropic data center deal - 7th May 2026 Live blog: Code w/ Claude 2026 - 6th May 2026 This is a beat by Simon Willison, posted on 18th May 2026 ."
+    ],
+    "claims": [
+      {
+        "text": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, US I'm heading home from PyCon US today so I went on a last morning walk to try and spot a pelican. I saw one! Didn't get a great photo of that, but I did see some goslings down by the swan boat lake.",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_ae1fb463a7989b2f",
@@ -1456,72 +1518,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_4de95d521694bc0e",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
-    "title": "inaturalist-clumper 0.1",
-    "publishedAt": "2026-05-15T23:53:11.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: inaturalist-clumper 0.1 Simon Willison’s Weblog Subscribe Sponsored by: Datadog &mdash; Ship reliable AI faster with LLM Observability.",
-      "Read the best practices guide 15th May 2026 Release inaturalist-clumper 0.1 &mdash; Group iNaturalist sightings into clumps Part of the infrastructure I use for publishing my iNaturalist sightings on my blog .",
-      "I've been running this in production for a few weeks now, inspiring some iterations on how it works, so I decided to ship a 0.1 release.",
-      "You can see an example of the output in this JSON file ."
-    ],
-    "claims": [
-      {
-        "text": "Release: inaturalist-clumper 0.1 Part of the infrastructure I use for publishing my iNaturalist sightings on my blog . I've been running this in production for a few weeks now, inspiring some iterations on how it works, so I decided to ship a 0.1 release. You can see an example of the output in this JSON file . Tags: projects , inaturalist",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_db318862e4e2d144",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
-    "title": "Western Gull, Rock Pigeon",
-    "publishedAt": "2026-05-15T14:42:00.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Sighting: Western Gull, Rock Pigeon Simon Willison’s Weblog Subscribe Sponsored by: Datadog &mdash; Ship reliable AI faster with LLM Observability.",
-      "Read the best practices guide 15th May 2026 Sighting 7:42 AM – 7:47 AM &mdash; Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, US Western Gull Rock Pigeon I went for a bird walk in the morning before PyCon, and we spotted a local seagull enjoying a Starbucks.",
-      "Posted 15th May 2026 at 2:42 pm Recent articles Notes on the xAI/Anthropic data center deal - 7th May 2026 Live blog: Code w/ Claude 2026 - 6th May 2026 Vibe coding and agentic engineering are getting closer than I'd like - 6th May 2026 This is a beat by Simon Willison, posted on 15th May 2026 .",
-      "Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
-    ],
-    "claims": [
-      {
-        "text": "Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, US I went for a bird walk in the morning before PyCon, and we spotted a local seagull enjoying a Starbucks.",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-18T09:20:30.901Z",
+    "publishedAt": "2026-05-19T02:39:43.948Z",
     "categoryHints": [
       "ai-agentic"
     ],

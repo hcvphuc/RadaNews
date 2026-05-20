@@ -1,7 +1,10 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import { articles } from "../apps/web/src/data/articles.ts";
+import { articles as mockArticles } from "../apps/web/src/data/articles.ts";
+import { generatedArticles } from "../apps/web/src/data/articles-generated.ts";
+
+const articles = [...mockArticles, ...generatedArticles];
 import type { Article, ArticleChunk, Lang } from "../apps/web/src/lib/schema.ts";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));

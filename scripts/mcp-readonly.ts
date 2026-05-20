@@ -57,12 +57,13 @@ const rl = createInterface({ input: process.stdin, crlfDelay: Infinity });
 rl.on("line", async (line) => {
   if (!line.trim()) return;
 
+  let request: JsonRpcRequest | undefined;
   try {
-    const request = JSON.parse(line) as JsonRpcRequest;
+    request = JSON.parse(line) as JsonRpcRequest;
     const result = await handleRequest(request);
-    respond(request.id, result);
+    if (result !== null) respond(request?.id, result);
   } catch (error) {
-    respond(undefined, undefined, error instanceof Error ? error.message : String(error));
+    respond(request?.id, undefined, error instanceof Error ? error.message : String(error));
   }
 });
 
@@ -80,10 +81,11 @@ async function handleRequest(request: JsonRpcRequest) {
   }
 
   if (request.method === "tools/call") {
-    return callTool(request.params?.name, request.params?.arguments ?? {});
+    return await callTool(request.params?.name, request.params?.arguments ?? {});
   }
 
   respond(request.id, undefined, `Unsupported method: ${request.method}`, -32601);
+  return null;
 }
 
 async function callTool(name: string | undefined, args: Record<string, unknown>) {

@@ -185,7 +185,7 @@ function textBetween(value: string, tag: string): string {
   return stripHtml(pattern.exec(value)?.[1] ?? "");
 }
 
-function metaContent(html: string, name: string): string {
+export function metaContent(html: string, name: string): string {
   const pattern = new RegExp(`<meta\\b(?=[^>]*(?:name|property)=["']${name}["'])[^>]*content=["']([^"']+)["'][^>]*>`, "i");
   return stripHtml(pattern.exec(html)?.[1] ?? "");
 }

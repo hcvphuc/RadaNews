@@ -1,7 +1,7 @@
 [
   {
     "outline": {
-      "titleDirection": "AI Video Research & Innovation | Runway AI",
+      "titleDirection": "Research \\ Anthropic",
       "angle": "editorial analysis for builders and creators",
       "sections": [
         "TL;DR",
@@ -11,142 +11,116 @@
         "Sources"
       ],
       "sourceFacts": [
-        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-        "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.",
-        "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.",
-        "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Products May 7, 2026 How Our Forward Deployed Engineers Work with Customers Our engineers help partners turn FLUX into real systems: prompts, pipelines, fine-tunes, and infra tuned for real-world use cases.",
-        "Read more Research February 24, 2026 Capable, Open, and Safe: Combating AI Misuse Today, Black Forest Labs’ FLUX models are among the most popular AI models for visual generation."
+        "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.",
+        "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
+        "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.",
+        "Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world.",
+        "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry."
       ]
     },
     "vi": {
-      "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18_vi",
+      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-19_vi",
       "lang": "vi",
-      "category": "ai-image",
-      "title": "Đột phá AI Video và Kỹ thuật Huấn luyện LoRA trên Phần cứng AMD",
-      "subtitle": "Từ tầm nhìn về 'mô phỏng thế giới' của Runway AI đến hướng dẫn chi tiết tối ưu hóa Flux.1 trên GPU Radeon",
+      "category": "ai-vibe-coding",
+      "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "tldr": [
-        "Runway AI định hướng xây dựng các mô phỏng đa phương thức tổng quát về thế giới, coi video là giao diện tính toán thế hệ mới.",
-        "Black Forest Labs ra mắt tính năng FLUX Outpainting, cho phép mở rộng hình ảnh không tì vết.",
-        "Chi tiết kỹ thuật huấn luyện LoRA cho SDXL và Flux.1 trên GPU AMD RX 9060 XT (RDNA4) thông qua Linux ROCm.",
-        "Midjourney V8.1 Alpha cải thiện tốc độ chế độ HD (nhanh hơn 3x) và ổn định hóa Style References (srefs)."
+        "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.",
+        "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
+        "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
       ],
-      "bodyMarkdown": "### Tầm nhìn về 'Mô phỏng Thế giới' của Runway AI\n\nRunway AI đang đẩy mạnh nghiên cứu về các mô hình mô phỏng đa phương thức tổng quát. Theo Runway Research, họ tin rằng các mô hình sử dụng video làm phương thức nhập/xuất chính, kết hợp với văn bản và âm thanh, sẽ tạo ra một **paradigm tính toán mới**. Các dự án như Gen-4, Aleph và Act-Two là minh chứng cho nỗ lực xây dựng những hệ thống không chỉ tạo video mà còn hiểu được quy luật vật lý và vận hành của thế giới thực.\n\n### Cập nhật từ các 'ông lớn' AI Image\n\n*   **Black Forest Labs:** Vừa giới thiệu **FLUX Outpainting**, công cụ cho phép mở rộng khung hình theo bất kỳ hướng nào mà vẫn bảo toàn ánh sáng, kết cấu và bố cục, loại bỏ hoàn toàn các đường nối thô.\n*   **Midjourney:** Phiên bản **V8.1 Alpha** mang lại bước tiến lớn về hiệu suất. Chế độ HD hiện nhanh hơn và rẻ hơn 3 lần, trong khi các tính năng Moodboards và srefs trở nên cực kỳ ổn định, giúp người dùng kiểm soát phong cách hình ảnh nhất quán hơn.\n\n### Giải pháp kỹ thuật: Huấn luyện LoRA trên GPU AMD (RDNA4)\n\nMột trong những thách thức lớn nhất đối với cộng đồng mã nguồn mở là việc huấn luyện mô hình trên phần cứng không phải NVIDIA. Một hướng dẫn chi tiết cho **AMD RX 9060 XT (gfx1200)** trên Linux ROCm 7.2.3 đã chỉ ra các điểm mấu chốt:\n\n1.  **Vượt qua rào cản WSL2:** Việc huấn luyện trên WSL2 hiện gặp lỗi nghiêm trọng tại `libthunk_proxy.a` (DXG bridge), khiến GPU không hoạt động. Giải pháp duy nhất hiện nay là sử dụng **Native Linux** để truy cập trực tiếp qua `/dev/kfd` và `/dev/dri`.\n2.  **Tối ưu hóa cho Flux.1 (16GB VRAM):** \n    *   **Quantization:** Bắt buộc sử dụng `uint4` (torchao). Chế độ 8-bit không đủ khoảng trống cho các phép tính activation trên 16GB VRAM.\n    *   **Độ phân giải:** Giới hạn ở mức `[512, 768]`. Việc cố gắng huấn luyện ở mức 1024px sẽ gây lỗi OOM (Out of Memory) do quá trình giải nén trọng số về bf16 khi tính toán.\n    *   **Quản lý T5 Encoder:** Cần áp dụng 5 bản vá code (patches) để buộc T5 chạy trên CPU và giải phóng VRAM hoàn toàn trước khi bắt đầu vòng lặp huấn luyện.\n3.  **Công cụ hỗ trợ:** `ai-toolkit-amd-rocm-support` là fork được khuyến nghị cho RDNA4, kết hợp với `JoyCaption` để tự động tạo mô tả hình ảnh chất lượng cao cho tập dữ liệu LoRA.\n\n### Hệ sinh thái ComfyUI\n\nComfyUI tiếp tục mở rộng với phiên bản **Mobile-Frontend v2.6.0**, giới thiệu chế độ 'infinite generation' (tạo hình ảnh vô tận). Đối với người dùng AMD, việc sử dụng `HSA_OVERRIDE_GFX_VERSION=12.0.0` là cần thiết để đảm bảo các tác vụ ROCm nhắm đúng tập lệnh của RDNA4.",
-      "whyItMatters": "Việc Runway AI hướng tới 'mô phỏng thế giới' cho thấy AI video đang chuyển từ việc 'tạo clip ngắn' sang 'hiểu môi trường'. Đồng thời, việc tối ưu hóa huấn luyện LoRA trên GPU AMD giúp dân chủ hóa AI, giảm sự phụ thuộc độc quyền vào phần cứng NVIDIA.",
-      "creatorTakeaway": "Nếu bạn sở hữu GPU AMD đời mới, hãy chuyển sang Native Linux và sử dụng quantization 4-bit để huấn luyện Flux.1. Đối với những người làm sáng tạo, hãy tận dụng V8.1 của Midjourney để tăng tốc thử nghiệm ý tưởng thông qua chế độ HD giá rẻ.",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.99 với confidence high.\n\n## Phân tích\n\n- Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n- Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n- Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.\n\n## Nguồn cần kiểm chứng\n\n- Anthropic Research: Research \\ Anthropic\n- GitHub Copilot Blog: GitHub Copilot Archives - The GitHub Blog\n- Vercel AI Blog: Vercel AI Blog signal for ai-vibe-coding\n- Replit Blog: Replit — Replit Blog – Product updates from the team\n- r/MediaSynthesis: Extensive list of generative tools curated by Eyal Gruss\n- r/MediaSynthesis: \"Hundreds of Fake Pro-Trump Avatars Emerge on Social Media\" (karma/attention farming via identity politics engagement bait)\n- Simon Willison's Weblog: The last six months in LLMs in five minutes\n- Simon Willison's Weblog: Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose\n- Simon Willison's Weblog: GDS weighs in on the NHS's decision to retreat from Open Source\n- Simon Willison's Weblog: Quoting Julia Evans",
+      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
-        "Runway AI",
-        "Flux.1",
-        "AMD ROCm",
-        "LoRA Training",
-        "Midjourney V8.1",
-        "AI Video",
-        "ComfyUI"
+        "ai-vibe-coding",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
-        "src_runway-research_4c72ae34dd32cd2b",
-        "src_black-forest-labs_db0e6d09e99dbd6f",
-        "src_replicate-blog_572c1f4ac9c0ea5c",
-        "src_reddit-stablediffusion_9d8b8ef5bcfa4fae",
-        "src_reddit-stablediffusion_78f61f5c3a4cede8",
-        "src_comfyui-blog_fa3eb47ac5fb52c8",
-        "src_reddit-stablediffusion_c4bf38f81527d76a",
-        "src_reddit-stablediffusion_a5c219d916349fa2",
-        "src_reddit-comfyui_0618b627062efca3",
-        "src_reddit-comfyui_60cc90b7ffbe8bbf",
-        "src_reddit-midjourney_8df2718c2362b144",
-        "src_reddit-midjourney_91c5cf49176c170c",
-        "src_reddit-mediasynthesis_459f419f1f6e36c2",
-        "src_stability-ai-blog_2026-05-18_fallback"
+        "src_anthropic-research_15aa8285dd0354e9",
+        "src_simonwillison-blog_d86cb09bcc1cc5d8",
+        "src_simonwillison-blog_ae1fb463a7989b2f",
+        "src_github-copilot-blog_1cb7f10cc2e13dc1",
+        "src_simonwillison-blog_05db453b3359e1e5",
+        "src_simonwillison-blog_5bb767fc96d52556",
+        "src_replit-blog_49899058ba32f8e5",
+        "src_reddit-mediasynthesis_334324f1d5231047",
+        "src_vercel-ai-blog_2026-05-19_fallback",
+        "src_reddit-mediasynthesis_b86ed67c8d8e526c"
       ],
       "sourceUrls": [
-        "https://stability.ai/news/rss",
-        "https://blackforestlabs.ai/blog/",
-        "https://replicate.com/blog",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tg5nit/captivating_chroma/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tgggrv/training_a_portrait_lora_on_amd_rx_9060_xt_rdna4/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tg3rym/generated_1000_liminaldreamcore_images_with_gpt/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tgd3zo/lora_training_autocaption_generator_recommendation/",
-        "https://www.reddit.com/r/comfyui/comments/1tfs0yh/cant_load_fp8_as_fp8_ltx_23/",
-        "https://www.reddit.com/r/comfyui/comments/1tgc5yj/comfyuimobilefrontend_v260_released/",
-        "https://runwayml.com/research",
-        "https://blog.comfy.org/",
-        "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/"
+        "https://www.anthropic.com/research",
+        "https://github.blog/tag/github-copilot/",
+        "https://vercel.com/blog/ai",
+        "https://blog.replit.com/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/1sokpp8/hundreds_of_fake_protrump_avatars_emerge_on/",
+        "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+        "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+        "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+        "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-18T09:21:55.863Z",
-        "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-19",
         "confidence": "high",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18_en",
+      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-19_en",
       "lang": "en",
-      "category": "ai-image",
-      "title": "Breaking the 16GB VRAM Barrier: Flux.1 LoRA Training on AMD RDNA4",
-      "subtitle": "A technical deep dive into training high-fidelity Flux models on consumer AMD hardware via native Linux.",
+      "category": "ai-vibe-coding",
+      "title": "Research \\ Anthropic: creator and builder analysis",
+      "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
       "tldr": [
-        "Detailed workflow for training Flux.1 Dev LoRAs on AMD RX 9060 XT (16GB VRAM).",
-        "Native Linux (ROCm 7.2.3) is mandatory; WSL2 is currently broken for RDNA4 training due to a DXG bridge bug.",
-        "4-bit quantization (uint4 via torchao) is required to fit Flux training within 16GB VRAM.",
-        "Five critical code patches are needed for the ai-toolkit fork to prevent T5 text encoder OOMs.",
-        "Recommended training resolution is [512, 768] to avoid compute-time VRAM spikes."
+        "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.",
+        "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
+        "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
       ],
-      "bodyMarkdown": "The democratization of high-end AI image generation has hit a hardware bottleneck: the massive VRAM requirements of the Flux.1 model family. While 24GB of VRAM is often cited as the minimum for training, recent community breakthroughs demonstrate that **Flux.1 Dev LoRAs can be trained on 16GB AMD hardware**, provided users bypass Windows and implement specific quantization strategies.\n\n### The Hardware Hurdle: Why Native Linux?\nFor users of the AMD RX 9060 XT (RDNA4/gfx1200), Windows Subsystem for Linux (WSL2) is currently non-viable for training. A confirmed bug in the closed-source `libthunk_proxy.a` (DXG bridge) causes GPU kernel dispatch to fail for large workloads, effectively forcing training onto the CPU. \n\nSwitching to **native Linux (Kubuntu 24.04.4 with ROCm 7.2.3)** bypasses this bridge entirely, reducing step times from nearly an hour (on CPU) to roughly 15 seconds per step on GPU.\n\n### Optimizing Flux for 16GB VRAM\nTraining Flux on 16GB requires a strict memory budget. The transformer alone in bf16 takes ~24GB, making quantization essential. \n\n*   **Quantization Choice:** 8-bit (qfloat8) is insufficient, leaving only ~1GB for activations. **4-bit (uint4 via torchao)** is the only viable path, reducing the model footprint to ~6GB and allowing for a stable training loop.\n*   **The Resolution Trap:** Even with 4-bit storage, weights are dequantized to bf16 during compute. This means the 1024px bucket (e.g., 832×1216) will trigger an Out-of-Memory (OOM) error. To ensure zero OOM skips, the resolution must be capped at **[512, 768]**.\n*   **T5 Management:** The T5 text encoder (~9.5GB) is a primary VRAM consumer. By using `cache_text_embeddings: true` and `unload_text_encoder: true`, the encoder can process captions once on the CPU and then be fully purged from VRAM before the training loop begins.\n\n### The \"Secret Sauce\": Critical Patches\nStandard training forks often fail to fully unload the T5 encoder or crash when `num_workers` is set to 0 (required to avoid system RAM OOM). Five specific patches to the `ai-toolkit` fork are necessary to handle T5 device mismatches and prevent the `DataLoader` from crashing during the embedding caching phase.\n\n### From Training to Generation\nOnce the LoRA is trained (approximately 7 hours for 1500 steps), the workflow shifts to **ComfyUI**. Because Flux components are often sharded on HuggingFace, users must either merge the T5 shards into a single `.safetensors` file or use an fp8 alternative to ensure compatibility with ComfyUI's loader.\n\nFor final polish, the community recommends using `facerestore_cf` instead of ReActor on ROCm, as the latter relies on ONNX Runtime, which has lost ROCm Execution Provider support in recent versions, forcing face detection to run on the CPU.",
-      "whyItMatters": "This workflow proves that the 'VRAM wall' for state-of-the-art models like Flux can be overcome with software optimization and the right OS. It enables a wider range of creators to fine-tune high-quality models without investing in enterprise-grade A100s or high-end RTX 4090s.",
-      "creatorTakeaway": "If you are on AMD hardware, abandon WSL2 for training and move to native Linux. Use uint4 quantization and strictly limit your resolution buckets to 768px to maintain stability on 16GB cards.",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.99 with high confidence.\n\n## Analysis\n\n- Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n- Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n- Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.\n\n## Sources to verify\n\n- Anthropic Research: Research \\ Anthropic\n- GitHub Copilot Blog: GitHub Copilot Archives - The GitHub Blog\n- Vercel AI Blog: Vercel AI Blog signal for ai-vibe-coding\n- Replit Blog: Replit — Replit Blog – Product updates from the team\n- r/MediaSynthesis: Extensive list of generative tools curated by Eyal Gruss\n- r/MediaSynthesis: \"Hundreds of Fake Pro-Trump Avatars Emerge on Social Media\" (karma/attention farming via identity politics engagement bait)\n- Simon Willison's Weblog: The last six months in LLMs in five minutes\n- Simon Willison's Weblog: Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose\n- Simon Willison's Weblog: GDS weighs in on the NHS's decision to retreat from Open Source\n- Simon Willison's Weblog: Quoting Julia Evans",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
-        "Flux.1",
-        "AMD ROCm",
-        "LoRA Training",
-        "VRAM Optimization",
-        "ComfyUI",
-        "RDNA4"
+        "ai-vibe-coding",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
-        "src_runway-research_4c72ae34dd32cd2b",
-        "src_black-forest-labs_db0e6d09e99dbd6f",
-        "src_replicate-blog_572c1f4ac9c0ea5c",
-        "src_reddit-stablediffusion_9d8b8ef5bcfa4fae",
-        "src_reddit-stablediffusion_78f61f5c3a4cede8",
-        "src_comfyui-blog_fa3eb47ac5fb52c8",
-        "src_reddit-stablediffusion_c4bf38f81527d76a",
-        "src_reddit-stablediffusion_a5c219d916349fa2",
-        "src_reddit-comfyui_0618b627062efca3",
-        "src_reddit-comfyui_60cc90b7ffbe8bbf",
-        "src_reddit-midjourney_8df2718c2362b144",
-        "src_reddit-midjourney_91c5cf49176c170c",
-        "src_reddit-mediasynthesis_459f419f1f6e36c2",
-        "src_stability-ai-blog_2026-05-18_fallback"
+        "src_anthropic-research_15aa8285dd0354e9",
+        "src_simonwillison-blog_d86cb09bcc1cc5d8",
+        "src_simonwillison-blog_ae1fb463a7989b2f",
+        "src_github-copilot-blog_1cb7f10cc2e13dc1",
+        "src_simonwillison-blog_05db453b3359e1e5",
+        "src_simonwillison-blog_5bb767fc96d52556",
+        "src_replit-blog_49899058ba32f8e5",
+        "src_reddit-mediasynthesis_334324f1d5231047",
+        "src_vercel-ai-blog_2026-05-19_fallback",
+        "src_reddit-mediasynthesis_b86ed67c8d8e526c"
       ],
       "sourceUrls": [
-        "https://stability.ai/news/rss",
-        "https://blackforestlabs.ai/blog/",
-        "https://replicate.com/blog",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tg5nit/captivating_chroma/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tgggrv/training_a_portrait_lora_on_amd_rx_9060_xt_rdna4/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tg3rym/generated_1000_liminaldreamcore_images_with_gpt/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tgd3zo/lora_training_autocaption_generator_recommendation/",
-        "https://www.reddit.com/r/comfyui/comments/1tfs0yh/cant_load_fp8_as_fp8_ltx_23/",
-        "https://www.reddit.com/r/comfyui/comments/1tgc5yj/comfyuimobilefrontend_v260_released/",
-        "https://runwayml.com/research",
-        "https://blog.comfy.org/",
-        "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/"
+        "https://www.anthropic.com/research",
+        "https://github.blog/tag/github-copilot/",
+        "https://vercel.com/blog/ai",
+        "https://blog.replit.com/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/1sokpp8/hundreds_of_fake_protrump_avatars_emerge_on/",
+        "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+        "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+        "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+        "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-18T09:22:33.012Z",
-        "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-19",
         "confidence": "high",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
@@ -179,146 +153,120 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-agentic_langchain-blog_2026-05-18_vi",
+      "id": "cluster_ai-agentic_langchain-blog_2026-05-19_vi",
       "lang": "vi",
       "category": "ai-agentic",
-      "title": "Hệ sinh thái AI Agent 2026: Từ khung phát triển đến mô hình kinh doanh mới",
-      "subtitle": "Phân tích sự chuyển dịch từ các công cụ thử nghiệm sang quy trình triển khai doanh nghiệp và dự báo về cách định giá hạ tầng AI.",
+      "title": "LangChain Blog: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "tldr": [
-        "LangChain ra mắt loạt công cụ mới (LangSmith Engine, SmithDB, Context Hub) nhằm tối ưu hóa khả năng quan sát và quản lý vòng đời AI Agent.",
-        "Xu hướng triển khai Agent trong doanh nghiệp chuyển từ 'tự động hóa đơn giản' sang xây dựng cấu trúc nội dung cố định và tích hợp sâu vào CRM.",
-        "Dự báo mô hình định giá AI Agent sẽ chuyển từ gói thuê bao (subscription) sang định giá theo biến số/chiều (dimensional pricing) tương tự AWS.",
-        "Cursor giới thiệu môi trường phát triển đám mây cho Agent, cho phép vận hành các 'phi đội' Agent song song."
+        "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
+        "Something went wrong while submitting the form.",
+        "Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukhil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min Deep Agents New in Deep Agents v0.6 Sydney Runkle May 13, 2026 10 min LangSmith LangSmith LLM Gateway: runtime governance built into the agent lifecycle Martha Janicki May 13, 2026 6 min Deep Agents LangGraph Delta Channels: Evolving our Runtime for Long-Running Agents Sydney Runkle May 12, 2026 7 min No items found."
       ],
-      "bodyMarkdown": "### Sự trưởng thành của hạ tầng Agentic\n\nThị trường AI Agent đang chuyển mình mạnh mẽ từ giai đoạn 'vibe coding' (lập trình theo cảm hứng) sang **Agentic Engineering** (kỹ thuật Agent). LangChain đang dẫn đầu xu hướng này bằng cách cung cấp một hệ sinh thái toàn diện cho vòng đời phát triển. Việc ra mắt **LangSmith Engine**, **SmithDB** (lớp dữ liệu cho khả năng quan sát) và **Context Hub** cho thấy trọng tâm hiện nay không còn là việc tạo ra một Agent có thể chạy được, mà là làm sao để *quan sát, đánh giá và vận hành* chúng ở quy mô lớn trong môi trường production.\n\n### Bài học từ triển khai thực tế trong doanh nghiệp\n\nMột ví dụ điển hình từ cộng đồng (r/AI_Agents) về việc tự động hóa tạo slide cho đội ngũ sales 200 người cho thấy hai yếu tố then chốt để thành công trong doanh nghiệp:\n1. **Cấu trúc nội dung cố định (Fixed Content Structure):** Việc sử dụng LLM (như Claude) mà không có khung cấu trúc sẽ dẫn đến kết quả không nhất quán. Việc định nghĩa rõ ràng các phần như 'khung vấn đề', 'phù hợp giải pháp' và 'tính toán ROI' là bắt buộc.\n2. **Vệ sinh dữ liệu (CRM Hygiene):** Hiệu quả của Agent phụ thuộc hoàn toàn vào chất lượng dữ liệu đầu vào từ CRM. Khi dữ liệu chuẩn, thời gian làm việc của con người có thể giảm từ 3-4 giờ xuống còn 15 phút.\n\n### Bước tiến về môi trường thực thi\n\nCursor đã nâng cấp khả năng vận hành Agent bằng cách giới thiệu các môi trường phát triển đám mây. Điều này cho phép các Agent không chỉ viết code mà còn có quyền truy cập vào kho lưu trữ (repositories), cài đặt dependencies và hệ thống build, tạo điều kiện cho việc vận hành các 'phi đội' Agent (fleets of agents) xử lý tác vụ end-to-end một cách độc lập.\n\n### Dự báo: Cuộc cách mạng về định giá\n\nMột quan điểm đáng chú ý từ cộng đồng phát triển cho rằng mô hình thuê bao phẳng (flat subscription) sẽ sớm lỗi thời. Do chi phí vận hành giữa một tác vụ tra cứu đơn giản và một tác vụ nghiên cứu sâu có thể chênh lệch tới 1000 lần, các sản phẩm AI Agent dự kiến sẽ chuyển sang **định giá theo hạ tầng (Infrastructure-style billing)** giống như AWS: tính phí theo biến số, theo thời gian thực và hiển thị chi tiết mức tiêu thụ cho người dùng.",
-      "whyItMatters": "Điều này đánh dấu bước chuyển từ việc coi AI là một 'chatbot' sang coi AI là một 'nhân viên số' có quy trình làm việc, chi phí vận hành và yêu cầu quản trị nghiêm ngặt. Việc thay đổi mô hình định giá và công cụ quan sát cho thấy AI Agent đang tiến gần hơn đến việc trở thành một lớp hạ tầng công nghệ tiêu chuẩn cho doanh nghiệp.",
-      "creatorTakeaway": "Đối với các nhà phát triển, đừng chỉ tập trung vào prompt; hãy tập trung vào 'vòng đời phát triển' (observability, evaluation, deployment). Đối với doanh nghiệp, hãy chuẩn bị dữ liệu sạch (CRM) và xây dựng khung cấu trúc nội dung trước khi triển khai Agent để tránh kết quả hời hợt.",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.97 với confidence high.\n\n## Phân tích\n\n- LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n- Something went wrong while submitting the form.\n- Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukhil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min Deep Agents New in Deep Agents v0.6 Sydney Runkle May 13, 2026 10 min LangSmith LangSmith LLM Gateway: runtime governance built into the agent lifecycle Martha Janicki May 13, 2026 6 min Deep Agents LangGraph Delta Channels: Evolving our Runtime for Long-Running Agents Sydney Runkle May 12, 2026 7 min No items found.\n\n## Nguồn cần kiểm chứng\n\n- LangChain Blog: LangChain Blog\n- OpenAI Blog: OpenAI Blog signal for ai-agentic\n- MCP Blog: MCP Blog signal for ai-agentic\n- r/AI_Agents: Weekly Thread: Project Display\n- r/AI_Agents: Weekly Hiring Thread\n- r/AI_Agents: This subreddit is basically unusable due to the amount of agent-generated content (posts AND comments)\n- r/AI_Agents: how do you guys handle the conversation with skeptical clients when selling agents?\n- r/AI_Agents: With the rise of AI Agents and other automations, why hasn't there been a surge of HIPAA compliant app makers?\n- Luma Labs Blog: News | Luma\n- Cursor Changelog: What's New in Cursor — Latest Updates & Release Notes\n- Hugging Face Blog: Hugging Face – Blog\n- Simon Willison's Weblog: Warelay -> OpenClaw\n- Lil'Log: Lil'Log",
+      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
-        "AI Agents",
-        "LangChain",
-        "Agentic Engineering",
-        "SaaS Pricing",
-        "Enterprise AI"
+        "ai-agentic",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
         "src_langchain-blog_40ded3f923e3291d",
         "src_simonwillison-blog_af51edbcc60ef331",
         "src_luma-blog_c7449029956c34f9",
         "src_huggingface-blog_af185e1e7e4dfbac",
-        "src_reddit-stablediffusion_fd727932349bd495",
-        "src_reddit-comfyui_a5ede4bc4c38e4dd",
-        "src_simonwillison-blog_5bb767fc96d52556",
         "src_cursor-changelog_99cdbb7e2d70df11",
         "src_lilianweng-blog_31a2c7baf9b791a5",
-        "src_simonwillison-blog_4de95d521694bc0e",
-        "src_simonwillison-blog_db318862e4e2d144",
-        "src_reddit-aiagents_25adcc989a2f5bd4",
-        "src_reddit-aiagents_6438a4e0e0347d32",
+        "src_reddit-aiagents_a5685fe32e35f73a",
+        "src_reddit-aiagents_26b3399c56763d59",
+        "src_reddit-aiagents_780311747f460dad",
+        "src_reddit-aiagents_a8d909420e99b084",
         "src_reddit-aiagents_55505a7b913bd1e2",
-        "src_reddit-aiagents_40b6a9a6ec813c8b",
-        "src_reddit-comfyui_453da0d5e0f9f930",
-        "src_openai-blog_2026-05-18_fallback",
-        "src_mcp-blog_2026-05-18_fallback"
+        "src_openai-blog_2026-05-19_fallback",
+        "src_mcp-blog_2026-05-19_fallback"
       ],
       "sourceUrls": [
         "https://blog.langchain.dev/rss/",
         "https://openai.com/blog",
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tc3ybb/weekly_thread_project_display/",
-        "https://www.reddit.com/r/AI_Agents/comments/1ta7m1m/weekly_hiring_thread/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tgg5xw/we_automated_client_deck_creation_for_a_200/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tg3i11/in_18_months_billing_for_ai_agents_will_look_like/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tftqwg/neuralcompanion/",
-        "https://www.reddit.com/r/comfyui/comments/1tg0xy9/ltx_23_10eros_on_rtx_5070_ti_16gb_10min_per_clip/",
-        "https://www.reddit.com/r/comfyui/comments/1tg5869/comfy_ui_ltx_23_t2v_crisp_enhance_lora_wedges/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tgw0jw/this_subreddit_is_basically_unusable_due_to_the/",
+        "https://www.reddit.com/r/AI_Agents/comments/1th165p/how_do_you_guys_handle_the_conversation_with/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tgx8ok/with_the_rise_of_ai_agents_and_other_automations/",
         "https://lumalabs.ai/blog",
         "https://www.cursor.com/changelog",
         "https://huggingface.co/blog",
         "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
-        "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
-        "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
-        "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
         "https://lilianweng.github.io/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-18T09:21:35.355Z",
-        "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-19",
         "confidence": "high",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-agentic_langchain-blog_2026-05-18_en",
+      "id": "cluster_ai-agentic_langchain-blog_2026-05-19_en",
       "lang": "en",
       "category": "ai-agentic",
-      "title": "The Industrialization of AI Agents: From 'Vibe Coding' to Enterprise Infrastructure",
-      "subtitle": "New releases from LangChain, Cursor, and community practitioners signal a shift toward rigorous observability, structured environments, and infrastructure-style billing.",
+      "title": "LangChain Blog: creator and builder analysis",
+      "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
       "tldr": [
-        "LangChain is expanding its agent ecosystem with 'Deep Agents' and SmithDB for high-scale observability.",
-        "Cursor has introduced dedicated development environments for cloud agents to enable end-to-end task completion.",
-        "Enterprise practitioners are moving away from simple LLM prompts toward 'fixed content structures' to ensure consistency in agent output.",
-        "A growing industry prediction suggests AI agent billing will shift from flat subscriptions to variable, dimensional pricing similar to AWS."
+        "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
+        "Something went wrong while submitting the form.",
+        "Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukhil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min Deep Agents New in Deep Agents v0.6 Sydney Runkle May 13, 2026 10 min LangSmith LangSmith LLM Gateway: runtime governance built into the agent lifecycle Martha Janicki May 13, 2026 6 min Deep Agents LangGraph Delta Channels: Evolving our Runtime for Long-Running Agents Sydney Runkle May 12, 2026 7 min No items found."
       ],
-      "bodyMarkdown": "The transition from experimental AI 'toys' to production-ready agents is accelerating. Recent updates across the agentic stack reveal a common theme: the move toward **rigorous infrastructure**. \n\n### The Observability Layer\nLangChain is aggressively building out the 'Agent Development Lifecycle.' The introduction of **SmithDB**—a dedicated data layer for agent observability—and the **LangSmith Engine** suggests that the primary bottleneck for agents is no longer just the model, but the ability to see, evaluate, and iterate on agent behavior at scale. Their new focus on 'Deep Agents' for long-running, complex tasks further indicates a shift toward agents that can operate autonomously over extended periods rather than simple request-response loops.\n\n### Controlled Environments\nFor agents to be truly useful in software engineering, they cannot operate in a vacuum. **Cursor** recently released tools allowing teams to configure specific development environments for cloud agents. By providing cloned repositories, installed dependencies, and internal toolchain credentials, Cursor is enabling 'fleets' of parallelized agents to handle engineering tasks from start to finish within controlled, secure environments.\n\n### The Enterprise 'Consistency' Gap\nWhile many developers rely on 'vibe coding' (intuitive, iterative prompting), enterprise deployments require predictability. A recent case study of a B2B sales team automating client decks highlights a critical insight: **fixed content structures** are non-negotiable. By mapping CRM data to a rigid structure (e.g., problem framing $\\rightarrow$ solution fit $\\rightarrow$ ROI math) before passing it to the LLM, the team reduced deck creation time from 4 hours to 15 minutes while maintaining brand consistency that generic tools like Gamma could not provide.\n\n### The Economics of Agency\nAs agents move from simple lookups to 'deep research' runs, the cost variance per action is widening. This has led to a growing consensus among builders that the 'Pro Plan' subscription model is structurally flawed. The emerging prediction is a shift toward **dimensional pricing**—real-time, variable rates based on the specific resource intensity of an agent's action, mirroring the AWS cloud infrastructure model.",
-      "whyItMatters": "We are witnessing the 'professionalization' of agentic workflows. The shift from flexible prompts to rigid structures and dedicated infrastructure means AI agents are becoming reliable enough for high-stakes enterprise operations, moving beyond the 'demo' phase into actual ROI-generating software.",
-      "creatorTakeaway": "If you are building agents, stop focusing solely on the prompt and start focusing on the 'scaffolding': observability (how do I know it failed?), environment (where does it run?), and unit economics (how do I price a task that costs 100x more than a query?).",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.97 with high confidence.\n\n## Analysis\n\n- LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n- Something went wrong while submitting the form.\n- Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukhil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min Deep Agents New in Deep Agents v0.6 Sydney Runkle May 13, 2026 10 min LangSmith LangSmith LLM Gateway: runtime governance built into the agent lifecycle Martha Janicki May 13, 2026 6 min Deep Agents LangGraph Delta Channels: Evolving our Runtime for Long-Running Agents Sydney Runkle May 12, 2026 7 min No items found.\n\n## Sources to verify\n\n- LangChain Blog: LangChain Blog\n- OpenAI Blog: OpenAI Blog signal for ai-agentic\n- MCP Blog: MCP Blog signal for ai-agentic\n- r/AI_Agents: Weekly Thread: Project Display\n- r/AI_Agents: Weekly Hiring Thread\n- r/AI_Agents: This subreddit is basically unusable due to the amount of agent-generated content (posts AND comments)\n- r/AI_Agents: how do you guys handle the conversation with skeptical clients when selling agents?\n- r/AI_Agents: With the rise of AI Agents and other automations, why hasn't there been a surge of HIPAA compliant app makers?\n- Luma Labs Blog: News | Luma\n- Cursor Changelog: What's New in Cursor — Latest Updates & Release Notes\n- Hugging Face Blog: Hugging Face – Blog\n- Simon Willison's Weblog: Warelay -> OpenClaw\n- Lil'Log: Lil'Log",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
-        "ai-agents",
-        "langchain",
-        "cursor",
-        "enterprise-ai",
-        "llm-ops"
+        "ai-agentic",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
         "src_langchain-blog_40ded3f923e3291d",
         "src_simonwillison-blog_af51edbcc60ef331",
         "src_luma-blog_c7449029956c34f9",
         "src_huggingface-blog_af185e1e7e4dfbac",
-        "src_reddit-stablediffusion_fd727932349bd495",
-        "src_reddit-comfyui_a5ede4bc4c38e4dd",
-        "src_simonwillison-blog_5bb767fc96d52556",
         "src_cursor-changelog_99cdbb7e2d70df11",
         "src_lilianweng-blog_31a2c7baf9b791a5",
-        "src_simonwillison-blog_4de95d521694bc0e",
-        "src_simonwillison-blog_db318862e4e2d144",
-        "src_reddit-aiagents_25adcc989a2f5bd4",
-        "src_reddit-aiagents_6438a4e0e0347d32",
+        "src_reddit-aiagents_a5685fe32e35f73a",
+        "src_reddit-aiagents_26b3399c56763d59",
+        "src_reddit-aiagents_780311747f460dad",
+        "src_reddit-aiagents_a8d909420e99b084",
         "src_reddit-aiagents_55505a7b913bd1e2",
-        "src_reddit-aiagents_40b6a9a6ec813c8b",
-        "src_reddit-comfyui_453da0d5e0f9f930",
-        "src_openai-blog_2026-05-18_fallback",
-        "src_mcp-blog_2026-05-18_fallback"
+        "src_openai-blog_2026-05-19_fallback",
+        "src_mcp-blog_2026-05-19_fallback"
       ],
       "sourceUrls": [
         "https://blog.langchain.dev/rss/",
         "https://openai.com/blog",
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tc3ybb/weekly_thread_project_display/",
-        "https://www.reddit.com/r/AI_Agents/comments/1ta7m1m/weekly_hiring_thread/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tgg5xw/we_automated_client_deck_creation_for_a_200/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tg3i11/in_18_months_billing_for_ai_agents_will_look_like/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tftqwg/neuralcompanion/",
-        "https://www.reddit.com/r/comfyui/comments/1tg0xy9/ltx_23_10eros_on_rtx_5070_ti_16gb_10min_per_clip/",
-        "https://www.reddit.com/r/comfyui/comments/1tg5869/comfy_ui_ltx_23_t2v_crisp_enhance_lora_wedges/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tgw0jw/this_subreddit_is_basically_unusable_due_to_the/",
+        "https://www.reddit.com/r/AI_Agents/comments/1th165p/how_do_you_guys_handle_the_conversation_with/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tgx8ok/with_the_rise_of_ai_agents_and_other_automations/",
         "https://lumalabs.ai/blog",
         "https://www.cursor.com/changelog",
         "https://huggingface.co/blog",
         "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
-        "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
-        "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
-        "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
         "https://lilianweng.github.io/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-18T09:22:25.693Z",
-        "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-19",
         "confidence": "high",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
@@ -333,7 +281,7 @@
   },
   {
     "outline": {
-      "titleDirection": "Research \\ Anthropic",
+      "titleDirection": "AI Video Research & Innovation | Runway AI",
       "angle": "editorial analysis for builders and creators",
       "sections": [
         "TL;DR",
@@ -343,115 +291,152 @@
         "Sources"
       ],
       "sourceFacts": [
-        "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.",
-        "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
-        "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.",
-        "Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world.",
-        "Post: I’ve been paying $40 a month since January to run Claude Pro and ChatGPT Plus head-to-head."
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.",
+        "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.",
+        "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Products May 7, 2026 How Our Forward Deployed Engineers Work with Customers Our engineers help partners turn FLUX into real systems: prompts, pipelines, fine-tunes, and infra tuned for real-world use cases.",
+        "Read more Research February 24, 2026 Capable, Open, and Safe: Combating AI Misuse Today, Black Forest Labs’ FLUX models are among the most popular AI models for visual generation."
       ]
     },
     "vi": {
-      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-18_vi",
+      "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-19_vi",
       "lang": "vi",
-      "category": "ai-vibe-coding",
-      "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/AI_Agents, r/comfyui, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "category": "ai-image",
+      "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "tldr": [
-        "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.",
-        "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
-        "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.",
+        "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
       ],
-      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.94 với confidence high.\n\n## Phân tích\n\n- Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n- Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n- Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.\n\n## Nguồn cần kiểm chứng\n\n- Anthropic Research: Research \\ Anthropic\n- r/AI_Agents: Honest comparison after 4 months running Claude Pro + ChatGPT Plus side by side\n- r/comfyui: camera angle to show all sides of room\n- GitHub Copilot Blog: GitHub Copilot Archives - The GitHub Blog\n- Vercel AI Blog: Vercel AI Blog signal for ai-vibe-coding\n- Replit Blog: Replit — Replit Blog – Product updates from the team\n- r/MediaSynthesis: Extensive list of generative tools curated by Eyal Gruss\n- r/MediaSynthesis: \"Hundreds of Fake Pro-Trump Avatars Emerge on Social Media\" (karma/attention farming via identity politics engagement bait)\n- Simon Willison's Weblog: GDS weighs in on the NHS's decision to retreat from Open Source",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.97 với confidence high.\n\n## Phân tích\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.\n- Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.\n\n## Nguồn cần kiểm chứng\n\n- Stability AI Blog: Stability AI Blog signal for ai-image\n- Black Forest Labs: Blog | Black Forest Labs\n- Replicate Blog: Blog – Replicate\n- r/StableDiffusion: Lance by ByteDance: 3B Apache2 model for image and video understanding, generation, and editing\n- r/StableDiffusion: How to use LTX Director - A Free Tool for Creating Advanced LTX 2.3 Videos in ComfyUI\n- r/StableDiffusion: are these models outdated?\n- r/StableDiffusion: Full Head swap model that make sure Facial features are so strong as well as head size matching of the target\n- r/StableDiffusion: Trying to distill the soon-to-be-sunset Imagen 4 to a LoRA for Illustrious 2.0 but the result is a bit wonky, would appreciate some pointers\n- r/comfyui: How to use LTX Director - A Free Tool for Creating Advanced LTX 2.3 Videos in ComfyUI\n- r/comfyui: Olm Liquify - An interactive, Photoshop-style Liquify editor inside ComfyUI\n- r/comfyui: Full Head swap model that make sure Facial features are so strong as well as head size matching of the target\n- r/comfyui: [ Removed by Reddit ]\n- r/comfyui: LLM_Gemma4_Text_Gen Uncensored?\n- Runway Research: AI Video Research & Innovation | Runway AI\n- ComfyUI Blog: ComfyUI Blog | Robin | Substack\n- r/midjourney: V8.1 Alpha is out!\n- r/midjourney: V8 alpha is here!\n- r/midjourney: Preserving the Age of Aviation\n- r/MediaSynthesis: Probable changes to the subreddit",
       "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
       "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
-        "ai-vibe-coding",
+        "ai-image",
         "ai-radar",
         "daily-signal"
       ],
       "sourceIds": [
-        "src_anthropic-research_15aa8285dd0354e9",
-        "src_simonwillison-blog_ae1fb463a7989b2f",
-        "src_github-copilot-blog_1cb7f10cc2e13dc1",
-        "src_reddit-aiagents_84a136c0826ee136",
-        "src_replit-blog_49899058ba32f8e5",
-        "src_reddit-comfyui_516c6409f31de6ee",
-        "src_reddit-mediasynthesis_334324f1d5231047",
-        "src_vercel-ai-blog_2026-05-18_fallback",
-        "src_reddit-mediasynthesis_b86ed67c8d8e526c"
+        "src_runway-research_4c72ae34dd32cd2b",
+        "src_black-forest-labs_db0e6d09e99dbd6f",
+        "src_replicate-blog_572c1f4ac9c0ea5c",
+        "src_reddit-stablediffusion_7cf047318b029894",
+        "src_reddit-stablediffusion_737a2ab436d814fa",
+        "src_reddit-comfyui_b75a829da0e7142a",
+        "src_reddit-comfyui_4348063879c4db03",
+        "src_comfyui-blog_fa3eb47ac5fb52c8",
+        "src_reddit-comfyui_146ab70cb31ff5f6",
+        "src_reddit-stablediffusion_a371cf5b066e4cbd",
+        "src_reddit-stablediffusion_c8e19cb44c5523a6",
+        "src_reddit-comfyui_57fe1d859be0960a",
+        "src_reddit-stablediffusion_bf55f1c496abf023",
+        "src_reddit-midjourney_8df2718c2362b144",
+        "src_reddit-midjourney_91c5cf49176c170c",
+        "src_reddit-mediasynthesis_459f419f1f6e36c2",
+        "src_reddit-comfyui_ac78663e05c2d023",
+        "src_reddit-midjourney_59b46b90070d954b",
+        "src_stability-ai-blog_2026-05-19_fallback"
       ],
       "sourceUrls": [
-        "https://www.anthropic.com/research",
-        "https://www.reddit.com/r/AI_Agents/comments/1tg953c/honest_comparison_after_4_months_running_claude/",
-        "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/",
-        "https://github.blog/tag/github-copilot/",
-        "https://vercel.com/blog/ai",
-        "https://blog.replit.com/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/1sokpp8/hundreds_of_fake_protrump_avatars_emerge_on/",
-        "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything"
+        "https://stability.ai/news/rss",
+        "https://blackforestlabs.ai/blog/",
+        "https://replicate.com/blog",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tgjrm2/lance_by_bytedance_3b_apache2_model_for_image_and/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tgyrsa/how_to_use_ltx_director_a_free_tool_for_creating/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tgqzkm/are_these_models_outdated/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1th6ohk/full_head_swap_model_that_make_sure_facial/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1th114r/trying_to_distill_the_soontobesunset_imagen_4_to/",
+        "https://www.reddit.com/r/comfyui/comments/1tgzotx/how_to_use_ltx_director_a_free_tool_for_creating/",
+        "https://www.reddit.com/r/comfyui/comments/1tgk7np/olm_liquify_an_interactive_photoshopstyle_liquify/",
+        "https://www.reddit.com/r/comfyui/comments/1th6mie/full_head_swap_model_that_make_sure_facial/",
+        "https://www.reddit.com/r/comfyui/comments/1th4jww/removed_by_reddit/",
+        "https://www.reddit.com/r/comfyui/comments/1th10pa/llm_gemma4_text_gen_uncensored/",
+        "https://runwayml.com/research",
+        "https://blog.comfy.org/",
+        "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "https://www.reddit.com/r/midjourney/comments/1tgm6m8/preserving_the_age_of_aviation/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-18T09:22:40.408Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-19",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-18_en",
+      "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-19_en",
       "lang": "en",
-      "category": "ai-vibe-coding",
-      "title": "The Rise of 'Vibe Coding': Shifting from Syntax to System Design",
-      "subtitle": "As agentic AI tools like Replit Agent 4 and Claude Code evolve, the developer's role is migrating from writing lines of code to managing high-level architectural 'vibes'.",
+      "category": "ai-image",
+      "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
+      "subtitle": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
       "tldr": [
-        "The emergence of 'vibe coding' allows developers to act more like product managers, focusing on intent and iteration rather than manual syntax.",
-        "Replit has launched Agent 4, specifically designed to push the boundaries of vibe coding for production-ready apps.",
-        "User data suggests a growing divide: ChatGPT is preferred for rapid-fire utility, while Claude is favored for deep reasoning and complex codebase management.",
-        "Advanced context handling (e.g., Claude's compaction) is enabling multi-file reasoning that bypasses traditional context walls."
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.",
+        "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
       ],
-      "bodyMarkdown": "The paradigm of software development is shifting. A new trend, dubbed **\"vibe coding,\"** is moving the developer's primary interface away from the semicolon and toward the high-level conceptual framework of an application. This shift is being driven by a new generation of agentic AI tools that handle the 'grunt work' of implementation, allowing the human to steer the overall direction—or the 'vibe'—of the project.\n\n### The Tools of the Vibe Shift\nReplit is leaning heavily into this transition with the release of **Agent 4**, described as their fastest and most versatile agent to date. The goal is explicitly to enable users to build production-ready apps faster by leveraging agentic workflows that minimize manual coding. Similarly, tools like **Claude Code (CC)** are changing how developers interact with complex systems. According to power-user reports, using these agents transforms the developer's role into that of a product manager; instead of debugging a single line of Python, the developer manages the agent's progress across a nested React codebase.\n\n### Depth vs. Speed: The Tooling Divide\nAs these agentic capabilities mature, a clear distinction has emerged between the leading LLM ecosystems:\n\n*   **Claude (Opus 4.7 / Sonnet 4.6):** Positioned as the tool for \"depth.\" It is praised for its massive 1-million-token context window and a \"compaction feature\" that summarizes progress to avoid hitting context walls. This makes it superior for long-form documentation, deep analysis, and complex API refactoring where maintaining structural constraints over thousands of words is critical.\n*   **ChatGPT (GPT-5.5):** Positioned as the tool for \"speed.\" It remains the preferred \"multi-tool\" for quick-twitch tasks: rapid debugging, voice-mode brainstorming, and general versatility.\n\n### The Implications for Development\nThis evolution suggests that the barrier to entry for creating complex software is dropping, but the requirement for **system-level thinking** is increasing. When the AI can handle the implementation, the developer's value shifts to their ability to provide precise constraints, maintain architectural integrity, and synthesize complex data points—skills that are more aligned with product ownership than traditional programming.",
-      "whyItMatters": "Vibe coding represents a fundamental shift in the labor of software engineering. If the 'how' (syntax) is automated, the 'what' (product design and system architecture) becomes the primary competitive advantage for developers.",
-      "creatorTakeaway": "Stop optimizing for typing speed and start optimizing for prompting precision. The future of development isn't about knowing the library by heart, but about knowing how to steer an agent through a complex codebase without losing the 'vibe' of the original requirement.",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.97 with high confidence.\n\n## Analysis\n\n- Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n- Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Careers Dashboard Discover what’s new May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.\n- Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.\n\n## Sources to verify\n\n- Stability AI Blog: Stability AI Blog signal for ai-image\n- Black Forest Labs: Blog | Black Forest Labs\n- Replicate Blog: Blog – Replicate\n- r/StableDiffusion: Lance by ByteDance: 3B Apache2 model for image and video understanding, generation, and editing\n- r/StableDiffusion: How to use LTX Director - A Free Tool for Creating Advanced LTX 2.3 Videos in ComfyUI\n- r/StableDiffusion: are these models outdated?\n- r/StableDiffusion: Full Head swap model that make sure Facial features are so strong as well as head size matching of the target\n- r/StableDiffusion: Trying to distill the soon-to-be-sunset Imagen 4 to a LoRA for Illustrious 2.0 but the result is a bit wonky, would appreciate some pointers\n- r/comfyui: How to use LTX Director - A Free Tool for Creating Advanced LTX 2.3 Videos in ComfyUI\n- r/comfyui: Olm Liquify - An interactive, Photoshop-style Liquify editor inside ComfyUI\n- r/comfyui: Full Head swap model that make sure Facial features are so strong as well as head size matching of the target\n- r/comfyui: [ Removed by Reddit ]\n- r/comfyui: LLM_Gemma4_Text_Gen Uncensored?\n- Runway Research: AI Video Research & Innovation | Runway AI\n- ComfyUI Blog: ComfyUI Blog | Robin | Substack\n- r/midjourney: V8.1 Alpha is out!\n- r/midjourney: V8 alpha is here!\n- r/midjourney: Preserving the Age of Aviation\n- r/MediaSynthesis: Probable changes to the subreddit",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
-        "ai-vibe-coding",
-        "ai-agentic",
-        "Anthropic",
-        "Replit",
-        "Software Engineering"
+        "ai-image",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
-        "src_anthropic-research_15aa8285dd0354e9",
-        "src_simonwillison-blog_ae1fb463a7989b2f",
-        "src_github-copilot-blog_1cb7f10cc2e13dc1",
-        "src_reddit-aiagents_84a136c0826ee136",
-        "src_replit-blog_49899058ba32f8e5",
-        "src_reddit-comfyui_516c6409f31de6ee",
-        "src_reddit-mediasynthesis_334324f1d5231047",
-        "src_vercel-ai-blog_2026-05-18_fallback",
-        "src_reddit-mediasynthesis_b86ed67c8d8e526c"
+        "src_runway-research_4c72ae34dd32cd2b",
+        "src_black-forest-labs_db0e6d09e99dbd6f",
+        "src_replicate-blog_572c1f4ac9c0ea5c",
+        "src_reddit-stablediffusion_7cf047318b029894",
+        "src_reddit-stablediffusion_737a2ab436d814fa",
+        "src_reddit-comfyui_b75a829da0e7142a",
+        "src_reddit-comfyui_4348063879c4db03",
+        "src_comfyui-blog_fa3eb47ac5fb52c8",
+        "src_reddit-comfyui_146ab70cb31ff5f6",
+        "src_reddit-stablediffusion_a371cf5b066e4cbd",
+        "src_reddit-stablediffusion_c8e19cb44c5523a6",
+        "src_reddit-comfyui_57fe1d859be0960a",
+        "src_reddit-stablediffusion_bf55f1c496abf023",
+        "src_reddit-midjourney_8df2718c2362b144",
+        "src_reddit-midjourney_91c5cf49176c170c",
+        "src_reddit-mediasynthesis_459f419f1f6e36c2",
+        "src_reddit-comfyui_ac78663e05c2d023",
+        "src_reddit-midjourney_59b46b90070d954b",
+        "src_stability-ai-blog_2026-05-19_fallback"
       ],
       "sourceUrls": [
-        "https://www.anthropic.com/research",
-        "https://www.reddit.com/r/AI_Agents/comments/1tg953c/honest_comparison_after_4_months_running_claude/",
-        "https://www.reddit.com/r/comfyui/comments/1tgf4ia/camera_angle_to_show_all_sides_of_room/",
-        "https://github.blog/tag/github-copilot/",
-        "https://vercel.com/blog/ai",
-        "https://blog.replit.com/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/1sokpp8/hundreds_of_fake_protrump_avatars_emerge_on/",
-        "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything"
+        "https://stability.ai/news/rss",
+        "https://blackforestlabs.ai/blog/",
+        "https://replicate.com/blog",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tgjrm2/lance_by_bytedance_3b_apache2_model_for_image_and/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tgyrsa/how_to_use_ltx_director_a_free_tool_for_creating/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tgqzkm/are_these_models_outdated/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1th6ohk/full_head_swap_model_that_make_sure_facial/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1th114r/trying_to_distill_the_soontobesunset_imagen_4_to/",
+        "https://www.reddit.com/r/comfyui/comments/1tgzotx/how_to_use_ltx_director_a_free_tool_for_creating/",
+        "https://www.reddit.com/r/comfyui/comments/1tgk7np/olm_liquify_an_interactive_photoshopstyle_liquify/",
+        "https://www.reddit.com/r/comfyui/comments/1th6mie/full_head_swap_model_that_make_sure_facial/",
+        "https://www.reddit.com/r/comfyui/comments/1th4jww/removed_by_reddit/",
+        "https://www.reddit.com/r/comfyui/comments/1th10pa/llm_gemma4_text_gen_uncensored/",
+        "https://runwayml.com/research",
+        "https://blog.comfy.org/",
+        "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "https://www.reddit.com/r/midjourney/comments/1tgm6m8/preserving_the_age_of_aviation/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-18T09:23:18.609Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-19",
         "confidence": "high",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
@@ -476,7 +461,7 @@
         "Sources"
       ],
       "sourceFacts": [
-        "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+        "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
         "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
         "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.",
         "That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M.",
@@ -484,28 +469,23 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-video_kling-ai_2026-05-18_vi",
+      "id": "cluster_ai-video_kling-ai_2026-05-19_vi",
       "lang": "vi",
       "category": "ai-video",
-      "title": "Kling AI 3.0: Định nghĩa lại tiêu chuẩn video AI 4K và khả năng kiểm soát điện ảnh",
-      "subtitle": "Từ xuất ra 4K nguyên bản đến tính năng Subject Binding, Kling AI đang dẫn đầu cuộc đua nâng cấp chất lượng hình ảnh và độ nhất quán cho nhà sáng tạo.",
+      "title": "Kling AI: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "tldr": [
-        "Kling AI ra mắt khả năng xuất video 4K nguyên bản (Native 4K), vượt xa các phương pháp upscale thông thường.",
-        "Phiên bản 3.0 giới thiệu Subject Binding giúp khóa đặc điểm nhân vật xuyên suốt nhiều shot hình.",
-        "Tích hợp Omni Audio cho phép đồng bộ môi (lip-sync) tự nhiên và hỗ trợ đa ngôn ngữ.",
-        "Director Mode cho phép tạo các video chuyển cảnh đa khung hình, tăng tính kể chuyện.",
-        "Cộng đồng AI Video đang chuyển dịch từ 'tạo nhanh' sang 'sản xuất chi tiết', sử dụng kết hợp Kling 3.0 với các công cụ chuyên sâu."
+        "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+        "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
+        "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
       ],
-      "bodyMarkdown": "Trong bối cảnh cuộc đua AI Video đang nóng hơn bao giờ hết, **Kling AI** đã tạo ra một bước nhảy vọt với phiên bản 3.0, tập trung vào hai yếu tố then chốt mà các nhà làm phim AI khao khát: **độ phân giải cực cao** và **sự nhất quán của nhân vật**.\n\n### Bước đột phá về chất lượng: Native 4K\nKhác với hầu hết các công cụ hiện nay thường sử dụng phương pháp upscale (phóng to hình ảnh sau khi tạo), Kling AI giới thiệu khả năng **xuất video 4K nguyên bản**. Điều này không chỉ cải thiện độ sắc nét mà còn giữ được chi tiết chân thực, giảm thiểu hiện tượng mờ nhòe thường thấy trong các video AI thế hệ cũ.\n\n### Kiểm soát điện ảnh chuyên sâu với Kling 3.0\nĐể giải quyết bài toán \"nhân vật thay đổi diện mạo sau mỗi cảnh\", Kling AI triển khai tính năng **Subject Binding**. Công cụ này cho phép người dùng khóa các đặc điểm nhận dạng của nhân vật, đảm bảo tính đồng nhất trong suốt toàn bộ tác phẩm.\n\nBên cạnh đó, hệ sinh thái 3.0 còn bổ sung:\n- **Director Mode:** Hỗ trợ tạo các video chuyển cảnh đa shot, giúp nhà sáng tạo kiểm soát nhịp điệu kể chuyện.\n- **Omni Audio:** Tích hợp khả năng Lip-sync tự nhiên và giọng nói đa ngôn ngữ, xóa bỏ rào cản giữa âm thanh và hình ảnh.\n- **Prompt Syntax 2.0:** Cung cấp các thẻ tham chiếu Omni và mô phỏng vật lý chính xác hơn cho các chuyển động như chạy, nhảy và cử chỉ.\n\n### Từ công cụ tạo nhanh đến quy trình sản xuất chuyên nghiệp\nSự phát triển của Kling AI đang thúc đẩy một làn sóng sáng tạo mới. Trên các cộng đồng như *r/aivideo* và *r/MediaSynthesis*, người dùng không còn chỉ hài lòng với những video \"một cú nhấp chuột\". Thay vào đó, họ đang xây dựng những quy trình phức tạp. \n\nĐiển hình là các tác phẩm phim ngắn AI kéo dài hàng phút, yêu cầu hàng chục ngày tinh chỉnh, kết hợp Kling 3.0 với các công cụ như Suno AI (âm nhạc), Runway Gen 4.5 và ChatGPT để đạt được độ chi tiết tối đa về kịch bản và bố cục cảnh quay.",
-      "whyItMatters": "Việc chuyển từ upscale sang Native 4K và ra mắt Subject Binding giải quyết hai điểm yếu lớn nhất của AI video: chất lượng hình ảnh thấp khi phóng to và sự thiếu nhất quán của nhân vật. Điều này đưa AI Video thoát ly khỏi mác 'video minh họa' để tiến gần hơn đến tiêu chuẩn sản xuất điện ảnh chuyên nghiệp.",
-      "creatorTakeaway": "Để tận dụng tối đa Kling 3.0, nhà sáng tạo nên tập trung vào việc học Prompt Syntax 2.0 và kết hợp Director Mode để xây dựng storyboard chặt chẽ thay vì chỉ dựa vào các prompt ngẫu nhiên. Sự kết hợp giữa Subject Binding và Omni Audio là chìa khóa để tạo ra các nhân vật AI có hồn và nhất quán.",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.86 với confidence high.\n\n## Phân tích\n\n- Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.\n- It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.\n- But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.\n\n## Nguồn cần kiểm chứng\n\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: \"The Gatekeeper\" by jboogxcreative (me)\n- r/aivideo: The Warden\n- r/aivideo: Antiques Roadshow vs Annabelle - DungerZone Parody\n- Kling AI Blog: Kling AI\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
+      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
-        "Kling AI",
-        "AI Video",
-        "Native 4K",
-        "Subject Binding",
-        "Cinematic AI",
-        "Generative Video"
+        "ai-video",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
         "src_kling-blog_93b43a5f7aed1c98",
@@ -513,52 +493,48 @@
         "src_reddit-aivideo_a7a9a72758720ba6",
         "src_reddit-mediasynthesis_77fd766897b9ab43",
         "src_reddit-aivideo_5a163fe980d106d8",
-        "src_reddit-aivideo_dc7e3297fc3d45c6",
-        "src_reddit-aivideo_d40c722bd98a42b8",
-        "src_reddit-aivideo_ea1d9ffb844226b3"
+        "src_reddit-aivideo_27f1d44fe660b973",
+        "src_reddit-aivideo_7aedcd35a57827aa",
+        "src_reddit-aivideo_a14273c7100d3cdd"
       ],
       "sourceUrls": [
         "https://pika.art/blog",
         "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
         "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
-        "https://www.reddit.com/r/aivideo/comments/1tg6l8f/alex_pereira_vs_horror_villians/",
-        "https://www.reddit.com/r/aivideo/comments/1tgdk4y/someone_fixed_the_famous_world_cup_problems/",
-        "https://www.reddit.com/r/aivideo/comments/1tg1qjw/if_they_came_in_peace_would_we/",
+        "https://www.reddit.com/r/aivideo/comments/1tgw0i7/the_gatekeeper_by_jboogxcreative_me/",
+        "https://www.reddit.com/r/aivideo/comments/1tgvmis/the_warden/",
+        "https://www.reddit.com/r/aivideo/comments/1tgx8vh/antiques_roadshow_vs_annabelle_dungerzone_parody/",
         "https://klingai.com/blog",
         "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-18T09:22:03.572Z",
-        "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-19",
         "confidence": "high",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-video_kling-ai_2026-05-18_en",
+      "id": "cluster_ai-video_kling-ai_2026-05-19_en",
       "lang": "en",
       "category": "ai-video",
-      "title": "Kling AI 3.0: Pushing the Boundaries of Cinematic AI Video",
-      "subtitle": "From native 4K output to advanced subject binding, Kling AI is evolving into a comprehensive director's toolkit.",
+      "title": "Kling AI: creator and builder analysis",
+      "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
       "tldr": [
-        "Kling AI has introduced native 4K image-to-video output, moving beyond traditional upscaling.",
-        "The 3.0 update features 'Subject Binding' for character consistency and 'Director Mode' for multi-shot transitions.",
-        "New 'Omni Audio' capabilities provide native lip-sync and multilingual voice support.",
-        "Professional AI creators are now combining Kling 3.0 with other tools (Suno, Runway) to produce long-form musical films."
+        "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+        "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
+        "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
       ],
-      "bodyMarkdown": "The landscape of generative AI video is shifting from simple short clips to complex narrative storytelling, with **Kling AI** emerging as a primary driver of this transition. The latest iterations of the platform, specifically the 3.0 series, focus on solving the 'consistency problem' that has long plagued AI cinema.\n\n### Technical Breakthroughs in Kling 3.0\nKling AI has moved beyond the industry standard of upscaling, introducing the **world's first native 4K image-to-video direct output**. This ensures higher fidelity and sharper detail without the artifacts often introduced by post-process upscalers. \n\nTo empower creators with more granular control, Kling has released several specialized features:\n*   **Subject Binding:** Allows creators to lock character features across multiple shots, ensuring visual continuity.\n*   **Director Mode:** Enables the creation of multi-shot transition videos, moving the tool from a 'single-prompt' generator to a sequencing tool.\n*   **Omni Audio:** Integrates native lip-sync and multilingual voices directly into the video workflow.\n*   **Advanced Prompting:** The introduction of 'Prompt Syntax 2.0' allows for better control over physics and reference tags.\n\n### From 'One-Click' to 'Obsessive Detail'\nWhile many users utilize AI for quick memes, a new class of 'AI Directors' is emerging. On platforms like r/MediaSynthesis, creators are documenting the grueling process of high-end AI filmmaking. One such project, an 8-minute musical film titled *GOD IS DEAD*, took 57 days of production. This workflow demonstrates that Kling 3.0 is often used as part of a larger stack, combined with **Suno AI** for music, **Runway Gen 4.5** for assets, and **ChatGPT/Claude** for scriptwriting.\n\n### Industry Integration and Recognition\nKling's influence is extending into the community sphere. The platform is a key collaborator for the **AI Video Awards 2026**, an event that has seen over 56,000 submissions. The awards highlight the diverse applications of the technology, from 'Mindblowing' horror clips to full-scale movie trailers and TV show parodies, many of which leverage Kling's ability to handle complex motion and cinematic lighting.",
-      "whyItMatters": "The shift from 'generative clips' to 'directed cinema' is critical. By introducing native 4K, subject binding, and multi-shot control, Kling AI is providing the technical infrastructure necessary for AI to move from a novelty to a viable tool for professional filmmakers and advertisers.",
-      "creatorTakeaway": "To achieve professional results, stop relying on single prompts. Combine Kling 3.0's Subject Binding for consistency with external audio tools like Suno and a structured 'Director' mindset to build cohesive narratives rather than isolated clips.",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.86 with high confidence.\n\n## Analysis\n\n- Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.\n- It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.\n- But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.\n\n## Sources to verify\n\n- Pika Labs Blog: Pika blog\n- r/aivideo: Featured Titles + Latest Releases\n- r/aivideo: 🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026\n- r/aivideo: \"The Gatekeeper\" by jboogxcreative (me)\n- r/aivideo: The Warden\n- r/aivideo: Antiques Roadshow vs Annabelle - DungerZone Parody\n- Kling AI Blog: Kling AI\n- r/MediaSynthesis: People think AI films are just one click — mine took 57 days of obsessive detail",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
-        "Kling AI",
-        "AI Video",
-        "Generative AI",
-        "4K Video",
-        "AI Filmmaking",
-        "Cinematography"
+        "ai-video",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
         "src_kling-blog_93b43a5f7aed1c98",
@@ -566,27 +542,27 @@
         "src_reddit-aivideo_a7a9a72758720ba6",
         "src_reddit-mediasynthesis_77fd766897b9ab43",
         "src_reddit-aivideo_5a163fe980d106d8",
-        "src_reddit-aivideo_dc7e3297fc3d45c6",
-        "src_reddit-aivideo_d40c722bd98a42b8",
-        "src_reddit-aivideo_ea1d9ffb844226b3"
+        "src_reddit-aivideo_27f1d44fe660b973",
+        "src_reddit-aivideo_7aedcd35a57827aa",
+        "src_reddit-aivideo_a14273c7100d3cdd"
       ],
       "sourceUrls": [
         "https://pika.art/blog",
         "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
         "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
-        "https://www.reddit.com/r/aivideo/comments/1tg6l8f/alex_pereira_vs_horror_villians/",
-        "https://www.reddit.com/r/aivideo/comments/1tgdk4y/someone_fixed_the_famous_world_cup_problems/",
-        "https://www.reddit.com/r/aivideo/comments/1tg1qjw/if_they_came_in_peace_would_we/",
+        "https://www.reddit.com/r/aivideo/comments/1tgw0i7/the_gatekeeper_by_jboogxcreative_me/",
+        "https://www.reddit.com/r/aivideo/comments/1tgvmis/the_warden/",
+        "https://www.reddit.com/r/aivideo/comments/1tgx8vh/antiques_roadshow_vs_annabelle_dungerzone_parody/",
         "https://klingai.com/blog",
         "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-18T09:22:35.163Z",
-        "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-19",
         "confidence": "high",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
@@ -601,7 +577,7 @@
   },
   {
     "outline": {
-      "titleDirection": "CREEPY VAMPIRE LAIRS",
+      "titleDirection": "Neon Oracle Pop",
       "angle": "workflow-first prompt breakdown",
       "sections": [
         "TL;DR",
@@ -611,92 +587,83 @@
         "Sources"
       ],
       "sourceFacts": [
-        "I genuinely want my house to look like this.",
-        "Maybe I can at least design the basement like this one day 😭\n\nhttps://preview.redd.it/afyq85wrbs1h1.jpeg?width=3384&format=pjpg&auto=webp&s=06a61a491b4e62215267d8c808638cd4ceb63865\n\nPsychedelic and chill.",
-        "I want to be a vampire in there for sure\n\nSummary: submitted by /u/GaryWray [link] [comments]",
-        "Top comments:\n![gif](giphy|Lz6971fkGSgCMOOncl)\n\nSummary: submitted by /u/EleanorKalatheraine [link] [comments]",
-        "Top comments:\nEl ángel de chatarra aguarda bajo un halo de hierro, custodiando el silencio del páramo."
+        "Top comments:\n![gif](giphy|RrVzUOXldFe8M)\n\nLove this look!",
+        "The colors all work well and complement one another.",
+        "Summary: submitted by /u/liibertypriimex1 [link] [comments]",
+        "Summary: submitted by /u/SharpDress176 [link] [comments]"
       ]
     },
     "vi": {
-      "id": "cluster_prompt-image_creepy-vampire-lairs_2026-05-18_vi",
+      "id": "cluster_prompt-image_neon-oracle-pop_2026-05-19_vi",
       "lang": "vi",
       "category": "prompt-image",
-      "title": "Sáng tạo không gian 'Hang Ma Cà Rồng' rùng rợn với Midjourney",
-      "subtitle": "Khám phá xu hướng thiết kế kiến trúc siêu thực và u ám thông qua các tác phẩm AI",
+      "title": "Neon Oracle Pop: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "tldr": [
-        "Cộng đồng r/midjourney chia sẻ những thiết kế 'hang ma cà rồng' (vampire lairs) đầy ám ảnh.",
-        "Sự kết hợp giữa yếu tố rùng rợn và phong cách 'psychedelic' tạo nên sức hút thị giác mạnh mẽ.",
-        "Người dùng thể hiện mong muốn hiện thực hóa các thiết kế AI này vào không gian sống thực tế (như tầng hầm)."
+        "Top comments:\n![gif](giphy|RrVzUOXldFe8M)\n\nLove this look!",
+        "The colors all work well and complement one another.",
+        "Summary: submitted by /u/liibertypriimex1 [link] [comments]"
       ],
-      "bodyMarkdown": "Trong cộng đồng nghệ thuật AI, đặc biệt là trên subreddit r/midjourney, một xu hướng thiết kế không gian sống độc đáo đang gây chú ý: **Creepy Vampire Lairs** (Những hang ổ ma cà rồng rùng rợn). \n\nThay vì những ngôi nhà hiện đại, các tác phẩm này tập trung vào việc tạo ra những môi trường u tối, huyền bí và mang đậm chất Gothic. Một điểm đáng chú ý là sự pha trộn giữa cảm giác sợ hãi và sự thư giãn (chill), tạo nên một phong cách mà người dùng mô tả là 'psychedelic' (ảo giác). \n\nNhững hình ảnh này không chỉ dừng lại ở mức độ minh họa cho phim ảnh hay truyện kể, mà còn khơi gợi cảm hứng thiết kế nội thất thực tế. Một số người dùng thậm chí bày tỏ mong muốn thiết kế tầng hầm của mình theo phong cách này để tạo ra một không gian ẩn dật, tách biệt hoàn toàn với thế giới bên ngoài.\n\nViệc sử dụng Midjourney để hiện thực hóa những ý tưởng 'điên rồ' này cho thấy khả năng của AI trong việc nắm bắt các khái niệm trừu tượng về nỗi sợ và sự sang trọng u ám, biến chúng thành những bản phác thảo kiến trúc chi tiết và đầy ám ảnh.",
-      "whyItMatters": "Điều này cho thấy sự chuyển dịch trong cách con người sử dụng AI: không chỉ để tạo ảnh đẹp, mà còn để khám phá những góc tối của trí tưởng tượng và tìm kiếm cảm hứng cho các không gian sống phi truyền thống.",
-      "creatorTakeaway": "Để tạo ra những tác phẩm có sức hút tương tự, hãy thử kết hợp các từ khóa đối lập như 'creepy' (rùng rợn) với 'chill' hoặc 'psychedelic' để tạo ra sự căng thẳng thị giác thú vị.",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.61 với confidence medium.\n\n## Phân tích\n\n- Top comments:\n![gif](giphy|RrVzUOXldFe8M)\n\nLove this look!\n- The colors all work well and complement one another.\n- Summary: submitted by /u/liibertypriimex1 [link] [comments]\n\n## Nguồn cần kiểm chứng\n\n- r/midjourney: Neon Oracle Pop\n- r/midjourney: Leviathan Ocean - Drift Ships",
+      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
-        "Midjourney",
-        "AI Art",
-        "Interior Design",
-        "Gothic",
-        "Digital Art"
+        "prompt-image",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-midjourney_975cff191eaa24ce",
-        "src_reddit-midjourney_a1ff391fc46ed638",
-        "src_reddit-midjourney_af92d3bef5780c79"
+        "src_reddit-midjourney_2d860b89777e2feb",
+        "src_reddit-midjourney_735be1fb396922d1"
       ],
       "sourceUrls": [
-        "https://www.reddit.com/r/midjourney/comments/1tg2r8d/creepy_vampire_lairs/",
-        "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/",
-        "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/"
+        "https://www.reddit.com/r/midjourney/comments/1th500k/neon_oracle_pop/",
+        "https://www.reddit.com/r/midjourney/comments/1th458o/leviathan_ocean_drift_ships/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-18T09:20:49.977Z",
-        "sourceClusterId": "cluster_prompt-image_creepy-vampire-lairs_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_prompt-image_neon-oracle-pop_2026-05-19",
         "confidence": "medium",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-image_creepy-vampire-lairs_2026-05-18_en",
+      "id": "cluster_prompt-image_neon-oracle-pop_2026-05-19_en",
       "lang": "en",
       "category": "prompt-image",
-      "title": "Atmospheric Horror: Designing Creepy Vampire Lairs in Midjourney",
-      "subtitle": "Exploring the intersection of psychedelic aesthetics and gothic dread in AI-generated architecture.",
+      "title": "Neon Oracle Pop: creator and builder analysis",
+      "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
       "tldr": [
-        "Midjourney users are experimenting with 'creepy vampire lairs' that blend gothic horror with psychedelic elements.",
-        "Community feedback highlights a desire to translate these surreal AI interiors into real-world basement designs.",
-        "The trend emphasizes a 'chill' yet unsettling atmosphere, moving beyond traditional vampire tropes."
+        "Top comments:\n![gif](giphy|RrVzUOXldFe8M)\n\nLove this look!",
+        "The colors all work well and complement one another.",
+        "Summary: submitted by /u/liibertypriimex1 [link] [comments]"
       ],
-      "bodyMarkdown": "The Midjourney community is currently exploring a niche aesthetic that blends high-gothic horror with surreal, psychedelic influences. Recent showcases of 'creepy vampire lairs' demonstrate a shift from standard dark castles toward environments that are described as both 'psychedelic and chill.'\n\nThese AI-generated spaces often feature complex architectural details and atmospheric lighting that evoke a sense of otherworldly luxury and dread. The appeal of these images extends beyond digital art; users have expressed a genuine desire to translate these surreal aesthetics into physical spaces, specifically suggesting that such designs would be ideal for home basements.\n\nThis trend reflects a broader movement within AI art where users are pushing the boundaries of 'horror' to include comfort and mood-driven environments, creating spaces where the inhabitant would actually want to reside, despite the eerie undertones.",
-      "whyItMatters": "It demonstrates how AI image generation is being used not just for storytelling or concept art, but as a mood board for interior design and architectural aspiration, blending disparate genres like 'psychedelic' and 'vampiric.'",
-      "creatorTakeaway": "To achieve this specific look, prompt for a mix of gothic architecture and psychedelic lighting, focusing on the contrast between 'creepy' and 'chill' to create a sophisticated, atmospheric environment.",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.61 with medium confidence.\n\n## Analysis\n\n- Top comments:\n![gif](giphy|RrVzUOXldFe8M)\n\nLove this look!\n- The colors all work well and complement one another.\n- Summary: submitted by /u/liibertypriimex1 [link] [comments]\n\n## Sources to verify\n\n- r/midjourney: Neon Oracle Pop\n- r/midjourney: Leviathan Ocean - Drift Ships",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
-        "Midjourney",
-        "AI Art",
-        "Interior Design",
-        "Gothic Horror",
-        "Digital Aesthetics"
+        "prompt-image",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-midjourney_975cff191eaa24ce",
-        "src_reddit-midjourney_a1ff391fc46ed638",
-        "src_reddit-midjourney_af92d3bef5780c79"
+        "src_reddit-midjourney_2d860b89777e2feb",
+        "src_reddit-midjourney_735be1fb396922d1"
       ],
       "sourceUrls": [
-        "https://www.reddit.com/r/midjourney/comments/1tg2r8d/creepy_vampire_lairs/",
-        "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/",
-        "https://www.reddit.com/r/midjourney/comments/1tg5epn/reaper/"
+        "https://www.reddit.com/r/midjourney/comments/1th500k/neon_oracle_pop/",
+        "https://www.reddit.com/r/midjourney/comments/1th458o/leviathan_ocean_drift_ships/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-18T09:21:12.424Z",
-        "sourceClusterId": "cluster_prompt-image_creepy-vampire-lairs_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_prompt-image_neon-oracle-pop_2026-05-19",
         "confidence": "medium",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
@@ -725,25 +692,21 @@
       ]
     },
     "vi": {
-      "id": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-18_vi",
+      "id": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-19_vi",
       "lang": "vi",
       "category": "prompt-video",
-      "title": "Đánh giá cuốn sách '50 Years of Text Games' của Aaron Reed",
-      "subtitle": "Một cái nhìn sâu sắc về lịch sử và sự tiến hóa của trò chơi văn bản",
+      "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "tldr": [
-        "Phân tích về tác phẩm '50 Years of Text Games' của tác giả Aaron Reed.",
-        "Nội dung tập trung vào hành trình 5 thập kỷ phát triển của thể loại game dựa trên văn bản.",
-        "Thông tin được chia sẻ và thảo luận trong cộng đồng r/MediaSynthesis."
+        "Summary: submitted by /u/gwern [link] [comments]"
       ],
-      "bodyMarkdown": "Cuốn sách **'50 Years of Text Games'** của Aaron Reed cung cấp một cái nhìn chi tiết và toàn diện về lịch sử của các trò chơi văn bản (text games) từ những ngày đầu sơ khai cho đến nay. Tác phẩm không chỉ đơn thuần là một bản liệt kê các tựa game, mà còn là một phân tích về cách tương tác giữa người chơi và máy tính thông qua ngôn ngữ đã thay đổi như thế nào qua 50 năm.\n\nThông qua các thảo luận trên cộng đồng *r/MediaSynthesis*, tác phẩm được đánh giá cao ở khả năng kết nối các cột mốc kỹ thuật với trải nghiệm nghệ thuật. Việc xem xét lại lịch sử này đặc biệt quan trọng trong bối cảnh hiện nay, khi các mô hình ngôn ngữ lớn (LLM) đang tái định nghĩa lại cách chúng ta tạo ra và trải nghiệm các thế giới ảo bằng văn bản.",
-      "whyItMatters": "Việc hiểu rõ lịch sử của text games giúp các nhà phát triển AI và game hiện đại nắm bắt được cơ chế kể chuyện tương tác, từ đó tối ưu hóa việc tạo nội dung tự động và thiết kế trải nghiệm người dùng trong kỷ nguyên Generative AI.",
-      "creatorTakeaway": "Hãy nghiên cứu các cấu trúc game văn bản cổ điển để tìm cảm hứng cho việc thiết kế prompt và xây dựng luồng tương tác (workflow) cho các ứng dụng AI hiện đại.",
+      "bodyMarkdown": "## Tín hiệu chính\n\nCluster này đang đạt điểm 0.42 với confidence low.\n\n## Phân tích\n\n- Summary: submitted by /u/gwern [link] [comments]\n\n## Nguồn cần kiểm chứng\n\n- r/MediaSynthesis: \"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+      "whyItMatters": "Điểm đáng chú ý là tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+      "creatorTakeaway": "Creator/builder nên kiểm tra nguồn gốc, thử trên một workflow nhỏ và chỉ scale khi kết quả ổn định.",
       "tags": [
-        "Text Games",
-        "Aaron Reed",
-        "Lịch sử Game",
-        "Media Synthesis",
-        "AI Narrative"
+        "prompt-video",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
         "src_reddit-mediasynthesis_8dc8d246a27d02f6"
@@ -754,31 +717,29 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-18T09:20:51.816Z",
-        "sourceClusterId": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-19",
         "confidence": "low",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-18_en",
+      "id": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-19_en",
       "lang": "en",
       "category": "prompt-video",
-      "title": "Review: 50 Years of Text Games by Aaron Reed",
-      "subtitle": "Exploring the evolution of interactive fiction and text-based gaming",
+      "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": creator and builder analysis",
+      "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
       "tldr": [
-        "A review of Aaron Reed's work on the 50-year history of text games.",
-        "Shared via the r/MediaSynthesis community by user /u/gwern."
+        "Summary: submitted by /u/gwern [link] [comments]"
       ],
-      "bodyMarkdown": "A recent review of *50 Years of Text Games* by Aaron Reed has surfaced within the r/MediaSynthesis community. The piece, shared by user /u/gwern, examines the historical trajectory and design evolution of text-based gaming over five decades.\n\nWhile the source provides a pointer to the review, it highlights a growing interest in the intersection of legacy interactive fiction and modern media synthesis.",
-      "whyItMatters": "Understanding the lineage of text games provides critical context for the development of modern LLM-driven interactive narratives and prompt-based gaming.",
-      "creatorTakeaway": "The evolution of text games serves as a blueprint for how constraints in visual fidelity can drive innovation in narrative depth and player agency.",
+      "bodyMarkdown": "## Main signal\n\nThis cluster currently scores 0.42 with low confidence.\n\n## Analysis\n\n- Summary: submitted by /u/gwern [link] [comments]\n\n## Sources to verify\n\n- r/MediaSynthesis: \"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+      "whyItMatters": "The signal matters because it may change production, coding, or prompt workflows this week.",
+      "creatorTakeaway": "Creators and builders should verify the source trail, test the idea in one small workflow, then scale only after stable results.",
       "tags": [
-        "Text Games",
-        "Interactive Fiction",
-        "Media Synthesis",
-        "Gaming History"
+        "prompt-video",
+        "ai-radar",
+        "daily-signal"
       ],
       "sourceIds": [
         "src_reddit-mediasynthesis_8dc8d246a27d02f6"
@@ -789,10 +750,10 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-18T09:20:56.767Z",
-        "sourceClusterId": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-18",
+        "generatedAt": "2026-05-19T02:39:52.548Z",
+        "sourceClusterId": "cluster_prompt-video_review-50-years-of-text-games-by-aaron-reed_2026-05-19",
         "confidence": "low",
-        "mode": "ollama"
+        "mode": "template-fallback"
       },
       "status": "draft"
     },

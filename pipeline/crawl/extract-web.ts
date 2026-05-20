@@ -1,5 +1,5 @@
 import type { SourceItem } from "../types/schema.ts";
-import { fetchText, stripHtml } from "./utils.ts";
+import { fetchText, metaContent, stripHtml } from "./utils.ts";
 
 export async function extractWebContent(item: SourceItem): Promise<SourceItem> {
   if (item.extractedText || item.sourceType === "youtube") return item;
@@ -9,9 +9,9 @@ export async function extractWebContent(item: SourceItem): Promise<SourceItem> {
     const extractedText = stripHtml(html).slice(0, 6_000);
     if (extractedText.length < item.rawSummary.length) return item;
 
-    // Extract og:image
-    const ogMatch = /<meta\b(?=[^>]*property=["']og:image["'])[^>]*content=["']([^"']+)["'][^>]*>/i.exec(html);
-    const imageUrl = ogMatch?.[1] || undefined;
+    // Extract og:image using shared metaContent helper
+    const ogImage = metaContent(html, "og:image");
+    const imageUrl = ogImage || undefined;
 
     return {
       ...item,

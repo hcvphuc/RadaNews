@@ -1,8 +1,9 @@
+import { articles as mockArticles } from "@/data/articles";
 import { generatedArticles } from "@/data/articles-generated";
 import { categories } from "@/lib/categories";
 import type { Article, Category, Lang } from "@/lib/schema";
 
-const allArticles: Article[] = [...generatedArticles];
+const allArticles: Article[] = [...mockArticles, ...generatedArticles];
 export const articles: Article[] = allArticles;
 export const publishedArticles: Article[] = allArticles.filter((a) => a.status === "published");
 
@@ -24,9 +25,7 @@ export function getArticle(lang: Lang, category: Category, slug: string) {
 
 export function getLanguageVariant(article: Article, lang: Lang) {
   const clusterId = article.generation.sourceClusterId;
-  return publishedArticles.find(
-    (candidate) => candidate.lang === lang && candidate.generation.sourceClusterId === clusterId
-  );
+  return publishedArticles.find((candidate) => candidate.lang === lang && candidate.generation.sourceClusterId === clusterId);
 }
 
 export function getTodayArticles(lang: Lang) {
@@ -55,10 +54,7 @@ export function getHotTopics(lang: Lang) {
 export function getReferencedSources(lang: Lang) {
   const sourceCounts = new Map<string, number>();
   getArticles(lang).forEach((article) => {
-    article.sources.forEach((source) => {
-      const name = source.publisher || source.title;
-      sourceCounts.set(name, (sourceCounts.get(name) ?? 0) + 1);
-    });
+    article.sources.forEach((source) => sourceCounts.set(source.sourceName, (sourceCounts.get(source.sourceName) ?? 0) + 1));
   });
   return [...sourceCounts.entries()]
     .sort((a, b) => b[1] - a[1])
@@ -66,28 +62,16 @@ export function getReferencedSources(lang: Lang) {
     .map(([name, count]) => ({ name, count }));
 }
 
-export function getRelatedArticles(article: Article, limit = 5) {
-  return publishedArticles
-    .filter(
-      (candidate) =>
-        candidate.id !== article.id &&
-        candidate.lang === article.lang &&
-        candidate.category === article.category
-    )
-    .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
-    .slice(0, limit);
-}
-
 export function getAllStaticArticlePaths() {
   return articles.map((article) => ({
     params: {
       lang: article.lang,
       category: article.category,
-      slug: article.slug,
+      slug: article.slug
     },
     props: {
-      article,
-    },
+      article
+    }
   }));
 }
 
@@ -95,7 +79,7 @@ export function formatDate(date: string, lang: Lang) {
   return new Intl.DateTimeFormat(lang === "vi" ? "vi-VN" : "en-US", {
     day: "2-digit",
     month: "short",
-    year: "numeric",
+    year: "numeric"
   }).format(new Date(date));
 }
 
@@ -104,40 +88,18 @@ export function articleUrl(article: Article) {
 }
 
 export function readingMeta(article: Article, lang: Lang) {
-  const count = article.sourceCount ?? article.sources.length;
   const sourcesLabel = lang === "vi" ? "nguồn" : "sources";
   const readLabel = lang === "vi" ? "phút đọc" : "min read";
-  return `${article.readingTime} ${readLabel} · ${count} ${sourcesLabel}`;
+  return `${article.readingTime} ${readLabel} · ${article.sources.length} ${sourcesLabel}`;
 }
 
-/** Extract all text from new structured article for search indexing */
 export function articleText(article: Article) {
-  const parts: string[] = [article.title, article.subtitle || ""];
-
-  if (article.highlights) {
-    parts.push(article.highlights.map((h) => h.text).join("\n"));
-  }
-
-  for (const section of article.sections) {
-    parts.push(section.heading);
-    if (section.subheading) parts.push(section.subheading);
-    for (const block of section.blocks) {
-      if (block.type === "paragraph" && block.text) parts.push(block.text);
-      else if (block.type === "list" && block.items) parts.push(block.items.join("\n"));
-      else if (block.type === "callout" && block.text) parts.push(block.text);
-    }
-  }
-
-  if (article.insightBlocks) {
-    for (const ib of article.insightBlocks) {
-      parts.push(ib.title, ib.text);
-    }
-  }
-
-  if (article.takeaway) {
-    if (article.takeaway.text) parts.push(article.takeaway.text);
-    if (article.takeaway.items) parts.push(article.takeaway.items.join("\n"));
-  }
-
-  return parts.join("\n\n");
+  return [
+    article.title,
+    article.subtitle,
+    article.tldr.join("\n"),
+    article.bodyMarkdown,
+    article.whyItMatters,
+    article.creatorTakeaway
+  ].join("\n\n");
 }
