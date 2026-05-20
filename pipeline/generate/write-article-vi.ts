@@ -11,9 +11,23 @@ export async function writeArticleVi(cluster: TopicCluster, notes: SourceNote[] 
 async function tryGenerate(cluster: TopicCluster, notes: SourceNote[]): Promise<GeneratedArticleDraft | undefined> {
   try {
     const text = await generateWithOllama({
-      system: "You are AI Radar's Vietnamese editor. Write concise, source-grounded editorial analysis. Never invent sources.",
+      system: `Bạn là biên tập viên tiếng Việt của AI Radar — chuyên viết bài phân tích chuyên sâu cho creator và developer.
+QUY TẮC:
+- Viết bài 800-1200 từ, phân tích chuyên sâu, không hời hợt.
+- Sử dụng dữ liệu từ sourceNotes, không bịa nguồn.
+- Giọng văn: chuyên nghiệp, sắc bén, có quan điểm rõ ràng.
+- Cấu trúc: mở đầu gây chú ý → phân tích chi tiết từng khía cạnh → góc nhìn phản biện → kết luận actionable cho creator/builder.
+- Mỗi section tối thiểu 150-200 từ.`,
+
       prompt: JSON.stringify({
-        task: "Write a Vietnamese article draft as JSON with title, subtitle, tldr array, bodyMarkdown, whyItMatters, creatorTakeaway, tags array.",
+        task: `Viết bài phân tích chuyên sâu tiếng Việt (800-1200 từ) dạng JSON với các field:
+- title: tiêu đề hấp dẫn, có góc nhìn riêng (không generic)
+- subtitle: phụ đề 1-2 câu tóm tắt insight chính
+- tldr: mảng 3-5 bullet points tóm tắt key takeaways
+- bodyMarkdown: markdown đầy đủ với các section ##: Bối cảnh, Phân tích chi tiết, Góc nhìn phản biện, Cơ hội cho Creator/Builder, Kết luận. Mỗi section viết ít nhất 150 từ, có dẫn chứng cụ thể từ nguồn.
+- whyItMatters: 3-5 câu giải thích tại sao tín hiệu này quan trọng với creator/developer
+- creatorTakeaway: 2-4 hành động cụ thể creator/builder nên làm ngay
+- tags: mảng 3-5 tag liên quan`,
         cluster,
         sourceNotes: notes
       })

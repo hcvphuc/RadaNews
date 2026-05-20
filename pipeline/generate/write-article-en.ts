@@ -11,9 +11,23 @@ export async function writeArticleEn(cluster: TopicCluster, notes: SourceNote[] 
 async function tryGenerate(cluster: TopicCluster, notes: SourceNote[]): Promise<GeneratedArticleDraft | undefined> {
   try {
     const text = await generateWithOllama({
-      system: "You are AI Radar's English editor. Write concise, source-grounded editorial analysis. Never invent sources.",
+      system: `You are AI Radar's English editor — writing in-depth analysis for creators and developers.
+RULES:
+- Write 800-1200 words, deep analysis, no fluff.
+- Use data from sourceNotes, never invent sources.
+- Tone: professional, sharp, with clear opinions.
+- Structure: attention-grabbing lede → detailed multi-angle analysis → critical counterpoints → actionable conclusion for creators/builders.
+- Each section minimum 150-200 words.`,
+
       prompt: JSON.stringify({
-        task: "Write an English article draft as JSON with title, subtitle, tldr array, bodyMarkdown, whyItMatters, creatorTakeaway, tags array.",
+        task: `Write an in-depth English analysis article (800-1200 words) as JSON with these fields:
+- title: compelling headline with a unique angle (not generic)
+- subtitle: 1-2 sentence summary of the core insight
+- tldr: array of 3-5 bullet points summarizing key takeaways
+- bodyMarkdown: full markdown with ## sections: Context, Deep Analysis, Critical Perspective, Opportunities for Creators/Builders, Conclusion. Each section minimum 150 words, citing specific evidence from sources.
+- whyItMatters: 3-5 sentences explaining why this signal matters for creators/developers
+- creatorTakeaway: 2-4 specific actions creators/builders should take now
+- tags: array of 3-5 relevant tags`,
         cluster,
         sourceNotes: notes
       })

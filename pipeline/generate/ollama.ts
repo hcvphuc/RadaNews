@@ -62,7 +62,7 @@ async function generateWithChatCompletions(
     model: ollamaModel(),
     messages,
     temperature: 0.45,
-    max_tokens: 3000,
+    max_tokens: 4096,
   };
 
   try {
