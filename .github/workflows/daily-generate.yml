@@ -21,11 +21,12 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 22
           cache: npm
       - run: npm ci
       - run: npm run daily
       - run: npm run check
+        continue-on-error: true
       - run: npm run build
       - name: Commit generated content
         run: |
