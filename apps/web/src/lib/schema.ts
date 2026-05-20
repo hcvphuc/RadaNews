@@ -109,42 +109,20 @@ export type Source = {
   publishedAt?: string;
 };
 
-// ── Article (new structured format) ──
+// ── Article (supports both old flat + new structured format) ──
+// Old format: { tldr, bodyMarkdown, whyItMatters, creatorTakeaway, subtitle, imageUrl }
+// New format: { highlights, sections, insightBlocks, takeaway, heroMedia }
 export type Article = {
   id: string;
   slug: string;
   lang: Lang;
   status: ArticleStatus;
-
-  // Header
   category: Category;
   title: string;
-  subtitle?: string;
   publishedAt: string;
   readingTime: number;
-  sourceCount?: number;
-  author?: string;
   tags: string[];
-
-  // Media
-  heroMedia?: MediaBlock;
-
-  // Highlights (replaces TL;DR)
-  highlights?: HighlightItem[];
-
-  // Main content as structured sections
-  sections: ArticleSection[];
-
-  // Analysis blocks (replaces single whyItMatters)
-  insightBlocks?: InsightBlock[];
-
-  // Takeaway (replaces creatorTakeaway)
-  takeaway?: TakeawayBlock;
-
-  // Sources
   sources: Source[];
-
-  // Generation metadata (unchanged)
   generation: {
     model: string;
     promptVersion: string;
@@ -152,6 +130,23 @@ export type Article = {
     sourceClusterId: string;
     confidence: Confidence;
   };
+
+  // Old flat fields (still used by mock data + search)
+  subtitle?: string;
+  imageUrl?: string;
+  tldr?: string[];
+  bodyMarkdown?: string;
+  whyItMatters?: string;
+  creatorTakeaway?: string;
+
+  // New structured fields
+  heroMedia?: MediaBlock;
+  highlights?: HighlightItem[];
+  sections: ArticleSection[];
+  insightBlocks?: InsightBlock[];
+  takeaway?: TakeawayBlock;
+  sourceCount?: number;
+  author?: string;
 };
 
 // ── Pipeline types (unchanged) ──
