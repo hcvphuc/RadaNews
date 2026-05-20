@@ -21,6 +21,22 @@ const otherLang = article.lang === "vi" ? "en" : "vi";
 const otherVariant = getLanguageVariant(article, otherLang);
 const relatedArticles = getRelatedArticles(article);
 
+// Fallback: old flat format → new structured format
+const highlights = article.highlights?.length
+  ? article.highlights
+  : article.tldr?.map((t) => ({ text: t })) ?? [];
+const sections = article.sections?.length
+  ? article.sections
+  : [{ id: "content", heading: article.title, blocks: [{ type: "paragraph", text: article.bodyMarkdown || "" } as any] }];
+const insightBlocks = article.insightBlocks?.length
+  ? article.insightBlocks
+  : article.whyItMatters
+    ? [{ title: "Vì sao đáng chú ý", text: article.whyItMatters, variant: "analysis" as const }]
+    : [];
+const takeaway = article.takeaway || (article.creatorTakeaway
+  ? { title: "Takeaway", text: article.creatorTakeaway }
+  : undefined);
+
 function bgStyle(src: string | undefined): string {
   return src ? "background-image: url(" + src + ")" : "";
 }
@@ -39,7 +55,7 @@ function bgStyle(src: string | undefined): string {
       <h1>{article.title}</h1>
       {article.subtitle && <p>{article.subtitle}</p>}
 
-      {article.heroMedia && (
+      {article.heroMedia ? (
         <figure class="hero-media" aria-hidden="true">
           <img src={article.heroMedia.src} alt={article.heroMedia.alt} loading="eager" />
           {(article.heroMedia.caption || article.heroMedia.credit) && (
@@ -51,7 +67,11 @@ function bgStyle(src: string | undefined): string {
             </figcaption>
           )}
         </figure>
-      )}
+      ) : article.imageUrl ? (
+        <figure class="hero-media" aria-hidden="true">
+          <img src={article.imageUrl} alt={article.title} loading="eager" />
+        </figure>
+      ) : null}
 
       <div class="article-actions">
         {otherVariant && <a class="btn-secondary" href={articleUrl(otherVariant)}>{otherLang.toUpperCase()} Version</a>}
@@ -66,11 +86,11 @@ function bgStyle(src: string | undefined): string {
       <aside class="toc thin-panel">
         <strong>AI Radar</strong>
         <a href="#highlights">Điểm đáng chú ý</a>
-        {article.sections?.map((section) => (
+        {sections.map((section: any) => (
           <a href={"#" + section.id}>{section.heading}</a>
         ))}
-        {article.insightBlocks && article.insightBlocks.length > 0 && <a href="#insights">Phân tích</a>}
-        {article.takeaway && <a href="#takeaway">{article.takeaway.title || "Takeaway"}</a>}
+        {insightBlocks.length > 0 && <a href="#insights">Phân tích</a>}
+        {takeaway && <a href="#takeaway">{takeaway.title || "Takeaway"}</a>}
         <a href="#sources">Sources</a>
       </aside>
 
@@ -78,14 +98,14 @@ function bgStyle(src: string | undefined): string {
       <div class="article-main">
 
         <!-- ═══ 3. Highlights ═══ -->
-        {article.highlights && article.highlights.length > 0 && (
+        {highlights.length > 0 && (
           <section id="highlights" class="highlights-card panel">
             <div class="highlights-head">
               <h2>Điểm đáng chú ý</h2>
               <Icon name="spark" size={16} />
             </div>
             <ol class="highlights-list">
-              {article.highlights.map((item, idx) => (
+              {highlights.map((item, idx) => (
                 <li>
                   <span class="hl-num">{String(idx + 1).padStart(2, "0")}</span>
                   <span>{item.text}</span>
@@ -96,12 +116,12 @@ function bgStyle(src: string | undefined): string {
         )}
 
         <!-- ═══ 4. Main Content (Sections) ═══ -->
-        {article.sections?.map((section) => (
+        {sections.map((section: any) => (
           <section id={section.id} class="article-section">
             <h3 class="section-heading">{section.heading}</h3>
             {section.subheading && <p class="section-subheading">{section.subheading}</p>}
             <div class="section-body">
-              {section.blocks.map((block) => (
+              {section.blocks.map((block: any) => (
                 <Fragment>
                   {block.type === "paragraph" && block.text && (
                     <p>{block.text}</p>
@@ -148,9 +168,9 @@ function bgStyle(src: string | undefined): string {
         ))}
 
         <!-- ═══ 5. Insight / Analysis Blocks ═══ -->
-        {article.insightBlocks && article.insightBlocks.length > 0 && (
+        {insightBlocks.length > 0 && (
           <section id="insights" class="insights-section">
-            {article.insightBlocks.map((block) => (
+            {insightBlocks.map((block) => (
               <div class={"insight-card panel insight-" + (block.variant || "analysis")}>
                 <div class="insight-head">
                   <h3>{block.title}</h3>
@@ -163,16 +183,16 @@ function bgStyle(src: string | undefined): string {
         )}
 
         <!-- ═══ 6. Takeaway ═══ -->
-        {article.takeaway && (
+        {takeaway && (
           <section id="takeaway" class="takeaway-card panel">
             <div class="takeaway-head">
-              <h2>{article.takeaway.title || "Takeaway"}</h2>
+              <h2>{takeaway.title || "Takeaway"}</h2>
               <Icon name="spark" size={16} />
             </div>
-            {article.takeaway.text && <p>{article.takeaway.text}</p>}
-            {article.takeaway.items && article.takeaway.items.length > 0 && (
+            {takeaway.text && <p>{takeaway.text}</p>}
+            {takeaway.items && takeaway.items.length > 0 && (
               <ul>
-                {article.takeaway.items.map((item) => <li>{item}</li>)}
+                {takeaway.items.map((item) => <li>{item}</li>)}
               </ul>
             )}
           </section>
@@ -207,7 +227,7 @@ function bgStyle(src: string | undefined): string {
           <div class="related-list">
             {relatedArticles.map((related) => (
               <a class="related-item" href={articleUrl(related)}>
-                <div class="related-thumb" style={bgStyle(related.heroMedia?.src)}></div>
+                <div class="related-thumb" style={bgStyle(related.heroMedia?.src || related.imageUrl)}></div>
                 <div class="related-copy">
                   <span class="related-time">{formatDate(related.publishedAt, article.lang)}</span>
                   <strong>{related.title}</strong>
