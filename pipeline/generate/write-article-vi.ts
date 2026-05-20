@@ -52,7 +52,8 @@ QUY TẮC:
       },
       status: "draft"
     };
-  } catch {
+  } catch (err) {
+    console.error("[ollama] generate failed:", err instanceof Error ? err.message : String(err));
     return undefined;
   }
 }
