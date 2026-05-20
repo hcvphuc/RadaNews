@@ -62,7 +62,7 @@ function chunksForArticle(article: Article): ArticleChunk[] {
       ...base,
       chunkId: `${article.id}_tldr`,
       section: "tldr",
-      text: article.tldr.join("\n")
+      text: (article.tldr || []).join("\n")
     },
     {
       ...base,
