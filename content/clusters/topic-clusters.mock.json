@@ -55,6 +55,7 @@
       "src_langchain-blog_40ded3f923e3291d",
       "src_luma-blog_c7449029956c34f9",
       "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_reddit-comfyui_40f726ab7f3ce111",
       "src_lilianweng-blog_31a2c7baf9b791a5",
       "src_reddit-stablediffusion_135723a307ccffa0",
       "src_reddit-aiagents_dec625f3d2e0e2e5",
@@ -65,8 +66,8 @@
       "src_openai-blog_2026-05-20_fallback",
       "src_mcp-blog_2026-05-20_fallback"
     ],
-    "articleWorthinessScore": 0.93,
-    "reasonSelected": "Score 0.93 from 12 source item(s), 10 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Hugging Face Blog.",
+    "articleWorthinessScore": 0.94,
+    "reasonSelected": "Score 0.94 from 13 source item(s), 11 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -77,7 +78,6 @@
     "sourceIds": [
       "src_reddit-stablediffusion_1bf3877c1836569a",
       "src_kling-blog_93b43a5f7aed1c98",
-      "src_reddit-comfyui_fd0db9103adfbe16",
       "src_pika-blog_80e55ecea6acd04d",
       "src_reddit-aivideo_a7a9a72758720ba6",
       "src_reddit-aivideo_5a163fe980d106d8",
@@ -86,8 +86,8 @@
       "src_reddit-aivideo_b565a5af23106c40",
       "src_reddit-aivideo_9a52943a45c1eb3b"
     ],
-    "articleWorthinessScore": 0.88,
-    "reasonSelected": "Score 0.88 from 10 source item(s), 10 live crawl(s), strongest sources: r/StableDiffusion, Kling AI Blog, r/comfyui.",
+    "articleWorthinessScore": 0.87,
+    "reasonSelected": "Score 0.87 from 9 source item(s), 9 live crawl(s), strongest sources: r/StableDiffusion, Kling AI Blog, Pika Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },

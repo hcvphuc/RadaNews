@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-20T06:03:33.120Z",
+    "publishedAt": "2026-05-20T07:10:39.421Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-20T06:03:32.380Z",
+    "publishedAt": "2026-05-20T07:10:43.302Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T06:03:32.272Z",
+    "publishedAt": "2026-05-20T07:10:38.749Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T06:03:32.584Z",
+    "publishedAt": "2026-05-20T07:10:40.195Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-20T06:03:32.509Z",
+    "publishedAt": "2026-05-20T07:10:38.863Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-20T06:03:33.243Z",
+    "publishedAt": "2026-05-20T07:10:39.547Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-20T06:03:32.512Z",
+    "publishedAt": "2026-05-20T07:10:38.941Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -519,6 +519,33 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-comfyui_23f5c726036a9c42",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tic05s/how_to_change_camera_angle_while_preserving/",
+    "title": "How to change camera angle while preserving everything else in FLUX 2 Klein? (img2img)",
+    "publishedAt": "2026-05-20T05:22:54.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "submitted by /u/PleasantSale7579 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/PleasantSale7579 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tic05s/how_to_change_camera_angle_while_preserving/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-comfyui_ddde2dc70fd315db",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
@@ -579,54 +606,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_23f5c726036a9c42",
+    "sourceId": "src_reddit-comfyui_40f726ab7f3ce111",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tic05s/how_to_change_camera_angle_while_preserving/",
-    "title": "How to change camera angle while preserving everything else in FLUX 2 Klein? (img2img)",
-    "publishedAt": "2026-05-20T05:22:54.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tict5l/how_do_i_create_a_85_to_95_lora_of_a_complex/",
+    "title": "How do i create a 85% to 95% LoRA of a complex character?",
+    "publishedAt": "2026-05-20T06:05:36.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "submitted by /u/PleasantSale7579 [link] [comments]"
+      "Character (synthetic IG persona, fully-locked identity): ~20yo athletic white European woman, platinum-blonde hair with mint-green tips 2 facial piercings (vertical L-brow barbell + horizontal bridge barbell) Blackwork tattoos: tree-branch on neck/chest + cracked-pattern full sleeves both arms 5 silver rings (consistent count), matte-black nails Edgy / punk / skate vibe Setup that i'm using at the moment: Qwen-Image (20B) via ai-toolkit (Ostris), uint3 quantized + accuracy-recovery adapter, on a 24GB 3090 87 training images, all generated via ChatGPT Images 2 for cross-image consistency (no real photos exist): 74 bare-arm (tattoos + rings visible) 13 covered-outfit (jackets / sleeves / gloves) with num_repeats: 2 → ~26% effective, to teach conditional coverage so prompting \"wearing a leather jacket\" actually hides the tattoos Captions: JoyCaption Beta One → manual cleaning → 2 multi-agent verification rounds (38 corrections total) Caption strategy: omit invariant identity features (hair color, piercings, eye color) so they bind to the trigger word; caption everything that varies (pose, framing, hair state, coverage status, rings-visible vs no-rings, gloves vs no-gloves) Hyperparams: rank 32 / alpha 16, LR 1e-4, 3000 steps, adamw8bit, flowmatch, multi-res [512, 768, 1024], grad checkpointing, no TE training, caption dropout 0.05 Mid-training (step 1750 / 3000) results: ✅ Tattoos lock fast and consistently across all prompts ✅ Trigger binding clean: prompts without the trigger generate a random woman, not her ⚠️ Face identity inconsistent — best when the prompt has contextual anchors (jacket + backwards cap); drifts on plain \"tank top + grey studio\" ❌ Piercings often missing or distorted (the main worry) ⚠️ Mild hair-color leak to non-trigger prompts (cosmetic only — face does NOT leak) Questions: Is \"leave invariant fine details uncaptioned\" actually the wrong call for piercings?",
+      "Should I caption them explicitly even if it costs the auto-trigger-binding?",
+      "Is uint3 quantization the bottleneck on fine details like piercings?",
+      "Worth retraining at fp8 with CPU offload despite the speed hit?"
     ],
     "claims": [
       {
-        "text": "submitted by /u/PleasantSale7579 [link] [comments]",
+        "text": "Character (synthetic IG persona, fully-locked identity): ~20yo athletic white European woman, platinum-blonde hair with mint-green tips 2 facial piercings (vertical L-brow barbell + horizontal bridge barbell) Blackwork tattoos: tree-branch on neck/chest + cracked-pattern full sleeves both arms 5 silver rings (consistent count), matte-black nails Edgy / punk / skate vibe Setup that i'm using at the moment: Qwen-Image (20B) via ai-toolkit (Ostris), uint3 quantized + accuracy-recovery adapter, on a 24GB 3090 87 training images, all generated via ChatGPT Images 2 for cross-image consistency (no real photos exist): 74 bare-arm (tattoos + rings visible) 13 covered-outfit (jackets / sleeves / gloves) with num_repeats: 2 → ~26% effective, to teach conditional coverage so prompting \"wearing a leather jacket\" actually hides the tattoos Captions: JoyCaption Beta One → manual cleaning → 2 multi-agent verification rounds (38 corrections total) Caption strategy: omit invariant identity features (hair color, piercings, eye color) so they bind to the trigger word; caption everything that varies (pose, framing, hair state, coverage status, rings-visible vs no-rings, gloves vs no-gloves) Hyperparams: rank 32 / alpha 16, LR 1e-4, 3000 steps, adamw8bit, flowmatch, multi-res [512, 768, 1024], grad checkpointing, no TE training, caption dropout 0.05 Mid-training (step 1750 / 3000) results: ✅ Tattoos lock fast and consistently across all prompts ✅ Trigger binding clean: prompts without the trigger generate a random woman, not her ⚠️ Face identity inconsistent — best when the prompt has contextual anchors (jacket + backwards cap); drifts on plain \"tank top + grey studio\" ❌ Piercings often missing or distorted (the main worry) ⚠️ Mild hair-color leak to non-trigger prompts (cosmetic only — face does NOT leak) Questions: Is \"leave invariant fine details uncaptioned\" actually the wrong call for piercings? Should I caption them explicitly even if it costs the auto-trigger-binding? Is uint3 quantization the bottleneck on fine details like piercings? Worth retraining at fp8 with CPU offload despite the speed hit? Is 87 images the floor for a character this feature-loaded — do you really need 150+? Higher rank (64+) for fine-detail capture, or does that just overfit at this dataset size? Hard-coupled features (tattoos + rings + piercings always present together) — is one LoRA correct, or would stacked / decomposed LoRAs work better here? Better captioner than JoyCaption Beta One for this kind of fine detail? Anything obvious I'm doing wrong? Thanks in advance guys :) (all images that im uploading are consistent and come from gpt images 2) https://preview.redd.it/697181dvg82h1.png?width=1122&format=png&auto=webp&s=d73c3932b0eebf5f23d0bf8dfcc680479d68de45 https://preview.redd.it/bsdie1dvg82h1.png?width=1122&format=png&auto=webp&s=d626161840fd609b21230d1ada8f08d805c282e6 https://preview.redd.it/lfpxv1dvg82h1.png?width=1122&format=png&auto=webp&s=e3f0419c44b62dd75bc4007dda29b80ad6b5191d https://preview.redd.it/jc4n22dvg82h1.png?width=1122&format=png&auto=webp&s=6853cceab81ac87e1c551d9206fd6deca09a3867 https://preview.redd.it/udseq1dvg82h1.png?width=1122&format=png&auto=webp&s=fdc5b1d1275b4d96067319d2f2e307efd7d13ad9 https://preview.redd.it/mlfsy1dvg82h1.png?width=1122&format=png&auto=webp&s=a08fea65f336f942390a5b2246828b6f4a6193dc https://preview.redd.it/moe5q2dvg82h1.png?width=1122&format=png&auto=webp&s=878b364380ce19f68978c2c33055ec9863d87aa1 submitted by /u/ren_cross [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tic05s/how_to_change_camera_angle_while_preserving/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_fd0db9103adfbe16",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tib5tu/5minhowto_vibevoice_audacity_for_dialogue_tasks/",
-    "title": "5-Min-How-To: VibeVoice & Audacity For Dialogue Tasks",
-    "publishedAt": "2026-05-20T04:40:05.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "The main thing here a few people don't know about is how to solve the issue with audio not driving mouth movement in LTX when its an audio file driving the lipsync but only a few words get spoken.",
-      "The trick is to add ambient sound in at low level (-40 LUFS) instead of absolute silence.",
-      "LTX 2 didnt have the problem, LTX 2.3 has it.",
-      "The second half of the video has the way I fix it with Audacity."
-    ],
-    "claims": [
-      {
-        "text": "The main thing here a few people don't know about is how to solve the issue with audio not driving mouth movement in LTX when its an audio file driving the lipsync but only a few words get spoken. The trick is to add ambient sound in at low level (-40 LUFS) instead of absolute silence. LTX 2 didnt have the problem, LTX 2.3 has it. The second half of the video has the way I fix it with Audacity. The first half is about using VibeVoice and Audacity to manage the audio. submitted by /u/Support_Marmoset [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tib5tu/5minhowto_vibevoice_audacity_for_dialogue_tasks/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tict5l/how_do_i_create_a_85_to_95_lora_of_a_complex/"
       }
     ],
     "usableFor": [
@@ -641,7 +641,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-20T06:03:32.411Z",
+    "publishedAt": "2026-05-20T07:10:38.974Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -670,7 +670,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-20T06:03:32.716Z",
+    "publishedAt": "2026-05-20T07:10:39.283Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -699,7 +699,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-20T06:03:34.115Z",
+    "publishedAt": "2026-05-20T07:10:40.354Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -867,7 +867,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-20T06:03:33.075Z",
+    "publishedAt": "2026-05-20T07:10:39.394Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -896,7 +896,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-20T06:03:32.583Z",
+    "publishedAt": "2026-05-20T07:10:39.029Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -925,7 +925,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-20T06:03:32.625Z",
+    "publishedAt": "2026-05-20T07:10:39.123Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -952,7 +952,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-20T06:03:32.745Z",
+    "publishedAt": "2026-05-20T07:10:39.186Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -981,7 +981,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-20T06:03:32.751Z",
+    "publishedAt": "2026-05-20T07:10:39.169Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1153,7 +1153,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-20T06:03:34.583Z",
+    "publishedAt": "2026-05-20T07:10:40.665Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1322,7 +1322,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-20T06:03:32.840Z",
+    "publishedAt": "2026-05-20T07:10:39.269Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1330,10 +1330,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 Software Forgets: Agent Traces Are the Memory huggingface • about 8 hours ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Metric and Relative Monocular Depth Estimation: An Overview.",
-      "Fine-Tuning Depth Anything V2 👐 📚 Isayoften • Jul 10, 2024 • 96 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 OlmoEarth v1.1: A more efficient family of models 5 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 24 May 19, 2026 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation 9 May 18, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 27 May 18, 2026 The Open Agent Leaderboard 7 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 47 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 72 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 9 April 27, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Software Forgets: Agent Traces Are the Memory huggingface • about 10 hours ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Metric and Relative Monocular Depth Estimation: An Overview.",
+      "Fine-Tuning Depth Anything V2 👐 📚 Isayoften • Jul 10, 2024 • 96 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 OlmoEarth v1.1: A more efficient family of models 6 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 26 May 19, 2026 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation 9 May 18, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 27 May 18, 2026 The Open Agent Leaderboard 7 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 48 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 72 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 9 April 27, 2026 Previous 1 2 3 ...",
       "56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 Software Forgets: Agent Traces Are the Memory huggingface • about 8 hours ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Metric and Relative Monocular Depth Estimation: An Overview."
+      "Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Software Forgets: Agent Traces Are the Memory huggingface • about 10 hours ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 121 Metric and Relative Monocular Depth Estimation: An Overview."
     ],
     "claims": [
       {
@@ -1504,7 +1504,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-20T06:03:32.939Z",
+    "publishedAt": "2026-05-20T07:10:39.298Z",
     "categoryHints": [
       "ai-agentic"
     ],
