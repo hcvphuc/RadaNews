@@ -103,7 +103,7 @@ export function articleText(article: Article) {
   return [
     article.title,
     article.subtitle,
-    article.tldr.join("\n"),
+    article.tldr?.join("\n"),
     article.bodyMarkdown,
     article.whyItMatters,
     article.creatorTakeaway

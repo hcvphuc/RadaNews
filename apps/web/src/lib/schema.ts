@@ -101,12 +101,17 @@ export type TakeawayBlock = {
   items?: string[];
 };
 
-// ── Source ──
+// ── Source (supports both old + new format) ──
 export type Source = {
   title: string;
-  publisher?: string;
   url: string;
+  // New format
+  publisher?: string;
   publishedAt?: string;
+  // Old format (mock data + sync-articles)
+  sourceName?: string;
+  sourceType?: string;
+  usedFor?: string;
 };
 
 // ── Article (supports both old flat + new structured format) ──
