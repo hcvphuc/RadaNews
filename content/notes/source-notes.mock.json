@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-20T14:07:26.413Z",
+    "publishedAt": "2026-05-20T14:12:55.154Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-20T14:07:25.354Z",
+    "publishedAt": "2026-05-20T14:12:54.723Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T14:07:24.970Z",
+    "publishedAt": "2026-05-20T14:12:54.501Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T14:07:25.737Z",
+    "publishedAt": "2026-05-20T14:12:55.117Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -123,10 +123,9 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Post: Weekly thread to show off your AI Agents and LLM Apps!",
-      "Top voted projects will be featured in our weekly [newsletter](http://ai-agents-weekly.beehiiv.com).",
-      "Top comments:\ni'm building the first agentic marketplace with automated clearinghouse: [https://github.com/meajsinghk/agnt](https://github.com/meajsinghk/agnt) see the demo on my X launch: [https://x.com/aj\\_singhjohal/status/2054546658386669861?s=20](https://x.com/aj_singhjohal/status/2054546658386669861?s=20) w\n\nBuilt a small open-source agent skill from SUN called `sun-to-spotify`.",
-      "It turns any topic or prompt into a ready-to-listen audio course, so notes, research, Slack updates, study material, product docs, or random rabbit holes can become something you can listen to on a walk/commute."
+      "Weekly thread to show off your AI Agents and LLM Apps!",
+      "Top voted projects will be featured in our weekly newsletter .",
+      "submitted by /u/help-me-grow [link] [comments]"
     ],
     "claims": [
       {
@@ -152,9 +151,6 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Visa Sponsorship or Not\n\nTop comments:\nThank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki) *I am a bot, and this action was performed automatically.",
-      "Please [contact the moderators of this subr\n\nweekly hiring threads are honestly becoming one of the best signals for where the market is actually moving because companies hire for what hurts operationally right now not what sounds trendy on twitter.",
-      "seeing more agent workflow orchestration automation and infra roles lately says a lot about whe\n\nSummary: If you're hiring use this thread.",
       "Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
     ],
     "claims": [
@@ -181,7 +177,7 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Post: For example, probably the wildest one I’ve read was a med spa that built an AI receptionist using Vapi.",
+      "For example, probably the wildest one I’ve read was a med spa that built an AI receptionist using Vapi.",
       "The agent answers every inbound call, speaks naturally, asks qualification questions, checks live availability in Google Calendar, books appointments, sends SMS confirmations, and even handles reschedules.",
       "Apparently the humans only jump in if someone gets angry or starts asking medical questions.",
       "The crazy part is they said patients often don’t realize they’re talking to AI because the voice latency is low enough that it feels like an actual receptionist."
@@ -210,7 +206,7 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Post: Every week I see people saying autonomous agents are about to replace entire teams, but my experience using them has been way less dramatic.",
+      "Every week I see people saying autonomous agents are about to replace entire teams, but my experience using them has been way less dramatic.",
       "I can automate reporting, build internal workflows, connect tools together, scrape information, generate responses, and save hours of repetitive work faster than ever before.",
       "But the second a workflow becomes unpredictable, things start falling apart.",
       "Suddenly the automation either loops forever or confidently says the task is complete when it clearly isn’t."
@@ -226,7 +222,7 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_reddit-aiagents_bde5886593514258",
@@ -239,7 +235,7 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Post: Hey all, I’m pretty new to this space, not technical.",
+      "Hey all, I’m pretty new to this space, not technical.",
       "I’ve tried to use AI this year to get more stuff done and have more time for myself.",
       "Would like to hear how more experienced people here set up AI in real work and daily life.",
       "For context if it may help, I manage multiple tasks from many projects, has kids and ADD."
@@ -263,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-20T14:07:25.650Z",
+    "publishedAt": "2026-05-20T14:12:54.703Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -289,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-20T14:07:26.567Z",
+    "publishedAt": "2026-05-20T14:12:55.368Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -318,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-20T14:07:26.523Z",
+    "publishedAt": "2026-05-20T14:12:54.707Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -355,10 +351,9 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: I came across Okitatsuki's work and absolutely love this style, but I have no idea how to achieve it.",
+      "I came across Okitatsuki's work and absolutely love this style, but I have no idea how to achieve it.",
       "I’ve been trying with SDXL-based checkpoints and the ANIMA model myself, but haven't had any luck.",
-      "Top comments:\nProbably PVC figure or something like that\n\nI think it's MiaoMiao RealSkin.",
-      "it's probably a lora they've made themself\n\nSummary: I came across Okitatsuki's work and absolutely love this style, but I have no idea how to achieve it."
+      "submitted by /u/Ok_Post9377 [link] [comments]"
     ],
     "claims": [
       {
@@ -385,7 +380,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: I put together a ComfyUI custom node for [SPEED ](https://howardxiao.ca/speed/)(Spectral Progressive Diffusion) and pushed it here: [ComfyUI-SPEED](https://github.com/ruwwww/ComfyUI-SPEED).",
+      "I put together a ComfyUI custom node for SPEED (Spectral Progressive Diffusion) and pushed it here: ComfyUI-SPEED .",
       "SPEED is short for Spectral Progressive Diffusion.",
       "The basic idea is that diffusion models don’t need to do full high-res work right away, so SPEED starts smaller and gradually increases resolution as the image forms.",
       "That cuts down wasted compute early in the denoising process, which can make generation faster while still keeping detail later on."
@@ -415,10 +410,9 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: [https://huggingface.co/Kijai/LTX2.3\\_comfy/blob/main/loras/LTX-2.3-OmniNFT-RL-Lora\\_bf16.safetensors](https://huggingface.co/Kijai/LTX2.3_comfy/blob/main/loras/LTX-2.3-OmniNFT-RL-Lora_bf16.safetensors) [https://zghhui.github.io/OmniNFT/](https://zghhui.github.io/OmniNFT/) BTW, talking about quality I HIGHLY recommend using the LTX Tiled Sampler for your 2nd sampler after the upscaler.",
+      "https://huggingface.co/Kijai/LTX2.3_comfy/blob/main/loras/LTX-2.3-OmniNFT-RL-Lora_bf16.safetensors https://zghhui.github.io/OmniNFT/ BTW, talking about quality I HIGHLY recommend using the LTX Tiled Sampler for your 2nd sampler after the upscaler.",
       "It massively improves results and really should be native.",
-      "[https://github.com/TenStrip/10S-Comfy-nodes](https://github.com/TenStrip/10S-Comfy-nodes)\n\nTop comments:\nHow about the most important aspect?",
-      "https://i.redd.it/q0qnae9uf62h1.gif It also seems to help with motion in general."
+      "https://github.com/TenStrip/10S-Comfy-nodes submitted by /u/Different_Fix_2217 [link] [comments]"
     ],
     "claims": [
       {
@@ -445,7 +439,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: Official Link : [Nvidia docs](https://docs.nvidia.com/maxine/vfx/latest/Filters/VideoSuperResolution.html) NVIDIA RTX 2-Pass Upscaler (4GB VRAM + 8GB RAM) Post: Hi everyone!",
+      "Official Link : Nvidia docs NVIDIA RTX 2-Pass Upscaler (4GB VRAM + 8GB RAM) Post: Hi everyone!",
       "Recently, while working on AI videos with the LTX2.3 model, I started thinking a lot about upscaling efficiency, so I made my own RTX Upscale node for ComfyUI.",
       "In the existing ComfyUI setup, most workflows mainly used Video Super Resolution (VSR), but NVIDIA RTX upscaling actually has four different options.",
       "I implemented all four of them in this node."
@@ -475,7 +469,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.",
+      "I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential.",
       "Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.",
       "But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.",
       "For this test, I used three source images of the same character with the same outfit/background, but different poses and camera angles."
@@ -491,7 +485,7 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_reddit-comfyui_0e8e2a585e4cb99b",
@@ -505,10 +499,10 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: This is a prompt for creating storyboards.",
+      "This is a prompt for creating storyboards.",
       "If anyone is interested, I will open-source this agent.",
-      "The prompt is: Using the person in the image as the main subject, keeping their facial features unchanged, generate an image based on the following: \\*\\*PROJECT FILE: HIGH-ALTITUDE ASCENT // PREMIUM HARDSHELL CAMPAIGN\\*\\* \\*\\*FORMAT: ARRIRAW 4.5K / KODAK VISION3 50D 5203 EMULATION\\*\\* \\*\\*DIRECTOR'S PRE-PRODUCTION VISUAL BOARD\\*\\* \\--- \\### Top Left Area | Character Lock Zone \\*\\*\\[SUBJECT\\]\\*\\* 35-year-old male mountain guide/extreme climber.",
-      "\\*\\*\\[WARDROBE\\]\\*\\* Top-of-the-line professional jacket (matte rock grey with minimal dark orange taped details), heavy-duty climbing harness."
+      "The prompt is: Using the person in the image as the main subject, keeping their facial features unchanged, generate an image based on the following: **PROJECT FILE: HIGH-ALTITUDE ASCENT // PREMIUM HARDSHELL CAMPAIGN** **FORMAT: ARRIRAW 4.5K / KODAK VISION3 50D 5203 EMULATION** **DIRECTOR'S PRE-PRODUCTION VISUAL BOARD** --- ### Top Left Area | Character Lock Zone **[SUBJECT]** 35-year-old male mountain guide/extreme climber.",
+      "**[WARDROBE]** Top-of-the-line professional jacket (matte rock grey with minimal dark orange taped details), heavy-duty climbing harness."
     ],
     "claims": [
       {
@@ -535,10 +529,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Top comments:\nSorry to say, as someone who spends many hours a day changing camera angles for continuous cinematic AI scenes, Klein is not very good at this.",
-      "It will with great ease change the rotation of a character and keep them consistent, but not so with the environment the character is in at the same time.",
-      "Y\n\nHey everyone, I'm using FLUX 2 Klein and trying to change the camera angle of an existing photo — specifically, I want a slightly lower angle, looking up at the subject — while preserving everything else (subject, pose, expression, background, lighting, etc.).",
-      "Has anyone figured out how to do this r\n\nQwen edit with the multi angle Lora does this very well."
+      "submitted by /u/PleasantSale7579 [link] [comments]"
     ],
     "claims": [
       {
@@ -565,9 +556,9 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: I've been building a still plate workflow for filmmaking-focused pipeline around Juggernaut Z (ZIB) and wanted to share it with the community.",
+      "I've been building a still plate workflow for filmmaking-focused pipeline around Juggernaut Z (ZIB) and wanted to share it with the community.",
       "If it saves you time and you feel like buying me a coffee, my CashApp is: $miguivaotero.......but genuinely no pressure, no strings attached, because I believe in free collaboration for open source models.",
-      "{{{{{DOWNLOAD LINK}}}}} [https://drive.google.com/file/d/1Z2m6PVaWObNHl44SlcKTlkrdnnrzUXGr/view?usp=drive\\_link](https://drive.google.com/file/d/1Z2m6PVaWObNHl44SlcKTlkrdnnrzUXGr/view?usp=drive_link) {{{{{DOWNLOAD LINK}}}}} \\*\\* PLUG AND PLAY \\*\\* (ready for generating) Description: **What's in the workflow:** * Juggernaut Z as primary model with full LoRA support * Two-pass sampler pipeline for texture refinement * SeedLogger (Inspire Pack) for seed tracking and repeatability across scenes, essential for multi-shot narrative consistency * Use Everywhere nodes for clean global routing meaning NO SPAGGHETTI * Full cinematic aspect ratio library baked in as selectable groups: 4:3, 3:2, 16:9, 5:4, Academy Flat, Flat 1.85, Scope 2.39, Cinemascope, Panavision 70, IMAX * Global VAE routing * Clean output naming **Why Juggernaut Z over SDXL or Turbo:** Prompt precision and character repeatability across scenes matters more for filmmaking than raw texture scores.",
+      "{{{{{DOWNLOAD LINK}}}}} https://drive.google.com/file/d/1Z2m6PVaWObNHl44SlcKTlkrdnnrzUXGr/view?usp=drive_link {{{{{DOWNLOAD LINK}}}}} ** PLUG AND PLAY ** (ready for generating) Description: What's in the workflow: Juggernaut Z as primary model with full LoRA support Two-pass sampler pipeline for texture refinement SeedLogger (Inspire Pack) for seed tracking and repeatability across scenes, essential for multi-shot narrative consistency Use Everywhere nodes for clean global routing meaning NO SPAGGHETTI Full cinematic aspect ratio library baked in as selectable groups: 4:3, 3:2, 16:9, 5:4, Academy Flat, Flat 1.85, Scope 2.39, Cinemascope, Panavision 70, IMAX Global VAE routing Clean output naming Why Juggernaut Z over SDXL or Turbo: Prompt precision and character repeatability across scenes matters more for filmmaking than raw texture scores.",
       "Z-Image's natural language S3-DiT architecture gives you semantic control that tag-based SDXL prompting simply doesn't."
     ],
     "claims": [
@@ -581,7 +572,7 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_reddit-comfyui_1809675118e52a90",
@@ -595,10 +586,9 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: I've tried following a guide made by Chatgpt.",
+      "I've tried following a guide made by Chatgpt.",
       "This are my errors: ComfyUI-nunchaku version: 1.2.1 Could not parse nunchaku version: Package 'nunchaku' not found..",
-      "Node \\`NunchakuFluxDiTLoader\\` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/\\_\\_init\\_\\_.py\", line 82, in from .nodes.models.flux import NunchakuFluxDiTLoader File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/nodes/models/flux.py\", line 16, in from nunchaku import NunchakuFluxTransformer2dModel ModuleNotFoundError: No module named 'nunchaku' Node \\`NunchakuQwenImageDiTLoader\\` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/\\_\\_init\\_\\_.py\", line 89, in from .nodes.models.qwenimage import NunchakuQwenImageDiTLoader File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/nodes/models/qwenimage.py\", line 13, in from nunchaku.utils import check\\_hardware\\_compatibility, get\\_gpu\\_memory, get\\_precision\\_from\\_quantization\\_config ModuleNotFoundError: No module named 'nunchaku' Nodes \\`NunchakuFluxLoraLoader\\` and \\`NunchakuFluxLoraStack\\` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/\\_\\_init\\_\\_.py\", line 96, in from .nodes.lora.flux import NunchakuFluxLoraLoader, NunchakuFluxLoraStack File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/nodes/lora/flux.py\", line 9, in from nunchaku.lora.flux import to\\_diffusers ModuleNotFoundError: No module named 'nunchaku' Nodes \\`NunchakuTextEncoderLoader\\` and \\`NunchakuTextEncoderLoaderV2\\` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/\\_\\_init\\_\\_.py\", line 104, in from .nodes.models.text\\_encoder import NunchakuTextEncoderLoader, NunchakuTextEncoderLoaderV2 File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/nodes/models/text\\_encoder.py\", line 18, in from nunchaku import NunchakuT5EncoderModel ModuleNotFoundError: No module named 'nunchaku' Nodes \\`NunchakuPulidApply\\`,\\`NunchakuPulidLoader\\`, \\`NunchakuPuLIDLoaderV2\\` and \\`NunchakuFluxPuLIDApplyV2\\` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/\\_\\_init\\_\\_.py\", line 119, in from .nodes.models.pulid import ( File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/nodes/models/pulid.py\", line 19, in from nunchaku.models.pulid.pulid\\_forward import pulid\\_forward ModuleNotFoundError: No module named 'nunchaku' \\[ComfyUI-Manager\\] default cache updated: [https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json](https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json) Nodes \\`NunchakuFluxIPAdapterApply\\` and \\`NunchakuIPAdapterLoader\\` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/\\_\\_init\\_\\_.py\", line 136, in from .nodes.models.ipadapter import NunchakuFluxIPAdapterApply, NunchakuIPAdapterLoader File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/nodes/models/ipadapter.py\", line 14, in from nunchaku.models.ip\\_adapter.diffusers\\_adapters import apply\\_IPA\\_on\\_pipe ModuleNotFoundError: No module named 'nunchaku' Nodes \\`NunchakuZImageDiTLoader\\` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/\\_\\_init\\_\\_.py\", line 144, in from .nodes.models.zimage import NunchakuZImageDiTLoader File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/nodes/models/zimage.py\", line 12, in from nunchaku.models.transformers.utils import convert\\_fp16, patch\\_scale\\_key ModuleNotFoundError: No module named 'nunchaku' Node \\`NunchakuModelMerger\\` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom\\_nodes/ComfyUI-nunchaku/\\_\\_ini\n\nTop comments:\nAfter installing the node, you need to install nunchaku as version depends on your python and pytorch so it is not included in requirements.txt https://nunchaku.tech/docs/ComfyUI-nunchaku/get_started/installation.html#step-2-install-the-nunchaku-backend https://nunchaku.tech/docs/nunchaku/installati\n\nSummary: I've tried following a guide made by Chatgpt.",
-      "This are my errors: ComfyUI-nunchaku version: 1.2.1 Could not parse nunchaku version: Package 'nunchaku' not found.."
+      "Node `NunchakuFluxDiTLoader` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/__init__.py\", line 82, in from .nodes.models.flux import NunchakuFluxDiTLoader File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/nodes/models/flux.py\", line 16, in from nunchaku import NunchakuFluxTransformer2dModel ModuleNotFoundError: No module named 'nunchaku' Node `NunchakuQwenImageDiTLoader` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/__init__.py\", line 89, in from .nodes.models.qwenimage import NunchakuQwenImageDiTLoader File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/nodes/models/qwenimage.py\", line 13, in from nunchaku.utils import check_hardware_compatibility, get_gpu_memory, get_precision_from_quantization_config ModuleNotFoundError: No module named 'nunchaku' Nodes `NunchakuFluxLoraLoader` and `NunchakuFluxLoraStack` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/__init__.py\", line 96, in from .nodes.lora.flux import NunchakuFluxLoraLoader, NunchakuFluxLoraStack File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/nodes/lora/flux.py\", line 9, in from nunchaku.lora.flux import to_diffusers ModuleNotFoundError: No module named 'nunchaku' Nodes `NunchakuTextEncoderLoader` and `NunchakuTextEncoderLoaderV2` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/__init__.py\", line 104, in from .nodes.models.text_encoder import NunchakuTextEncoderLoader, NunchakuTextEncoderLoaderV2 File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/nodes/models/text_encoder.py\", line 18, in from nunchaku import NunchakuT5EncoderModel ModuleNotFoundError: No module named 'nunchaku' Nodes `NunchakuPulidApply`,`NunchakuPulidLoader`, `NunchakuPuLIDLoaderV2` and `NunchakuFluxPuLIDApplyV2` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/__init__.py\", line 119, in from .nodes.models.pulid import ( File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/nodes/models/pulid.py\", line 19, in from nunchaku.models.pulid.pulid_forward import pulid_forward ModuleNotFoundError: No module named 'nunchaku' [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json Nodes `NunchakuFluxIPAdapterApply` and `NunchakuIPAdapterLoader` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/__init__.py\", line 136, in from .nodes.models.ipadapter import NunchakuFluxIPAdapterApply, NunchakuIPAdapterLoader File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/nodes/models/ipadapter.py\", line 14, in from nunchaku.models.ip_adapter.diffusers_adapters import apply_IPA_on_pipe ModuleNotFoundError: No module named 'nunchaku' Nodes `NunchakuZImageDiTLoader` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/__init__.py\", line 144, in from .nodes.models.zimage import NunchakuZImageDiTLoader File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/nodes/models/zimage.py\", line 12, in from nunchaku.models.transformers.utils import convert_fp16, patch_scale_key ModuleNotFoundError: No module named 'nunchaku' Node `NunchakuModelMerger` import failed: Traceback (most recent call last): File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/__init__.py\", line 151, in from .nodes.tools.merge_safetensors import NunchakuModelMerger File \"/home/kris/ComfyUI/ComfyUI/custom_nodes/ComfyUI-nunchaku/nodes/tools/merge_safetensors.py\", line 10, in from nunchaku.merge_safetensors import merge_safetensors submitted by /u/Far-Mode6546 [link] [comments]"
     ],
     "claims": [
       {
@@ -625,7 +615,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: I've worked (I was going to say hard, but it was mostly time) on making the stock Flux.2 workflow better optimized for my RTX 3080 12GB GPU.",
+      "I've worked (I was going to say hard, but it was mostly time) on making the stock Flux.2 workflow better optimized for my RTX 3080 12GB GPU.",
       "This setup uses 2x Ollama runs to optimize the prompt generation, and a different Flux.2 Klein model in a GGUF format.",
       "Running 1 pass like this takes about 1 1/2 minutes for the prompt execution plus the image generation.",
       "It's about 1 minute for just the image gen, if you get a prompt you like and just re-use that."
@@ -649,7 +639,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-20T14:07:25.246Z",
+    "publishedAt": "2026-05-20T14:12:54.780Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -678,7 +668,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-20T14:07:25.951Z",
+    "publishedAt": "2026-05-20T14:12:54.924Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -707,7 +697,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-20T14:07:26.417Z",
+    "publishedAt": "2026-05-20T14:12:56.424Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -742,8 +732,7 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "Post: This post contains content not supported on old Reddit.",
-      "[Click here to view the full post](https://sh.reddit.com/r/aivideo/comments/1tbrjwg)\n\nSummary: This post contains content not supported on old Reddit.",
+      "This post contains content not supported on old Reddit.",
       "Click here to view the full post submitted by /u/browsecarousel [link] [comments]"
     ],
     "claims": [
@@ -771,10 +760,10 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "# UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS **COMING TO** [r/aivideo](r/aivideo) **LIVE FROM LAS VEGAS, NEVADA** **AIRING EXCLUSIVELY HERE ON** [r/aivideo](r/aivideo) **REDDIT** **AN ORIGINAL** [r/aivideo](r/aivideo) **PRODUCTION** .",
-      "**WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET** **AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
+      "UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION .",
+      "WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
       "REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY.",
-      "ALL VIDEOS SUBMITTED TO** [r/aivideo](r/aivideo) **ARE AUTOMATICALLY ENTERED IN THE RACE** **THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY** **AI VIDEO AWARDS IS AN ORIGINAL** [r/aivideo](r/aivideo) **PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI** # WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE # https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
+      "ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
     ],
     "claims": [
       {
@@ -801,10 +790,7 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "We really are like, 2 years away from feature length AI films that are better than the films currently coming out?",
-      "Wild to think what we will see over the next few years, as just watching this and other trailers and its been surprising to me how engaging AI movies can actually be.",
-      "Where I can a\n\nBTW - The Horse was a boat, a boat full of provision.",
-      "The name of boat during bronze age was something like \"sea-horse\"\n\nOh, they have proper realistic armor of that time(almost), nice!"
+      "submitted by /u/Exciting-Ladder-30 [link] [comments]"
     ],
     "claims": [
       {
@@ -831,7 +817,7 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "Nooooooooo\n\nSummary: submitted by /u/MisterFluffyAI [link] [comments]"
+      "submitted by /u/MisterFluffyAI [link] [comments]"
     ],
     "claims": [
       {
@@ -858,10 +844,7 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "Top comments:\nPut this together using Nano Banana Pro and Kling 3.0.",
-      "Had to do a little research for this video, according to Star Wars canon, a wookiee's skin color is most often dark gray.",
-      "Made for my youtube channel: [https://www.youtube.com/@latenttelevision](https://www.youtube.com/@latenttelevision)\n\nYou didn't have to do this.",
-      "That was great\n\nSummary: submitted by /u/ShaneKaiGlenn [link] [comments]"
+      "submitted by /u/ShaneKaiGlenn [link] [comments]"
     ],
     "claims": [
       {
@@ -882,7 +865,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-20T14:07:25.775Z",
+    "publishedAt": "2026-05-20T14:12:55.192Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -911,7 +894,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-20T14:07:25.509Z",
+    "publishedAt": "2026-05-20T14:12:54.797Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -940,7 +923,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-20T14:07:26.206Z",
+    "publishedAt": "2026-05-20T14:12:54.835Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -967,7 +950,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-20T14:07:25.792Z",
+    "publishedAt": "2026-05-20T14:12:54.986Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -996,7 +979,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-20T14:07:25.874Z",
+    "publishedAt": "2026-05-20T14:12:54.960Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1032,10 +1015,10 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Post: Thanks for testing our V8.0 model over the last month!",
-      "Today we're releasing our next version of V8 - V8.1 **What’s new in V8.1?** * **V8.1 has a consistent and familiar aesthetic in the spirit of V7**.",
-      "Moodboards and srefs are now super stable and will be everything you love.",
-      "* **HD mode is now 3x faster and 3x cheaper**."
+      "Thanks for testing our V8.0 model over the last month!",
+      "Today we're releasing our next version of V8 - V8.1 What’s new in V8.1?",
+      "V8.1 has a consistent and familiar aesthetic in the spirit of V7 .",
+      "Moodboards and srefs are now super stable and will be everything you love."
     ],
     "claims": [
       {
@@ -1062,9 +1045,9 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Today we’re letting the community test an early version of our V8 model on [alpha.midjourney.com](https://alpha.midjourney.com).",
+      "Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com .",
       "Let’s explore what this new model can do!",
-      "**V8 is an incredible model.** It’s much better at following detailed directions and will still surprise you when you ask.",
+      "It’s much better at following detailed directions and will still surprise you when you ask.",
       "Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing."
     ],
     "claims": [
@@ -1078,7 +1061,7 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_reddit-midjourney_c994783cdf758492",
@@ -1092,8 +1075,7 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Top comments:\nabsolutely ethereal\n\nthese are great.",
-      "love the red riding hood one\n\nPrompt example : Naked crowned emperor parading, crowd mocking him, dark creepy eerie --ar 5:6 --raw --sref 987067709 --stylize 200 --hd --v 8.1\n\nSummary: submitted by /u/Zaicab [link] [comments]"
+      "submitted by /u/Zaicab [link] [comments]"
     ],
     "claims": [
       {
@@ -1120,7 +1102,7 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Summary: submitted by /u/Dropdeadlegs84 [link] [comments]"
+      "submitted by /u/Dropdeadlegs84 [link] [comments]"
     ],
     "claims": [
       {
@@ -1147,7 +1129,7 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Summary: submitted by /u/Scary-Demand7252 [link] [comments]"
+      "submitted by /u/Scary-Demand7252 [link] [comments]"
     ],
     "claims": [
       {
@@ -1168,7 +1150,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-20T14:07:26.777Z",
+    "publishedAt": "2026-05-20T14:12:56.527Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1202,10 +1184,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "Top comments:\nGreat news, open source replications of DALL-E are being worked on.",
-      "Code is out but you'll need to be a ML developer to know what to do with it, so we wait and see what happens.",
-      "https://github.com/lucidrains/DALLE-pytorch https://github.com/EleutherAI/DALLE-mtf\n\nThe six month time limit before posts are archived has been lifted.",
-      "Feel free to comment about new developments as you wish."
+      "submitted by /u/Wiskkey [link] [comments]"
     ],
     "claims": [
       {
@@ -1232,7 +1211,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "Post: In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved.",
+      "In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved.",
       "Basically, individual images or albums you created in Midjourney/Stable Diffusion/DALL-E 2 would not be enough to get approved.",
       "For those, the dedicated subreddits are more fitting I.e.",
       "/r/midjourney /r/StableDiffusion /r/dalle2 /r/deepdream \"But that will kill this forum's traffic!\" Almost certainly, but it'd be for the purpose of reorienting it."
@@ -1262,10 +1241,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "Top comments:\nWords may be arranged well, but without intention of meaning they are dreck.",
-      "The question is how much intention is required for a piece to be considered meaningful and worthy of consideration as art.",
-      "The underlying question of AI media synthesis transcends the nature of the media itself.",
-      "AI has many uses, but art is not one them and and can never be one of them."
+      "submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1292,7 +1268,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "Summary: submitted by /u/gwern [link] [comments]"
+      "submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1319,10 +1295,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "Post: Most AI videos are generated in minutes.",
+      "Most AI videos are generated in minutes.",
       "Character design, scenario, lyrics, scene composition — I directed every single detail by hand.",
       "An 8-minute AI musical film called GOD IS DEAD.",
-      "Watch the full version here: [https://youtu.be/uS9wHPBSqUo](https://youtu.be/uS9wHPBSqUo) Tools used: SUNO AI : Song production & narration/dialogue reading Wan2.5 Speak, Sync Lipsync 2 Pro, Kling Avatars 2.0 : Lip-sync work aligned to audio Nanobanana, Freepik Space Nord, Freepik App : Image generation, character sheet production & character design Kling 3.0, Runway Gen 4.5, Higsfield Cinema Studio 2.5 Seadance 1.5, Higsfield App (Transitions) : Image-to-video conversion & video asset production ChatGPT, Claude : AI prompt creation, story assistance & English translation\n\nTop comments:\nProof that no matter how much effort someone puts in the current technology is unable to deliver\n\n57 days to make something that looks exactly like every other AI video\n\nAwesome!"
+      "Watch the full version here: https://youtu.be/uS9wHPBSqUo Tools used: SUNO AI : Song production & narration/dialogue reading Wan2.5 Speak, Sync Lipsync 2 Pro, Kling Avatars 2.0 : Lip-sync work aligned to audio Nanobanana, Freepik Space Nord, Freepik App : Image generation, character sheet production & character design Kling 3.0, Runway Gen 4.5, Higsfield Cinema Studio 2.5 Seadance 1.5, Higsfield App (Transitions) : Image-to-video conversion & video asset production ChatGPT, Claude : AI prompt creation, story assistance & English translation submitted by /u/HANSHIN_93hz [link] [comments]"
     ],
     "claims": [
       {
@@ -1343,7 +1319,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-20T14:07:25.947Z",
+    "publishedAt": "2026-05-20T14:12:55.029Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1524,7 +1500,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-20T14:07:25.682Z",
+    "publishedAt": "2026-05-20T14:12:54.979Z",
     "categoryHints": [
       "ai-agentic"
     ],
