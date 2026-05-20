@@ -26,7 +26,12 @@ export async function generateWithOllama(options: {
   system: string;
   prompt: string;
 }): Promise<string | undefined> {
-  if (process.env.AI_RADAR_USE_OLLAMA !== "true") return undefined;
+  const useOllama = process.env.AI_RADAR_USE_OLLAMA;
+  console.log(`[ollama] AI_RADAR_USE_OLLAMA="${useOllama}" (len=${useOllama?.length})`);
+  if (useOllama !== "true") {
+    console.log("[ollama] SKIPPED — AI_RADAR_USE_OLLAMA is not exactly 'true'");
+    return undefined;
+  }
 
   const endpoint = process.env.OLLAMA_ENDPOINT || DEFAULT_ENDPOINT;
   const apiKey = process.env.OLLAMA_API_KEY;

@@ -128,7 +128,7 @@ function bgStyle(src: string | undefined): string {
                   )}
                   {block.type === "list" && block.items && (
                     <ul>
-                      {block.items.map((li) => <li>{li}</li>)}
+                      {block.items.map((li: string) => <li>{li}</li>)}
                     </ul>
                   )}
                   {block.type === "media" && block.src && (
