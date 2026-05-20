@@ -70,7 +70,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T11:08:45.063Z",
+        "generatedAt": "2026-05-20T11:37:49.452Z",
         "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -129,7 +129,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T11:08:45.064Z",
+        "generatedAt": "2026-05-20T11:37:49.454Z",
         "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -218,7 +218,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T11:08:45.063Z",
+        "generatedAt": "2026-05-20T11:37:49.452Z",
         "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -279,7 +279,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T11:08:45.064Z",
+        "generatedAt": "2026-05-20T11:37:49.454Z",
         "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -364,7 +364,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T11:08:45.063Z",
+        "generatedAt": "2026-05-20T11:37:49.452Z",
         "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -421,7 +421,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T11:08:45.065Z",
+        "generatedAt": "2026-05-20T11:37:49.454Z",
         "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -453,7 +453,7 @@
         "Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement.",
         "But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor.",
         "For this test, I used three source images of the same character with the same outfit/background, but different poses and camera angles.",
-        "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us."
+        "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us."
       ]
     },
     "vi": {
@@ -498,7 +498,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T11:08:45.063Z",
+        "generatedAt": "2026-05-20T11:37:49.452Z",
         "sourceClusterId": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -547,7 +547,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T11:08:45.065Z",
+        "generatedAt": "2026-05-20T11:37:49.454Z",
         "sourceClusterId": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20",
         "confidence": "high",
         "mode": "template-fallback"
@@ -615,7 +615,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T11:08:45.063Z",
+        "generatedAt": "2026-05-20T11:37:49.452Z",
         "sourceClusterId": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -656,7 +656,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T11:08:45.065Z",
+        "generatedAt": "2026-05-20T11:37:49.454Z",
         "sourceClusterId": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -719,7 +719,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-vi-v1",
-        "generatedAt": "2026-05-20T11:08:45.063Z",
+        "generatedAt": "2026-05-20T11:37:49.452Z",
         "sourceClusterId": "cluster_prompt-image_duel-in-the-wasteland_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -756,7 +756,7 @@
       "generation": {
         "model": "• Name: OLLAMA_MODEL\n\n• Value: gemma4:31b",
         "promptVersion": "article-en-v1",
-        "generatedAt": "2026-05-20T11:08:45.065Z",
+        "generatedAt": "2026-05-20T11:37:49.454Z",
         "sourceClusterId": "cluster_prompt-image_duel-in-the-wasteland_2026-05-20",
         "confidence": "medium",
         "mode": "template-fallback"

@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-20T11:08:41.597Z",
+    "publishedAt": "2026-05-20T11:37:46.788Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-20T11:08:44.036Z",
+    "publishedAt": "2026-05-20T11:37:46.189Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T11:08:40.782Z",
+    "publishedAt": "2026-05-20T11:37:46.065Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-20T11:08:41.542Z",
+    "publishedAt": "2026-05-20T11:37:46.627Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-20T11:08:41.118Z",
+    "publishedAt": "2026-05-20T11:37:46.387Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-20T11:08:41.469Z",
+    "publishedAt": "2026-05-20T11:37:47.001Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-20T11:08:41.333Z",
+    "publishedAt": "2026-05-20T11:37:46.629Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -641,7 +641,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-20T11:08:41.006Z",
+    "publishedAt": "2026-05-20T11:37:46.325Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -670,12 +670,12 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-20T11:08:41.533Z",
+    "publishedAt": "2026-05-20T11:37:46.512Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+      "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
       "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
       "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.",
       "That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M."
@@ -699,7 +699,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-20T11:08:41.623Z",
+    "publishedAt": "2026-05-20T11:37:46.853Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -781,33 +781,6 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2dd3612a2dadaddf",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1thtfhq/it_was_mister_fluffy/",
-    "title": "It Was Mister Fluffy",
-    "publishedAt": "2026-05-19T17:12:15.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/MisterFluffyAI [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/MisterFluffyAI [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1thtfhq/it_was_mister_fluffy/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_reddit-aivideo_152c45103ec69146",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
@@ -826,6 +799,33 @@
         "text": "submitted by /u/Exciting-Ladder-30 [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aivideo_2dd3612a2dadaddf",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1thtfhq/it_was_mister_fluffy/",
+    "title": "It Was Mister Fluffy",
+    "publishedAt": "2026-05-19T17:12:15.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/MisterFluffyAI [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/MisterFluffyAI [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1thtfhq/it_was_mister_fluffy/"
       }
     ],
     "usableFor": [
@@ -867,7 +867,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-20T11:08:41.331Z",
+    "publishedAt": "2026-05-20T11:37:46.725Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -896,7 +896,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-20T11:08:41.048Z",
+    "publishedAt": "2026-05-20T11:37:46.444Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -925,7 +925,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-20T11:08:41.238Z",
+    "publishedAt": "2026-05-20T11:37:47.023Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -952,7 +952,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-20T11:08:41.158Z",
+    "publishedAt": "2026-05-20T11:37:46.429Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -981,7 +981,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-20T11:08:41.137Z",
+    "publishedAt": "2026-05-20T11:37:46.520Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1153,7 +1153,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-20T11:08:41.888Z",
+    "publishedAt": "2026-05-20T11:37:48.326Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1322,7 +1322,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-20T11:08:41.284Z",
+    "publishedAt": "2026-05-20T11:37:46.609Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1503,7 +1503,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-20T11:08:41.276Z",
+    "publishedAt": "2026-05-20T11:37:46.638Z",
     "categoryHints": [
       "ai-agentic"
     ],
