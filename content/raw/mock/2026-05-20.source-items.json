@@ -7,8 +7,8 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-05-20T11:37:46.788Z",
-    "crawledAt": "2026-05-20T11:37:46.788Z",
+    "publishedAt": "2026-05-20T11:56:01.607Z",
+    "crawledAt": "2026-05-20T11:56:01.607Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -25,8 +25,8 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-05-20T11:37:46.189Z",
-    "crawledAt": "2026-05-20T11:37:46.189Z",
+    "publishedAt": "2026-05-20T11:56:05.304Z",
+    "crawledAt": "2026-05-20T11:56:05.304Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-05-20T11:37:46.065Z",
-    "crawledAt": "2026-05-20T11:37:46.065Z",
+    "publishedAt": "2026-05-20T11:56:00.827Z",
+    "crawledAt": "2026-05-20T11:56:00.827Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-05-20T11:37:46.627Z",
-    "crawledAt": "2026-05-20T11:37:46.627Z",
+    "publishedAt": "2026-05-20T11:56:01.201Z",
+    "crawledAt": "2026-05-20T11:56:01.201Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-05-13T16:00:20.000Z",
-    "crawledAt": "2026-05-20T11:37:46.833Z",
+    "crawledAt": "2026-05-20T11:56:01.709Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -100,7 +100,7 @@
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-05-18T16:00:57.000Z",
-    "crawledAt": "2026-05-20T11:37:46.833Z",
+    "crawledAt": "2026-05-20T11:56:01.709Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -117,7 +117,7 @@
     "title": "What’s the most unhinged AI agent setup you’ve seen someone actually use in production?",
     "rawSummary": "For example, probably the wildest one I’ve read was a med spa that built an AI receptionist using Vapi. The agent answers every inbound call, speaks naturally, asks qualification questions, checks live availability in Google Calendar, books appointments, sends SMS confirmations, and even handles reschedules. Apparently the humans only jump in if someone gets angry or starts asking medical questions. The crazy part is they said patients often don’t realize they’re talking to AI because the voice latency is low enough that it feels like an actual receptionist. So curious, what’s the most unhinged AI agent setup you’ve seen someone actually use in production? submitted by /u/impetuouschestnut [link] [comments]",
     "publishedAt": "2026-05-20T09:29:29.000Z",
-    "crawledAt": "2026-05-20T11:37:46.833Z",
+    "crawledAt": "2026-05-20T11:56:01.709Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -134,7 +134,7 @@
     "title": "AI agents for someone just starting out?",
     "rawSummary": "Hey all, I’m pretty new to this space, not technical. I’ve tried to use AI this year to get more stuff done and have more time for myself. Would like to hear how more experienced people here set up AI in real work and daily life. For context if it may help, I manage multiple tasks from many projects, has kids and ADD. Thank you. submitted by /u/NetPersxantikes34 [link] [comments]",
     "publishedAt": "2026-05-20T03:04:08.000Z",
-    "crawledAt": "2026-05-20T11:37:46.833Z",
+    "crawledAt": "2026-05-20T11:56:01.709Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -151,7 +151,7 @@
     "title": "\"The CEOs replacing workers with AI are likely getting that advice from AI.\"",
     "rawSummary": "Saw this line in a piece about AI sycophancy in mental health crises and it actually pulled me up. The same training loop that produces flattering chatbot answers for individual users is also flattering the executives using those chatbots to evaluate AI strategy. OpenAI ran internal tests on this. Their finding: users consistently prefer the most sycophantic answers. So that's what got shipped. The mental-health side is now 414 documented cases (Human Line Project tracking, BBC investigation). The corporate side is the same loop, just at a higher capital-allocation altitude. Curious if anyone here has actually pushed back inside their company about this. Like, has anyone seen an exec circle back from a \"ChatGPT told me to do it\" decision after a peer pointed out the loop? Or is the loop too embedded already. submitted by /u/Quantum_Merlin [link] [comments]",
     "publishedAt": "2026-05-19T23:20:26.000Z",
-    "crawledAt": "2026-05-20T11:37:46.833Z",
+    "crawledAt": "2026-05-20T11:56:01.709Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-05-20T11:37:46.387Z",
-    "crawledAt": "2026-05-20T11:37:46.387Z",
+    "publishedAt": "2026-05-20T11:56:01.147Z",
+    "crawledAt": "2026-05-20T11:56:01.147Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "Latest articles from the blog about AI and technology",
-    "publishedAt": "2026-05-20T11:37:47.001Z",
-    "crawledAt": "2026-05-20T11:37:47.001Z",
+    "publishedAt": "2026-05-20T11:56:01.742Z",
+    "crawledAt": "2026-05-20T11:56:01.742Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-05-20T11:37:46.629Z",
-    "crawledAt": "2026-05-20T11:37:46.629Z",
+    "publishedAt": "2026-05-20T11:56:01.133Z",
+    "crawledAt": "2026-05-20T11:56:01.133Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -224,7 +224,7 @@
     "title": "RL lora for LTX2.3. It greatly increases coherence and quality while reducing artifacts.",
     "rawSummary": "https://huggingface.co/Kijai/LTX2.3_comfy/blob/main/loras/LTX-2.3-OmniNFT-RL-Lora_bf16.safetensors https://zghhui.github.io/OmniNFT/ BTW, talking about quality I HIGHLY recommend using the LTX Tiled Sampler for your 2nd sampler after the upscaler. It massively improves results and really should be native. https://github.com/TenStrip/10S-Comfy-nodes submitted by /u/Different_Fix_2217 [link] [comments]",
     "publishedAt": "2026-05-19T23:06:04.000Z",
-    "crawledAt": "2026-05-20T11:37:46.921Z",
+    "crawledAt": "2026-05-20T11:56:01.727Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -242,7 +242,7 @@
     "title": "Vibecoded a SPEED sampler for Anima in ComfyUI",
     "rawSummary": "I put together a ComfyUI custom node for SPEED (Spectral Progressive Diffusion) and pushed it here: ComfyUI-SPEED . SPEED is short for Spectral Progressive Diffusion. The basic idea is that diffusion models don’t need to do full high-res work right away, so SPEED starts smaller and gradually increases resolution as the image forms. That cuts down wasted compute early in the denoising process, which can make generation faster while still keeping detail later on. It’s a pretty vibecoded implementation, so don’t expect polished engineering or faithful implementation given official code isn't out yet, but it does the thing. I only tested it on Anima, and the main setup is basically just connecting the Sampler SPEED (Spectral Progressive) node into SamplerCustomAdvanced like a normal ComfyUI workflow. A couple notes: It can produce artifacts and drift on some outputs (most likely related to upsampling). torch.compile was not helpful here, and in my tests it actually made sampling slower. I also added a quick before/after comparison in the README with example images. and in this post (1st image is SPEED (14s), second is without (26s). both uses same seed) If anyone wants to poke at it or improve it, feel free. I mostly wanted a simple working version up and running. submitted by /u/Common-Objective2215 [link] [comments]",
     "publishedAt": "2026-05-20T08:29:41.000Z",
-    "crawledAt": "2026-05-20T11:37:46.921Z",
+    "crawledAt": "2026-05-20T11:56:01.727Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -260,7 +260,7 @@
     "title": "Nvidia RTX 2 pass Upscaler (4GB VRAM + 8GB RAM)",
     "rawSummary": "Official Link : Nvidia docs NVIDIA RTX 2-Pass Upscaler (4GB VRAM + 8GB RAM) Post: Hi everyone! Recently, while working on AI videos with the LTX2.3 model, I started thinking a lot about upscaling efficiency, so I made my own RTX Upscale node for ComfyUI. In the existing ComfyUI setup, most workflows mainly used Video Super Resolution (VSR), but NVIDIA RTX upscaling actually has four different options. I implemented all four of them in this node. After testing it myself, I honestly no longer feel a need to subscribe to Topaz AI. - DeBlur: The most effective option for sharpening blurry videos, especially AI-generated videos. - DeNoise: Helps clean up noisy footage. For AI videos, I recommend using it selectively. - High Bitrate: Good for improving the quality of cleaner source videos. - Video Super Resolution (VSR): The standard method that was commonly used before. The main idea I applied is a 2-step upscaling method. First, DeBlur is used to sharpen the video, and then High Bitrate or VSR is applied as the second pass. In my tests, this produced much better results. Performance and requirements: - On an RTX 5090, upscaling a 512x512 video to 1024x1024 takes about 5 seconds. - For Low RAM / Low VRAM environments, I made a Batch image workflow. With this method, most low-spec systems can usually finish the upscaling within about 1-2 minutes. - When using the Batch image method, the requirement is around 10GB RAM and 4GB VRAM. Existing NVIDIA RTX Super Resolution nodes were very difficult to install because the backend setup often caused errors. So I prepared an install_rtx_vfx helper to make the backend installation as close to one-click as possible. Installation: Open ComfyUI Manager → Custom Node Manager, then search for deno-custom-nodes and install it. Important: Completely close ComfyUI before running the installer. If ComfyUI is still running, the installation may not proceed. Go to ComfyUI/custom_nodes/deno-custom-nodes/tools. Run install_rtx_vfx.bat → wait for the installation complete message, then close the window. It usually takes about 30 seconds to 1 minute. Restart ComfyUI and run the Deno RTX Video Super Resolution (2 Pass) node. For detailed usage, please check the tutorial and workflow links below. Link : WorkFlow Link : Tutorial ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ The DENO RTX Video Super Resolution update is currently being rolled out to ComfyUI Manager / Registry, so it may take a few hours before it appears for everyone. If you want to test it early, please follow the manual installation steps below. First, completely close ComfyUI. This means closing not only the browser tab, but also the ComfyUI command window, cmd, PowerShell, or any terminal window that is running ComfyUI. Download the installer from the official DENO GitHub repository: https://github.com/Deno2026/comfyui-deno-custom-nodes/raw/refs/heads/main/tools/install_rtx_vfx_bat.zip After downloading the zip file, extract it first. Do not run the .bat file directly from inside the zip file. After extraction, you will see this file: install_rtx_vfx.bat Copy or move this file into the tools folder of your installed DENO custom nodes: ComfyUI\\custom_nodes\\deno-custom-nodes\\tools\\ For example, the final location should look similar to this: D:\\ComfyUI\\custom_nodes\\deno-custom-nodes\\tools\\install_rtx_vfx.bat Important: Do not run install_rtx_vfx.bat from your Downloads folder. It must be placed inside: ComfyUI\\custom_nodes\\deno-custom-nodes\\tools\\ Once the file is in the correct tools folder, double-click install_rtx_vfx.bat to run it. If Windows shows a security warning, click “More info” and then “Run anyway.” When the installer shows the ComfyUI Python path, check that it points to the python_embeded\\python.exe used by the ComfyUI you just closed. If the path looks correct, type: Y and press Enter. This installer installs NVIDIA’s official nvidia-vfx Python package from NVIDIA’s official package server, pypi.nvidia.com. It does not download random DLL files. When you see a green “INSTALL COMPLETE” message or “[OK] NVIDIA RTX VFX is installed,” the installation is complete. After that, restart ComfyUI and search for: (Deno) RTX Video Super Resolution Notes: - You need an NVIDIA RTX GPU. - Please use the latest NVIDIA driver. - macOS is not supported. - If you do not have the folder ComfyUI\\custom_nodes\\deno-custom-nodes\\tools, please update DENO custom nodes first through ComfyUI Manager or GitHub, then try again. submitted by /u/Extension-Yard1918 [link] [comments]",
     "publishedAt": "2026-05-19T21:06:32.000Z",
-    "crawledAt": "2026-05-20T11:37:46.921Z",
+    "crawledAt": "2026-05-20T11:56:01.727Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -278,7 +278,7 @@
     "title": "Local I2V finally feels less like image wiggle and more like shot direction with LTX Director",
     "rawSummary": "I’ve been experimenting with LTX Director for LTX 2.3, and I think this workflow has a lot of potential. Local I2V often feels like “make this one image wiggle”: same angle, small motion, maybe blinking or hair movement. But with LTX Director, using multiple images of the same character as key poses/camera angles inside one timeline feels much closer to shot direction or a tiny MV editor. For this test, I used three source images of the same character with the same outfit/background, but different poses and camera angles. I included the original three images as well, so you can see what LTX Director was working from. I also added a custom K-pop-style audio track with Custom Audio ON. After a lot of tuning, it was able to handle: - multi-image I2V - smooth pose changes - camera and face movement between poses - cute performance gestures - custom audio timing - usable lip-sync It’s still experimental. Hands can break, identity can drift, and transitions need careful prompting. But when the input images are consistent — same character, outfit, background, and style — it becomes much more dynamic than normal single-image I2V. The most useful prompt idea for me was to treat the images as key poses of the same character, not separate people: “Treat all images as the same character in different poses and camera angles. Preserve the same face, hairstyle, outfit, and background throughout. Move smoothly between the poses as one continuous close-up performance. Natural lip-sync to the custom audio vocals, clear visible mouth movement, soft blinking, small head tilts, cute gestures, subtle shoulder sway, light hair motion.” This still needs more testing, but I think LTX Director could be really useful for AI idol clips, character PVs, surreal mascot videos, short music videos, and anything where local video generation needs more than one static angle submitted by /u/Father_hands [link] [comments]",
     "publishedAt": "2026-05-19T17:55:14.000Z",
-    "crawledAt": "2026-05-20T11:37:46.921Z",
+    "crawledAt": "2026-05-20T11:56:01.728Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -296,7 +296,7 @@
     "title": "Kijai just uploaded LTX2.3 OmniNFT RL-LoRA for better video and audio!",
     "rawSummary": "Reposting this from Twitter (wildminder): \" LTX2.3 OmniNFT RL-LoRA generates high-quality video/audio + visuals and sound are perfectly synchronized, no laggy or mismatched audio. - realistic Lip-Sync - action-matched sound - reduces synchronization errors by 52% really nice output\" https://reddit.com/link/1thxd1p/video/qvk7394gh52h1/player This^ sample is apparently using LTX2 as a baseline. But obviously Kijai wouldn't have released this lora if it wasn't compatible with LTX2.3. Reddit keeps blocking my posts (removed by filters), so I'm editing the links to see if this post will work (just remove the spaces, sorry): Project page: zghhui . github . io/OmniNFT/ Kijai HF repo: huggingface . co/Kijai/LTX2.3_comfy/tree/main submitted by /u/Scriabinical [link] [comments]",
     "publishedAt": "2026-05-19T19:21:55.000Z",
-    "crawledAt": "2026-05-20T11:37:46.921Z",
+    "crawledAt": "2026-05-20T11:56:01.728Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -314,7 +314,7 @@
     "title": "How to change camera angle while preserving everything else in FLUX 2 Klein? (img2img)",
     "rawSummary": "submitted by /u/PleasantSale7579 [link] [comments]",
     "publishedAt": "2026-05-20T05:22:54.000Z",
-    "crawledAt": "2026-05-20T11:37:47.170Z",
+    "crawledAt": "2026-05-20T11:56:01.975Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -332,7 +332,7 @@
     "title": "[Free Grab] Juggernaut Z — Cinematic Still Plate Workflow for AI Filmmaking",
     "rawSummary": "I've been building a still plate workflow for filmmaking-focused pipeline around Juggernaut Z (ZIB) and wanted to share it with the community. Completely free. If it saves you time and you feel like buying me a coffee, my CashApp is: $miguivaotero.......but genuinely no pressure, no strings attached, because I believe in free collaboration for open source models. {{{{{DOWNLOAD LINK}}}}} https://drive.google.com/file/d/1Z2m6PVaWObNHl44SlcKTlkrdnnrzUXGr/view?usp=drive_link {{{{{DOWNLOAD LINK}}}}} ** PLUG AND PLAY ** (ready for generating) Description: What's in the workflow: Juggernaut Z as primary model with full LoRA support Two-pass sampler pipeline for texture refinement SeedLogger (Inspire Pack) for seed tracking and repeatability across scenes, essential for multi-shot narrative consistency Use Everywhere nodes for clean global routing meaning NO SPAGGHETTI Full cinematic aspect ratio library baked in as selectable groups: 4:3, 3:2, 16:9, 5:4, Academy Flat, Flat 1.85, Scope 2.39, Cinemascope, Panavision 70, IMAX Global VAE routing Clean output naming Why Juggernaut Z over SDXL or Turbo: Prompt precision and character repeatability across scenes matters more for filmmaking than raw texture scores. Z-Image's natural language S3-DiT architecture gives you semantic control that tag-based SDXL prompting simply doesn't. Juggernaut Z adds the texture and lighting quality on top of that foundation. Required custom nodes: ComfyUI Inspire Pack cg-use-everywhere ComfyUI core 0.15.1+ ---------------------------------------------------------------------------- Hardware note: Built and tested on M4 MPS 24GB unified memory. CUDA users should run fine but flag anything weird in the comments. Model path: Remap ZIB/juggernaut-Z v10.safetensors to wherever you've stored your Juggernaut Z locally. link for model download: https://civitai.red/models/2600510/juggernaut-z i answer any questions regarding this workflow here or on my private chats. ENJOY!!!!!!! submitted by /u/Sir_Latent [link] [comments]",
     "publishedAt": "2026-05-19T23:55:20.000Z",
-    "crawledAt": "2026-05-20T11:37:47.171Z",
+    "crawledAt": "2026-05-20T11:56:01.975Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -350,7 +350,7 @@
     "title": "I've worked to optimize this workflow and add Ollama to help with Prompts!",
     "rawSummary": "I've worked (I was going to say hard, but it was mostly time) on making the stock Flux.2 workflow better optimized for my RTX 3080 12GB GPU. This setup uses 2x Ollama runs to optimize the prompt generation, and a different Flux.2 Klein model in a GGUF format. Running 1 pass like this takes about 1 1/2 minutes for the prompt execution plus the image generation. It's about 1 minute for just the image gen, if you get a prompt you like and just re-use that. Here's the Google drive link: https://drive.google.com/file/d/17HxoWFYnvkXoOmFziuacttjjd5LeKHk3/view?usp=drive_link The custom nodes I'm using are: RGThree-Comfy comfyui-Ollama ComfyUI-KJNodes Comfyui-Memory_Cleanup And then in Ollama (I'm on Windows, so it's a separate app) I'm using the gemma4:e4b model since it's very good at creative writing and image detection. Let me know what you guys think! submitted by /u/MakionGarvinus [link] [comments]",
     "publishedAt": "2026-05-20T01:21:25.000Z",
-    "crawledAt": "2026-05-20T11:37:47.171Z",
+    "crawledAt": "2026-05-20T11:56:01.975Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -368,7 +368,7 @@
     "title": "ComfyUI Tutorial: Realistic AI Lip Sync Dubbing with LTX 2.3 LORA Low Vram workflow (6 Gb Vram,16 Gb of Ram)",
     "rawSummary": "Hello everyone, in this tutorial we explore the new ic lora released by lightricks named ic lora LipDub, this model enable lip dubbing . Which will allows you to dub any video at any languages. For that I tested the workflow for French, italien, german, Japan, Arabic, Spanish languages. The custom workflow allows you to do automatical translation all you have to do is load your video and speech then click run. The workflow is optimized to run on 6gb of vram without craching. Workflow Link https://drive.google.com/file/d/1mk37QNbxVIOYo0-1OvOjfWdDyXzav_5M/view?usp=sharing Video Tutorial Link https://youtu.be/5hmismj1LQc submitted by /u/cgpixel23 [link] [comments]",
     "publishedAt": "2026-05-19T13:00:21.000Z",
-    "crawledAt": "2026-05-20T11:37:47.171Z",
+    "crawledAt": "2026-05-20T11:56:01.975Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -386,7 +386,7 @@
     "title": "How do i create a 85% to 95% LoRA of a complex character?",
     "rawSummary": "Character (synthetic IG persona, fully-locked identity): ~20yo athletic white European woman, platinum-blonde hair with mint-green tips 2 facial piercings (vertical L-brow barbell + horizontal bridge barbell) Blackwork tattoos: tree-branch on neck/chest + cracked-pattern full sleeves both arms 5 silver rings (consistent count), matte-black nails Edgy / punk / skate vibe Setup that i'm using at the moment: Qwen-Image (20B) via ai-toolkit (Ostris), uint3 quantized + accuracy-recovery adapter, on a 24GB 3090 87 training images, all generated via ChatGPT Images 2 for cross-image consistency (no real photos exist): 74 bare-arm (tattoos + rings visible) 13 covered-outfit (jackets / sleeves / gloves) with num_repeats: 2 → ~26% effective, to teach conditional coverage so prompting \"wearing a leather jacket\" actually hides the tattoos Captions: JoyCaption Beta One → manual cleaning → 2 multi-agent verification rounds (38 corrections total) Caption strategy: omit invariant identity features (hair color, piercings, eye color) so they bind to the trigger word; caption everything that varies (pose, framing, hair state, coverage status, rings-visible vs no-rings, gloves vs no-gloves) Hyperparams: rank 32 / alpha 16, LR 1e-4, 3000 steps, adamw8bit, flowmatch, multi-res [512, 768, 1024], grad checkpointing, no TE training, caption dropout 0.05 Mid-training (step 1750 / 3000) results: ✅ Tattoos lock fast and consistently across all prompts ✅ Trigger binding clean: prompts without the trigger generate a random woman, not her ⚠️ Face identity inconsistent — best when the prompt has contextual anchors (jacket + backwards cap); drifts on plain \"tank top + grey studio\" ❌ Piercings often missing or distorted (the main worry) ⚠️ Mild hair-color leak to non-trigger prompts (cosmetic only — face does NOT leak) Questions: Is \"leave invariant fine details uncaptioned\" actually the wrong call for piercings? Should I caption them explicitly even if it costs the auto-trigger-binding? Is uint3 quantization the bottleneck on fine details like piercings? Worth retraining at fp8 with CPU offload despite the speed hit? Is 87 images the floor for a character this feature-loaded — do you really need 150+? Higher rank (64+) for fine-detail capture, or does that just overfit at this dataset size? Hard-coupled features (tattoos + rings + piercings always present together) — is one LoRA correct, or would stacked / decomposed LoRAs work better here? Better captioner than JoyCaption Beta One for this kind of fine detail? Anything obvious I'm doing wrong? Thanks in advance guys :) (all images that im uploading are consistent and come from gpt images 2) https://preview.redd.it/697181dvg82h1.png?width=1122&format=png&auto=webp&s=d73c3932b0eebf5f23d0bf8dfcc680479d68de45 https://preview.redd.it/bsdie1dvg82h1.png?width=1122&format=png&auto=webp&s=d626161840fd609b21230d1ada8f08d805c282e6 https://preview.redd.it/lfpxv1dvg82h1.png?width=1122&format=png&auto=webp&s=e3f0419c44b62dd75bc4007dda29b80ad6b5191d https://preview.redd.it/jc4n22dvg82h1.png?width=1122&format=png&auto=webp&s=6853cceab81ac87e1c551d9206fd6deca09a3867 https://preview.redd.it/udseq1dvg82h1.png?width=1122&format=png&auto=webp&s=fdc5b1d1275b4d96067319d2f2e307efd7d13ad9 https://preview.redd.it/mlfsy1dvg82h1.png?width=1122&format=png&auto=webp&s=a08fea65f336f942390a5b2246828b6f4a6193dc https://preview.redd.it/moe5q2dvg82h1.png?width=1122&format=png&auto=webp&s=878b364380ce19f68978c2c33055ec9863d87aa1 submitted by /u/ren_cross [link] [comments]",
     "publishedAt": "2026-05-20T06:05:36.000Z",
-    "crawledAt": "2026-05-20T11:37:47.171Z",
+    "crawledAt": "2026-05-20T11:56:01.975Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -403,8 +403,8 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-05-20T11:37:46.325Z",
-    "crawledAt": "2026-05-20T11:37:46.325Z",
+    "publishedAt": "2026-05-20T11:56:01.120Z",
+    "crawledAt": "2026-05-20T11:56:01.120Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -421,14 +421,14 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Pika blog",
     "rawSummary": "Discover stories, experiments, and insights from the Pika community",
-    "publishedAt": "2026-05-20T11:37:46.512Z",
-    "crawledAt": "2026-05-20T11:37:46.512Z",
+    "publishedAt": "2026-05-20T11:56:01.580Z",
+    "crawledAt": "2026-05-20T11:56:01.580Z",
     "categoryHints": [
       "ai-video"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us. It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen. But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video. That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M. Led by the incredible team at Spark Capital, this round will enable us to accelerate our progress in building the best video foundation model, and the best possible product for video creators. Jun 5, 2024 Be the first to hear about Pika updates Get Our Newsletter Company Careers Contact Us Pricing Blog API Connect Discord Instagram X YouTube Facebook TikTok Terms of Service Pika © 2026 . All rights reserved. Acceptable Use Policy Privacy Policy",
+    "extractedText": "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us. It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen. But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video. That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M. Led by the incredible team at Spark Capital, this round will enable us to accelerate our progress in building the best video foundation model, and the best possible product for video creators. Jun 5, 2024 Be the first to hear about Pika updates Get Our Newsletter Company Careers Contact Us Pricing Blog API Connect Discord Instagram X YouTube Facebook TikTok Terms of Service Pika © 2026 . All rights reserved. Acceptable Use Policy Privacy Policy Pika blog",
     "imageUrl": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg"
   },
   {
@@ -439,8 +439,8 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-05-20T11:37:46.853Z",
-    "crawledAt": "2026-05-20T11:37:46.853Z",
+    "publishedAt": "2026-05-20T11:56:01.618Z",
+    "crawledAt": "2026-05-20T11:56:01.618Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -458,7 +458,7 @@
     "title": "Featured Titles + Latest Releases",
     "rawSummary": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/browsecarousel [link] [comments]",
     "publishedAt": "2026-05-13T06:38:36.000Z",
-    "crawledAt": "2026-05-20T11:37:46.959Z",
+    "crawledAt": "2026-05-20T11:56:01.706Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -476,7 +476,7 @@
     "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
     "rawSummary": ". AI VIDEO AWARDS 2026 🏆🤩 . UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R . 🎸 LIVE APPEARANCES BY: . WHISKERS THE CAT MIND OVER IMAGES ANDY RIFFETH WACKY TUBE MAN FALLING KNIFE FILMS BOTS IN THE HALL SELENA LOPEZ KNGMKR TONYA & TRISHA CODE AMBER IRWIN M J . 🏆 CURRENT 2026 AWARD NOMINEES ( LIST MAY CHANGE DUE TO VOTING AND NEW CONTENT SUBMITTED ): . 🤯 MINDBLOWING VIDEO OF THE YEAR Category Includes: CRAZY / MINDBLOWING + HORROR + MEME + VIDEOGAME . HeroHusky \"AI Chiropractor\" 🔥 https://www.reddit.com/r/aivideo/comments/1omdf0l/ai_chiropractor/ . NekoChan \"Fast Food Worker From the Feline Community\" 🔥 https://www.reddit.com/r/aivideo/comments/1j4l2hd/fast_food_worker_from_the_feline_community/ . Unknown \"No More Concerts\" 🔥 https://www.reddit.com/r/aivideo/comments/1oxezic/the_didgeridoo/ . Eslop \"Tube Man Exposed\" 🔥 https://www.reddit.com/r/aivideo/comments/1p67r1r/tube_man_exposed/ . Unknown \"Bong Smoking Olympics\" 🔥 https://www.reddit.com/r/aivideo/comments/1o2bvi9/bong_smoking_olympics/ . 📀 MUSIC VIDEO OF THE YEAR . Synthetic Collective \"Take More Dr*gs\" 🔥 https://www.reddit.com/r/aivideo/comments/1ohk6xx/take_more_drugs/ . Promise AI \"Is This AI or Not?\" 🔥 https://www.reddit.com/r/aivideo/comments/1nn80vf/is_this_ai_or_not/ . Andy Riffeth \"Boys In Blue\" 🔥 https://www.reddit.com/r/aivideo/comments/1j3kpsa/half_naked_women_get_thousands_of_views_how_many/ . Mind Over Images \"F*ck It, I’m the Problem\" 🔥 https://www.reddit.com/r/aivideo/comments/1pdwl3p/fuck_it_im_the_problem/ . Neural Hours \"Wash The Snorp\" 🔥 https://www.reddit.com/r/aivideo/comments/1lrwpu5/wash_the_snorp/ . 🍔 TV AD OF THE YEAR . Nimrod Animations \"The Future of Intimacy\" 🔥 https://www.reddit.com/r/aivideo/comments/1oi8sd8/the_future_of_intimacy/ . PJ Accetturo \"Puppramin\" 🔥 https://www.reddit.com/r/aivideo/comments/1kslhy3/i_used_to_make_500k_in_pharmaceutical_commercial/ . Ok Injury \"Beer Tree\" 🔥 https://www.reddit.com/r/aivideo/comments/1ofk04l/beer_tree/ . Jhonny Darrell \"Geriatric Meltdown 2000\" 🔥 https://www.reddit.com/r/aivideo/comments/1k3q62k/geriatric_meltdown_2000/ . Perfectly Unreal AI \"Maid Service\" 🔥 https://www.reddit.com/r/aivideo/comments/1or34al/bikini_babes_maids_service_mostly_used_klingai/ . 🍟 TV SHOW OF THE YEAR Category Includes: TV SHOW + DOCUMENTARY + ANIME . Qemmish \"How Toothpaste Is Made\" 🔥 https://www.reddit.com/r/aivideo/comments/1jujzh2/how_toothpaste_is_made/ . Code Samurai \"Interdimensional Cable\" 🔥 https://www.reddit.com/r/aivideo/comments/1ks2jp9/interdimensional_cable_veo_3/ . Darri 3D \"America’s Funniest AI Home Videos – Episode 1\" 🔥 https://www.reddit.com/r/aivideo/comments/1kjp3is/americas_funniest_ai_home_videos_episode_1/ . Gorm The Old \"Mr. Rogers at the Battle of Agincourt\" 🔥 https://www.reddit.com/r/aivideo/comments/1nwzxfq/mr_rogers_at_the_battle_of_agincourt/ . I Only Like Giraffes \"ADHtv\" 🔥 https://www.reddit.com/r/aivideo/comments/1oqae7p/channel_surfing_through_alternate_dimensions_full/ . 😂 COMEDY OF THE YEAR Category Includes: COMEDY SKETCH / PARODY + COMEDY STAND UP . DOTM Society \"Hood Tours\" 🔥 https://www.reddit.com/r/aivideo/comments/1ojkdal/hood_tours/ . Middle Detective \"Boomers Selling Their Home\" 🔥 https://www.reddit.com/r/aivideo/comments/1mnxltw/boomers_selling_their_home_in_2025/ . Barely Standing Up \"Babies Doing Stand Up\" 🔥 https://www.reddit.com/r/aivideo/comments/1omwute/babies_doing_standup/ . Solopops \"Fast Food Wars\" 🔥 https://www.reddit.com/r/aivideo/comments/1pfuclp/mcdo_vs_kfc_a_fast_food_war_film/ . Krogg Rage \"Oh Yeah, That’s Powerful\" 🔥 https://www.reddit.com/r/aivideo/comments/1pghs10/with_great_power_comes_great_accountability/ . 🍿 MOVIE TRAILER OF THE YEAR . Jurassic Smoothie \"Collect and Liquify\" 🔥 https://www.reddit.com/r/aivideo/comments/1luxcv5/collect_and_liquify/ . Neuro Dreams Exe \"The Awakening\" 🔥 https://www.reddit.com/r/aivideo/comments/1nsrjax/the_awakening/ . Eat The Ethos \"Seraphys\" 🔥 https://www.reddit.com/r/aivideo/comments/1l9wgr7/trailer_for_the_ai_show_seraphys/ . Neilchacho \"Dick Gun\" 🔥 https://www.reddit.com/r/aivideo/comments/1m0uopa/dick_gun_official_trailer_one_mans_junk_is/ . Daryl Wein \"Beer A Geddon\" 🔥 https://www.reddit.com/r/aivideo/comments/1kw33sh/insane_memorial_day_movie_trailer/ . 🎬 MOVIE OF THE YEAR . Eat The Ethos \"The Internet Is Dead\" 🔥 https://www.reddit.com/r/aivideo/comments/1kwt2cv/the_internet_is_dead/ . Gossip Goblin \"The Thirteenth Cycle of Humanity\" 🔥 https://www.reddit.com/r/aivideo/comments/1lkax2e/the_thirteenth_cycle_of_humanity/ . Darri 3D \"Cardboarding\" 🔥 https://www.reddit.com/r/aivideo/comments/1mt8v39/carboarding/ . Solopops \"Egg Protein\" 🔥 https://www.reddit.com/r/aivideo/comments/1q6mmpg/egg_protein_my_weirdest_ai_film/ . 1pcity Studios \"AI Blockbusters — Theme Park Collapse\" 🔥 https://www.reddit.com/r/aivideo/comments/1mjw7hm/theme_park_collapse/ . WATCH THE AI VIDEO AWARDS 2026 SUNDAY MARCH 15th — AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) . 🥳 OFFICIAL AI VIDEO AWARDS 2026 AFTERPARTY . OFFICIAL AI VIDEO AWARDS AFTERPARTY will be held at the Ghost Bar in the Palms Casino in Las Vegas the night of the awards, this is an invite-only ai video industry event for AI creators who are NOMINATED, PRESENTING or PERFORMING at the ceremony along with their production teams. Please get in touch with the mod team for details. . submitted by /u/ZashManson [link] [comments]",
     "publishedAt": "2026-01-15T08:28:02.000Z",
-    "crawledAt": "2026-05-20T11:37:46.959Z",
+    "crawledAt": "2026-05-20T11:56:01.707Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -494,7 +494,7 @@
     "title": "The Odyssey (But Accurate) | Trailer 4K",
     "rawSummary": "submitted by /u/Exciting-Ladder-30 [link] [comments]",
     "publishedAt": "2026-05-20T10:07:35.000Z",
-    "crawledAt": "2026-05-20T11:37:46.959Z",
+    "crawledAt": "2026-05-20T11:56:01.707Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "title": "It Was Mister Fluffy",
     "rawSummary": "submitted by /u/MisterFluffyAI [link] [comments]",
     "publishedAt": "2026-05-19T17:12:15.000Z",
-    "crawledAt": "2026-05-20T11:37:46.960Z",
+    "crawledAt": "2026-05-20T11:56:01.707Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -530,7 +530,7 @@
     "title": "Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)",
     "rawSummary": "submitted by /u/ShaneKaiGlenn [link] [comments]",
     "publishedAt": "2026-05-20T03:00:37.000Z",
-    "crawledAt": "2026-05-20T11:37:46.960Z",
+    "crawledAt": "2026-05-20T11:56:01.707Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -547,8 +547,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-05-20T11:37:46.725Z",
-    "crawledAt": "2026-05-20T11:37:46.725Z",
+    "publishedAt": "2026-05-20T11:56:01.438Z",
+    "crawledAt": "2026-05-20T11:56:01.438Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,8 +565,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs.",
-    "publishedAt": "2026-05-20T11:37:46.444Z",
-    "crawledAt": "2026-05-20T11:37:46.444Z",
+    "publishedAt": "2026-05-20T11:56:01.213Z",
+    "crawledAt": "2026-05-20T11:56:01.213Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -582,8 +582,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-05-20T11:37:47.023Z",
-    "crawledAt": "2026-05-20T11:37:47.023Z",
+    "publishedAt": "2026-05-20T11:56:01.941Z",
+    "crawledAt": "2026-05-20T11:56:01.941Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -601,8 +601,8 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
     "rawSummary": "The blog of the Replit team where we talk about new features, design, and engineering!",
-    "publishedAt": "2026-05-20T11:37:46.429Z",
-    "crawledAt": "2026-05-20T11:37:46.429Z",
+    "publishedAt": "2026-05-20T11:56:01.261Z",
+    "crawledAt": "2026-05-20T11:56:01.261Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -619,8 +619,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
     "rawSummary": "News and updates from the Comfy team. Click to read ComfyUI Blog, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-05-20T11:37:46.520Z",
-    "crawledAt": "2026-05-20T11:37:46.520Z",
+    "publishedAt": "2026-05-20T11:56:01.384Z",
+    "crawledAt": "2026-05-20T11:56:01.384Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -639,7 +639,7 @@
     "title": "V8.1 Alpha is out!",
     "rawSummary": "Thanks for testing our V8.0 model over the last month! Today we're releasing our next version of V8 - V8.1 What’s new in V8.1? V8.1 has a consistent and familiar aesthetic in the spirit of V7 . Moodboards and srefs are now super stable and will be everything you love. HD mode is now 3x faster and 3x cheaper . It’s so cheap we’re making it default for V8.1 Standard resolution is now 50% faster and 25% cheaper . Standard resolution in V8.1 at full quality is as fast as V7 draft mode! It’s great for exploring and iterating *fast*. We’ve also added a button called “Run as HD” which will rerun any SD job as HD. We’ve also brought back some community favorite features Image prompts and even image weights are now available in V8.1 New Prompt Shortener , which will kick in anytime you go over the prompt length limits Updated Describe that gives longer more detailed prompts and matches the prompting style of V8 Please Note: Our V8 series of models are still only available on alpha.midjourney.com and are in an early testing phase. Things will change! Perhaps without notice! But good stuff is on the way. It is likely that we will decommission our V8.0 model after V8.1 has been out for a few weeks. If you find something the old model did better than the new one please let us know on our discord server! What’s next? We’re going to try to give a quick shot for some V8 upscalers and then we’re moving onto our V8 edit, inpainting, and outpainting model upgrades. Have fun everyone! And thank you for being a part of our community submitted by /u/Fnuckle [link] [comments]",
     "publishedAt": "2026-04-14T21:44:04.000Z",
-    "crawledAt": "2026-05-20T11:37:47.648Z",
+    "crawledAt": "2026-05-20T11:56:02.077Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -657,7 +657,7 @@
     "title": "V8 alpha is here!",
     "rawSummary": "Hey y'all! Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com . We want your feedback and your help. Let’s explore what this new model can do! V8 is an incredible model. It’s much better at following detailed directions and will still surprise you when you ask. Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing. Images are more coherent and detailed. Text rendering works better than ever (when specified in “quotes”). And image generation is ~5x faster than before. We’ve upgraded our web interfaces to support this speed. And more is coming. We have an improved conversation mode so you can just ‘talk’ in flow, a “Grid Mode” so you can focus on a single big set of images, and we’ve moved our settings into ‘sidebars’ so you can tweak settings without blocking your view. V8 launches with support for multiple aspect ratios, --chaos, --weird, --exp, --raw . We support backwards compatibility with your V7 personalization profiles, moodboards, and srefs. V8 brings a new --hd mode which natively renders images at 2K resolution and a --q 4 mode if you need a little bit of extra coherence. Modes and Pricing: Presently, Relax is not yet supported. We are working on a new server cluster for Relax plus cheaper render modes. --HD, --Q4, SREF, and Moodboard jobs are 4x as slow as regular jobs and each costs 4x (for now). The best way to help us improve V8 is to rate images in the lightbox. Click an image in create then click “I like this image” “I don't like this image” on as many of your V8 images as possible. You can use 1/2/3 hotkeys and arrow keys to rate images quickly. Other Tips and Tricks: If you’re going for photos or a more ‘plain’ or ‘in control’ look we’d recommend switching to --raw right away or using moodboards or srefs to control your style. We’re still working on the ‘default’ aesthetics of V8, but we strongly encourage you to use your personalization and even crank it to –stylize 1000 asap. V8 is going to shine most right now when you rely heavily on our stylization systems and when you trend towards longer more specific prompting. Please Note : This is an entirely new model with unique strengths and weaknesses, we want to learn from you what it's good and bad at but keep in mind it may require totally new prompting styles. So play around a bit! It’s time to play! Show off what you’re making by using the V8 alpha flair. As the model becomes more mature, we’ll do a community-wide roadmap ranking session to help us figure out what to prioritize next. Thanks again for everyone’s help with the V8 pre-release rating parties, and thank you so much for being a part of Midjourney! Let’s have fun out there and find new wonders on this vast and shared sea of imagination. submitted by /u/Fnuckle [link] [comments]",
     "publishedAt": "2026-03-17T21:39:40.000Z",
-    "crawledAt": "2026-05-20T11:37:47.648Z",
+    "crawledAt": "2026-05-20T11:56:02.077Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -675,7 +675,7 @@
     "title": "Release The Hounds",
     "rawSummary": "submitted by /u/Scary-Demand7252 [link] [comments]",
     "publishedAt": "2026-05-20T10:19:10.000Z",
-    "crawledAt": "2026-05-20T11:37:47.649Z",
+    "crawledAt": "2026-05-20T11:56:02.077Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -693,7 +693,7 @@
     "title": "Duel in the Wasteland",
     "rawSummary": "Watch on YouTube or Follow me on TikTok ! Cheerio submitted by /u/BlueMonStar [link] [comments]",
     "publishedAt": "2026-05-19T17:29:00.000Z",
-    "crawledAt": "2026-05-20T11:37:47.649Z",
+    "crawledAt": "2026-05-20T11:56:02.077Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -711,7 +711,7 @@
     "title": "The harem, the bard, and vengeance.",
     "rawSummary": "submitted by /u/Lopsided-Ad-1858 [link] [comments]",
     "publishedAt": "2026-05-19T20:03:47.000Z",
-    "crawledAt": "2026-05-20T11:37:47.649Z",
+    "crawledAt": "2026-05-20T11:56:02.077Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -728,8 +728,8 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "Kling AI",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-05-20T11:37:48.326Z",
-    "crawledAt": "2026-05-20T11:37:48.326Z",
+    "publishedAt": "2026-05-20T11:56:03.242Z",
+    "crawledAt": "2026-05-20T11:56:03.242Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -747,7 +747,7 @@
     "title": "Extensive list of generative tools curated by Eyal Gruss",
     "rawSummary": "submitted by /u/Wiskkey [link] [comments]",
     "publishedAt": "2021-01-22T08:37:47.000Z",
-    "crawledAt": "2026-05-20T11:37:47.424Z",
+    "crawledAt": "2026-05-20T11:56:02.070Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -765,7 +765,7 @@
     "title": "Probable changes to the subreddit",
     "rawSummary": "In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved. Basically, individual images or albums you created in Midjourney/Stable Diffusion/DALL-E 2 would not be enough to get approved. For those, the dedicated subreddits are more fitting I.e. /r/midjourney /r/StableDiffusion /r/dalle2 /r/deepdream \"But that will kill this forum's traffic!\" Almost certainly, but it'd be for the purpose of reorienting it. Admittedly when I first created /r/MediaSynthesis , I did so with the intent that any AI generated media would be allowed. But that was 2018, when AI generated media was much rarer and harder to create. Now that synthetic media is beginning to grow out of infancy into toddlerhood, I would like to instead help build subs more dedicated to the methodologies grow and keep this one more or less research-based. submitted by /u/Yuli-Ban [link] [comments]",
     "publishedAt": "2022-09-26T20:55:02.000Z",
-    "crawledAt": "2026-05-20T11:37:47.424Z",
+    "crawledAt": "2026-05-20T11:56:02.070Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -783,7 +783,7 @@
     "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
     "rawSummary": "submitted by /u/gwern [link] [comments]",
     "publishedAt": "2026-05-19T23:53:07.000Z",
-    "crawledAt": "2026-05-20T11:37:47.424Z",
+    "crawledAt": "2026-05-20T11:56:02.070Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -801,7 +801,7 @@
     "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
     "rawSummary": "submitted by /u/gwern [link] [comments]",
     "publishedAt": "2026-05-13T23:03:13.000Z",
-    "crawledAt": "2026-05-20T11:37:47.424Z",
+    "crawledAt": "2026-05-20T11:56:02.070Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -819,7 +819,7 @@
     "title": "People think AI films are just one click — mine took 57 days of obsessive detail",
     "rawSummary": "Most AI videos are generated in minutes. This one wasn't. Character design, scenario, lyrics, scene composition — I directed every single detail by hand. 57 days. 3 full rewrites. An 8-minute AI musical film called GOD IS DEAD. Watch the full version here: https://youtu.be/uS9wHPBSqUo Tools used: SUNO AI : Song production & narration/dialogue reading Wan2.5 Speak, Sync Lipsync 2 Pro, Kling Avatars 2.0 : Lip-sync work aligned to audio Nanobanana, Freepik Space Nord, Freepik App : Image generation, character sheet production & character design Kling 3.0, Runway Gen 4.5, Higsfield Cinema Studio 2.5 Seadance 1.5, Higsfield App (Transitions) : Image-to-video conversion & video asset production ChatGPT, Claude : AI prompt creation, story assistance & English translation submitted by /u/HANSHIN_93hz [link] [comments]",
     "publishedAt": "2026-04-23T16:42:41.000Z",
-    "crawledAt": "2026-05-20T11:37:47.424Z",
+    "crawledAt": "2026-05-20T11:56:02.070Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -836,8 +836,8 @@
     "sourceUrl": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
     "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "publishedAt": "2026-05-20T11:37:46.609Z",
-    "crawledAt": "2026-05-20T11:37:46.609Z",
+    "publishedAt": "2026-05-20T11:56:01.399Z",
+    "crawledAt": "2026-05-20T11:56:01.399Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -846,7 +846,7 @@
     ],
     "score": 0.85,
     "crawlStatus": "live",
-    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 6 days ago • 5 Software Forgets: Agent Traces Are the Memory huggingface • about 14 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots nvidia • Apr 17 • 16 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 17 days ago • 4 OlmoEarth v1.1: A more efficient family of models 8 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 30 May 19, 2026 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation 11 May 18, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 28 May 18, 2026 The Open Agent Leaderboard 7 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 48 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 72 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 9 April 27, 2026 Previous 1 2 3 ... 56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 6 days ago • 5 Software Forgets: Agent Traces Are the Memory huggingface • about 14 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots nvidia • Apr 17 • 16 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 17 days ago • 4 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 6 days ago • 5 Software Forgets: Agent Traces Are the Memory huggingface • about 14 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots nvidia • Apr 17 • 16 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 17 days ago • 4 OlmoEarth v1.1: A more efficient family of models 8 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 30 May 19, 2026 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation 11 May 18, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 28 May 18, 2026 The Open Agent Leaderboard 8 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 48 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 72 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 9 April 27, 2026 Previous 1 2 3 ... 56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 5 days ago • 17 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 5 days ago • 11 EMO: Pretraining mixture of experts for emergent modularity allenai • 12 days ago • 37 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 9 days ago • 22 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 332 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 6 days ago • 5 Software Forgets: Agent Traces Are the Memory huggingface • about 14 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 854 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 162 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 121 Common AI Model Formats ngxson • Feb 27, 2025 • 72 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 80 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 18 Forge: Scalable Agent RL Framework and Algorithm MiniMax-AI • Feb 13 • 154 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots nvidia • Apr 17 • 16 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 17 days ago • 4 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
     "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
   },
   {
@@ -858,7 +858,7 @@
     "title": "llm-gemini 0.32",
     "rawSummary": "Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash . See also my notes on Gemini 3.5 Flash , and the pelican I drew using this upgrade to the plugin. Tags: gemini , llm",
     "publishedAt": "2026-05-19T23:46:27.000Z",
-    "crawledAt": "2026-05-20T11:37:46.534Z",
+    "crawledAt": "2026-05-20T11:56:01.297Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -876,7 +876,7 @@
     "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
     "rawSummary": "Today at Google I/O, Google released Gemini 3.5 Flash . This one skipped the -preview modifier and went straight to general availability, and Google appear to be using it for a whole lot of their key products: 3.5 Flash is available today to billions of people globally: For everyone via the Gemini app and AI Mode in Google Search For developers in our agent-first development platform Google Antigravity and Gemini API in Google AI Studio and Android Studio For enterprises in Gemini Enterprise Agent Platform and Gemini Enterprise. As usual with Gemini, the most interesting details are tucked away in the What's new in Gemini 3.5 Flash developer documentation. It mostly has the same set of platform features as the previous Gemini 3.x series, albeit with no computer use . The model ID is gemini-3.5-flash . The knowledge cut-off is January 2025, and it supports 1,048,576 input tokens and 65,536 maximum output tokens. Google are also pushing a new Interactions API , currently in beta, which looks to me like their version of the patterns introduced by OpenAI Responses - in particular server-side history management. The price has gone up Gemini 3.5 Flash is accompanied by a notable price bump. The previous models in the \"Flash\" family were Gemini 3 Flash Preview and Gemini 3.1 Flash-Lite . The new 3.5 Flash is 3x the price of 3 Flash Preview and 6x the price of 3.1 Flash-Lite (see price comparison here ). At $1.50/million input and $9/million output it's getting close in price to Google's Gemini 3.1 Pro, which is $2 and $12. The Gemini team promise that 3.5 Pro will roll out \"next month\" - presumably at an even higher price. This fits a trend: OpenAI's GPT-5.5 was 2x the price of GPT-5.4, and Claude Opus 4.7 is around 1.46x the price of 4.6 when you take the new tokenizer into account . Given the price increase it's interesting to see Google roll it out for so many of their own free-to-consumer products. It feels like all three of the major AI labs are starting to probe the price tolerance of their API customers. Artificial Analysis publish the cost to run their proprietary benchmark against models, which is a useful way to take things like tokenization and increased volume of reasoning tokens into account. Some numbers worth comparing: Gemini 3.5 Flash (high) : $1,551.60 Gemini 3.1 Pro Preview : $892.28 Gemini 3 Flash Preview (Reasoning) : $278.26 Gemini 3.1 Flash-Lite Preview : $93.60 Running the benchmark for 3.5 Flash (high) cost significantly more than 3.1 Pro Preview! Here are some numbers from other vendors: Claude Opus 4.7 (Adaptive Reasoning, Max Effort) : $5,117.14 Claude Opus 4.7 (Non-reasoning, High Effort) : $1,217.23 GPT-5.5 (xhigh) : $3,357.00 GPT-5.5 (medium) : $1,199.14 A pelican on a bicycle I ran \"Generate an SVG of a pelican riding a bicycle\" against the Gemini API and got back this pelican, which is a lot : From the code comments: hedgehog on Hacker News : That pelican looks like it's in Miami for a crypto conference. That one cost me 11 input tokens and 14,403 output tokens, for a total cost of just under 13 cents . Tags: google , ai , generative-ai , llms , gemini , llm-pricing , pelican-riding-a-bicycle , llm-release",
     "publishedAt": "2026-05-19T22:40:25.000Z",
-    "crawledAt": "2026-05-20T11:37:46.535Z",
+    "crawledAt": "2026-05-20T11:56:01.298Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -895,7 +895,7 @@
     "title": "datasette-llm-accountant 0.1a4",
     "rawSummary": "Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs datasette-llm#7 Tags: llm , datasette",
     "publishedAt": "2026-05-19T20:45:43.000Z",
-    "crawledAt": "2026-05-20T11:37:46.535Z",
+    "crawledAt": "2026-05-20T11:56:01.298Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -913,7 +913,7 @@
     "title": "llm-gemini 0.32a0",
     "rawSummary": "Release: llm-gemini 0.32a0 Compatible with llm>=0.32a0 alpha - adds the ability to stream reasoning tokens. Tags: gemini , llm",
     "publishedAt": "2026-05-19T20:36:23.000Z",
-    "crawledAt": "2026-05-20T11:37:46.535Z",
+    "crawledAt": "2026-05-20T11:56:01.298Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -931,7 +931,7 @@
     "title": "datasette-llm 0.1a8",
     "rawSummary": "Release: datasette-llm 0.1a8 Fix for bug where llm_prompt_context() hook did not fully collect chains of responses. #7",
     "publishedAt": "2026-05-19T20:28:16.000Z",
-    "crawledAt": "2026-05-20T11:37:46.535Z",
+    "crawledAt": "2026-05-20T11:56:01.298Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -948,8 +948,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-05-20T11:37:46.638Z",
-    "crawledAt": "2026-05-20T11:37:46.638Z",
+    "publishedAt": "2026-05-20T11:56:01.390Z",
+    "crawledAt": "2026-05-20T11:56:01.390Z",
     "categoryHints": [
       "ai-agentic"
     ],
