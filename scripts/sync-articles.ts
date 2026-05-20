@@ -5,7 +5,6 @@ import type { GeneratedArticleDraft, SourceItem, SourceNote } from "../pipeline/
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 
-// ── New Article schema (matching apps/web/src/lib/schema.ts) ──
 interface MediaBlock {
   type: "image" | "diagram" | "screenshot" | "comparison" | "video" | "embed";
   src: string;
@@ -52,7 +51,7 @@ interface InsightBlock {
 
 interface TakeawayBlock {
   title?: string;
-  text?: string;
+  text?: string | string[];
   items?: string[];
 }
 
@@ -91,7 +90,6 @@ interface Article {
   status: string;
 }
 
-// ── Helpers ──
 function slugify(text: string): string {
   return text
     .toLowerCase()
@@ -102,16 +100,24 @@ function slugify(text: string): string {
     .slice(0, 80);
 }
 
-function readingTime(body: string): number {
-  const words = body.split(/\s+/).length;
+function readingTimeFromWords(words: number): number {
   return Math.max(1, Math.ceil(words / 200));
 }
 
-function stripMarkdownHeaders(text: string): string {
-  return text.replace(/^#{1,4}\s+/gm, "").replace(/\*\*/g, "").replace(/\*/g, "");
+/** Count words across all structured sections */
+function countSectionWords(sections: ArticleSection[] | undefined): number {
+  if (!sections) return 0;
+  let count = 0;
+  for (const sec of sections) {
+    for (const block of sec.blocks) {
+      if ((block as any).text) count += (block as any).text.split(/\s+/).length;
+      if (block.items) count += block.items.join(" ").split(/\s+/).length;
+    }
+  }
+  return count;
 }
 
-/** Parse bodyMarkdown into sections based on ### headers */
+/** Parse bodyMarkdown into sections (legacy fallback for old format) */
 function parseSections(bodyMd: string): ArticleSection[] {
   const sections: ArticleSection[] = [];
   const lines = bodyMd.split("\n");
@@ -121,28 +127,12 @@ function parseSections(bodyMd: string): ArticleSection[] {
   function flushParagraphs() {
     if (currentParagraphs.length === 0) return;
     const text = currentParagraphs.join("\n").trim();
-    if (text) {
-      const blocks: ContentBlock[] = [];
-
-      // Check if this is a list
-      const listItems = text
-        .split("\n")
-        .map((l) => l.trim())
-        .filter((l) => l.startsWith("*   ") || l.startsWith("- ") || l.startsWith("* "));
+    if (text && currentSection) {
+      const listItems = text.split("\n").map((l) => l.trim()).filter((l) => l.startsWith("- ") || l.startsWith("* "));
       if (listItems.length >= 2 && listItems.length === text.split("\n").filter((l) => l.trim()).length) {
-        blocks.push({
-          type: "list",
-          items: listItems.map((l) => stripMarkdownHeaders(l.replace(/^[\*\-\s]+/, ""))),
-        });
+        currentSection.blocks.push({ type: "list", items: listItems.map((l) => l.replace(/^[\*\-]\s+/, "")) });
       } else {
-        blocks.push({
-          type: "paragraph",
-          text: stripMarkdownHeaders(text),
-        });
-      }
-
-      if (currentSection) {
-        currentSection.blocks.push(...blocks);
+        currentSection.blocks.push({ type: "paragraph", text });
       }
     }
     currentParagraphs = [];
@@ -152,45 +142,30 @@ function parseSections(bodyMd: string): ArticleSection[] {
     const h3Match = line.match(/^### (.+)/);
     if (h3Match) {
       flushParagraphs();
-      if (currentSection && currentSection.blocks.length > 0) {
-        sections.push(currentSection);
-      }
-      currentSection = {
-        id: "sec_" + slugify(h3Match[1]),
-        heading: stripMarkdownHeaders(h3Match[1]),
-        blocks: [],
-      };
+      if (currentSection && currentSection.blocks.length > 0) sections.push(currentSection);
+      currentSection = { id: "sec_" + slugify(h3Match[1]), heading: h3Match[1], blocks: [] };
     } else if (!line.trim()) {
       flushParagraphs();
     } else {
       currentParagraphs.push(line);
     }
   }
-
   flushParagraphs();
-  if (currentSection && currentSection.blocks.length > 0) {
-    sections.push(currentSection);
-  }
+  if (currentSection && currentSection.blocks.length > 0) sections.push(currentSection);
 
-  // If no sections found, create a single section with all content
   if (sections.length === 0 && bodyMd.trim()) {
-    sections.push({
-      id: "sec_main",
-      heading: "Main Analysis",
-      blocks: [{ type: "paragraph", text: stripMarkdownHeaders(bodyMd.trim()) }],
-    });
+    sections.push({ id: "sec_main", heading: "Main Analysis", blocks: [{ type: "paragraph", text: bodyMd.trim() }] });
   }
 
   return sections;
 }
 
-// ── Main ──
 async function main() {
   const draftsPath = resolve(root, "content/exports/generation-drafts.mock.json");
   const notesPath = resolve(root, "content/notes/source-notes.mock.json");
   const outPath = resolve(root, "apps/web/src/data/articles-generated.ts");
 
-  let drafts: { vi: GeneratedArticleDraft; en: GeneratedArticleDraft }[];
+  let drafts: { vi: any; en: any }[];
   let notes: SourceNote[];
 
   try {
@@ -208,9 +183,7 @@ async function main() {
     const { readdir } = await import("node:fs/promises");
     const files = (await readdir(rawDir)).filter((f) => f.endsWith(".json")).sort();
     const latest = files.pop();
-    if (latest) {
-      sourceItems = JSON.parse(await readFile(resolve(rawDir, latest), "utf-8"));
-    }
+    if (latest) sourceItems = JSON.parse(await readFile(resolve(rawDir, latest), "utf-8"));
   } catch { /* best-effort */ }
 
   const imageUrlBySource = new Map<string, string>();
@@ -218,7 +191,6 @@ async function main() {
     if (item.imageUrl && item.id) imageUrlBySource.set(item.id, item.imageUrl);
   }
 
-  // Also build source name/url map for inline media credits
   const sourceMetaById = new Map<string, { name: string; url: string }>();
   for (const item of sourceItems) {
     if (item.id) sourceMetaById.set(item.id, { name: item.sourceName, url: item.sourceUrl });
@@ -228,105 +200,93 @@ async function main() {
 
   for (const draftSet of drafts) {
     for (const draft of [draftSet.vi, draftSet.en]) {
-      if (!draft.title || draft.generation.mode === "template-fallback") continue;
+      if (!draft.title) continue;
 
-      const relatedNotes = notes.filter((n) => draft.sourceIds.includes(n.sourceId));
+      const relatedNotes = notes.filter((n: SourceNote) => draft.sourceIds?.includes(n.sourceId));
 
-      // ── Sources (new format) ──
-      const sources: Source[] = relatedNotes.map((n) => ({
-        title: n.title,
-        publisher: n.sourceName,
-        url: n.url,
-        publishedAt: n.publishedAt,
-      }));
-      if (sources.length === 0) {
-        sources.push({
-          title: draft.title,
-          publisher: "AI Radar",
-          url: `https://ai-radar-news-pi.vercel.app/${draft.lang}/${draft.category}/${draft.title}`,
-        });
+      // ── Sources ──
+      let sources: Source[];
+      if (Array.isArray(draft.sources) && draft.sources.length > 0) {
+        // Structured output — model provided sources directly
+        sources = draft.sources;
+      } else {
+        sources = relatedNotes.map((n: SourceNote) => ({
+          title: n.title,
+          publisher: n.sourceName,
+          url: n.url,
+          publishedAt: n.publishedAt,
+        }));
+        if (sources.length === 0) {
+          sources.push({
+            title: draft.title,
+            publisher: "AI Radar",
+            url: `https://ai-radar-news-pi.vercel.app/${draft.lang}/${draft.category}/${draft.title}`,
+          });
+        }
       }
 
       // ── Hero Media ──
-      let bestImage = draft.imageUrl || undefined;
-      if (!bestImage && draft.sourceIds) {
-        for (const sid of draft.sourceIds) {
-          const img = imageUrlBySource.get(sid);
-          if (img) { bestImage = img; break; }
-        }
-      }
-
       let heroMedia: MediaBlock | undefined;
-      if (bestImage) {
-        heroMedia = {
-          type: "image",
-          src: bestImage,
-          alt: draft.title,
-          caption: draft.subtitle,
-        };
-      }
-
-      // ── Highlights (from TL;DR) ──
-      const tldr = Array.isArray(draft.tldr) ? draft.tldr : [String(draft.tldr || draft.subtitle)];
-      const highlights: HighlightItem[] = tldr
-        .filter(Boolean)
-        .map((text) => ({ text }));
-
-      // ── Sections (from bodyMarkdown) ──
-      const sections = parseSections(draft.bodyMarkdown);
-
-      // Collect inline media from source items (not hero) and inject into sections
-      const inlineImages: { src: string; sourceName: string; sourceUrl: string }[] = [];
-      if (draft.sourceIds) {
-        for (const sid of draft.sourceIds) {
-          const img = imageUrlBySource.get(sid);
-          if (img && img !== bestImage) {
-            const meta = sourceMetaById.get(sid);
-            inlineImages.push({
-              src: img,
-              sourceName: meta?.name || "Source",
-              sourceUrl: meta?.url || "#",
-            });
+      if (draft.heroMedia && draft.heroMedia.src) {
+        // Structured output — model provided heroMedia directly
+        heroMedia = draft.heroMedia;
+      } else {
+        let bestImage = draft.imageUrl || undefined;
+        if (!bestImage && draft.sourceIds) {
+          for (const sid of draft.sourceIds) {
+            const img = imageUrlBySource.get(sid);
+            if (img) { bestImage = img; break; }
           }
         }
+        if (bestImage) {
+          heroMedia = { type: "image", src: bestImage, alt: draft.title, caption: draft.subtitle };
+        }
       }
 
-      // Distribute inline images across sections (one per section where applicable)
-      for (let i = 0; i < Math.min(inlineImages.length, sections.length); i++) {
-        sections[i].blocks.push({
-          type: "media",
-          mediaType: "image",
-          src: inlineImages[i].src,
-          alt: sections[i].heading,
-          caption: "Hình minh họa",
-          credit: inlineImages[i].sourceName,
-          sourceUrl: inlineImages[i].sourceUrl,
-          placement: "after-paragraph",
-        });
+      // ── Highlights (Điểm đáng chú ý) ──
+      let highlights: HighlightItem[];
+      if (Array.isArray(draft.highlights) && draft.highlights.length > 0) {
+        // Structured output
+        highlights = draft.highlights;
+      } else {
+        const tldr = Array.isArray(draft.tldr) ? draft.tldr : [String(draft.tldr || draft.subtitle)];
+        highlights = tldr.filter(Boolean).map((text: string) => ({ text }));
+      }
+
+      // ── Sections (Main Content) ──
+      let sections: ArticleSection[];
+      if (Array.isArray(draft.sections) && draft.sections.length > 0) {
+        // Structured output — model provided sections directly
+        sections = draft.sections;
+      } else if (draft.bodyMarkdown) {
+        // Legacy bodyMarkdown → parse into sections
+        sections = parseSections(draft.bodyMarkdown);
+      } else {
+        sections = [{ id: "sec_main", heading: "Main Analysis", blocks: [] }];
       }
 
       // ── Insight Blocks ──
-      const insightBlocks: InsightBlock[] = [];
-      if (draft.whyItMatters) {
-        insightBlocks.push({
-          title: "Vì sao đáng chú ý",
-          text: draft.whyItMatters,
-          variant: "analysis",
-        });
+      let insightBlocks: InsightBlock[];
+      if (Array.isArray(draft.insightBlocks) && draft.insightBlocks.length > 0) {
+        insightBlocks = draft.insightBlocks;
+      } else if (draft.whyItMatters) {
+        insightBlocks = [{ title: "Vì sao đáng chú ý", text: draft.whyItMatters, variant: "analysis" as const }];
+      } else {
+        insightBlocks = [];
       }
 
       // ── Takeaway ──
       let takeaway: TakeawayBlock | undefined;
-      if (draft.creatorTakeaway) {
-        takeaway = {
-          title: "Creator / Builder Takeaway",
-          text: draft.creatorTakeaway,
-        };
+      if (draft.takeaway && (draft.takeaway.items || draft.takeaway.text)) {
+        takeaway = draft.takeaway;
+      } else if (draft.creatorTakeaway) {
+        takeaway = { title: "Creator / Builder Takeaway", text: draft.creatorTakeaway };
       }
 
       // ── Assemble ──
-      const genTime = draft.generation.generatedAt || new Date().toISOString();
+      const genTime = draft.generation?.generatedAt || new Date().toISOString();
       const slug = `${slugify(draft.title.slice(0, 60))}-${genTime.slice(0, 10)}`;
+      const wordCount = countSectionWords(sections);
 
       articles.push({
         id: draft.id,
@@ -336,7 +296,7 @@ async function main() {
         title: draft.title,
         subtitle: draft.subtitle,
         publishedAt: genTime,
-        readingTime: readingTime(draft.bodyMarkdown),
+        readingTime: readingTimeFromWords(wordCount),
         sourceCount: sources.length,
         tags: Array.isArray(draft.tags) ? draft.tags : [draft.category],
         heroMedia,
@@ -346,11 +306,11 @@ async function main() {
         takeaway,
         sources,
         generation: {
-          model: draft.generation.model,
-          promptVersion: draft.generation.promptVersion,
+          model: draft.generation?.model || "gemma4:31b",
+          promptVersion: draft.generation?.promptVersion || "unknown",
           generatedAt: genTime,
-          sourceClusterId: draft.generation.sourceClusterId,
-          confidence: draft.generation.confidence,
+          sourceClusterId: draft.generation?.sourceClusterId || draft.id?.replace(/_(vi|en)$/, ""),
+          confidence: draft.generation?.confidence || "medium",
         },
         status: "published",
       });
