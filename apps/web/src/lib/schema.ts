@@ -147,7 +147,7 @@ export type Article = {
   // New structured fields
   heroMedia?: MediaBlock;
   highlights?: HighlightItem[];
-  sections: ArticleSection[];
+  sections?: ArticleSection[];
   insightBlocks?: InsightBlock[];
   takeaway?: TakeawayBlock;
   sourceCount?: number;

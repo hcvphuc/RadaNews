@@ -60,7 +60,10 @@ export function getHotTopics(lang: Lang) {
 export function getReferencedSources(lang: Lang) {
   const sourceCounts = new Map<string, number>();
   getArticles(lang).forEach((article) => {
-    article.sources.forEach((source) => sourceCounts.set(source.sourceName, (sourceCounts.get(source.sourceName) ?? 0) + 1));
+    article.sources.forEach((source) => {
+      const name = source.sourceName || source.publisher || source.title;
+      sourceCounts.set(name, (sourceCounts.get(name) ?? 0) + 1);
+    });
   });
   return [...sourceCounts.entries()]
     .sort((a, b) => b[1] - a[1])

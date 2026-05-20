@@ -66,7 +66,7 @@ function bgStyle(src: string | undefined): string {
       <aside class="toc thin-panel">
         <strong>AI Radar</strong>
         <a href="#highlights">Điểm đáng chú ý</a>
-        {article.sections.map((section) => (
+        {article.sections?.map((section) => (
           <a href={"#" + section.id}>{section.heading}</a>
         ))}
         {article.insightBlocks && article.insightBlocks.length > 0 && <a href="#insights">Phân tích</a>}
@@ -96,7 +96,7 @@ function bgStyle(src: string | undefined): string {
         )}
 
         <!-- ═══ 4. Main Content (Sections) ═══ -->
-        {article.sections.map((section) => (
+        {article.sections?.map((section) => (
           <section id={section.id} class="article-section">
             <h3 class="section-heading">{section.heading}</h3>
             {section.subheading && <p class="section-subheading">{section.subheading}</p>}
