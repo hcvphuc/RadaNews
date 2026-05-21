@@ -2299,6 +2299,16 @@ export const generatedArticles: Article[] = [
             "credit": "Firecrawl",
             "sourceUrl": "https://www.firecrawl.dev/blog/agentic-ai-trends",
             "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.prosus.com/~/media/Images/P/prosus-corp-v2/images/news-insights/group-news/state-of-ai-agents-2026-autonomy-is-here-content-image1.jpeg",
+            "alt": "Prosus State of AI Agents 2026 content image",
+            "caption": "Hình minh họa trong bài Prosus về làn sóng agent tự chủ 2026.",
+            "credit": "Prosus",
+            "sourceUrl": "https://www.prosus.com/news-insights/2026/state-of-ai-agents-2026-autonomy-is-here",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2352,6 +2362,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Đây là lý do nhiều sản phẩm agent nhìn ngoài giống chatbot nhưng bên trong là một hệ thống vận hành: planner, executor, browser, terminal, evaluator, rollback. Bỏ phần đó đi, bạn chỉ còn một model biết nói chuyện."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.prosus.com/~/media/Images/P/prosus-corp-v2/images/news-insights/group-news/state-of-ai-agents-2026-autonomy-is-here-content-img2.jpeg",
+            "alt": "Prosus AI agents content image 2",
+            "caption": "Ảnh gốc từ Prosus — nhấn mạnh shift từ chatbot sang agent làm việc dài hơi.",
+            "credit": "Prosus",
+            "sourceUrl": "https://www.prosus.com/news-insights/2026/state-of-ai-agents-2026-autonomy-is-here",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2384,6 +2404,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Vì vậy, workflow tốt không bắt đầu bằng “hãy làm giúp tôi”. Nó bắt đầu bằng một hợp đồng vận hành: input ở đâu, output dạng gì, test nào phải pass, lỗi nào phải dừng, log nào phải ghi lại. Nếu thiếu những thứ này, agent không phải automation; nó là roulette có giao diện chat."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.prosus.com/~/media/Images/P/prosus-corp-v2/images/news-insights/group-news/state-of-ai-agents-2026-autonomy-is-here-content-img3.jpeg",
+            "alt": "Prosus AI agents content image 3",
+            "caption": "Visual phụ từ nguồn Prosus cho phần autonomy/endurance của AI agents.",
+            "credit": "Prosus",
+            "sourceUrl": "https://www.prosus.com/news-insights/2026/state-of-ai-agents-2026-autonomy-is-here",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2416,6 +2446,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Với non-code workflow cũng tương tự. Cho agent xử lý research trước: đọc nguồn, trích dẫn, tạo outline. Sau đó mới cho viết draft. Cuối cùng mới cho publish qua CMS nếu đã có checklist. Mỗi bước có artifact rõ ràng để con người kiểm. Khi agent sai, bạn biết nó sai ở bước nào, không phải ngồi đoán trong một cục output dài."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.firecrawl.dev/images/blog/agentic-ai-trends/agentic-ai-trends.webp",
+            "alt": "Firecrawl agentic AI trends cover",
+            "caption": "Cover từ Firecrawl: 11 xu hướng agentic AI đáng chú ý trong 2026.",
+            "credit": "Firecrawl",
+            "sourceUrl": "https://www.firecrawl.dev/blog/agentic-ai-trends",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2635,6 +2675,16 @@ export const generatedArticles: Article[] = [
             "credit": "arXiv",
             "sourceUrl": "https://arxiv.org/html/2603.23802v1",
             "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://arxiv.org/html/2603.23802v1/output/images/media/cl_onet_jobs_impact_of_decisions_count_scatter_new.png",
+            "alt": "MCP tool decisions impact scatter chart",
+            "caption": "Biểu đồ impact of decisions trong paper 177.000 MCP tools.",
+            "credit": "arXiv",
+            "sourceUrl": "https://arxiv.org/html/2603.23802v1",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2691,6 +2741,16 @@ export const generatedArticles: Article[] = [
             "variant": "warning",
             "title": "Không phải sci-fi",
             "text": "Khi agent có thể viết MCP server, publish nó, rồi agent khác dùng lại, action space sẽ phình nhanh hơn khả năng audit của con người."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://arxiv.org/html/2603.23802v1/output/images/media/efficacy.png",
+            "alt": "MCP tools efficacy chart",
+            "caption": "Chart efficacy từ paper — không phải tool nào nối vào agent cũng tạo giá trị như nhau.",
+            "credit": "arXiv",
+            "sourceUrl": "https://arxiv.org/html/2603.23802v1",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2723,6 +2783,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Điểm đáng sợ trong paper 177K tools là action tools tăng mạnh. Khi agent chuyển từ xem sang làm, prompt injection không còn là chuyện “nó trả lời sai”. Một trang web độc hại có thể nhét instruction khiến agent gọi tool sai. Nếu tool đó có quyền write, sự cố đã xảy ra trước khi người dùng kịp đọc log."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://arxiv.org/html/2603.23802v1/output/images/media/generality.png",
+            "alt": "MCP tools generality chart",
+            "caption": "Chart generality cho thấy độ rộng/hẹp của các nhóm tool trong hệ sinh thái MCP.",
+            "credit": "arXiv",
+            "sourceUrl": "https://arxiv.org/html/2603.23802v1",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2755,6 +2825,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Nhiều team sẽ thất bại vì biến mọi thứ thành MCP. Một lệnh curl đơn giản bị bọc thành server, mô tả tool dài, schema phình, context nặng, latency tăng. Ngược lại, dùng CLI cho tool cần auth phức tạp và policy theo role cũng là tự bắn vào chân. Câu hỏi nên là: đường nào cho feedback rõ nhất, ít token nhất, dễ audit nhất?"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://arxiv.org/html/2603.23802v1/output/images/media/aicreated_stacked_area.png",
+            "alt": "AI-created MCP tools stacked area chart",
+            "caption": "Biểu đồ AI-created tools trong nghiên cứu MCP — dấu hiệu agent đang tự sinh tool quanh nó.",
+            "credit": "arXiv",
+            "sourceUrl": "https://arxiv.org/html/2603.23802v1",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2792,6 +2872,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Bước bốn: red team. Dùng prompt injection trong webpage/email/document để thử agent. Nếu một đoạn text trong web có thể khiến agent gọi delete/update/send, hệ thống chưa được đưa vào production. Đừng đợi hacker dạy miễn phí."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cms.cdata.com/media/cmrfur3w/critical_years_enterprise_ready.png?width=1200&height=630&format=webp&v=1dc6ac0b0fdf250",
+            "alt": "CData enterprise-ready MCP adoption hero",
+            "caption": "Ảnh nguồn CData về enterprise-ready MCP adoption trong 2026.",
+            "credit": "CData",
+            "sourceUrl": "https://www.cdata.com/blog/2026-year-enterprise-ready-mcp-adoption",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2992,12 +3082,12 @@ export const generatedArticles: Article[] = [
           },
           {
             "type": "media",
-            "mediaType": "image",
-            "src": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo/article-image",
-            "alt": "AI video generators comparison source image",
-            "caption": "Nguồn visual từ Digital Applied — dùng làm dẫn chứng cho phần so sánh AI video generators.",
-            "credit": "Digital Applied",
-            "sourceUrl": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo",
+            "mediaType": "video",
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/RW_HEADER_V2-2.mp4",
+            "alt": "Runway Gen-4 official video demo",
+            "caption": "Video demo chính thức của Runway Gen-4 — nguồn trực tiếp cho phần Runway.",
+            "credit": "Runway",
+            "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4",
             "placement": "after-paragraph"
           }
         ]
@@ -3060,6 +3150,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Kling 2.0 thì thực dụng hơn. Rẻ hơn khoảng 40%, đủ tốt trong nhiều prompt, batch API rõ. Nếu một team phải sản xuất 200 biến thể short mỗi tuần, Kling thắng không phải vì đẹp nhất mà vì ít làm kế toán khóc nhất."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/images/gen4/gen-4-grid-001-1.png",
+            "alt": "Runway Gen-4 grid examples",
+            "caption": "Ảnh trong bài Runway Gen-4: ví dụ consistency/world model qua nhiều shot.",
+            "credit": "Runway",
+            "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3092,6 +3192,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Sora bị đánh ở đây. Không phải vì clip demo xấu, mà vì vòng lặp iteration chậm. Creator cần thử, sai, sửa, thử lại. Một công cụ đẹp nhưng làm iteration ì ạch sẽ bị công cụ kém đẹp hơn nhưng nhanh hơn đánh bại trong lịch sản xuất thật."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page1-v3-1.mp4",
+            "alt": "Kling AI official homepage video demo",
+            "caption": "Video demo từ homepage Kling AI — minh họa thế mạnh motion/quick generation.",
+            "credit": "Kling AI",
+            "sourceUrl": "https://kling.ai/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3124,6 +3234,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Một prompt tốt cho AI video nên nhỏ và đo được. “A 35mm handheld push-in on a tired delivery rider opening his phone, 6 seconds, rain on helmet visor, no text, no extra fingers, no face morph.” Nó vẫn có thể lỗi, nhưng ít nhất lỗi có điểm để sửa. Prompt “cinematic Vietnamese city emotional storytelling” chỉ tạo ra xổ số."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4",
+            "alt": "Google DeepMind Veo 3 official sample video",
+            "caption": "Sample video chính thức từ Google DeepMind Veo — đặt cạnh Runway/Kling để so production fit.",
+            "credit": "Google DeepMind",
+            "sourceUrl": "https://deepmind.google/models/veo/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3157,6 +3277,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Vì vậy, tôi sẽ bắt mọi team ghi log: prompt, model, duration, số lần retry, lý do reject, clip được duyệt. Sau 2 tuần, bạn sẽ biết tool nào thật sự hợp với workflow. Không cần tranh cãi trên Twitter. Bảng log sẽ tát thẳng vào mặt."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://lf3-static.bytednsdoc.com/obj/eden-cn/bdeh7uhpsuht/Seedance1.0.mp4",
+            "alt": "ByteDance Seedance 1.0 official demo video",
+            "caption": "Video demo chính thức Seedance 1.0 từ ByteDance Seed.",
+            "credit": "ByteDance Seed",
+            "sourceUrl": "https://seed.bytedance.com/en/seedance",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3270,6 +3400,26 @@ export const generatedArticles: Article[] = [
         "title": "After Sora: Best AI Video Generators 2026",
         "publisher": "Digital Applied",
         "url": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo"
+      },
+      {
+        "title": "Runway Gen-4: AI Video Generation with World Consistency",
+        "url": "https://runwayml.com/research/introducing-runway-gen-4",
+        "publisher": "Runway"
+      },
+      {
+        "title": "Kling AI: Next-Generation AI Creative Studio",
+        "url": "https://kling.ai/",
+        "publisher": "Kling AI"
+      },
+      {
+        "title": "Veo 3.1",
+        "url": "https://deepmind.google/models/veo/",
+        "publisher": "Google DeepMind"
+      },
+      {
+        "title": "Seedance 1.0",
+        "url": "https://seed.bytedance.com/en/seedance",
+        "publisher": "ByteDance Seed"
       }
     ],
     "generation": {
@@ -3367,6 +3517,16 @@ export const generatedArticles: Article[] = [
             "credit": "Replicate",
             "sourceUrl": "https://replicate.com/blog",
             "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://lf3-static.bytednsdoc.com/obj/eden-cn/bdeh7uhpsuht/seedance主KV.JPEG",
+            "alt": "ByteDance Seedance official key visual",
+            "caption": "Key visual chính thức của Seedance từ ByteDance Seed.",
+            "credit": "ByteDance Seed",
+            "sourceUrl": "https://seed.bytedance.com/en/seedance",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3426,6 +3586,26 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Lúc đó câu hỏi không phải “Seedance đẹp bằng Runway chưa?” mà là “Seedance có cho mình build thứ Runway không cho build không?”. Đó là khác biệt giữa tool và platform."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://replicate.com/_content/assets/cover.CxkyIRdx_1xuT64.webp",
+            "alt": "Replicate blog cover image 1",
+            "caption": "Visual từ Replicate blog — bối cảnh hạ tầng chạy model/open-source trong production.",
+            "credit": "Replicate",
+            "sourceUrl": "https://replicate.com/blog",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://lf3-static.bytednsdoc.com/obj/eden-cn/bdeh7uhpsuht/Seedance1.0.mp4",
+            "alt": "Seedance 1.0 official demo video",
+            "caption": "Video demo chính thức Seedance 1.0 — nguồn tốt hơn ảnh stock cho bài AI video.",
+            "credit": "ByteDance Seed",
+            "sourceUrl": "https://seed.bytedance.com/en/seedance",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3460,6 +3640,26 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Seedance đáng chú ý vì nó mở lựa chọn. Không phải ai cũng nên chạy. Nhưng thị trường cần một lựa chọn không bị khóa trong credit, quota, policy thay đổi bất ngờ và black box safety filter."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://replicate.com/_content/assets/cover.C9hKlInn_Z1Fj8Qy.webp",
+            "alt": "Replicate blog cover image 2",
+            "caption": "Ảnh nguồn Replicate cho phần self-host/deployment của pipeline AI video.",
+            "credit": "Replicate",
+            "sourceUrl": "https://replicate.com/blog",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/gen4/Breakdown_1-opt.mp4",
+            "alt": "Runway Gen-4 workflow breakdown video",
+            "caption": "Runway Gen-4 breakdown video — dùng làm đối chứng với cách Seedance xử lý workflow.",
+            "credit": "Runway",
+            "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3492,6 +3692,26 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Production chuyên nghiệp nên bắt đầu lưu metadata: model, version, prompt, source asset, seed nếu có, người duyệt, ngày render. Không phải để làm màu. Đó là sổ cái sáng tạo. Khi khách hàng hoặc pháp lý hỏi “ảnh/video này từ đâu ra?”, câu trả lời không thể là “em generate đâu đó”."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://replicate.com/_content/assets/cover.CbYG8Qq2_Z8MmND.webp",
+            "alt": "Replicate blog cover image 3",
+            "caption": "Visual phụ từ Replicate — nhấn vào câu chuyện vận hành model thay vì chỉ demo.",
+            "credit": "Replicate",
+            "sourceUrl": "https://replicate.com/blog",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page2-v3-en.mp4",
+            "alt": "Kling AI official feature video",
+            "caption": "Video nguồn Kling AI — đối chiếu Seedance với hướng motion-first của Kling.",
+            "credit": "Kling AI",
+            "sourceUrl": "https://kling.ai/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3642,6 +3862,16 @@ export const generatedArticles: Article[] = [
         "title": "Replicate Blog",
         "publisher": "Replicate",
         "url": "https://replicate.com/blog"
+      },
+      {
+        "title": "Seedance 1.0",
+        "url": "https://seed.bytedance.com/en/seedance",
+        "publisher": "ByteDance Seed"
+      },
+      {
+        "title": "Seedance 2.0",
+        "url": "https://seed.bytedance.com/en/seedance2_0",
+        "publisher": "ByteDance Seed"
       }
     ],
     "generation": {
@@ -3740,6 +3970,16 @@ export const generatedArticles: Article[] = [
             "credit": "Baseten",
             "sourceUrl": "https://www.baseten.co/blog/the-best-open-source-image-generation-model/",
             "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.cliprise.app/creatives/seo/cliprise-ai-image-enhancement-cat-before-after.jpg",
+            "alt": "Cliprise AI image enhancement before after",
+            "caption": "Ảnh nguồn Cliprise minh họa before/after trong workflow AI image.",
+            "credit": "Cliprise",
+            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3807,6 +4047,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Với production, photoreal không phải để khoe “giống thật”. Nó giúp giảm thời gian sửa: ít tay lỗi, ít da nhựa, ít ánh sáng kỳ cục, ít phải regenerate 30 lần để lấy một tấm dùng được."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.cliprise.app/creatives/seo/cliprise-architecture-visualization-transformation.jpg",
+            "alt": "Cliprise architecture visualization transformation",
+            "caption": "Ví dụ visual từ Cliprise: architecture visualization là use-case khác hoàn toàn portrait/fashion.",
+            "credit": "Cliprise",
+            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3839,6 +4089,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Đây là lúc AI image rời khỏi giai đoạn “prompt hay”. Nó trở thành production planning: model nào, bước nào, ai duyệt, tiêu chí reject, asset lưu ở đâu, variant nào được dùng lại."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.cliprise.app/creatives/seo/cliprise-ai-abstract-art-02.jpg",
+            "alt": "Cliprise abstract AI art visual",
+            "caption": "Ảnh nguồn Cliprise cho nhóm output thiên art/style hơn là photoreal.",
+            "credit": "Cliprise",
+            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3871,6 +4131,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Điểm quan trọng là chuyển từ “generate đến khi thích” sang “mỗi model có nhiệm vụ”. Khi feedback đến — chữ sai, ánh sáng lệch, mood chưa đủ premium — bạn biết đưa lại bước nào. Production không thích phép màu; production thích pipeline có thể sửa."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.datocms-assets.com/104802/1747437872-text-template.png?auto=format&fit=crop&h=630&w=1200",
+            "alt": "Baseten open-source image generation text template",
+            "caption": "Ảnh trong bài Baseten về model open-source tạo ảnh — useful cho phần text/template.",
+            "credit": "Baseten",
+            "sourceUrl": "https://www.baseten.co/blog/the-best-open-source-image-generation-model/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -3904,6 +4174,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Một workflow tốt tách hai việc: exploration và production. Exploration dùng Midjourney/ChatGPT để mở hướng. Production dùng Flux/Imagen/SDXL/Firefly để khóa chi tiết, quyền và consistency. Trộn hai giai đoạn này là lý do nhiều team có 500 ảnh “hay hay” nhưng không có key visual cuối."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://assets.cliprise.app/websitemedia/cliprise-sharp-contrain-articles.mp4",
+            "alt": "Cliprise product video demo",
+            "caption": "Video nguồn từ Cliprise minh họa workflow xử lý/preview hình ảnh trong sản phẩm.",
+            "credit": "Cliprise",
+            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -4119,6 +4399,16 @@ export const generatedArticles: Article[] = [
             "credit": "Cliprise",
             "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
             "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.mscdn.ai/blog-images/flux.png?fm=auto&w=1200&fit=cover",
+            "alt": "MindStudio Flux image generation article visual",
+            "caption": "Ảnh nguồn MindStudio về Flux — phù hợp phần chọn model theo nhiệm vụ.",
+            "credit": "MindStudio",
+            "sourceUrl": "https://www.mindstudio.ai/blog/choosing-image-generation-model/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -4178,6 +4468,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Metric nên đo là cost per approved asset: tổng tiền + thời gian sửa + số lần regenerate chia cho số ảnh được duyệt. Nếu không đo cái này, bạn đang chọn tool bằng cảm giác."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.mscdn.ai/blog-images/what-is-flux-1-kontext-pro.png?fm=auto&w=1200&fit=cover",
+            "alt": "MindStudio Flux Kontext Pro article visual",
+            "caption": "Visual nguồn MindStudio cho nhóm workflow cần chỉnh/sửa theo context.",
+            "credit": "MindStudio",
+            "sourceUrl": "https://www.mindstudio.ai/blog/choosing-image-generation-model/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -4208,6 +4508,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Asset ledger không cần phức tạp. Một sheet cũng được: asset id, mục đích, model, source, prompt link, status, rights note. Nhưng phải có. AI làm tăng số lượng biến thể quá nhanh; không quản trị asset thì team sẽ chết vì chính sự nhanh đó."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.mscdn.ai/blog-images/what-is-dall-e-2-openai.png?fm=auto&w=1200&fit=cover",
+            "alt": "MindStudio DALL-E article visual",
+            "caption": "Ảnh nguồn MindStudio về DALL·E — đặt trong phần không có một model thắng mọi brief.",
+            "credit": "MindStudio",
+            "sourceUrl": "https://www.mindstudio.ai/blog/choosing-image-generation-model/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -4240,6 +4550,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Cách chống là tách interface khỏi model: brief template chung, output spec chung, naming chung, QC chung. Bên dưới có thể là Flux, Imagen, Midjourney, SDXL. Nếu một model đổi giá hoặc giảm chất lượng, bạn route sang model khác. Đó mới là hệ thống bền."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://www.cliprise.app/creatives/seo/cliprise-ai-face-transformation-before-after.jpg",
+            "alt": "Cliprise AI face transformation before after",
+            "caption": "Ảnh nguồn Cliprise: face/portrait transformation là bài toán khác product shot.",
+            "credit": "Cliprise",
+            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -4273,6 +4593,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "AI không loại designer khỏi quy trình. Nó đẩy designer lên vai trò editor/curator/system designer. Người chỉ biết kéo layer có thể bị thay. Người biết xây hệ thống visual, QC, và biến output AI thành asset thương mại sẽ đắt giá hơn."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://assets.cliprise.app/websitemedia/cliprise-sharp-contrain-articles.mp4",
+            "alt": "Cliprise image workflow video",
+            "caption": "Video nguồn Cliprise minh họa workflow xử lý hình ảnh, bổ sung cho luận điểm production cần pipeline.",
+            "credit": "Cliprise",
+            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+            "placement": "after-paragraph"
           }
         ]
       },
