@@ -516,5 +516,25 @@
     "publishedAt": "2026-05-21T13:52:56.890Z",
     "readingTime": 4,
     "url": "/en/prompt-video/ai-is-incapable-of-poetry-it-s-incapable-of-producing-anyt-2026-05-21"
+  },
+  {
+    "id": "art_2026_05_21_google_io_2026_ai_update_vi",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "Google I/O 2026: Gemini Omni, Antigravity và cú bẻ lái sang AI agent",
+    "subtitle": "Google không chỉ ra thêm model mới. Họ đang nhét agent vào Search, coding, Cloud, Workspace và video generation — tức là biến AI từ ô chat thành lớp vận hành.",
+    "tags": [
+      "Google I/O 2026",
+      "Gemini 3.5",
+      "Gemini Omni",
+      "Antigravity",
+      "AI Search",
+      "agentic AI",
+      "Veo"
+    ],
+    "publishedAt": "2026-05-21T20:51:53+07:00",
+    "readingTime": 11,
+    "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   }
 ]

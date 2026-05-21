@@ -1,6 +1,4 @@
-// Auto-generated from pipeline output — do not edit manually
-// Generated at: 2026-05-21T13:53:46.806Z
-import type { Article } from "@/lib/schema";
+import type { Article } from "../lib/schema";
 
 export const generatedArticles: Article[] = [
   {
@@ -1919,5 +1917,408 @@ export const generatedArticles: Article[] = [
       "confidence": "medium"
     },
     "status": "published"
+  },
+  {
+    "id": "art_2026_05_21_google_io_2026_ai_update_vi",
+    "slug": "google-io-2026-gemini-omni-antigravity-ai-search",
+    "lang": "vi",
+    "status": "published",
+    "category": "ai-agentic",
+    "title": "Google I/O 2026: Gemini Omni, Antigravity và cú bẻ lái sang AI agent",
+    "subtitle": "Google không chỉ ra thêm model mới. Họ đang nhét agent vào Search, coding, Cloud, Workspace và video generation — tức là biến AI từ ô chat thành lớp vận hành.",
+    "publishedAt": "2026-05-21T20:51:53+07:00",
+    "readingTime": 11,
+    "tags": [
+      "Google I/O 2026",
+      "Gemini 3.5",
+      "Gemini Omni",
+      "Antigravity",
+      "AI Search",
+      "agentic AI",
+      "Veo"
+    ],
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.width-1300.png",
+    "heroMedia": {
+      "type": "image",
+      "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.width-1300.png",
+      "alt": "Google I/O 2026 AI announcements official hero image",
+      "caption": "Google gom gần như toàn bộ I/O 2026 quanh một trục: Gemini + agent + multimodal creation.",
+      "credit": "Google Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/"
+    },
+    "highlights": [
+      {
+        "text": "Google công bố Gemini 3.5 Flash, Gemini Omni, Antigravity 2.0, Managed Agents, AI Search agents, Gemini Spark, Workspace AI và nhiều lớp media/provenance mới."
+      },
+      {
+        "text": "Điểm đáng chú ý không phải “thêm chatbot”, mà là Google đang đưa agent vào nơi có sẵn distribution: Search, Android Studio, AI Studio, Cloud, Workspace, YouTube và Gemini app."
+      },
+      {
+        "text": "Với creator, Gemini Omni + Flow + YouTube Shorts Remix là mảng đáng nhìn nhất: video generation bắt đầu có editing, reference, voice/avatar và SynthID mặc định."
+      },
+      {
+        "text": "Với builder, Antigravity 2.0, Managed Agents API, WebMCP và Android CLI là tín hiệu Google muốn biến agent thành hạ tầng phát triển phần mềm chứ không chỉ demo browser."
+      }
+    ],
+    "sections": [
+      {
+        "id": "hook",
+        "heading": "Google không ra “một AI mới”. Google ra một lớp vận hành mới",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nếu chỉ đọc headline kiểu “Google ra Gemini mới”, sẽ bỏ lỡ chuyện chính. Google I/O 2026 là một cú gom quân: model, Search, Cloud, Workspace, YouTube, Android, developer tool và video generation được buộc vào cùng một hướng — AI không còn là ô chat đứng riêng, mà thành lớp vận hành chạy bên dưới sản phẩm."
+          },
+          {
+            "type": "paragraph",
+            "text": "Từ góc nhìn production, đây là điểm đáng chú ý: Google không cần thắng bằng một model benchmark đẹp nhất trong một ngày. Họ có Search, Gmail, Docs, Android, Chrome, YouTube, Cloud. Nếu agent chen được vào những điểm chạm đó, creator và builder sẽ gặp AI không phải trong một app riêng, mà ngay tại nơi đang làm việc."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote_tempsocial.width-1300.png",
+            "alt": "Sundar Pichai Google I/O 2026 keynote social image",
+            "caption": "Keynote chính thức của Sundar Pichai gọi đây là “agentic Gemini era” — không phải thêm một chatbot, mà là agent đi vào sản phẩm hằng ngày.",
+            "credit": "Google Blog",
+            "sourceUrl": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "quote",
+            "text": "AI Mode đã vượt 1 tỷ người dùng hằng tháng; Gemini app đạt hơn 900 triệu MAU; Google nói lượng token xử lý hằng tháng đã lên hơn 3,2 quadrillion.",
+            "attribution": "Google I/O 2026 keynote / Google Blog"
+          }
+        ]
+      },
+      {
+        "id": "model-layer",
+        "heading": "Gemini 3.5 Flash: model cho agent, không phải chỉ để chat nhanh",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Gemini 3.5 Flash là mảnh đầu tiên của dòng 3.5. Google định vị nó cho tác vụ dài hơi: coding, agentic workflow, xử lý công việc có nhiều bước, tạo UI, chạy tool và phối hợp nhiều ngữ cảnh. Nói thẳng: đây là model phục vụ operator, không chỉ phục vụ người hỏi đáp."
+          },
+          {
+            "type": "paragraph",
+            "text": "Google đưa vài con số đáng ghi: Terminal-Bench 2.1 đạt 76,2%, GDPval-AA 1656 Elo, MCP Atlas 83,6%, CharXiv 84,2%. Benchmark không phải chân lý, nhưng nhóm benchmark được chọn cho thấy Google đang khoe khả năng làm việc có hành động: terminal, công việc thực tế, MCP/tool-use và hiểu multimodal."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
+            "alt": "Gemini 3.5 official metacard",
+            "caption": "Gemini 3.5 Flash được Google đặt làm nền cho nhiều tính năng agentic mới, từ Search đến developer tooling.",
+            "credit": "Google Blog",
+            "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gemini-3-5__benchmarks__light.gif",
+            "alt": "Gemini 3.5 benchmark official chart",
+            "caption": "Chart benchmark chính thức của Google cho Gemini 3.5 — phần đáng nhìn là nhóm benchmark coding/agentic, không phải điểm văn mẫu.",
+            "credit": "Google Blog",
+            "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+            "placement": "after-paragraph"
+          }
+        ]
+      },
+      {
+        "id": "creator-layer",
+        "heading": "Gemini Omni: Google muốn ăn thẳng vào video workflow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Gemini Omni là phần creator nên để mắt. Google mô tả đây là model “any output from any input”, bắt đầu bằng video. Nó không chỉ text-to-video, mà đi theo hướng trộn text, image, audio, video, editing, reference và world understanding. Nói cách khác: Google đang đi vào đúng chỗ Runway, Kling, Seedance, Veo và Flow đang tranh nhau — kiểm soát continuity và chỉnh sửa, không chỉ sinh một shot đẹp."
+          },
+          {
+            "type": "paragraph",
+            "text": "Trong Gemini app và Flow, Google nói người dùng có thể tạo/chỉnh video bằng hội thoại, đổi background, zoom cinematic, dùng ảnh/video từ camera roll, tạo avatar AI có ngoại hình và giọng nói giống người dùng. Nếu làm được ổn, đây là thứ đánh vào workflow social/short-form nhiều hơn là phim dài."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://lh3.googleusercontent.com/BXf7nFeF8HLOvRUH3C0Gm7vCGyIRUhaZ8oMkb_oFKW5RxrDWnsFx8wD-1kDG8z4vuwMgqDOmMn1YU9CxAewIKclglhcuUc_8RUfcfy7YaNTB03Sc3w=w1440-h810-n-nu",
+            "alt": "Gemini Omni official visual",
+            "caption": "Gemini Omni là lời tuyên chiến của Google ở mảng multimodal creation: input nào cũng có thể thành output media.",
+            "credit": "Google Blog",
+            "sourceUrl": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4",
+            "alt": "Google DeepMind Veo official sample video",
+            "caption": "Sample video chính thức từ Google DeepMind Veo — đặt cạnh Gemini Omni cho thấy Google đang gom model video, app creation và distribution vào một stack.",
+            "credit": "Google DeepMind",
+            "sourceUrl": "https://deepmind.google/models/veo/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "callout",
+            "variant": "insight",
+            "title": "Điểm creator cần nhớ",
+            "text": "Nếu Gemini Omni/Flow đi đúng hướng, prompt video sẽ bớt là “viết một câu thần chú”, và chuyển thành workflow: reference → shot → edit → voice/avatar → export → publish. Đúng chuẩn production hơn, nhưng cũng đòi hỏi người làm biết art direction."
+          }
+        ]
+      },
+      {
+        "id": "search-agent",
+        "heading": "Search giờ không chỉ trả lời — nó bắt đầu làm việc nền",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Google Search là mảng có lực kéo lớn nhất. AI Mode đã vượt 1 tỷ MAU, và Gemini 3.5 Flash trở thành model mặc định cho AI Mode. Nhưng thứ quan trọng hơn là “Search agents”: người dùng có thể tạo agent theo dõi thông tin, chạy nền 24/7, tổng hợp update và giúp hành động khi cần."
+          },
+          {
+            "type": "paragraph",
+            "text": "Nếu Search agents chạy tốt, hành vi search sẽ đổi. Trước đây: cần gì thì gõ. Sau này: giao cho agent theo dõi, khi có tín hiệu thì báo. Đây là thay đổi cực lớn với tin tức, shopping, booking, research và cả SEO. Nội dung không chỉ cần được người đọc thấy, mà còn phải được agent hiểu, trích dẫn và tin."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46_16x9_1.width-1300.jpg",
+            "alt": "Google AI Search official hero image",
+            "caption": "Google gọi đây là nâng cấp lớn nhất của Search box trong hơn 25 năm: input dài hơn, multimodal hơn, agentic hơn.",
+            "credit": "Google Blog",
+            "sourceUrl": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/information-agents-search.mp4",
+            "alt": "Information agents in Google Search official demo",
+            "caption": "Demo chính thức: information agents trong Search chạy nền và tổng hợp update thay cho việc người dùng tự check liên tục.",
+            "credit": "Google Blog",
+            "sourceUrl": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+            "placement": "after-paragraph"
+          }
+        ]
+      },
+      {
+        "id": "builder-layer",
+        "heading": "Antigravity 2.0, Managed Agents, WebMCP: Google đang chuẩn hóa agent cho builder",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Developer keynote mới là phần builder nên đọc kỹ. Google nâng Antigravity lên 2.0, thêm Antigravity CLI, subagents chuyên biệt, terminal sandboxing, credential masking, Git policy, rồi đưa Managed Agents vào Gemini API: một API call có thể dựng remote sandbox cho agent plan, dùng tool, chạy code, quản lý file và browse web."
+          },
+          {
+            "type": "paragraph",
+            "text": "Điểm này rất thực dụng. Agent fail nhiều không phải vì “model ngu” đơn thuần, mà vì môi trường chạy bừa: quyền quá rộng, không có sandbox, không có policy, không có audit. Google đang bán một stack agent có guardrail sẵn. Nếu làm đúng, đây là đường ngắn để doanh nghiệp dùng agent mà không tự build cả đống hạ tầng."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image_5.original_ZJXwGYp.png",
+            "alt": "Google Developers I/O 2026 keynote official image",
+            "caption": "Developer keynote đặt trọng tâm vào agent-first development: Antigravity, Android CLI, AI Studio, Managed Agents và WebMCP.",
+            "credit": "Google Developers Blog",
+            "sourceUrl": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/GoogleForDevelopers-ComboIO-Wagta.2e16d0ba.fill-1200x600_984jqJ0.png",
+            "alt": "Managed Agents official image",
+            "caption": "Managed Agents trong Gemini API: Google muốn biến agent sandbox thành dịch vụ nền, không phải project tự chế trong repo.",
+            "credit": "Google Blog",
+            "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+            "placement": "after-paragraph"
+          }
+        ]
+      },
+      {
+        "id": "enterprise-workspace",
+        "heading": "Cloud và Workspace: agent cá nhân hoá sẽ là chiến trường thật",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Ở Cloud, Google nói rõ bài toán enterprise: Gemini Enterprise Agent Platform, Gemini Spark, Workspace AI, CodeMender, AI Content Detection API. Spark được mô tả như personal AI agent 24/7 cho doanh nghiệp. Workspace có Google Pics và voice feature trong Gmail, Docs, Keep."
+          },
+          {
+            "type": "paragraph",
+            "text": "Đây không hào nhoáng bằng video generation, nhưng có tiền. Doanh nghiệp không cần thêm một chatbot đẹp; họ cần agent đọc context, làm việc trong hệ thống có quyền, ghi log, không leak credential, và tạo output có thể kiểm tra. Google có lợi thế vì Workspace/Cloud đã là nơi dữ liệu nằm sẵn."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1148-GC-IO-Header-GC-43-0519.max-2500x2500.jpg",
+            "alt": "Google Cloud I/O AI announcements official image",
+            "caption": "Google Cloud gom Gemini 3.5, Omni, Antigravity, Spark, Workspace AI và CodeMender vào thông điệp “agentic enterprise”.",
+            "credit": "Google Cloud Blog",
+            "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Spark_task_-_done.max-2200x2200.png",
+            "alt": "Gemini Spark task complete official image",
+            "caption": "Gemini Spark được Google Cloud mô tả như agent cá nhân chạy 24/7 cho workflow doanh nghiệp.",
+            "credit": "Google Cloud Blog",
+            "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud",
+            "placement": "after-paragraph"
+          }
+        ]
+      },
+      {
+        "id": "comparison",
+        "heading": "Tóm tắt nhanh: cái nào đáng quan tâm nhất?",
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Mảng",
+              "Update chính",
+              "Ý nghĩa thực tế",
+              "Ai nên để ý"
+            ],
+            "rows": [
+              [
+                "Model",
+                "Gemini 3.5 Flash, Gemini 3.5 Pro sắp ra",
+                "Tối ưu cho agent/coding/task dài, không chỉ chat",
+                "Builder, dev team, automation team"
+              ],
+              [
+                "Media",
+                "Gemini Omni + Flow + Veo stack",
+                "Video generation đi gần hơn tới edit/reference/avatar/workflow",
+                "Creator, studio, social video team"
+              ],
+              [
+                "Search",
+                "AI Mode + Search agents + new search box",
+                "Search chuyển từ hỏi-đáp sang agent chạy nền",
+                "Publisher, SEO, research team, commerce"
+              ],
+              [
+                "Developer",
+                "Antigravity 2.0, CLI, Managed Agents, WebMCP",
+                "Agent có sandbox/tooling/policy rõ hơn",
+                "AI engineer, product builder"
+              ],
+              [
+                "Enterprise",
+                "Gemini Spark, Workspace AI, CodeMender",
+                "Agent đi vào dữ liệu và quy trình công ty",
+                "Ops, IT, security, knowledge work"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Nhìn tổng thể, Google đang đánh theo kiểu “distribution trước, model sau”. Họ không cần thuyết phục người dùng tải thêm một app AI mới nếu agent nằm trong Search, Docs, Gmail, YouTube, Android Studio và Cloud Console. Đây là lợi thế OpenAI, Anthropic, Runway hay Perplexity không dễ copy."
+          },
+          {
+            "type": "paragraph",
+            "text": "Nhưng cũng đừng nuốt PR nguyên con. Agent 24/7 nghe rất hay, nhưng thực chiến sẽ vỡ ở permission, hallucination, stale context, audit log và chi phí. Bài toán không phải “agent có làm được demo không”, mà là “khi nó sai thì ai chịu trách nhiệm, rollback ra sao, có chứng cứ để kiểm tra không”."
+          }
+        ]
+      },
+      {
+        "id": "takeaway-section",
+        "heading": "Kết luận: creator và builder nên làm gì ngay?",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nếu làm media, hãy test Gemini Omni/Flow theo workflow thật: giữ nhân vật qua nhiều shot, dùng reference, edit lại shot lỗi, thêm voice/avatar, so thời gian với Runway/Kling/Seedance. Đừng chỉ prompt một clip đẹp rồi kết luận."
+          },
+          {
+            "type": "paragraph",
+            "text": "Nếu làm product/dev, hãy nhìn Antigravity và Managed Agents như một tín hiệu thiết kế: agent production phải có sandbox, credential masking, Git policy, tool permission và log. Không có mấy thứ đó thì chỉ là demo dễ cháy."
+          },
+          {
+            "type": "paragraph",
+            "text": "Nếu làm content/publisher, Search agents là cảnh báo sớm. Nội dung sắp không chỉ cạnh tranh để người đọc click, mà còn để agent chọn làm nguồn. Bài phải có dữ kiện rõ, nguồn thật, media thật, schema sạch và claim dễ trích dẫn."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "variant": "analysis",
+        "title": "Google đang bán hệ sinh thái, không bán một model",
+        "text": "Sức mạnh của I/O 2026 nằm ở việc Google nối model vào distribution: Search, Workspace, Android, YouTube, Cloud và developer tooling. Đây là thứ làm update lần này nguy hiểm hơn một benchmark đơn lẻ."
+      },
+      {
+        "variant": "risk",
+        "title": "Agent càng sâu, trách nhiệm càng nặng",
+        "text": "Search agents, Managed Agents và Spark đều chạm vào hành động thật. Nếu không có permission, audit, rollback và provenance, agent sẽ trở thành nguồn rủi ro vận hành."
+      },
+      {
+        "variant": "opportunity",
+        "title": "Creator có thêm một pipeline video đáng thử",
+        "text": "Gemini Omni + Flow + Veo có thể mở ra workflow video hội thoại/reference/edit tốt hơn. Nhưng phải test continuity và controllability, không test bằng một clip viral."
+      }
+    ],
+    "takeaway": {
+      "title": "Checklist hành động",
+      "items": [
+        "Creator: test Gemini Omni/Flow bằng một scene 5 shot, có character reference và edit loop rõ.",
+        "Builder: theo dõi Antigravity 2.0, Managed Agents API và WebMCP; đây là hướng agent infra đang chuẩn hóa.",
+        "Publisher: chuẩn hóa source, schema, media credit và dữ kiện để Search agents dễ hiểu và trích dẫn.",
+        "Team enterprise: đừng pilot agent nếu chưa có permission boundary, log, rollback và owner cho lỗi.",
+        "Đừng bị PR làm mờ mắt: hãy đo bằng thời gian tiết kiệm, tỷ lệ output dùng được và số lỗi phải sửa tay."
+      ]
+    },
+    "sources": [
+      {
+        "title": "100 things we announced at I/O 2026",
+        "publisher": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+        "publishedAt": "2026-05-20"
+      },
+      {
+        "title": "Google I/O 2026: Sundar Pichai’s opening keynote",
+        "publisher": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+        "publishedAt": "2026-05-19"
+      },
+      {
+        "title": "A new era for AI Search",
+        "publisher": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "publishedAt": "2026-05-19"
+      },
+      {
+        "title": "All the news from the Google I/O 2026 Developer keynote",
+        "publisher": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
+        "publishedAt": "2026-05-19"
+      },
+      {
+        "title": "Innovations from Google I/O 26 on Google Cloud",
+        "publisher": "Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud",
+        "publishedAt": "2026-05-19"
+      },
+      {
+        "title": "Gemini 3.5: frontier intelligence with action",
+        "publisher": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "publishedAt": "2026-05-19"
+      },
+      {
+        "title": "Veo 3.1 — Google DeepMind",
+        "publisher": "Google DeepMind",
+        "url": "https://deepmind.google/models/veo/",
+        "publishedAt": "2026-05-21"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial-gpt-5.5",
+      "promptVersion": "google-io-2026-source-media-v1",
+      "generatedAt": "2026-05-21T20:51:53+07:00",
+      "sourceClusterId": "cluster_google_io_2026_ai_updates_2026_05_21",
+      "confidence": "high"
+    },
+    "sourceCount": 7,
+    "author": "AI Radar"
   }
 ];
