@@ -20,7 +20,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.anthropic.com/research",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "alt": "Anthropic Research Interface",
       "caption": "Anthropic tập trung vào việc xây dựng các hệ thống AI có khả năng điều hướng và giải thích được.",
       "credit": "Anthropic"
@@ -50,7 +50,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://blog.replit.com/",
+            "src": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png",
             "alt": "Replit Agent 4 Interface",
             "caption": "Replit Agent 4 định nghĩa lại quy trình xây dựng app thông qua Vibe Coding.",
             "credit": "Replit",
@@ -184,7 +184,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.anthropic.com/research",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "alt": "Anthropic Research interface showcasing AI safety and interpretability goals",
       "caption": "Anthropic continues to push the boundaries of steerable and interpretable AI systems.",
       "credit": "Anthropic"
@@ -214,7 +214,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://www.cursor.com/changelog",
+            "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png",
             "alt": "Cursor Changelog showing Agent updates",
             "caption": "Cursor's latest updates bring automations directly into the agentic workflow.",
             "credit": "Cursor",
@@ -358,7 +358,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+      "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.width-1300.png",
       "alt": "Minh họa hệ sinh thái AI Agent của Google tại I/O 2026",
       "caption": "Google I/O 2026 đánh dấu bước chuyển mình mạnh mẽ sang kỷ nguyên Agentic AI với Gemini Spark và Antigravity.",
       "credit": "Simon Willison's Weblog"
@@ -388,7 +388,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://simonwillison.net/2026/May/20/google-io/",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote_tempsocial.width-1300.png",
             "alt": "Gemini Spark Ecosystem",
             "caption": "Gemini Spark hứa hẹn sẽ là đối thủ nặng ký trong phân khúc personal AI agent.",
             "credit": "Simon Willison",
@@ -524,7 +524,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+      "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.width-1300.png",
       "alt": "Conceptual representation of Google Gemini Spark and Antigravity ecosystem",
       "caption": "Google's shift toward 'personal AI agents' marks a transition from simple chat interfaces to deep OS and app integration.",
       "credit": "Simon Willison's Weblog"
@@ -675,7 +675,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://runwayml.com/research",
+      "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
       "alt": "Giao diện nghiên cứu AI Video của Runway",
       "caption": "Runway đang định hướng xây dựng các mô phỏng đa phương thức về thế giới thông qua AI Video.",
       "credit": "Runway Research"
@@ -705,7 +705,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://runwayml.com/research",
+            "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
             "alt": "Sơ đồ A2D của Runway",
             "caption": "Mô hình A2D giúp tăng tốc độ tạo video mà vẫn giữ được chất lượng cao.",
             "credit": "Runway Research",
@@ -831,7 +831,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://runwayml.com/research",
+      "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
       "alt": "Runway AI Research interface showcasing multimodal world simulators",
       "caption": "Runway AI is pivoting toward building general-purpose multimodal simulators of the world.",
       "credit": "Runway Research"
@@ -878,7 +878,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://blackforestlabs.ai/blog/",
+            "src": "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0",
             "alt": "FLUX Outpainting example",
             "caption": "FLUX Outpainting allows for seamless extension of images while preserving lighting and texture.",
             "credit": "Black Forest Labs",
@@ -1003,7 +1003,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://klingai.com/blog",
+      "src": "https://static-86.klingai-cdn-aws.com/kling-blog/file/89d448fecceb65a875912b17c435841341090e2bbdf48f77b15d105b106ea29d.png?x-oss-process=image/format,jpg/resize,w_752",
       "alt": "Giao diện sáng tạo video 4K của Kling AI",
       "caption": "Kling AI đang tái định nghĩa tiêu chuẩn sản xuất video công nghiệp với mô hình 4K native.",
       "credit": "Kling AI Blog"
@@ -1037,7 +1037,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://klingai.com/blog",
+            "src": "https://static-86.klingai-cdn-aws.com/kling-blog/file/89d448fecceb65a875912b17c435841341090e2bbdf48f77b15d105b106ea29d.png?x-oss-process=image/format,jpg/resize,w_752",
             "alt": "Hướng dẫn tạo video sản phẩm 4K",
             "caption": "Kling AI cung cấp các workflow chi tiết cho video thương mại điện tử 4K.",
             "credit": "Kling AI",
@@ -1183,7 +1183,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://klingai.com/blog",
+      "src": "https://static-86.klingai-cdn-aws.com/kling-blog/file/89d448fecceb65a875912b17c435841341090e2bbdf48f77b15d105b106ea29d.png?x-oss-process=image/format,jpg/resize,w_752",
       "alt": "Kling AI interface showing cinematic video generation capabilities",
       "caption": "Kling AI is pushing the boundaries of industrial-grade video production with native 4K output.",
       "credit": "Kling AI"
@@ -1213,7 +1213,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://klingai.com/blog",
+            "src": "https://static-86.klingai-cdn-aws.com/kling-blog/file/89d448fecceb65a875912b17c435841341090e2bbdf48f77b15d105b106ea29d.png?x-oss-process=image/format,jpg/resize,w_752",
             "alt": "Comparison of native 4K vs upscaled AI video",
             "caption": "Native 4K output provides the clarity required for professional cinema and advertising.",
             "credit": "Kling AI",
@@ -1337,7 +1337,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.reddit.com/r/midjourney/comments/1tj8d6w/warrior/",
+      "src": "https://i.redd.it/t80zyrhste2h1.jpeg",
       "alt": "Một chiến binh được tạo bởi AI với chi tiết giáp trụ phức tạp",
       "caption": "Sự giao thoa giữa nghệ thuật concept truyền thống và sức mạnh generative AI trong việc tạo hình nhân vật chiến binh.",
       "credit": "r/midjourney"
@@ -1367,7 +1367,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://www.reddit.com/r/midjourney/comments/1tjj70o/victorian_xenobotany/",
+            "src": "https://i.redd.it/t80zyrhste2h1.jpeg",
             "alt": "Minh họa phong cách Victorian Xenobotany",
             "caption": "Sự kết hợp giữa phong cách minh họa khoa học thế kỷ 19 và yếu tố viễn tưởng.",
             "credit": "r/midjourney",
@@ -1489,7 +1489,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.reddit.com/r/midjourney/comments/1tj8d6w/warrior/",
+      "src": "https://i.redd.it/t80zyrhste2h1.jpeg",
       "alt": "High-fidelity AI generated warrior character concept",
       "caption": "Modern AI prompt engineering is pushing the boundaries of character design, blending historical accuracy with fantastical elements.",
       "credit": "r/midjourney"
@@ -1639,7 +1639,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+      "src": "https://external-preview.redd.it/bYAJFcbvPZEu8Csg9JLpJUzk-SYaTddJ7JTxYZUhlAk.jpeg?width=1080&crop=smart&auto=webp&s=4ed6e80419399bd93c8451255cb60a8757b6e6b2",
       "alt": "Minh họa về sự đối lập giữa trí tuệ nhân tạo và sáng tạo nghệ thuật",
       "caption": "Cuộc tranh luận về khả năng sáng tạo thực thụ của AI trong nghệ thuật và thơ ca.",
       "credit": "r/MediaSynthesis"
@@ -1781,7 +1781,7 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://images.unsplash.com/photo-1675271792891-93736337767a?q=80&w=2070&auto=format&fit=crop",
+      "src": "https://external-preview.redd.it/bYAJFcbvPZEu8Csg9JLpJUzk-SYaTddJ7JTxYZUhlAk.jpeg?width=1080&crop=smart&auto=webp&s=4ed6e80419399bd93c8451255cb60a8757b6e6b2",
       "alt": "A conceptual image of a robotic hand holding a fountain pen over a blank piece of parchment",
       "caption": "The tension between algorithmic synthesis and genuine creative intent remains the central conflict of the generative era.",
       "credit": "Unsplash"
@@ -1811,7 +1811,7 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://images.unsplash.com/photo-1507413244148-cbb37377ff36?q=80&w=2070&auto=format&fit=crop",
+            "src": "https://external-preview.redd.it/bYAJFcbvPZEu8Csg9JLpJUzk-SYaTddJ7JTxYZUhlAk.jpeg?width=960&crop=smart&auto=webp&s=4be68a92330323bcc20587a6b07b7bd88603b9b4",
             "alt": "Close up of typewriter keys",
             "caption": "The mechanical nature of AI generation often mirrors the repetitive nature of early automation, lacking the erratic spark of human intuition.",
             "credit": "Unsplash",
