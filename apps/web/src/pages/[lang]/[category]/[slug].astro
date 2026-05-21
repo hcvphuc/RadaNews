@@ -532,13 +532,13 @@ function bgStyle(src: string | undefined): string {
   [data-bookmarked="true"] .bookmark-button { color: #ff8a00; border-color: rgba(255, 138, 0, 0.55); background: rgba(255, 138, 0, 0.1); }
 
   /* ── Glossary Tooltips ── */
-  abbr.glossary-term {
+  :global(abbr.glossary-term) {
     text-decoration: none !important;
     position: relative;
     cursor: help;
     border-bottom: 1px dashed rgba(255, 179, 71, 0.4);
   }
-  abbr.glossary-term sup.glossary-icon {
+  :global(abbr.glossary-term sup.glossary-icon) {
     font-size: 0.65em;
     color: #ffb347;
     vertical-align: super;
@@ -546,7 +546,7 @@ function bgStyle(src: string | undefined): string {
     font-style: normal;
     font-weight: normal;
   }
-  abbr.glossary-term::after {
+  :global(abbr.glossary-term::after) {
     content: attr(data-tip);
     position: absolute;
     bottom: calc(100% + 8px);
@@ -570,8 +570,8 @@ function bgStyle(src: string | undefined): string {
     z-index: 100;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
   }
-  abbr.glossary-term:hover::after,
-  abbr.glossary-term:focus::after {
+  :global(abbr.glossary-term:hover::after),
+  :global(abbr.glossary-term:focus::after) {
     opacity: 1;
   }
 
