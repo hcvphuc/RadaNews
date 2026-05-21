@@ -275,6 +275,16 @@ function bgStyle(src: string | undefined): string {
 </BaseLayout>
 
 <script>
+  // Sources toggle
+  document.querySelector('.sources-toggle')?.addEventListener('click', () => {
+    const btn = document.querySelector('.sources-toggle') as HTMLElement;
+    const list = document.querySelector('.sources-list') as HTMLElement;
+    if (!btn || !list) return;
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', String(!expanded));
+    list.classList.toggle('collapsed');
+  });
+
   // Carousel scroll behavior
   document.querySelectorAll('.carousel-btn').forEach((btn) => {
     btn.addEventListener('click', () => {
