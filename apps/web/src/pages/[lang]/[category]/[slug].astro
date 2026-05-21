@@ -13,6 +13,7 @@ import {
 } from "@/lib/content";
 import { localizeCategory } from "@/lib/categories";
 import type { Article } from "@/lib/schema";
+import { glossaryCategories } from "@/data/glossary";
 
 export function getStaticPaths() {
   return getAllStaticArticlePaths();
@@ -22,6 +23,31 @@ const { article } = Astro.props as { article: Article };
 const otherLang = article.lang === "vi" ? "en" : "vi";
 const otherVariant = getLanguageVariant(article, otherLang);
 const relatedArticles = getRelatedArticles(article);
+
+// Meta description: use first highlight text or fallback
+const metaDesc = article.subtitle || article.highlights?.[0]?.text || `${article.title} - AI Radar analysis`;
+const ogImage = article.heroMedia?.src;
+
+// Build glossary lookup from all categories
+const glossaryMap = new Map<string, string>();
+for (const cat of glossaryCategories) {
+  for (const entry of cat.entries) {
+    glossaryMap.set(entry.keyword, article.lang === "vi" ? entry.vi : entry.en);
+  }
+}
+
+function renderWithGlossary(text: string): string {
+  // Sort by length descending to avoid partial matches (e.g. "AI" before "AI Agent")
+  const sorted = [...glossaryMap.entries()].sort((a, b) => b[0].length - a[0].length);
+  let result = text;
+  for (const [keyword, def] of sorted) {
+    // Only match whole words/phrases (surrounded by non-word chars or boundaries)
+    const escaped = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`(?<!\\w)${escaped}(?!\\w)`, 'g');
+    result = result.replace(regex, `<abbr class="glossary-term" data-tip="${def.replace(/"/g, '&quot;')}">$&<sup class="glossary-icon">ⓘ</sup></abbr>`);
+  }
+  return result;
+}
 
 // Fallback: old flat format → new structured format
 const highlights = article.highlights?.length
@@ -53,8 +79,34 @@ function bgStyle(src: string | undefined): string {
 }
 ---
 
-<BaseLayout title={`${article.title} - AI Radar`} lang={article.lang} active={article.category}>
+<BaseLayout title={`${article.title} - AI Radar`} description={metaDesc} lang={article.lang} active={article.category}>
+  <Fragment slot="head">
+    <meta property="og:image" content={ogImage || "/favicon.svg"} />
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content={article.publishedAt} />
+    <meta property="article:author" content={article.author || "AI Radar"} />
+    {article.tags.map((tag) => <meta property="article:tag" content={tag} />)}
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": article.title,
+      "description": metaDesc,
+      "image": ogImage,
+      "datePublished": article.publishedAt,
+      "author": { "@type": "Organization", "name": "AI Radar" },
+      "publisher": { "@type": "Organization", "name": "AI Radar" },
+      "mainEntityOfPage": { "@type": "WebPage", "@id": new URL(Astro.url.pathname, Astro.url.origin).href }
+    })} />
+  </Fragment>
   <article class="article shell" data-bookmark-card={article.id}>
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href={article.lang === "vi" ? "/vi/today" : "/en/today"}>AI Radar</a>
+      <span>/</span>
+      <a href={`/${article.lang}/${article.category}`}>{localizeCategory(article.category, article.lang)}</a>
+      <span>/</span>
+      <span class="current">{article.title}</span>
+    </nav>
 
     <!-- ═══ 1. Article Header ═══ -->
     <header class="article-header">
@@ -93,7 +145,7 @@ function bgStyle(src: string | undefined): string {
               {highlights.map((item, idx) => (
                 <li>
                   <span class="hl-num">{String(idx + 1).padStart(2, "0")}</span>
-                  <span>{item.text}</span>
+                  <span set:html={renderWithGlossary(item.text)} />
                 </li>
               ))}
             </ol>
@@ -109,11 +161,11 @@ function bgStyle(src: string | undefined): string {
               {section.blocks.map((block: any) => (
                 <Fragment>
                   {block.type === "paragraph" && block.text && (
-                    <p>{block.text}</p>
+                    <p set:html={renderWithGlossary(block.text)} />
                   )}
                   {block.type === "list" && block.items && (
                     <ul>
-                      {block.items.map((li: string) => <li>{li}</li>)}
+                      {block.items.map((li: string) => <li set:html={renderWithGlossary(li)} />)}
                     </ul>
                   )}
                   {block.type === "media" && block.src && (
@@ -139,8 +191,8 @@ function bgStyle(src: string | undefined): string {
                   )}
                   {block.type === "callout" && block.text && (
                     <aside class={"callout callout-" + (block.variant || "note")}>
-                      {block.title && <strong>{block.title}</strong>}
-                      <p>{block.text}</p>
+                      {block.title && <strong set:html={renderWithGlossary(block.title)} />}
+                      <p set:html={renderWithGlossary(block.text)} />
                     </aside>
                   )}
                   {block.type === "quote" && block.text && (
@@ -182,10 +234,10 @@ function bgStyle(src: string | undefined): string {
             {insightBlocks.map((block) => (
               <div class={"insight-card panel insight-" + (block.variant || "analysis")}>
                 <div class="insight-head">
-                  <h3>{block.title}</h3>
+                  <h3 set:html={renderWithGlossary(block.title)} />
                   <Icon name="spark" size={14} />
                 </div>
-                <p>{block.text}</p>
+                <p set:html={renderWithGlossary(block.text)} />
               </div>
             ))}
           </section>
@@ -195,13 +247,13 @@ function bgStyle(src: string | undefined): string {
         {takeaway && (
           <section id="takeaway" class="takeaway-card panel">
             <div class="takeaway-head">
-              <h2>{takeaway.title || "Takeaway"}</h2>
+              <h2 set:html={renderWithGlossary(takeaway.title || "Takeaway")} />
               <Icon name="spark" size={16} />
             </div>
-            {takeaway.text && <p>{takeaway.text}</p>}
+            {takeaway.text && <p set:html={renderWithGlossary(takeaway.text)} />}
             {takeaway.items && takeaway.items.length > 0 && (
               <ul>
-                {takeaway.items.map((item) => <li>{item}</li>)}
+                {takeaway.items.map((item) => <li set:html={renderWithGlossary(item)} />)}
               </ul>
             )}
           </section>
@@ -332,6 +384,11 @@ function bgStyle(src: string | undefined): string {
   .article-meta { display: flex; flex-wrap: wrap; gap: 10px; color: var(--muted); font-size: 12px; }
   .article-meta span:first-child { color: #ffb347; font-weight: 800; text-transform: uppercase; }
   h1 { margin: 0; font-size: clamp(38px, 5.5vw, 78px); line-height: 0.96; letter-spacing: -0.045em; font-family: 'Noto Serif', Georgia, serif; font-weight: 700; }
+
+  /* Breadcrumb */
+  .breadcrumb { display: flex; align-items: center; gap: 8px; padding-bottom: 12px; font-size: 12px; color: var(--muted); }
+  .breadcrumb a { color: #ffb347; font-weight: 600; }
+  .breadcrumb .current { color: #d7d9de; }
 
   /* ── 2. Hero Media ── */
   .hero-media {

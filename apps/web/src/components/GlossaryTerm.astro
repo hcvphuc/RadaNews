@@ -1,0 +1,64 @@
+---
+import { getTerm } from "@/data/glossary";
+import type { Lang } from "@/lib/schema";
+
+interface Props {
+  keyword: string;
+  lang: Lang;
+  display?: string;
+}
+
+const { keyword, lang, display } = Astro.props as Props;
+const def = getTerm(keyword, lang);
+---
+
+{def ? (
+  <span class="glossary-term" data-tip={def}>
+    {display ?? keyword}<sup class="glossary-icon">ⓘ</sup>
+  </span>
+) : (
+  <span>{display ?? keyword}</span>
+)}
+
+<style>
+  .glossary-term {
+    position: relative;
+    cursor: help;
+    border-bottom: 1px dashed rgba(255, 179, 71, 0.4);
+  }
+  .glossary-icon {
+    font-size: 0.7em;
+    color: #ffb347;
+    vertical-align: super;
+    margin-left: 1px;
+    font-style: normal;
+  }
+  .glossary-term::after {
+    content: attr(data-tip);
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(17, 18, 20, 0.97);
+    color: #d7d9de;
+    border: 1px solid rgba(43, 46, 51, 0.9);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 12px;
+    line-height: 1.45;
+    max-width: 280px;
+    width: max-content;
+    text-align: left;
+    font-weight: 400;
+    white-space: normal;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.12s;
+    z-index: 100;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+  }
+  .glossary-term:hover::after,
+  .glossary-term:focus::after {
+    opacity: 1;
+  }
+</style>

@@ -992,9 +992,10 @@ export const generatedArticles: Article[] = [
   },
 
 
+
   {
   "id": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21_vi",
-  "slug": "this-kind-of-storyboard-image-combined-with-seedance-is-very-2026-05-21",
+  "slug": "storyboard-seedance-pipeline-ai-video",
   "lang": "vi",
   "category": "ai-video",
   "title": "Storyboard + Seedance: Pipeline thực chiến cho AI Video",
@@ -1039,10 +1040,6 @@ export const generatedArticles: Article[] = [
           "text": "Hỏi thật: bạn đã bao giờ generate một clip AI video 5 giây cực đẹp — rồi shot tiếp theo nhân vật biến thành người khác chưa? Đó là bài toán consistency, và nó là lý do AI video vẫn chưa vào được production thực sự. Trên r/MediaSynthesis, u/No-Link-6413 đã chia sẻ một case study gây chấn động: 57 ngày làm phim ngắn 8 phút bằng Seedance + Kling + Runway. Kết quả? Nhiều người xem không phân biệt được đâu là AI, đâu là quay thật."
         },
         {
-          "type": "paragraph",
-          "text": "Điều đáng nói không phải là con số 57 ngày — mà là insight đằng sau nó. Bí mật không nằm ở tool. Kling, Runway, Seedance — tool nào cũng có thể cho kết quả tốt nếu bạn biết cách dùng. Bí mật nằm ở storyboard. Cái thứ dân làm phim Hollywood đã dùng từ những năm 1930. Disney, Pixar, Marvel — tất cả đều có storyboard department. AI không phát minh ra gì mới — nó chỉ làm cho quy trình vốn đã tồn tại trở nên rẻ hơn 100 lần."
-        },
-        {
           "type": "media",
           "mediaType": "video",
           "src": "https://v.redd.it/jkkfz2il7c2h1/CMAF_1080.mp4?source=fallback",
@@ -1051,6 +1048,10 @@ export const generatedArticles: Article[] = [
           "credit": "u/No-Link-6413 on r/aivideo",
           "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tiuti2/the_death_god_meets_the_yakuza_bosses_in_neotokyo/",
           "placement": "after-paragraph"
+        },
+        {
+          "type": "paragraph",
+          "text": "Điều đáng nói không phải là con số 57 ngày — mà là insight đằng sau nó. Bí mật không nằm ở tool. Kling, Runway, Seedance — tool nào cũng có thể cho kết quả tốt nếu bạn biết cách dùng. Bí mật nằm ở storyboard. Cái thứ dân làm phim Hollywood đã dùng từ những năm 1930. Disney, Pixar, Marvel — tất cả đều có storyboard department. AI không phát minh ra gì mới — nó chỉ làm cho quy trình vốn đã tồn tại trở nên rẻ hơn 100 lần."
         }
       ]
     },
@@ -1381,7 +1382,7 @@ export const generatedArticles: Article[] = [
 },
   {
   "id": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21_en",
-  "slug": "this-kind-of-storyboard-image-combined-with-seedance-is-very-2026-05-21",
+  "slug": "storyboard-seedance-pipeline-ai-video",
   "lang": "en",
   "category": "ai-video",
   "title": "Storyboard + Seedance: A Battle-Tested Pipeline for AI Video",
