@@ -1039,6 +1039,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Điển hình là trường hợp của một creator đã dành 57 ngày để hoàn thiện bộ phim ngắn 'GOD IS DEAD', sử dụng một hệ sinh thái công cụ phức tạp bao gồm Kling 3.0, Runway Gen 4.5, và đặc biệt là Seedance 1.5 để chuyển đổi hình ảnh thành video. Điều này cho thấy một xu hướng rõ rệt: để đạt được chất lượng 'Industrial-Grade' (cấp độ công nghiệp), AI chỉ là công cụ thực thi, còn tư duy đạo diễn và kiểm soát chi tiết mới là yếu tố quyết định."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v.redd.it/jkkfz2il7c2h1/CMAF_1080.mp4?source=fallback",
+            "alt": "GOD IS DEAD - AI short film using Seedance + Kling + Runway",
+            "caption": "Phim ngắn AI 'GOD IS DEAD' — 57 ngày sản xuất với storyboard chi tiết, Seedance 1.5, Kling 3.0 và Runway Gen 4.5.",
+            "credit": "u/No-Link-6413 on r/aivideo",
+            "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tiuti2/the_death_god_meets_the_yakuza_bosses_in_neotokyo/",
+            "placement": "after-paragraph"
           }
         ]
       },

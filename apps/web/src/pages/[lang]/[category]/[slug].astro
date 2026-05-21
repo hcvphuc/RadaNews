@@ -133,7 +133,13 @@ function bgStyle(src: string | undefined): string {
                   )}
                   {block.type === "media" && block.src && (
                     <figure class="inline-media">
-                      <img src={block.src} alt={block.alt || section.heading} loading="lazy" />
+                      {block.mediaType === "video" || block.mediaType === "embed" ? (
+                        <video src={block.src} controls preload="metadata" width="100%">
+                          {block.caption && <track kind="descriptions" label={block.caption} />}
+                        </video>
+                      ) : (
+                        <img src={block.src} alt={block.alt || section.heading} loading="lazy" />
+                      )}
                       {(block.caption || block.credit) && (
                         <figcaption>
                           {block.caption}
