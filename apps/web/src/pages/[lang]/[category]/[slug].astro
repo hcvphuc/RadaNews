@@ -192,10 +192,13 @@ function bgStyle(src: string | undefined): string {
         <!-- ═══ 7. Sources ═══ -->
         <section id="sources" class="sources-section panel">
           <div class="sources-head">
-            <h2>Sources</h2>
-            <span>{article.sources.length} nguồn tham khảo</span>
+            <button class="sources-toggle" type="button" aria-expanded="false">
+              <h2>Sources</h2>
+              <span>{article.sources.length} nguồn tham khảo</span>
+              <Icon name="chevron-down" size={14} />
+            </button>
           </div>
-          <div class="sources-list">
+          <div class="sources-list collapsed">
             {article.sources.map((source, idx) => (
               <a class="source-item" href={source.url} target="_blank" rel="noreferrer">
                 <span class="source-num">{String(idx + 1).padStart(2, "0")}</span>
@@ -372,11 +375,19 @@ function bgStyle(src: string | undefined): string {
   .takeaway-card li { color: #d7d9de; line-height: 1.55; font-size: 14px; }
 
   /* ── 7. Sources ── */
-  .sources-section { padding: 20px; }
-  .sources-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 16px; }
-  .sources-head h2 { margin: 0; font-size: 18px; color: white; }
-  .sources-head span { color: var(--muted); font-size: 12px; }
+  .sources-section { padding: 16px 20px; }
+  .sources-head { margin-bottom: 0; }
+  .sources-toggle {
+    display: flex; align-items: center; gap: 12px; width: 100%;
+    background: none; border: none; padding: 4px 0; cursor: pointer; color: inherit;
+  }
+  .sources-toggle h2 { margin: 0; font-size: 18px; color: white; }
+  .sources-toggle span { color: var(--muted); font-size: 12px; }
+  .sources-toggle :global(svg) { color: var(--muted); margin-left: auto; transition: transform 0.2s; }
+  .sources-toggle[aria-expanded="true"] :global(svg) { transform: rotate(180deg); }
   .sources-list { display: grid; gap: 8px; }
+  .sources-list.collapsed { display: none; }
+  .sources-list:not(.collapsed) { margin-top: 12px; }
   .source-item { display: grid; grid-template-columns: 38px 1fr; gap: 6px 12px; padding: 12px 0; border-top: 1px solid rgba(43, 46, 51, 0.7); }
   .source-item:first-child { border-top: none; }
   .source-num { grid-row: span 2; color: #ffb347; font-weight: 800; font-size: 13px; }
