@@ -4,11 +4,11 @@ import { articleUrl, readingMeta } from "@/lib/content";
 import { localizeCategory } from "@/lib/categories";
 import type { Article } from "@/lib/schema";
 
-const { article, featured = false } = Astro.props as { article: Article; featured?: boolean };
+const { article, featured = false, compact = false } = Astro.props as { article: Article; featured?: boolean; compact?: boolean };
 const coverImg = article.heroMedia?.src;
 ---
 
-<article class={`article-card ${featured ? "featured" : ""}`} data-bookmark-card={article.id}>
+<article class={`article-card ${featured ? "featured" : ""} ${compact ? "compact" : ""}`} data-bookmark-card={article.id}>
   <a class="cover article-cover" href={articleUrl(article)} aria-label={article.title}
      style={coverImg ? "background-image: url(" + coverImg + ")" : ""}>
     <span class="cover-copy">
@@ -22,7 +22,7 @@ const coverImg = article.heroMedia?.src;
       <span>{readingMeta(article, article.lang)}</span>
     </div>
     <h3><a href={articleUrl(article)}>{article.title}</a></h3>
-    <p>{article.subtitle}</p>
+    {featured && article.subtitle && <p>{article.subtitle}</p>}
     <div class="footer">
       <span class="meta-row">AI Radar · {article.sources.length} sources</span>
       <button class="icon-btn bookmark-button" type="button" data-bookmark={article.id} aria-label="Save article">
@@ -130,6 +130,15 @@ const coverImg = article.heroMedia?.src;
     font-size: 20px;
     line-height: 1.22;
     letter-spacing: 0;
+  }
+
+  .compact h3 {
+    font-size: 15px;
+    line-height: 1.35;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 
   .featured h3 {
