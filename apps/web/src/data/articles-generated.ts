@@ -2219,5 +2219,1108 @@ export const generatedArticles: Article[] = [
       "confidence": "medium"
     },
     "status": "published"
-  }
+  },
+{
+  "id": "ai-agentic-state-2026-autonomy",
+  "slug": "ai-agents-2026-tu-prompt-den-autonomy",
+  "lang": "vi",
+  "status": "published",
+  "category": "ai-agentic",
+  "title": "AI Agents 2026: hết thời prompt màu mè, giờ là ai chạy được 5 tiếng không gãy",
+  "subtitle": "Cuộc chơi đã đổi từ “model nào thông minh hơn” sang “agent nào làm việc lâu hơn, ít phá hơn, biết tự kiểm chứng hơn”.",
+  "publishedAt": "2026-05-19T10:30:00+07:00",
+  "readingTime": 7,
+  "sourceCount": 2,
+  "author": "AI Radar Editorial",
+  "tags": [
+    "ai-agents",
+    "mcp",
+    "claude-code",
+    "autonomy",
+    "context-engineering"
+  ],
+  "heroMedia": {
+    "type": "image",
+    "src": "/favicon.svg",
+    "alt": "AI Agents 2026: hết thời prompt màu mè, giờ là ai chạy được 5 tiếng không gãy",
+    "caption": "Cuộc chơi đã đổi từ “model nào thông minh hơn” sang “agent nào làm việc lâu hơn, ít phá hơn, biết tự kiểm chứng hơn”.",
+    "credit": "AI Radar"
+  },
+  "imageUrl": "/favicon.svg",
+  "highlights": [
+    {
+      "text": "2025 là năm agent lớn thật: reasoning model rẻ hơn, MCP thành chuẩn nối tool, Claude Code biến terminal thành nơi làm việc chính."
+    },
+    {
+      "text": "Moat không còn nằm ở “model thông minh hơn” mà nằm ở orchestration layer: cách agent lấy context, hành động, test, sửa, lặp lại."
+    },
+    {
+      "text": "Prosus nêu mốc đáng sợ: agent frontier có thể làm task gần 5 tiếng, doubling time khoảng 196 ngày."
+    },
+    {
+      "text": "CLI agent đang thắng IDE agent vì feedback loop rõ: lệnh chạy được hay không, test pass hay fail — không có chỗ để diễn."
+    }
+  ],
+  "sections": [
+    {
+      "id": "tu-prompt-sang-context",
+      "heading": "Từ prompt engineering sang context engineering",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Một năm trước, ai cũng khoe prompt. Prompt dài, prompt đẹp, prompt “bí kíp”. Năm 2026, phần đó nghe hơi quê. Agent không sống bằng một câu thần chú; nó sống bằng context đúng, tool đúng, memory đúng và vòng kiểm chứng đủ chặt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prosus gọi đây là dịch chuyển từ one-shot intelligence sang endurance. Nói thẳng: AI không còn được chấm bằng câu trả lời 15 giây, mà bằng việc nó có tự làm một chuỗi 200 bước mà không tự đâm đầu vào tường hay không."
+        },
+        {
+          "type": "callout",
+          "variant": "context",
+          "title": "Câu hỏi mới",
+          "text": "Không phải “model này IQ bao nhiêu?”, mà là “nó tự làm được bao lâu trước khi cần người vào cứu?”."
+        }
+      ]
+    },
+    {
+      "id": "terminal-la-giao-dien",
+      "heading": "Terminal thành giao diện của autonomy",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Claude Code không thắng vì nó có UI đẹp. Nó thắng vì terminal là môi trường thật: file có tồn tại hay không, lệnh trả exit code 0 hay 1, test xanh hay đỏ. Agent cần reality check kiểu đó, không phải một canvas bóng bẩy để hallucinate thêm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Firecrawl nhắc một điểm đau: CLI trung bình khoảng 200 token cho một command, trong khi một số MCP operation có thể ăn 32.000–82.000 token. Nếu đúng trong workflow của bạn, đó không phải khác biệt nhỏ; đó là hóa đơn bị đốt bằng máy sấy tóc."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Workflow",
+            "Ưu điểm",
+            "Điểm chết"
+          ],
+          "rows": [
+            [
+              "CLI agent",
+              "Rẻ token, feedback rõ, compose tốt",
+              "Khó dùng với người không kỹ thuật"
+            ],
+            [
+              "IDE agent",
+              "Dễ tiếp cận, thấy file trực quan",
+              "Dễ context pollution"
+            ],
+            [
+              "MCP-heavy agent",
+              "Nối tool nhanh, chuẩn hóa tốt",
+              "Schema/phần mô tả tool có thể phình token"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orchestration-la-moat",
+      "heading": "Moat nằm ở orchestration, không nằm ở model",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Khi frontier model bắt đầu ngang nhau, câu “chúng tôi có model thông minh hơn” nghe giống pitch deck 2023. Prosus chỉ ra thương vụ Meta mua Manus 2 tỷ USD dù Manus không có foundation model. Thứ Meta mua là harness: cách agent điều phối tool, subagent, memory, verify."
+        },
+        {
+          "type": "paragraph",
+          "text": "Đây là lý do nhiều sản phẩm agent nhìn ngoài giống chatbot nhưng bên trong là một hệ thống vận hành: planner, executor, browser, terminal, evaluator, rollback. Bỏ phần đó đi, bạn chỉ còn một model biết nói chuyện."
+        }
+      ]
+    },
+    {
+      "id": "all-agents-are-coding-agents",
+      "heading": "Tất cả agent rồi sẽ thành coding agent",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Câu này nghe cực đoan nhưng hợp lý: một agent tài chính có terminal + Python + API là coding agent. Agent support query database, dựng repro, viết report cũng là coding agent. Khi bạn cho AI filesystem và shell, mọi ngành đều biến thành một dạng workflow lập trình."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nghề mới không phải “prompt engineer”. Nghề mới là người thiết kế harness: giới hạn quyền, cho tool nào, log ra sao, rollback thế nào, test bằng gì, khi nào dừng."
+        }
+      ]
+    }
+  ],
+  "insightBlocks": [
+    {
+      "title": "Vì sao đáng chú ý",
+      "text": "Nếu thời lượng autonomous task thật sự nhân đôi mỗi 196 ngày, nhiều workflow văn phòng hiện nay sẽ bị ăn từ giữa chứ không bị thay từ ngoài vào.",
+      "variant": "analysis"
+    },
+    {
+      "title": "Rủi ro",
+      "text": "Agent làm lâu hơn cũng có nghĩa là lỗi có thời gian lan xa hơn. Không có sandbox, permission, audit log thì autonomy chỉ là cách gọi sang của phá hoại tự động.",
+      "variant": "risk"
+    }
+  ],
+  "takeaway": {
+    "title": "Builder takeaway",
+    "items": [
+      "Đừng mua tool agent chỉ vì demo đẹp; hỏi nó có verify và rollback không.",
+      "Ưu tiên CLI/API workflow cho task dài, đo bằng test pass/fail.",
+      "Thiết kế permission trước khi nói chuyện autonomy.",
+      "Xem orchestration layer là sản phẩm, không phải phụ kiện."
+    ]
+  },
+  "sources": [
+    {
+      "title": "State of AI Agents 2026: Autonomy is Here",
+      "publisher": "Prosus",
+      "url": "https://www.prosus.com/news-insights/2026/state-of-ai-agents-2026-autonomy-is-here"
+    },
+    {
+      "title": "Top 11 Agentic AI Trends to Watch in 2026",
+      "publisher": "Firecrawl",
+      "url": "https://www.firecrawl.dev/blog/agentic-ai-trends"
+    }
+  ],
+  "generation": {
+    "model": "manual-editorial",
+    "promptVersion": "content-pipeline-v2",
+    "generatedAt": "2026-05-19T10:30:00+07:00",
+    "sourceClusterId": "manual-ai-radar-hot-topics-2026-05-19",
+    "confidence": "high"
+  },
+  "tldr": [
+    "2025 là năm agent lớn thật: reasoning model rẻ hơn, MCP thành chuẩn nối tool, Claude Code biến terminal thành nơi làm việc chính.",
+    "Moat không còn nằm ở “model thông minh hơn” mà nằm ở orchestration layer: cách agent lấy context, hành động, test, sửa, lặp lại.",
+    "Prosus nêu mốc đáng sợ: agent frontier có thể làm task gần 5 tiếng, doubling time khoảng 196 ngày.",
+    "CLI agent đang thắng IDE agent vì feedback loop rõ: lệnh chạy được hay không, test pass hay fail — không có chỗ để diễn."
+  ],
+  "bodyMarkdown": "### Từ prompt engineering sang context engineering\nMột năm trước, ai cũng khoe prompt. Prompt dài, prompt đẹp, prompt “bí kíp”. Năm 2026, phần đó nghe hơi quê. Agent không sống bằng một câu thần chú; nó sống bằng context đúng, tool đúng, memory đúng và vòng kiểm chứng đủ chặt.\n\nProsus gọi đây là dịch chuyển từ one-shot intelligence sang endurance. Nói thẳng: AI không còn được chấm bằng câu trả lời 15 giây, mà bằng việc nó có tự làm một chuỗi 200 bước mà không tự đâm đầu vào tường hay không.\n\nKhông phải “model này IQ bao nhiêu?”, mà là “nó tự làm được bao lâu trước khi cần người vào cứu?”.\n\n### Terminal thành giao diện của autonomy\nClaude Code không thắng vì nó có UI đẹp. Nó thắng vì terminal là môi trường thật: file có tồn tại hay không, lệnh trả exit code 0 hay 1, test xanh hay đỏ. Agent cần reality check kiểu đó, không phải một canvas bóng bẩy để hallucinate thêm.\n\nFirecrawl nhắc một điểm đau: CLI trung bình khoảng 200 token cho một command, trong khi một số MCP operation có thể ăn 32.000–82.000 token. Nếu đúng trong workflow của bạn, đó không phải khác biệt nhỏ; đó là hóa đơn bị đốt bằng máy sấy tóc.\n\nBảng so sánh trong bài.\n\n### Moat nằm ở orchestration, không nằm ở model\nKhi frontier model bắt đầu ngang nhau, câu “chúng tôi có model thông minh hơn” nghe giống pitch deck 2023. Prosus chỉ ra thương vụ Meta mua Manus 2 tỷ USD dù Manus không có foundation model. Thứ Meta mua là harness: cách agent điều phối tool, subagent, memory, verify.\n\nĐây là lý do nhiều sản phẩm agent nhìn ngoài giống chatbot nhưng bên trong là một hệ thống vận hành: planner, executor, browser, terminal, evaluator, rollback. Bỏ phần đó đi, bạn chỉ còn một model biết nói chuyện.\n\n### Tất cả agent rồi sẽ thành coding agent\nCâu này nghe cực đoan nhưng hợp lý: một agent tài chính có terminal + Python + API là coding agent. Agent support query database, dựng repro, viết report cũng là coding agent. Khi bạn cho AI filesystem và shell, mọi ngành đều biến thành một dạng workflow lập trình.\n\nNghề mới không phải “prompt engineer”. Nghề mới là người thiết kế harness: giới hạn quyền, cho tool nào, log ra sao, rollback thế nào, test bằng gì, khi nào dừng.",
+  "whyItMatters": "Nếu thời lượng autonomous task thật sự nhân đôi mỗi 196 ngày, nhiều workflow văn phòng hiện nay sẽ bị ăn từ giữa chứ không bị thay từ ngoài vào. Agent làm lâu hơn cũng có nghĩa là lỗi có thời gian lan xa hơn. Không có sandbox, permission, audit log thì autonomy chỉ là cách gọi sang của phá hoại tự động.",
+  "creatorTakeaway": "Đừng mua tool agent chỉ vì demo đẹp; hỏi nó có verify và rollback không.; Ưu tiên CLI/API workflow cho task dài, đo bằng test pass/fail.; Thiết kế permission trước khi nói chuyện autonomy.; Xem orchestration layer là sản phẩm, không phải phụ kiện."
+},
+{
+  "id": "ai-agentic-mcp-177k-tools",
+  "slug": "mcp-177000-tools-cuoc-chien-tool-use",
+  "lang": "vi",
+  "status": "published",
+  "category": "ai-agentic",
+  "title": "MCP có 177.000 công cụ: nghe oách, nhưng tool-use không tự nhiên mà an toàn",
+  "subtitle": "MCP đang thành đường ống nối AI với thế giới thật. Và chính vì vậy, nó nguy hiểm hơn một chatbot nói nhảm rất nhiều.",
+  "publishedAt": "2026-05-19T10:30:00+07:00",
+  "readingTime": 7,
+  "sourceCount": 3,
+  "author": "AI Radar Editorial",
+  "tags": [
+    "mcp",
+    "tool-use",
+    "ai-safety",
+    "ai-agents",
+    "security"
+  ],
+  "heroMedia": {
+    "type": "image",
+    "src": "/favicon.svg",
+    "alt": "MCP có 177.000 công cụ: nghe oách, nhưng tool-use không tự nhiên mà an toàn",
+    "caption": "MCP đang thành đường ống nối AI với thế giới thật. Và chính vì vậy, nó nguy hiểm hơn một chatbot nói nhảm rất nhiều.",
+    "credit": "AI Radar"
+  },
+  "imageUrl": "/favicon.svg",
+  "highlights": [
+    {
+      "text": "Một paper đo 177.436 MCP tools cho thấy software dev chiếm 67% số tool và 90% downloads."
+    },
+    {
+      "text": "Action tools tăng từ 27% lên 65% downloads — agent không chỉ đọc, nó đang sửa, gửi, xóa, mua, chạy."
+    },
+    {
+      "text": "AI-authored MCP server tăng từ 6% lên 62% server mới: AI đang tự xây action space cho chính nó."
+    },
+    {
+      "text": "Enterprise MCP chỉ sống được nếu có auth, policy, observability, sandbox — không phải cứ cắm server là xong."
+    }
+  ],
+  "sections": [
+    {
+      "id": "mcp-la-o-cam",
+      "heading": "MCP là ổ cắm điện cho agent — cắm sai là cháy nhà",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Model Context Protocol giải quyết một vấn đề thật: AI cần cách chuẩn để nối vào database, file, SaaS, browser, calendar, payment. Trước MCP, mỗi app tự chế adapter. Sau MCP, tool có thể publish như plugin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nhưng đừng nhầm chuẩn kết nối với chuẩn an toàn. Một ổ cắm điện làm bóng đèn sáng, cũng làm dây kém chất lượng bốc khói. MCP mở action space cho agent; phần còn lại là quyền, kiểm soát và log."
+        }
+      ]
+    },
+    {
+      "id": "so-lieu-khong-dua",
+      "heading": "177.000 tool nói gì? Software đang là bãi thử nghiệm lớn nhất",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Paper arXiv về 177.436 MCP tools cho thấy software/IT áp đảo: 67% số tool, 90% usage. Không lạ. Dev là nhóm chịu đau cao, thích automate, và đủ kỹ năng tự cứu khi agent phá."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Chỉ số",
+            "Con số",
+            "Ý nghĩa"
+          ],
+          "rows": [
+            [
+              "MCP tools đo được",
+              "177.436",
+              "Ecosystem đã vượt giai đoạn đồ chơi"
+            ],
+            [
+              "Software/IT tools",
+              "67%",
+              "Dev là nơi agent hóa nhanh nhất"
+            ],
+            [
+              "Downloads thuộc software",
+              "90%",
+              "Adoption thật nằm ở workflow code"
+            ],
+            [
+              "Action tools",
+              "27% → 65%",
+              "Agent chuyển từ đọc sang làm"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tu-xay-tool",
+      "heading": "Chi tiết đáng sợ: AI đang tự xây tool cho AI",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Một số liệu làm tôi khựng lại: tỷ lệ server mới có dấu hiệu AI co-author tăng từ 6% lên 62% vào tháng 2/2026. Đây không còn là dev viết tool cho AI. Đây là AI giúp mở rộng bộ tay chân của chính nó."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Không phải sci-fi",
+          "text": "Khi agent có thể viết MCP server, publish nó, rồi agent khác dùng lại, action space sẽ phình nhanh hơn khả năng audit của con người."
+        }
+      ]
+    },
+    {
+      "id": "enterprise-mcp",
+      "heading": "Enterprise MCP: không có policy thì chỉ là shadow IT đội mũ AI",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "CData gọi 2026 là năm enterprise-ready MCP adoption. Tôi đồng ý nửa đầu, nghi ngờ nửa sau. Doanh nghiệp muốn MCP vì nó chuẩn hóa connector. Nhưng connector mà không có permission theo role, logging, DLP, sandbox, approval gate thì nó là shadow IT phiên bản biết gọi tool."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vấn đề không phải MCP xấu. Vấn đề là nhiều team cắm MCP như cắm extension Chrome: thấy tiện là bật. Với financial transaction, database write, email send, cái giá của một prompt injection không còn là câu trả lời sai; nó là tiền thật, data thật, khách hàng thật."
+        }
+      ]
+    }
+  ],
+  "insightBlocks": [
+    {
+      "title": "Vì sao đáng chú ý",
+      "text": "MCP biến agent từ “thằng trả lời” thành “thằng hành động”. Mọi rủi ro vì thế chuyển từ reputational sang operational.",
+      "variant": "impact"
+    },
+    {
+      "title": "Điều cần theo dõi",
+      "text": "Nhìn vào loại MCP tool được download nhiều nhất sẽ cho thấy ngành nào sắp bị agent hóa trước, chứ không cần nghe keynote.",
+      "variant": "analysis"
+    }
+  ],
+  "takeaway": {
+    "title": "Checklist trước khi bật MCP trong công ty",
+    "items": [
+      "Tool nào có quyền write/delete/payment phải có approval gate.",
+      "Log mọi tool call với input/output rút gọn.",
+      "Không cho agent đọc secret bằng file/browser tự do.",
+      "Tách sandbox cho browser/computer-use.",
+      "Đo token cost: MCP không phải lúc nào cũng rẻ hơn CLI/API trực tiếp."
+    ]
+  },
+  "sources": [
+    {
+      "title": "How are AI agents used? Evidence from 177,000 MCP tools",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/html/2603.23802v1"
+    },
+    {
+      "title": "2026: The Year for Enterprise-Ready MCP Adoption",
+      "publisher": "CData",
+      "url": "https://www.cdata.com/blog/2026-year-enterprise-ready-mcp-adoption"
+    },
+    {
+      "title": "MCP Hits 97M Downloads",
+      "publisher": "Digital Applied",
+      "url": "https://www.digitalapplied.com/blog/mcp-97-million-downloads-model-context-protocol-mainstream"
+    }
+  ],
+  "generation": {
+    "model": "manual-editorial",
+    "promptVersion": "content-pipeline-v2",
+    "generatedAt": "2026-05-19T10:30:00+07:00",
+    "sourceClusterId": "manual-ai-radar-hot-topics-2026-05-19",
+    "confidence": "high"
+  },
+  "tldr": [
+    "Một paper đo 177.436 MCP tools cho thấy software dev chiếm 67% số tool và 90% downloads.",
+    "Action tools tăng từ 27% lên 65% downloads — agent không chỉ đọc, nó đang sửa, gửi, xóa, mua, chạy.",
+    "AI-authored MCP server tăng từ 6% lên 62% server mới: AI đang tự xây action space cho chính nó.",
+    "Enterprise MCP chỉ sống được nếu có auth, policy, observability, sandbox — không phải cứ cắm server là xong."
+  ],
+  "bodyMarkdown": "### MCP là ổ cắm điện cho agent — cắm sai là cháy nhà\nModel Context Protocol giải quyết một vấn đề thật: AI cần cách chuẩn để nối vào database, file, SaaS, browser, calendar, payment. Trước MCP, mỗi app tự chế adapter. Sau MCP, tool có thể publish như plugin.\n\nNhưng đừng nhầm chuẩn kết nối với chuẩn an toàn. Một ổ cắm điện làm bóng đèn sáng, cũng làm dây kém chất lượng bốc khói. MCP mở action space cho agent; phần còn lại là quyền, kiểm soát và log.\n\n### 177.000 tool nói gì? Software đang là bãi thử nghiệm lớn nhất\nPaper arXiv về 177.436 MCP tools cho thấy software/IT áp đảo: 67% số tool, 90% usage. Không lạ. Dev là nhóm chịu đau cao, thích automate, và đủ kỹ năng tự cứu khi agent phá.\n\nBảng so sánh trong bài.\n\n### Chi tiết đáng sợ: AI đang tự xây tool cho AI\nMột số liệu làm tôi khựng lại: tỷ lệ server mới có dấu hiệu AI co-author tăng từ 6% lên 62% vào tháng 2/2026. Đây không còn là dev viết tool cho AI. Đây là AI giúp mở rộng bộ tay chân của chính nó.\n\nKhi agent có thể viết MCP server, publish nó, rồi agent khác dùng lại, action space sẽ phình nhanh hơn khả năng audit của con người.\n\n### Enterprise MCP: không có policy thì chỉ là shadow IT đội mũ AI\nCData gọi 2026 là năm enterprise-ready MCP adoption. Tôi đồng ý nửa đầu, nghi ngờ nửa sau. Doanh nghiệp muốn MCP vì nó chuẩn hóa connector. Nhưng connector mà không có permission theo role, logging, DLP, sandbox, approval gate thì nó là shadow IT phiên bản biết gọi tool.\n\nVấn đề không phải MCP xấu. Vấn đề là nhiều team cắm MCP như cắm extension Chrome: thấy tiện là bật. Với financial transaction, database write, email send, cái giá của một prompt injection không còn là câu trả lời sai; nó là tiền thật, data thật, khách hàng thật.",
+  "whyItMatters": "MCP biến agent từ “thằng trả lời” thành “thằng hành động”. Mọi rủi ro vì thế chuyển từ reputational sang operational. Nhìn vào loại MCP tool được download nhiều nhất sẽ cho thấy ngành nào sắp bị agent hóa trước, chứ không cần nghe keynote.",
+  "creatorTakeaway": "Tool nào có quyền write/delete/payment phải có approval gate.; Log mọi tool call với input/output rút gọn.; Không cho agent đọc secret bằng file/browser tự do.; Tách sandbox cho browser/computer-use.; Đo token cost: MCP không phải lúc nào cũng rẻ hơn CLI/API trực tiếp."
+},
+{
+  "id": "ai-video-after-sora-2026",
+  "slug": "sora-chet-ai-thay-the-runway-kling-veo",
+  "lang": "vi",
+  "status": "published",
+  "category": "ai-video",
+  "title": "Sora chết rồi: Runway, Kling, Veo hay Seedance mới là thứ creator nên dùng?",
+  "subtitle": "Sora không thua vì thiếu hype. Nó thua vì trong production, chậm và đắt là hai tội khó tha.",
+  "publishedAt": "2026-05-19T10:30:00+07:00",
+  "readingTime": 7,
+  "sourceCount": 1,
+  "author": "AI Radar Editorial",
+  "tags": [
+    "ai-video",
+    "sora",
+    "runway",
+    "kling",
+    "veo",
+    "seedance"
+  ],
+  "heroMedia": {
+    "type": "image",
+    "src": "/favicon.svg",
+    "alt": "Sora chết rồi: Runway, Kling, Veo hay Seedance mới là thứ creator nên dùng?",
+    "caption": "Sora không thua vì thiếu hype. Nó thua vì trong production, chậm và đắt là hai tội khó tha.",
+    "credit": "AI Radar"
+  },
+  "imageUrl": "/favicon.svg",
+  "highlights": [
+    {
+      "text": "Sora standalone bị đóng tháng 3/2026 vì tốc độ 3–8 phút cho clip 10 giây không còn cạnh tranh."
+    },
+    {
+      "text": "Runway Gen-4 vẫn là lựa chọn quality-first: temporal consistency và motion control mạnh, khoảng $0.05/giây output."
+    },
+    {
+      "text": "Kling 2.0 rẻ hơn khoảng 40%, $0.028/giây, 45–75 giây cho clip 10 giây — hợp high-volume social."
+    },
+    {
+      "text": "Veo 3 thắng ở hệ sinh thái Google; Seedance thắng ở open-source/self-host; Pika thắng ở tốc độ."
+    }
+  ],
+  "sections": [
+    {
+      "id": "sora-khong-chet-vi-hype",
+      "heading": "Sora không chết vì thiếu hype. Nó chết vì production không tha thứ",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "OpenAI có thể thắng Twitter bằng demo, nhưng production thắng bằng throughput. Một clip 10 giây mà phải chờ 3–8 phút, credit cố định, iteration đắt — creator không gọi đó là “cinematic”, họ gọi đó là nghẽn cổ chai."
+        },
+        {
+          "type": "paragraph",
+          "text": "Digital Applied tóm đúng: khi đối thủ xuống dưới 90 giây và chuyển sang tính tiền theo giây output, Sora bị kẹt giữa brand premium và sản phẩm chưa đủ nhanh."
+        }
+      ]
+    },
+    {
+      "id": "bang-so-sanh",
+      "heading": "Bảng chọn tool: đừng hỏi “cái nào tốt nhất”, hỏi “mình đang sản xuất kiểu gì?”",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Tool",
+            "Mạnh nhất",
+            "Giá/tốc độ tham chiếu",
+            "Dùng khi"
+          ],
+          "rows": [
+            [
+              "Runway Gen-4",
+              "Temporal consistency, motion control",
+              "~$0.05/s, 60–120s/clip 10s",
+              "TVC, narrative, client work"
+            ],
+            [
+              "Kling 2.0",
+              "Cost efficiency",
+              "~$0.028/s, 45–75s/clip 10s",
+              "High-volume social, batch content"
+            ],
+            [
+              "Veo 3",
+              "Google/YouTube/Ads integration",
+              "Vertex AI pricing",
+              "Team đã sống trong Google stack"
+            ],
+            [
+              "Seedance",
+              "Open-source, self-host",
+              "Tùy GPU",
+              "Data sovereignty, fine-tuning"
+            ],
+            [
+              "Pika 2.0",
+              "Tốc độ",
+              "15–30s cho clip ngắn",
+              "Meme/social quick turn"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "runway-vs-kling",
+      "heading": "Runway là dao mổ, Kling là máy đóng gói",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Runway Gen-4 vẫn là lựa chọn nếu clip cần giữ nhân vật, camera move phức tạp, motion sạch. Nó giống dao mổ: đắt nhưng chính xác. Với agency làm deliverable có tiền, đây là chi phí chấp nhận được."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kling 2.0 thì thực dụng hơn. Rẻ hơn khoảng 40%, đủ tốt trong nhiều prompt, batch API rõ. Nếu một team phải sản xuất 200 biến thể short mỗi tuần, Kling thắng không phải vì đẹp nhất mà vì ít làm kế toán khóc nhất."
+        }
+      ]
+    },
+    {
+      "id": "veo-seedance-pika",
+      "heading": "Veo, Seedance, Pika: ba ngách không nên bỏ qua",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Veo 3 không cần là model đẹp nhất nếu nó nằm ngay trong Drive, YouTube Studio và Google Ads. Với team marketing Google-native, friction thấp đôi khi đáng giá hơn 5% chất lượng hình."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seedance là nước cờ dài hạn: open weights, self-host, tùy biến. Pika thì giữ ngách speed-first. Không ai làm phim thương mại dài bằng Pika, nhưng để test ý tưởng 10 giây trong 30 giây thì nó có đất sống."
+        }
+      ]
+    }
+  ],
+  "insightBlocks": [
+    {
+      "title": "Góc nhìn thị trường",
+      "text": "AI video đang tách tầng rõ: quality, cost, ecosystem, open-source, speed. Một tool “làm tất cả” nghe hay nhưng thường là dấu hiệu bạn chưa biết production cần gì.",
+      "variant": "analysis"
+    },
+    {
+      "title": "Tác động cho creator",
+      "text": "Chi phí không còn tính theo subscription tháng, mà theo số giây usable output. Ai không đo usable rate sẽ tưởng rẻ nhưng cuối tháng bị video rác ăn sạch budget.",
+      "variant": "impact"
+    }
+  ],
+  "takeaway": {
+    "title": "Creator takeaway",
+    "items": [
+      "Nếu làm TVC/narrative: test Runway trước.",
+      "Nếu làm social volume lớn: ưu tiên Kling.",
+      "Nếu team dùng YouTube/Ads nặng: cân nhắc Veo.",
+      "Nếu có data nhạy cảm hoặc muốn fine-tune: theo dõi Seedance/self-host.",
+      "Luôn đo cost trên 1 giây usable, không đo cost trên 1 lần generate."
+    ]
+  },
+  "sources": [
+    {
+      "title": "After Sora: Best AI Video Generators 2026",
+      "publisher": "Digital Applied",
+      "url": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo"
+    }
+  ],
+  "generation": {
+    "model": "manual-editorial",
+    "promptVersion": "content-pipeline-v2",
+    "generatedAt": "2026-05-19T10:30:00+07:00",
+    "sourceClusterId": "manual-ai-radar-hot-topics-2026-05-19",
+    "confidence": "high"
+  },
+  "tldr": [
+    "Sora standalone bị đóng tháng 3/2026 vì tốc độ 3–8 phút cho clip 10 giây không còn cạnh tranh.",
+    "Runway Gen-4 vẫn là lựa chọn quality-first: temporal consistency và motion control mạnh, khoảng $0.05/giây output.",
+    "Kling 2.0 rẻ hơn khoảng 40%, $0.028/giây, 45–75 giây cho clip 10 giây — hợp high-volume social.",
+    "Veo 3 thắng ở hệ sinh thái Google; Seedance thắng ở open-source/self-host; Pika thắng ở tốc độ."
+  ],
+  "bodyMarkdown": "### Sora không chết vì thiếu hype. Nó chết vì production không tha thứ\nOpenAI có thể thắng Twitter bằng demo, nhưng production thắng bằng throughput. Một clip 10 giây mà phải chờ 3–8 phút, credit cố định, iteration đắt — creator không gọi đó là “cinematic”, họ gọi đó là nghẽn cổ chai.\n\nDigital Applied tóm đúng: khi đối thủ xuống dưới 90 giây và chuyển sang tính tiền theo giây output, Sora bị kẹt giữa brand premium và sản phẩm chưa đủ nhanh.\n\n### Bảng chọn tool: đừng hỏi “cái nào tốt nhất”, hỏi “mình đang sản xuất kiểu gì?”\nBảng so sánh trong bài.\n\n### Runway là dao mổ, Kling là máy đóng gói\nRunway Gen-4 vẫn là lựa chọn nếu clip cần giữ nhân vật, camera move phức tạp, motion sạch. Nó giống dao mổ: đắt nhưng chính xác. Với agency làm deliverable có tiền, đây là chi phí chấp nhận được.\n\nKling 2.0 thì thực dụng hơn. Rẻ hơn khoảng 40%, đủ tốt trong nhiều prompt, batch API rõ. Nếu một team phải sản xuất 200 biến thể short mỗi tuần, Kling thắng không phải vì đẹp nhất mà vì ít làm kế toán khóc nhất.\n\n### Veo, Seedance, Pika: ba ngách không nên bỏ qua\nVeo 3 không cần là model đẹp nhất nếu nó nằm ngay trong Drive, YouTube Studio và Google Ads. Với team marketing Google-native, friction thấp đôi khi đáng giá hơn 5% chất lượng hình.\n\nSeedance là nước cờ dài hạn: open weights, self-host, tùy biến. Pika thì giữ ngách speed-first. Không ai làm phim thương mại dài bằng Pika, nhưng để test ý tưởng 10 giây trong 30 giây thì nó có đất sống.",
+  "whyItMatters": "AI video đang tách tầng rõ: quality, cost, ecosystem, open-source, speed. Một tool “làm tất cả” nghe hay nhưng thường là dấu hiệu bạn chưa biết production cần gì. Chi phí không còn tính theo subscription tháng, mà theo số giây usable output. Ai không đo usable rate sẽ tưởng rẻ nhưng cuối tháng bị video rác ăn sạch budget.",
+  "creatorTakeaway": "Nếu làm TVC/narrative: test Runway trước.; Nếu làm social volume lớn: ưu tiên Kling.; Nếu team dùng YouTube/Ads nặng: cân nhắc Veo.; Nếu có data nhạy cảm hoặc muốn fine-tune: theo dõi Seedance/self-host.; Luôn đo cost trên 1 giây usable, không đo cost trên 1 lần generate."
+},
+{
+  "id": "ai-video-seedance-open-source",
+  "slug": "seedance-open-source-ai-video",
+  "lang": "vi",
+  "status": "published",
+  "category": "ai-video",
+  "title": "Seedance: nếu open-source làm với video điều Flux từng làm với ảnh thì sao?",
+  "subtitle": "Runway và Kling đang bán tốc độ/chất lượng. Seedance bán một thứ khác: quyền kiểm soát.",
+  "publishedAt": "2026-05-19T10:30:00+07:00",
+  "readingTime": 7,
+  "sourceCount": 2,
+  "author": "AI Radar Editorial",
+  "tags": [
+    "ai-video",
+    "seedance",
+    "open-source",
+    "bytedance",
+    "self-host"
+  ],
+  "heroMedia": {
+    "type": "image",
+    "src": "/favicon.svg",
+    "alt": "Seedance: nếu open-source làm với video điều Flux từng làm với ảnh thì sao?",
+    "caption": "Runway và Kling đang bán tốc độ/chất lượng. Seedance bán một thứ khác: quyền kiểm soát.",
+    "credit": "AI Radar"
+  },
+  "imageUrl": "/favicon.svg",
+  "highlights": [
+    {
+      "text": "Seedance của ByteDance được định vị như lựa chọn open-source/self-host trong thị trường AI video 2026."
+    },
+    {
+      "text": "Open weights quan trọng vì video production có data nhạy cảm: client footage, product unreleased, talent likeness."
+    },
+    {
+      "text": "Chất lượng có thể chưa thắng Runway ở motion phức tạp, nhưng self-host mở cửa cho fine-tune và zero marginal cost theo thời gian."
+    },
+    {
+      "text": "Nếu hệ sinh thái plugin/workflow hình thành, Seedance có thể là “Flux moment” của AI video."
+    }
+  ],
+  "sections": [
+    {
+      "id": "open-source-khong-phai-mien-phi",
+      "heading": "Open-source không phải “miễn phí”. Nó là quyền không bị khóa cổ",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nhiều người nghe open-source là nghĩ rẻ. Sai nửa. Với AI video, open-source quan trọng vì quyền kiểm soát: chạy ở đâu, data có rời máy không, fine-tune bằng footage nội bộ được không, inference cost có giảm khi scale không."
+        },
+        {
+          "type": "paragraph",
+          "text": "Một studio có footage client chưa launch không muốn upload lên một service mơ hồ. Một brand có gương mặt đại sứ không muốn prompt và asset nằm trong log của vendor. Seedance hấp dẫn vì nó đánh vào nỗi đau đó."
+        }
+      ]
+    },
+    {
+      "id": "so-voi-runway-kling",
+      "heading": "So với Runway/Kling: Seedance không cần thắng mọi benchmark",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Runway là quality benchmark, Kling là cost benchmark. Seedance không nhất thiết phải đánh bại cả hai ngay. Nó chỉ cần đủ tốt và đủ mở để developer/studio xây workflow riêng."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Tiêu chí",
+            "Runway/Kling SaaS",
+            "Seedance/self-host"
+          ],
+          "rows": [
+            [
+              "Chất lượng mặc định",
+              "Cao hơn, ổn định hơn",
+              "Có thể thấp hơn ở motion khó"
+            ],
+            [
+              "Data control",
+              "Phụ thuộc vendor",
+              "Giữ nội bộ được"
+            ],
+            [
+              "Fine-tune",
+              "Giới hạn",
+              "Có cửa tùy biến sâu"
+            ],
+            [
+              "Chi phí scale",
+              "Theo giây output",
+              "GPU capex/opex, giảm khi volume lớn"
+            ],
+            [
+              "Workflow",
+              "API vendor",
+              "Tự build pipeline"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flux-moment",
+      "heading": "Flux từng làm gì với ảnh, video có thể lặp lại",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ở ảnh, Flux kéo mặt bằng open model lên đủ cao để nhiều team bỏ phụ thuộc một vendor duy nhất. AI video chưa tới đó, nhưng logic giống nhau: khi open model đạt ngưỡng “đủ dùng”, hệ sinh thái LoRA, node, workflow, control layer sẽ bùng lên."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lúc đó câu hỏi không phải “Seedance đẹp bằng Runway chưa?” mà là “Seedance có cho mình build thứ Runway không cho build không?”. Đó là khác biệt giữa tool và platform."
+        }
+      ]
+    },
+    {
+      "id": "thuc-te-san-xuat",
+      "heading": "Thực tế sản xuất: open model chỉ thắng nếu workflow thắng",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Self-host AI video không dành cho người lười. Bạn cần GPU, queue, storage, monitoring, retry, upscaler, audio sync, shot management. Model chỉ là lõi. Nếu workflow ngu, open-source cũng chỉ là cách tự hành xác bằng log lỗi."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Điểm cần nhớ",
+          "text": "Đừng chọn Seedance vì muốn rẻ ngay. Chọn nó nếu bạn có nhu cầu kiểm soát data, fine-tune, automation, và đủ kỹ thuật để vận hành."
+        }
+      ]
+    }
+  ],
+  "insightBlocks": [
+    {
+      "title": "Cơ hội",
+      "text": "Studio nhỏ có thể xây pipeline riêng: storyboard → generate shot → upscale → edit → QC, thay vì ngồi chờ từng web UI.",
+      "variant": "opportunity"
+    },
+    {
+      "title": "Rủi ro",
+      "text": "Open-source video sẽ kéo theo rủi ro likeness, deepfake và bản quyền footage nhanh hơn ảnh vì output thuyết phục hơn.",
+      "variant": "risk"
+    }
+  ],
+  "takeaway": {
+    "title": "Production takeaway",
+    "items": [
+      "Theo dõi Seedance nếu có nhu cầu data sovereignty.",
+      "Đừng self-host nếu volume thấp và không có người vận hành.",
+      "Đo tổng chi phí gồm GPU, storage, retry, QC — không chỉ model miễn phí.",
+      "Xây workflow trước, chọn model sau."
+    ]
+  },
+  "sources": [
+    {
+      "title": "After Sora: Best AI Video Generators 2026",
+      "publisher": "Digital Applied",
+      "url": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo"
+    },
+    {
+      "title": "Replicate Blog",
+      "publisher": "Replicate",
+      "url": "https://replicate.com/blog"
+    }
+  ],
+  "generation": {
+    "model": "manual-editorial",
+    "promptVersion": "content-pipeline-v2",
+    "generatedAt": "2026-05-19T10:30:00+07:00",
+    "sourceClusterId": "manual-ai-radar-hot-topics-2026-05-19",
+    "confidence": "high"
+  },
+  "tldr": [
+    "Seedance của ByteDance được định vị như lựa chọn open-source/self-host trong thị trường AI video 2026.",
+    "Open weights quan trọng vì video production có data nhạy cảm: client footage, product unreleased, talent likeness.",
+    "Chất lượng có thể chưa thắng Runway ở motion phức tạp, nhưng self-host mở cửa cho fine-tune và zero marginal cost theo thời gian.",
+    "Nếu hệ sinh thái plugin/workflow hình thành, Seedance có thể là “Flux moment” của AI video."
+  ],
+  "bodyMarkdown": "### Open-source không phải “miễn phí”. Nó là quyền không bị khóa cổ\nNhiều người nghe open-source là nghĩ rẻ. Sai nửa. Với AI video, open-source quan trọng vì quyền kiểm soát: chạy ở đâu, data có rời máy không, fine-tune bằng footage nội bộ được không, inference cost có giảm khi scale không.\n\nMột studio có footage client chưa launch không muốn upload lên một service mơ hồ. Một brand có gương mặt đại sứ không muốn prompt và asset nằm trong log của vendor. Seedance hấp dẫn vì nó đánh vào nỗi đau đó.\n\n### So với Runway/Kling: Seedance không cần thắng mọi benchmark\nRunway là quality benchmark, Kling là cost benchmark. Seedance không nhất thiết phải đánh bại cả hai ngay. Nó chỉ cần đủ tốt và đủ mở để developer/studio xây workflow riêng.\n\nBảng so sánh trong bài.\n\n### Flux từng làm gì với ảnh, video có thể lặp lại\nỞ ảnh, Flux kéo mặt bằng open model lên đủ cao để nhiều team bỏ phụ thuộc một vendor duy nhất. AI video chưa tới đó, nhưng logic giống nhau: khi open model đạt ngưỡng “đủ dùng”, hệ sinh thái LoRA, node, workflow, control layer sẽ bùng lên.\n\nLúc đó câu hỏi không phải “Seedance đẹp bằng Runway chưa?” mà là “Seedance có cho mình build thứ Runway không cho build không?”. Đó là khác biệt giữa tool và platform.\n\n### Thực tế sản xuất: open model chỉ thắng nếu workflow thắng\nSelf-host AI video không dành cho người lười. Bạn cần GPU, queue, storage, monitoring, retry, upscaler, audio sync, shot management. Model chỉ là lõi. Nếu workflow ngu, open-source cũng chỉ là cách tự hành xác bằng log lỗi.\n\nĐừng chọn Seedance vì muốn rẻ ngay. Chọn nó nếu bạn có nhu cầu kiểm soát data, fine-tune, automation, và đủ kỹ thuật để vận hành.",
+  "whyItMatters": "Studio nhỏ có thể xây pipeline riêng: storyboard → generate shot → upscale → edit → QC, thay vì ngồi chờ từng web UI. Open-source video sẽ kéo theo rủi ro likeness, deepfake và bản quyền footage nhanh hơn ảnh vì output thuyết phục hơn.",
+  "creatorTakeaway": "Theo dõi Seedance nếu có nhu cầu data sovereignty.; Đừng self-host nếu volume thấp và không có người vận hành.; Đo tổng chi phí gồm GPU, storage, retry, QC — không chỉ model miễn phí.; Xây workflow trước, chọn model sau."
+},
+{
+  "id": "ai-image-flux-midjourney-imagen-2026",
+  "slug": "flux-midjourney-imagen-ai-image-2026",
+  "lang": "vi",
+  "status": "published",
+  "category": "ai-image",
+  "title": "Flux 2, Midjourney v7, Imagen 4: hỏi “model nào tốt nhất” là câu hỏi sai",
+  "subtitle": "Năm 2026, AI image không còn một vua. Mỗi model thắng một loại brief, và production phải biết chia việc.",
+  "publishedAt": "2026-05-19T10:30:00+07:00",
+  "readingTime": 7,
+  "sourceCount": 2,
+  "author": "AI Radar Editorial",
+  "tags": [
+    "ai-image",
+    "flux",
+    "midjourney",
+    "imagen",
+    "dalle",
+    "firefly"
+  ],
+  "heroMedia": {
+    "type": "image",
+    "src": "/favicon.svg",
+    "alt": "Flux 2, Midjourney v7, Imagen 4: hỏi “model nào tốt nhất” là câu hỏi sai",
+    "caption": "Năm 2026, AI image không còn một vua. Mỗi model thắng một loại brief, và production phải biết chia việc.",
+    "credit": "AI Radar"
+  },
+  "imageUrl": "/favicon.svg",
+  "highlights": [
+    {
+      "text": "Flux 2 thắng photoreal: da, ánh sáng, texture, cảm giác ảnh chụp thật."
+    },
+    {
+      "text": "Imagen 4 thắng text rendering và product photography — chữ trong ảnh không còn là thảm họa như 2023."
+    },
+    {
+      "text": "Midjourney v7 vẫn mạnh nhất về art direction, mood, editorial illustration."
+    },
+    {
+      "text": "DALL-E/ChatGPT thắng accessibility; SDXL thắng customization/volume; Firefly thắng an toàn pháp lý."
+    }
+  ],
+  "sections": [
+    {
+      "id": "cau-hoi-sai",
+      "heading": "“Model nào tốt nhất?” là câu hỏi của người chưa làm production",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nếu brief là ảnh sản phẩm có chữ trên nhãn, Midjourney đẹp cũng vô dụng nếu chữ méo. Nếu brief là moodboard fantasy, Imagen sạch quá lại nhạt. Nếu brief là 10.000 biến thể brand asset, DALL-E dễ dùng chưa chắc chịu nổi chi phí/quota."
+        },
+        {
+          "type": "paragraph",
+          "text": "Câu hỏi đúng: brief cần photoreal, text, style, consistency, quyền thương mại hay khả năng custom? Mỗi trục kéo bạn về một model khác."
+        }
+      ]
+    },
+    {
+      "id": "bang-xep-hang",
+      "heading": "Bảng chọn nhanh: mỗi model một việc",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Model",
+            "Thắng ở đâu",
+            "Dở ở đâu",
+            "Dùng khi"
+          ],
+          "rows": [
+            [
+              "Flux 2",
+              "Photoreal, da, ánh sáng",
+              "Style/art direction không mạnh nhất",
+              "Product/lifestyle/portrait thật"
+            ],
+            [
+              "Imagen 4",
+              "Text rendering, product photo",
+              "Portrait/art yếu hơn Flux/MJ",
+              "Ảnh có chữ, bao bì, poster sạch"
+            ],
+            [
+              "Midjourney v7",
+              "Mood, concept art, editorial",
+              "Text kém, API hạn chế",
+              "Art direction, lookbook, concept"
+            ],
+            [
+              "DALL-E 3/GPT Image",
+              "Dễ dùng, iteration bằng chat",
+              "Filter mạnh, resolution/photoreal chưa top",
+              "Ideation nhanh cho non-designer"
+            ],
+            [
+              "SDXL/self-host",
+              "LoRA, volume, zero marginal cost",
+              "Setup nặng, quality mặc định thấp hơn",
+              "Brand style riêng, batch lớn"
+            ],
+            [
+              "Firefly 3",
+              "Commercial safety, Adobe workflow",
+              "Aesthetic an toàn, ít cá tính",
+              "Enterprise cần provenance"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flux",
+      "heading": "Flux 2: khi brief cần “trông như ảnh thật”",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Flux 2 đang là lựa chọn dễ hiểu cho photoreal: texture da, falloff ánh sáng, độ sâu trường ảnh, cảm giác camera thật. Nó không biến mọi prompt thành poster fantasy bóng bẩy — và đó là điểm mạnh."
+        },
+        {
+          "type": "paragraph",
+          "text": "Với production, photoreal không phải để khoe “giống thật”. Nó giúp giảm thời gian sửa: ít tay lỗi, ít da nhựa, ít ánh sáng kỳ cục, ít phải regenerate 30 lần để lấy một tấm dùng được."
+        }
+      ]
+    },
+    {
+      "id": "imagen-midjourney",
+      "heading": "Imagen 4 và Midjourney: chữ vs mood",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Imagen 4 giải quyết một nỗi đau rất đời: chữ trong ảnh. Logo, nhãn chai, headline poster, UI mockup — những thứ từng làm AI image lộ bài ngay lập tức. Nếu ảnh có typography, đừng cố ép Midjourney."
+        },
+        {
+          "type": "paragraph",
+          "text": "Midjourney v7 thì vẫn là máy tạo mood. Nó giỏi khiến ảnh có chủ ý thị giác: tương phản, màu, bố cục, atmosphere. Nhưng nếu cần production asset có kiểm soát từng chi tiết, bạn sẽ phải kéo thêm tool khác vào."
+        }
+      ]
+    }
+  ],
+  "insightBlocks": [
+    {
+      "title": "Vì sao đáng chú ý",
+      "text": "AI image đã bước qua giai đoạn toy. Production không chọn model theo bảng xếp hạng chung, mà theo failure mode ít đau nhất cho brief đó.",
+      "variant": "analysis"
+    },
+    {
+      "title": "Góc nhìn creator",
+      "text": "Một creator giỏi năm 2026 không phải người prompt hay nhất, mà là người biết route task đúng model.",
+      "variant": "impact"
+    }
+  ],
+  "takeaway": {
+    "title": "Creator takeaway",
+    "items": [
+      "Brief có chữ: ưu tiên Imagen/Ideogram, đừng cố Midjourney.",
+      "Photoreal lifestyle/product: test Flux trước.",
+      "Mood/art direction: Midjourney vẫn rất mạnh.",
+      "Volume/custom brand: cân nhắc SDXL/LoRA.",
+      "Enterprise cần quyền thương mại rõ: Firefly đáng xem dù không sexy."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Best AI Image Generator 2026: Flux vs Midjourney vs Imagen",
+      "publisher": "Cliprise",
+      "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked"
+    },
+    {
+      "title": "The best open-source image generation model",
+      "publisher": "Baseten",
+      "url": "https://www.baseten.co/blog/the-best-open-source-image-generation-model/"
+    }
+  ],
+  "generation": {
+    "model": "manual-editorial",
+    "promptVersion": "content-pipeline-v2",
+    "generatedAt": "2026-05-19T10:30:00+07:00",
+    "sourceClusterId": "manual-ai-radar-hot-topics-2026-05-19",
+    "confidence": "high"
+  },
+  "tldr": [
+    "Flux 2 thắng photoreal: da, ánh sáng, texture, cảm giác ảnh chụp thật.",
+    "Imagen 4 thắng text rendering và product photography — chữ trong ảnh không còn là thảm họa như 2023.",
+    "Midjourney v7 vẫn mạnh nhất về art direction, mood, editorial illustration.",
+    "DALL-E/ChatGPT thắng accessibility; SDXL thắng customization/volume; Firefly thắng an toàn pháp lý."
+  ],
+  "bodyMarkdown": "### “Model nào tốt nhất?” là câu hỏi của người chưa làm production\nNếu brief là ảnh sản phẩm có chữ trên nhãn, Midjourney đẹp cũng vô dụng nếu chữ méo. Nếu brief là moodboard fantasy, Imagen sạch quá lại nhạt. Nếu brief là 10.000 biến thể brand asset, DALL-E dễ dùng chưa chắc chịu nổi chi phí/quota.\n\nCâu hỏi đúng: brief cần photoreal, text, style, consistency, quyền thương mại hay khả năng custom? Mỗi trục kéo bạn về một model khác.\n\n### Bảng chọn nhanh: mỗi model một việc\nBảng so sánh trong bài.\n\n### Flux 2: khi brief cần “trông như ảnh thật”\nFlux 2 đang là lựa chọn dễ hiểu cho photoreal: texture da, falloff ánh sáng, độ sâu trường ảnh, cảm giác camera thật. Nó không biến mọi prompt thành poster fantasy bóng bẩy — và đó là điểm mạnh.\n\nVới production, photoreal không phải để khoe “giống thật”. Nó giúp giảm thời gian sửa: ít tay lỗi, ít da nhựa, ít ánh sáng kỳ cục, ít phải regenerate 30 lần để lấy một tấm dùng được.\n\n### Imagen 4 và Midjourney: chữ vs mood\nImagen 4 giải quyết một nỗi đau rất đời: chữ trong ảnh. Logo, nhãn chai, headline poster, UI mockup — những thứ từng làm AI image lộ bài ngay lập tức. Nếu ảnh có typography, đừng cố ép Midjourney.\n\nMidjourney v7 thì vẫn là máy tạo mood. Nó giỏi khiến ảnh có chủ ý thị giác: tương phản, màu, bố cục, atmosphere. Nhưng nếu cần production asset có kiểm soát từng chi tiết, bạn sẽ phải kéo thêm tool khác vào.",
+  "whyItMatters": "AI image đã bước qua giai đoạn toy. Production không chọn model theo bảng xếp hạng chung, mà theo failure mode ít đau nhất cho brief đó. Một creator giỏi năm 2026 không phải người prompt hay nhất, mà là người biết route task đúng model.",
+  "creatorTakeaway": "Brief có chữ: ưu tiên Imagen/Ideogram, đừng cố Midjourney.; Photoreal lifestyle/product: test Flux trước.; Mood/art direction: Midjourney vẫn rất mạnh.; Volume/custom brand: cân nhắc SDXL/LoRA.; Enterprise cần quyền thương mại rõ: Firefly đáng xem dù không sexy."
+},
+{
+  "id": "ai-image-production-multi-model",
+  "slug": "ai-image-production-khong-dung-mot-model",
+  "lang": "vi",
+  "status": "published",
+  "category": "ai-image",
+  "title": "AI Image cho production: dùng một model cho tất cả là cách đốt thời gian nhanh nhất",
+  "subtitle": "Photoreal chỉ là một phần. Production cần consistency, text, quyền thương mại, workflow và khả năng sửa.",
+  "publishedAt": "2026-05-19T10:30:00+07:00",
+  "readingTime": 7,
+  "sourceCount": 3,
+  "author": "AI Radar Editorial",
+  "tags": [
+    "ai-image",
+    "production",
+    "workflow",
+    "multi-model",
+    "commercial-rights"
+  ],
+  "heroMedia": {
+    "type": "image",
+    "src": "/favicon.svg",
+    "alt": "AI Image cho production: dùng một model cho tất cả là cách đốt thời gian nhanh nhất",
+    "caption": "Photoreal chỉ là một phần. Production cần consistency, text, quyền thương mại, workflow và khả năng sửa.",
+    "credit": "AI Radar"
+  },
+  "imageUrl": "/favicon.svg",
+  "highlights": [
+    {
+      "text": "Photoreal không đồng nghĩa production-ready: một ảnh đẹp nhưng chữ sai, style lệch, quyền mờ thì vẫn vứt."
+    },
+    {
+      "text": "Workflow thực tế thường multi-model: Flux tạo base photoreal, Imagen xử lý text/product, Midjourney định mood, SDXL/LoRA giữ consistency."
+    },
+    {
+      "text": "Midjourney $60/tháng Pro mới là mức thực tế cho volume chuyên nghiệp, không phải plan rẻ để thử chơi."
+    },
+    {
+      "text": "Commercial rights và provenance là tiêu chí sống còn với brand/agency, không phải footnote."
+    }
+  ],
+  "sections": [
+    {
+      "id": "photoreal-la-chua-du",
+      "heading": "Photoreal là chưa đủ. Đừng để ảnh đẹp lừa",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Một tấm ảnh AI có thể làm bạn wow 3 giây và làm producer chửi 3 ngày. Chữ trên bao bì sai một ký tự. Tay talent cầm sản phẩm sai góc. Background đẹp nhưng không match brand palette. Quyền thương mại mập mờ. Đó là production, không phải gallery Discord."
+        },
+        {
+          "type": "paragraph",
+          "text": "Production-ready nghĩa là asset đi qua được pipeline thật: brief → batch → chọn → sửa → approve → publish → legal không hỏi ngược lại."
+        }
+      ]
+    },
+    {
+      "id": "multi-model",
+      "heading": "Pipeline thực tế: chia việc cho model, đừng bắt một thằng làm hết",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Workflow hợp lý không thần thánh hóa một model. Flux làm base photoreal. Imagen xử lý phần có chữ/product. Midjourney dùng để tìm art direction. SDXL/LoRA giữ brand consistency khi cần tạo số lượng lớn."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Bước",
+            "Model phù hợp",
+            "Lý do"
+          ],
+          "rows": [
+            [
+              "Moodboard/art direction",
+              "Midjourney v7",
+              "Ra mood nhanh, composition mạnh"
+            ],
+            [
+              "Base photoreal",
+              "Flux 2",
+              "Da, ánh sáng, texture tốt"
+            ],
+            [
+              "Text/product label",
+              "Imagen 4 / Ideogram",
+              "Chữ rõ, layout sạch"
+            ],
+            [
+              "Brand consistency",
+              "SDXL + LoRA",
+              "Fine-tune style riêng"
+            ],
+            [
+              "Enterprise-safe asset",
+              "Firefly",
+              "Provenance/quyền rõ hơn"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chi-phi-that",
+      "heading": "Chi phí thật không nằm ở subscription, mà nằm ở số ảnh dùng được",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Midjourney Basic $10 nghe rẻ, nhưng với volume chuyên nghiệp, plan Pro $60/tháng mới thực tế. API usage của Flux/Imagen thì tính theo lượt. Self-host SDXL giảm marginal cost nhưng tăng chi phí vận hành. Không có bữa trưa miễn phí, chỉ có chi phí nằm ở dòng khác."
+        },
+        {
+          "type": "paragraph",
+          "text": "Metric nên đo là cost per approved asset: tổng tiền + thời gian sửa + số lần regenerate chia cho số ảnh được duyệt. Nếu không đo cái này, bạn đang chọn tool bằng cảm giác."
+        }
+      ]
+    },
+    {
+      "id": "legal",
+      "heading": "Legal không sexy, nhưng nó là thứ giết campaign ở phút 89",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Firefly có thể không cool bằng Midjourney, nhưng với enterprise, nguồn training và quyền thương mại rõ ràng là lợi thế. Một campaign lớn không chết vì ảnh kém hơn 5%. Nó chết vì legal không ký."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Anti-pattern",
+          "text": "Dùng ảnh từ model không rõ license cho key visual thương mại lớn rồi hy vọng không ai hỏi. Đây không phải sáng tạo, đây là đánh bạc bằng brand."
+        }
+      ]
+    }
+  ],
+  "insightBlocks": [
+    {
+      "title": "Tác động",
+      "text": "Vai trò mới của creative producer là model routing: biết brief nào đưa vào model nào, sửa ở đâu, chốt bằng tiêu chí gì.",
+      "variant": "impact"
+    },
+    {
+      "title": "Cơ hội",
+      "text": "Agency nhỏ có thể cạnh tranh nếu xây pipeline multi-model tốt hơn team lớn nhưng chậm, chứ không cần có model riêng.",
+      "variant": "opportunity"
+    }
+  ],
+  "takeaway": {
+    "title": "Production takeaway",
+    "items": [
+      "Đừng chọn “best model”; chọn “least painful model” cho brief.",
+      "Đo cost per approved asset, không đo giá plan.",
+      "Tách bước mood, photoreal, text, consistency.",
+      "Với campaign thương mại lớn, check license/provenance trước khi render hàng loạt.",
+      "Giữ prompt, seed, version, source trong log để còn sửa/reproduce."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Best AI Image Generator 2026: Flux vs Midjourney vs Imagen",
+      "publisher": "Cliprise",
+      "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked"
+    },
+    {
+      "title": "Choosing the Right AI Model for Image Generation",
+      "publisher": "MindStudio",
+      "url": "https://www.mindstudio.ai/blog/choosing-image-generation-model/"
+    },
+    {
+      "title": "Adobe Firefly",
+      "publisher": "Adobe",
+      "url": "https://www.adobe.com/products/firefly.html"
+    }
+  ],
+  "generation": {
+    "model": "manual-editorial",
+    "promptVersion": "content-pipeline-v2",
+    "generatedAt": "2026-05-19T10:30:00+07:00",
+    "sourceClusterId": "manual-ai-radar-hot-topics-2026-05-19",
+    "confidence": "high"
+  },
+  "tldr": [
+    "Photoreal không đồng nghĩa production-ready: một ảnh đẹp nhưng chữ sai, style lệch, quyền mờ thì vẫn vứt.",
+    "Workflow thực tế thường multi-model: Flux tạo base photoreal, Imagen xử lý text/product, Midjourney định mood, SDXL/LoRA giữ consistency.",
+    "Midjourney $60/tháng Pro mới là mức thực tế cho volume chuyên nghiệp, không phải plan rẻ để thử chơi.",
+    "Commercial rights và provenance là tiêu chí sống còn với brand/agency, không phải footnote."
+  ],
+  "bodyMarkdown": "### Photoreal là chưa đủ. Đừng để ảnh đẹp lừa\nMột tấm ảnh AI có thể làm bạn wow 3 giây và làm producer chửi 3 ngày. Chữ trên bao bì sai một ký tự. Tay talent cầm sản phẩm sai góc. Background đẹp nhưng không match brand palette. Quyền thương mại mập mờ. Đó là production, không phải gallery Discord.\n\nProduction-ready nghĩa là asset đi qua được pipeline thật: brief → batch → chọn → sửa → approve → publish → legal không hỏi ngược lại.\n\n### Pipeline thực tế: chia việc cho model, đừng bắt một thằng làm hết\nWorkflow hợp lý không thần thánh hóa một model. Flux làm base photoreal. Imagen xử lý phần có chữ/product. Midjourney dùng để tìm art direction. SDXL/LoRA giữ brand consistency khi cần tạo số lượng lớn.\n\nBảng so sánh trong bài.\n\n### Chi phí thật không nằm ở subscription, mà nằm ở số ảnh dùng được\nMidjourney Basic $10 nghe rẻ, nhưng với volume chuyên nghiệp, plan Pro $60/tháng mới thực tế. API usage của Flux/Imagen thì tính theo lượt. Self-host SDXL giảm marginal cost nhưng tăng chi phí vận hành. Không có bữa trưa miễn phí, chỉ có chi phí nằm ở dòng khác.\n\nMetric nên đo là cost per approved asset: tổng tiền + thời gian sửa + số lần regenerate chia cho số ảnh được duyệt. Nếu không đo cái này, bạn đang chọn tool bằng cảm giác.\n\n### Legal không sexy, nhưng nó là thứ giết campaign ở phút 89\nFirefly có thể không cool bằng Midjourney, nhưng với enterprise, nguồn training và quyền thương mại rõ ràng là lợi thế. Một campaign lớn không chết vì ảnh kém hơn 5%. Nó chết vì legal không ký.\n\nDùng ảnh từ model không rõ license cho key visual thương mại lớn rồi hy vọng không ai hỏi. Đây không phải sáng tạo, đây là đánh bạc bằng brand.",
+  "whyItMatters": "Vai trò mới của creative producer là model routing: biết brief nào đưa vào model nào, sửa ở đâu, chốt bằng tiêu chí gì. Agency nhỏ có thể cạnh tranh nếu xây pipeline multi-model tốt hơn team lớn nhưng chậm, chứ không cần có model riêng.",
+  "creatorTakeaway": "Đừng chọn “best model”; chọn “least painful model” cho brief.; Đo cost per approved asset, không đo giá plan.; Tách bước mood, photoreal, text, consistency.; Với campaign thương mại lớn, check license/provenance trước khi render hàng loạt.; Giữ prompt, seed, version, source trong log để còn sửa/reproduce."
+}
+
 ];
