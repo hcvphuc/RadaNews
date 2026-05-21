@@ -991,6 +991,7 @@ export const generatedArticles: Article[] = [
     "status": "published"
   },
 
+
   {
   "id": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21_vi",
   "slug": "this-kind-of-storyboard-image-combined-with-seedance-is-very-2026-05-21",
@@ -999,7 +1000,7 @@ export const generatedArticles: Article[] = [
   "title": "Storyboard + Seedance: Pipeline thực chiến cho AI Video",
   "subtitle": "",
   "publishedAt": "2026-05-21T04:23:27.900Z",
-  "readingTime": 8,
+  "readingTime": 9,
   "sourceCount": 4,
   "tags": [
     "AI-Video",
@@ -1010,43 +1011,43 @@ export const generatedArticles: Article[] = [
   ],
   "heroMedia": {
     "type": "image",
-    "src": "https://preview.redd.it/s7cudqv7ec2h1.jpeg?width=1125&format=pjpg&auto=webp&s=d0a37dcb755fe3656baac95be7e10c124e730944",
-    "alt": "Storyboard công nghiệp cho sản xuất video AI",
+    "src": "https://preview.redd.it/sf95v865pa2h1.png?width=3840&format=png&auto=webp&s=26820040a8a462c53bbad720e377446bb981e6d7",
+    "alt": "Storyboard 8 khung hình cho phim ngắn AI — leo núi Himalaya",
     "caption": "",
-    "credit": "r/aivideo"
+    "credit": "r/comfyui"
   },
   "highlights": [
     {
-      "text": "Một shot đẹp không làm nên một bộ phim. Bí mật nằm ở storyboard — thứ dân làm phim đã dùng 100 năm, giờ quay lại đá đít dân AI."
+      "text": "Một shot đẹp không làm nên một bộ phim. Bí mật nằm ở storyboard — thứ dân làm phim đã dùng 100 năm, giờ đang được cộng đồng AI video áp dụng để giải bài toán consistency."
     },
     {
-      "text": "So sánh thực chiến: Seedance 1.5 vs Kling 3.0 vs Runway Gen 4.5 — tool nào hợp với shot của bạn, không phải tool nào tốt nhất."
+      "text": "So sánh thực chiến từ cộng đồng Reddit: Seedance 1.5 vs Kling 3.0 vs Runway Gen 4.5 — mỗi tool mạnh một mảng, không có tool nào 'best' tuyệt đối."
     },
     {
-      "text": "Prompt kỹ thuật thật (ARRIRAW, Kodak Vision3, lens distortion) đánh bại 'photorealistic' về độ chân thực. AI là thằng học việc ngu — phải nói chính xác từng chi tiết."
+      "text": "Prompt kỹ thuật thật (ARRIRAW, Kodak Vision3, lens distortion, material system) cho kết quả khác biệt rõ rệt so với 'photorealistic, 8K' — kèm hình ảnh so sánh."
     },
     {
-      "text": "Bài học từ 57 ngày làm phim 'GOD IS DEAD': breakdown thời gian thật, chi phí, sai lầm cần tránh, và làm sao rút xuống 2 tuần."
+      "text": "Bài học từ 57 ngày làm phim AI: breakdown thời gian thật, chi phí, sai lầm cần tránh, và roadmap rút xuống 2 tuần."
     }
   ],
   "sections": [
     {
-      "heading": "Tôi đã test 3 pipeline — và phát hiện ra bí mật",
+      "heading": "Khi cộng đồng Reddit giải bài toán consistency",
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Tôi từng nghĩ AI video là trò lừa. Nhập prompt, ra clip 5 giây đẹp — nhưng hỏi nó giữ nguyên khuôn mặt nhân vật qua 3 shot thôi, nó trả về 3 người khác nhau. Consistency là bài toán chưa ai giải được tử tế. Cho đến khi tôi thấy một thằng cha trên Reddit bỏ 57 ngày làm phim 'GOD IS DEAD' bằng Seedance — và kết quả thực sự đáng sợ. Không phải vì nó đẹp, mà vì tôi không phân biệt được đâu là AI, đâu là quay thật."
+          "text": "Hỏi thật: bạn đã bao giờ generate một clip AI video 5 giây cực đẹp — rồi shot tiếp theo nhân vật biến thành người khác chưa? Đó là bài toán consistency, và nó là lý do AI video vẫn chưa vào được production thực sự. Trên r/MediaSynthesis, u/No-Link-6413 đã chia sẻ một case study gây chấn động: 57 ngày làm phim ngắn 8 phút bằng Seedance + Kling + Runway. Kết quả? Nhiều người xem không phân biệt được đâu là AI, đâu là quay thật."
         },
         {
           "type": "paragraph",
-          "text": "Tôi bắt đầu đào sâu. Test 3 pipeline khác nhau: Text-to-Video thuần (Kling), Image-to-Video với ảnh đơn (Runway), và Image-to-Video với storyboard đầy đủ (Seedance). Đọc hàng trăm post trên r/MediaSynthesis, r/comfyui, r/aivideo. Tự tay thử bắt chước workflow 57 ngày đó. Kết luận: bí mật không nằm ở tool — Kling, Runway, Seedance, tool nào cũng được. Bí mật nằm ở storyboard. Cái thứ dân làm phim truyền thống đã dùng cả trăm năm, giờ quay lại đá đít dân AI."
+          "text": "Điều đáng nói không phải là con số 57 ngày — mà là insight đằng sau nó. Bí mật không nằm ở tool. Kling, Runway, Seedance — tool nào cũng có thể cho kết quả tốt nếu bạn biết cách dùng. Bí mật nằm ở storyboard. Cái thứ dân làm phim Hollywood đã dùng từ những năm 1930. Disney, Pixar, Marvel — tất cả đều có storyboard department. AI không phát minh ra gì mới — nó chỉ làm cho quy trình vốn đã tồn tại trở nên rẻ hơn 100 lần."
         },
         {
           "type": "media",
           "mediaType": "video",
           "src": "https://v.redd.it/jkkfz2il7c2h1/CMAF_1080.mp4?source=fallback",
-          "alt": "GOD IS DEAD - AI short film",
-          "caption": "Phim ngắn 'GOD IS DEAD' — 57 ngày, Seedance 1.5 + Kling 3.0 + Runway Gen 4.5",
+          "alt": "AI short film using Seedance storyboard workflow",
+          "caption": "Phim ngắn AI 'Shinigami 2055' — 57 ngày sản xuất với storyboard chi tiết, Seedance 1.5, Kling 3.0 và Runway Gen 4.5",
           "credit": "u/No-Link-6413 on r/aivideo",
           "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tiuti2/the_death_god_meets_the_yakuza_bosses_in_neotokyo/",
           "placement": "after-paragraph"
@@ -1054,29 +1055,68 @@ export const generatedArticles: Article[] = [
       ]
     },
     {
-      "heading": "Pipeline thực chiến: 3 cách làm, 3 kết quả",
+      "heading": "3 pipeline, 3 kết quả: Cộng đồng Reddit đã test giúp bạn",
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Tôi test 3 pipeline trên cùng một brief: 'Người leo núi trên đỉnh Himalaya, bình minh, gió mạnh, quay cận mặt rồi pull-out toàn cảnh'. Dưới đây là kết quả thực tế."
+          "text": "Trên r/comfyui, một người dùng đã chia sẻ kết quả test 3 pipeline khác nhau cho cùng một brief: 'Người leo núi trên đỉnh Himalaya, bình minh, gió mạnh, quay cận mặt rồi pull-out toàn cảnh'. Dưới đây là tổng hợp từ trải nghiệm thực tế của cộng đồng."
         },
         {
-          "type": "list",
-          "items": [
-            "Pipeline 1 — Text-to-Video (Kling 3.0): Nhập prompt text → generate. Thời gian: 5 phút/shot. Kết quả: đẹp, nhưng mỗi lần generate ra một người leo núi khác nhau. Tỉ lệ shot usable: 1/8. Chi phí: ~$35/tháng (Kling Pro).",
-            "Pipeline 2 — Image-to-Video đơn (Runway Gen 4.5): Tạo 1 ảnh reference bằng Midjourney → đưa vào Runway. Thời gian: 15 phút/shot. Kết quả: consistency khá hơn, nhưng khi đổi góc máy (cận → toàn), background và lighting vẫn trôi. Tỉ lệ usable: 1/4. Chi phí: ~$47/tháng (Midjourney + Runway).",
-            "Pipeline 3 — Storyboard đầy đủ (Seedance 1.5): Tạo storyboard 4 khung hình (cận mặt, trung cảnh, toàn cảnh, góc thấp) bằng Midjourney, ghép thành 1 file → đưa vào Seedance. Thời gian: 45 phút/shot. Kết quả: nhân vật giữ nguyên khuôn mặt, ánh sáng, trang phục qua mọi góc. Tỉ lệ usable: 3/4. Chi phí: ~$60/tháng (Midjourney + Seedance)."
+          "type": "table",
+          "headers": [
+            "Pipeline",
+            "Thời gian/shot",
+            "Tỉ lệ usable",
+            "Chi phí/tháng",
+            "Điểm mạnh",
+            "Điểm yếu"
+          ],
+          "rows": [
+            [
+              "Text-to-Video (Kling 3.0)",
+              "5 phút",
+              "1/8",
+              "~$35",
+              "Nhanh, dễ dùng, motion mượt",
+              "Mỗi lần generate nhân vật khác nhau"
+            ],
+            [
+              "Image-to-Video đơn (Runway Gen 4.5)",
+              "15 phút",
+              "1/4",
+              "~$47",
+              "Consistency khá hơn, render đẹp",
+              "Đổi góc máy → background + lighting trôi"
+            ],
+            [
+              "Storyboard đầy đủ (Seedance 1.5)",
+              "45 phút",
+              "3/4",
+              "~$60",
+              "Giữ nguyên nhân vật qua mọi góc",
+              "Chậm nhất, learning curve cao"
+            ]
           ]
         },
         {
           "type": "paragraph",
-          "text": "Pipeline 3 đắt hơn, chậm hơn — nhưng tỉ lệ shot usable cao gấp 6 lần Pipeline 1. Tính ra chi phí cho 1 shot usable: Pipeline 1 tốn ~$35 cho 1 shot dùng được (vì 7/8 bỏ đi), Pipeline 3 tốn ~$20/shot. Nhanh mà rẻ không phải lúc nào cũng thắng."
+          "text": "Pipeline 3 tốn thời gian gấp 9 lần Pipeline 1 — nhưng tỉ lệ shot dùng được cao gấp 6 lần. Tính ra chi phí cho 1 shot usable: Pipeline 1 tốn ~$35 (vì 7/8 bỏ đi), Pipeline 3 tốn ~$20/shot. Chậm mà chắc thắng nhanh mà ẩu — ít nhất là trong AI video."
+        },
+        {
+          "type": "media",
+          "mediaType": "image",
+          "src": "https://preview.redd.it/zajm5965pa2h1.jpg?width=3840&format=pjpg&auto=webp&s=0fbacf7a343d037a85c19e8b342c486d6a62fc84",
+          "alt": "Character reference sheet: leo núi Himalaya",
+          "caption": "Character reference sheet cho pipeline storyboard — nhân vật leo núi được khóa từ nhiều góc nhìn",
+          "credit": "r/comfyui",
+          "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tim2bz/",
+          "placement": "after-paragraph"
         },
         {
           "type": "callout",
           "variant": "insight",
-          "title": "Bài học",
-          "text": "Đừng hỏi 'tool nào tốt nhất'. Hỏi 'tool nào hợp với shot của tôi'. Nếu bạn cần 1 clip TikTok 15 giây → Kling text-to-video là đủ. Nếu bạn làm phim ngắn 5 phút → storyboard + Seedance. Nếu bạn làm TVC thương mại → storyboard + Runway (vì chất lượng render cao hơn)."
+          "title": "Takeaway",
+          "text": "Đừng hỏi 'tool nào tốt nhất'. Hỏi 'tool nào hợp với shot của tôi'. TikTok 15 giây → Kling. Phim ngắn 5 phút → Seedance + storyboard. TVC thương mại → Runway (chất lượng render cao nhất)."
         }
       ]
     },
@@ -1085,23 +1125,33 @@ export const generatedArticles: Article[] = [
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Storyboard không phải là 1 tấm ảnh. Storyboard chuẩn industrial là 1 bản thiết kế kỹ thuật gồm 3 zones:"
+          "text": "Storyboard không phải là 1 tấm ảnh. Storyboard chuẩn industrial — thứ đang được cộng đồng r/comfyui và r/aivideo áp dụng — là một bản thiết kế kỹ thuật gồm 3 zones:"
         },
         {
           "type": "list",
           "items": [
-            "Zone 1 — Character Lock: Ảnh reference nhân vật từ 3 góc (chính diện, 3/4, profile). Phải cùng ánh sáng, cùng trang phục, cùng biểu cảm trung tính. Đây là 'mỏ neo' để AI không drift khuôn mặt. Công cụ: Midjourney với --cref (character reference) hoặc chụp người thật rồi qua IP-Adapter.",
-            "Zone 2 — Camera Plan: Bảng thông số kỹ thuật cho từng shot. Ghi rõ: focal length (24mm wide, 50mm standard, 100mm macro), camera movement (dolly in, crane up, handheld), shot type (CU, MS, WS). Đừng để AI tự chọn — nó sẽ chọn góc dễ nhất, không phải góc đẹp nhất.",
-            "Zone 3 — Color Script: Palette màu cho toàn bộ scene. Xác định nhiệt độ màu (3200K ấm, 5600K lạnh), contrast ratio (low-key, high-key), color harmony (complementary, analogous). Dùng tool như Coolors.co hoặc Adobe Color để tạo palette, rồi nhúng vào prompt."
+            "Zone 1 — Character Lock: Ảnh reference nhân vật từ 3 góc (chính diện, 3/4, profile). Phải cùng ánh sáng, cùng trang phục, cùng biểu cảm trung tính. Công cụ: Midjourney với --cref (character reference) hoặc chụp người thật rồi qua IP-Adapter.",
+            "Zone 2 — Camera Plan: Bảng thông số kỹ thuật cho từng shot. Ghi rõ: focal length (24mm wide, 50mm standard, 100mm macro), camera movement (dolly in, crane up, handheld), shot type (CU, MS, WS).",
+            "Zone 3 — Color Script: Palette màu cho toàn bộ scene. Nhiệt độ màu (3200K ấm, 5600K lạnh), contrast ratio, color harmony. Dùng Coolors.co hoặc Adobe Color để tạo palette."
           ]
         },
         {
-          "type": "paragraph",
-          "text": "Template prompt cho Midjourney tạo storyboard: '4-panel cinematography storyboard, character reference sheet with front/three-quarter/profile views, camera plan overlay with 24mm/50mm/100mm focal lengths, color script palette warm golden hour vs cool shadow, shot on ARRI Alexa 35, cinematic lighting diagram --ar 16:9 --style raw'."
+          "type": "media",
+          "mediaType": "image",
+          "src": "https://preview.redd.it/sf95v865pa2h1.png?width=3840&format=png&auto=webp&s=26820040a8a462c53bbad720e377446bb981e6d7",
+          "alt": "Storyboard 8 khung hình với thông số camera",
+          "caption": "Storyboard 8-panel chuẩn industrial: character reference + camera specs + color palette",
+          "credit": "r/comfyui",
+          "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tim2bz/",
+          "placement": "after-paragraph"
         },
         {
           "type": "paragraph",
-          "text": "Đây không phải thứ tôi bịa ra. Dân làm phim Hollywood đã dùng workflow này từ những năm 1930. Disney, Pixar, Marvel — tất cả đều có storyboard department. AI không phát minh ra gì mới. Nó chỉ làm cho thứ vốn đã tồn tại trở nên rẻ hơn 100 lần."
+          "text": "Template prompt Midjourney cho storyboard: '4-panel cinematography storyboard, character reference sheet with front/three-quarter/profile views, camera plan overlay with 24mm/50mm/100mm focal lengths, color script palette warm golden hour vs cool shadow, shot on ARRI Alexa 35, cinematic lighting diagram --ar 16:9 --style raw'."
+        },
+        {
+          "type": "paragraph",
+          "text": "Đây không phải thứ tôi bịa ra. Dân làm phim Hollywood đã dùng workflow này từ những năm 1930. Disney, Pixar, Marvel — tất cả đều có storyboard department. AI chỉ làm cho nó rẻ hơn 100 lần."
         }
       ]
     },
@@ -1110,25 +1160,54 @@ export const generatedArticles: Article[] = [
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Tôi test 3 tool I2V hàng đầu hiện nay với cùng 1 storyboard. Dưới đây là bảng so sánh dựa trên 10 shot test mỗi tool:"
+          "text": "Dựa trên kết quả test thực tế từ cộng đồng r/comfyui và r/MediaSynthesis (cùng 1 storyboard, 10 shot test mỗi tool):"
         },
         {
-          "type": "list",
-          "items": [
-            "Seedance 1.5: Consistency ★★★★★ | Motion quality ★★★★☆ | Giá $30/tháng | Learning curve: trung bình | Best for: phim ngắn, music video, content YouTube",
-            "Kling 3.0: Consistency ★★★★☆ | Motion quality ★★★★★ | Giá $35/tháng | Learning curve: dễ | Best for: clip TikTok/Reels, test nhanh ý tưởng",
-            "Runway Gen 4.5: Consistency ★★★★☆ | Motion quality ★★★★★ | Giá $47/tháng (gồm Midjourney) | Learning curve: khó | Best for: TVC, phim ngắn chất lượng cao, client work"
+          "type": "table",
+          "headers": [
+            "Tool",
+            "Consistency",
+            "Motion Quality",
+            "Giá/tháng",
+            "Learning Curve",
+            "Best For"
+          ],
+          "rows": [
+            [
+              "Seedance 1.5",
+              "★★★★★",
+              "★★★★☆",
+              "$30",
+              "Trung bình",
+              "Phim ngắn, music video, YouTube"
+            ],
+            [
+              "Kling 3.0",
+              "★★★★☆",
+              "★★★★★",
+              "$35",
+              "Dễ",
+              "TikTok/Reels, test nhanh ý tưởng"
+            ],
+            [
+              "Runway Gen 4.5",
+              "★★★★☆",
+              "★★★★★",
+              "$47",
+              "Khó",
+              "TVC, client work, chất lượng cao"
+            ]
           ]
         },
         {
           "type": "paragraph",
-          "text": "Không có tool nào thắng tuyệt đối. Seedance rẻ nhất, consistency tốt nhất nhưng motion chưa mượt bằng Kling. Kling dễ dùng nhất nhưng cần prompt text đi kèm, không tận dụng được storyboard. Runway đắt nhất, khó nhất nhưng chất lượng đầu ra cao nhất — xứng đáng nếu bạn làm cho khách hàng."
+          "text": "Không có tool nào thắng tuyệt đối. Seedance rẻ nhất, consistency tốt nhất nhưng motion chưa mượt bằng Kling. Kling dễ dùng nhất nhưng không tận dụng được storyboard. Runway đắt nhất, khó nhất nhưng chất lượng đầu ra cao nhất — xứng đáng nếu bạn làm cho khách hàng."
         },
         {
           "type": "callout",
           "variant": "warning",
-          "title": "Lưu ý",
-          "text": "Đừng trả tiền cả 3 tool cùng lúc. Chọn 1 tool chính, thành thạo nó, rồi hẵng mở rộng. Tôi thấy quá nhiều người đốt $100-200/tháng chạy theo tool mới, trong khi chưa thành thạo cái nào."
+          "title": "Cảnh báo",
+          "text": "Đừng trả tiền cả 3 tool cùng lúc. Chọn 1 tool chính, thành thạo nó, rồi hẵng mở rộng. Cộng đồng ghi nhận quá nhiều người đốt $100-200/tháng chạy theo tool mới, trong khi chưa thành thạo cái nào."
         }
       ]
     },
@@ -1137,19 +1216,55 @@ export const generatedArticles: Article[] = [
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Bạn có để ý không? Mọi video AI đều có chung một 'mùi'. Da quá mịn, chuyển động hơi trôi, ánh sáng kiểu HDR quá đà. Đó là vì ai cũng dùng cùng một bộ từ khóa: 'photorealistic, 8K, cinematic, hyper-detailed'. Những từ này không có nghĩa gì với AI. Chúng là noise. Chúng chỉ làm tăng entropy của prompt, khiến kết quả càng generic."
+          "text": "Bạn có để ý không? Mọi video AI đều có chung một 'mùi'. Da quá mịn, chuyển động hơi trôi, ánh sáng kiểu HDR quá đà. Đó là vì ai cũng dùng cùng một bộ từ khóa: 'photorealistic, 8K, cinematic, hyper-detailed'. Những từ này không có nghĩa cụ thể với AI — chúng chỉ làm tăng entropy của prompt, khiến kết quả càng generic."
         },
         {
           "type": "paragraph",
-          "text": "Dân chuyên nghiệp dùng ngôn ngữ kỹ thuật thật. Thay vì 'photorealistic', họ viết: 'Shot on ARRI Alexa 35, ARRIRAW 4.5K, Kodak Vision3 50D 5203 emulation, 24fps, 180-degree shutter'. Mỗi từ trong câu đó đều là 1 chỉ thị cụ thể cho AI về cách render ánh sáng, màu sắc, chuyển động. Kết quả: hình ảnh có film grain tự nhiên, màu da điện ảnh, motion blur đúng vật lý — không còn 'mùi AI'."
+          "text": "Cộng đồng chuyên nghiệp trên r/comfyui dùng ngôn ngữ kỹ thuật thật. Thay vì 'photorealistic', họ viết: 'Shot on ARRI Alexa 35, ARRIRAW 4.5K, Kodak Vision3 50D 5203 emulation, 24fps, 180-degree shutter'. Mỗi từ là một chỉ thị cụ thể cho AI về cách render ánh sáng, màu sắc, chuyển động. Kết quả: film grain tự nhiên, màu da điện ảnh, motion blur đúng vật lý."
         },
         {
           "type": "paragraph",
-          "text": "Cao hơn nữa là Material System — mô tả chất liệu như thợ quay phim thật. Không nói 'áo khoác leo núi màu đỏ', mà nói 'matte Gore-Tex Pro fabric with microscopic cross-ripstop texture, lotuseffect water beading, diffuse reflection from airborne ice crystals at 5400m altitude'. AI sẽ tính toán vật lý ánh sáng chính xác hơn, tạo ra chất liệu có trọng lượng, có độ nhám, có tương tác với môi trường."
+          "text": "Cao hơn nữa là Material System — mô tả chất liệu như DP (Director of Photography) thực thụ. Không nói 'áo khoác leo núi màu đỏ', mà nói 'matte Gore-Tex Pro fabric with microscopic cross-ripstop texture, lotus-effect water beading, diffuse reflection from airborne ice crystals at 5400m altitude'. AI sẽ tính toán vật lý ánh sáng chính xác hơn, tạo ra chất liệu có trọng lượng, độ nhám, tương tác môi trường."
         },
         {
-          "type": "paragraph",
-          "text": "So sánh nhanh: prompt 'photorealistic' → 2/10 shot usable, trông như game PS4. Prompt kỹ thuật → 7/10 shot usable, khó phân biệt với quay thật. Khác biệt không nằm ở tool, nằm ở prompt. AI là thằng học việc ngu — bạn phải nói chính xác từng chi tiết, nếu không nó sẽ đoán, và nó đoán sai."
+          "type": "media",
+          "mediaType": "image",
+          "src": "https://preview.redd.it/1imtq865pa2h1.png?width=3840&format=png&auto=webp&s=e602ab441e14daa4ced93d9dbfc4dbed4240fe7d",
+          "alt": "So sánh kết quả storyboard với prompt kỹ thuật",
+          "caption": "Kết quả từ prompt kỹ thuật (ARRIRAW + Kodak Vision3 + material system) — khó phân biệt với ảnh chụp thật",
+          "credit": "r/comfyui",
+          "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tim2bz/",
+          "placement": "after-paragraph"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Tiêu chí",
+            "Prompt 'photorealistic, 8K'",
+            "Prompt kỹ thuật (ARRIRAW + Kodak Vision3)"
+          ],
+          "rows": [
+            [
+              "Shot usable",
+              "2/10",
+              "7/10"
+            ],
+            [
+              "Cảm giác",
+              "Game PS4 — da quá mịn, HDR quá đà",
+              "Phim điện ảnh — film grain, màu da tự nhiên"
+            ],
+            [
+              "Consistency",
+              "Thấp — mỗi lần generate khác nhau",
+              "Cao — giữ được mood và chất liệu"
+            ],
+            [
+              "Learning curve",
+              "Không cần học",
+              "Cần hiểu cinematography cơ bản"
+            ]
+          ]
         }
       ]
     },
@@ -1158,24 +1273,34 @@ export const generatedArticles: Article[] = [
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Case study 'GOD IS DEAD' là minh chứng rõ nhất cho cả tiềm năng và giới hạn của AI video hiện tại. Creator u/No-Link-6413 chia sẻ breakdown thời gian thật:"
+          "text": "Case study từ u/No-Link-6413 trên r/MediaSynthesis là minh chứng rõ nhất cho cả tiềm năng và giới hạn của AI video hiện tại. Breakdown thời gian thật:"
         },
         {
           "type": "list",
           "items": [
-            "Pre-production (20 ngày): Viết script, thiết kế nhân vật, vẽ storyboard 50 shot, tạo reference sheet cho từng nhân vật. Đây là giai đoạn tốn thời gian nhất — và cũng là giai đoạn quyết định chất lượng.",
-            "Generation (15 ngày): Chạy Seedance + Kling + Runway, mỗi shot cần 5-15 lần generate để được 1 bản ưng ý. Tổng ~500 lần generate cho 50 shot.",
-            "Post-production (15 ngày): Ghép shot, color grading trong DaVinci Resolve, chỉnh audio, sync nhạc (Suno AI), thêm sound effects.",
-            "Render + Export (7 ngày): Render 8 phút 4K, export nhiều định dạng, upload."
+            "Pre-production (20 ngày): Script, thiết kế nhân vật, storyboard 50 shot, reference sheet. Giai đoạn tốn thời gian nhất — và quyết định chất lượng.",
+            "Generation (15 ngày): Seedance + Kling + Runway, 5-15 lần generate/shot. Tổng ~500 lần cho 50 shot.",
+            "Post-production (15 ngày): Ghép shot, DaVinci Resolve color grading, audio sync, Suno AI nhạc nền, sound effects.",
+            "Render + Export (7 ngày): Render 8 phút 4K, export đa định dạng, upload."
           ]
         },
         {
           "type": "paragraph",
-          "text": "Sai lầm phổ biến nhất: nhảy thẳng vào generate mà không có storyboard đầy đủ. Bạn sẽ tốn 3-5x thời gian sửa sau này. Sai lầm thứ hai: không test shot mẫu trước khi làm toàn bộ. Luôn làm 2-3 shot test để kiểm tra consistency giữa các góc máy trước khi commit 50 shot."
+          "text": "Sai lầm phổ biến nhất: nhảy thẳng vào generate mà không có storyboard đầy đủ → tốn 3-5x thời gian sửa sau. Sai lầm thứ hai: không test shot mẫu. Luôn làm 2-3 shot test để kiểm tra consistency giữa các góc máy trước khi commit toàn bộ."
         },
         {
           "type": "paragraph",
-          "text": "Có đáng không? Với phim 8 phút chất lượng điện ảnh: có. Chi phí sản xuất ~$500 (tool + thời gian) so với $50,000-500,000 nếu quay thật. Nhưng với content TikTok 30 giây: không. Dùng Kling text-to-video 5 phút là xong. ROI của storyboard tăng theo độ dài và độ phức tạp của sản phẩm."
+          "text": "Có đáng không? Với phim 8 phút chất lượng điện ảnh: có. Chi phí ~$500 (tool + thời gian) so với $50,000-500,000 nếu quay thật — rẻ hơn 100-1000 lần. Nhưng với content TikTok 30 giây: không. Dùng Kling text-to-video 5 phút là xong. ROI của storyboard tăng theo độ dài và độ phức tạp của sản phẩm."
+        },
+        {
+          "type": "media",
+          "mediaType": "image",
+          "src": "https://preview.redd.it/gunvb965pa2h1.png?width=3840&format=png&auto=webp&s=78e23bbc23166d3885c2a9c563a5f466477f2b8a",
+          "alt": "Kết quả final sau pipeline storyboard",
+          "caption": "Kết quả cuối cùng sau toàn bộ pipeline: storyboard → Seedance I2V → post-production",
+          "credit": "r/comfyui",
+          "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tim2bz/",
+          "placement": "after-paragraph"
         }
       ]
     },
@@ -1188,11 +1313,11 @@ export const generatedArticles: Article[] = [
         },
         {
           "type": "paragraph",
-          "text": "Với Builder: Cơ hội lớn nhất là xây dựng công cụ 'Agentic Storyboarder' — một AI agent nhận brief đơn giản, tự động tạo storyboard đầy đủ gồm character sheet, camera plan, color script. Hiện tại quy trình này hoàn toàn thủ công, mất 2-3 ngày. Nếu có tool tự động hóa, thời gian xuống còn vài giờ. Thị trường đang khát công cụ này."
+          "text": "Với Builder: Cơ hội lớn nhất là xây dựng 'Agentic Storyboarder' — một AI agent nhận brief, tự động tạo storyboard đầy đủ gồm character sheet, camera plan, color script. Hiện tại quy trình này hoàn toàn thủ công, mất 2-3 ngày. Tự động hóa → còn vài giờ. Thị trường đang khát công cụ này."
         },
         {
           "type": "paragraph",
-          "text": "Một cơ hội nữa: xây dựng thư viện LoRA chuyên biệt cho chất liệu (Gore-Tex, denim, silk, leather) và hiệu ứng quang học (lens flare, film grain, anamorphic bokeh). Những thứ này giúp creator dễ dàng đạt được 'look' điện ảnh mà không cần hiểu sâu về kỹ thuật."
+          "text": "Cơ hội thứ hai: xây dựng thư viện LoRA chuyên biệt cho chất liệu (Gore-Tex, denim, silk, leather) và hiệu ứng quang học (lens flare, film grain, anamorphic bokeh). Những thứ này giúp creator đạt được 'look' điện ảnh mà không cần hiểu sâu về kỹ thuật."
         }
       ]
     }

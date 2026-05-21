@@ -152,6 +152,24 @@ function bgStyle(src: string | undefined): string {
                   {block.type === "code" && block.code && (
                     <pre><code class={block.language ? "language-" + block.language : ""}>{block.code}</code></pre>
                   )}
+                  {block.type === "table" && block.rows && (
+                    <div class="table-wrap">
+                      <table>
+                        <thead>
+                          <tr>
+                            {block.headers.map((h: string) => <th>{h}</th>)}
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {block.rows.map((row: string[]) => (
+                            <tr>
+                              {row.map((cell: string) => <td>{cell}</td>)}
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  )}
                 </Fragment>
               ))}
             </div>
@@ -368,6 +386,13 @@ function bgStyle(src: string | undefined): string {
   /* Code */
   pre { margin: 16px 0; padding: 16px; border-radius: 10px; border: 1px solid rgba(43, 46, 51, 0.7); background: rgba(11, 12, 12, 0.8); overflow-x: auto; }
   code { font-size: 13px; color: #c4c7ce; }
+
+  /* Table */
+  .table-wrap { margin: 20px 0; overflow-x: auto; border-radius: 10px; border: 1px solid rgba(43, 46, 51, 0.7); }
+  .table-wrap table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .table-wrap th { text-align: left; padding: 10px 14px; color: #ffb347; font-size: 12px; font-weight: 700; text-transform: uppercase; background: rgba(24, 26, 29, 0.8); border-bottom: 1px solid rgba(43, 46, 51, 0.5); }
+  .table-wrap td { padding: 10px 14px; color: #d7d9de; line-height: 1.5; border-bottom: 1px solid rgba(43, 46, 51, 0.3); }
+  .table-wrap tr:last-child td { border-bottom: none; }
 
   /* ── 5. Insight Blocks ── */
   .insights-section { display: grid; gap: 14px; margin: 28px 0; }

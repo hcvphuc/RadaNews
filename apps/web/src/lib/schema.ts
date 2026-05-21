@@ -71,13 +71,20 @@ export type CodeBlock = {
   code: string;
 };
 
+export type TableBlock = {
+  type: "table";
+  headers: string[];
+  rows: string[][];
+};
+
 export type ContentBlock =
   | ParagraphBlock
   | ListBlock
   | SectionMediaBlock
   | CalloutBlock
   | QuoteBlock
-  | CodeBlock;
+  | CodeBlock
+  | TableBlock;
 
 // ── Section ──
 export type ArticleSection = {
