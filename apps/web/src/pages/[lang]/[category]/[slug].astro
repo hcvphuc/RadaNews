@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import Icon from "@/components/Icon.astro";
+import ArticleCard from "@/components/ArticleCard.astro";
 import {
   articleUrl,
   formatDate,
@@ -8,6 +9,7 @@ import {
   getLanguageVariant,
   getRelatedArticles,
   readingMeta,
+  getArticles,
 } from "@/lib/content";
 import { localizeCategory } from "@/lib/categories";
 import type { Article } from "@/lib/schema";
@@ -37,6 +39,15 @@ const takeaway = article.takeaway || (article.creatorTakeaway
   ? { title: "Takeaway", text: article.creatorTakeaway }
   : undefined);
 
+// Carousel data: 2 rows
+const mostViewed = getArticles(article.lang)
+  .filter((a) => a.id !== article.id)
+  .sort((a, b) => b.readingTime - a.readingTime)
+  .slice(0, 8);
+const youMayLike = getArticles(article.lang)
+  .filter((a) => a.category === article.category && a.id !== article.id)
+  .slice(0, 8);
+
 function bgStyle(src: string | undefined): string {
   return src ? "background-image: url(" + src + ")" : "";
 }
@@ -53,7 +64,6 @@ function bgStyle(src: string | undefined): string {
         <span>{readingMeta(article, article.lang)}</span>
       </div>
       <h1>{article.title}</h1>
-      {article.subtitle && <p>{article.subtitle}</p>}
 
       {article.heroMedia ? (
         <figure class="hero-media" aria-hidden="true">
@@ -72,20 +82,12 @@ function bgStyle(src: string | undefined): string {
           <img src={article.imageUrl} alt={article.title} loading="eager" />
         </figure>
       ) : null}
-
-      <div class="article-actions">
-        {otherVariant && <a class="btn-secondary" href={articleUrl(otherVariant)}>{otherLang.toUpperCase()} Version</a>}
-        <button class="btn-secondary bookmark-button" type="button" data-bookmark={article.id}>
-          <Icon name="bookmark" size={16} /> Save
-        </button>
-      </div>
     </header>
 
     <div class="article-layout">
       <!-- Left: TOC -->
       <aside class="toc thin-panel">
         <strong>AI Radar</strong>
-        <a href="#highlights">Điểm đáng chú ý</a>
         {sections.map((section: any) => (
           <a href={"#" + section.id}>{section.heading}</a>
         ))}
@@ -102,7 +104,9 @@ function bgStyle(src: string | undefined): string {
           <section id="highlights" class="highlights-card panel">
             <div class="highlights-head">
               <h2>Điểm đáng chú ý</h2>
-              <Icon name="spark" size={16} />
+              <button class="icon-btn bookmark-button" type="button" data-bookmark={article.id} aria-label="Save article">
+                <Icon name="bookmark" size={18} />
+              </button>
             </div>
             <ol class="highlights-list">
               {highlights.map((item, idx) => (
@@ -222,6 +226,45 @@ function bgStyle(src: string | undefined): string {
             ))}
           </div>
         </section>
+
+        <!-- ═══ Carousel: Most Viewed + You May Like ═══ -->
+        {mostViewed.length > 0 && (
+          <section class="carousel-section">
+            <div class="carousel-header">
+              <h2>Xem nhiều</h2>
+              <div class="carousel-nav">
+                <button class="carousel-btn carousel-prev" type="button" data-carousel="mostViewed" aria-label="Trước">
+                  <Icon name="arrow-left" size={14} />
+                </button>
+                <button class="carousel-btn carousel-next" type="button" data-carousel="mostViewed" aria-label="Sau">
+                  <Icon name="arrow-right" size={14} />
+                </button>
+              </div>
+            </div>
+            <div class="carousel-track" id="carousel-mostViewed">
+              {mostViewed.map((a) => <ArticleCard article={a} />)}
+            </div>
+          </section>
+        )}
+
+        {youMayLike.length > 0 && (
+          <section class="carousel-section">
+            <div class="carousel-header">
+              <h2>Bạn có thể quan tâm</h2>
+              <div class="carousel-nav">
+                <button class="carousel-btn carousel-prev" type="button" data-carousel="youMayLike" aria-label="Trước">
+                  <Icon name="arrow-left" size={14} />
+                </button>
+                <button class="carousel-btn carousel-next" type="button" data-carousel="youMayLike" aria-label="Sau">
+                  <Icon name="arrow-right" size={14} />
+                </button>
+              </div>
+            </div>
+            <div class="carousel-track" id="carousel-youMayLike">
+              {youMayLike.map((a) => <ArticleCard article={a} />)}
+            </div>
+          </section>
+        )}
       </div>
 
       <!-- Right: Related sidebar -->
@@ -247,6 +290,21 @@ function bgStyle(src: string | undefined): string {
   </article>
 </BaseLayout>
 
+<script>
+  // Carousel scroll behavior
+  document.querySelectorAll('.carousel-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const carouselId = (btn as HTMLElement).dataset.carousel;
+      const track = document.getElementById(`carousel-${carouselId}`);
+      if (!track) return;
+      const dir = (btn as HTMLElement).classList.contains('carousel-prev') ? -1 : 1;
+      const cardWidth = (track.children[0] as HTMLElement)?.offsetWidth ?? 300;
+      const gap = 16;
+      track.scrollBy({ left: dir * (cardWidth + gap) * 2, behavior: 'smooth' });
+    });
+  });
+</script>
+
 <style>
   /* ── Layout ── */
   .article { padding: 72px 0 28px; }
@@ -262,8 +320,6 @@ function bgStyle(src: string | undefined): string {
   .article-meta { display: flex; flex-wrap: wrap; gap: 10px; color: var(--muted); font-size: 12px; }
   .article-meta span:first-child { color: #ffb347; font-weight: 800; text-transform: uppercase; }
   h1 { margin: 0; font-size: clamp(38px, 5.5vw, 78px); line-height: 0.96; letter-spacing: -0.045em; }
-  .article-header p { margin: 0; color: #c4c7ce; font-size: 18px; line-height: 1.65; }
-  .article-actions { display: flex; flex-wrap: wrap; gap: 10px; }
 
   /* ── 2. Hero Media ── */
   .hero-media {
@@ -281,8 +337,10 @@ function bgStyle(src: string | undefined): string {
 
   /* ── 3. Highlights Card ── */
   .highlights-card { padding: 20px 24px; margin-bottom: 28px; }
-  .highlights-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; color: #ffb347; }
+  .highlights-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; }
   .highlights-head h2 { margin: 0; font-size: 16px; color: white; }
+  .hl-bookmark { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); cursor: pointer; background: none; border: none; padding: 4px 8px; border-radius: 6px; transition: all 0.15s; }
+  .hl-bookmark:hover { color: #ffb347; background: rgba(255, 138, 0, 0.08); }
   .highlights-list { display: grid; gap: 10px; margin: 0; padding: 0; list-style: none; }
   .highlights-list li { display: grid; grid-template-columns: 32px 1fr; gap: 12px; align-items: baseline; color: #d7d9de; line-height: 1.6; font-size: 14px; }
   .hl-num { color: #ffb347; font-weight: 800; font-size: 13px; }
@@ -349,6 +407,30 @@ function bgStyle(src: string | undefined): string {
   .source-copy strong { font-size: 14px; }
   .source-copy small { color: var(--muted); font-size: 11px; display: block; margin-top: 3px; }
 
+  /* ── Carousel ── */
+  .carousel-section { margin-top: 48px; }
+  .carousel-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; }
+  .carousel-header h2 { margin: 0; font-size: 20px; color: white; letter-spacing: -0.02em; }
+  .carousel-nav { display: flex; gap: 8px; }
+  .carousel-btn {
+    width: 36px; height: 36px; border-radius: 50%;
+    border: 1px solid rgba(43, 46, 51, 0.8); background: rgba(24, 26, 29, 0.9);
+    color: var(--muted); cursor: pointer; display: flex; align-items: center; justify-content: center;
+    transition: all 0.15s;
+  }
+  .carousel-btn:hover { color: white; border-color: rgba(255, 138, 0, 0.4); background: rgba(255, 138, 0, 0.08); }
+  .carousel-track {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: calc(25% - 12px);
+    gap: 16px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    padding-bottom: 4px;
+  }
+  .carousel-track::-webkit-scrollbar { display: none; }
+
   /* ── TOC ── */
   .toc { position: sticky; top: 116px; padding: 14px; display: grid; gap: 10px; }
   .toc strong { color: #ffb347; font-size: 12px; }
@@ -365,17 +447,21 @@ function bgStyle(src: string | undefined): string {
   .related-time { color: var(--muted); font-size: 10px; font-weight: 400; }
   .related-copy strong { font-size: 13px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
-  /* ── Misc ── */
+  /* ── Bookmark ── */
+  .bookmark-button { color: var(--muted); border: 1px solid rgba(43, 46, 51, 0.7); background: rgba(24, 26, 29, 0.9); border-radius: 8px; padding: 6px 10px; cursor: pointer; transition: all 0.15s; }
+  .bookmark-button:hover { color: #ffb347; border-color: rgba(255, 138, 0, 0.4); }
   [data-bookmarked="true"] .bookmark-button { color: #ff8a00; border-color: rgba(255, 138, 0, 0.55); background: rgba(255, 138, 0, 0.1); }
 
   /* ── Responsive ── */
   @media (max-width: 1120px) {
     .article-layout { grid-template-columns: 200px minmax(0, 1fr); }
     .related-sidebar { display: none; }
+    .carousel-track { grid-auto-columns: calc(33.33% - 11px); }
   }
   @media (max-width: 800px) {
     .article-layout { grid-template-columns: 1fr; }
     .toc { position: static; display: flex; flex-wrap: wrap; }
     .related-sidebar { display: none; }
+    .carousel-track { grid-auto-columns: calc(50% - 8px); }
   }
 </style>
