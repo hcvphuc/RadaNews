@@ -20,10 +20,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.anthropic.com/research",
-      "alt": "Anthropic Research Interface",
-      "caption": "Anthropic tiếp tục đẩy mạnh nghiên cứu về tính an toàn và khả năng diễn giải của AI",
-      "credit": "Anthropic"
+      "src": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600",
+      "alt": "Cursor benchmark table",
+      "caption": "Benchmark/source visual từ Cursor — vibe coding cần số đo và guardrails, không chỉ cảm giác.",
+      "credit": "Cursor",
+      "sourceUrl": "https://www.cursor.com/changelog"
     },
     "highlights": [
       {
@@ -67,11 +68,11 @@ export const generatedArticles: Article[] = [
           {
             "type": "media",
             "mediaType": "image",
-            "src": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+            "src": "https://cdn.sanity.io/images/bj34pdbp/migration/c32dfa2a8c9f030d0eb4d4ed8620c7f60502fba0-1920x1080.png?w=3840&q=75&fit=clip&auto=format",
             "alt": "SpaceX S-1 Infrastructure",
             "caption": "Chi phí vận hành hạ tầng AI đang đạt đến mức không tưởng",
             "credit": "Simon Willison",
-            "sourceUrl": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+            "sourceUrl": "https://cdn.sanity.io/images/bj34pdbp/migration/c32dfa2a8c9f030d0eb4d4ed8620c7f60502fba0-1920x1080.png?w=3840&q=75&fit=clip&auto=format",
             "placement": "after-paragraph"
           }
         ]
@@ -148,32 +149,32 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "Research \\ Anthropic",
-        "publisher": "Anthropic Research",
         "url": "https://www.anthropic.com/research",
+        "publisher": "Anthropic Research",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Quoting SpaceX S-1",
+        "url": "https://cdn.sanity.io/images/bj34pdbp/migration/c32dfa2a8c9f030d0eb4d4ed8620c7f60502fba0-1920x1080.png?w=3840&q=75&fit=clip&auto=format",
         "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
         "publishedAt": "2026-05-20"
       },
       {
         "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-        "publisher": "Simon Willison's Weblog",
         "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+        "publisher": "Simon Willison's Weblog",
         "publishedAt": "2026-05-19"
       },
       {
         "title": "What's New in Cursor",
-        "publisher": "Cursor Changelog",
         "url": "https://www.cursor.com/changelog",
+        "publisher": "Cursor Changelog",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Replit Blog",
-        "publisher": "Replit",
         "url": "https://blog.replit.com/",
+        "publisher": "Replit",
         "publishedAt": "2026-05-21"
       }
     ],
@@ -184,7 +185,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-21",
       "confidence": "high"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600"
   },
   {
     "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-21_en",
@@ -205,10 +207,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.anthropic.com/research",
-      "alt": "Anthropic Research interface showing focus on AI safety and interpretability",
-      "caption": "Anthropic's research efforts focus on the intersection of model capability and safety.",
-      "credit": "Anthropic"
+      "src": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600",
+      "alt": "Cursor benchmark table",
+      "caption": "Benchmark/source visual từ Cursor — vibe coding cần số đo và guardrails, không chỉ cảm giác.",
+      "credit": "Cursor",
+      "sourceUrl": "https://www.cursor.com/changelog"
     },
     "highlights": [
       {
@@ -261,6 +264,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "If the developer's role shifts entirely to 'vibing'—providing high-level direction without understanding the underlying implementation—we risk a future of 'black box' software where the creators cannot debug the systems they've deployed because they never actually wrote the logic. The reliance on massive compute clusters like SpaceX's Colossus suggests that we are solving the 'intent' problem with brute force rather than architectural elegance."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600",
+            "alt": "GitHub Copilot product update visual",
+            "caption": "Ảnh nguồn GitHub Blog cho workflow coding assistant trong sản phẩm.",
+            "credit": "GitHub Blog",
+            "sourceUrl": "https://github.blog/tag/github-copilot/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -310,33 +323,38 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "Research \\ Anthropic",
-        "publisher": "Anthropic Research",
         "url": "https://www.anthropic.com/research",
+        "publisher": "Anthropic Research",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "What's New in Cursor",
-        "publisher": "Cursor Changelog",
         "url": "https://www.cursor.com/changelog",
+        "publisher": "Cursor Changelog",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-        "publisher": "Simon Willison's Weblog",
         "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/",
+        "publisher": "Simon Willison's Weblog",
         "publishedAt": "2026-05-19"
       },
       {
         "title": "Quoting SpaceX S-1",
-        "publisher": "Simon Willison's Weblog",
         "url": "https://simonwillison.net/2026/May/20/spacex-s1/",
+        "publisher": "Simon Willison's Weblog",
         "publishedAt": "2026-05-20"
       },
       {
         "title": "Replit Blog",
-        "publisher": "Replit",
         "url": "https://blog.replit.com/",
+        "publisher": "Replit",
         "publishedAt": "2026-05-21"
+      },
+      {
+        "title": "GitHub Blog",
+        "url": "https://github.blog/tag/github-copilot/",
+        "publisher": "GitHub Blog"
       }
     ],
     "generation": {
@@ -346,7 +364,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-21",
       "confidence": "high"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600"
   },
   {
     "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21_vi",
@@ -368,10 +387,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://runwayml.com/research",
-      "alt": "Runway AI Research interface showing cutting-edge video generation models",
-      "caption": "Runway AI đang định nghĩa lại paradigm tính toán thông qua các mô hình mô phỏng thế giới đa phương thức.",
-      "credit": "Runway Research"
+      "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
+      "alt": "Runway research visual",
+      "caption": "Ảnh nguồn Runway Research cho phần AI video workflow.",
+      "credit": "Runway",
+      "sourceUrl": "https://runwayml.com/research"
     },
     "highlights": [
       {
@@ -394,16 +414,6 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Ngành AI tạo hình ảnh và video đang bước vào một giai đoạn chuyển đổi quan trọng. Không còn dừng lại ở việc tạo ra những clip ngắn bắt mắt, các ông lớn như Runway AI đang định hướng xây dựng những 'mô phỏng đa phương thức tổng quát' (general-purpose multimodal simulators). Runway tin rằng khi video trở thành modality chính, kết hợp với văn bản và âm thanh, nó sẽ tạo ra một paradigm tính toán mới. Đáng chú ý là nghiên cứu A2D (Autoregressive-to-Diffusion) của họ, giúp tối ưu hóa sự đánh đổi giữa tốc độ và chất lượng mà không cần huấn luyện lại từ đầu, cho thấy tham vọng kiểm soát toàn diện quy trình từ tư duy ngôn ngữ sang hiển thị hình ảnh."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://blackforestlabs.ai/blog/",
-            "alt": "FLUX Outpainting interface",
-            "caption": "FLUX Outpainting cho phép mở rộng khung hình mà vẫn giữ nguyên ánh sáng và chất liệu.",
-            "credit": "Black Forest Labs",
-            "sourceUrl": "https://blackforestlabs.ai/blog/",
-            "placement": "after-paragraph"
           }
         ]
       },
@@ -430,6 +440,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Hơn nữa, vấn đề VRAM vẫn là 'nỗi đau' của nhiều builder. Sự ra đời của công cụ 'ggufy' (viết bằng Zig) để quantization mô hình cho thấy nhu cầu cấp thiết về việc đưa các model khổng lồ xuống các GPU phổ thông. Nếu không có những công cụ tối ưu hóa này, sự đổi mới sẽ chỉ nằm trong tay những người sở hữu phần cứng đắt đỏ."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/RW_HEADER_V2-2.mp4",
+            "alt": "Runway Gen-4 official video demo",
+            "caption": "Video demo chính thức Runway Gen-4 — minh họa world consistency.",
+            "credit": "Runway",
+            "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -443,6 +463,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Với các Creator, việc chuyển dịch từ 'Prompting' sang 'Curation & Fine-tuning' là bắt buộc. Thay vì hy vọng vào một prompt may mắn, việc xây dựng bộ dataset nhỏ để train LoRA cho phong cách riêng (như cách SNOFS v1.4 đang làm) sẽ tạo ra lợi thế cạnh tranh tuyệt đối về độ nhất quán (consistency) — điều mà các creator Instagram AI đang khao khát để giữ vững outfit và background."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4",
+            "alt": "Google DeepMind Veo sample video",
+            "caption": "Sample video chính thức Google DeepMind Veo.",
+            "credit": "Google DeepMind",
+            "sourceUrl": "https://deepmind.google/models/veo/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -452,6 +482,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Chúng ta đang chứng kiến sự phân cực rõ rệt: một bên là sự tiện dụng, tốc độ của các hệ thống đóng (Midjourney, Runway) và một bên là sự tự do, chi tiết đến mức cực đoan của hệ sinh thái Open Weights (FLUX, Stable Audio). Tuy nhiên, điểm giao thoa chính là 'sự kiểm soát'. Từ việc quantization mô hình cho đến việc tinh chỉnh LoRA, mục tiêu cuối cùng của cả developer và creator đều là biến AI từ một 'chiếc hộp đen' ngẫu nhiên thành một công cụ sản xuất chính xác."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page1-v3-1.mp4",
+            "alt": "Kling AI official video demo",
+            "caption": "Video demo chính thức Kling AI — motion-first AI video workflow.",
+            "credit": "Kling AI",
+            "sourceUrl": "https://kling.ai/",
+            "placement": "after-paragraph"
           }
         ]
       }
@@ -479,33 +519,48 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "AI Video Research & Innovation | Runway AI",
-        "publisher": "Runway Research",
         "url": "https://runwayml.com/research",
+        "publisher": "Runway Research",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Blog | Black Forest Labs",
-        "publisher": "Black Forest Labs",
         "url": "https://blackforestlabs.ai/blog/",
+        "publisher": "Black Forest Labs",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Blog – Replicate",
-        "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
+        "publisher": "Replicate Blog",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Extreme realism with Klein 9B distilled 2 loras together",
-        "publisher": "r/StableDiffusion",
         "url": "https://www.reddit.com/r/StableDiffusion/comments/1tiwruj/extreme_realism_with_klein_9b_distilled_2_loras/",
+        "publisher": "r/StableDiffusion",
         "publishedAt": "2026-05-20"
       },
       {
         "title": "Announcing the release of Stable Audio 3!",
-        "publisher": "r/StableDiffusion",
         "url": "https://www.reddit.com/r/StableDiffusion/comments/1tiq820/announcing_the_release_of_stable_audio_3/",
+        "publisher": "r/StableDiffusion",
         "publishedAt": "2026-05-20"
+      },
+      {
+        "title": "Runway",
+        "url": "https://runwayml.com/research/introducing-runway-gen-4",
+        "publisher": "Runway"
+      },
+      {
+        "title": "Google DeepMind",
+        "url": "https://deepmind.google/models/veo/",
+        "publisher": "Google DeepMind"
+      },
+      {
+        "title": "Kling AI",
+        "url": "https://kling.ai/",
+        "publisher": "Kling AI"
       }
     ],
     "generation": {
@@ -515,7 +570,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21",
       "confidence": "high"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg"
   },
   {
     "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21_en",
@@ -537,10 +593,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://runwayml.com/research",
-      "alt": "Runway AI Research interface showcasing multimodal world simulators",
-      "caption": "Runway is pivoting toward building general-purpose multimodal simulators of the world.",
-      "credit": "Runway Research"
+      "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
+      "alt": "Runway research visual",
+      "caption": "Ảnh nguồn Runway Research cho phần AI video workflow.",
+      "credit": "Runway",
+      "sourceUrl": "https://runwayml.com/research"
     },
     "highlights": [
       {
@@ -563,16 +620,6 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "The AI generative landscape is undergoing a fundamental shift. While 2023 and 2024 were defined by 'text-to-X' generation, the current trajectory—led by players like Runway AI—is moving toward the creation of multimodal simulators. Runway's latest research emphasizes that video, when supplemented by text and audio, will form the 'next paradigm of computing.' This is exemplified by their work on Autoregressive-to-Diffusion (A2D) vision language models, which aim to unlock speed-quality trade-offs without the need for training from scratch. This shift represents a move away from simply 'making a clip' toward simulating a coherent, physical world."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://blackforestlabs.ai/blog/",
-            "alt": "FLUX Outpainting demonstration",
-            "caption": "FLUX Outpainting allows creators to extend frames while preserving lighting and texture.",
-            "credit": "Black Forest Labs",
-            "sourceUrl": "https://blackforestlabs.ai/blog/",
-            "placement": "after-paragraph"
           }
         ]
       },
@@ -595,6 +642,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Most AI discourse centers on cinematic video or photorealistic portraits, but a critical gap remains: utilitarian visual communication. The release of SenseNova-U1-8B-MoT-Infographic highlights this. While most models struggle with dense visual documents—labels, charts, and posters—this specific 8B model is tuned for 'the boring stuff people actually need.' The fact that an open 8B model can outperform GPT-Image-1.5 on specific infographic benchmarks suggests that the next phase of AI value isn't just 'art,' but 'information design.' We are seeing a divergence where some models chase the 'vibe' (like Midjourney) while others chase 'accuracy' and 'layout' (like SenseNova)."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/RW_HEADER_V2-2.mp4",
+            "alt": "Runway Gen-4 official video demo",
+            "caption": "Video demo chính thức Runway Gen-4 — minh họa world consistency.",
+            "credit": "Runway",
+            "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -608,6 +665,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "For creators, the 'alpha' is in the stack. The ability to combine a base model (like Klein 9B) with a precise set of LoRAs and a specialized sampler (like Angelo) allows for a proprietary 'look' that is difficult to replicate with simple prompting. The move toward 'World Simulators' also suggests that creators should start thinking in terms of 'scenes' and 'environments' rather than 'frames,' preparing for a future where AI manages 3D spatial consistency over time."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4",
+            "alt": "Google DeepMind Veo sample video",
+            "caption": "Sample video chính thức Google DeepMind Veo.",
+            "credit": "Google DeepMind",
+            "sourceUrl": "https://deepmind.google/models/veo/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -617,6 +684,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "The AI image and video ecosystem is maturing from a novelty into a sophisticated production pipeline. Whether it is Runway's vision of world simulators, Midjourney's focus on industrial-speed HD rendering, or the community's obsession with hyper-realistic LoRA stacks, the goal is the same: control. The era of 'prompt and pray' is ending, replaced by an era of precise architectural control over the generative process."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page1-v3-1.mp4",
+            "alt": "Kling AI official video demo",
+            "caption": "Video demo chính thức Kling AI — motion-first AI video workflow.",
+            "credit": "Kling AI",
+            "sourceUrl": "https://kling.ai/",
+            "placement": "after-paragraph"
           }
         ]
       }
@@ -644,39 +721,54 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "AI Video Research & Innovation | Runway AI",
-        "publisher": "Runway Research",
         "url": "https://runwayml.com/research",
+        "publisher": "Runway Research",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Blog | Black Forest Labs",
-        "publisher": "Black Forest Labs",
         "url": "https://blackforestlabs.ai/blog/",
+        "publisher": "Black Forest Labs",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Blog – Replicate",
-        "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
+        "publisher": "Replicate Blog",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Extreme realism with Klein 9B distilled 2 loras together",
-        "publisher": "r/StableDiffusion",
         "url": "https://www.reddit.com/r/StableDiffusion/comments/1tiwruj/extreme_realism_with_klein_9b_distilled_2_loras/",
+        "publisher": "r/StableDiffusion",
         "publishedAt": "2026-05-20"
       },
       {
         "title": "V8.1 Alpha is out!",
-        "publisher": "r/midjourney",
         "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "publisher": "r/midjourney",
         "publishedAt": "2026-04-14"
       },
       {
         "title": "An open-source 8B model getting ~64% of Nano-Banana-Pro on infographic benchmarks",
-        "publisher": "r/comfyui",
         "url": "https://www.reddit.com/r/comfyui/comments/1tiq2th/an_opensource_8b_model_getting_64_of/",
+        "publisher": "r/comfyui",
         "publishedAt": "2026-05-20"
+      },
+      {
+        "title": "Runway",
+        "url": "https://runwayml.com/research/introducing-runway-gen-4",
+        "publisher": "Runway"
+      },
+      {
+        "title": "Google DeepMind",
+        "url": "https://deepmind.google/models/veo/",
+        "publisher": "Google DeepMind"
+      },
+      {
+        "title": "Kling AI",
+        "url": "https://kling.ai/",
+        "publisher": "Kling AI"
       }
     ],
     "generation": {
@@ -686,7 +778,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21",
       "confidence": "high"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg"
   },
   {
     "id": "cluster_ai-agentic_google-i-o-gemini-spark-antigravity_2026-05-21_vi",
@@ -707,10 +800,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://simonwillison.net/static/images/google-io-2026.jpg",
+      "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote_tempsocial.width-1300.png",
       "alt": "Minh họa hệ sinh thái AI Agent của Google tại I/O 2026",
       "caption": "Google I/O 2026 đánh dấu bước chuyển mình từ Chatbot sang AI Agent với Gemini Spark và Antigravity.",
-      "credit": "Simon Willison's Weblog"
+      "credit": "Simon Willison's Weblog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/"
     },
     "highlights": [
       {
@@ -750,6 +844,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Tuy nhiên, việc chuyển đổi từ Gemini CLI (mã nguồn mở Apache 2.0) sang Antigravity CLI (mã nguồn đóng) cho thấy Google đang siết chặt kiểm soát đối với các công cụ can thiệp sâu vào hệ thống, điều này vừa giúp tăng cường bảo mật nhưng cũng gây tranh cãi trong cộng đồng open-source."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+            "alt": "Anthropic research visual",
+            "caption": "Ảnh nguồn Anthropic Research cho phần model/agent safety.",
+            "credit": "Anthropic",
+            "sourceUrl": "https://www.anthropic.com/research",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -812,21 +916,26 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "Google I/O, Gemini Spark, Antigravity",
-        "publisher": "Simon Willison's Weblog",
         "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+        "publisher": "Simon Willison's Weblog",
         "publishedAt": "2026-05-20"
       },
       {
         "title": "LangChain Blog",
-        "publisher": "LangChain",
         "url": "https://blog.langchain.dev/rss/",
+        "publisher": "LangChain",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "74% of enterprises have rolled back AI agents after going live",
-        "publisher": "r/AI_Agents",
         "url": "https://www.reddit.com/r/AI_Agents/comments/1tiw3ml/74_of_enterprises_have_rolled_back_ai_agents/",
+        "publisher": "r/AI_Agents",
         "publishedAt": "2026-05-20"
+      },
+      {
+        "title": "Anthropic",
+        "url": "https://www.anthropic.com/research",
+        "publisher": "Anthropic"
       }
     ],
     "generation": {
@@ -836,7 +945,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_ai-agentic_google-i-o-gemini-spark-antigravity_2026-05-21",
       "confidence": "high"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote_tempsocial.width-1300.png"
   },
   {
     "id": "cluster_ai-agentic_google-i-o-gemini-spark-antigravity_2026-05-21_en",
@@ -857,10 +967,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://simonwillison.net/static/images/google-io-gemini-spark.jpg",
+      "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
       "alt": "Conceptual representation of Google Gemini Spark agent ecosystem",
       "caption": "Google's new agentic push centers on Gemini Spark and the Antigravity framework.",
-      "credit": "Simon Willison's Weblog"
+      "credit": "Simon Willison's Weblog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/"
     },
     "highlights": [
       {
@@ -900,6 +1011,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Security remains the primary friction point. Google's strategy for Gemini Spark involves a 'fully managed, secure runtime' where every task executes in a fresh, isolated, ephemeral VM. This is a direct response to the looming threat of prompt injection and data leakage. By routing all traffic through an 'Agent Gateway' with Data Loss Prevention (DLP) policies, Google is attempting to build the 'enterprise-grade' moat that prevents the catastrophic security failures many fear will plague early agentic deployments."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+            "alt": "Anthropic research visual",
+            "caption": "Ảnh nguồn Anthropic Research cho phần model/agent safety.",
+            "credit": "Anthropic",
+            "sourceUrl": "https://www.anthropic.com/research",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -962,21 +1083,26 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "Google I/O, Gemini Spark, Antigravity",
-        "publisher": "Simon Willison's Weblog",
         "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+        "publisher": "Simon Willison's Weblog",
         "publishedAt": "2026-05-20"
       },
       {
         "title": "LangChain Blog",
-        "publisher": "LangChain",
         "url": "https://blog.langchain.dev/rss/",
+        "publisher": "LangChain",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "74% of enterprises have rolled back AI agents after going live",
-        "publisher": "r/AI_Agents",
         "url": "https://www.reddit.com/r/AI_Agents/comments/1tiw3ml/74_of_enterprises_have_rolled_back_ai_agents/",
+        "publisher": "r/AI_Agents",
         "publishedAt": "2026-05-20"
+      },
+      {
+        "title": "Anthropic",
+        "url": "https://www.anthropic.com/research",
+        "publisher": "Anthropic"
       }
     ],
     "generation": {
@@ -986,7 +1112,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_ai-agentic_google-i-o-gemini-spark-antigravity_2026-05-21",
       "confidence": "high"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png"
   },
   {
     "id": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21_vi",
@@ -1010,7 +1137,8 @@ export const generatedArticles: Article[] = [
       "src": "https://preview.redd.it/sf95v865pa2h1.png?width=3840&format=png&auto=webp&s=26820040a8a462c53bbad720e377446bb981e6d7",
       "alt": "Storyboard 8 khung hình cho phim ngắn AI — leo núi Himalaya",
       "caption": "",
-      "credit": "r/comfyui"
+      "credit": "r/comfyui",
+      "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tim2bz/this_kind_of_storyboard_image_combined_with/"
     },
     "highlights": [
       {
@@ -1343,27 +1471,37 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "This kind of storyboard image combined with seedance is very useful for creating videos",
-        "publisher": "r/comfyui",
         "url": "https://www.reddit.com/r/comfyui/comments/1tim2bz/this_kind_of_storyboard_image_combined_with/",
+        "publisher": "r/comfyui",
         "publishedAt": "2026-05-20"
       },
       {
         "title": "People think AI films are just one click — mine took 57 days of obsessive detail",
-        "publisher": "r/MediaSynthesis",
         "url": "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/",
+        "publisher": "r/MediaSynthesis",
         "publishedAt": "2026-04-23"
       },
       {
         "title": "Kling AI Blog",
-        "publisher": "Kling AI",
         "url": "https://klingai.com/blog",
+        "publisher": "Kling AI",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "AI VIDEO AWARDS 2026",
-        "publisher": "r/aivideo",
         "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "publisher": "r/aivideo",
         "publishedAt": "2026-01-15"
+      },
+      {
+        "title": "u/No-Link-6413 on r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tiuti2/the_death_god_meets_the_yakuza_bosses_in_neotokyo/",
+        "publisher": "u/No-Link-6413 on r/aivideo"
+      },
+      {
+        "title": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tim2bz/",
+        "publisher": "r/comfyui"
       }
     ],
     "generation": {
@@ -1373,7 +1511,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21",
       "confidence": "high"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://preview.redd.it/sf95v865pa2h1.png?width=3840&format=png&auto=webp&s=26820040a8a462c53bbad720e377446bb981e6d7"
   },
   {
     "id": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21_en",
@@ -1398,7 +1537,8 @@ export const generatedArticles: Article[] = [
       "src": "https://preview.redd.it/s7cudqv7ec2h1.jpeg?width=1125&format=pjpg&auto=webp&s=d0a37dcb755fe3656baac95be7e10c124e730944",
       "alt": "A cinematic storyboard layout for AI video production",
       "caption": "",
-      "credit": "r/aivideo"
+      "credit": "r/comfyui",
+      "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tim2bz/this_kind_of_storyboard_image_combined_with/"
     },
     "highlights": [
       {
@@ -1462,6 +1602,16 @@ export const generatedArticles: Article[] = [
             "variant": "insight",
             "title": "The Lesson",
             "text": "Don't ask 'which tool is best.' Ask 'which tool fits my shot.' 15-second TikTok → Kling text-to-video is enough. 5-minute short film → storyboard + Seedance. Commercial TVC → storyboard + Runway (higher render quality)."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://preview.redd.it/sf95v865pa2h1.png?width=3840&format=png&auto=webp&s=26820040a8a462c53bbad720e377446bb981e6d7",
+            "alt": "Storyboard 8-panel source image",
+            "caption": "Storyboard source từ r/comfyui — chuẩn bài Storyboard + Seedance.",
+            "credit": "r/comfyui",
+            "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tim2bz/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -1487,6 +1637,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "This isn't something I invented. Hollywood has been using this workflow since the 1930s. Disney, Pixar, Marvel — they all have storyboard departments. AI didn't invent anything new. It just made something that already existed 100x cheaper."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://preview.redd.it/zajm5965pa2h1.jpg?width=3840&format=pjpg&auto=webp&s=0fbacf7a343d037a85c19e8b342c486d6a62fc84",
+            "alt": "Character reference sheet",
+            "caption": "Character reference sheet từ source r/comfyui.",
+            "credit": "r/comfyui",
+            "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tim2bz/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -1607,27 +1767,37 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "This kind of storyboard image combined with seedance is very useful for creating videos",
-        "publisher": "r/comfyui",
         "url": "https://www.reddit.com/r/comfyui/comments/1tim2bz/this_kind_of_storyboard_image_combined_with/",
+        "publisher": "r/comfyui",
         "publishedAt": "2026-05-20"
       },
       {
         "title": "People think AI films are just one click — mine took 57 days of obsessive detail",
-        "publisher": "r/MediaSynthesis",
         "url": "https://www.reddit.com/r/MediaSynthesis/comments/1sto44s/people_think_ai_films_are_just_one_click_mine/",
+        "publisher": "r/MediaSynthesis",
         "publishedAt": "2026-04-23"
       },
       {
         "title": "Kling AI Blog",
-        "publisher": "Kling AI",
         "url": "https://klingai.com/blog",
+        "publisher": "Kling AI",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "AI VIDEO AWARDS 2026",
-        "publisher": "r/aivideo",
         "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "publisher": "r/aivideo",
         "publishedAt": "2026-01-15"
+      },
+      {
+        "title": "u/No-Link-6413 on r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tiuti2/the_death_god_meets_the_yakuza_bosses_in_neotokyo/",
+        "publisher": "u/No-Link-6413 on r/aivideo"
+      },
+      {
+        "title": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tim2bz/",
+        "publisher": "r/comfyui"
       }
     ],
     "generation": {
@@ -1637,7 +1807,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21",
       "confidence": "high"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://preview.redd.it/s7cudqv7ec2h1.jpeg?width=1125&format=pjpg&auto=webp&s=d0a37dcb755fe3656baac95be7e10c124e730944"
   },
   {
     "id": "cluster_prompt-image_lithic-avant-garde_2026-05-21_vi",
@@ -1658,10 +1829,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.reddit.com/r/midjourney/comments/1tj6um1/lithic_avantgarde/",
-      "alt": "Một thực thể trong trang phục Lithic Avant-Garde với cấu trúc đá núi lửa và thủy tinh",
-      "caption": "Phong cách Lithic Avant-Garde kết hợp giữa địa chất học và thời trang viễn tưởng",
-      "credit": "r/midjourney"
+      "src": "https://i.ytimg.com/vi/3AdO1TAT2ts/frame0.jpg",
+      "alt": "Prompt Muse YouTube frame",
+      "caption": "Frame nguồn từ Prompt Muse — prompt image cần kiểm soát style/composition bằng ví dụ cụ thể.",
+      "credit": "Prompt Muse",
+      "sourceUrl": "https://www.youtube.com/@PromptMuse"
     },
     "highlights": [
       {
@@ -1701,16 +1873,6 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Về mặt cấu trúc, phong cách này ưu tiên các hình khối hình học mạnh mẽ (brutally geometric). Những cấu trúc vai cao vút, những mảng khối nhô ra bất đối xứng không chỉ tạo ra sự kịch tính mà còn gợi ý về một môi trường sống khắc nghiệt, nơi thời trang đóng vai trò là lớp giáp bảo vệ hoặc một sự thích nghi sinh học. Đây là sự chuyển dịch từ 'mặc quần áo' sang 'xây dựng cấu trúc' quanh cơ thể."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://www.reddit.com/r/midjourney/comments/1tj6um1/lithic_avantgarde/",
-            "alt": "Chi tiết bề mặt đá và thủy tinh trong thiết kế AI",
-            "caption": "Sự tương phản giữa bề mặt nhám của basalt và độ bóng của obsidian",
-            "credit": "r/midjourney",
-            "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tj6um1/lithic_avantgarde/",
-            "placement": "after-paragraph"
           }
         ]
       },
@@ -1724,6 +1886,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Tuy nhiên, giá trị của AI không nằm ở việc tạo ra cái mới từ hư không, mà ở khả năng 'tổng hợp xuyên domain'. Việc kết hợp kiến thức về thiên văn học (Proxima Centauri b), địa chất (basalt, obsidian) và thời trang avant-garde để tạo ra một concept chưa từng tồn tại trong thực tế chính là điểm mạnh của các prompt engineer hiện nay."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.ytimg.com/vi/UQI0vOhc8uc/frame0.jpg",
+            "alt": "Prompt Muse reference workflow frame",
+            "caption": "Frame nguồn Prompt Muse cho workflow khóa style bằng reference.",
+            "credit": "Prompt Muse",
+            "sourceUrl": "https://www.youtube.com/@PromptMuse",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -1737,6 +1909,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Về mặt kỹ thuật, việc thử nghiệm với các tham số như `--sref` (Style Reference) kết hợp với các từ khóa mô tả chất liệu địa chất chính xác sẽ giúp các builder tạo ra những bộ thư viện style nhất quán cho các dự án game hoặc phim viễn tưởng. Việc làm chủ sự tương phản giữa 'matte' và 'glossy' trong AI image generation là chìa khóa để nâng tầm chất lượng render từ 'trông giống AI' sang 'trông giống tác phẩm nghệ thuật'."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.redd.it/t80zyrhste2h1.jpeg",
+            "alt": "Midjourney warrior source image",
+            "caption": "Ảnh nguồn r/midjourney — ví dụ style/character prompt có visual rõ.",
+            "credit": "r/midjourney",
+            "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tj8d6w/warrior/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -1746,6 +1928,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Lithic Avant-Garde không chỉ là một trào lưu prompt ngắn hạn, mà là minh chứng cho khả năng mở rộng trí tưởng tượng của con người khi có sự hỗ trợ của AI. Bằng cách đẩy các vật liệu tự nhiên đến cực hạn của sự phi lý, chúng ta không chỉ tạo ra những hình ảnh đẹp, mà còn đang định nghĩa lại cách chúng ta nhìn nhận sự giao thoa giữa sinh học, địa chất và nghệ thuật."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://preview.redd.it/25ma9n66oa2h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=94514224c2e52ce6029109d9628b3f433744beb7",
+            "alt": "Midjourney chiaroscuro source image",
+            "caption": "Ảnh nguồn r/midjourney cho phần style lighting/chiaroscuro.",
+            "credit": "r/midjourney",
+            "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tilrn5/fairy_tales_in_chiaroscuro/",
+            "placement": "after-paragraph"
           }
         ]
       }
@@ -1773,21 +1965,26 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "Lithic Avant-Garde",
-        "publisher": "r/midjourney",
         "url": "https://www.reddit.com/r/midjourney/comments/1tj6um1/lithic_avantgarde/",
+        "publisher": "r/midjourney",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Warrior",
-        "publisher": "r/midjourney",
         "url": "https://www.reddit.com/r/midjourney/comments/1tj8d6w/warrior/",
+        "publisher": "r/midjourney",
         "publishedAt": "2026-05-21"
       },
       {
         "title": "Fairy tales in chiaroscuro",
-        "publisher": "r/midjourney",
         "url": "https://www.reddit.com/r/midjourney/comments/1tilrn5/fairy_tales_in_chiaroscuro/",
+        "publisher": "r/midjourney",
         "publishedAt": "2026-05-20"
+      },
+      {
+        "title": "Prompt Muse",
+        "url": "https://www.youtube.com/@PromptMuse",
+        "publisher": "Prompt Muse"
       }
     ],
     "generation": {
@@ -1797,7 +1994,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_prompt-image_lithic-avant-garde_2026-05-21",
       "confidence": "medium"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://i.ytimg.com/vi/3AdO1TAT2ts/frame0.jpg"
   },
   {
     "id": "cluster_prompt-image_lithic-avant-garde_2026-05-21_en",
@@ -1818,10 +2016,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.reddit.com/r/midjourney/comments/1tj6um1/lithic_avantgarde/",
-      "alt": "A figure wearing a monolithic, sculptural garment made of volcanic glass and basalt",
-      "caption": "The 'Lithic Avant-Garde' aesthetic blends extraterrestrial biology with brutalist fashion.",
-      "credit": "r/midjourney"
+      "src": "https://i.ytimg.com/vi/3AdO1TAT2ts/frame0.jpg",
+      "alt": "Prompt Muse YouTube frame",
+      "caption": "Frame nguồn từ Prompt Muse — prompt image cần kiểm soát style/composition bằng ví dụ cụ thể.",
+      "credit": "Prompt Muse",
+      "sourceUrl": "https://www.youtube.com/@PromptMuse"
     },
     "highlights": [
       {
@@ -1844,16 +2043,6 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "In the evolving landscape of AI-generated art, a new visual dialect is emerging: the 'Lithic Avant-Garde.' As seen in recent high-engagement threads on r/midjourney, creators are moving away from traditional fabric simulations and toward a synthesis of geology and couture. The core of this movement is a speculative leap—imagining the fashion of silicon-based lifeforms from Proxima Centauri b. Rather than draped silk or tailored wool, these designs feature figures 'entombed' in monolithic garments carved from layered volcanic glass and matte, porous basalt. This is not merely a costume change; it is a fundamental shift in how prompt engineers conceptualize the relationship between the body and its environment."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://www.reddit.com/r/midjourney/comments/1tj6um1/lithic_avantgarde/",
-            "alt": "Brutalist geometric shoulder structures in volcanic glass",
-            "caption": "The juxtaposition of sharp, towering geometry with organic human forms defines the Lithic style.",
-            "credit": "r/midjourney",
-            "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tj6um1/lithic_avantgarde/",
-            "placement": "after-paragraph"
           }
         ]
       },
@@ -1876,6 +2065,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "While the Lithic Avant-Garde is visually stunning, it highlights a recurring tension in the AI community: the line between genuine artistic innovation and the discovery of a 'power-prompt.' Once a specific combination of materials (e.g., volcanic glass + basalt) and themes (silicon-based life) is shared, the community often descends into iterative mimicry. We see this in the rapid proliferation of similar 'monolithic' looks. The risk is that the aesthetic becomes a filter rather than a philosophy, where the 'look' of the Lithic style is applied to subjects where it doesn't logically fit, stripping the work of its speculative biological grounding."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.ytimg.com/vi/UQI0vOhc8uc/frame0.jpg",
+            "alt": "Prompt Muse reference workflow frame",
+            "caption": "Frame nguồn Prompt Muse cho workflow khóa style bằng reference.",
+            "credit": "Prompt Muse",
+            "sourceUrl": "https://www.youtube.com/@PromptMuse",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -1889,6 +2088,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Additionally, there is a gap in the market for 'Speculative Biology' prompt libraries. Moving beyond the 'cyberpunk' or 'steampunk' tropes, creators can develop frameworks for 'Xeno-Aesthetics'—design systems based on different gravity levels, atmospheric compositions, or chemical foundations. The success of the Lithic movement proves that there is a high appetite for high-concept, intellectually grounded AI art that challenges the viewer's perception of nature and luxury."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.redd.it/t80zyrhste2h1.jpeg",
+            "alt": "Midjourney warrior source image",
+            "caption": "Ảnh nguồn r/midjourney — ví dụ style/character prompt có visual rõ.",
+            "credit": "r/midjourney",
+            "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tj8d6w/warrior/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -1898,6 +2107,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "The Lithic Avant-Garde is more than a fleeting trend in Midjourney; it is a signal that AI art is moving toward a more sophisticated intersection of science, architecture, and fashion. By leveraging the precise language of geology and speculative biology, creators are breaking free from the 'average' of the training data to find something truly alien. As these techniques evolve, the boundary between digital art and conceptual design will continue to blur, paving the way for a new era of synthetic couture."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://preview.redd.it/25ma9n66oa2h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=94514224c2e52ce6029109d9628b3f433744beb7",
+            "alt": "Midjourney chiaroscuro source image",
+            "caption": "Ảnh nguồn r/midjourney cho phần style lighting/chiaroscuro.",
+            "credit": "r/midjourney",
+            "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tilrn5/fairy_tales_in_chiaroscuro/",
+            "placement": "after-paragraph"
           }
         ]
       }
@@ -1925,9 +2144,24 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "Lithic Avant-Garde",
-        "publisher": "r/midjourney",
         "url": "https://www.reddit.com/r/midjourney/comments/1tj6um1/lithic_avantgarde/",
+        "publisher": "r/midjourney",
         "publishedAt": "2026-05-21"
+      },
+      {
+        "title": "Prompt Muse",
+        "url": "https://www.youtube.com/@PromptMuse",
+        "publisher": "Prompt Muse"
+      },
+      {
+        "title": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tj8d6w/warrior/",
+        "publisher": "r/midjourney"
+      },
+      {
+        "title": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tilrn5/fairy_tales_in_chiaroscuro/",
+        "publisher": "r/midjourney"
       }
     ],
     "generation": {
@@ -1937,7 +2171,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_prompt-image_lithic-avant-garde_2026-05-21",
       "confidence": "medium"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://i.ytimg.com/vi/3AdO1TAT2ts/frame0.jpg"
   },
   {
     "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-21_vi",
@@ -1958,10 +2193,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
-      "alt": "Hình ảnh minh họa cho trailer AI The Odyssey (But Accurate)",
-      "caption": "Sự kết hợp giữa độ chính xác lịch sử và sức mạnh của AI Video Generation",
-      "credit": "r/aivideo"
+      "src": "https://external-preview.redd.it/Nzd4d2RnejBvOTJoMZcSEU7WXu84klbLxhb6XAQeF7gGC3dKNUsMwdE7y-RE.png?format=pjpg&auto=webp&s=985a8db94a1b2913dc2b701ae8a79cc3b3a4c460",
+      "alt": "The Odyssey AI trailer source preview",
+      "caption": "Preview từ source r/aivideo của trailer The Odyssey.",
+      "credit": "r/aivideo",
+      "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/"
     },
     "highlights": [
       {
@@ -2014,6 +2250,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "AI hiện tại rất giỏi trong việc tạo ra 'khoảnh khắc', nhưng chưa giỏi trong việc xây dựng 'hành trình'. Việc duy trì một gương mặt nhân vật xuyên suốt 90 phút mà không bị thay đổi dù chỉ một pixel vẫn là bài toán khó. Do đó, niềm tin vào việc AI thay thế hoàn toàn điện ảnh trong 2 năm tới có thể là sự lạc quan quá mức, nhưng nó lại là động lực thúc đẩy các developer tối ưu hóa khả năng kiểm soát (controllability) của mô hình."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v.redd.it/x3qa19z0o92h1/CMAF_1080.mp4?source=fallback",
+            "alt": "The Odyssey AI trailer source video",
+            "caption": "Video source từ r/aivideo — minh họa prompt video shot-by-shot trong bài.",
+            "credit": "r/aivideo",
+            "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2027,6 +2273,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Đối với các creator, hướng đi 'Accurate' (Chính xác/Trung thực) là một ngách tiềm năng. Thay vì cạnh tranh về độ hoành tráng (vốn AI đã làm quá tốt), hãy cạnh tranh về độ sâu của nội dung. Việc kết hợp AI Video với các chủ đề ngách như lịch sử, triết học hoặc phân tích văn học sẽ tạo ra những sản phẩm có giá trị bền vững và thu hút tệp khán giả trí thức."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.ytimg.com/vi/WMs79F8DF5Y/hqdefault.jpg",
+            "alt": "Theoretically Media video prompt thumbnail",
+            "caption": "Thumbnail nguồn Theoretically Media — prompt video cần thiết kế shot, camera và nhịp dựng.",
+            "credit": "Theoretically Media",
+            "sourceUrl": "https://www.youtube.com/@TheoreticallyMedia",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2036,6 +2292,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Trailer 'The Odyssey (But Accurate)' không chỉ là một sản phẩm giải trí, mà là một minh chứng cho sự giao thoa giữa công nghệ tạo hình và tư duy biên tập. Khi ranh giới giữa thực và ảo ngày càng mờ nhạt, giá trị của một tác phẩm AI sẽ không nằm ở việc nó trông 'thật' đến mức nào, mà ở việc nó truyền tải thông điệp chính xác và sâu sắc đến mức nào."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page2-v3-en.mp4",
+            "alt": "Kling official video demo",
+            "caption": "Video nguồn Kling AI cho phần I2V/T2V workflow.",
+            "credit": "Kling AI",
+            "sourceUrl": "https://kling.ai/",
+            "placement": "after-paragraph"
           }
         ]
       }
@@ -2063,9 +2329,19 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "The Odyssey (But Accurate) | Trailer 4K",
-        "publisher": "r/aivideo",
         "url": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
+        "publisher": "r/aivideo",
         "publishedAt": "2026-05-20"
+      },
+      {
+        "title": "Theoretically Media",
+        "url": "https://www.youtube.com/@TheoreticallyMedia",
+        "publisher": "Theoretically Media"
+      },
+      {
+        "title": "Kling AI",
+        "url": "https://kling.ai/",
+        "publisher": "Kling AI"
       }
     ],
     "generation": {
@@ -2075,7 +2351,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-21",
       "confidence": "medium"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://external-preview.redd.it/Nzd4d2RnejBvOTJoMZcSEU7WXu84klbLxhb6XAQeF7gGC3dKNUsMwdE7y-RE.png?format=pjpg&auto=webp&s=985a8db94a1b2913dc2b701ae8a79cc3b3a4c460"
   },
   {
     "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-21_en",
@@ -2096,10 +2373,11 @@ export const generatedArticles: Article[] = [
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
-      "alt": "Cinematic AI-generated trailer for The Odyssey",
-      "caption": "The 'Odyssey (But Accurate)' trailer showcases the rapid evolution of AI video synthesis in cinematic storytelling.",
-      "credit": "r/aivideo"
+      "src": "https://external-preview.redd.it/Nzd4d2RnejBvOTJoMZcSEU7WXu84klbLxhb6XAQeF7gGC3dKNUsMwdE7y-RE.png?format=pjpg&auto=webp&s=985a8db94a1b2913dc2b701ae8a79cc3b3a4c460",
+      "alt": "The Odyssey AI trailer source preview",
+      "caption": "Preview từ source r/aivideo của trailer The Odyssey.",
+      "credit": "r/aivideo",
+      "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/"
     },
     "highlights": [
       {
@@ -2152,6 +2430,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "The danger for builders is relying solely on the 'wow factor.' The 'Odyssey' trailer succeeds because it leans into the strengths of AI—grandeur, surrealism, and rapid visual iteration. However, the leap to feature-length cinema requires solve-states for temporal consistency and nuanced acting that current prompt-video models still struggle to maintain over long durations."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v.redd.it/x3qa19z0o92h1/CMAF_1080.mp4?source=fallback",
+            "alt": "The Odyssey AI trailer source video",
+            "caption": "Video source từ r/aivideo — minh họa prompt video shot-by-shot trong bài.",
+            "credit": "r/aivideo",
+            "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2165,6 +2453,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "For creators, the 'AI Trailer' is now a legitimate business model. By producing high-fidelity trailers for non-existent films, creators can gauge market interest, build a following, and potentially crowdfund full productions. The barrier to entry for 'world-building' has vanished; the new bottleneck is the ability to curate and edit these assets into a compelling story."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://i.ytimg.com/vi/WMs79F8DF5Y/hqdefault.jpg",
+            "alt": "Theoretically Media video prompt thumbnail",
+            "caption": "Thumbnail nguồn Theoretically Media — prompt video cần thiết kế shot, camera và nhịp dựng.",
+            "credit": "Theoretically Media",
+            "sourceUrl": "https://www.youtube.com/@TheoreticallyMedia",
+            "placement": "after-paragraph"
           }
         ]
       },
@@ -2174,6 +2472,16 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "The 'Odyssey (But Accurate)' trailer is more than a viral clip; it is a signal of the democratization of high-end visual effects. While the path to a feature-length AI masterpiece is still fraught with technical hurdles, the gap between a solo creator's vision and a studio's output is closing rapidly. The future of cinema may not be 'AI-generated,' but rather 'AI-augmented,' where the human role shifts from managing labor to managing intent."
+          },
+          {
+            "type": "media",
+            "mediaType": "video",
+            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page2-v3-en.mp4",
+            "alt": "Kling official video demo",
+            "caption": "Video nguồn Kling AI cho phần I2V/T2V workflow.",
+            "credit": "Kling AI",
+            "sourceUrl": "https://kling.ai/",
+            "placement": "after-paragraph"
           }
         ]
       }
@@ -2201,9 +2509,19 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "The Odyssey (But Accurate) | Trailer 4K",
-        "publisher": "r/aivideo",
         "url": "https://www.reddit.com/r/aivideo/comments/1tih68d/the_odyssey_but_accurate_trailer_4k/",
+        "publisher": "r/aivideo",
         "publishedAt": "2026-05-20"
+      },
+      {
+        "title": "Theoretically Media",
+        "url": "https://www.youtube.com/@TheoreticallyMedia",
+        "publisher": "Theoretically Media"
+      },
+      {
+        "title": "Kling AI",
+        "url": "https://kling.ai/",
+        "publisher": "Kling AI"
       }
     ],
     "generation": {
@@ -2213,7 +2531,8 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-21",
       "confidence": "medium"
     },
-    "status": "published"
+    "status": "published",
+    "imageUrl": "https://external-preview.redd.it/Nzd4d2RnejBvOTJoMZcSEU7WXu84klbLxhb6XAQeF7gGC3dKNUsMwdE7y-RE.png?format=pjpg&auto=webp&s=985a8db94a1b2913dc2b701ae8a79cc3b3a4c460"
   },
   {
     "id": "ai-agentic-state-2026-autonomy",
@@ -2571,13 +2890,13 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "State of AI Agents 2026: Autonomy is Here",
-        "publisher": "Prosus",
-        "url": "https://www.prosus.com/news-insights/2026/state-of-ai-agents-2026-autonomy-is-here"
+        "url": "https://www.prosus.com/news-insights/2026/state-of-ai-agents-2026-autonomy-is-here",
+        "publisher": "Prosus"
       },
       {
         "title": "Top 11 Agentic AI Trends to Watch in 2026",
-        "publisher": "Firecrawl",
-        "url": "https://www.firecrawl.dev/blog/agentic-ai-trends"
+        "url": "https://www.firecrawl.dev/blog/agentic-ai-trends",
+        "publisher": "Firecrawl"
       }
     ],
     "generation": {
@@ -2979,18 +3298,18 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "How are AI agents used? Evidence from 177,000 MCP tools",
-        "publisher": "arXiv",
-        "url": "https://arxiv.org/html/2603.23802v1"
+        "url": "https://arxiv.org/html/2603.23802v1",
+        "publisher": "arXiv"
       },
       {
         "title": "2026: The Year for Enterprise-Ready MCP Adoption",
-        "publisher": "CData",
-        "url": "https://www.cdata.com/blog/2026-year-enterprise-ready-mcp-adoption"
+        "url": "https://www.cdata.com/blog/2026-year-enterprise-ready-mcp-adoption",
+        "publisher": "CData"
       },
       {
         "title": "MCP Hits 97M Downloads",
-        "publisher": "Digital Applied",
-        "url": "https://www.digitalapplied.com/blog/mcp-97-million-downloads-model-context-protocol-mainstream"
+        "url": "https://www.digitalapplied.com/blog/mcp-97-million-downloads-model-context-protocol-mainstream",
+        "publisher": "Digital Applied"
       }
     ],
     "generation": {
@@ -3398,8 +3717,8 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "After Sora: Best AI Video Generators 2026",
-        "publisher": "Digital Applied",
-        "url": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo"
+        "url": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo",
+        "publisher": "Digital Applied"
       },
       {
         "title": "Runway Gen-4: AI Video Generation with World Consistency",
@@ -3855,13 +4174,13 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "After Sora: Best AI Video Generators 2026",
-        "publisher": "Digital Applied",
-        "url": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo"
+        "url": "https://www.digitalapplied.com/blog/after-sora-best-ai-video-generators-2026-runway-kling-veo",
+        "publisher": "Digital Applied"
       },
       {
         "title": "Replicate Blog",
-        "publisher": "Replicate",
-        "url": "https://replicate.com/blog"
+        "url": "https://replicate.com/blog",
+        "publisher": "Replicate"
       },
       {
         "title": "Seedance 1.0",
@@ -3872,6 +4191,16 @@ export const generatedArticles: Article[] = [
         "title": "Seedance 2.0",
         "url": "https://seed.bytedance.com/en/seedance2_0",
         "publisher": "ByteDance Seed"
+      },
+      {
+        "title": "Runway",
+        "url": "https://runwayml.com/research/introducing-runway-gen-4",
+        "publisher": "Runway"
+      },
+      {
+        "title": "Kling AI",
+        "url": "https://kling.ai/",
+        "publisher": "Kling AI"
       }
     ],
     "generation": {
@@ -4295,13 +4624,13 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "Best AI Image Generator 2026: Flux vs Midjourney vs Imagen",
-        "publisher": "Cliprise",
-        "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked"
+        "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+        "publisher": "Cliprise"
       },
       {
         "title": "The best open-source image generation model",
-        "publisher": "Baseten",
-        "url": "https://www.baseten.co/blog/the-best-open-source-image-generation-model/"
+        "url": "https://www.baseten.co/blog/the-best-open-source-image-generation-model/",
+        "publisher": "Baseten"
       }
     ],
     "generation": {
@@ -4732,18 +5061,18 @@ export const generatedArticles: Article[] = [
     "sources": [
       {
         "title": "Best AI Image Generator 2026: Flux vs Midjourney vs Imagen",
-        "publisher": "Cliprise",
-        "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked"
+        "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+        "publisher": "Cliprise"
       },
       {
         "title": "Choosing the Right AI Model for Image Generation",
-        "publisher": "MindStudio",
-        "url": "https://www.mindstudio.ai/blog/choosing-image-generation-model/"
+        "url": "https://www.mindstudio.ai/blog/choosing-image-generation-model/",
+        "publisher": "MindStudio"
       },
       {
         "title": "Adobe Firefly",
-        "publisher": "Adobe",
-        "url": "https://www.adobe.com/products/firefly.html"
+        "url": "https://www.adobe.com/products/firefly.html",
+        "publisher": "Adobe"
       }
     ],
     "generation": {
