@@ -18,14 +18,34 @@ function jsonl(rows: unknown[]) {
 }
 
 function articleText(article: Article) {
+  // Get highlights from either old (tldr) or new (highlights) format
+  const highlights = article.tldr?.join("\n") ?? article.highlights?.map(h => h.text).join("\n") ?? "";
+  // Get body from either old (bodyMarkdown) or new (sections) format
+  const body = article.bodyMarkdown ?? article.sections?.map(s =>
+    `## ${s.heading}\n${s.blocks.map(b => {
+      if (b.type === "paragraph") return b.text;
+      if (b.type === "list") return b.items.map(i => `- ${i}`).join("\n");
+      if (b.type === "callout") return `> **${b.title ?? ""}**: ${b.text}`;
+      if (b.type === "quote") return `> ${b.text}${b.attribution ? ` — ${b.attribution}` : ""}`;
+      if (b.type === "media") return `![${b.alt}](${b.src})${b.caption ? `\n*${b.caption}*` : ""}`;
+      return "";
+    }).join("\n\n")}`
+  ).join("\n\n") ?? "";
+  // Get insights from either old (whyItMatters) or new (insightBlocks) format
+  const insights = article.whyItMatters ?? article.insightBlocks?.map(i => `**${i.title}**: ${i.text}`).join("\n\n") ?? "";
+  // Get takeaway from either old or new format
+  const takeaway = article.creatorTakeaway ?? (article.takeaway 
+    ? [article.takeaway.title, article.takeaway.text, ...(article.takeaway.items ?? [])].filter(Boolean).join("\n")
+    : "");
+  
   return [
     article.title,
     article.subtitle,
-    article.tldr.join("\n"),
-    article.bodyMarkdown,
-    article.whyItMatters,
-    article.creatorTakeaway
-  ].join("\n\n");
+    highlights,
+    body,
+    insights,
+    takeaway
+  ].filter(Boolean).join("\n\n");
 }
 
 function agentDoc(article: Article) {
@@ -57,38 +77,75 @@ function chunksForArticle(article: Article): ArticleChunk[] {
     publishedAt: article.publishedAt
   };
 
-  return [
-    {
+  const chunks: ArticleChunk[] = [];
+
+  // Highlights (supports both old tldr and new highlights)
+  const highlights = article.tldr ?? article.highlights?.map(h => h.text) ?? [];
+  if (highlights.length > 0) {
+    chunks.push({
       ...base,
-      chunkId: `${article.id}_tldr`,
+      chunkId: `${article.id}_highlights`,
       section: "tldr",
-      text: article.tldr.join("\n")
-    },
-    {
+      text: highlights.join("\n")
+    });
+  }
+
+  // Body (supports both old bodyMarkdown and new sections)
+  const bodyText = article.bodyMarkdown ?? article.sections?.map(s =>
+    `## ${s.heading}\n${s.blocks.map(b => {
+      if (b.type === "paragraph") return b.text;
+      if (b.type === "list") return b.items.map(i => `- ${i}`).join("\n");
+      if (b.type === "callout") return `> **${b.title ?? ""}**: ${b.text}`;
+      if (b.type === "quote") return `> ${b.text}${b.attribution ? ` — ${b.attribution}` : ""}`;
+      if (b.type === "media") return `![${b.alt}](${b.src})${b.caption ? `\n*${b.caption}*` : ""}`;
+      return "";
+    }).join("\n\n")}`
+  ).join("\n\n") ?? "";
+  if (bodyText) {
+    chunks.push({
       ...base,
       chunkId: `${article.id}_body`,
       section: "body",
-      text: article.bodyMarkdown
-    },
-    {
+      text: bodyText
+    });
+  }
+
+  // Insights (supports both old whyItMatters and new insightBlocks)
+  const insightsText = article.whyItMatters ?? article.insightBlocks?.map(i => `**${i.title}**: ${i.text}`).join("\n\n") ?? "";
+  if (insightsText) {
+    chunks.push({
       ...base,
-      chunkId: `${article.id}_why`,
+      chunkId: `${article.id}_insights`,
       section: "whyItMatters",
-      text: article.whyItMatters
-    },
-    {
+      text: insightsText
+    });
+  }
+
+  // Takeaway (supports both formats)
+  const takeawayText = article.creatorTakeaway ?? (article.takeaway
+    ? [article.takeaway.title, article.takeaway.text, ...(article.takeaway.items ?? [])].filter(Boolean).join("\n")
+    : "");
+  if (takeawayText) {
+    chunks.push({
       ...base,
       chunkId: `${article.id}_takeaway`,
       section: "creatorTakeaway",
-      text: article.creatorTakeaway
-    },
-    {
+      text: takeawayText
+    });
+  }
+
+  // Sources
+  const sourcesText = article.sources.map((source) => `${source.sourceName ?? source.publisher ?? ""}: ${source.title} (${source.url})`).filter(Boolean).join("\n");
+  if (sourcesText) {
+    chunks.push({
       ...base,
       chunkId: `${article.id}_sources`,
       section: "sources",
-      text: article.sources.map((source) => `${source.sourceName}: ${source.title} (${source.url})`).join("\n")
-    }
-  ];
+      text: sourcesText
+    });
+  }
+
+  return chunks;
 }
 
 function promptWorkflows(lang: Lang) {
@@ -97,9 +154,9 @@ function promptWorkflows(lang: Lang) {
     .map((article) => ({
       workflow_id: article.id,
       lang: article.lang,
-      type: article.category === "prompt-image" ? "image" : "video",
+      type: article.category === "prompt-image" ? "image" as const : "video" as const,
       title: article.title,
-      summary: article.subtitle,
+      summary: article.subtitle ?? article.highlights?.map(h => h.text).join("; ") ?? "",
       tags: article.tags,
       canonical_url: `https://ai-radar.vercel.app/${article.lang}/${article.category}/${article.slug}`,
       source_urls: article.sources.map((source) => source.url)
@@ -108,23 +165,26 @@ function promptWorkflows(lang: Lang) {
 
 function sourceNotes() {
   return articles.flatMap((article) =>
-    article.sources.map((source, index) => ({
-      sourceId: `${article.id}_src_${index + 1}`,
-      sourceType: source.sourceType,
-      sourceName: source.sourceName,
-      url: source.url,
-      title: source.title,
-      publishedAt: article.publishedAt,
-      categoryHints: [article.category],
-      keyFacts: article.tldr,
-      claims: article.tldr.map((item) => ({
-        text: item,
-        confidence: article.generation.confidence,
-        evidence: source.url
-      })),
-      usableFor: article.category.startsWith("prompt-") ? ["article", "prompt-workflow"] : ["article", "trend"],
-      copyrightRisk: "low"
-    }))
+    article.sources.map((source, index) => {
+      const highlights = article.tldr ?? article.highlights?.map(h => h.text) ?? [];
+      return {
+        sourceId: `${article.id}_src_${index + 1}`,
+        sourceType: (source.sourceType || "other") as SourceType,
+        sourceName: source.sourceName ?? source.publisher ?? "",
+        url: source.url,
+        title: source.title,
+        publishedAt: article.publishedAt,
+        categoryHints: [article.category],
+        keyFacts: highlights,
+        claims: highlights.map((item) => ({
+          text: item,
+          confidence: article.generation.confidence,
+          evidence: source.url
+        })),
+        usableFor: article.category.startsWith("prompt-") ? ["article", "prompt-workflow"] as const : ["article", "trend"] as const,
+        copyrightRisk: "low" as Confidence
+      };
+    })
   );
 }
 

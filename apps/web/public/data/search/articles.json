@@ -300,12 +300,12 @@
     "url": "/en/prompt-video/shot-by-shot-video-prompts-for-a-short-ai-trailer"
   },
   {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-20_vi",
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-21_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/StableDiffusion, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
       "ai-agents",
@@ -313,49 +313,49 @@
       "anthropic",
       "developer-experience"
     ],
-    "publishedAt": "2026-05-20T14:14:02.237Z",
+    "publishedAt": "2026-05-21T04:23:24.351Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-20"
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-21"
   },
   {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-20_en",
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-21_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, r/StableDiffusion, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
       "ai-agents",
-      "llm-economics",
-      "interpretability",
-      "software-engineering"
+      "anthropic",
+      "gemini-3.5",
+      "compute-economics"
     ],
-    "publishedAt": "2026-05-20T14:15:43.698Z",
+    "publishedAt": "2026-05-21T04:23:52.495Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-20"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-21"
   },
   {
-    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20_vi",
+    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Video",
-      "Runway-AI",
-      "ComfyUI",
+      "RunwayAI",
       "FLUX",
-      "World-Models",
-      "AI-Upscaling"
+      "OpenWeights",
+      "ComfyUI",
+      "AI-Video",
+      "Hyperrealism"
     ],
-    "publishedAt": "2026-05-20T14:13:50.720Z",
+    "publishedAt": "2026-05-21T04:23:22.956Z",
     "readingTime": 4,
-    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-20"
+    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-21"
   },
   {
-    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-20_en",
+    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
@@ -363,125 +363,127 @@
     "subtitle": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
       "AI-Video",
+      "FLUX",
+      "Midjourney-V8",
+      "World-Simulators",
       "ComfyUI",
-      "RunwayML",
-      "Generative-AI",
-      "VFX-Pipeline"
+      "Hyper-Realism"
     ],
-    "publishedAt": "2026-05-20T14:16:14.110Z",
+    "publishedAt": "2026-05-21T04:23:47.350Z",
     "readingTime": 3,
-    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-20"
+    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-21"
   },
   {
-    "id": "cluster_ai-agentic_langchain-blog_2026-05-20_vi",
+    "id": "cluster_ai-agentic_google-i-o-gemini-spark-antigravity_2026-05-21_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "LangChain Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, Luma Labs Blog, Hugging Face Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Google I/O, Gemini Spark, Antigravity: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agents",
-      "langchain",
-      "agent-ops",
-      "llm-infrastructure",
-      "software-engineering"
+      "ai-agentic",
+      "google-io",
+      "gemini-spark",
+      "antigravity",
+      "llm-observability"
     ],
-    "publishedAt": "2026-05-20T14:13:53.206Z",
+    "publishedAt": "2026-05-21T04:23:14.157Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-05-20"
+    "url": "/vi/ai-agentic/google-i-o-gemini-spark-antigravity-goc-nhin-cho-creator-2026-05-21"
   },
   {
-    "id": "cluster_ai-agentic_langchain-blog_2026-05-20_en",
+    "id": "cluster_ai-agentic_google-i-o-gemini-spark-antigravity_2026-05-21_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "LangChain Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, Luma Labs Blog, Hugging Face Blog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "title": "Google I/O, Gemini Spark, Antigravity: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-agents",
-      "langchain",
+      "google-io",
+      "gemini-spark",
       "observability",
-      "agentic-workflows",
-      "software-engineering"
+      "enterprise-ai"
     ],
-    "publishedAt": "2026-05-20T14:15:52.888Z",
+    "publishedAt": "2026-05-21T04:23:37.218Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-05-20"
+    "url": "/en/ai-agentic/google-i-o-gemini-spark-antigravity-creator-and-builder-a-2026-05-21"
   },
   {
-    "id": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20_vi",
+    "id": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
-    "title": "Local I2V finally feels less like image wiggle and more like shot direction with LTX Director: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/StableDiffusion, r/comfyui, Pika Labs Blog, r/aivideo, Kling AI Blog, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "This kind of storyboard image combined with seedance is very useful for creat...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Pika Labs Blog, r/aivideo, Kling AI Blog, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "LTX-Director",
-      "I2V",
       "Storyboard",
-      "Cinematography"
+      "Seedance",
+      "Cinematography",
+      "Prompt-Engineering"
     ],
-    "publishedAt": "2026-05-20T14:14:49.239Z",
-    "readingTime": 4,
-    "url": "/vi/ai-video/local-i2v-finally-feels-less-like-image-wiggle-and-more-like-2026-05-20"
+    "publishedAt": "2026-05-21T04:23:27.900Z",
+    "readingTime": 5,
+    "url": "/vi/ai-video/this-kind-of-storyboard-image-combined-with-seedance-is-very-2026-05-21"
   },
   {
-    "id": "cluster_ai-video_local-i2v-finally-feels-less-like-image-wiggle-and-more-like-sho_2026-05-20_en",
+    "id": "cluster_ai-video_this-kind-of-storyboard-image-combined-with-seedance-is-very-use_2026-05-21_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
-    "title": "Local I2V finally feels less like image wiggle and more like shot direction with LTX Director: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/StableDiffusion, r/comfyui, Pika Labs Blog, r/aivideo, Kling AI Blog, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "title": "This kind of storyboard image combined with seedance is very useful for creat...: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/comfyui, Pika Labs Blog, r/aivideo, Kling AI Blog, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "LTX-Director",
-      "Kling-AI",
-      "I2V",
-      "AI-Production-Pipeline"
+      "ai-video",
+      "storyboarding",
+      "kling-ai",
+      "seedance",
+      "cinematography",
+      "comfyui"
     ],
-    "publishedAt": "2026-05-20T14:17:35.071Z",
+    "publishedAt": "2026-05-21T04:24:57.236Z",
     "readingTime": 4,
-    "url": "/en/ai-video/local-i2v-finally-feels-less-like-image-wiggle-and-more-like-2026-05-20"
+    "url": "/en/ai-video/this-kind-of-storyboard-image-combined-with-seedance-is-very-2026-05-21"
   },
   {
-    "id": "cluster_prompt-image_fairy-tales-in-chiaroscuro_2026-05-20_vi",
+    "id": "cluster_prompt-image_lithic-avant-garde_2026-05-21_vi",
     "lang": "vi",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Fairy tales in chiaroscuro: góc nhìn cho creator và builder",
+    "title": "Lithic Avant-Garde: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Art",
       "Midjourney",
-      "Chiaroscuro",
-      "Concept-Art",
-      "Visual-Storytelling"
+      "Lithic-Avant-Garde",
+      "Concept-Design",
+      "Prompt-Engineering"
     ],
-    "publishedAt": "2026-05-20T14:14:27.234Z",
-    "readingTime": 5,
-    "url": "/vi/prompt-image/fairy-tales-in-chiaroscuro-goc-nhin-cho-creator-va-builder-2026-05-20"
+    "publishedAt": "2026-05-21T04:23:10.529Z",
+    "readingTime": 4,
+    "url": "/vi/prompt-image/lithic-avant-garde-goc-nhin-cho-creator-va-builder-2026-05-21"
   },
   {
-    "id": "cluster_prompt-image_fairy-tales-in-chiaroscuro_2026-05-20_en",
+    "id": "cluster_prompt-image_lithic-avant-garde_2026-05-21_en",
     "lang": "en",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Fairy tales in chiaroscuro: creator and builder analysis",
+    "title": "Lithic Avant-Garde: creator and builder analysis",
     "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Art",
+      "AI-Fashion",
+      "Speculative-Design",
       "Midjourney",
-      "Chiaroscuro",
-      "Digital Storytelling",
-      "Dark Fantasy"
+      "Brutalism",
+      "Xeno-Aesthetics"
     ],
-    "publishedAt": "2026-05-20T14:16:19.476Z",
-    "readingTime": 4,
-    "url": "/en/prompt-image/fairy-tales-in-chiaroscuro-creator-and-builder-analysis-2026-05-20"
+    "publishedAt": "2026-05-21T04:23:33.851Z",
+    "readingTime": 3,
+    "url": "/en/prompt-image/lithic-avant-garde-creator-and-builder-analysis-2026-05-21"
   },
   {
-    "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20_vi",
+    "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-21_vi",
     "lang": "vi",
     "category": "prompt-video",
     "categoryLabel": "Prompt Video",
@@ -491,29 +493,29 @@
       "AI-Video",
       "Generative-AI",
       "Digital-Storytelling",
-      "4K-Production",
-      "Creative-Workflow"
+      "Cinematic-AI",
+      "The-Odyssey"
     ],
-    "publishedAt": "2026-05-20T14:15:04.583Z",
+    "publishedAt": "2026-05-21T04:22:57.047Z",
     "readingTime": 4,
-    "url": "/vi/prompt-video/the-odyssey-but-accurate-trailer-4k-goc-nhin-cho-creato-2026-05-20"
+    "url": "/vi/prompt-video/the-odyssey-but-accurate-trailer-4k-goc-nhin-cho-creato-2026-05-21"
   },
   {
-    "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-20_en",
+    "id": "cluster_prompt-video_the-odyssey-but-accurate-trailer-4k_2026-05-21_en",
     "lang": "en",
     "category": "prompt-video",
     "categoryLabel": "Prompt Video",
     "title": "The Odyssey (But Accurate) | Trailer 4K: creator and builder analysis",
     "subtitle": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Video",
-      "Generative Art",
-      "Prompt Engineering",
-      "Digital Humanities",
-      "4K Rendering"
+      "ai-video",
+      "cinematic-ai",
+      "prompt-engineering",
+      "digital-storytelling",
+      "vfx-disruption"
     ],
-    "publishedAt": "2026-05-20T14:16:39.735Z",
+    "publishedAt": "2026-05-21T04:23:18.041Z",
     "readingTime": 4,
-    "url": "/en/prompt-video/the-odyssey-but-accurate-trailer-4k-creator-and-builder-2026-05-20"
+    "url": "/en/prompt-video/the-odyssey-but-accurate-trailer-4k-creator-and-builder-2026-05-21"
   }
 ]
