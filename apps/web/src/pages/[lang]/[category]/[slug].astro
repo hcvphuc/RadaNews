@@ -85,17 +85,6 @@ function bgStyle(src: string | undefined): string {
     </header>
 
     <div class="article-layout">
-      <!-- Left: TOC -->
-      <aside class="toc thin-panel">
-        <strong>AI Radar</strong>
-        {sections.map((section: any) => (
-          <a href={"#" + section.id}>{section.heading}</a>
-        ))}
-        {insightBlocks.length > 0 && <a href="#insights">Phân tích</a>}
-        {takeaway && <a href="#takeaway">{takeaway.title || "Takeaway"}</a>}
-        <a href="#sources">Sources</a>
-      </aside>
-
       <!-- Center: Main content -->
       <div class="article-main">
 
@@ -310,7 +299,7 @@ function bgStyle(src: string | undefined): string {
   .article { padding: 72px 0 28px; }
   .article-layout {
     display: grid;
-    grid-template-columns: 200px minmax(0, 1fr) 300px;
+    grid-template-columns: minmax(0, 1fr) 300px;
     gap: 32px;
     align-items: start;
   }
@@ -454,13 +443,12 @@ function bgStyle(src: string | undefined): string {
 
   /* ── Responsive ── */
   @media (max-width: 1120px) {
-    .article-layout { grid-template-columns: 200px minmax(0, 1fr); }
+    .article-layout { grid-template-columns: minmax(0, 1fr); }
     .related-sidebar { display: none; }
     .carousel-track { grid-auto-columns: calc(33.33% - 11px); }
   }
   @media (max-width: 800px) {
     .article-layout { grid-template-columns: 1fr; }
-    .toc { position: static; display: flex; flex-wrap: wrap; }
     .related-sidebar { display: none; }
     .carousel-track { grid-auto-columns: calc(50% - 8px); }
   }
