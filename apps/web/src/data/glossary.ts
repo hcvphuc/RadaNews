@@ -58,6 +58,8 @@ export const glossaryCategories: GlossaryCategory[] = [
       { keyword: "Film Grain", vi: "Hạt nhiễu tự nhiên trên phim nhựa — mô phỏng bằng prompt để video AI trông giống phim quay thật hơn.", en: "Natural noise texture on film stock — simulated via prompts to make AI video look more like real footage." },
       { keyword: "Entropy (Prompt)", vi: "Mức độ 'nhiễu' trong prompt — prompt càng mơ hồ, entropy càng cao, kết quả AI càng khó đoán và generic.", en: "Level of 'noise' in a prompt — vaguer prompts have higher entropy, leading to more unpredictable and generic AI output." },
       { keyword: "Color Grading", vi: "Quá trình chỉnh màu hậu kỳ trong điện ảnh, thường dùng DaVinci Resolve — bước cuối cùng trước khi xuất phim.", en: "Post-production color adjustment process in cinema, typically using DaVinci Resolve — final step before export." },
+      { keyword: "Consistency", vi: "Tính nhất quán — khả năng giữ nguyên đặc điểm nhân vật, ánh sáng, phong cách qua nhiều shot khác nhau. Bài toán khó nhất của AI video.", en: "The ability to maintain character features, lighting, and style across multiple shots. The hardest problem in AI video." },
+      { keyword: "DaVinci Resolve", vi: "Phần mềm chỉnh màu và hậu kỳ video chuyên nghiệp, chuẩn công nghiệp trong điện ảnh và TV.", en: "Professional color grading and video post-production software, industry standard in film and TV." },
     ],
   },
 ];

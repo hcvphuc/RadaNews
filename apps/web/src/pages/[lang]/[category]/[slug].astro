@@ -41,9 +41,9 @@ function renderWithGlossary(text: string): string {
   const sorted = [...glossaryMap.entries()].sort((a, b) => b[0].length - a[0].length);
   let result = text;
   for (const [keyword, def] of sorted) {
-    // Only match whole words/phrases (surrounded by non-word chars or boundaries)
+    // Case-insensitive whole-word match
     const escaped = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const regex = new RegExp(`(?<!\\w)${escaped}(?!\\w)`, 'g');
+    const regex = new RegExp(`(?<!\\w)${escaped}(?!\\w)`, 'gi');
     result = result.replace(regex, `<abbr class="glossary-term" data-tip="${def.replace(/"/g, '&quot;')}">$&<sup class="glossary-icon">ⓘ</sup></abbr>`);
   }
   return result;
@@ -530,6 +530,50 @@ function bgStyle(src: string | undefined): string {
   .bookmark-button { color: var(--muted); border: 1px solid rgba(43, 46, 51, 0.7); background: rgba(24, 26, 29, 0.9); border-radius: 8px; padding: 6px 10px; cursor: pointer; transition: all 0.15s; }
   .bookmark-button:hover { color: #ffb347; border-color: rgba(255, 138, 0, 0.4); }
   [data-bookmarked="true"] .bookmark-button { color: #ff8a00; border-color: rgba(255, 138, 0, 0.55); background: rgba(255, 138, 0, 0.1); }
+
+  /* ── Glossary Tooltips ── */
+  abbr.glossary-term {
+    text-decoration: none !important;
+    position: relative;
+    cursor: help;
+    border-bottom: 1px dashed rgba(255, 179, 71, 0.4);
+  }
+  abbr.glossary-term sup.glossary-icon {
+    font-size: 0.65em;
+    color: #ffb347;
+    vertical-align: super;
+    margin-left: 1px;
+    font-style: normal;
+    font-weight: normal;
+  }
+  abbr.glossary-term::after {
+    content: attr(data-tip);
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(17, 18, 20, 0.97);
+    color: #d7d9de;
+    border: 1px solid rgba(43, 46, 51, 0.9);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 12px;
+    line-height: 1.45;
+    max-width: 300px;
+    width: max-content;
+    text-align: left;
+    font-weight: 400;
+    white-space: normal;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    z-index: 100;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+  }
+  abbr.glossary-term:hover::after,
+  abbr.glossary-term:focus::after {
+    opacity: 1;
+  }
 
   /* ── Responsive ── */
   @media (max-width: 1120px) {
