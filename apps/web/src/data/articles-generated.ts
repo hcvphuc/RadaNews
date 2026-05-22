@@ -1,145 +1,48 @@
-// Auto-generated from curated daily pipeline — do not edit manually
-// Generated at: 2026-05-22T00:02:11.548Z
+// Auto-generated from pipeline output — do not edit manually
+// Generated at: 2026-05-22T01:01:41.397Z
 import type { Article } from "@/lib/schema";
 
 export const generatedArticles: Article[] = [
   {
-    "id": "daily_agent-streams-langchain_2026-05-22_vi",
-    "slug": "agent-stream-la-lop-debug-moi-cua-workflow-ai-2026-05-22",
+    "id": "cluster_ai-agentic_langchain-blog_2026-05-22_vi",
+    "slug": "langchain-blog-goc-nhin-cho-creator-va-builder-2026-05-22",
     "lang": "vi",
     "category": "ai-agentic",
-    "title": "Agent stream là lớp debug mới của workflow AI",
-    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
+    "title": "LangChain Blog: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "readingTime": 2,
+    "sourceCount": 16,
     "tags": [
       "ai-agentic",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
-      "alt": "LangChain product and agent engineering visual",
-      "caption": "LangChain / LangSmith ecosystem visual",
-      "credit": "LangChain",
-      "sourceUrl": "https://blog.langchain.dev/"
+      "alt": "LangChain Blog: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
     },
     "highlights": [
       {
-        "text": "Tín hiệu mới không chỉ là model mạnh hơn, mà là workflow có thể debug và bàn giao."
+        "text": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!"
       },
       {
-        "text": "Media production cần source media thật, reference rõ và QC content-type, không dùng page URL giả làm ảnh."
+        "text": "Something went wrong while submitting the form."
       },
       {
-        "text": "Creator kiếm tiền tốt hơn khi bán quy trình có thể lặp lại, không bán prompt lẻ."
+        "text": "LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Bối cảnh: tín hiệu nóng trong 48 giờ",
+        "id": "main",
+        "heading": "Phân tích",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Hôm nay có một tín hiệu rõ: agent stream là lớp debug mới của workflow ai. Điểm đáng nói không phải là thêm một demo đẹp, mà là cách các team đang đóng gói AI thành workflow có thể debug, lặp lại và bàn giao. Nếu anh làm media, film, photo hoặc build tool nội bộ, đây là khác biệt giữa clip đẹp để khoe và pipeline có thể dùng cho job thật."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600",
-            "alt": "GitHub Copilot agentic coding visual",
-            "caption": "GitHub Copilot agentic coding visual",
-            "credit": "GitHub Blog",
-            "sourceUrl": "https://github.blog/tag/github-copilot/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Tôi nhìn chuyện này như một bài toán production",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Các nguồn hôm nay — LangChain Blog, LangChain Blog, Simon Willison, r/AI_Agents — cùng chỉ về một hướng: AI tool đang rời khỏi giai đoạn “gõ prompt rồi cầu may”. Với agent, đó là stream, sandbox, auth proxy và observability. Với hình/video, đó là reference, shot plan, motion sample và QC. Creator nào vẫn làm kiểu mỗi shot một prompt mới sẽ mất thời gian nhất."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Demo đơn lẻ",
-                "Dễ viral nhưng khó bàn giao cho team",
-                "Lưu prompt, source, media và seed/reference ngay từ vòng test"
-              ],
-              [
-                "Workflow có log",
-                "Debug được lỗi model, lỗi prompt, lỗi asset",
-                "Gắn mỗi output với nguồn và quyết định creative"
-              ],
-              [
-                "Stack nhiều công cụ",
-                "Tận dụng điểm mạnh từng model",
-                "Chia vai: ideation, render, upscale, continuity, QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Kỹ thuật đáng học: tách prompt khỏi workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Một prompt tốt chỉ mô tả ý định. Một workflow tốt mô tả luôn dữ liệu vào, công cụ nào xử lý bước nào, tiêu chí pass/fail, và cách quay lại khi output lệch. Vì vậy bài học thực dụng là: đừng chỉ lưu prompt cuối. Hãy lưu cả source URL, reference frame, version model, thông số render và ghi chú vì sao chọn output đó."
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Góc nhìn phản biện: đừng mua hype bằng mắt",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Điểm dễ bị lừa là xem từng model như cây đũa thần. Thực tế production ngược lại: model chỉ là một block. Phần sống còn là source, reference, eval, versioning, quyền truy cập và cách lưu quyết định sáng tạo. Không có những lớp này, prompt càng dài càng rối; output càng đẹp càng khó tái lập."
-          },
-          {
-            "type": "list",
-            "items": [
-              "Nếu media không có credit/sourceUrl: không dùng làm hero.",
-              "Nếu URL trả về text/html: đó là page, không phải ảnh/video.",
-              "Nếu workflow không tái lập được sau 24 giờ: nó chưa phải production.",
-              "Nếu không có bảng so sánh tool: team sẽ tranh luận bằng cảm tính."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Cơ hội cho creator/builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Cơ hội gần nhất không nằm ở việc chạy theo model mới nhất. Nó nằm ở việc đóng gói quy trình: audit workflow video AI, template prompt có reference, bộ test continuity, hoặc dashboard theo dõi agent. Khách hàng không mua “AI xịn”; họ mua thời gian tiết kiệm, rủi ro giảm và output có thể sửa được."
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Kết luận: chuẩn mới là có log, có nguồn, có QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Kết luận ngắn: bài nào, tool nào, model nào cũng phải đi qua cùng một bộ lọc. Có nguồn thật không? Có media thật không? Có lặp lại được không? Có ai ngoài người tạo prompt hiểu được pipeline không? Nếu câu trả lời là không, nó chỉ là demo. Nếu là có, nó bắt đầu trở thành tài sản sản xuất."
+            "text": "• LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n\n• Something went wrong while submitting the form.\n\n• LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
           }
         ]
       }
@@ -147,781 +50,331 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Vì sao đáng chú ý",
-        "text": "AI đang chuyển từ cuộc đua demo sang cuộc đua vận hành. Người thắng là người biến model thành pipeline có nguồn, log, media đúng chuẩn và QC lặp lại được.",
+        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Takeaway hành động",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Chọn một workflow đang tốn thời gian nhất và log lại từng bước.",
-        "Tách source media, prompt, reference và output thành bốn lớp riêng.",
-        "Dùng bảng so sánh tool trước khi đổi model.",
-        "Audit mọi media URL: chỉ image/* hoặc video/* mới đạt.",
-        "Đóng gói quy trình thành offer nhỏ để bán hoặc dùng nội bộ."
+        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+        "Thử nghiệm trên một workflow nhỏ trước khi scale",
+        "Theo dõi diễn biến trong 1-2 tuần tới"
       ]
     },
     "sources": [
       {
-        "title": "From Token Streams to Agent Streams",
+        "title": "LangChain Blog",
         "publisher": "LangChain Blog",
-        "url": "https://blog.langchain.dev/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "url": "https://blog.langchain.dev/rss/",
+        "publishedAt": "2026-05-22T01:01:34.427Z"
       },
       {
-        "title": "How Auth Proxy secures network access for LangSmith agent sandboxes",
-        "publisher": "LangChain Blog",
-        "url": "https://blog.langchain.dev/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "MCP Blog signal for ai-agentic",
+        "publisher": "MCP Blog",
+        "url": "https://modelcontextprotocol.io/blog",
+        "publishedAt": "2026-05-22T01:01:33.725Z"
+      },
+      {
+        "title": "Weekly Thread: Project Display",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
+        "publishedAt": "2026-05-20T16:00:22.000Z"
+      },
+      {
+        "title": "Weekly Hiring Thread",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+        "publishedAt": "2026-05-18T16:00:57.000Z"
+      },
+      {
+        "title": "how to stop building agents that users just ignore?",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tjxk58/how_to_stop_building_agents_that_users_just_ignore/",
+        "publishedAt": "2026-05-21T20:52:24.000Z"
+      },
+      {
+        "title": "I build AI agents for businesses, here’s what actually breaks first when they run 24/7",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/",
+        "publishedAt": "2026-05-21T22:52:46.000Z"
+      },
+      {
+        "title": "Proxy for LLMs to learn how Agents works?",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tjxo5q/proxy_for_llms_to_learn_how_agents_works/",
+        "publishedAt": "2026-05-21T20:56:30.000Z"
+      },
+      {
+        "title": "google omni vs LTX 2.3 (rtx 4060ti local)",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tk0h1g/google_omni_vs_ltx_23_rtx_4060ti_local/",
+        "publishedAt": "2026-05-21T22:43:22.000Z"
+      },
+      {
+        "title": "Gemma 4 + New ComfyUI Nodes That Make Prompting Easy! (Ep18)",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tjneuj/gemma_4_new_comfyui_nodes_that_make_prompting/",
+        "publishedAt": "2026-05-21T15:08:57.000Z"
+      },
+      {
+        "title": "News | Luma",
+        "publisher": "Luma Labs Blog",
+        "url": "https://lumalabs.ai/blog",
+        "publishedAt": "2026-05-22T01:01:35.147Z"
+      },
+      {
+        "title": "Hugging Face – Blog",
+        "publisher": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog",
+        "publishedAt": "2026-05-22T01:01:34.102Z"
+      },
+      {
+        "title": "datasette-agent-sprites 0.1a0",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+        "publishedAt": "2026-05-21T18:21:07.000Z"
+      },
+      {
+        "title": "datasette-agent-charts 0.1a2",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+        "publishedAt": "2026-05-21T15:15:58.000Z"
       },
       {
         "title": "datasette-agent 0.1a3",
-        "publisher": "Simon Willison",
+        "publisher": "Simon Willison's Weblog",
         "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-21T15:04:09.000Z"
       },
       {
-        "title": "Project Display and 24/7 agent discussions",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "Quoting SpaceX S-1",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+        "publishedAt": "2026-05-20T22:26:36.000Z"
+      },
+      {
+        "title": "Lil'Log",
+        "publisher": "Lil'Log",
+        "url": "https://lilianweng.github.io/",
+        "publishedAt": "2026-05-22T01:01:33.832Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_agent-streams-langchain_2026-05-22",
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-05-22T01:01:41.278Z",
+      "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "daily_agent-streams-langchain_2026-05-22_en",
-    "slug": "agent-streams-are-becoming-the-new-debug-layer-for-ai-workflows-2026-05-22",
+    "id": "cluster_ai-agentic_langchain-blog_2026-05-22_en",
+    "slug": "langchain-blog-creator-and-builder-analysis-2026-05-22",
     "lang": "en",
     "category": "ai-agentic",
-    "title": "Agent streams are becoming the new debug layer for AI workflows",
-    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
+    "title": "LangChain Blog: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "readingTime": 2,
+    "sourceCount": 16,
     "tags": [
       "ai-agentic",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
-      "alt": "LangChain product and agent engineering visual",
-      "caption": "LangChain / LangSmith ecosystem visual",
-      "credit": "LangChain",
-      "sourceUrl": "https://blog.langchain.dev/"
+      "alt": "LangChain Blog: creator and builder analysis",
+      "caption": "Signal synthesized from LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability."
     },
     "highlights": [
       {
-        "text": "The real signal is not just stronger models, but workflows that can be debugged and handed off."
+        "text": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!"
       },
       {
-        "text": "Media production needs real source media, clear references and content-type QC, not page URLs pretending to be images."
+        "text": "Something went wrong while submitting the form."
       },
       {
-        "text": "Creators monetize better by selling repeatable workflow, not isolated prompts."
+        "text": "LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Context: the 48-hour signal",
+        "id": "main",
+        "heading": "Analysis",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Today’s signal is clear: agent streams are becoming the new debug layer for ai workflows. The point is not another pretty demo, but the way teams are packaging AI into workflows that can be debugged, repeated and handed off. For media, film, photo and internal-tool builders, that is the gap between a nice clip and a production pipeline."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600",
-            "alt": "GitHub Copilot agentic coding visual",
-            "caption": "GitHub Copilot agentic coding visual",
-            "credit": "GitHub Blog",
-            "sourceUrl": "https://github.blog/tag/github-copilot/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Read it as a production problem",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Today’s sources — LangChain Blog, LangChain Blog, Simon Willison, r/AI_Agents — point in the same direction: AI tools are moving away from “type a prompt and pray”. For agents, that means streams, sandboxes, auth proxies and observability. For image/video, it means references, shot plans, motion samples and QC. Creators who still restart every shot from scratch will lose the most time."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Single demo",
-                "Easy to share, hard to hand off",
-                "Store prompt, source, media and seed/reference from test one"
-              ],
-              [
-                "Logged workflow",
-                "Debug model, prompt and asset failures",
-                "Attach every output to sources and creative decisions"
-              ],
-              [
-                "Multi-tool stack",
-                "Uses each model where it is strongest",
-                "Split roles: ideation, render, upscale, continuity and QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Technique: separate prompts from workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "A good prompt describes intent. A good workflow also describes input data, which tool handles which step, pass/fail criteria and how to recover when output drifts. The practical lesson: do not only save the final prompt. Save source URLs, reference frames, model versions, render parameters and the reason a specific output was chosen."
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Critical view: do not buy hype with your eyes",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The easy trap is treating each model as a magic wand. Production is the opposite: the model is only one block. The hard parts are sources, references, evals, versioning, access control and how creative decisions are stored. Without those layers, longer prompts create more noise and prettier outputs become harder to reproduce."
-          },
-          {
-            "type": "list",
-            "items": [
-              "If media has no credit/sourceUrl: do not use it as hero.",
-              "If a URL returns text/html: it is a page, not image/video media.",
-              "If a workflow cannot be repeated after 24 hours: it is not production.",
-              "If there is no tool comparison table: the team will argue by taste."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Opportunities for creators/builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The near-term opportunity is not chasing the newest model. It is packaging workflow: AI video audits, reference-based prompt templates, continuity test kits or dashboards for agents. Clients do not buy “better AI”; they buy saved time, lower risk and output that can be revised."
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Conclusion: the new standard is logs, sources and QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Short version: every article, tool and model must pass the same filter. Are there real sources? Real media? Can it be repeated? Can someone other than the prompt author understand the pipeline? If not, it is a demo. If yes, it starts becoming a production asset."
+            "text": "• LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n\n• Something went wrong while submitting the form.\n\n• LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
           }
         ]
       }
     ],
     "insightBlocks": [
       {
-        "title": "Why it matters",
-        "text": "AI is shifting from demo competition to operational competition. The winners turn models into pipelines with sources, logs, valid media and repeatable QC.",
+        "title": "Why This Matters",
+        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Action takeaway",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Pick the workflow that wastes the most time and log every step.",
-        "Separate source media, prompt, reference and output into four layers.",
-        "Use a tool comparison table before switching models.",
-        "Audit every media URL: only image/* or video/* passes.",
-        "Package the workflow into a small offer for clients or internal teams."
+        "Verify the source trail from listed sources",
+        "Test in one small workflow before scaling",
+        "Monitor developments over the next 1-2 weeks"
       ]
     },
     "sources": [
       {
-        "title": "From Token Streams to Agent Streams",
+        "title": "LangChain Blog",
         "publisher": "LangChain Blog",
-        "url": "https://blog.langchain.dev/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "url": "https://blog.langchain.dev/rss/",
+        "publishedAt": "2026-05-22T01:01:34.427Z"
       },
       {
-        "title": "How Auth Proxy secures network access for LangSmith agent sandboxes",
-        "publisher": "LangChain Blog",
-        "url": "https://blog.langchain.dev/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "MCP Blog signal for ai-agentic",
+        "publisher": "MCP Blog",
+        "url": "https://modelcontextprotocol.io/blog",
+        "publishedAt": "2026-05-22T01:01:33.725Z"
+      },
+      {
+        "title": "Weekly Thread: Project Display",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
+        "publishedAt": "2026-05-20T16:00:22.000Z"
+      },
+      {
+        "title": "Weekly Hiring Thread",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+        "publishedAt": "2026-05-18T16:00:57.000Z"
+      },
+      {
+        "title": "how to stop building agents that users just ignore?",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tjxk58/how_to_stop_building_agents_that_users_just_ignore/",
+        "publishedAt": "2026-05-21T20:52:24.000Z"
+      },
+      {
+        "title": "I build AI agents for businesses, here’s what actually breaks first when they run 24/7",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/",
+        "publishedAt": "2026-05-21T22:52:46.000Z"
+      },
+      {
+        "title": "Proxy for LLMs to learn how Agents works?",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tjxo5q/proxy_for_llms_to_learn_how_agents_works/",
+        "publishedAt": "2026-05-21T20:56:30.000Z"
+      },
+      {
+        "title": "google omni vs LTX 2.3 (rtx 4060ti local)",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tk0h1g/google_omni_vs_ltx_23_rtx_4060ti_local/",
+        "publishedAt": "2026-05-21T22:43:22.000Z"
+      },
+      {
+        "title": "Gemma 4 + New ComfyUI Nodes That Make Prompting Easy! (Ep18)",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tjneuj/gemma_4_new_comfyui_nodes_that_make_prompting/",
+        "publishedAt": "2026-05-21T15:08:57.000Z"
+      },
+      {
+        "title": "News | Luma",
+        "publisher": "Luma Labs Blog",
+        "url": "https://lumalabs.ai/blog",
+        "publishedAt": "2026-05-22T01:01:35.147Z"
+      },
+      {
+        "title": "Hugging Face – Blog",
+        "publisher": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog",
+        "publishedAt": "2026-05-22T01:01:34.102Z"
+      },
+      {
+        "title": "datasette-agent-sprites 0.1a0",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+        "publishedAt": "2026-05-21T18:21:07.000Z"
+      },
+      {
+        "title": "datasette-agent-charts 0.1a2",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+        "publishedAt": "2026-05-21T15:15:58.000Z"
       },
       {
         "title": "datasette-agent 0.1a3",
-        "publisher": "Simon Willison",
+        "publisher": "Simon Willison's Weblog",
         "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-21T15:04:09.000Z"
       },
       {
-        "title": "Project Display and 24/7 agent discussions",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "Quoting SpaceX S-1",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+        "publishedAt": "2026-05-20T22:26:36.000Z"
+      },
+      {
+        "title": "Lil'Log",
+        "publisher": "Lil'Log",
+        "url": "https://lilianweng.github.io/",
+        "publishedAt": "2026-05-22T01:01:33.832Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_agent-streams-langchain_2026-05-22",
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-05-22T01:01:41.279Z",
+      "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "daily_claude-coding-agents-compute_2026-05-22_vi",
-    "slug": "claude-coding-agent-va-bai-toan-compute-khong-con-la-chuyen-backend-2026-05-22",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "title": "Claude, coding agent và bài toán compute không còn là chuyện backend",
-    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal",
-      "production-workflow"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "alt": "Anthropic research visual",
-      "caption": "Anthropic research / Claude visual",
-      "credit": "Anthropic",
-      "sourceUrl": "https://www.anthropic.com/research"
-    },
-    "highlights": [
-      {
-        "text": "Tín hiệu mới không chỉ là model mạnh hơn, mà là workflow có thể debug và bàn giao."
-      },
-      {
-        "text": "Media production cần source media thật, reference rõ và QC content-type, không dùng page URL giả làm ảnh."
-      },
-      {
-        "text": "Creator kiếm tiền tốt hơn khi bán quy trình có thể lặp lại, không bán prompt lẻ."
-      }
-    ],
-    "sections": [
-      {
-        "id": "context",
-        "heading": "Bối cảnh: tín hiệu nóng trong 48 giờ",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Hôm nay có một tín hiệu rõ: claude, coding agent và bài toán compute không còn là chuyện backend. Điểm đáng nói không phải là thêm một demo đẹp, mà là cách các team đang đóng gói AI thành workflow có thể debug, lặp lại và bàn giao. Nếu anh làm media, film, photo hoặc build tool nội bộ, đây là khác biệt giữa clip đẹp để khoe và pipeline có thể dùng cho job thật."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600",
-            "alt": "GitHub Copilot agentic coding visual",
-            "caption": "GitHub Copilot agentic coding visual",
-            "credit": "GitHub Blog",
-            "sourceUrl": "https://github.blog/tag/github-copilot/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Tôi nhìn chuyện này như một bài toán production",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Các nguồn hôm nay — Anthropic, Anthropic, Anthropic, GitHub Blog — cùng chỉ về một hướng: AI tool đang rời khỏi giai đoạn “gõ prompt rồi cầu may”. Với agent, đó là stream, sandbox, auth proxy và observability. Với hình/video, đó là reference, shot plan, motion sample và QC. Creator nào vẫn làm kiểu mỗi shot một prompt mới sẽ mất thời gian nhất."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Demo đơn lẻ",
-                "Dễ viral nhưng khó bàn giao cho team",
-                "Lưu prompt, source, media và seed/reference ngay từ vòng test"
-              ],
-              [
-                "Workflow có log",
-                "Debug được lỗi model, lỗi prompt, lỗi asset",
-                "Gắn mỗi output với nguồn và quyết định creative"
-              ],
-              [
-                "Stack nhiều công cụ",
-                "Tận dụng điểm mạnh từng model",
-                "Chia vai: ideation, render, upscale, continuity, QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Kỹ thuật đáng học: tách prompt khỏi workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Một prompt tốt chỉ mô tả ý định. Một workflow tốt mô tả luôn dữ liệu vào, công cụ nào xử lý bước nào, tiêu chí pass/fail, và cách quay lại khi output lệch. Vì vậy bài học thực dụng là: đừng chỉ lưu prompt cuối. Hãy lưu cả source URL, reference frame, version model, thông số render và ghi chú vì sao chọn output đó."
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Góc nhìn phản biện: đừng mua hype bằng mắt",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Điểm dễ bị lừa là xem từng model như cây đũa thần. Thực tế production ngược lại: model chỉ là một block. Phần sống còn là source, reference, eval, versioning, quyền truy cập và cách lưu quyết định sáng tạo. Không có những lớp này, prompt càng dài càng rối; output càng đẹp càng khó tái lập."
-          },
-          {
-            "type": "list",
-            "items": [
-              "Nếu media không có credit/sourceUrl: không dùng làm hero.",
-              "Nếu URL trả về text/html: đó là page, không phải ảnh/video.",
-              "Nếu workflow không tái lập được sau 24 giờ: nó chưa phải production.",
-              "Nếu không có bảng so sánh tool: team sẽ tranh luận bằng cảm tính."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Cơ hội cho creator/builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Cơ hội gần nhất không nằm ở việc chạy theo model mới nhất. Nó nằm ở việc đóng gói quy trình: audit workflow video AI, template prompt có reference, bộ test continuity, hoặc dashboard theo dõi agent. Khách hàng không mua “AI xịn”; họ mua thời gian tiết kiệm, rủi ro giảm và output có thể sửa được."
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Kết luận: chuẩn mới là có log, có nguồn, có QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Kết luận ngắn: bài nào, tool nào, model nào cũng phải đi qua cùng một bộ lọc. Có nguồn thật không? Có media thật không? Có lặp lại được không? Có ai ngoài người tạo prompt hiểu được pipeline không? Nếu câu trả lời là không, nó chỉ là demo. Nếu là có, nó bắt đầu trở thành tài sản sản xuất."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "AI đang chuyển từ cuộc đua demo sang cuộc đua vận hành. Người thắng là người biến model thành pipeline có nguồn, log, media đúng chuẩn và QC lặp lại được.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Takeaway hành động",
-      "items": [
-        "Chọn một workflow đang tốn thời gian nhất và log lại từng bước.",
-        "Tách source media, prompt, reference và output thành bốn lớp riêng.",
-        "Dùng bảng so sánh tool trước khi đổi model.",
-        "Audit mọi media URL: chỉ image/* hoặc video/* mới đạt.",
-        "Đóng gói quy trình thành offer nhỏ để bán hoặc dùng nội bộ."
-      ]
-    },
-    "sources": [
-      {
-        "title": "Anthropic Research",
-        "publisher": "Anthropic",
-        "url": "https://www.anthropic.com/research",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-        "publisher": "Anthropic",
-        "url": "https://www.anthropic.com/news/higher-limits-spacex",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Introducing Claude Opus 4.7",
-        "publisher": "Anthropic",
-        "url": "https://www.anthropic.com/news/claude-opus-4-7",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "GitHub Copilot agentic coding updates",
-        "publisher": "GitHub Blog",
-        "url": "https://github.blog/tag/github-copilot/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      }
-    ],
-    "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_claude-coding-agents-compute_2026-05-22",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "daily_claude-coding-agents-compute_2026-05-22_en",
-    "slug": "claude-coding-agents-and-compute-are-no-longer-just-backend-concerns-2026-05-22",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "title": "Claude, coding agents and compute are no longer just backend concerns",
-    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal",
-      "production-workflow"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "alt": "Anthropic research visual",
-      "caption": "Anthropic research / Claude visual",
-      "credit": "Anthropic",
-      "sourceUrl": "https://www.anthropic.com/research"
-    },
-    "highlights": [
-      {
-        "text": "The real signal is not just stronger models, but workflows that can be debugged and handed off."
-      },
-      {
-        "text": "Media production needs real source media, clear references and content-type QC, not page URLs pretending to be images."
-      },
-      {
-        "text": "Creators monetize better by selling repeatable workflow, not isolated prompts."
-      }
-    ],
-    "sections": [
-      {
-        "id": "context",
-        "heading": "Context: the 48-hour signal",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Today’s signal is clear: claude, coding agents and compute are no longer just backend concerns. The point is not another pretty demo, but the way teams are packaging AI into workflows that can be debugged, repeated and handed off. For media, film, photo and internal-tool builders, that is the gap between a nice clip and a production pipeline."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://github.blog/wp-content/uploads/2026/04/image-19.png?w=1600",
-            "alt": "GitHub Copilot agentic coding visual",
-            "caption": "GitHub Copilot agentic coding visual",
-            "credit": "GitHub Blog",
-            "sourceUrl": "https://github.blog/tag/github-copilot/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Read it as a production problem",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Today’s sources — Anthropic, Anthropic, Anthropic, GitHub Blog — point in the same direction: AI tools are moving away from “type a prompt and pray”. For agents, that means streams, sandboxes, auth proxies and observability. For image/video, it means references, shot plans, motion samples and QC. Creators who still restart every shot from scratch will lose the most time."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Single demo",
-                "Easy to share, hard to hand off",
-                "Store prompt, source, media and seed/reference from test one"
-              ],
-              [
-                "Logged workflow",
-                "Debug model, prompt and asset failures",
-                "Attach every output to sources and creative decisions"
-              ],
-              [
-                "Multi-tool stack",
-                "Uses each model where it is strongest",
-                "Split roles: ideation, render, upscale, continuity and QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Technique: separate prompts from workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "A good prompt describes intent. A good workflow also describes input data, which tool handles which step, pass/fail criteria and how to recover when output drifts. The practical lesson: do not only save the final prompt. Save source URLs, reference frames, model versions, render parameters and the reason a specific output was chosen."
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Critical view: do not buy hype with your eyes",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The easy trap is treating each model as a magic wand. Production is the opposite: the model is only one block. The hard parts are sources, references, evals, versioning, access control and how creative decisions are stored. Without those layers, longer prompts create more noise and prettier outputs become harder to reproduce."
-          },
-          {
-            "type": "list",
-            "items": [
-              "If media has no credit/sourceUrl: do not use it as hero.",
-              "If a URL returns text/html: it is a page, not image/video media.",
-              "If a workflow cannot be repeated after 24 hours: it is not production.",
-              "If there is no tool comparison table: the team will argue by taste."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Opportunities for creators/builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The near-term opportunity is not chasing the newest model. It is packaging workflow: AI video audits, reference-based prompt templates, continuity test kits or dashboards for agents. Clients do not buy “better AI”; they buy saved time, lower risk and output that can be revised."
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Conclusion: the new standard is logs, sources and QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Short version: every article, tool and model must pass the same filter. Are there real sources? Real media? Can it be repeated? Can someone other than the prompt author understand the pipeline? If not, it is a demo. If yes, it starts becoming a production asset."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why it matters",
-        "text": "AI is shifting from demo competition to operational competition. The winners turn models into pipelines with sources, logs, valid media and repeatable QC.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Action takeaway",
-      "items": [
-        "Pick the workflow that wastes the most time and log every step.",
-        "Separate source media, prompt, reference and output into four layers.",
-        "Use a tool comparison table before switching models.",
-        "Audit every media URL: only image/* or video/* passes.",
-        "Package the workflow into a small offer for clients or internal teams."
-      ]
-    },
-    "sources": [
-      {
-        "title": "Anthropic Research",
-        "publisher": "Anthropic",
-        "url": "https://www.anthropic.com/research",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-        "publisher": "Anthropic",
-        "url": "https://www.anthropic.com/news/higher-limits-spacex",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Introducing Claude Opus 4.7",
-        "publisher": "Anthropic",
-        "url": "https://www.anthropic.com/news/claude-opus-4-7",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "GitHub Copilot agentic coding updates",
-        "publisher": "GitHub Blog",
-        "url": "https://github.blog/tag/github-copilot/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      }
-    ],
-    "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_claude-coding-agents-compute_2026-05-22",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "daily_runway-image-video-research-production_2026-05-22_vi",
-    "slug": "runway-reference-image-va-san-xuat-hinh-ep-thoi-chua-u-2026-05-22",
+    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22_vi",
+    "slug": "ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-22",
     "lang": "vi",
     "category": "ai-image",
-    "title": "Runway, reference image và sản xuất hình: đẹp thôi chưa đủ",
-    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
+    "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "readingTime": 1,
+    "sourceCount": 15,
     "tags": [
       "ai-image",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
-      "alt": "Runway AI research visual",
-      "caption": "Runway AI research and creative tooling visual",
-      "credit": "Runway",
-      "sourceUrl": "https://runwayml.com/research"
+      "alt": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
     },
     "highlights": [
       {
-        "text": "Tín hiệu mới không chỉ là model mạnh hơn, mà là workflow có thể debug và bàn giao."
+        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
       },
       {
-        "text": "Media production cần source media thật, reference rõ và QC content-type, không dùng page URL giả làm ảnh."
+        "text": "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image."
       },
       {
-        "text": "Creator kiếm tiền tốt hơn khi bán quy trình có thể lặp lại, không bán prompt lẻ."
+        "text": "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Bối cảnh: tín hiệu nóng trong 48 giờ",
+        "id": "main",
+        "heading": "Phân tích",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Hôm nay có một tín hiệu rõ: runway, reference image và sản xuất hình: đẹp thôi chưa đủ. Điểm đáng nói không phải là thêm một demo đẹp, mà là cách các team đang đóng gói AI thành workflow có thể debug, lặp lại và bàn giao. Nếu anh làm media, film, photo hoặc build tool nội bộ, đây là khác biệt giữa clip đẹp để khoe và pipeline có thể dùng cho job thật."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://www.cliprise.app/creatives/seo/cliprise-ai-image-enhancement-cat-before-after.jpg",
-            "alt": "AI image enhancement before after comparison",
-            "caption": "AI image enhancement comparison",
-            "credit": "Cliprise",
-            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Tôi nhìn chuyện này như một bài toán production",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Các nguồn hôm nay — Runway, Cliprise, Black Forest Labs, Replicate — cùng chỉ về một hướng: AI tool đang rời khỏi giai đoạn “gõ prompt rồi cầu may”. Với agent, đó là stream, sandbox, auth proxy và observability. Với hình/video, đó là reference, shot plan, motion sample và QC. Creator nào vẫn làm kiểu mỗi shot một prompt mới sẽ mất thời gian nhất."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Demo đơn lẻ",
-                "Dễ viral nhưng khó bàn giao cho team",
-                "Lưu prompt, source, media và seed/reference ngay từ vòng test"
-              ],
-              [
-                "Workflow có log",
-                "Debug được lỗi model, lỗi prompt, lỗi asset",
-                "Gắn mỗi output với nguồn và quyết định creative"
-              ],
-              [
-                "Stack nhiều công cụ",
-                "Tận dụng điểm mạnh từng model",
-                "Chia vai: ideation, render, upscale, continuity, QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Kỹ thuật đáng học: tách prompt khỏi workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Một prompt tốt chỉ mô tả ý định. Một workflow tốt mô tả luôn dữ liệu vào, công cụ nào xử lý bước nào, tiêu chí pass/fail, và cách quay lại khi output lệch. Vì vậy bài học thực dụng là: đừng chỉ lưu prompt cuối. Hãy lưu cả source URL, reference frame, version model, thông số render và ghi chú vì sao chọn output đó."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/RW_HEADER_V2-2.mp4",
-            "alt": "Runway product reel",
-            "caption": "Runway official product reel",
-            "credit": "Runway",
-            "sourceUrl": "https://runwayml.com/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Góc nhìn phản biện: đừng mua hype bằng mắt",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Điểm dễ bị lừa là xem từng model như cây đũa thần. Thực tế production ngược lại: model chỉ là một block. Phần sống còn là source, reference, eval, versioning, quyền truy cập và cách lưu quyết định sáng tạo. Không có những lớp này, prompt càng dài càng rối; output càng đẹp càng khó tái lập."
-          },
-          {
-            "type": "list",
-            "items": [
-              "Nếu media không có credit/sourceUrl: không dùng làm hero.",
-              "Nếu URL trả về text/html: đó là page, không phải ảnh/video.",
-              "Nếu workflow không tái lập được sau 24 giờ: nó chưa phải production.",
-              "Nếu không có bảng so sánh tool: team sẽ tranh luận bằng cảm tính."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Cơ hội cho creator/builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Cơ hội gần nhất không nằm ở việc chạy theo model mới nhất. Nó nằm ở việc đóng gói quy trình: audit workflow video AI, template prompt có reference, bộ test continuity, hoặc dashboard theo dõi agent. Khách hàng không mua “AI xịn”; họ mua thời gian tiết kiệm, rủi ro giảm và output có thể sửa được."
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Kết luận: chuẩn mới là có log, có nguồn, có QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Kết luận ngắn: bài nào, tool nào, model nào cũng phải đi qua cùng một bộ lọc. Có nguồn thật không? Có media thật không? Có lặp lại được không? Có ai ngoài người tạo prompt hiểu được pipeline không? Nếu câu trả lời là không, nó chỉ là demo. Nếu là có, nó bắt đầu trở thành tài sản sản xuất."
+            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image.\n\n• Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
           }
         ]
       }
@@ -929,415 +382,579 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Vì sao đáng chú ý",
-        "text": "AI đang chuyển từ cuộc đua demo sang cuộc đua vận hành. Người thắng là người biến model thành pipeline có nguồn, log, media đúng chuẩn và QC lặp lại được.",
+        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Takeaway hành động",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Chọn một workflow đang tốn thời gian nhất và log lại từng bước.",
-        "Tách source media, prompt, reference và output thành bốn lớp riêng.",
-        "Dùng bảng so sánh tool trước khi đổi model.",
-        "Audit mọi media URL: chỉ image/* hoặc video/* mới đạt.",
-        "Đóng gói quy trình thành offer nhỏ để bán hoặc dùng nội bộ."
+        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+        "Thử nghiệm trên một workflow nhỏ trước khi scale",
+        "Theo dõi diễn biến trong 1-2 tuần tới"
       ]
     },
     "sources": [
       {
-        "title": "AI Video Research & Innovation",
-        "publisher": "Runway",
-        "url": "https://runwayml.com/research",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "Stability AI Blog signal for ai-image",
+        "publisher": "Stability AI Blog",
+        "url": "https://stability.ai/news/rss",
+        "publishedAt": "2026-05-22T01:01:33.679Z"
       },
       {
-        "title": "Best AI image generator comparison",
-        "publisher": "Cliprise",
-        "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Black Forest Labs",
+        "title": "Blog | Black Forest Labs",
         "publisher": "Black Forest Labs",
-        "url": "https://bfl.ai/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "url": "https://blackforestlabs.ai/blog/",
+        "publishedAt": "2026-05-22T01:01:35.111Z"
       },
       {
-        "title": "Replicate model deployment notes",
-        "publisher": "Replicate",
+        "title": "Blog – Replicate",
+        "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-22T01:01:34.818Z"
+      },
+      {
+        "title": "Krea 2 will be open source.",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjnwgo/krea_2_will_be_open_source/",
+        "publishedAt": "2026-05-21T15:24:55.000Z"
+      },
+      {
+        "title": "Control FLUX.2 with reference images instead of training a LoRA — demo",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjqssg/control_flux2_with_reference_images_instead_of/",
+        "publishedAt": "2026-05-21T17:03:01.000Z"
+      },
+      {
+        "title": "As someone who can already run most of the larger models (RTX 5090) I'm extremely glad I gave Anima Base a chance",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjymfl/as_someone_who_can_already_run_most_of_the_larger/",
+        "publishedAt": "2026-05-21T21:31:50.000Z"
+      },
+      {
+        "title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post.",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjpb1u/flux_2_klein_destiled_my_workflow_following/",
+        "publishedAt": "2026-05-21T16:12:01.000Z"
+      },
+      {
+        "title": "SAM3 added to Comfyui-Angelo (sampler/inpainter/refiner)",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjp4ir/sam3_added_to_comfyuiangelo/",
+        "publishedAt": "2026-05-21T16:05:54.000Z"
+      },
+      {
+        "title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post.",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tji1c9/flux_2_klein_destiled_my_workflow_following/",
+        "publishedAt": "2026-05-21T11:47:50.000Z"
+      },
+      {
+        "title": "I wish they still made anime like this pt 2.",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tjja3y/i_wish_they_still_made_anime_like_this_pt_2/",
+        "publishedAt": "2026-05-21T12:39:56.000Z"
+      },
+      {
+        "title": "AI Video Research & Innovation | Runway AI",
+        "publisher": "Runway Research",
+        "url": "https://runwayml.com/research",
+        "publishedAt": "2026-05-22T01:01:33.471Z"
+      },
+      {
+        "title": "ComfyUI Blog | Robin | Substack",
+        "publisher": "ComfyUI Blog",
+        "url": "https://blog.comfy.org/",
+        "publishedAt": "2026-05-22T01:01:33.780Z"
+      },
+      {
+        "title": "V8.1 Alpha is out!",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "publishedAt": "2026-04-14T21:44:04.000Z"
+      },
+      {
+        "title": "V8 alpha is here!",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "publishedAt": "2026-03-17T21:39:40.000Z"
+      },
+      {
+        "title": "Probable changes to the subreddit",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
+        "publishedAt": "2022-09-26T20:55:02.000Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_runway-image-video-research-production_2026-05-22",
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-05-22T01:01:41.278Z",
+      "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "daily_runway-image-video-research-production_2026-05-22_en",
-    "slug": "runway-reference-images-and-image-production-pretty-is-not-enough-2026-05-22",
+    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22_en",
+    "slug": "ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-22",
     "lang": "en",
     "category": "ai-image",
-    "title": "Runway, reference images and image production: pretty is not enough",
-    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
+    "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
+    "subtitle": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "readingTime": 1,
+    "sourceCount": 15,
     "tags": [
       "ai-image",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
-      "alt": "Runway AI research visual",
-      "caption": "Runway AI research and creative tooling visual",
-      "credit": "Runway",
-      "sourceUrl": "https://runwayml.com/research"
+      "alt": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
+      "caption": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability."
     },
     "highlights": [
       {
-        "text": "The real signal is not just stronger models, but workflows that can be debugged and handed off."
+        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
       },
       {
-        "text": "Media production needs real source media, clear references and content-type QC, not page URLs pretending to be images."
+        "text": "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image."
       },
       {
-        "text": "Creators monetize better by selling repeatable workflow, not isolated prompts."
+        "text": "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Context: the 48-hour signal",
+        "id": "main",
+        "heading": "Analysis",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Today’s signal is clear: runway, reference images and image production: pretty is not enough. The point is not another pretty demo, but the way teams are packaging AI into workflows that can be debugged, repeated and handed off. For media, film, photo and internal-tool builders, that is the gap between a nice clip and a production pipeline."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://www.cliprise.app/creatives/seo/cliprise-ai-image-enhancement-cat-before-after.jpg",
-            "alt": "AI image enhancement before after comparison",
-            "caption": "AI image enhancement comparison",
-            "credit": "Cliprise",
-            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Read it as a production problem",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Today’s sources — Runway, Cliprise, Black Forest Labs, Replicate — point in the same direction: AI tools are moving away from “type a prompt and pray”. For agents, that means streams, sandboxes, auth proxies and observability. For image/video, it means references, shot plans, motion samples and QC. Creators who still restart every shot from scratch will lose the most time."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Single demo",
-                "Easy to share, hard to hand off",
-                "Store prompt, source, media and seed/reference from test one"
-              ],
-              [
-                "Logged workflow",
-                "Debug model, prompt and asset failures",
-                "Attach every output to sources and creative decisions"
-              ],
-              [
-                "Multi-tool stack",
-                "Uses each model where it is strongest",
-                "Split roles: ideation, render, upscale, continuity and QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Technique: separate prompts from workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "A good prompt describes intent. A good workflow also describes input data, which tool handles which step, pass/fail criteria and how to recover when output drifts. The practical lesson: do not only save the final prompt. Save source URLs, reference frames, model versions, render parameters and the reason a specific output was chosen."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/RW_HEADER_V2-2.mp4",
-            "alt": "Runway product reel",
-            "caption": "Runway official product reel",
-            "credit": "Runway",
-            "sourceUrl": "https://runwayml.com/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Critical view: do not buy hype with your eyes",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The easy trap is treating each model as a magic wand. Production is the opposite: the model is only one block. The hard parts are sources, references, evals, versioning, access control and how creative decisions are stored. Without those layers, longer prompts create more noise and prettier outputs become harder to reproduce."
-          },
-          {
-            "type": "list",
-            "items": [
-              "If media has no credit/sourceUrl: do not use it as hero.",
-              "If a URL returns text/html: it is a page, not image/video media.",
-              "If a workflow cannot be repeated after 24 hours: it is not production.",
-              "If there is no tool comparison table: the team will argue by taste."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Opportunities for creators/builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The near-term opportunity is not chasing the newest model. It is packaging workflow: AI video audits, reference-based prompt templates, continuity test kits or dashboards for agents. Clients do not buy “better AI”; they buy saved time, lower risk and output that can be revised."
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Conclusion: the new standard is logs, sources and QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Short version: every article, tool and model must pass the same filter. Are there real sources? Real media? Can it be repeated? Can someone other than the prompt author understand the pipeline? If not, it is a demo. If yes, it starts becoming a production asset."
+            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image.\n\n• Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
           }
         ]
       }
     ],
     "insightBlocks": [
       {
-        "title": "Why it matters",
-        "text": "AI is shifting from demo competition to operational competition. The winners turn models into pipelines with sources, logs, valid media and repeatable QC.",
+        "title": "Why This Matters",
+        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Action takeaway",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Pick the workflow that wastes the most time and log every step.",
-        "Separate source media, prompt, reference and output into four layers.",
-        "Use a tool comparison table before switching models.",
-        "Audit every media URL: only image/* or video/* passes.",
-        "Package the workflow into a small offer for clients or internal teams."
+        "Verify the source trail from listed sources",
+        "Test in one small workflow before scaling",
+        "Monitor developments over the next 1-2 weeks"
       ]
     },
     "sources": [
       {
-        "title": "AI Video Research & Innovation",
-        "publisher": "Runway",
-        "url": "https://runwayml.com/research",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "Stability AI Blog signal for ai-image",
+        "publisher": "Stability AI Blog",
+        "url": "https://stability.ai/news/rss",
+        "publishedAt": "2026-05-22T01:01:33.679Z"
       },
       {
-        "title": "Best AI image generator comparison",
-        "publisher": "Cliprise",
-        "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Black Forest Labs",
+        "title": "Blog | Black Forest Labs",
         "publisher": "Black Forest Labs",
-        "url": "https://bfl.ai/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "url": "https://blackforestlabs.ai/blog/",
+        "publishedAt": "2026-05-22T01:01:35.111Z"
       },
       {
-        "title": "Replicate model deployment notes",
-        "publisher": "Replicate",
+        "title": "Blog – Replicate",
+        "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-22T01:01:34.818Z"
+      },
+      {
+        "title": "Krea 2 will be open source.",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjnwgo/krea_2_will_be_open_source/",
+        "publishedAt": "2026-05-21T15:24:55.000Z"
+      },
+      {
+        "title": "Control FLUX.2 with reference images instead of training a LoRA — demo",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjqssg/control_flux2_with_reference_images_instead_of/",
+        "publishedAt": "2026-05-21T17:03:01.000Z"
+      },
+      {
+        "title": "As someone who can already run most of the larger models (RTX 5090) I'm extremely glad I gave Anima Base a chance",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjymfl/as_someone_who_can_already_run_most_of_the_larger/",
+        "publishedAt": "2026-05-21T21:31:50.000Z"
+      },
+      {
+        "title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post.",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjpb1u/flux_2_klein_destiled_my_workflow_following/",
+        "publishedAt": "2026-05-21T16:12:01.000Z"
+      },
+      {
+        "title": "SAM3 added to Comfyui-Angelo (sampler/inpainter/refiner)",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjp4ir/sam3_added_to_comfyuiangelo/",
+        "publishedAt": "2026-05-21T16:05:54.000Z"
+      },
+      {
+        "title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post.",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tji1c9/flux_2_klein_destiled_my_workflow_following/",
+        "publishedAt": "2026-05-21T11:47:50.000Z"
+      },
+      {
+        "title": "I wish they still made anime like this pt 2.",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tjja3y/i_wish_they_still_made_anime_like_this_pt_2/",
+        "publishedAt": "2026-05-21T12:39:56.000Z"
+      },
+      {
+        "title": "AI Video Research & Innovation | Runway AI",
+        "publisher": "Runway Research",
+        "url": "https://runwayml.com/research",
+        "publishedAt": "2026-05-22T01:01:33.471Z"
+      },
+      {
+        "title": "ComfyUI Blog | Robin | Substack",
+        "publisher": "ComfyUI Blog",
+        "url": "https://blog.comfy.org/",
+        "publishedAt": "2026-05-22T01:01:33.780Z"
+      },
+      {
+        "title": "V8.1 Alpha is out!",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "publishedAt": "2026-04-14T21:44:04.000Z"
+      },
+      {
+        "title": "V8 alpha is here!",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "publishedAt": "2026-03-17T21:39:40.000Z"
+      },
+      {
+        "title": "Probable changes to the subreddit",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
+        "publishedAt": "2022-09-26T20:55:02.000Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_runway-image-video-research-production_2026-05-22",
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-05-22T01:01:41.279Z",
+      "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "daily_kling-pika-veo-runway-video-stack_2026-05-22_vi",
-    "slug": "kling-pika-veo-runway-video-ai-ang-thanh-stack-san-xuat-2026-05-22",
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_vi",
+    "slug": "research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-22",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "readingTime": 1,
+    "sourceCount": 10,
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "alt": "Research \\ Anthropic: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
+    },
+    "highlights": [
+      {
+        "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
+      },
+      {
+        "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
+      },
+      {
+        "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+      }
+    ],
+    "sections": [
+      {
+        "id": "main",
+        "heading": "Phân tích",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Vì sao đáng chú ý",
+        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+        "Thử nghiệm trên một workflow nhỏ trước khi scale",
+        "Theo dõi diễn biến trong 1-2 tuần tới"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Research \\ Anthropic",
+        "publisher": "Anthropic Research",
+        "url": "https://www.anthropic.com/research",
+        "publishedAt": "2026-05-22T01:01:34.103Z"
+      },
+      {
+        "title": "OpenAI Blog signal for ai-agentic",
+        "publisher": "OpenAI Blog",
+        "url": "https://openai.com/blog",
+        "publishedAt": "2026-05-22T01:01:33.311Z"
+      },
+      {
+        "title": "This program needs its own police force.",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
+        "publishedAt": "2026-05-21T18:21:40.000Z"
+      },
+      {
+        "title": "What's New in Cursor — Latest Updates & Release Notes",
+        "publisher": "Cursor Changelog",
+        "url": "https://www.cursor.com/changelog",
+        "publishedAt": "2026-05-22T01:01:33.912Z"
+      },
+      {
+        "title": "GitHub Copilot Archives - The GitHub Blog",
+        "publisher": "GitHub Copilot Blog",
+        "url": "https://github.blog/tag/github-copilot/",
+        "publishedAt": "2026-05-22T01:01:33.676Z"
+      },
+      {
+        "title": "Vercel AI Blog signal for ai-vibe-coding",
+        "publisher": "Vercel AI Blog",
+        "url": "https://vercel.com/blog/ai",
+        "publishedAt": "2026-05-22T01:01:34.850Z"
+      },
+      {
+        "title": "Replit — Replit Blog – Product updates from the team",
+        "publisher": "Replit Blog",
+        "url": "https://blog.replit.com/",
+        "publishedAt": "2026-05-22T01:01:35.042Z"
+      },
+      {
+        "title": "Extensive list of generative tools curated by Eyal Gruss",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "publishedAt": "2021-01-22T08:37:47.000Z"
+      },
+      {
+        "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+        "publishedAt": "2026-05-19T23:53:07.000Z"
+      },
+      {
+        "title": "Datasette Agent",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+        "publishedAt": "2026-05-21T19:52:19.000Z"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-05-22T01:01:41.278Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_en",
+    "slug": "research-anthropic-creator-and-builder-analysis-2026-05-22",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "title": "Research \\ Anthropic: creator and builder analysis",
+    "subtitle": "Signal synthesized from Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "readingTime": 1,
+    "sourceCount": 10,
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "alt": "Research \\ Anthropic: creator and builder analysis",
+      "caption": "Signal synthesized from Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability."
+    },
+    "highlights": [
+      {
+        "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
+      },
+      {
+        "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
+      },
+      {
+        "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+      }
+    ],
+    "sections": [
+      {
+        "id": "main",
+        "heading": "Analysis",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Why This Matters",
+        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Verify the source trail from listed sources",
+        "Test in one small workflow before scaling",
+        "Monitor developments over the next 1-2 weeks"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Research \\ Anthropic",
+        "publisher": "Anthropic Research",
+        "url": "https://www.anthropic.com/research",
+        "publishedAt": "2026-05-22T01:01:34.103Z"
+      },
+      {
+        "title": "OpenAI Blog signal for ai-agentic",
+        "publisher": "OpenAI Blog",
+        "url": "https://openai.com/blog",
+        "publishedAt": "2026-05-22T01:01:33.311Z"
+      },
+      {
+        "title": "This program needs its own police force.",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
+        "publishedAt": "2026-05-21T18:21:40.000Z"
+      },
+      {
+        "title": "What's New in Cursor — Latest Updates & Release Notes",
+        "publisher": "Cursor Changelog",
+        "url": "https://www.cursor.com/changelog",
+        "publishedAt": "2026-05-22T01:01:33.912Z"
+      },
+      {
+        "title": "GitHub Copilot Archives - The GitHub Blog",
+        "publisher": "GitHub Copilot Blog",
+        "url": "https://github.blog/tag/github-copilot/",
+        "publishedAt": "2026-05-22T01:01:33.676Z"
+      },
+      {
+        "title": "Vercel AI Blog signal for ai-vibe-coding",
+        "publisher": "Vercel AI Blog",
+        "url": "https://vercel.com/blog/ai",
+        "publishedAt": "2026-05-22T01:01:34.850Z"
+      },
+      {
+        "title": "Replit — Replit Blog – Product updates from the team",
+        "publisher": "Replit Blog",
+        "url": "https://blog.replit.com/",
+        "publishedAt": "2026-05-22T01:01:35.042Z"
+      },
+      {
+        "title": "Extensive list of generative tools curated by Eyal Gruss",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "publishedAt": "2021-01-22T08:37:47.000Z"
+      },
+      {
+        "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+        "publishedAt": "2026-05-19T23:53:07.000Z"
+      },
+      {
+        "title": "Datasette Agent",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+        "publishedAt": "2026-05-21T19:52:19.000Z"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-05-22T01:01:41.279Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-video_kling-ai_2026-05-22_vi",
+    "slug": "kling-ai-goc-nhin-cho-creator-va-builder-2026-05-22",
     "lang": "vi",
     "category": "ai-video",
-    "title": "Kling, Pika, Veo, Runway: video AI đang thành stack sản xuất",
-    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
+    "title": "Kling AI: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "readingTime": 1,
+    "sourceCount": 6,
     "tags": [
       "ai-video",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg",
-      "alt": "Pika AI video product visual",
-      "caption": "Pika AI video product visual",
-      "credit": "Pika",
-      "sourceUrl": "https://pika.art/blog"
+      "alt": "Kling AI: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
     },
     "highlights": [
       {
-        "text": "Tín hiệu mới không chỉ là model mạnh hơn, mà là workflow có thể debug và bàn giao."
+        "text": "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us."
       },
       {
-        "text": "Media production cần source media thật, reference rõ và QC content-type, không dùng page URL giả làm ảnh."
+        "text": "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen."
       },
       {
-        "text": "Creator kiếm tiền tốt hơn khi bán quy trình có thể lặp lại, không bán prompt lẻ."
+        "text": "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Bối cảnh: tín hiệu nóng trong 48 giờ",
+        "id": "main",
+        "heading": "Phân tích",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Hôm nay có một tín hiệu rõ: kling, pika, veo, runway: video ai đang thành stack sản xuất. Điểm đáng nói không phải là thêm một demo đẹp, mà là cách các team đang đóng gói AI thành workflow có thể debug, lặp lại và bàn giao. Nếu anh làm media, film, photo hoặc build tool nội bộ, đây là khác biệt giữa clip đẹp để khoe và pipeline có thể dùng cho job thật."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page1-v3-1.mp4",
-            "alt": "Kling AI video motion sample",
-            "caption": "Kling official motion sample",
-            "credit": "Kling AI",
-            "sourceUrl": "https://klingai.com/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Tôi nhìn chuyện này như một bài toán production",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Các nguồn hôm nay — Pika, Kling AI, Google DeepMind, Runway — cùng chỉ về một hướng: AI tool đang rời khỏi giai đoạn “gõ prompt rồi cầu may”. Với agent, đó là stream, sandbox, auth proxy và observability. Với hình/video, đó là reference, shot plan, motion sample và QC. Creator nào vẫn làm kiểu mỗi shot một prompt mới sẽ mất thời gian nhất."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Demo đơn lẻ",
-                "Dễ viral nhưng khó bàn giao cho team",
-                "Lưu prompt, source, media và seed/reference ngay từ vòng test"
-              ],
-              [
-                "Workflow có log",
-                "Debug được lỗi model, lỗi prompt, lỗi asset",
-                "Gắn mỗi output với nguồn và quyết định creative"
-              ],
-              [
-                "Stack nhiều công cụ",
-                "Tận dụng điểm mạnh từng model",
-                "Chia vai: ideation, render, upscale, continuity, QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Kỹ thuật đáng học: tách prompt khỏi workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Một prompt tốt chỉ mô tả ý định. Một workflow tốt mô tả luôn dữ liệu vào, công cụ nào xử lý bước nào, tiêu chí pass/fail, và cách quay lại khi output lệch. Vì vậy bài học thực dụng là: đừng chỉ lưu prompt cuối. Hãy lưu cả source URL, reference frame, version model, thông số render và ghi chú vì sao chọn output đó."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4",
-            "alt": "Google DeepMind Veo off-road sample",
-            "caption": "Veo official video sample",
-            "credit": "Google DeepMind",
-            "sourceUrl": "https://deepmind.google/models/veo/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Góc nhìn phản biện: đừng mua hype bằng mắt",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Điểm dễ bị lừa là xem từng model như cây đũa thần. Thực tế production ngược lại: model chỉ là một block. Phần sống còn là source, reference, eval, versioning, quyền truy cập và cách lưu quyết định sáng tạo. Không có những lớp này, prompt càng dài càng rối; output càng đẹp càng khó tái lập."
-          },
-          {
-            "type": "list",
-            "items": [
-              "Nếu media không có credit/sourceUrl: không dùng làm hero.",
-              "Nếu URL trả về text/html: đó là page, không phải ảnh/video.",
-              "Nếu workflow không tái lập được sau 24 giờ: nó chưa phải production.",
-              "Nếu không có bảng so sánh tool: team sẽ tranh luận bằng cảm tính."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Cơ hội cho creator/builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Cơ hội gần nhất không nằm ở việc chạy theo model mới nhất. Nó nằm ở việc đóng gói quy trình: audit workflow video AI, template prompt có reference, bộ test continuity, hoặc dashboard theo dõi agent. Khách hàng không mua “AI xịn”; họ mua thời gian tiết kiệm, rủi ro giảm và output có thể sửa được."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/RW_HEADER_V2-2.mp4",
-            "alt": "Runway product reel",
-            "caption": "Runway official product reel",
-            "credit": "Runway",
-            "sourceUrl": "https://runwayml.com/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Kết luận: chuẩn mới là có log, có nguồn, có QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Kết luận ngắn: bài nào, tool nào, model nào cũng phải đi qua cùng một bộ lọc. Có nguồn thật không? Có media thật không? Có lặp lại được không? Có ai ngoài người tạo prompt hiểu được pipeline không? Nếu câu trả lời là không, nó chỉ là demo. Nếu là có, nó bắt đầu trở thành tài sản sản xuất."
+            "text": "• Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.\n\n• It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.\n\n• But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
           }
         ]
       }
@@ -1345,405 +962,211 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Vì sao đáng chú ý",
-        "text": "AI đang chuyển từ cuộc đua demo sang cuộc đua vận hành. Người thắng là người biến model thành pipeline có nguồn, log, media đúng chuẩn và QC lặp lại được.",
+        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Takeaway hành động",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Chọn một workflow đang tốn thời gian nhất và log lại từng bước.",
-        "Tách source media, prompt, reference và output thành bốn lớp riêng.",
-        "Dùng bảng so sánh tool trước khi đổi model.",
-        "Audit mọi media URL: chỉ image/* hoặc video/* mới đạt.",
-        "Đóng gói quy trình thành offer nhỏ để bán hoặc dùng nội bộ."
+        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+        "Thử nghiệm trên một workflow nhỏ trước khi scale",
+        "Theo dõi diễn biến trong 1-2 tuần tới"
       ]
     },
     "sources": [
       {
-        "title": "Pika Blog",
-        "publisher": "Pika",
+        "title": "Pika blog",
+        "publisher": "Pika Labs Blog",
         "url": "https://pika.art/blog",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-22T01:01:33.891Z"
+      },
+      {
+        "title": "Featured Titles + Latest Releases",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
+        "publishedAt": "2026-05-13T06:38:36.000Z"
+      },
+      {
+        "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "publishedAt": "2026-01-15T08:28:02.000Z"
+      },
+      {
+        "title": "Lingerie photoshoot",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tjq72c/lingerie_photoshoot/",
+        "publishedAt": "2026-05-21T16:42:34.000Z"
+      },
+      {
+        "title": "Time Keeps Ticking",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tjlo7s/time_keeps_ticking/",
+        "publishedAt": "2026-05-21T14:09:06.000Z"
       },
       {
         "title": "Kling AI",
-        "publisher": "Kling AI",
-        "url": "https://klingai.com/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Veo",
-        "publisher": "Google DeepMind",
-        "url": "https://deepmind.google/models/veo/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Runway",
-        "publisher": "Runway",
-        "url": "https://runwayml.com/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publisher": "Kling AI Blog",
+        "url": "https://klingai.com/blog",
+        "publishedAt": "2026-05-22T01:01:34.799Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_kling-pika-veo-runway-video-stack_2026-05-22",
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-05-22T01:01:41.278Z",
+      "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "daily_kling-pika-veo-runway-video-stack_2026-05-22_en",
-    "slug": "kling-pika-veo-and-runway-are-turning-ai-video-into-a-production-stack-2026-05-22",
+    "id": "cluster_ai-video_kling-ai_2026-05-22_en",
+    "slug": "kling-ai-creator-and-builder-analysis-2026-05-22",
     "lang": "en",
     "category": "ai-video",
-    "title": "Kling, Pika, Veo and Runway are turning AI video into a production stack",
-    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
+    "title": "Kling AI: creator and builder analysis",
+    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "readingTime": 1,
+    "sourceCount": 6,
     "tags": [
       "ai-video",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg",
-      "alt": "Pika AI video product visual",
-      "caption": "Pika AI video product visual",
-      "credit": "Pika",
-      "sourceUrl": "https://pika.art/blog"
+      "alt": "Kling AI: creator and builder analysis",
+      "caption": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability."
     },
     "highlights": [
       {
-        "text": "The real signal is not just stronger models, but workflows that can be debugged and handed off."
+        "text": "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us."
       },
       {
-        "text": "Media production needs real source media, clear references and content-type QC, not page URLs pretending to be images."
+        "text": "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen."
       },
       {
-        "text": "Creators monetize better by selling repeatable workflow, not isolated prompts."
+        "text": "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Context: the 48-hour signal",
+        "id": "main",
+        "heading": "Analysis",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Today’s signal is clear: kling, pika, veo and runway are turning ai video into a production stack. The point is not another pretty demo, but the way teams are packaging AI into workflows that can be debugged, repeated and handed off. For media, film, photo and internal-tool builders, that is the gap between a nice clip and a production pipeline."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page1-v3-1.mp4",
-            "alt": "Kling AI video motion sample",
-            "caption": "Kling official motion sample",
-            "credit": "Kling AI",
-            "sourceUrl": "https://klingai.com/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Read it as a production problem",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Today’s sources — Pika, Kling AI, Google DeepMind, Runway — point in the same direction: AI tools are moving away from “type a prompt and pray”. For agents, that means streams, sandboxes, auth proxies and observability. For image/video, it means references, shot plans, motion samples and QC. Creators who still restart every shot from scratch will lose the most time."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Single demo",
-                "Easy to share, hard to hand off",
-                "Store prompt, source, media and seed/reference from test one"
-              ],
-              [
-                "Logged workflow",
-                "Debug model, prompt and asset failures",
-                "Attach every output to sources and creative decisions"
-              ],
-              [
-                "Multi-tool stack",
-                "Uses each model where it is strongest",
-                "Split roles: ideation, render, upscale, continuity and QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Technique: separate prompts from workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "A good prompt describes intent. A good workflow also describes input data, which tool handles which step, pass/fail criteria and how to recover when output drifts. The practical lesson: do not only save the final prompt. Save source URLs, reference frames, model versions, render parameters and the reason a specific output was chosen."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4",
-            "alt": "Google DeepMind Veo off-road sample",
-            "caption": "Veo official video sample",
-            "credit": "Google DeepMind",
-            "sourceUrl": "https://deepmind.google/models/veo/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Critical view: do not buy hype with your eyes",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The easy trap is treating each model as a magic wand. Production is the opposite: the model is only one block. The hard parts are sources, references, evals, versioning, access control and how creative decisions are stored. Without those layers, longer prompts create more noise and prettier outputs become harder to reproduce."
-          },
-          {
-            "type": "list",
-            "items": [
-              "If media has no credit/sourceUrl: do not use it as hero.",
-              "If a URL returns text/html: it is a page, not image/video media.",
-              "If a workflow cannot be repeated after 24 hours: it is not production.",
-              "If there is no tool comparison table: the team will argue by taste."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Opportunities for creators/builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The near-term opportunity is not chasing the newest model. It is packaging workflow: AI video audits, reference-based prompt templates, continuity test kits or dashboards for agents. Clients do not buy “better AI”; they buy saved time, lower risk and output that can be revised."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/RW_HEADER_V2-2.mp4",
-            "alt": "Runway product reel",
-            "caption": "Runway official product reel",
-            "credit": "Runway",
-            "sourceUrl": "https://runwayml.com/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Conclusion: the new standard is logs, sources and QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Short version: every article, tool and model must pass the same filter. Are there real sources? Real media? Can it be repeated? Can someone other than the prompt author understand the pipeline? If not, it is a demo. If yes, it starts becoming a production asset."
+            "text": "• Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.\n\n• It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.\n\n• But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
           }
         ]
       }
     ],
     "insightBlocks": [
       {
-        "title": "Why it matters",
-        "text": "AI is shifting from demo competition to operational competition. The winners turn models into pipelines with sources, logs, valid media and repeatable QC.",
+        "title": "Why This Matters",
+        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Action takeaway",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Pick the workflow that wastes the most time and log every step.",
-        "Separate source media, prompt, reference and output into four layers.",
-        "Use a tool comparison table before switching models.",
-        "Audit every media URL: only image/* or video/* passes.",
-        "Package the workflow into a small offer for clients or internal teams."
+        "Verify the source trail from listed sources",
+        "Test in one small workflow before scaling",
+        "Monitor developments over the next 1-2 weeks"
       ]
     },
     "sources": [
       {
-        "title": "Pika Blog",
-        "publisher": "Pika",
+        "title": "Pika blog",
+        "publisher": "Pika Labs Blog",
         "url": "https://pika.art/blog",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-22T01:01:33.891Z"
+      },
+      {
+        "title": "Featured Titles + Latest Releases",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
+        "publishedAt": "2026-05-13T06:38:36.000Z"
+      },
+      {
+        "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "publishedAt": "2026-01-15T08:28:02.000Z"
+      },
+      {
+        "title": "Lingerie photoshoot",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tjq72c/lingerie_photoshoot/",
+        "publishedAt": "2026-05-21T16:42:34.000Z"
+      },
+      {
+        "title": "Time Keeps Ticking",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tjlo7s/time_keeps_ticking/",
+        "publishedAt": "2026-05-21T14:09:06.000Z"
       },
       {
         "title": "Kling AI",
-        "publisher": "Kling AI",
-        "url": "https://klingai.com/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Veo",
-        "publisher": "Google DeepMind",
-        "url": "https://deepmind.google/models/veo/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Runway",
-        "publisher": "Runway",
-        "url": "https://runwayml.com/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publisher": "Kling AI Blog",
+        "url": "https://klingai.com/blog",
+        "publishedAt": "2026-05-22T01:01:34.799Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_kling-pika-veo-runway-video-stack_2026-05-22",
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-05-22T01:01:41.279Z",
+      "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "daily_victorian-xenobotany-prompt-image_2026-05-22_vi",
-    "slug": "prompt-image-kieu-victorian-xenobotany-art-direction-thang-prompt-dai-2026-05-22",
+    "id": "cluster_prompt-image_victorian-xenobotany_2026-05-22_vi",
+    "slug": "victorian-xenobotany-goc-nhin-cho-creator-va-builder-2026-05-22",
     "lang": "vi",
     "category": "prompt-image",
-    "title": "Prompt image kiểu Victorian xenobotany: art direction thắng prompt dài",
-    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
+    "title": "Victorian xenobotany: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "readingTime": 1,
     "sourceCount": 3,
     "tags": [
       "prompt-image",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://preview.redd.it/5vviurrbjh2h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=deb7d02d32a664e1b7a8c6771193448098c76262",
-      "alt": "Victorian xenobotany prompt image from Reddit preview",
-      "caption": "Prompt image reference from r/midjourney discussion",
-      "credit": "u/Nocturnal Land on r/midjourney",
-      "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tjzpcn/nocturnal_land_134/"
+      "src": "https://preview.redd.it/5vviurrbjh2h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=deb7d02d32a664e1b7a8c6771193448098c76262",
+      "alt": "Victorian xenobotany: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
     },
     "highlights": [
       {
-        "text": "Tín hiệu mới không chỉ là model mạnh hơn, mà là workflow có thể debug và bàn giao."
+        "text": "Summary: submitted by /u/Slave_Human [link] [comments]"
       },
       {
-        "text": "Media production cần source media thật, reference rõ và QC content-type, không dùng page URL giả làm ảnh."
+        "text": "Top comments:\nThe second one is Ajani, from MTG."
       },
       {
-        "text": "Creator kiếm tiền tốt hơn khi bán quy trình có thể lặp lại, không bán prompt lẻ."
+        "text": "Also no one is worried about massacre girl just hanging out at the bar in pic 3?"
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Bối cảnh: tín hiệu nóng trong 48 giờ",
+        "id": "main",
+        "heading": "Phân tích",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Hôm nay có một tín hiệu rõ: prompt image kiểu victorian xenobotany: art direction thắng prompt dài. Điểm đáng nói không phải là thêm một demo đẹp, mà là cách các team đang đóng gói AI thành workflow có thể debug, lặp lại và bàn giao. Nếu anh làm media, film, photo hoặc build tool nội bộ, đây là khác biệt giữa clip đẹp để khoe và pipeline có thể dùng cho job thật."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://www.cliprise.app/creatives/seo/cliprise-ai-image-enhancement-cat-before-after.jpg",
-            "alt": "AI image enhancement before after comparison",
-            "caption": "AI image enhancement comparison",
-            "credit": "Cliprise",
-            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Tôi nhìn chuyện này như một bài toán production",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Các nguồn hôm nay — r/midjourney, r/midjourney, Cliprise — cùng chỉ về một hướng: AI tool đang rời khỏi giai đoạn “gõ prompt rồi cầu may”. Với agent, đó là stream, sandbox, auth proxy và observability. Với hình/video, đó là reference, shot plan, motion sample và QC. Creator nào vẫn làm kiểu mỗi shot một prompt mới sẽ mất thời gian nhất."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Demo đơn lẻ",
-                "Dễ viral nhưng khó bàn giao cho team",
-                "Lưu prompt, source, media và seed/reference ngay từ vòng test"
-              ],
-              [
-                "Workflow có log",
-                "Debug được lỗi model, lỗi prompt, lỗi asset",
-                "Gắn mỗi output với nguồn và quyết định creative"
-              ],
-              [
-                "Stack nhiều công cụ",
-                "Tận dụng điểm mạnh từng model",
-                "Chia vai: ideation, render, upscale, continuity, QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Kỹ thuật đáng học: tách prompt khỏi workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Một prompt tốt chỉ mô tả ý định. Một workflow tốt mô tả luôn dữ liệu vào, công cụ nào xử lý bước nào, tiêu chí pass/fail, và cách quay lại khi output lệch. Vì vậy bài học thực dụng là: đừng chỉ lưu prompt cuối. Hãy lưu cả source URL, reference frame, version model, thông số render và ghi chú vì sao chọn output đó."
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Góc nhìn phản biện: đừng mua hype bằng mắt",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Điểm dễ bị lừa là xem từng model như cây đũa thần. Thực tế production ngược lại: model chỉ là một block. Phần sống còn là source, reference, eval, versioning, quyền truy cập và cách lưu quyết định sáng tạo. Không có những lớp này, prompt càng dài càng rối; output càng đẹp càng khó tái lập."
-          },
-          {
-            "type": "list",
-            "items": [
-              "Nếu media không có credit/sourceUrl: không dùng làm hero.",
-              "Nếu URL trả về text/html: đó là page, không phải ảnh/video.",
-              "Nếu workflow không tái lập được sau 24 giờ: nó chưa phải production.",
-              "Nếu không có bảng so sánh tool: team sẽ tranh luận bằng cảm tính."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Cơ hội cho creator/builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Cơ hội gần nhất không nằm ở việc chạy theo model mới nhất. Nó nằm ở việc đóng gói quy trình: audit workflow video AI, template prompt có reference, bộ test continuity, hoặc dashboard theo dõi agent. Khách hàng không mua “AI xịn”; họ mua thời gian tiết kiệm, rủi ro giảm và output có thể sửa được."
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Kết luận: chuẩn mới là có log, có nguồn, có QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Kết luận ngắn: bài nào, tool nào, model nào cũng phải đi qua cùng một bộ lọc. Có nguồn thật không? Có media thật không? Có lặp lại được không? Có ai ngoài người tạo prompt hiểu được pipeline không? Nếu câu trả lời là không, nó chỉ là demo. Nếu là có, nó bắt đầu trở thành tài sản sản xuất."
+            "text": "• Summary: submitted by /u/Slave_Human [link] [comments]\n\n• Top comments:\nThe second one is Ajani, from MTG.\n\n• Also no one is worried about massacre girl just hanging out at the bar in pic 3?"
           }
         ]
       }
@@ -1751,393 +1174,175 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Vì sao đáng chú ý",
-        "text": "AI đang chuyển từ cuộc đua demo sang cuộc đua vận hành. Người thắng là người biến model thành pipeline có nguồn, log, media đúng chuẩn và QC lặp lại được.",
+        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Takeaway hành động",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Chọn một workflow đang tốn thời gian nhất và log lại từng bước.",
-        "Tách source media, prompt, reference và output thành bốn lớp riêng.",
-        "Dùng bảng so sánh tool trước khi đổi model.",
-        "Audit mọi media URL: chỉ image/* hoặc video/* mới đạt.",
-        "Đóng gói quy trình thành offer nhỏ để bán hoặc dùng nội bộ."
+        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+        "Thử nghiệm trên một workflow nhỏ trước khi scale",
+        "Theo dõi diễn biến trong 1-2 tuần tới"
       ]
     },
     "sources": [
       {
-        "title": "Nocturnal Land 134",
+        "title": "Nocturnal Land #134",
         "publisher": "r/midjourney",
         "url": "https://www.reddit.com/r/midjourney/comments/1tjzpcn/nocturnal_land_134/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-21T22:12:52.000Z"
       },
       {
-        "title": "Midjourney creator discussion",
+        "title": "Some characters. I hope you like them.",
         "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "url": "https://www.reddit.com/r/midjourney/comments/1tjkyz9/some_characters_i_hope_you_like_them/",
+        "publishedAt": "2026-05-21T13:43:36.000Z"
       },
       {
-        "title": "Best AI image generator comparison",
-        "publisher": "Cliprise",
-        "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "Victorian xenobotany",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tjj70o/victorian_xenobotany/",
+        "publishedAt": "2026-05-21T12:36:19.000Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_victorian-xenobotany-prompt-image_2026-05-22",
-      "confidence": "high"
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-05-22T01:01:41.278Z",
+      "sourceClusterId": "cluster_prompt-image_victorian-xenobotany_2026-05-22",
+      "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "daily_victorian-xenobotany-prompt-image_2026-05-22_en",
-    "slug": "victorian-xenobotany-image-prompts-art-direction-beats-long-prompts-2026-05-22",
+    "id": "cluster_prompt-image_victorian-xenobotany_2026-05-22_en",
+    "slug": "victorian-xenobotany-creator-and-builder-analysis-2026-05-22",
     "lang": "en",
     "category": "prompt-image",
-    "title": "Victorian xenobotany image prompts: art direction beats long prompts",
-    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
+    "title": "Victorian xenobotany: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "readingTime": 1,
     "sourceCount": 3,
     "tags": [
       "prompt-image",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://preview.redd.it/5vviurrbjh2h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=deb7d02d32a664e1b7a8c6771193448098c76262",
-      "alt": "Victorian xenobotany prompt image from Reddit preview",
-      "caption": "Prompt image reference from r/midjourney discussion",
-      "credit": "u/Nocturnal Land on r/midjourney",
-      "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tjzpcn/nocturnal_land_134/"
+      "src": "https://preview.redd.it/5vviurrbjh2h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=deb7d02d32a664e1b7a8c6771193448098c76262",
+      "alt": "Victorian xenobotany: creator and builder analysis",
+      "caption": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability."
     },
     "highlights": [
       {
-        "text": "The real signal is not just stronger models, but workflows that can be debugged and handed off."
+        "text": "Summary: submitted by /u/Slave_Human [link] [comments]"
       },
       {
-        "text": "Media production needs real source media, clear references and content-type QC, not page URLs pretending to be images."
+        "text": "Top comments:\nThe second one is Ajani, from MTG."
       },
       {
-        "text": "Creators monetize better by selling repeatable workflow, not isolated prompts."
+        "text": "Also no one is worried about massacre girl just hanging out at the bar in pic 3?"
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Context: the 48-hour signal",
+        "id": "main",
+        "heading": "Analysis",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Today’s signal is clear: victorian xenobotany image prompts: art direction beats long prompts. The point is not another pretty demo, but the way teams are packaging AI into workflows that can be debugged, repeated and handed off. For media, film, photo and internal-tool builders, that is the gap between a nice clip and a production pipeline."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://www.cliprise.app/creatives/seo/cliprise-ai-image-enhancement-cat-before-after.jpg",
-            "alt": "AI image enhancement before after comparison",
-            "caption": "AI image enhancement comparison",
-            "credit": "Cliprise",
-            "sourceUrl": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Read it as a production problem",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Today’s sources — r/midjourney, r/midjourney, Cliprise — point in the same direction: AI tools are moving away from “type a prompt and pray”. For agents, that means streams, sandboxes, auth proxies and observability. For image/video, it means references, shot plans, motion samples and QC. Creators who still restart every shot from scratch will lose the most time."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Single demo",
-                "Easy to share, hard to hand off",
-                "Store prompt, source, media and seed/reference from test one"
-              ],
-              [
-                "Logged workflow",
-                "Debug model, prompt and asset failures",
-                "Attach every output to sources and creative decisions"
-              ],
-              [
-                "Multi-tool stack",
-                "Uses each model where it is strongest",
-                "Split roles: ideation, render, upscale, continuity and QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Technique: separate prompts from workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "A good prompt describes intent. A good workflow also describes input data, which tool handles which step, pass/fail criteria and how to recover when output drifts. The practical lesson: do not only save the final prompt. Save source URLs, reference frames, model versions, render parameters and the reason a specific output was chosen."
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Critical view: do not buy hype with your eyes",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The easy trap is treating each model as a magic wand. Production is the opposite: the model is only one block. The hard parts are sources, references, evals, versioning, access control and how creative decisions are stored. Without those layers, longer prompts create more noise and prettier outputs become harder to reproduce."
-          },
-          {
-            "type": "list",
-            "items": [
-              "If media has no credit/sourceUrl: do not use it as hero.",
-              "If a URL returns text/html: it is a page, not image/video media.",
-              "If a workflow cannot be repeated after 24 hours: it is not production.",
-              "If there is no tool comparison table: the team will argue by taste."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Opportunities for creators/builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The near-term opportunity is not chasing the newest model. It is packaging workflow: AI video audits, reference-based prompt templates, continuity test kits or dashboards for agents. Clients do not buy “better AI”; they buy saved time, lower risk and output that can be revised."
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Conclusion: the new standard is logs, sources and QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Short version: every article, tool and model must pass the same filter. Are there real sources? Real media? Can it be repeated? Can someone other than the prompt author understand the pipeline? If not, it is a demo. If yes, it starts becoming a production asset."
+            "text": "• Summary: submitted by /u/Slave_Human [link] [comments]\n\n• Top comments:\nThe second one is Ajani, from MTG.\n\n• Also no one is worried about massacre girl just hanging out at the bar in pic 3?"
           }
         ]
       }
     ],
     "insightBlocks": [
       {
-        "title": "Why it matters",
-        "text": "AI is shifting from demo competition to operational competition. The winners turn models into pipelines with sources, logs, valid media and repeatable QC.",
+        "title": "Why This Matters",
+        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Action takeaway",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Pick the workflow that wastes the most time and log every step.",
-        "Separate source media, prompt, reference and output into four layers.",
-        "Use a tool comparison table before switching models.",
-        "Audit every media URL: only image/* or video/* passes.",
-        "Package the workflow into a small offer for clients or internal teams."
+        "Verify the source trail from listed sources",
+        "Test in one small workflow before scaling",
+        "Monitor developments over the next 1-2 weeks"
       ]
     },
     "sources": [
       {
-        "title": "Nocturnal Land 134",
+        "title": "Nocturnal Land #134",
         "publisher": "r/midjourney",
         "url": "https://www.reddit.com/r/midjourney/comments/1tjzpcn/nocturnal_land_134/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-21T22:12:52.000Z"
       },
       {
-        "title": "Midjourney creator discussion",
+        "title": "Some characters. I hope you like them.",
         "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "url": "https://www.reddit.com/r/midjourney/comments/1tjkyz9/some_characters_i_hope_you_like_them/",
+        "publishedAt": "2026-05-21T13:43:36.000Z"
       },
       {
-        "title": "Best AI image generator comparison",
-        "publisher": "Cliprise",
-        "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "Victorian xenobotany",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1tjj70o/victorian_xenobotany/",
+        "publishedAt": "2026-05-21T12:36:19.000Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_victorian-xenobotany-prompt-image_2026-05-22",
-      "confidence": "high"
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-05-22T01:01:41.279Z",
+      "sourceClusterId": "cluster_prompt-image_victorian-xenobotany_2026-05-22",
+      "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "daily_scifi-trailer-prompt-video_2026-05-22_vi",
-    "slug": "trailer-sci-fi-bang-ai-prompt-shot-by-shot-moi-la-phan-ang-tien-2026-05-22",
+    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22_vi",
+    "slug": "building-a-sci-fi-animated-series-here-s-the-trailer-goc-2026-05-22",
     "lang": "vi",
     "category": "prompt-video",
-    "title": "Trailer sci-fi bằng AI: prompt shot-by-shot mới là phần đáng tiền",
-    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
+    "title": "Building a sci-fi animated series, Here's the trailer!: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "readingTime": 1,
+    "sourceCount": 3,
     "tags": [
       "prompt-video",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://external-preview.redd.it/M3FqZ2doeG1majJoMSK5-6VhlUIF1eV4eygh6THfHvgYLAIt5lQ9hhh-44o8.png?format=pjpg&auto=webp&s=503ab26309d6f921fd3ad10e21e9f87ea75b2c87",
-      "alt": "Sci-fi animated series trailer preview from Reddit",
-      "caption": "Trailer preview shared in r/aivideo",
-      "credit": "r/aivideo creator post",
-      "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tjuev9/building_a_scifi_animated_series_heres_the_trailer/"
+      "alt": "Building a sci-fi animated series, Here's the trailer!: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ r/aivideo, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
     },
     "highlights": [
       {
-        "text": "Tín hiệu mới không chỉ là model mạnh hơn, mà là workflow có thể debug và bàn giao."
+        "text": "Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!"
       },
       {
-        "text": "Media production cần source media thật, reference rõ và QC content-type, không dùng page URL giả làm ảnh."
+        "text": "[https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting."
       },
       {
-        "text": "Creator kiếm tiền tốt hơn khi bán quy trình có thể lặp lại, không bán prompt lẻ."
+        "text": "But to make an entire movie out of it..."
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Bối cảnh: tín hiệu nóng trong 48 giờ",
+        "id": "main",
+        "heading": "Phân tích",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Hôm nay có một tín hiệu rõ: trailer sci-fi bằng ai: prompt shot-by-shot mới là phần đáng tiền. Điểm đáng nói không phải là thêm một demo đẹp, mà là cách các team đang đóng gói AI thành workflow có thể debug, lặp lại và bàn giao. Nếu anh làm media, film, photo hoặc build tool nội bộ, đây là khác biệt giữa clip đẹp để khoe và pipeline có thể dùng cho job thật."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://v.redd.it/x3qa19z0o92h1/CMAF_1080.mp4?source=fallback",
-            "alt": "Reddit-hosted AI video sample",
-            "caption": "Reddit-hosted fallback video sample for AI video workflow review",
-            "credit": "r/aivideo",
-            "sourceUrl": "https://www.reddit.com/r/aivideo/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Tôi nhìn chuyện này như một bài toán production",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Các nguồn hôm nay — r/aivideo, r/aivideo, Google DeepMind, Kling AI — cùng chỉ về một hướng: AI tool đang rời khỏi giai đoạn “gõ prompt rồi cầu may”. Với agent, đó là stream, sandbox, auth proxy và observability. Với hình/video, đó là reference, shot plan, motion sample và QC. Creator nào vẫn làm kiểu mỗi shot một prompt mới sẽ mất thời gian nhất."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Demo đơn lẻ",
-                "Dễ viral nhưng khó bàn giao cho team",
-                "Lưu prompt, source, media và seed/reference ngay từ vòng test"
-              ],
-              [
-                "Workflow có log",
-                "Debug được lỗi model, lỗi prompt, lỗi asset",
-                "Gắn mỗi output với nguồn và quyết định creative"
-              ],
-              [
-                "Stack nhiều công cụ",
-                "Tận dụng điểm mạnh từng model",
-                "Chia vai: ideation, render, upscale, continuity, QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Kỹ thuật đáng học: tách prompt khỏi workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Một prompt tốt chỉ mô tả ý định. Một workflow tốt mô tả luôn dữ liệu vào, công cụ nào xử lý bước nào, tiêu chí pass/fail, và cách quay lại khi output lệch. Vì vậy bài học thực dụng là: đừng chỉ lưu prompt cuối. Hãy lưu cả source URL, reference frame, version model, thông số render và ghi chú vì sao chọn output đó."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4",
-            "alt": "Google DeepMind Veo off-road sample",
-            "caption": "Veo official video sample",
-            "credit": "Google DeepMind",
-            "sourceUrl": "https://deepmind.google/models/veo/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Góc nhìn phản biện: đừng mua hype bằng mắt",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Điểm dễ bị lừa là xem từng model như cây đũa thần. Thực tế production ngược lại: model chỉ là một block. Phần sống còn là source, reference, eval, versioning, quyền truy cập và cách lưu quyết định sáng tạo. Không có những lớp này, prompt càng dài càng rối; output càng đẹp càng khó tái lập."
-          },
-          {
-            "type": "list",
-            "items": [
-              "Nếu media không có credit/sourceUrl: không dùng làm hero.",
-              "Nếu URL trả về text/html: đó là page, không phải ảnh/video.",
-              "Nếu workflow không tái lập được sau 24 giờ: nó chưa phải production.",
-              "Nếu không có bảng so sánh tool: team sẽ tranh luận bằng cảm tính."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Cơ hội cho creator/builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Cơ hội gần nhất không nằm ở việc chạy theo model mới nhất. Nó nằm ở việc đóng gói quy trình: audit workflow video AI, template prompt có reference, bộ test continuity, hoặc dashboard theo dõi agent. Khách hàng không mua “AI xịn”; họ mua thời gian tiết kiệm, rủi ro giảm và output có thể sửa được."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page1-v3-1.mp4",
-            "alt": "Kling AI video motion sample",
-            "caption": "Kling official motion sample",
-            "credit": "Kling AI",
-            "sourceUrl": "https://klingai.com/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Kết luận: chuẩn mới là có log, có nguồn, có QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Kết luận ngắn: bài nào, tool nào, model nào cũng phải đi qua cùng một bộ lọc. Có nguồn thật không? Có media thật không? Có lặp lại được không? Có ai ngoài người tạo prompt hiểu được pipeline không? Nếu câu trả lời là không, nó chỉ là demo. Nếu là có, nó bắt đầu trở thành tài sản sản xuất."
+            "text": "• Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!\n\n• [https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting.\n\n• But to make an entire movie out of it..."
           }
         ]
       }
@@ -2145,265 +1350,132 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Vì sao đáng chú ý",
-        "text": "AI đang chuyển từ cuộc đua demo sang cuộc đua vận hành. Người thắng là người biến model thành pipeline có nguồn, log, media đúng chuẩn và QC lặp lại được.",
+        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Takeaway hành động",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Chọn một workflow đang tốn thời gian nhất và log lại từng bước.",
-        "Tách source media, prompt, reference và output thành bốn lớp riêng.",
-        "Dùng bảng so sánh tool trước khi đổi model.",
-        "Audit mọi media URL: chỉ image/* hoặc video/* mới đạt.",
-        "Đóng gói quy trình thành offer nhỏ để bán hoặc dùng nội bộ."
+        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+        "Thử nghiệm trên một workflow nhỏ trước khi scale",
+        "Theo dõi diễn biến trong 1-2 tuần tới"
       ]
     },
     "sources": [
       {
-        "title": "Building a sci-fi animated series, Here’s the trailer!",
+        "title": "Building a sci-fi animated series, Here's the trailer!",
         "publisher": "r/aivideo",
         "url": "https://www.reddit.com/r/aivideo/comments/1tjuev9/building_a_scifi_animated_series_heres_the_trailer/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-21T19:02:46.000Z"
       },
       {
-        "title": "AI video creator discussions",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "AI won the 2025 Commonwealth Short Story Prize competition",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
+        "publishedAt": "2026-05-21T23:17:53.000Z"
       },
       {
-        "title": "Veo official model page",
-        "publisher": "Google DeepMind",
-        "url": "https://deepmind.google/models/veo/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Kling official site",
-        "publisher": "Kling AI",
-        "url": "https://klingai.com/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/",
+        "publishedAt": "2026-05-13T23:03:13.000Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_scifi-trailer-prompt-video_2026-05-22",
-      "confidence": "high"
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-05-22T01:01:41.278Z",
+      "sourceClusterId": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22",
+      "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "daily_scifi-trailer-prompt-video_2026-05-22_en",
-    "slug": "ai-sci-fi-trailers-the-valuable-part-is-the-shot-by-shot-prompt-plan-2026-05-22",
+    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22_en",
+    "slug": "building-a-sci-fi-animated-series-here-s-the-trailer-crea-2026-05-22",
     "lang": "en",
     "category": "prompt-video",
-    "title": "AI sci-fi trailers: the valuable part is the shot-by-shot prompt plan",
-    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
-    "publishedAt": "2026-05-22T00:02:11.548Z",
-    "readingTime": 7,
-    "sourceCount": 4,
+    "title": "Building a sci-fi animated series, Here's the trailer!: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "readingTime": 1,
+    "sourceCount": 3,
     "tags": [
       "prompt-video",
       "ai-radar",
-      "daily-signal",
-      "production-workflow"
+      "daily-signal"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://external-preview.redd.it/M3FqZ2doeG1majJoMSK5-6VhlUIF1eV4eygh6THfHvgYLAIt5lQ9hhh-44o8.png?format=pjpg&auto=webp&s=503ab26309d6f921fd3ad10e21e9f87ea75b2c87",
-      "alt": "Sci-fi animated series trailer preview from Reddit",
-      "caption": "Trailer preview shared in r/aivideo",
-      "credit": "r/aivideo creator post",
-      "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tjuev9/building_a_scifi_animated_series_heres_the_trailer/"
+      "alt": "Building a sci-fi animated series, Here's the trailer!: creator and builder analysis",
+      "caption": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability."
     },
     "highlights": [
       {
-        "text": "The real signal is not just stronger models, but workflows that can be debugged and handed off."
+        "text": "Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!"
       },
       {
-        "text": "Media production needs real source media, clear references and content-type QC, not page URLs pretending to be images."
+        "text": "[https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting."
       },
       {
-        "text": "Creators monetize better by selling repeatable workflow, not isolated prompts."
+        "text": "But to make an entire movie out of it..."
       }
     ],
     "sections": [
       {
-        "id": "context",
-        "heading": "Context: the 48-hour signal",
+        "id": "main",
+        "heading": "Analysis",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Today’s signal is clear: ai sci-fi trailers: the valuable part is the shot-by-shot prompt plan. The point is not another pretty demo, but the way teams are packaging AI into workflows that can be debugged, repeated and handed off. For media, film, photo and internal-tool builders, that is the gap between a nice clip and a production pipeline."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://v.redd.it/x3qa19z0o92h1/CMAF_1080.mp4?source=fallback",
-            "alt": "Reddit-hosted AI video sample",
-            "caption": "Reddit-hosted fallback video sample for AI video workflow review",
-            "credit": "r/aivideo",
-            "sourceUrl": "https://www.reddit.com/r/aivideo/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "production",
-        "heading": "Read it as a production problem",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Today’s sources — r/aivideo, r/aivideo, Google DeepMind, Kling AI — point in the same direction: AI tools are moving away from “type a prompt and pray”. For agents, that means streams, sandboxes, auth proxies and observability. For image/video, it means references, shot plans, motion samples and QC. Creators who still restart every shot from scratch will lose the most time."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Tín hiệu",
-              "Ý nghĩa production",
-              "Việc nên làm"
-            ],
-            "rows": [
-              [
-                "Single demo",
-                "Easy to share, hard to hand off",
-                "Store prompt, source, media and seed/reference from test one"
-              ],
-              [
-                "Logged workflow",
-                "Debug model, prompt and asset failures",
-                "Attach every output to sources and creative decisions"
-              ],
-              [
-                "Multi-tool stack",
-                "Uses each model where it is strongest",
-                "Split roles: ideation, render, upscale, continuity and QC"
-              ]
-            ]
-          }
-        ]
-      },
-      {
-        "id": "technique",
-        "heading": "Technique: separate prompts from workflow",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "A good prompt describes intent. A good workflow also describes input data, which tool handles which step, pass/fail criteria and how to recover when output drifts. The practical lesson: do not only save the final prompt. Save source URLs, reference frames, model versions, render parameters and the reason a specific output was chosen."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__off-road.mp4",
-            "alt": "Google DeepMind Veo off-road sample",
-            "caption": "Veo official video sample",
-            "credit": "Google DeepMind",
-            "sourceUrl": "https://deepmind.google/models/veo/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "critical",
-        "heading": "Critical view: do not buy hype with your eyes",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The easy trap is treating each model as a magic wand. Production is the opposite: the model is only one block. The hard parts are sources, references, evals, versioning, access control and how creative decisions are stored. Without those layers, longer prompts create more noise and prettier outputs become harder to reproduce."
-          },
-          {
-            "type": "list",
-            "items": [
-              "If media has no credit/sourceUrl: do not use it as hero.",
-              "If a URL returns text/html: it is a page, not image/video media.",
-              "If a workflow cannot be repeated after 24 hours: it is not production.",
-              "If there is no tool comparison table: the team will argue by taste."
-            ]
-          }
-        ]
-      },
-      {
-        "id": "opportunity",
-        "heading": "Opportunities for creators/builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The near-term opportunity is not chasing the newest model. It is packaging workflow: AI video audits, reference-based prompt templates, continuity test kits or dashboards for agents. Clients do not buy “better AI”; they buy saved time, lower risk and output that can be revised."
-          },
-          {
-            "type": "media",
-            "mediaType": "video",
-            "src": "https://v16-kling.klingai.com/kos/s101/nlav112918/kling-website/page1-v3-1.mp4",
-            "alt": "Kling AI video motion sample",
-            "caption": "Kling official motion sample",
-            "credit": "Kling AI",
-            "sourceUrl": "https://klingai.com/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "conclusion",
-        "heading": "Conclusion: the new standard is logs, sources and QC",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Short version: every article, tool and model must pass the same filter. Are there real sources? Real media? Can it be repeated? Can someone other than the prompt author understand the pipeline? If not, it is a demo. If yes, it starts becoming a production asset."
+            "text": "• Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!\n\n• [https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting.\n\n• But to make an entire movie out of it..."
           }
         ]
       }
     ],
     "insightBlocks": [
       {
-        "title": "Why it matters",
-        "text": "AI is shifting from demo competition to operational competition. The winners turn models into pipelines with sources, logs, valid media and repeatable QC.",
+        "title": "Why This Matters",
+        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
         "variant": "analysis"
       }
     ],
     "takeaway": {
-      "title": "Action takeaway",
+      "title": "Creator / Builder Takeaway",
       "items": [
-        "Pick the workflow that wastes the most time and log every step.",
-        "Separate source media, prompt, reference and output into four layers.",
-        "Use a tool comparison table before switching models.",
-        "Audit every media URL: only image/* or video/* passes.",
-        "Package the workflow into a small offer for clients or internal teams."
+        "Verify the source trail from listed sources",
+        "Test in one small workflow before scaling",
+        "Monitor developments over the next 1-2 weeks"
       ]
     },
     "sources": [
       {
-        "title": "Building a sci-fi animated series, Here’s the trailer!",
+        "title": "Building a sci-fi animated series, Here's the trailer!",
         "publisher": "r/aivideo",
         "url": "https://www.reddit.com/r/aivideo/comments/1tjuev9/building_a_scifi_animated_series_heres_the_trailer/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "publishedAt": "2026-05-21T19:02:46.000Z"
       },
       {
-        "title": "AI video creator discussions",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "AI won the 2025 Commonwealth Short Story Prize competition",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
+        "publishedAt": "2026-05-21T23:17:53.000Z"
       },
       {
-        "title": "Veo official model page",
-        "publisher": "Google DeepMind",
-        "url": "https://deepmind.google/models/veo/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
-      },
-      {
-        "title": "Kling official site",
-        "publisher": "Kling AI",
-        "url": "https://klingai.com/",
-        "publishedAt": "2026-05-22T00:02:11.548Z"
+        "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/",
+        "publishedAt": "2026-05-13T23:03:13.000Z"
       }
     ],
     "generation": {
-      "model": "curated-editorial-script",
-      "promptVersion": "curated-daily-v3",
-      "generatedAt": "2026-05-22T00:02:11.548Z",
-      "sourceClusterId": "cluster_scifi-trailer-prompt-video_2026-05-22",
-      "confidence": "high"
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-05-22T01:01:41.279Z",
+      "sourceClusterId": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22",
+      "confidence": "medium"
     },
     "status": "published"
   }

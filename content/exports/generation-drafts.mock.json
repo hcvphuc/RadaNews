@@ -23,7 +23,7 @@
       "lang": "vi",
       "category": "ai-agentic",
       "title": "LangChain Blog: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
           "text": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!"
@@ -74,26 +74,26 @@
         "src_huggingface-blog_af185e1e7e4dfbac",
         "src_simonwillison-blog_1b4f3443da7e97f6",
         "src_simonwillison-blog_ad17da1cd1df2e1d",
+        "src_reddit-comfyui_a9578863d68eb3c6",
         "src_lilianweng-blog_31a2c7baf9b791a5",
         "src_reddit-aiagents_4e6879e20ba2d6ef",
         "src_reddit-aiagents_8d4fbcd31c82b05b",
-        "src_reddit-aiagents_6dd684564af64a70",
         "src_reddit-comfyui_0d0492381f29f76d",
+        "src_reddit-aiagents_6dd684564af64a70",
         "src_simonwillison-blog_6b472c6187e9e7bb",
         "src_reddit-aiagents_c7605a4726e06ec4",
         "src_reddit-aiagents_a8d909420e99b084",
-        "src_openai-blog_2026-05-22_fallback",
         "src_mcp-blog_2026-05-22_fallback"
       ],
       "sourceUrls": [
         "https://blog.langchain.dev/rss/",
-        "https://openai.com/blog",
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
         "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
         "https://www.reddit.com/r/AI_Agents/comments/1tjxk58/how_to_stop_building_agents_that_users_just_ignore/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tjxo5q/proxy_for_llms_to_learn_how_agents_works/",
         "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tjxo5q/proxy_for_llms_to_learn_how_agents_works/",
+        "https://www.reddit.com/r/comfyui/comments/1tk0h1g/google_omni_vs_ltx_23_rtx_4060ti_local/",
         "https://www.reddit.com/r/comfyui/comments/1tjneuj/gemma_4_new_comfyui_nodes_that_make_prompting/",
         "https://lumalabs.ai/blog",
         "https://huggingface.co/blog",
@@ -106,7 +106,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T00:02:11.281Z",
+        "generatedAt": "2026-05-22T01:01:41.278Z",
         "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-22",
         "confidence": "high",
         "mode": "template-fallback"
@@ -118,7 +118,7 @@
       "lang": "en",
       "category": "ai-agentic",
       "title": "LangChain Blog: creator and builder analysis",
-      "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+      "subtitle": "Signal synthesized from LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
       "highlights": [
         {
           "text": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!"
@@ -169,26 +169,26 @@
         "src_huggingface-blog_af185e1e7e4dfbac",
         "src_simonwillison-blog_1b4f3443da7e97f6",
         "src_simonwillison-blog_ad17da1cd1df2e1d",
+        "src_reddit-comfyui_a9578863d68eb3c6",
         "src_lilianweng-blog_31a2c7baf9b791a5",
         "src_reddit-aiagents_4e6879e20ba2d6ef",
         "src_reddit-aiagents_8d4fbcd31c82b05b",
-        "src_reddit-aiagents_6dd684564af64a70",
         "src_reddit-comfyui_0d0492381f29f76d",
+        "src_reddit-aiagents_6dd684564af64a70",
         "src_simonwillison-blog_6b472c6187e9e7bb",
         "src_reddit-aiagents_c7605a4726e06ec4",
         "src_reddit-aiagents_a8d909420e99b084",
-        "src_openai-blog_2026-05-22_fallback",
         "src_mcp-blog_2026-05-22_fallback"
       ],
       "sourceUrls": [
         "https://blog.langchain.dev/rss/",
-        "https://openai.com/blog",
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
         "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
         "https://www.reddit.com/r/AI_Agents/comments/1tjxk58/how_to_stop_building_agents_that_users_just_ignore/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tjxo5q/proxy_for_llms_to_learn_how_agents_works/",
         "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tjxo5q/proxy_for_llms_to_learn_how_agents_works/",
+        "https://www.reddit.com/r/comfyui/comments/1tk0h1g/google_omni_vs_ltx_23_rtx_4060ti_local/",
         "https://www.reddit.com/r/comfyui/comments/1tjneuj/gemma_4_new_comfyui_nodes_that_make_prompting/",
         "https://lumalabs.ai/blog",
         "https://huggingface.co/blog",
@@ -201,204 +201,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T00:02:11.282Z",
+        "generatedAt": "2026-05-22T01:01:41.279Z",
         "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-22",
-        "confidence": "high",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "viValidation": {
-      "ok": false,
-      "errors": [
-        "Body is too thin",
-        "Missing TL;DR"
-      ]
-    },
-    "enValidation": {
-      "ok": false,
-      "errors": [
-        "Body is too thin",
-        "Missing TL;DR"
-      ]
-    }
-  },
-  {
-    "outline": {
-      "titleDirection": "Research \\ Anthropic",
-      "angle": "editorial analysis for builders and creators",
-      "sections": [
-        "TL;DR",
-        "Main analysis",
-        "Why it matters",
-        "Creator / Builder takeaway",
-        "Sources"
-      ],
-      "sourceFacts": [
-        "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.",
-        "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
-        "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.",
-        "Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world.",
-        "Post: I've never dealt with a piece of software with a plugin architecture that allowed random third party developers from all skill levels to cause so much wreckage and ruin to the program itself or to all the happily coexisting packages."
-      ]
-    },
-    "vi": {
-      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_vi",
-      "lang": "vi",
-      "category": "ai-vibe-coding",
-      "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-      "highlights": [
-        {
-          "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
-        },
-        {
-          "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
-        },
-        {
-          "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-        }
-      ],
-      "sections": [
-        {
-          "id": "main",
-          "heading": "Phân tích",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-            }
-          ]
-        }
-      ],
-      "insightBlocks": [
-        {
-          "title": "Vì sao đáng chú ý",
-          "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-          "variant": "analysis"
-        }
-      ],
-      "takeaway": {
-        "title": "Creator / Builder Takeaway",
-        "items": [
-          "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-          "Thử nghiệm trên một workflow nhỏ trước khi scale",
-          "Theo dõi diễn biến trong 1-2 tuần tới"
-        ]
-      },
-      "tags": [
-        "ai-vibe-coding",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_anthropic-research_15aa8285dd0354e9",
-        "src_simonwillison-blog_83680f69a2ed9c19",
-        "src_github-copilot-blog_1cb7f10cc2e13dc1",
-        "src_replit-blog_49899058ba32f8e5",
-        "src_reddit-comfyui_3023f09b1ddfdeed",
-        "src_cursor-changelog_99cdbb7e2d70df11",
-        "src_reddit-mediasynthesis_98111c99496f6ea1",
-        "src_reddit-mediasynthesis_334324f1d5231047",
-        "src_vercel-ai-blog_2026-05-22_fallback"
-      ],
-      "sourceUrls": [
-        "https://www.anthropic.com/research",
-        "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
-        "https://www.cursor.com/changelog",
-        "https://github.blog/tag/github-copilot/",
-        "https://vercel.com/blog/ai",
-        "https://blog.replit.com/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
-        "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything"
-      ],
-      "generation": {
-        "model": "gemma4:31b",
-        "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T00:02:11.281Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
-        "confidence": "high",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "en": {
-      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_en",
-      "lang": "en",
-      "category": "ai-vibe-coding",
-      "title": "Research \\ Anthropic: creator and builder analysis",
-      "subtitle": "Signal synthesized from Anthropic Research, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-      "highlights": [
-        {
-          "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
-        },
-        {
-          "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
-        },
-        {
-          "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-        }
-      ],
-      "sections": [
-        {
-          "id": "main",
-          "heading": "Analysis",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-            }
-          ]
-        }
-      ],
-      "insightBlocks": [
-        {
-          "title": "Why This Matters",
-          "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-          "variant": "analysis"
-        }
-      ],
-      "takeaway": {
-        "title": "Creator / Builder Takeaway",
-        "items": [
-          "Verify the source trail from listed sources",
-          "Test in one small workflow before scaling",
-          "Monitor developments over the next 1-2 weeks"
-        ]
-      },
-      "tags": [
-        "ai-vibe-coding",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_anthropic-research_15aa8285dd0354e9",
-        "src_simonwillison-blog_83680f69a2ed9c19",
-        "src_github-copilot-blog_1cb7f10cc2e13dc1",
-        "src_replit-blog_49899058ba32f8e5",
-        "src_reddit-comfyui_3023f09b1ddfdeed",
-        "src_cursor-changelog_99cdbb7e2d70df11",
-        "src_reddit-mediasynthesis_98111c99496f6ea1",
-        "src_reddit-mediasynthesis_334324f1d5231047",
-        "src_vercel-ai-blog_2026-05-22_fallback"
-      ],
-      "sourceUrls": [
-        "https://www.anthropic.com/research",
-        "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
-        "https://www.cursor.com/changelog",
-        "https://github.blog/tag/github-copilot/",
-        "https://vercel.com/blog/ai",
-        "https://blog.replit.com/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
-        "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything"
-      ],
-      "generation": {
-        "model": "gemma4:31b",
-        "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T00:02:11.282Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -502,7 +306,6 @@
         "src_reddit-midjourney_91c5cf49176c170c",
         "src_reddit-mediasynthesis_459f419f1f6e36c2",
         "src_reddit-stablediffusion_be72bef5c61e0b18",
-        "src_reddit-comfyui_cac836fc68bf3788",
         "src_stability-ai-blog_2026-05-22_fallback"
       ],
       "sourceUrls": [
@@ -516,7 +319,6 @@
         "https://www.reddit.com/r/StableDiffusion/comments/1tjp4ir/sam3_added_to_comfyuiangelo/",
         "https://www.reddit.com/r/comfyui/comments/1tji1c9/flux_2_klein_destiled_my_workflow_following/",
         "https://www.reddit.com/r/comfyui/comments/1tjja3y/i_wish_they_still_made_anime_like_this_pt_2/",
-        "https://www.reddit.com/r/comfyui/comments/1tjuyan/democracy_since_12000bc_credit_nullentropyprotocol/",
         "https://runwayml.com/research",
         "https://blog.comfy.org/",
         "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
@@ -526,7 +328,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T00:02:11.281Z",
+        "generatedAt": "2026-05-22T01:01:41.278Z",
         "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22",
         "confidence": "high",
         "mode": "template-fallback"
@@ -597,7 +399,6 @@
         "src_reddit-midjourney_91c5cf49176c170c",
         "src_reddit-mediasynthesis_459f419f1f6e36c2",
         "src_reddit-stablediffusion_be72bef5c61e0b18",
-        "src_reddit-comfyui_cac836fc68bf3788",
         "src_stability-ai-blog_2026-05-22_fallback"
       ],
       "sourceUrls": [
@@ -611,7 +412,6 @@
         "https://www.reddit.com/r/StableDiffusion/comments/1tjp4ir/sam3_added_to_comfyuiangelo/",
         "https://www.reddit.com/r/comfyui/comments/1tji1c9/flux_2_klein_destiled_my_workflow_following/",
         "https://www.reddit.com/r/comfyui/comments/1tjja3y/i_wish_they_still_made_anime_like_this_pt_2/",
-        "https://www.reddit.com/r/comfyui/comments/1tjuyan/democracy_since_12000bc_credit_nullentropyprotocol/",
         "https://runwayml.com/research",
         "https://blog.comfy.org/",
         "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
@@ -621,8 +421,208 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T00:02:11.282Z",
+        "generatedAt": "2026-05-22T01:01:41.279Z",
         "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22",
+        "confidence": "high",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "viValidation": {
+      "ok": false,
+      "errors": [
+        "Body is too thin",
+        "Missing TL;DR"
+      ]
+    },
+    "enValidation": {
+      "ok": false,
+      "errors": [
+        "Body is too thin",
+        "Missing TL;DR"
+      ]
+    }
+  },
+  {
+    "outline": {
+      "titleDirection": "Research \\ Anthropic",
+      "angle": "editorial analysis for builders and creators",
+      "sections": [
+        "TL;DR",
+        "Main analysis",
+        "Why it matters",
+        "Creator / Builder takeaway",
+        "Sources"
+      ],
+      "sourceFacts": [
+        "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.",
+        "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
+        "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.",
+        "Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world.",
+        "OpenAI News | OpenAI Skip to main content li:hover)>li:not(:hover)>*]:text-primary-60 nav-desktop:pe-6 flex h-full min-w-0 items-baseline gap-0 overflow-x-hidden whitespace-nowrap [-ms-overflow-style:none] [scrollbar-width:none] focus-within:overflow-visible [&::-webkit-scrollbar]:hidden\"> Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI All Company Research Product Safety Engineering Security Global Affairs AI Adoption All Filter Sort Switch cards to show Media Switch cards to hide Media ArtCard > Polynomial Construction\" data-nosnippet=\"true\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"object-cover object-center\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent\" sizes=\"(min-width: 1728px) 1728px, 100vw\" srcSet=\"https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=640&q=90&fm=webp 640w, https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=750&q=90&fm=webp 750w, https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=828&q=90&fm=webp 828w, https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=1080&q=90&fm=webp 1080w, https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=1200&q=90&fm=webp 1200w, https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=1920&q=90&fm=webp 1920w, https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=2048&q=90&fm=webp 2048w, https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp 3840w\" src=\"https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp\"/> An OpenAI model has disproved a central conjecture in discrete geometry Research May 20, 2026 Advancing content provenance for a safer, more transparent AI ecosystem Safety May 19, 2026 OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments Company May 18, 2026 Media > Cover\" data-nosnippet=\"true\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"object-cover object-center\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent\" sizes=\"(min-width: 1728px) 1728px, 100vw\" srcSet=\"https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=640&q=90&fm=webp 640w, https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=750&q=90&fm=webp 750w, https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=828&q=90&fm=webp 828w, https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=1080&q=90&fm=webp 1080w, https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=1200&q=90&fm=webp 1200w, https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=1920&q=90&fm=webp 1920w, https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=2048&q=90&fm=webp 2048w, https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp 3840w\" src=\"https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp\"/> A new personal finance experience in ChatGPT Product May 15, 2026 Work with Codex from anywhere Product May 14, 2026 Cover Image\" data-nosnippet=\"true\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"object-cover object-center\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent\" sizes=\"(min-width: 1728px) 1728px, 100vw\" srcSet=\"https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=640&q=90&fm=webp 640w, https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=750&q=90&fm=webp 750w, https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=828&q=90&fm=webp 828w, https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=1080&q=90&fm=webp 1080w, https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=1200&q=90&fm=webp 1200w, https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=1920&q=90&fm=webp 1920w, https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=2048&q=90&fm=webp 2048w, https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp 3"
+      ]
+    },
+    "vi": {
+      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_vi",
+      "lang": "vi",
+      "category": "ai-vibe-coding",
+      "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "highlights": [
+        {
+          "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
+        },
+        {
+          "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
+        },
+        {
+          "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+        }
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "heading": "Phân tích",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+            }
+          ]
+        }
+      ],
+      "insightBlocks": [
+        {
+          "title": "Vì sao đáng chú ý",
+          "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+          "variant": "analysis"
+        }
+      ],
+      "takeaway": {
+        "title": "Creator / Builder Takeaway",
+        "items": [
+          "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+          "Thử nghiệm trên một workflow nhỏ trước khi scale",
+          "Theo dõi diễn biến trong 1-2 tuần tới"
+        ]
+      },
+      "tags": [
+        "ai-vibe-coding",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_anthropic-research_15aa8285dd0354e9",
+        "src_simonwillison-blog_83680f69a2ed9c19",
+        "src_github-copilot-blog_1cb7f10cc2e13dc1",
+        "src_replit-blog_49899058ba32f8e5",
+        "src_reddit-comfyui_3023f09b1ddfdeed",
+        "src_cursor-changelog_99cdbb7e2d70df11",
+        "src_openai-blog_2026-05-22_fallback",
+        "src_reddit-mediasynthesis_98111c99496f6ea1",
+        "src_reddit-mediasynthesis_334324f1d5231047",
+        "src_vercel-ai-blog_2026-05-22_fallback"
+      ],
+      "sourceUrls": [
+        "https://www.anthropic.com/research",
+        "https://openai.com/blog",
+        "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
+        "https://www.cursor.com/changelog",
+        "https://github.blog/tag/github-copilot/",
+        "https://vercel.com/blog/ai",
+        "https://blog.replit.com/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+        "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything"
+      ],
+      "generation": {
+        "model": "gemma4:31b",
+        "promptVersion": "article-vi-v2",
+        "generatedAt": "2026-05-22T01:01:41.278Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
+        "confidence": "high",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "en": {
+      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_en",
+      "lang": "en",
+      "category": "ai-vibe-coding",
+      "title": "Research \\ Anthropic: creator and builder analysis",
+      "subtitle": "Signal synthesized from Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+      "highlights": [
+        {
+          "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
+        },
+        {
+          "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
+        },
+        {
+          "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+        }
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "heading": "Analysis",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+            }
+          ]
+        }
+      ],
+      "insightBlocks": [
+        {
+          "title": "Why This Matters",
+          "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
+          "variant": "analysis"
+        }
+      ],
+      "takeaway": {
+        "title": "Creator / Builder Takeaway",
+        "items": [
+          "Verify the source trail from listed sources",
+          "Test in one small workflow before scaling",
+          "Monitor developments over the next 1-2 weeks"
+        ]
+      },
+      "tags": [
+        "ai-vibe-coding",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_anthropic-research_15aa8285dd0354e9",
+        "src_simonwillison-blog_83680f69a2ed9c19",
+        "src_github-copilot-blog_1cb7f10cc2e13dc1",
+        "src_replit-blog_49899058ba32f8e5",
+        "src_reddit-comfyui_3023f09b1ddfdeed",
+        "src_cursor-changelog_99cdbb7e2d70df11",
+        "src_openai-blog_2026-05-22_fallback",
+        "src_reddit-mediasynthesis_98111c99496f6ea1",
+        "src_reddit-mediasynthesis_334324f1d5231047",
+        "src_vercel-ai-blog_2026-05-22_fallback"
+      ],
+      "sourceUrls": [
+        "https://www.anthropic.com/research",
+        "https://openai.com/blog",
+        "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
+        "https://www.cursor.com/changelog",
+        "https://github.blog/tag/github-copilot/",
+        "https://vercel.com/blog/ai",
+        "https://blog.replit.com/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+        "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything"
+      ],
+      "generation": {
+        "model": "gemma4:31b",
+        "promptVersion": "article-en-v2",
+        "generatedAt": "2026-05-22T01:01:41.279Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -730,7 +730,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T00:02:11.281Z",
+        "generatedAt": "2026-05-22T01:01:41.278Z",
         "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-22",
         "confidence": "high",
         "mode": "template-fallback"
@@ -805,7 +805,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T00:02:11.282Z",
+        "generatedAt": "2026-05-22T01:01:41.279Z",
         "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-22",
         "confidence": "high",
         "mode": "template-fallback"
@@ -908,7 +908,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T00:02:11.281Z",
+        "generatedAt": "2026-05-22T01:01:41.278Z",
         "sourceClusterId": "cluster_prompt-image_victorian-xenobotany_2026-05-22",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -977,7 +977,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T00:02:11.282Z",
+        "generatedAt": "2026-05-22T01:01:41.279Z",
         "sourceClusterId": "cluster_prompt-image_victorian-xenobotany_2026-05-22",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -1080,7 +1080,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T00:02:11.281Z",
+        "generatedAt": "2026-05-22T01:01:41.278Z",
         "sourceClusterId": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -1149,7 +1149,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T00:02:11.282Z",
+        "generatedAt": "2026-05-22T01:01:41.279Z",
         "sourceClusterId": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22",
         "confidence": "medium",
         "mode": "template-fallback"
