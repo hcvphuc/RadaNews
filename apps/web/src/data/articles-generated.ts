@@ -1,18 +1,230 @@
 // Auto-generated from pipeline output — do not edit manually
-// Generated at: 2026-05-22T01:01:41.397Z
+// Generated at: 2026-05-22T13:19:44.714Z
 import type { Article } from "@/lib/schema";
 
 export const generatedArticles: Article[] = [
   {
-    "id": "cluster_ai-agentic_langchain-blog_2026-05-22_vi",
-    "slug": "langchain-blog-goc-nhin-cho-creator-va-builder-2026-05-22",
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_vi",
+    "slug": "research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-22",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T13:19:44.384Z",
+    "readingTime": 1,
+    "sourceCount": 6,
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "alt": "Research \\ Anthropic: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
+    },
+    "highlights": [
+      {
+        "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
+      },
+      {
+        "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
+      },
+      {
+        "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+      }
+    ],
+    "sections": [
+      {
+        "id": "main",
+        "heading": "Phân tích",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Vì sao đáng chú ý",
+        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+        "Thử nghiệm trên một workflow nhỏ trước khi scale",
+        "Theo dõi diễn biến trong 1-2 tuần tới"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Research \\ Anthropic",
+        "publisher": "Anthropic Research",
+        "url": "https://www.anthropic.com/research",
+        "publishedAt": "2026-05-22T13:19:34.000Z"
+      },
+      {
+        "title": "What's New in Cursor — Latest Updates & Release Notes",
+        "publisher": "Cursor Changelog",
+        "url": "https://www.cursor.com/changelog",
+        "publishedAt": "2026-05-22T13:19:34.699Z"
+      },
+      {
+        "title": "GitHub Copilot Archives - The GitHub Blog",
+        "publisher": "GitHub Copilot Blog",
+        "url": "https://github.blog/tag/github-copilot/",
+        "publishedAt": "2026-05-22T13:19:34.222Z"
+      },
+      {
+        "title": "Vercel AI Blog signal for ai-vibe-coding",
+        "publisher": "Vercel AI Blog",
+        "url": "https://vercel.com/blog/ai",
+        "publishedAt": "2026-05-22T13:19:34.813Z"
+      },
+      {
+        "title": "Replit — Replit Blog – Product updates from the team",
+        "publisher": "Replit Blog",
+        "url": "https://blog.replit.com/",
+        "publishedAt": "2026-05-22T13:19:34.885Z"
+      },
+      {
+        "title": "Datasette Agent",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+        "publishedAt": "2026-05-21T19:52:19.000Z"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-05-22T13:19:44.384Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_en",
+    "slug": "research-anthropic-creator-and-builder-analysis-2026-05-22",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "title": "Research \\ Anthropic: creator and builder analysis",
+    "subtitle": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T13:19:44.664Z",
+    "readingTime": 1,
+    "sourceCount": 6,
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "alt": "Research \\ Anthropic: creator and builder analysis",
+      "caption": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability."
+    },
+    "highlights": [
+      {
+        "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
+      },
+      {
+        "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
+      },
+      {
+        "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+      }
+    ],
+    "sections": [
+      {
+        "id": "main",
+        "heading": "Analysis",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Why This Matters",
+        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Verify the source trail from listed sources",
+        "Test in one small workflow before scaling",
+        "Monitor developments over the next 1-2 weeks"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Research \\ Anthropic",
+        "publisher": "Anthropic Research",
+        "url": "https://www.anthropic.com/research",
+        "publishedAt": "2026-05-22T13:19:34.000Z"
+      },
+      {
+        "title": "What's New in Cursor — Latest Updates & Release Notes",
+        "publisher": "Cursor Changelog",
+        "url": "https://www.cursor.com/changelog",
+        "publishedAt": "2026-05-22T13:19:34.699Z"
+      },
+      {
+        "title": "GitHub Copilot Archives - The GitHub Blog",
+        "publisher": "GitHub Copilot Blog",
+        "url": "https://github.blog/tag/github-copilot/",
+        "publishedAt": "2026-05-22T13:19:34.222Z"
+      },
+      {
+        "title": "Vercel AI Blog signal for ai-vibe-coding",
+        "publisher": "Vercel AI Blog",
+        "url": "https://vercel.com/blog/ai",
+        "publishedAt": "2026-05-22T13:19:34.813Z"
+      },
+      {
+        "title": "Replit — Replit Blog – Product updates from the team",
+        "publisher": "Replit Blog",
+        "url": "https://blog.replit.com/",
+        "publishedAt": "2026-05-22T13:19:34.885Z"
+      },
+      {
+        "title": "Datasette Agent",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+        "publishedAt": "2026-05-21T19:52:19.000Z"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-05-22T13:19:44.664Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22_vi",
+    "slug": "ftc-to-require-cox-media-group-two-other-firms-to-pay-nearl-2026-05-22",
     "lang": "vi",
     "category": "ai-agentic",
-    "title": "LangChain Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T13:19:44.314Z",
     "readingTime": 2,
-    "sourceCount": 16,
+    "sourceCount": 18,
     "tags": [
       "ai-agentic",
       "ai-radar",
@@ -21,8 +233,8 @@ export const generatedArticles: Article[] = [
     "heroMedia": {
       "type": "image",
       "src": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
-      "alt": "LangChain Blog: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
+      "alt": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
     },
     "highlights": [
       {
@@ -67,13 +279,19 @@ export const generatedArticles: Article[] = [
         "title": "LangChain Blog",
         "publisher": "LangChain Blog",
         "url": "https://blog.langchain.dev/rss/",
-        "publishedAt": "2026-05-22T01:01:34.427Z"
+        "publishedAt": "2026-05-22T13:19:34.789Z"
+      },
+      {
+        "title": "OpenAI Blog signal for ai-agentic",
+        "publisher": "OpenAI Blog",
+        "url": "https://openai.com/blog",
+        "publishedAt": "2026-05-22T13:19:33.882Z"
       },
       {
         "title": "MCP Blog signal for ai-agentic",
         "publisher": "MCP Blog",
         "url": "https://modelcontextprotocol.io/blog",
-        "publishedAt": "2026-05-22T01:01:33.725Z"
+        "publishedAt": "2026-05-22T13:19:34.205Z"
       },
       {
         "title": "Weekly Thread: Project Display",
@@ -88,22 +306,28 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-18T16:00:57.000Z"
       },
       {
-        "title": "how to stop building agents that users just ignore?",
+        "title": "How do you decide which AI tools are actually worth keeping active?",
         "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tjxk58/how_to_stop_building_agents_that_users_just_ignore/",
-        "publishedAt": "2026-05-21T20:52:24.000Z"
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tkghyu/how_do_you_decide_which_ai_tools_are_actually/",
+        "publishedAt": "2026-05-22T11:43:30.000Z"
       },
       {
-        "title": "I build AI agents for businesses, here’s what actually breaks first when they run 24/7",
+        "title": "People trust Reddit comments more than polished landing pages now",
         "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/",
-        "publishedAt": "2026-05-21T22:52:46.000Z"
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tkg2z3/people_trust_reddit_comments_more_than_polished/",
+        "publishedAt": "2026-05-22T11:24:03.000Z"
       },
       {
-        "title": "Proxy for LLMs to learn how Agents works?",
+        "title": "Getting compute limits while vibe coding my app,any way around this? Any truly unlimited paid models?",
         "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tjxo5q/proxy_for_llms_to_learn_how_agents_works/",
-        "publishedAt": "2026-05-21T20:56:30.000Z"
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tkf0o8/getting_compute_limits_while_vibe_coding_my/",
+        "publishedAt": "2026-05-22T10:31:30.000Z"
+      },
+      {
+        "title": "How open-sourced models are being sold (and how exposing them results in unfair strikes)",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tk9xo6/how_opensourced_models_are_being_sold_and_how/",
+        "publishedAt": "2026-05-22T05:55:01.000Z"
       },
       {
         "title": "google omni vs LTX 2.3 (rtx 4060ti local)",
@@ -112,22 +336,28 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-21T22:43:22.000Z"
       },
       {
-        "title": "Gemma 4 + New ComfyUI Nodes That Make Prompting Easy! (Ep18)",
+        "title": "This program needs its own police force.",
         "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tjneuj/gemma_4_new_comfyui_nodes_that_make_prompting/",
-        "publishedAt": "2026-05-21T15:08:57.000Z"
+        "url": "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
+        "publishedAt": "2026-05-21T18:21:40.000Z"
       },
       {
         "title": "News | Luma",
         "publisher": "Luma Labs Blog",
         "url": "https://lumalabs.ai/blog",
-        "publishedAt": "2026-05-22T01:01:35.147Z"
+        "publishedAt": "2026-05-22T13:19:34.938Z"
       },
       {
         "title": "Hugging Face – Blog",
         "publisher": "Hugging Face Blog",
         "url": "https://huggingface.co/blog",
-        "publishedAt": "2026-05-22T01:01:34.102Z"
+        "publishedAt": "2026-05-22T13:19:34.585Z"
+      },
+      {
+        "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+        "publishedAt": "2026-05-22T04:48:32.000Z"
       },
       {
         "title": "datasette-agent-sprites 0.1a0",
@@ -148,37 +378,31 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-21T15:04:09.000Z"
       },
       {
-        "title": "Quoting SpaceX S-1",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
-        "publishedAt": "2026-05-20T22:26:36.000Z"
-      },
-      {
         "title": "Lil'Log",
         "publisher": "Lil'Log",
         "url": "https://lilianweng.github.io/",
-        "publishedAt": "2026-05-22T01:01:33.832Z"
+        "publishedAt": "2026-05-22T13:19:34.606Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-22T01:01:41.278Z",
-      "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-22",
+      "generatedAt": "2026-05-22T13:19:44.314Z",
+      "sourceClusterId": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-agentic_langchain-blog_2026-05-22_en",
-    "slug": "langchain-blog-creator-and-builder-analysis-2026-05-22",
+    "id": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22_en",
+    "slug": "ftc-to-require-cox-media-group-two-other-firms-to-pay-nearl-2026-05-22",
     "lang": "en",
     "category": "ai-agentic",
-    "title": "LangChain Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T13:19:44.633Z",
     "readingTime": 2,
-    "sourceCount": 16,
+    "sourceCount": 18,
     "tags": [
       "ai-agentic",
       "ai-radar",
@@ -187,8 +411,8 @@ export const generatedArticles: Article[] = [
     "heroMedia": {
       "type": "image",
       "src": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
-      "alt": "LangChain Blog: creator and builder analysis",
-      "caption": "Signal synthesized from LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability."
+      "alt": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...: creator and builder analysis",
+      "caption": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability."
     },
     "highlights": [
       {
@@ -233,13 +457,19 @@ export const generatedArticles: Article[] = [
         "title": "LangChain Blog",
         "publisher": "LangChain Blog",
         "url": "https://blog.langchain.dev/rss/",
-        "publishedAt": "2026-05-22T01:01:34.427Z"
+        "publishedAt": "2026-05-22T13:19:34.789Z"
+      },
+      {
+        "title": "OpenAI Blog signal for ai-agentic",
+        "publisher": "OpenAI Blog",
+        "url": "https://openai.com/blog",
+        "publishedAt": "2026-05-22T13:19:33.882Z"
       },
       {
         "title": "MCP Blog signal for ai-agentic",
         "publisher": "MCP Blog",
         "url": "https://modelcontextprotocol.io/blog",
-        "publishedAt": "2026-05-22T01:01:33.725Z"
+        "publishedAt": "2026-05-22T13:19:34.205Z"
       },
       {
         "title": "Weekly Thread: Project Display",
@@ -254,22 +484,28 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-18T16:00:57.000Z"
       },
       {
-        "title": "how to stop building agents that users just ignore?",
+        "title": "How do you decide which AI tools are actually worth keeping active?",
         "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tjxk58/how_to_stop_building_agents_that_users_just_ignore/",
-        "publishedAt": "2026-05-21T20:52:24.000Z"
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tkghyu/how_do_you_decide_which_ai_tools_are_actually/",
+        "publishedAt": "2026-05-22T11:43:30.000Z"
       },
       {
-        "title": "I build AI agents for businesses, here’s what actually breaks first when they run 24/7",
+        "title": "People trust Reddit comments more than polished landing pages now",
         "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/",
-        "publishedAt": "2026-05-21T22:52:46.000Z"
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tkg2z3/people_trust_reddit_comments_more_than_polished/",
+        "publishedAt": "2026-05-22T11:24:03.000Z"
       },
       {
-        "title": "Proxy for LLMs to learn how Agents works?",
+        "title": "Getting compute limits while vibe coding my app,any way around this? Any truly unlimited paid models?",
         "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tjxo5q/proxy_for_llms_to_learn_how_agents_works/",
-        "publishedAt": "2026-05-21T20:56:30.000Z"
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tkf0o8/getting_compute_limits_while_vibe_coding_my/",
+        "publishedAt": "2026-05-22T10:31:30.000Z"
+      },
+      {
+        "title": "How open-sourced models are being sold (and how exposing them results in unfair strikes)",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tk9xo6/how_opensourced_models_are_being_sold_and_how/",
+        "publishedAt": "2026-05-22T05:55:01.000Z"
       },
       {
         "title": "google omni vs LTX 2.3 (rtx 4060ti local)",
@@ -278,22 +514,28 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-21T22:43:22.000Z"
       },
       {
-        "title": "Gemma 4 + New ComfyUI Nodes That Make Prompting Easy! (Ep18)",
+        "title": "This program needs its own police force.",
         "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tjneuj/gemma_4_new_comfyui_nodes_that_make_prompting/",
-        "publishedAt": "2026-05-21T15:08:57.000Z"
+        "url": "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
+        "publishedAt": "2026-05-21T18:21:40.000Z"
       },
       {
         "title": "News | Luma",
         "publisher": "Luma Labs Blog",
         "url": "https://lumalabs.ai/blog",
-        "publishedAt": "2026-05-22T01:01:35.147Z"
+        "publishedAt": "2026-05-22T13:19:34.938Z"
       },
       {
         "title": "Hugging Face – Blog",
         "publisher": "Hugging Face Blog",
         "url": "https://huggingface.co/blog",
-        "publishedAt": "2026-05-22T01:01:34.102Z"
+        "publishedAt": "2026-05-22T13:19:34.585Z"
+      },
+      {
+        "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+        "publishedAt": "2026-05-22T04:48:32.000Z"
       },
       {
         "title": "datasette-agent-sprites 0.1a0",
@@ -314,23 +556,17 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-21T15:04:09.000Z"
       },
       {
-        "title": "Quoting SpaceX S-1",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
-        "publishedAt": "2026-05-20T22:26:36.000Z"
-      },
-      {
         "title": "Lil'Log",
         "publisher": "Lil'Log",
         "url": "https://lilianweng.github.io/",
-        "publishedAt": "2026-05-22T01:01:33.832Z"
+        "publishedAt": "2026-05-22T13:19:34.606Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-22T01:01:41.279Z",
-      "sourceClusterId": "cluster_ai-agentic_langchain-blog_2026-05-22",
+      "generatedAt": "2026-05-22T13:19:44.633Z",
+      "sourceClusterId": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
@@ -342,7 +578,7 @@ export const generatedArticles: Article[] = [
     "category": "ai-image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "publishedAt": "2026-05-22T13:19:44.330Z",
     "readingTime": 1,
     "sourceCount": 15,
     "tags": [
@@ -399,73 +635,73 @@ export const generatedArticles: Article[] = [
         "title": "Stability AI Blog signal for ai-image",
         "publisher": "Stability AI Blog",
         "url": "https://stability.ai/news/rss",
-        "publishedAt": "2026-05-22T01:01:33.679Z"
+        "publishedAt": "2026-05-22T13:19:34.167Z"
       },
       {
         "title": "Blog | Black Forest Labs",
         "publisher": "Black Forest Labs",
         "url": "https://blackforestlabs.ai/blog/",
-        "publishedAt": "2026-05-22T01:01:35.111Z"
+        "publishedAt": "2026-05-22T13:19:34.897Z"
       },
       {
         "title": "Blog – Replicate",
         "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
-        "publishedAt": "2026-05-22T01:01:34.818Z"
+        "publishedAt": "2026-05-22T13:19:34.472Z"
       },
       {
-        "title": "Krea 2 will be open source.",
+        "title": "Been testing Krea 2 Large and Medium",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjnwgo/krea_2_will_be_open_source/",
-        "publishedAt": "2026-05-21T15:24:55.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkd293/been_testing_krea_2_large_and_medium/",
+        "publishedAt": "2026-05-22T08:46:46.000Z"
       },
       {
-        "title": "Control FLUX.2 with reference images instead of training a LoRA — demo",
+        "title": "Phosphene 3.0 — open source AI video + image suite for Apple Silicon. Train your own LTX characters.",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjqssg/control_flux2_with_reference_images_instead_of/",
-        "publishedAt": "2026-05-21T17:03:01.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkh9c2/phosphene_30_open_source_ai_video_image_suite_for/",
+        "publishedAt": "2026-05-22T12:17:25.000Z"
       },
       {
-        "title": "As someone who can already run most of the larger models (RTX 5090) I'm extremely glad I gave Anima Base a chance",
+        "title": "LTX 2.3 + LTX Director Testing",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjymfl/as_someone_who_can_already_run_most_of_the_larger/",
-        "publishedAt": "2026-05-21T21:31:50.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkg4r9/ltx_23_ltx_director_testing/",
+        "publishedAt": "2026-05-22T11:26:23.000Z"
       },
       {
-        "title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post.",
+        "title": "Microsoft Lens seems to be back.",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjpb1u/flux_2_klein_destiled_my_workflow_following/",
-        "publishedAt": "2026-05-21T16:12:01.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkajke/microsoft_lens_seems_to_be_back/",
+        "publishedAt": "2026-05-22T06:26:13.000Z"
       },
       {
-        "title": "SAM3 added to Comfyui-Angelo (sampler/inpainter/refiner)",
+        "title": "I built a free demo for Pixal3D (Tencent new image-to-3D model)",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjp4ir/sam3_added_to_comfyuiangelo/",
-        "publishedAt": "2026-05-21T16:05:54.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkepzb/i_built_a_free_demo_for_pixal3d_tencent_new/",
+        "publishedAt": "2026-05-22T10:16:42.000Z"
       },
       {
-        "title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post.",
+        "title": "My company got WAN 2.7 I2V access",
         "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tji1c9/flux_2_klein_destiled_my_workflow_following/",
-        "publishedAt": "2026-05-21T11:47:50.000Z"
+        "url": "https://www.reddit.com/r/comfyui/comments/1tkedzb/my_company_got_wan_27_i2v_access/",
+        "publishedAt": "2026-05-22T10:00:08.000Z"
       },
       {
-        "title": "I wish they still made anime like this pt 2.",
+        "title": "Character Consistency | Lora Training and testing | Flux",
         "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tjja3y/i_wish_they_still_made_anime_like_this_pt_2/",
-        "publishedAt": "2026-05-21T12:39:56.000Z"
+        "url": "https://www.reddit.com/r/comfyui/comments/1tkh0gr/character_consistency_lora_training_and_testing/",
+        "publishedAt": "2026-05-22T12:06:19.000Z"
       },
       {
         "title": "AI Video Research & Innovation | Runway AI",
         "publisher": "Runway Research",
         "url": "https://runwayml.com/research",
-        "publishedAt": "2026-05-22T01:01:33.471Z"
+        "publishedAt": "2026-05-22T13:19:34.114Z"
       },
       {
         "title": "ComfyUI Blog | Robin | Substack",
         "publisher": "ComfyUI Blog",
         "url": "https://blog.comfy.org/",
-        "publishedAt": "2026-05-22T01:01:33.780Z"
+        "publishedAt": "2026-05-22T13:19:34.509Z"
       },
       {
         "title": "V8.1 Alpha is out!",
@@ -489,7 +725,7 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-22T01:01:41.278Z",
+      "generatedAt": "2026-05-22T13:19:44.330Z",
       "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22",
       "confidence": "high"
     },
@@ -502,7 +738,7 @@ export const generatedArticles: Article[] = [
     "category": "ai-image",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "publishedAt": "2026-05-22T13:19:44.647Z",
     "readingTime": 1,
     "sourceCount": 15,
     "tags": [
@@ -559,73 +795,73 @@ export const generatedArticles: Article[] = [
         "title": "Stability AI Blog signal for ai-image",
         "publisher": "Stability AI Blog",
         "url": "https://stability.ai/news/rss",
-        "publishedAt": "2026-05-22T01:01:33.679Z"
+        "publishedAt": "2026-05-22T13:19:34.167Z"
       },
       {
         "title": "Blog | Black Forest Labs",
         "publisher": "Black Forest Labs",
         "url": "https://blackforestlabs.ai/blog/",
-        "publishedAt": "2026-05-22T01:01:35.111Z"
+        "publishedAt": "2026-05-22T13:19:34.897Z"
       },
       {
         "title": "Blog – Replicate",
         "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
-        "publishedAt": "2026-05-22T01:01:34.818Z"
+        "publishedAt": "2026-05-22T13:19:34.472Z"
       },
       {
-        "title": "Krea 2 will be open source.",
+        "title": "Been testing Krea 2 Large and Medium",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjnwgo/krea_2_will_be_open_source/",
-        "publishedAt": "2026-05-21T15:24:55.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkd293/been_testing_krea_2_large_and_medium/",
+        "publishedAt": "2026-05-22T08:46:46.000Z"
       },
       {
-        "title": "Control FLUX.2 with reference images instead of training a LoRA — demo",
+        "title": "Phosphene 3.0 — open source AI video + image suite for Apple Silicon. Train your own LTX characters.",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjqssg/control_flux2_with_reference_images_instead_of/",
-        "publishedAt": "2026-05-21T17:03:01.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkh9c2/phosphene_30_open_source_ai_video_image_suite_for/",
+        "publishedAt": "2026-05-22T12:17:25.000Z"
       },
       {
-        "title": "As someone who can already run most of the larger models (RTX 5090) I'm extremely glad I gave Anima Base a chance",
+        "title": "LTX 2.3 + LTX Director Testing",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjymfl/as_someone_who_can_already_run_most_of_the_larger/",
-        "publishedAt": "2026-05-21T21:31:50.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkg4r9/ltx_23_ltx_director_testing/",
+        "publishedAt": "2026-05-22T11:26:23.000Z"
       },
       {
-        "title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post.",
+        "title": "Microsoft Lens seems to be back.",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjpb1u/flux_2_klein_destiled_my_workflow_following/",
-        "publishedAt": "2026-05-21T16:12:01.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkajke/microsoft_lens_seems_to_be_back/",
+        "publishedAt": "2026-05-22T06:26:13.000Z"
       },
       {
-        "title": "SAM3 added to Comfyui-Angelo (sampler/inpainter/refiner)",
+        "title": "I built a free demo for Pixal3D (Tencent new image-to-3D model)",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tjp4ir/sam3_added_to_comfyuiangelo/",
-        "publishedAt": "2026-05-21T16:05:54.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkepzb/i_built_a_free_demo_for_pixal3d_tencent_new/",
+        "publishedAt": "2026-05-22T10:16:42.000Z"
       },
       {
-        "title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post.",
+        "title": "My company got WAN 2.7 I2V access",
         "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tji1c9/flux_2_klein_destiled_my_workflow_following/",
-        "publishedAt": "2026-05-21T11:47:50.000Z"
+        "url": "https://www.reddit.com/r/comfyui/comments/1tkedzb/my_company_got_wan_27_i2v_access/",
+        "publishedAt": "2026-05-22T10:00:08.000Z"
       },
       {
-        "title": "I wish they still made anime like this pt 2.",
+        "title": "Character Consistency | Lora Training and testing | Flux",
         "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tjja3y/i_wish_they_still_made_anime_like_this_pt_2/",
-        "publishedAt": "2026-05-21T12:39:56.000Z"
+        "url": "https://www.reddit.com/r/comfyui/comments/1tkh0gr/character_consistency_lora_training_and_testing/",
+        "publishedAt": "2026-05-22T12:06:19.000Z"
       },
       {
         "title": "AI Video Research & Innovation | Runway AI",
         "publisher": "Runway Research",
         "url": "https://runwayml.com/research",
-        "publishedAt": "2026-05-22T01:01:33.471Z"
+        "publishedAt": "2026-05-22T13:19:34.114Z"
       },
       {
         "title": "ComfyUI Blog | Robin | Substack",
         "publisher": "ComfyUI Blog",
         "url": "https://blog.comfy.org/",
-        "publishedAt": "2026-05-22T01:01:33.780Z"
+        "publishedAt": "2026-05-22T13:19:34.509Z"
       },
       {
         "title": "V8.1 Alpha is out!",
@@ -649,268 +885,8 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-22T01:01:41.279Z",
+      "generatedAt": "2026-05-22T13:19:44.647Z",
       "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_vi",
-    "slug": "research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-22",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-22T01:01:41.278Z",
-    "readingTime": 1,
-    "sourceCount": 10,
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "alt": "Research \\ Anthropic: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
-    "highlights": [
-      {
-        "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
-      },
-      {
-        "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
-      },
-      {
-        "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Research \\ Anthropic",
-        "publisher": "Anthropic Research",
-        "url": "https://www.anthropic.com/research",
-        "publishedAt": "2026-05-22T01:01:34.103Z"
-      },
-      {
-        "title": "OpenAI Blog signal for ai-agentic",
-        "publisher": "OpenAI Blog",
-        "url": "https://openai.com/blog",
-        "publishedAt": "2026-05-22T01:01:33.311Z"
-      },
-      {
-        "title": "This program needs its own police force.",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
-        "publishedAt": "2026-05-21T18:21:40.000Z"
-      },
-      {
-        "title": "What's New in Cursor — Latest Updates & Release Notes",
-        "publisher": "Cursor Changelog",
-        "url": "https://www.cursor.com/changelog",
-        "publishedAt": "2026-05-22T01:01:33.912Z"
-      },
-      {
-        "title": "GitHub Copilot Archives - The GitHub Blog",
-        "publisher": "GitHub Copilot Blog",
-        "url": "https://github.blog/tag/github-copilot/",
-        "publishedAt": "2026-05-22T01:01:33.676Z"
-      },
-      {
-        "title": "Vercel AI Blog signal for ai-vibe-coding",
-        "publisher": "Vercel AI Blog",
-        "url": "https://vercel.com/blog/ai",
-        "publishedAt": "2026-05-22T01:01:34.850Z"
-      },
-      {
-        "title": "Replit — Replit Blog – Product updates from the team",
-        "publisher": "Replit Blog",
-        "url": "https://blog.replit.com/",
-        "publishedAt": "2026-05-22T01:01:35.042Z"
-      },
-      {
-        "title": "Extensive list of generative tools curated by Eyal Gruss",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "publishedAt": "2021-01-22T08:37:47.000Z"
-      },
-      {
-        "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
-        "publishedAt": "2026-05-19T23:53:07.000Z"
-      },
-      {
-        "title": "Datasette Agent",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-        "publishedAt": "2026-05-21T19:52:19.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-22T01:01:41.278Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_en",
-    "slug": "research-anthropic-creator-and-builder-analysis-2026-05-22",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-22T01:01:41.279Z",
-    "readingTime": 1,
-    "sourceCount": 10,
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "alt": "Research \\ Anthropic: creator and builder analysis",
-      "caption": "Signal synthesized from Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability."
-    },
-    "highlights": [
-      {
-        "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
-      },
-      {
-        "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
-      },
-      {
-        "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Research \\ Anthropic",
-        "publisher": "Anthropic Research",
-        "url": "https://www.anthropic.com/research",
-        "publishedAt": "2026-05-22T01:01:34.103Z"
-      },
-      {
-        "title": "OpenAI Blog signal for ai-agentic",
-        "publisher": "OpenAI Blog",
-        "url": "https://openai.com/blog",
-        "publishedAt": "2026-05-22T01:01:33.311Z"
-      },
-      {
-        "title": "This program needs its own police force.",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
-        "publishedAt": "2026-05-21T18:21:40.000Z"
-      },
-      {
-        "title": "What's New in Cursor — Latest Updates & Release Notes",
-        "publisher": "Cursor Changelog",
-        "url": "https://www.cursor.com/changelog",
-        "publishedAt": "2026-05-22T01:01:33.912Z"
-      },
-      {
-        "title": "GitHub Copilot Archives - The GitHub Blog",
-        "publisher": "GitHub Copilot Blog",
-        "url": "https://github.blog/tag/github-copilot/",
-        "publishedAt": "2026-05-22T01:01:33.676Z"
-      },
-      {
-        "title": "Vercel AI Blog signal for ai-vibe-coding",
-        "publisher": "Vercel AI Blog",
-        "url": "https://vercel.com/blog/ai",
-        "publishedAt": "2026-05-22T01:01:34.850Z"
-      },
-      {
-        "title": "Replit — Replit Blog – Product updates from the team",
-        "publisher": "Replit Blog",
-        "url": "https://blog.replit.com/",
-        "publishedAt": "2026-05-22T01:01:35.042Z"
-      },
-      {
-        "title": "Extensive list of generative tools curated by Eyal Gruss",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "publishedAt": "2021-01-22T08:37:47.000Z"
-      },
-      {
-        "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
-        "publishedAt": "2026-05-19T23:53:07.000Z"
-      },
-      {
-        "title": "Datasette Agent",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-        "publishedAt": "2026-05-21T19:52:19.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-22T01:01:41.279Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
@@ -922,9 +898,9 @@ export const generatedArticles: Article[] = [
     "category": "ai-video",
     "title": "Kling AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "publishedAt": "2026-05-22T13:19:44.375Z",
     "readingTime": 1,
-    "sourceCount": 6,
+    "sourceCount": 7,
     "tags": [
       "ai-video",
       "ai-radar",
@@ -979,7 +955,7 @@ export const generatedArticles: Article[] = [
         "title": "Pika blog",
         "publisher": "Pika Labs Blog",
         "url": "https://pika.art/blog",
-        "publishedAt": "2026-05-22T01:01:33.891Z"
+        "publishedAt": "2026-05-22T13:19:34.399Z"
       },
       {
         "title": "Featured Titles + Latest Releases",
@@ -994,28 +970,34 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-01-15T08:28:02.000Z"
       },
       {
+        "title": "The Quiet Collapse | Red Rainbow",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tkbvs9/the_quiet_collapse_red_rainbow/",
+        "publishedAt": "2026-05-22T07:39:46.000Z"
+      },
+      {
         "title": "Lingerie photoshoot",
         "publisher": "r/aivideo",
         "url": "https://www.reddit.com/r/aivideo/comments/1tjq72c/lingerie_photoshoot/",
         "publishedAt": "2026-05-21T16:42:34.000Z"
       },
       {
-        "title": "Time Keeps Ticking",
+        "title": "Cletus, the AGI Robot",
         "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tjlo7s/time_keeps_ticking/",
-        "publishedAt": "2026-05-21T14:09:06.000Z"
+        "url": "https://www.reddit.com/r/aivideo/comments/1tkf1j5/cletus_the_agi_robot/",
+        "publishedAt": "2026-05-22T10:32:43.000Z"
       },
       {
         "title": "Kling AI",
         "publisher": "Kling AI Blog",
         "url": "https://klingai.com/blog",
-        "publishedAt": "2026-05-22T01:01:34.799Z"
+        "publishedAt": "2026-05-22T13:19:35.939Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-22T01:01:41.278Z",
+      "generatedAt": "2026-05-22T13:19:44.375Z",
       "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-22",
       "confidence": "high"
     },
@@ -1028,9 +1010,9 @@ export const generatedArticles: Article[] = [
     "category": "ai-video",
     "title": "Kling AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "publishedAt": "2026-05-22T13:19:44.663Z",
     "readingTime": 1,
-    "sourceCount": 6,
+    "sourceCount": 7,
     "tags": [
       "ai-video",
       "ai-radar",
@@ -1085,7 +1067,7 @@ export const generatedArticles: Article[] = [
         "title": "Pika blog",
         "publisher": "Pika Labs Blog",
         "url": "https://pika.art/blog",
-        "publishedAt": "2026-05-22T01:01:33.891Z"
+        "publishedAt": "2026-05-22T13:19:34.399Z"
       },
       {
         "title": "Featured Titles + Latest Releases",
@@ -1100,41 +1082,47 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-01-15T08:28:02.000Z"
       },
       {
+        "title": "The Quiet Collapse | Red Rainbow",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1tkbvs9/the_quiet_collapse_red_rainbow/",
+        "publishedAt": "2026-05-22T07:39:46.000Z"
+      },
+      {
         "title": "Lingerie photoshoot",
         "publisher": "r/aivideo",
         "url": "https://www.reddit.com/r/aivideo/comments/1tjq72c/lingerie_photoshoot/",
         "publishedAt": "2026-05-21T16:42:34.000Z"
       },
       {
-        "title": "Time Keeps Ticking",
+        "title": "Cletus, the AGI Robot",
         "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tjlo7s/time_keeps_ticking/",
-        "publishedAt": "2026-05-21T14:09:06.000Z"
+        "url": "https://www.reddit.com/r/aivideo/comments/1tkf1j5/cletus_the_agi_robot/",
+        "publishedAt": "2026-05-22T10:32:43.000Z"
       },
       {
         "title": "Kling AI",
         "publisher": "Kling AI Blog",
         "url": "https://klingai.com/blog",
-        "publishedAt": "2026-05-22T01:01:34.799Z"
+        "publishedAt": "2026-05-22T13:19:35.939Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-22T01:01:41.279Z",
+      "generatedAt": "2026-05-22T13:19:44.663Z",
       "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-22",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-image_victorian-xenobotany_2026-05-22_vi",
-    "slug": "victorian-xenobotany-goc-nhin-cho-creator-va-builder-2026-05-22",
+    "id": "cluster_prompt-image_untitled-56_2026-05-22_vi",
+    "slug": "untitled-56-goc-nhin-cho-creator-va-builder-2026-05-22",
     "lang": "vi",
     "category": "prompt-image",
-    "title": "Victorian xenobotany: góc nhìn cho creator và builder",
+    "title": "Untitled 56: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "publishedAt": "2026-05-22T13:19:44.377Z",
     "readingTime": 1,
     "sourceCount": 3,
     "tags": [
@@ -1142,21 +1130,15 @@ export const generatedArticles: Article[] = [
       "ai-radar",
       "daily-signal"
     ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://preview.redd.it/5vviurrbjh2h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=deb7d02d32a664e1b7a8c6771193448098c76262",
-      "alt": "Victorian xenobotany: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
     "highlights": [
       {
-        "text": "Summary: submitted by /u/Slave_Human [link] [comments]"
+        "text": "submitted by /u/12washingbeard [link] [comments]"
       },
       {
-        "text": "Top comments:\nThe second one is Ajani, from MTG."
+        "text": "submitted by /u/Dropdeadlegs84 [link] [comments]"
       },
       {
-        "text": "Also no one is worried about massacre girl just hanging out at the bar in pic 3?"
+        "text": "submitted by /u/NaturalCrits [link] [comments]"
       }
     ],
     "sections": [
@@ -1166,7 +1148,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "• Summary: submitted by /u/Slave_Human [link] [comments]\n\n• Top comments:\nThe second one is Ajani, from MTG.\n\n• Also no one is worried about massacre girl just hanging out at the bar in pic 3?"
+            "text": "• submitted by /u/12washingbeard [link] [comments]\n\n• submitted by /u/Dropdeadlegs84 [link] [comments]\n\n• submitted by /u/NaturalCrits [link] [comments]"
           }
         ]
       }
@@ -1188,41 +1170,41 @@ export const generatedArticles: Article[] = [
     },
     "sources": [
       {
-        "title": "Nocturnal Land #134",
+        "title": "Untitled 56",
         "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tjzpcn/nocturnal_land_134/",
-        "publishedAt": "2026-05-21T22:12:52.000Z"
+        "url": "https://www.reddit.com/r/midjourney/comments/1tk6tuo/untitled_56/",
+        "publishedAt": "2026-05-22T03:21:10.000Z"
       },
       {
-        "title": "Some characters. I hope you like them.",
+        "title": "The good old 2060s",
         "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tjkyz9/some_characters_i_hope_you_like_them/",
-        "publishedAt": "2026-05-21T13:43:36.000Z"
+        "url": "https://www.reddit.com/r/midjourney/comments/1tkgckp/the_good_old_2060s/",
+        "publishedAt": "2026-05-22T11:36:26.000Z"
       },
       {
-        "title": "Victorian xenobotany",
+        "title": "Paladin Pencil Sketch",
         "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tjj70o/victorian_xenobotany/",
-        "publishedAt": "2026-05-21T12:36:19.000Z"
+        "url": "https://www.reddit.com/r/midjourney/comments/1tk4sui/paladin_pencil_sketch/",
+        "publishedAt": "2026-05-22T01:50:35.000Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-22T01:01:41.278Z",
-      "sourceClusterId": "cluster_prompt-image_victorian-xenobotany_2026-05-22",
+      "generatedAt": "2026-05-22T13:19:44.377Z",
+      "sourceClusterId": "cluster_prompt-image_untitled-56_2026-05-22",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-image_victorian-xenobotany_2026-05-22_en",
-    "slug": "victorian-xenobotany-creator-and-builder-analysis-2026-05-22",
+    "id": "cluster_prompt-image_untitled-56_2026-05-22_en",
+    "slug": "untitled-56-creator-and-builder-analysis-2026-05-22",
     "lang": "en",
     "category": "prompt-image",
-    "title": "Victorian xenobotany: creator and builder analysis",
+    "title": "Untitled 56: creator and builder analysis",
     "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "publishedAt": "2026-05-22T13:19:44.673Z",
     "readingTime": 1,
     "sourceCount": 3,
     "tags": [
@@ -1230,21 +1212,15 @@ export const generatedArticles: Article[] = [
       "ai-radar",
       "daily-signal"
     ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://preview.redd.it/5vviurrbjh2h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=deb7d02d32a664e1b7a8c6771193448098c76262",
-      "alt": "Victorian xenobotany: creator and builder analysis",
-      "caption": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability."
-    },
     "highlights": [
       {
-        "text": "Summary: submitted by /u/Slave_Human [link] [comments]"
+        "text": "submitted by /u/12washingbeard [link] [comments]"
       },
       {
-        "text": "Top comments:\nThe second one is Ajani, from MTG."
+        "text": "submitted by /u/Dropdeadlegs84 [link] [comments]"
       },
       {
-        "text": "Also no one is worried about massacre girl just hanging out at the bar in pic 3?"
+        "text": "submitted by /u/NaturalCrits [link] [comments]"
       }
     ],
     "sections": [
@@ -1254,7 +1230,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "• Summary: submitted by /u/Slave_Human [link] [comments]\n\n• Top comments:\nThe second one is Ajani, from MTG.\n\n• Also no one is worried about massacre girl just hanging out at the bar in pic 3?"
+            "text": "• submitted by /u/12washingbeard [link] [comments]\n\n• submitted by /u/Dropdeadlegs84 [link] [comments]\n\n• submitted by /u/NaturalCrits [link] [comments]"
           }
         ]
       }
@@ -1276,63 +1252,57 @@ export const generatedArticles: Article[] = [
     },
     "sources": [
       {
-        "title": "Nocturnal Land #134",
+        "title": "Untitled 56",
         "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tjzpcn/nocturnal_land_134/",
-        "publishedAt": "2026-05-21T22:12:52.000Z"
+        "url": "https://www.reddit.com/r/midjourney/comments/1tk6tuo/untitled_56/",
+        "publishedAt": "2026-05-22T03:21:10.000Z"
       },
       {
-        "title": "Some characters. I hope you like them.",
+        "title": "The good old 2060s",
         "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tjkyz9/some_characters_i_hope_you_like_them/",
-        "publishedAt": "2026-05-21T13:43:36.000Z"
+        "url": "https://www.reddit.com/r/midjourney/comments/1tkgckp/the_good_old_2060s/",
+        "publishedAt": "2026-05-22T11:36:26.000Z"
       },
       {
-        "title": "Victorian xenobotany",
+        "title": "Paladin Pencil Sketch",
         "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tjj70o/victorian_xenobotany/",
-        "publishedAt": "2026-05-21T12:36:19.000Z"
+        "url": "https://www.reddit.com/r/midjourney/comments/1tk4sui/paladin_pencil_sketch/",
+        "publishedAt": "2026-05-22T01:50:35.000Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-22T01:01:41.279Z",
-      "sourceClusterId": "cluster_prompt-image_victorian-xenobotany_2026-05-22",
+      "generatedAt": "2026-05-22T13:19:44.673Z",
+      "sourceClusterId": "cluster_prompt-image_untitled-56_2026-05-22",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22_vi",
-    "slug": "building-a-sci-fi-animated-series-here-s-the-trailer-goc-2026-05-22",
+    "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22_vi",
+    "slug": "ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-22",
     "lang": "vi",
     "category": "prompt-video",
-    "title": "Building a sci-fi animated series, Here's the trailer!: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-22T13:19:44.401Z",
     "readingTime": 1,
-    "sourceCount": 3,
+    "sourceCount": 4,
     "tags": [
       "prompt-video",
       "ai-radar",
       "daily-signal"
     ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://external-preview.redd.it/M3FqZ2doeG1majJoMSK5-6VhlUIF1eV4eygh6THfHvgYLAIt5lQ9hhh-44o8.png?format=pjpg&auto=webp&s=503ab26309d6f921fd3ad10e21e9f87ea75b2c87",
-      "alt": "Building a sci-fi animated series, Here's the trailer!: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ r/aivideo, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
     "highlights": [
       {
-        "text": "Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!"
+        "text": "submitted by /u/Wiskkey [link] [comments]"
       },
       {
-        "text": "[https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting."
+        "text": "submitted by /u/gwern [link] [comments]"
       },
       {
-        "text": "But to make an entire movie out of it..."
+        "text": "submitted by /u/gwern [link] [comments]"
       }
     ],
     "sections": [
@@ -1342,7 +1312,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "• Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!\n\n• [https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting.\n\n• But to make an entire movie out of it..."
+            "text": "• submitted by /u/Wiskkey [link] [comments]\n\n• submitted by /u/gwern [link] [comments]\n\n• submitted by /u/gwern [link] [comments]"
           }
         ]
       }
@@ -1364,16 +1334,22 @@ export const generatedArticles: Article[] = [
     },
     "sources": [
       {
-        "title": "Building a sci-fi animated series, Here's the trailer!",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tjuev9/building_a_scifi_animated_series_heres_the_trailer/",
-        "publishedAt": "2026-05-21T19:02:46.000Z"
+        "title": "Extensive list of generative tools curated by Eyal Gruss",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "publishedAt": "2021-01-22T08:37:47.000Z"
       },
       {
         "title": "AI won the 2025 Commonwealth Short Story Prize competition",
         "publisher": "r/MediaSynthesis",
         "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
         "publishedAt": "2026-05-21T23:17:53.000Z"
+      },
+      {
+        "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+        "publishedAt": "2026-05-19T23:53:07.000Z"
       },
       {
         "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
@@ -1385,42 +1361,36 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-22T01:01:41.278Z",
-      "sourceClusterId": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22",
+      "generatedAt": "2026-05-22T13:19:44.401Z",
+      "sourceClusterId": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22_en",
-    "slug": "building-a-sci-fi-animated-series-here-s-the-trailer-crea-2026-05-22",
+    "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22_en",
+    "slug": "ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-22",
     "lang": "en",
     "category": "prompt-video",
-    "title": "Building a sci-fi animated series, Here's the trailer!: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-22T13:19:44.679Z",
     "readingTime": 1,
-    "sourceCount": 3,
+    "sourceCount": 4,
     "tags": [
       "prompt-video",
       "ai-radar",
       "daily-signal"
     ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://external-preview.redd.it/M3FqZ2doeG1majJoMSK5-6VhlUIF1eV4eygh6THfHvgYLAIt5lQ9hhh-44o8.png?format=pjpg&auto=webp&s=503ab26309d6f921fd3ad10e21e9f87ea75b2c87",
-      "alt": "Building a sci-fi animated series, Here's the trailer!: creator and builder analysis",
-      "caption": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability."
-    },
     "highlights": [
       {
-        "text": "Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!"
+        "text": "submitted by /u/Wiskkey [link] [comments]"
       },
       {
-        "text": "[https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting."
+        "text": "submitted by /u/gwern [link] [comments]"
       },
       {
-        "text": "But to make an entire movie out of it..."
+        "text": "submitted by /u/gwern [link] [comments]"
       }
     ],
     "sections": [
@@ -1430,7 +1400,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "• Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!\n\n• [https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting.\n\n• But to make an entire movie out of it..."
+            "text": "• submitted by /u/Wiskkey [link] [comments]\n\n• submitted by /u/gwern [link] [comments]\n\n• submitted by /u/gwern [link] [comments]"
           }
         ]
       }
@@ -1452,16 +1422,22 @@ export const generatedArticles: Article[] = [
     },
     "sources": [
       {
-        "title": "Building a sci-fi animated series, Here's the trailer!",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tjuev9/building_a_scifi_animated_series_heres_the_trailer/",
-        "publishedAt": "2026-05-21T19:02:46.000Z"
+        "title": "Extensive list of generative tools curated by Eyal Gruss",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+        "publishedAt": "2021-01-22T08:37:47.000Z"
       },
       {
         "title": "AI won the 2025 Commonwealth Short Story Prize competition",
         "publisher": "r/MediaSynthesis",
         "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
         "publishedAt": "2026-05-21T23:17:53.000Z"
+      },
+      {
+        "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+        "publishedAt": "2026-05-19T23:53:07.000Z"
       },
       {
         "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
@@ -1473,8 +1449,8 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-22T01:01:41.279Z",
-      "sourceClusterId": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22",
+      "generatedAt": "2026-05-22T13:19:44.679Z",
+      "sourceClusterId": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22",
       "confidence": "medium"
     },
     "status": "published"

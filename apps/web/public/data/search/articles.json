@@ -320,36 +320,68 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_langchain-blog_2026-05-22_vi",
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-22T13:19:44.384Z",
+    "readingTime": 1,
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-22"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Research \\ Anthropic: creator and builder analysis",
+    "subtitle": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-22T13:19:44.664Z",
+    "readingTime": 1,
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-22"
+  },
+  {
+    "id": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "LangChain Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "ai-agentic",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "publishedAt": "2026-05-22T13:19:44.314Z",
     "readingTime": 2,
-    "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-05-22"
+    "url": "/vi/ai-agentic/ftc-to-require-cox-media-group-two-other-firms-to-pay-nearl-2026-05-22"
   },
   {
-    "id": "cluster_ai-agentic_langchain-blog_2026-05-22_en",
+    "id": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "LangChain Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-agentic",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "publishedAt": "2026-05-22T13:19:44.633Z",
     "readingTime": 2,
-    "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-05-22"
+    "url": "/en/ai-agentic/ftc-to-require-cox-media-group-two-other-firms-to-pay-nearl-2026-05-22"
   },
   {
     "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22_vi",
@@ -363,7 +395,7 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "publishedAt": "2026-05-22T13:19:44.330Z",
     "readingTime": 1,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-22"
   },
@@ -379,41 +411,9 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "publishedAt": "2026-05-22T13:19:44.647Z",
     "readingTime": 1,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-22"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-22T01:01:41.278Z",
-    "readingTime": 1,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-22"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, OpenAI Blog, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-22T01:01:41.279Z",
-    "readingTime": 1,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-22"
   },
   {
     "id": "cluster_ai-video_kling-ai_2026-05-22_vi",
@@ -427,7 +427,7 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "publishedAt": "2026-05-22T13:19:44.375Z",
     "readingTime": 1,
     "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-22"
   },
@@ -443,72 +443,72 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "publishedAt": "2026-05-22T13:19:44.663Z",
     "readingTime": 1,
     "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-22"
   },
   {
-    "id": "cluster_prompt-image_victorian-xenobotany_2026-05-22_vi",
+    "id": "cluster_prompt-image_untitled-56_2026-05-22_vi",
     "lang": "vi",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Victorian xenobotany: góc nhìn cho creator và builder",
+    "title": "Untitled 56: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "prompt-image",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "publishedAt": "2026-05-22T13:19:44.377Z",
     "readingTime": 1,
-    "url": "/vi/prompt-image/victorian-xenobotany-goc-nhin-cho-creator-va-builder-2026-05-22"
+    "url": "/vi/prompt-image/untitled-56-goc-nhin-cho-creator-va-builder-2026-05-22"
   },
   {
-    "id": "cluster_prompt-image_victorian-xenobotany_2026-05-22_en",
+    "id": "cluster_prompt-image_untitled-56_2026-05-22_en",
     "lang": "en",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Victorian xenobotany: creator and builder analysis",
+    "title": "Untitled 56: creator and builder analysis",
     "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
     "tags": [
       "prompt-image",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "publishedAt": "2026-05-22T13:19:44.673Z",
     "readingTime": 1,
-    "url": "/en/prompt-image/victorian-xenobotany-creator-and-builder-analysis-2026-05-22"
+    "url": "/en/prompt-image/untitled-56-creator-and-builder-analysis-2026-05-22"
   },
   {
-    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22_vi",
+    "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22_vi",
     "lang": "vi",
     "category": "prompt-video",
     "categoryLabel": "Prompt Video",
-    "title": "Building a sci-fi animated series, Here's the trailer!: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "prompt-video",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.278Z",
+    "publishedAt": "2026-05-22T13:19:44.401Z",
     "readingTime": 1,
-    "url": "/vi/prompt-video/building-a-sci-fi-animated-series-here-s-the-trailer-goc-2026-05-22"
+    "url": "/vi/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-22"
   },
   {
-    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-22_en",
+    "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22_en",
     "lang": "en",
     "category": "prompt-video",
     "categoryLabel": "Prompt Video",
-    "title": "Building a sci-fi animated series, Here's the trailer!: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
       "prompt-video",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-22T01:01:41.279Z",
+    "publishedAt": "2026-05-22T13:19:44.679Z",
     "readingTime": 1,
-    "url": "/en/prompt-video/building-a-sci-fi-animated-series-here-s-the-trailer-crea-2026-05-22"
+    "url": "/en/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-22"
   }
 ]
