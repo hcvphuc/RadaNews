@@ -305,17 +305,17 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/AI_Agents, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
       "ai-agents",
       "anthropic",
-      "llm-pricing",
-      "developer-experience"
+      "software-engineering",
+      "llm-orchestration"
     ],
-    "publishedAt": "2026-05-21T13:52:50.275Z",
+    "publishedAt": "2026-05-22T00:00:44.649Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-21"
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-22"
   },
   {
     "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-21_en",
@@ -323,53 +323,53 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, r/AI_Agents, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
       "ai-agents",
-      "personality-engineering",
-      "llm-pricing",
-      "anthropic"
+      "software-engineering",
+      "anthropic",
+      "cursor"
     ],
-    "publishedAt": "2026-05-21T13:53:16.690Z",
+    "publishedAt": "2026-05-22T00:01:08.248Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-21"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-22"
   },
   {
-    "id": "cluster_ai-agentic_google-i-o-gemini-spark-antigravity_2026-05-21_vi",
+    "id": "cluster_ai-agentic_langchain-blog_2026-05-21_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Google I/O, Gemini Spark, Antigravity: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "LangChain Blog: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "google-io",
-      "gemini-spark",
       "ai-agents",
-      "antigravity",
-      "developer-tools"
+      "langgraph",
+      "llm-ops",
+      "software-engineering",
+      "agentic-workflow"
     ],
-    "publishedAt": "2026-05-21T13:52:34.250Z",
+    "publishedAt": "2026-05-22T00:00:34.383Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/google-i-o-gemini-spark-antigravity-goc-nhin-cho-creator-2026-05-21"
+    "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-05-22"
   },
   {
-    "id": "cluster_ai-agentic_google-i-o-gemini-spark-antigravity_2026-05-21_en",
+    "id": "cluster_ai-agentic_langchain-blog_2026-05-21_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Google I/O, Gemini Spark, Antigravity: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "title": "LangChain Blog: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-agents",
-      "google-gemini",
-      "agentic-workflow",
-      "cybersecurity",
-      "developer-tools"
+      "langgraph",
+      "agent-observability",
+      "ux-design",
+      "production-ai"
     ],
-    "publishedAt": "2026-05-21T13:53:17.096Z",
-    "readingTime": 4,
-    "url": "/en/ai-agentic/google-i-o-gemini-spark-antigravity-creator-and-builder-a-2026-05-21"
+    "publishedAt": "2026-05-22T00:01:07.751Z",
+    "readingTime": 3,
+    "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-05-22"
   },
   {
     "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21_vi",
@@ -380,15 +380,15 @@
     "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "World-Models",
-      "FLUX",
       "Runway-AI",
+      "FLUX",
       "ComfyUI",
+      "World-Models",
       "Generative-AI"
     ],
-    "publishedAt": "2026-05-21T13:52:35.832Z",
-    "readingTime": 3,
-    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-21"
+    "publishedAt": "2026-05-22T00:00:16.582Z",
+    "readingTime": 4,
+    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-22"
   },
   {
     "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21_en",
@@ -398,16 +398,16 @@
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "RunwayAI",
-      "Flux",
-      "ComfyUI",
-      "WorldModels",
-      "GenerativeAI"
+      "World Models",
+      "FLUX.2",
+      "Runway AI",
+      "Midjourney V8",
+      "AI Video",
+      "Generative AI"
     ],
-    "publishedAt": "2026-05-21T13:53:17.424Z",
+    "publishedAt": "2026-05-22T00:00:43.671Z",
     "readingTime": 4,
-    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-21"
+    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-22"
   },
   {
     "id": "cluster_ai-video_kling-ai_2026-05-21_vi",
@@ -415,17 +415,17 @@
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "Kling AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "Kling AI",
       "AI Video",
       "Native 4K",
-      "AI Production",
-      "AI Directing"
+      "Generative AI",
+      "Content Creation"
     ],
-    "publishedAt": "2026-05-21T13:52:31.580Z",
-    "readingTime": 5,
-    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-21"
+    "publishedAt": "2026-05-22T00:00:24.644Z",
+    "readingTime": 3,
+    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-22"
   },
   {
     "id": "cluster_ai-video_kling-ai_2026-05-21_en",
@@ -433,108 +433,88 @@
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "Kling AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
       "Kling AI",
       "AI Video",
       "Native 4K",
-      "AI Cinematography",
-      "Pika Labs"
+      "Generative AI",
+      "Digital Production"
     ],
-    "publishedAt": "2026-05-21T13:53:46.772Z",
-    "readingTime": 3,
-    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-21"
+    "publishedAt": "2026-05-22T00:00:47.217Z",
+    "readingTime": 4,
+    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-22"
   },
   {
-    "id": "cluster_prompt-image_warrior_2026-05-21_vi",
+    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-21_vi",
+    "lang": "vi",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "Building a sci-fi animated series, Here's the trailer!: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "ai-video",
+      "generative-ai",
+      "storytelling",
+      "sci-fi",
+      "content-creation"
+    ],
+    "publishedAt": "2026-05-22T00:00:35.269Z",
+    "readingTime": 4,
+    "url": "/vi/prompt-video/building-a-sci-fi-animated-series-here-s-the-trailer-goc-2026-05-22"
+  },
+  {
+    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-21_en",
+    "lang": "en",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "Building a sci-fi animated series, Here's the trailer!: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "AI Video",
+      "Generative Cinema",
+      "Character Consistency",
+      "Digital Storytelling",
+      "Animation Pipeline"
+    ],
+    "publishedAt": "2026-05-22T00:01:07.792Z",
+    "readingTime": 4,
+    "url": "/en/prompt-video/building-a-sci-fi-animated-series-here-s-the-trailer-crea-2026-05-22"
+  },
+  {
+    "id": "cluster_prompt-image_nocturnal-land-134_2026-05-21_vi",
     "lang": "vi",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Warrior: góc nhìn cho creator và builder",
+    "title": "Nocturnal Land #134: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "Midjourney",
       "AI-Art",
-      "Concept-Design",
-      "Prompt-Engineering",
-      "World-Building"
+      "World-Building",
+      "Xenobotany",
+      "Concept-Art"
     ],
-    "publishedAt": "2026-05-21T13:52:22.016Z",
+    "publishedAt": "2026-05-22T00:00:21.289Z",
     "readingTime": 4,
-    "url": "/vi/prompt-image/warrior-goc-nhin-cho-creator-va-builder-2026-05-21"
+    "url": "/vi/prompt-image/nocturnal-land-134-goc-nhin-cho-creator-va-builder-2026-05-22"
   },
   {
-    "id": "cluster_prompt-image_warrior_2026-05-21_en",
+    "id": "cluster_prompt-image_nocturnal-land-134_2026-05-21_en",
     "lang": "en",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Warrior: creator and builder analysis",
+    "title": "Nocturnal Land #134: creator and builder analysis",
     "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Art",
-      "Midjourney",
-      "Character Design",
-      "Worldbuilding",
-      "Speculative Biology"
+      "midjourney",
+      "world-building",
+      "ai-art-trends",
+      "surrealism",
+      "prompt-engineering"
     ],
-    "publishedAt": "2026-05-21T13:53:10.559Z",
-    "readingTime": 4,
-    "url": "/en/prompt-image/warrior-creator-and-builder-analysis-2026-05-21"
-  },
-  {
-    "id": "cluster_prompt-video_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-21_vi",
-    "lang": "vi",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "Generative AI",
-      "AI Creativity",
-      "Digital Art",
-      "Human-AI Collaboration",
-      "Content Strategy"
-    ],
-    "publishedAt": "2026-05-21T13:52:30.436Z",
-    "readingTime": 5,
-    "url": "/vi/prompt-video/ai-is-incapable-of-poetry-it-s-incapable-of-producing-anyt-2026-05-21"
-  },
-  {
-    "id": "cluster_prompt-video_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-21_en",
-    "lang": "en",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "Generative AI",
-      "Creativity",
-      "AI Ethics",
-      "Digital Art",
-      "LLMs"
-    ],
-    "publishedAt": "2026-05-21T13:52:56.890Z",
-    "readingTime": 4,
-    "url": "/en/prompt-video/ai-is-incapable-of-poetry-it-s-incapable-of-producing-anyt-2026-05-21"
-  },
-  {
-    "id": "art_2026_05_21_google_io_2026_ai_update_vi",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "Google I/O 2026: Gemini Omni, Antigravity và cú bẻ lái sang AI agent",
-    "subtitle": "Google không chỉ ra thêm model mới. Họ đang nhét agent vào Search, coding, Cloud, Workspace và video generation — tức là biến AI từ ô chat thành lớp vận hành.",
-    "tags": [
-      "Google I/O 2026",
-      "Gemini 3.5",
-      "Gemini Omni",
-      "Antigravity",
-      "AI Search",
-      "agentic AI",
-      "Veo"
-    ],
-    "publishedAt": "2026-05-21T20:51:53+07:00",
-    "readingTime": 11,
-    "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
+    "publishedAt": "2026-05-22T00:00:52.574Z",
+    "readingTime": 3,
+    "url": "/en/prompt-image/nocturnal-land-134-creator-and-builder-analysis-2026-05-22"
   }
 ]
