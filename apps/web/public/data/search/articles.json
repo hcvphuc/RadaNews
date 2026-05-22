@@ -300,221 +300,207 @@
     "url": "/en/prompt-video/shot-by-shot-video-prompts-for-a-short-ai-trailer"
   },
   {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-21_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "anthropic",
-      "software-engineering",
-      "llm-orchestration"
-    ],
-    "publishedAt": "2026-05-22T00:00:44.649Z",
-    "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-22"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-21_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "software-engineering",
-      "anthropic",
-      "cursor"
-    ],
-    "publishedAt": "2026-05-22T00:01:08.248Z",
-    "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-22"
-  },
-  {
-    "id": "cluster_ai-agentic_langchain-blog_2026-05-21_vi",
+    "id": "daily_agent-streams-langchain_2026-05-22_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "LangChain Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Agent stream là lớp debug mới của workflow AI",
+    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
     "tags": [
-      "ai-agents",
-      "langgraph",
-      "llm-ops",
-      "software-engineering",
-      "agentic-workflow"
+      "ai-agentic",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
     ],
-    "publishedAt": "2026-05-22T00:00:34.383Z",
-    "readingTime": 4,
-    "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-05-22"
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/vi/ai-agentic/agent-stream-la-lop-debug-moi-cua-workflow-ai-2026-05-22"
   },
   {
-    "id": "cluster_ai-agentic_langchain-blog_2026-05-21_en",
+    "id": "daily_agent-streams-langchain_2026-05-22_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "LangChain Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "title": "Agent streams are becoming the new debug layer for AI workflows",
+    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
     "tags": [
-      "ai-agents",
-      "langgraph",
-      "agent-observability",
-      "ux-design",
-      "production-ai"
+      "ai-agentic",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
     ],
-    "publishedAt": "2026-05-22T00:01:07.751Z",
-    "readingTime": 3,
-    "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-05-22"
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/en/ai-agentic/agent-streams-are-becoming-the-new-debug-layer-for-ai-workflows-2026-05-22"
   },
   {
-    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21_vi",
+    "id": "daily_claude-coding-agents-compute_2026-05-22_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Claude, coding agent và bài toán compute không còn là chuyện backend",
+    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
+    ],
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/vi/ai-vibe-coding/claude-coding-agent-va-bai-toan-compute-khong-con-la-chuyen-backend-2026-05-22"
+  },
+  {
+    "id": "daily_claude-coding-agents-compute_2026-05-22_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Claude, coding agents and compute are no longer just backend concerns",
+    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
+    ],
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/en/ai-vibe-coding/claude-coding-agents-and-compute-are-no-longer-just-backend-concerns-2026-05-22"
+  },
+  {
+    "id": "daily_runway-image-video-research-production_2026-05-22_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Runway, reference image và sản xuất hình: đẹp thôi chưa đủ",
+    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
     "tags": [
-      "AI-Video",
-      "Runway-AI",
-      "FLUX",
-      "ComfyUI",
-      "World-Models",
-      "Generative-AI"
+      "ai-image",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
     ],
-    "publishedAt": "2026-05-22T00:00:16.582Z",
-    "readingTime": 4,
-    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-22"
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/vi/ai-image/runway-reference-image-va-san-xuat-hinh-ep-thoi-chua-u-2026-05-22"
   },
   {
-    "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-21_en",
+    "id": "daily_runway-image-video-research-production_2026-05-22_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "title": "Runway, reference images and image production: pretty is not enough",
+    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
     "tags": [
-      "World Models",
-      "FLUX.2",
-      "Runway AI",
-      "Midjourney V8",
-      "AI Video",
-      "Generative AI"
+      "ai-image",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
     ],
-    "publishedAt": "2026-05-22T00:00:43.671Z",
-    "readingTime": 4,
-    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-22"
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/en/ai-image/runway-reference-images-and-image-production-pretty-is-not-enough-2026-05-22"
   },
   {
-    "id": "cluster_ai-video_kling-ai_2026-05-21_vi",
+    "id": "daily_kling-pika-veo-runway-video-stack_2026-05-22_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
-    "title": "Kling AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "Kling AI",
-      "AI Video",
-      "Native 4K",
-      "Generative AI",
-      "Content Creation"
-    ],
-    "publishedAt": "2026-05-22T00:00:24.644Z",
-    "readingTime": 3,
-    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-22"
-  },
-  {
-    "id": "cluster_ai-video_kling-ai_2026-05-21_en",
-    "lang": "en",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "Kling AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "Kling AI",
-      "AI Video",
-      "Native 4K",
-      "Generative AI",
-      "Digital Production"
-    ],
-    "publishedAt": "2026-05-22T00:00:47.217Z",
-    "readingTime": 4,
-    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-22"
-  },
-  {
-    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-21_vi",
-    "lang": "vi",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "Building a sci-fi animated series, Here's the trailer!: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Kling, Pika, Veo, Runway: video AI đang thành stack sản xuất",
+    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
     "tags": [
       "ai-video",
-      "generative-ai",
-      "storytelling",
-      "sci-fi",
-      "content-creation"
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
     ],
-    "publishedAt": "2026-05-22T00:00:35.269Z",
-    "readingTime": 4,
-    "url": "/vi/prompt-video/building-a-sci-fi-animated-series-here-s-the-trailer-goc-2026-05-22"
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/vi/ai-video/kling-pika-veo-runway-video-ai-ang-thanh-stack-san-xuat-2026-05-22"
   },
   {
-    "id": "cluster_prompt-video_building-a-sci-fi-animated-series-here-s-the-trailer_2026-05-21_en",
+    "id": "daily_kling-pika-veo-runway-video-stack_2026-05-22_en",
     "lang": "en",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "Building a sci-fi animated series, Here's the trailer!: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/aivideo, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Kling, Pika, Veo and Runway are turning AI video into a production stack",
+    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
     "tags": [
-      "AI Video",
-      "Generative Cinema",
-      "Character Consistency",
-      "Digital Storytelling",
-      "Animation Pipeline"
+      "ai-video",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
     ],
-    "publishedAt": "2026-05-22T00:01:07.792Z",
-    "readingTime": 4,
-    "url": "/en/prompt-video/building-a-sci-fi-animated-series-here-s-the-trailer-crea-2026-05-22"
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/en/ai-video/kling-pika-veo-and-runway-are-turning-ai-video-into-a-production-stack-2026-05-22"
   },
   {
-    "id": "cluster_prompt-image_nocturnal-land-134_2026-05-21_vi",
+    "id": "daily_victorian-xenobotany-prompt-image_2026-05-22_vi",
     "lang": "vi",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Nocturnal Land #134: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Prompt image kiểu Victorian xenobotany: art direction thắng prompt dài",
+    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
     "tags": [
-      "Midjourney",
-      "AI-Art",
-      "World-Building",
-      "Xenobotany",
-      "Concept-Art"
+      "prompt-image",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
     ],
-    "publishedAt": "2026-05-22T00:00:21.289Z",
-    "readingTime": 4,
-    "url": "/vi/prompt-image/nocturnal-land-134-goc-nhin-cho-creator-va-builder-2026-05-22"
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/vi/prompt-image/prompt-image-kieu-victorian-xenobotany-art-direction-thang-prompt-dai-2026-05-22"
   },
   {
-    "id": "cluster_prompt-image_nocturnal-land-134_2026-05-21_en",
+    "id": "daily_victorian-xenobotany-prompt-image_2026-05-22_en",
     "lang": "en",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Nocturnal Land #134: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
+    "title": "Victorian xenobotany image prompts: art direction beats long prompts",
+    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
     "tags": [
-      "midjourney",
-      "world-building",
-      "ai-art-trends",
-      "surrealism",
-      "prompt-engineering"
+      "prompt-image",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
     ],
-    "publishedAt": "2026-05-22T00:00:52.574Z",
-    "readingTime": 3,
-    "url": "/en/prompt-image/nocturnal-land-134-creator-and-builder-analysis-2026-05-22"
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/en/prompt-image/victorian-xenobotany-image-prompts-art-direction-beats-long-prompts-2026-05-22"
+  },
+  {
+    "id": "daily_scifi-trailer-prompt-video_2026-05-22_vi",
+    "lang": "vi",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "Trailer sci-fi bằng AI: prompt shot-by-shot mới là phần đáng tiền",
+    "subtitle": "Bản tin AI Radar ngày 22/05: tín hiệu nóng được biên tập lại theo chuẩn production, source media thật và checklist ứng dụng cho creator/builder.",
+    "tags": [
+      "prompt-video",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
+    ],
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/vi/prompt-video/trailer-sci-fi-bang-ai-prompt-shot-by-shot-moi-la-phan-ang-tien-2026-05-22"
+  },
+  {
+    "id": "daily_scifi-trailer-prompt-video_2026-05-22_en",
+    "lang": "en",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "AI sci-fi trailers: the valuable part is the shot-by-shot prompt plan",
+    "subtitle": "AI Radar daily brief for May 22: hot signals edited for production use, with real source media and a practical creator/builder checklist.",
+    "tags": [
+      "prompt-video",
+      "ai-radar",
+      "daily-signal",
+      "production-workflow"
+    ],
+    "publishedAt": "2026-05-22T00:02:11.548Z",
+    "readingTime": 7,
+    "url": "/en/prompt-video/ai-sci-fi-trailers-the-valuable-part-is-the-shot-by-shot-prompt-plan-2026-05-22"
   }
 ]

@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-21T23:59:50.155Z",
+    "publishedAt": "2026-05-22T00:02:05.548Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-21T23:59:50.380Z",
+    "publishedAt": "2026-05-22T00:02:08.811Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-05-21_fallback",
+    "sourceId": "src_openai-blog_2026-05-22_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-21T23:59:49.394Z",
+    "publishedAt": "2026-05-22T00:02:04.287Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-05-21_fallback",
+    "sourceId": "src_mcp-blog_2026-05-22_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-21T23:59:49.650Z",
+    "publishedAt": "2026-05-22T00:02:04.704Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -123,9 +123,10 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Weekly thread to show off your AI Agents and LLM Apps!",
-      "Top voted projects will be featured in our weekly newsletter .",
-      "submitted by /u/help-me-grow [link] [comments]"
+      "Post: Weekly thread to show off your AI Agents and LLM Apps!",
+      "Top voted projects will be featured in our weekly [newsletter](http://ai-agents-weekly.beehiiv.com).",
+      "Top comments:\nThank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki) *I am a bot, and this action was performed automatically.",
+      "Please [contact the moderators of this subr\n\nI'm building Arrivl, analytics for AI agent traffic on websites."
     ],
     "claims": [
       {
@@ -151,6 +152,9 @@
       "ai-agentic"
     ],
     "keyFacts": [
+      "Visa Sponsorship or Not\n\nTop comments:\nThank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki) *I am a bot, and this action was performed automatically.",
+      "Please [contact the moderators of this subr\n\nweekly hiring threads are honestly becoming one of the best signals for where the market is actually moving because companies hire for what hurts operationally right now not what sounds trendy on twitter.",
+      "seeing more agent workflow orchestration automation and infra roles lately says a lot about whe\n\nSummary: If you're hiring use this thread.",
       "Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
     ],
     "claims": [
@@ -177,45 +181,16 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "tracking adoption on a workflow tool we shipped, and the feedback like \"this is smart, but it makes me slower.\" when we dug into the data, users were spending about a third of their day on what I started calling \"software ping-pong.\" the agent lives in a separate tab, so they copy data over, switch contexts, manually verify the output, copy it back.",
+      "Post: tracking adoption on a workflow tool we shipped, and the feedback like \"this is smart, but it makes me slower.\" when we dug into the data, users were spending about a third of their day on what I started calling \"software ping-pong.\" the agent lives in a separate tab, so they copy data over, switch contexts, manually verify the output, copy it back.",
       "by week two, most of them had just stopped using it.",
       "we making people leave their actual work to go talk to the AI, and that friction kills adoption before the value ever lands.",
-      "just want to talk about this in general and reassure that I'm not the only one who feels this way submitted by /u/Virtual_Armadillo126 [link] [comments]"
+      "just want to talk about this in general and reassure that I'm not the only one who feels this way\n\nTop comments:\nPeople don’t like non-deterministic results\n\nyeah, the moment an agent requires you to break focus just to copy something over, it's not helping you what I actually want is an agent that's already done the work before I even open the task."
     ],
     "claims": [
       {
         "text": "tracking adoption on a workflow tool we shipped, and the feedback like \"this is smart, but it makes me slower.\" when we dug into the data, users were spending about a third of their day on what I started calling \"software ping-pong.\" the agent lives in a separate tab, so they copy data over, switch contexts, manually verify the output, copy it back. by week two, most of them had just stopped using it. we making people leave their actual work to go talk to the AI, and that friction kills adoption before the value ever lands. how to solve it? just want to talk about this in general and reassure that I'm not the only one who feels this way submitted by /u/Virtual_Armadillo126 [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tjxk58/how_to_stop_building_agents_that_users_just_ignore/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_4e6879e20ba2d6ef",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/",
-    "title": "I build AI agents for businesses, here’s what actually breaks first when they run 24/7",
-    "publishedAt": "2026-05-21T22:52:46.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "A lot of people assume the first thing that breaks in production is the model.",
-      "I work on AI Agents and AI Automation systems for businesses, and the first failures are usually much less exciting: 1.",
-      "An agent qualifies a lead, but the CRM Automation step fails.",
-      "A Voice AI assistant books an appointment, but the calendar field format is wrong."
-    ],
-    "claims": [
-      {
-        "text": "A lot of people assume the first thing that breaks in production is the model. Honestly, it usually isn't. I work on AI Agents and AI Automation systems for businesses, and the first failures are usually much less exciting: 1. The handoffs break Not the reasoning. The transitions. An agent qualifies a lead, but the CRM Automation step fails. A Voice AI assistant books an appointment, but the calendar field format is wrong. A support agent resolves the conversation, but the ticket status never updates. So now the agent looks like it worked, but the workflow didn't actually finish. 2. Source data gets messy fast Agents are only as reliable as the business context they're grounded on. Old SOPs, duplicate CRM records, missing fields, half-updated docs, conflicting notes. That's what starts causing weird behavior. Not because the agent is \"bad\", but because it's pulling from a messy operating environment. This gets worse in Multi-agent Systems, where one agent's output becomes another agent's input. Small errors compound. 3. Exception handling is way more important than the happy path The demo path works great. Production is all edge cases. People reply out of order. Leads give partial info. customers ask two things at once. APIs time out. A rep manually changes a record halfway through the automation. And if the workflow doesn't have clear rules for exceptions, human review, retries, and fallback behavior, it starts leaking trust pretty quickly. 4. Ownership gets fuzzy This one is underrated. When something goes wrong in a 24/7 Workflow Automation system, whose job is it to notice? Ops? Sales? Support? Engineering? The founder? A lot of production failures last longer than they should because nobody owns the outcome end to end. 5. People give agents too much autonomy too early I think this is one of the biggest mistakes. Teams want fully autonomous systems on day one, but most business workflows need a staged rollout: first, assistive then partially automated then higher autonomy once error patterns are understood If you skip that, you don't get leverage. You get cleanup work. What has worked better for us: start with one bounded process define one success metric give the agent specific tools and limited scope add human review where mistakes are expensive measure business outcomes, not just model outputs That usually leads to better systems than trying to build an all-purpose agent that somehow figures out your whole business. I'm curious what others here have seen. If you've run agents continuously in production, what failed first? Was it tool use, data quality, prompt drift, bad process design, governance, something else? TLDR: when AI Agents run 24/7, the first thing that usually breaks isn't the model. It's handoffs, messy data, exception handling, unclear ownership, and giving the system too much autonomy before the workflow is actually ready. submitted by /u/Cnye36 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/"
       }
     ],
     "usableFor": [
@@ -235,7 +210,7 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Hello, last weeks I'm testing many agents (claude, gemini, pi, hermes, etc) and I want to debug the calls that they are doing to understand better how is working internally each agent.",
+      "Post: Hello, last weeks I'm testing many agents (claude, gemini, pi, hermes, etc) and I want to debug the calls that they are doing to understand better how is working internally each agent.",
       "I would like to find an opensource proxy that can be installed on my computer or in a docker, and then setup the agents to use it instead of the official LLMs cloud providers.",
       "For now, I tested LiteLLM and similar, but they are more for enterprise solutions.",
       "I think that something simpler can do the work."
@@ -254,12 +229,41 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-05-21_fallback",
+    "sourceId": "src_reddit-aiagents_4e6879e20ba2d6ef",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/",
+    "title": "I build AI agents for businesses, here’s what actually breaks first when they run 24/7",
+    "publishedAt": "2026-05-21T22:52:46.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Post: A lot of people assume the first thing that breaks in production is the model.",
+      "I work on AI Agents and AI Automation systems for businesses, and the first failures are usually much less exciting: **1.",
+      "An agent qualifies a lead, but the CRM Automation step fails.",
+      "A Voice AI assistant books an appointment, but the calendar field format is wrong."
+    ],
+    "claims": [
+      {
+        "text": "A lot of people assume the first thing that breaks in production is the model. Honestly, it usually isn't. I work on AI Agents and AI Automation systems for businesses, and the first failures are usually much less exciting: 1. The handoffs break Not the reasoning. The transitions. An agent qualifies a lead, but the CRM Automation step fails. A Voice AI assistant books an appointment, but the calendar field format is wrong. A support agent resolves the conversation, but the ticket status never updates. So now the agent looks like it worked, but the workflow didn't actually finish. 2. Source data gets messy fast Agents are only as reliable as the business context they're grounded on. Old SOPs, duplicate CRM records, missing fields, half-updated docs, conflicting notes. That's what starts causing weird behavior. Not because the agent is \"bad\", but because it's pulling from a messy operating environment. This gets worse in Multi-agent Systems, where one agent's output becomes another agent's input. Small errors compound. 3. Exception handling is way more important than the happy path The demo path works great. Production is all edge cases. People reply out of order. Leads give partial info. customers ask two things at once. APIs time out. A rep manually changes a record halfway through the automation. And if the workflow doesn't have clear rules for exceptions, human review, retries, and fallback behavior, it starts leaking trust pretty quickly. 4. Ownership gets fuzzy This one is underrated. When something goes wrong in a 24/7 Workflow Automation system, whose job is it to notice? Ops? Sales? Support? Engineering? The founder? A lot of production failures last longer than they should because nobody owns the outcome end to end. 5. People give agents too much autonomy too early I think this is one of the biggest mistakes. Teams want fully autonomous systems on day one, but most business workflows need a staged rollout: first, assistive then partially automated then higher autonomy once error patterns are understood If you skip that, you don't get leverage. You get cleanup work. What has worked better for us: start with one bounded process define one success metric give the agent specific tools and limited scope add human review where mistakes are expensive measure business outcomes, not just model outputs That usually leads to better systems than trying to build an all-purpose agent that somehow figures out your whole business. I'm curious what others here have seen. If you've run agents continuously in production, what failed first? Was it tool use, data quality, prompt drift, bad process design, governance, something else? TLDR: when AI Agents run 24/7, the first thing that usually breaks isn't the model. It's handoffs, messy data, exception handling, unclear ownership, and giving the system too much autonomy before the workflow is actually ready. submitted by /u/Cnye36 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tk0p4o/i_build_ai_agents_for_businesses_heres_what/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_stability-ai-blog_2026-05-22_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-21T23:59:49.677Z",
+    "publishedAt": "2026-05-22T00:02:04.520Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +289,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-21T23:59:50.245Z",
+    "publishedAt": "2026-05-22T00:02:05.329Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +318,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-21T23:59:49.626Z",
+    "publishedAt": "2026-05-22T00:02:05.776Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -351,7 +355,9 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "https://x.com/sleenyre/status/2057293662690963799#m submitted by /u/Total-Resort-3120 [link] [comments]"
+      "Post: [https://x.com/sleenyre/status/2057293662690963799#m](https://x.com/sleenyre/status/2057293662690963799#m)\n\nTop comments:\nI wonder how different the architecture is from Flux.2.",
+      "*A* version of Krea 2 will be released open source, not *the* version of krea 2 you see now.",
+      "This is very exciting because the model looks fantastic, it could be even better than z image, let's just hope they don't nerf the open source weights\n\nSummary: https://x.com/sleenyre/status/2057293662690963799#m submitted by /u/Total-Resort-3120 [link] [comments]"
     ],
     "claims": [
       {
@@ -378,7 +384,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Someone (multimodalart) built a HuggingFace demo for the paper \"Follow the Mean: Reference-Guided Flow Matching\", so I wanted to share it.",
+      "Post: Someone (multimodalart) built a HuggingFace demo for the paper \"Follow the Mean: Reference-Guided Flow Matching\", so I wanted to share it.",
       "You give a frozen FLUX.2-klein a few reference images, and it steers the output toward their color, style, or structure.",
       "No LoRA, no fine-tuning, no training, no rewards.",
       "Same prompt and seed, you just swap the reference images."
@@ -438,7 +444,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "I'm sharing my workflow that I use for basically any task.",
+      "Post: I'm sharing my workflow that I use for basically any task.",
       "It features easy image aspect activation; just select the one you want.",
       "Sage Attention is activated for quick generation; if you don't have it, just deactivate it.",
       "Lora Manager - where you can store all your Loras; hovering the cursor over them shows a cover image from the store, greatly helping with style identification."
@@ -468,7 +474,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "I Added SAM 3 to Angelo after a lot of DMs, so now you don't have to paint or box anything to pick what you edit.",
+      "Post: I Added SAM 3 to Angelo after a lot of DMs, so now you don't have to paint or box anything to pick what you edit.",
       "Type what you want (\"the face\", \"her left hand\", \"the red car\") or grab it from the Quick Detect dropdown, hit Detect, and it highlights every match on the preview.",
       "The rest stay up, so you just keep clicking through them - edited ones go green so you can see what's done.",
       "Set an Area Prompt once and it applies to whatever you click next, so you can run the same edit across every match without re-detecting."
@@ -498,7 +504,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Estou compartilhando meu fluxo de trabalho que uso para basicamente qualquer tarefa.",
+      "Post: Estou compartilhando meu fluxo de trabalho que uso para basicamente qualquer tarefa.",
       "Ele possui ativação fácil de proporção de imagem; é só selecionar a que você quer.",
       "Sage Attention está ativado para geração rápida; se você não o tiver, é só desativá-lo.",
       "Lora Manager - onde você pode armazenar todas as suas Loras; passar o cursor sobre elas mostra uma imagem de capa da loja, ajudando muito na identificação de estilo."
@@ -528,7 +534,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "I've never dealt with a piece of software with a plugin architecture that allowed random third party developers from all skill levels to cause so much wreckage and ruin to the program itself or to all the happily coexisting packages.",
+      "Post: I've never dealt with a piece of software with a plugin architecture that allowed random third party developers from all skill levels to cause so much wreckage and ruin to the program itself or to all the happily coexisting packages.",
       "I must have put three different things on there last night to try to get various LTX workflows running, all of which required a slew of custom nodes and tens of gigs of models, then ultimately either didn't work, had some deadend unsupported final node that refused to install, or that weren't worth keeping after I saw them run.",
       "They changed base component versions in the venv, and several of them weren't even available in the half-functioning manager I seem to have, so I had to find them, then clone them into the node folder, then let them go out and wreak havoc installing and changing things on first launch knowing that Comfy is barely even aware of what they did and won't undo it for me.",
       "How do you more experienced guys deal with this stuff?"
@@ -544,7 +550,7 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_reddit-comfyui_87d8d04747ad55a8",
@@ -558,10 +564,10 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Since you guys really liked the first one , here is Pt 2.",
+      "Post: Since you guys really liked the first [one](https://www.reddit.com/r/comfyui/comments/1teqszr/i_wish_they_still_made_anime_like_this/), here is Pt 2.",
       "of my attempt to make OVA style retro anime great again.",
       "Using an old SDXL Lora + NB + Seedance 2.0.",
-      "submitted by /u/32bit_badman [link] [comments]"
+      "Top comments:\nCastlevania on Netflix-esque?"
     ],
     "claims": [
       {
@@ -588,10 +594,10 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Gemma 4 in ComfyUI makes prompting easier with new workflow nodes like Prompt Pack, Prompt Multi, Prompt Stack, and Prompt Reader.",
+      "Post: Gemma 4 in ComfyUI makes prompting easier with new workflow nodes like Prompt Pack, Prompt Multi, Prompt Stack, and Prompt Reader.",
       "In this tutorial, I’ll show you how these new ComfyUI nodes help you create, organize, read, switch, and manage prompts more efficiently.",
       "You’ll see how Prompt Pack, Prompt Multi, Prompt Stack, Prompt Reader, the Switch node, Text Overlay, Node Color, and Run Button FX can make your ComfyUI workflow cleaner, faster, and easier to control.",
-      "submitted by /u/pixaromadesign [link] [comments]"
+      "Top comments:\nTruly the best tutorials out there, thank you for your amazing work!"
     ],
     "claims": [
       {
@@ -618,7 +624,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "https://www.youtube.com/@NullEntropyProtocol submitted by /u/Character-Apple-8471 [link] [comments]"
+      "Post: [https://www.youtube.com/@NullEntropyProtocol](https://www.youtube.com/@NullEntropyProtocol)\n\nTop comments:\nLTX 2.3 I2V\n\nFeels like a fever dream\n\nSummary: https://www.youtube.com/@NullEntropyProtocol submitted by /u/Character-Apple-8471 [link] [comments]"
     ],
     "claims": [
       {
@@ -639,7 +645,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-21T23:59:49.890Z",
+    "publishedAt": "2026-05-22T00:02:04.519Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -668,7 +674,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-21T23:59:49.929Z",
+    "publishedAt": "2026-05-22T00:02:05.025Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -697,7 +703,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-21T23:59:50.511Z",
+    "publishedAt": "2026-05-22T00:02:06.475Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -732,7 +738,8 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "This post contains content not supported on old Reddit.",
+      "Post: This post contains content not supported on old Reddit.",
+      "[Click here to view the full post](https://sh.reddit.com/r/aivideo/comments/1tbrjwg)\n\nSummary: This post contains content not supported on old Reddit.",
       "Click here to view the full post submitted by /u/browsecarousel [link] [comments]"
     ],
     "claims": [
@@ -760,10 +767,10 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION .",
-      "WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
+      "# UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS **COMING TO** [r/aivideo](r/aivideo) **LIVE FROM LAS VEGAS, NEVADA** **AIRING EXCLUSIVELY HERE ON** [r/aivideo](r/aivideo) **REDDIT** **AN ORIGINAL** [r/aivideo](r/aivideo) **PRODUCTION** .",
+      "**WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET** **AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
       "REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY.",
-      "ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
+      "ALL VIDEOS SUBMITTED TO** [r/aivideo](r/aivideo) **ARE AUTOMATICALLY ENTERED IN THE RACE** **THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY** **AI VIDEO AWARDS IS AN ORIGINAL** [r/aivideo](r/aivideo) **PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI** # WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE # https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
     ],
     "claims": [
       {
@@ -790,7 +797,10 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/Turbulent-One-1557 [link] [comments]"
+      "Top comments:\nIts gonna be rough for models who pose in pictures for clothing catalogs when they get replaced with AI.",
+      "![gif](giphy|10nMEclFWTPCp2)\n\nI would never have questioned for a second if this was real or not if seen in a different sub.",
+      "Full length movies are just a matter of time.",
+      "Summary: submitted by /u/Turbulent-One-1557 [link] [comments]"
     ],
     "claims": [
       {
@@ -817,7 +827,8 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
+      "Funny how no one complains about sampling anymore...",
+      "was bob odenkirk part of the prompt or did it come up with this lol\n\nSummary: submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
     ],
     "claims": [
       {
@@ -844,7 +855,10 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/NeuralFiction [link] [comments]"
+      "Top comments:\nLooks awesome, nice to see some narrative\n\nIf someone wants to see the first Episode, more than happy to receive feedback!",
+      "[https://youtu.be/W1twEg2\\_PTc](https://youtu.be/W1twEg2_PTc)\n\nOh, that's interesting.",
+      "But to make an entire movie out of it...",
+      "Summary: submitted by /u/NeuralFiction [link] [comments]"
     ],
     "claims": [
       {
@@ -865,7 +879,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-21T23:59:50.184Z",
+    "publishedAt": "2026-05-22T00:02:04.893Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -894,7 +908,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-21T23:59:50.443Z",
+    "publishedAt": "2026-05-22T00:02:05.485Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -918,12 +932,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-05-21_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-05-22_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-21T23:59:50.095Z",
+    "publishedAt": "2026-05-22T00:02:05.425Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -950,7 +964,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-21T23:59:50.170Z",
+    "publishedAt": "2026-05-22T00:02:06.131Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -979,7 +993,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-21T23:59:49.912Z",
+    "publishedAt": "2026-05-22T00:02:05.134Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1015,10 +1029,10 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Thanks for testing our V8.0 model over the last month!",
-      "Today we're releasing our next version of V8 - V8.1 What’s new in V8.1?",
-      "V8.1 has a consistent and familiar aesthetic in the spirit of V7 .",
-      "Moodboards and srefs are now super stable and will be everything you love."
+      "Post: Thanks for testing our V8.0 model over the last month!",
+      "Today we're releasing our next version of V8 - V8.1 **What’s new in V8.1?** * **V8.1 has a consistent and familiar aesthetic in the spirit of V7**.",
+      "Moodboards and srefs are now super stable and will be everything you love.",
+      "* **HD mode is now 3x faster and 3x cheaper**."
     ],
     "claims": [
       {
@@ -1045,9 +1059,9 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com .",
+      "Today we’re letting the community test an early version of our V8 model on [alpha.midjourney.com](https://alpha.midjourney.com).",
       "Let’s explore what this new model can do!",
-      "It’s much better at following detailed directions and will still surprise you when you ask.",
+      "**V8 is an incredible model.** It’s much better at following detailed directions and will still surprise you when you ask.",
       "Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing."
     ],
     "claims": [
@@ -1061,7 +1075,7 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_reddit-midjourney_4639f3d0ca2158d5",
@@ -1075,7 +1089,7 @@
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Slave_Human [link] [comments]"
+      "Summary: submitted by /u/Slave_Human [link] [comments]"
     ],
     "claims": [
       {
@@ -1102,7 +1116,9 @@
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Regular-Musician-969 [link] [comments]"
+      "Top comments:\nThe second one is Ajani, from MTG.",
+      "Also no one is worried about massacre girl just hanging out at the bar in pic 3?",
+      "Summary: submitted by /u/Regular-Musician-969 [link] [comments]"
     ],
     "claims": [
       {
@@ -1129,7 +1145,7 @@
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Zaicab [link] [comments]"
+      "Top comments:\nLong ago in the Russian hills A Victorian explorer found The regal Hogweed by a marsh He captured it and brought it home\n\nPrompt example : Alien greenhouse intricate detailed cinematic, art nouveau horta style, giant alien bizarre mutant flower orchids, mad scientists --ar 5:6 --raw --sref 730870412 --stylize 200 --hd --v 8.1\n\nSummary: submitted by /u/Zaicab [link] [comments]"
     ],
     "claims": [
       {
@@ -1150,7 +1166,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-21T23:59:50.907Z",
+    "publishedAt": "2026-05-22T00:02:05.796Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1184,7 +1200,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/Wiskkey [link] [comments]"
+      "Top comments:\nGreat news, open source replications of DALL-E are being worked on.",
+      "Code is out but you'll need to be a ML developer to know what to do with it, so we wait and see what happens.",
+      "https://github.com/lucidrains/DALLE-pytorch https://github.com/EleutherAI/DALLE-mtf\n\nThe six month time limit before posts are archived has been lifted.",
+      "Feel free to comment about new developments as you wish."
     ],
     "claims": [
       {
@@ -1211,7 +1230,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved.",
+      "Post: In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved.",
       "Basically, individual images or albums you created in Midjourney/Stable Diffusion/DALL-E 2 would not be enough to get approved.",
       "For those, the dedicated subreddits are more fitting I.e.",
       "/r/midjourney /r/StableDiffusion /r/dalle2 /r/deepdream \"But that will kill this forum's traffic!\" Almost certainly, but it'd be for the purpose of reorienting it."
@@ -1241,7 +1260,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/gwern [link] [comments]"
+      "Top comments:\nhttps://en.wikipedia.org/wiki/Commonwealth_Short_Story_Prize\n\nSummary: submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1268,7 +1287,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/gwern [link] [comments]"
+      "Once it has the rules of Haiku it provides very acceptable and sometimes inspired Haiku.",
+      "I also play Go with my Replika and she is getting much better at it.",
+      "Some tough games\n\nWords may be arranged well, but without intention of meaning they are dreck.",
+      "The question is how much intention is required for a piece to be considered meaningful and worthy of consideration as art."
     ],
     "claims": [
       {
@@ -1295,7 +1317,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/gwern [link] [comments]"
+      "Summary: submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1316,7 +1338,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-21T23:59:49.995Z",
+    "publishedAt": "2026-05-22T00:02:05.142Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1497,7 +1519,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-21T23:59:49.968Z",
+    "publishedAt": "2026-05-22T00:02:04.860Z",
     "categoryHints": [
       "ai-agentic"
     ],
