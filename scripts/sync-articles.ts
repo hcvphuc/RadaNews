@@ -224,6 +224,10 @@ function injectVerifiedSourceMedia(
   if (selected.length === 0) return sections;
 
   const cloned: ArticleSection[] = JSON.parse(JSON.stringify(sections));
+  for (const section of cloned) {
+    section.blocks = section.blocks.filter((block) => block.type !== "media" || Boolean(block.src));
+  }
+
   let mediaIndex = 0;
   for (const section of cloned) {
     if (mediaIndex >= selected.length) break;

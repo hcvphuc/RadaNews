@@ -1,5 +1,5 @@
 // Auto-generated from pipeline output — do not edit manually
-// Generated at: 2026-05-23T10:10:07.999Z
+// Generated at: 2026-05-23T10:15:04.141Z
 import type { Article } from "@/lib/schema";
 
 export const generatedArticles: Article[] = [
@@ -56,15 +56,6 @@ export const generatedArticles: Article[] = [
             "caption": "News | Luma — Luma Labs Blog",
             "credit": "Luma Labs Blog",
             "sourceUrl": "https://lumalabs.ai/blog",
-            "placement": "after-paragraph"
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "alt": "Biểu đồ phân bổ năng lực wafer",
-            "caption": "Sự dịch chuyển từ DDR/LPDDR sang HBM trong sản xuất chip nhớ.",
-            "credit": "Simon Willison's Weblog",
-            "sourceUrl": "https://simonwillison.net/2026/May/22/memory-shortage/",
             "placement": "after-paragraph"
           }
         ]
@@ -401,15 +392,6 @@ export const generatedArticles: Article[] = [
             "credit": "Black Forest Labs",
             "sourceUrl": "https://blackforestlabs.ai/blog/",
             "placement": "after-paragraph"
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "alt": "AI Video Innovation",
-            "caption": "Aleph 2.0 đại diện cho bước tiến trong việc kiểm soát chi tiết video AI.",
-            "credit": "Runway Research",
-            "sourceUrl": "https://runwayml.com/research",
-            "placement": "after-paragraph"
           }
         ]
       },
@@ -587,15 +569,6 @@ export const generatedArticles: Article[] = [
             "src": "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0",
             "alt": "Blog | Black Forest Labs",
             "caption": "Blog | Black Forest Labs — Black Forest Labs",
-            "credit": "Black Forest Labs",
-            "sourceUrl": "https://blackforestlabs.ai/blog/",
-            "placement": "after-paragraph"
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "alt": "FLUX Erase and Outpainting demonstration",
-            "caption": "FLUX's new tools allow for surgical precision in image manipulation and expansion.",
             "credit": "Black Forest Labs",
             "sourceUrl": "https://blackforestlabs.ai/blog/",
             "placement": "after-paragraph"
@@ -792,15 +765,6 @@ export const generatedArticles: Article[] = [
             "caption": "Replit — Replit Blog – Product updates from the team — Replit Blog",
             "credit": "Replit Blog",
             "sourceUrl": "https://blog.replit.com/",
-            "placement": "after-paragraph"
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "alt": "ComfyUI Nodes 2.0 Interface",
-            "caption": "ComfyUI đang hiện đại hóa giao diện để hỗ trợ các workflow sáng tạo phức tạp hơn.",
-            "credit": "r/comfyui",
-            "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
             "placement": "after-paragraph"
           },
           {
@@ -1150,15 +1114,6 @@ export const generatedArticles: Article[] = [
           {
             "type": "paragraph",
             "text": "Điều này không chỉ là nâng cấp về mặt kỹ thuật mà là một tuyên bố về định hướng: Đưa AI Video ra khỏi vùng 'demo' để tiến vào quy trình sản xuất công nghiệp (Industrial-Grade Production). Theo Kling AI Blog, khả năng này đặc biệt có tác động mạnh đến lĩnh vực thương mại điện tử (E-commerce) và quảng cáo, nơi mà độ sắc nét của sản phẩm là yếu tố sống còn để chuyển đổi khách hàng."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "alt": "So sánh Native 4K vs Upscaling",
-            "caption": "Sự khác biệt giữa xuất 4K trực tiếp và nâng cấp độ phân giải sau khi tạo.",
-            "credit": "Kling AI",
-            "sourceUrl": "https://klingai.com/blog",
-            "placement": "after-paragraph"
           }
         ]
       },
@@ -1501,15 +1456,6 @@ export const generatedArticles: Article[] = [
             "caption": "Homes we've never seen before — r/midjourney",
             "credit": "r/midjourney",
             "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tko8r2/homes_weve_never_seen_before/",
-            "placement": "after-paragraph"
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "alt": "Land of War series",
-            "caption": "Sự mô phỏng chi tiết phong cách manga trong Land of War",
-            "credit": "r/midjourney",
-            "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/",
             "placement": "after-paragraph"
           }
         ]
