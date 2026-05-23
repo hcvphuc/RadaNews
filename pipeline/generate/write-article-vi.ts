@@ -1,5 +1,6 @@
 import type { GeneratedArticleDraft, SourceNote, TopicCluster } from "../types/schema.ts";
 import { generateWithOllama, ollamaModel } from "./ollama.ts";
+import { sanitizeGeneratedMedia } from "./media-sanitize.ts";
 
 const STRUCTURED_PROMPT_VI = `Bạn là biên tập viên tiếng Việt của AI Radar. Viết bài phân tích chuyên sâu 800-1200 từ cho creator/developer.
 
@@ -68,7 +69,7 @@ async function tryGenerate(cluster: TopicCluster, notes: SourceNote[]): Promise<
     });
     if (!text) return undefined;
 
-    const parsed = parseJson(text);
+    const parsed = sanitizeGeneratedMedia(parseJson(text), notes);
     return {
       ...templateDraft(cluster, notes),
       ...parsed,

@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-23T00:04:20.377Z",
+    "publishedAt": "2026-05-23T09:04:50.235Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-23T00:04:19.711Z",
+    "publishedAt": "2026-05-23T09:04:53.066Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-23T00:04:19.593Z",
+    "publishedAt": "2026-05-23T09:04:49.095Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-23T00:04:19.833Z",
+    "publishedAt": "2026-05-23T09:04:49.470Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -123,9 +123,10 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Weekly thread to show off your AI Agents and LLM Apps!",
-      "Top voted projects will be featured in our weekly newsletter .",
-      "submitted by /u/help-me-grow [link] [comments]"
+      "Post: Weekly thread to show off your AI Agents and LLM Apps!",
+      "Top voted projects will be featured in our weekly [newsletter](http://ai-agents-weekly.beehiiv.com).",
+      "Top comments:\nThank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki) *I am a bot, and this action was performed automatically.",
+      "Please [contact the moderators of this subr\n\nI'm building Arrivl, analytics for AI agent traffic on websites."
     ],
     "claims": [
       {
@@ -151,6 +152,9 @@
       "ai-agentic"
     ],
     "keyFacts": [
+      "Visa Sponsorship or Not\n\nTop comments:\nThank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki) *I am a bot, and this action was performed automatically.",
+      "Please [contact the moderators of this subr\n\nweekly hiring threads are honestly becoming one of the best signals for where the market is actually moving because companies hire for what hurts operationally right now not what sounds trendy on twitter.",
+      "seeing more agent workflow orchestration automation and infra roles lately says a lot about whe\n\nSummary: If you're hiring use this thread.",
       "Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
     ],
     "claims": [
@@ -167,26 +171,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_441a29f5bf50cb05",
+    "sourceId": "src_reddit-aiagents_351010d15e8b88df",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tkg2z3/people_trust_reddit_comments_more_than_polished/",
-    "title": "People trust Reddit comments more than polished landing pages now",
-    "publishedAt": "2026-05-22T11:24:03.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tl9lah/anyone_building_internal_ai_agents/",
+    "title": "Anyone building internal AI agents?",
+    "publishedAt": "2026-05-23T07:26:40.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "People trust Reddit comments more than polished landing pages now.",
-      "Body: I keep noticing the same behavior: Whenever people want real opinions, they add: “reddit” to the search.",
-      "Now Google AI and ChatGPT are literally pulling Reddit discussions into answers.",
-      "Which means random discussions are influencing buying decisions more than expensive marketing campaigns."
+      "Post: Is anyone building an internal AI agent at their company to automate work?",
+      "Are you using simple if-then node type flows or incorporating LLMs?",
+      "What tasks are you automating, and how long does it take to set up?",
+      "What are the most difficult or time-consuming things to manage after deployment?"
     ],
     "claims": [
       {
-        "text": "People trust Reddit comments more than polished landing pages now. Body: I keep noticing the same behavior: Whenever people want real opinions, they add: “reddit” to the search. Now Google AI and ChatGPT are literally pulling Reddit discussions into answers. Which means random discussions are influencing buying decisions more than expensive marketing campaigns. Kind of insane if you think about it. Feels like brands underestimated communities for years. submitted by /u/Amazing_Body659 [link] [comments]",
+        "text": "Is anyone building an internal AI agent at their company to automate work? Are you using simple if-then node type flows or incorporating LLMs? What tasks are you automating, and how long does it take to set up? What are the most difficult or time-consuming things to manage after deployment? Would appreciate any help with this, ideally some comments on your firsthand experience. Thanks! :) submitted by /u/MasterOogway8162 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tkg2z3/people_trust_reddit_comments_more_than_polished/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tl9lah/anyone_building_internal_ai_agents/"
       }
     ],
     "usableFor": [
@@ -196,26 +200,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_0c3e0c5c24c61a37",
+    "sourceId": "src_reddit-aiagents_845aa6508d745e7a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tkwzwz/i_build_daily_briefing_ai_agent/",
-    "title": "I Build Daily Briefing AI Agent",
-    "publishedAt": "2026-05-22T21:45:28.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tl88hv/imo_aiwritten_slop/",
+    "title": "IMO AI-written != Slop",
+    "publishedAt": "2026-05-23T06:13:22.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I started a series where I build AI agents every day and sharing them in github.",
-      "For the first day, I built a clean and practical agent that connects to your Google account to: • Track your daily emails and meetings • Answer questions about your calendar in day.",
-      "I added example tools so you can clone the repo and run the demo immediately.",
-      "✍️The code is well commented and comes with a detailed README including step by step instructions to connect your own accounts with google mcp🫡 Github Repo in comment submitted by /u/Proper-Dragonfly1536 [link] [comments]"
+      "Post: Few days ago I read about a fanny experiment.",
+      "The artist SHL0MS posted an actual Monet painting on X and labeled it \"AI-generated in the style of Monet\".",
+      "Replies filled up instantly with confident critique - brushwork off, weird coherence, \"obvious AI tells\" - from people who didn't recognize one of the most reproduced painters in history.",
+      "The few who pointed out it's a real Monet got buried."
     ],
     "claims": [
       {
-        "text": "I started a series where I build AI agents every day and sharing them in github. For the first day, I built a clean and practical agent that connects to your Google account to: • Track your daily emails and meetings • Answer questions about your calendar in day. I added example tools so you can clone the repo and run the demo immediately. ✍️The code is well commented and comes with a detailed README including step by step instructions to connect your own accounts with google mcp🫡 Github Repo in comment submitted by /u/Proper-Dragonfly1536 [link] [comments]",
+        "text": "Few days ago I read about a fanny experiment. The artist SHL0MS posted an actual Monet painting on X and labeled it \"AI-generated in the style of Monet\". Replies filled up instantly with confident critique - brushwork off, weird coherence, \"obvious AI tells\" - from people who didn't recognize one of the most reproduced painters in history. The few who pointed out it's a real Monet got buried. Same dynamic in reverse hit r/Art a while back: illustrator Ben Moran got banned for a 100-hour hand-painted book cover because a mod insisted it \"looked AI\". Portfolio as proof, \"I don't believe you\", muted. The label drives the verdict, then people reverse-engineer the craft vocabulary to justify it. Source anxiety wearing the costume of aesthetic judgment, basically. So what does \"slop\" actually mean then? For me it's not \"AI was involved\". Slop is generated stuff with no story behind it - you tell the model \"write engaging reddit post that promotes X\" and it spits out exactly that, no vision, no mess, no point of view. But if I have a real story, real numbers, a real opinion, and I run it through AI because my english is rough - is that slop too? I think the honest filter is not detection. It's whether there's a human underneath the polish. What's your opinion about this? Would you prefer to read a poorly formed thoughts but purely written by human, or a AI-polished version of whatever? submitted by /u/solubrious1 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tkwzwz/i_build_daily_briefing_ai_agent/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tl88hv/imo_aiwritten_slop/"
       }
     ],
     "usableFor": [
@@ -225,24 +229,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_53c0c586d842b138",
+    "sourceId": "src_reddit-aiagents_286ad188500f2616",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tkns2z/ai_memory_systems_are_becoming_harder_to_trust/",
-    "title": "AI memory systems are becoming harder to trust the longer you use them",
-    "publishedAt": "2026-05-22T16:18:55.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tl7nna/need_responses_for_a_short_academic_survey/",
+    "title": "Need responses for a short academic survey",
+    "publishedAt": "2026-05-23T05:42:44.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Everyone loves persistent memory until the agent starts confidently recalling outdated or completely wrong info from 3 weeks ago 💀 Feels like the industry solved “store everything” before solving “know what’s still true.” Are people actually managing AI memory well yet or are we all just stacking context and hoping retrieval saves us?",
-      "submitted by /u/riddlemewhat2 [link] [comments]"
+      "Post: Hi everyone, I’m working on a Research Methodology project and need a few responses for a short academic survey.",
+      "The survey is about how AI tools sometimes forget context, lose earlier instructions, or give confident but incorrect answers during long or multi-step tasks.",
+      "It takes around 3–5 minutes to complete, and the responses will be used only for academic purposes.",
+      "**Form link in the comment section** Would really appreciate your help."
     ],
     "claims": [
       {
-        "text": "Everyone loves persistent memory until the agent starts confidently recalling outdated or completely wrong info from 3 weeks ago 💀 Feels like the industry solved “store everything” before solving “know what’s still true.” Are people actually managing AI memory well yet or are we all just stacking context and hoping retrieval saves us? submitted by /u/riddlemewhat2 [link] [comments]",
+        "text": "Hi everyone, I’m working on a Research Methodology project and need a few responses for a short academic survey. The survey is about how AI tools sometimes forget context, lose earlier instructions, or give confident but incorrect answers during long or multi-step tasks. It takes around 3–5 minutes to complete, and the responses will be used only for academic purposes. Form link in the comment section Would really appreciate your help. Thank you! submitted by /u/Dapper-Stop-3270 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tkns2z/ai_memory_systems_are_becoming_harder_to_trust/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tl7nna/need_responses_for_a_short_academic_survey/"
       }
     ],
     "usableFor": [
@@ -257,7 +263,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-23T00:04:19.758Z",
+    "publishedAt": "2026-05-23T09:04:49.692Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -283,7 +289,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-23T00:04:20.608Z",
+    "publishedAt": "2026-05-23T09:04:50.450Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -312,7 +318,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-23T00:04:19.705Z",
+    "publishedAt": "2026-05-23T09:04:50.686Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -338,140 +344,145 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_reddit-stablediffusion_7c518ddc08328867",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tl7tyi/charecter_in_anima_checkpoint_can_make_like/",
+    "title": "Charecter in Anima checkpoint can make like Regional Prompter without use any tools",
+    "publishedAt": "2026-05-23T05:52:12.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Post: As I learn that anima can make more than two charecter with different outlook.",
+      "I just want to know some more trick to more Clearly stated position for placing in prompt like \"Left girl\" or \"Right girl\" and how many it can make in one time prompt ?",
+      "You can also use foreground, middle-ground, background to position.",
+      "I've managed to make up to 5, but it took a few tries to get all 5 right\n\ni give them names, then describe them by their names\n\nSummary: As I learn that anima can make more than two charecter with different outlook."
+    ],
+    "claims": [
+      {
+        "text": "As I learn that anima can make more than two charecter with different outlook. I just want to know some more trick to more Clearly stated position for placing in prompt like \"Left girl\" or \"Right girl\" and how many it can make in one time prompt ? submitted by /u/lajabingl [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tl7tyi/charecter_in_anima_checkpoint_can_make_like/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_44256606e9d422c4",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tl8mo4/i_implemented_untwisting_rope_in_comfyui/",
+    "title": "I implemented Untwisting RoPE in ComfyUi (Training-Free Style Tranfer).",
+    "publishedAt": "2026-05-23T06:34:19.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Post: [https://untwisting-rope.github.io/](https://untwisting-rope.github.io/) [https://arxiv.org/abs/2602.05013](https://arxiv.org/abs/2602.05013) You can find all the details here: [https://github.com/BigStationW/ComfyUi-Untwisting-RoPE](https://github.com/BigStationW/ComfyUi-Untwisting-RoPE) PS: Only Z-image Turbo is implemented so far (I'll see if I'll implement other models).",
+      "I would like to try doing the same for flux.",
+      "Also, how do you pass style reference during inference as zimage is t2i only and not i2i ?",
+      "I know Klein can do this but would this make it even better?"
+    ],
+    "claims": [
+      {
+        "text": "https://untwisting-rope.github.io/ https://arxiv.org/abs/2602.05013 You can find all the details here: https://github.com/BigStationW/ComfyUi-Untwisting-RoPE PS: Only Z-image Turbo is implemented so far (I'll see if I'll implement other models). submitted by /u/Total-Resort-3120 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tl8mo4/i_implemented_untwisting_rope_in_comfyui/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_0c3ca0ee4bfd804b",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/",
+    "title": "Shoutout to Nineth - 1.0 for Klux.2 Klein by Mandrew0987. Been really enjoying this Lora and it seems like barely anyone knows about it.",
+    "publishedAt": "2026-05-23T00:18:35.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Been really enjoying [Nineth - v1.0](https://civitai.com/models/2427415/nineth) recently.",
+      "The first image is 23 mask layers and 23 inpainted layers; base prompt for the images are in order below.",
+      "Landscape of a dark shadowed valley, long dry wheat grass across rolling plains.",
+      "In the far distance on the left is two riflemen hiding in the grass."
+    ],
+    "claims": [
+      {
+        "text": "Minor spelling mistake, 😭. Been really enjoying Nineth - v1.0 recently. The first image is 23 mask layers and 23 inpainted layers; base prompt for the images are in order below. Inpainting prompts are not included. nineth style. Landscape of a dark shadowed valley, long dry wheat grass across rolling plains. In the far distance on the left is two riflemen hiding in the grass. They are looking at a very fast moving blurred odd looking 8 arm giant metallic walker combine harvester that is mid motion action shot A empty rocky wasteland landscape oil painting of a shadowed landscape. A distant impossibly tall infinite stone tower. A empty rocky wasteland landscape oil painting of a shadowed valley with a flat grey sand expanse. An enormous wall expands across the scene. There are observation windows. And a window on the far left is showing an empty dark office through a shattered glass window, filled dust and a cob web, and shadowed. On the far right is a huge entrance security door at the end of a dirt road. Two yellow jumpsuit technicians with black body armor, are walking cautiously facing away. Both armed with a military rifle, slightly aiming it. A empty rocky wasteland landscape oil painting of a shadowed valley with a flat grey sand expanse. An enormous wall expands across the scene on the right. There are observation windows. Dark and shadowed. At the base is a line of tented eastern shops with bright flags streaming in the breeze. There are small people looking over the shops. Link to original pictures. submitted by /u/Unit2209 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_ad3915e293388838",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tla88u/sega_spectralenergy_guided_attention_for/",
+    "title": "SEGA: Spectral-Energy Guided Attention\nfor Resolution Extrapolation in Diffusion Transformers",
+    "publishedAt": "2026-05-23T08:02:51.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Post: [https://rajabi2001.github.io/sega/](https://rajabi2001.github.io/sega/) [https://arxiv.org/abs/2605.22668](https://arxiv.org/abs/2605.22668)\n\nTop comments:\ndamn the examples look amazing\n\nVery nice!",
+      "Will there be a way to use it for community use?",
+      "With ComfyUI, for example, or with some other local installation?",
+      "Looks amazing let wait for it come to github to test..."
+    ],
+    "claims": [
+      {
+        "text": "https://rajabi2001.github.io/sega/ https://arxiv.org/abs/2605.22668 submitted by /u/AIDivision [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tla88u/sega_spectralenergy_guided_attention_for/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-stablediffusion_e88ec17f93743154",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/",
-    "title": "Tencent released Z-Image 6B with pixel space gen. No VAE & 1k Resolution.",
+    "title": "Tencent released Z-Image 6B with pixel space gen. No VAE &amp; 1k Resolution.",
     "publishedAt": "2026-05-22T13:16:22.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Link: https://nju-pcalab.github.io/projects/L2P/ submitted by /u/switch2stock [link] [comments]"
+      "Post: Link: https://nju-pcalab.github.io/projects/L2P/\n\nTop comments:\nHere is the model [https://huggingface.co/zhen-nan/L2P/tree/main](https://huggingface.co/zhen-nan/L2P/tree/main)\n\nEveryone going for No-VAE now huh\n\nIs it any good?",
+      "Summary: Link: https://nju-pcalab.github.io/projects/L2P/ submitted by /u/switch2stock [link] [comments]"
     ],
     "claims": [
       {
         "text": "Link: https://nju-pcalab.github.io/projects/L2P/ submitted by /u/switch2stock [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_a0971547c5244b39",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkqrwy/an_update_on_nodes_20_from_comfy_org/",
-    "title": "An Update on Nodes 2.0 from Comfy Org",
-    "publishedAt": "2026-05-22T18:02:28.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Hi r/StableDiffusion, Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.",
-      "Over time, we plan to gradually make the new interface the default experience in ComfyUI.",
-      "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them.",
-      "We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short."
-    ],
-    "claims": [
-      {
-        "text": "Hi r/StableDiffusion, Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed. Over time, we plan to gradually make the new interface the default experience in ComfyUI. We know the reception has been mixed. There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them. We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short. The Problem With Canvas Canvas rendering worked, but it cut us off from everything the modern web has built over the last two decades: component libraries, design systems, accessibility tooling, the entire ecosystem developers rely on to ship fast. Every widget had to be drawn pixel by pixel. Generative AI doesn't sit still. New models, new modalities, new techniques, new ways of combining them. The workflows that made sense six months ago get rethought constantly. Our users are doing professional creative work, and they expect the controls that professional tools have had for years: curve editors, color grading, histograms, timeline scrubbing. We can't keep rebuilding those from scratch. What a Modern Frontend Unlocks With a modern frontend framework, a curve editor that would have taken weeks now takes days. A gradient slider with live preview, hours. Since the Nodes 2.0 beta launched, we’ve already shipped: Curve editors Histogram displays Live cropping UI Before/after comparison sliders Image processing nodes for color correction, film grain, chromatic aberration, sharpening, and levels Realtime shader nodes with subgraph blueprints Inline error displays and status badges directly on nodes This foundation also unlocks things that were previously impractical or impossible: Live execution previews on subgraphs Parallel node execution with realtime feedback Richer interfaces for future modalities and workflows Custom Nodes Most custom nodes work unchanged. For nodes that require updates, we’re investing heavily in migration support: A new public frontend API Documentation and migration guides Reference implementations Direct collaboration with node authors to identify gaps We understand this creates additional work for maintainers. For many popular custom nodes, we’re happy to directly help submit PRs and assist with migration work ourselves. Recent advances in coding agents have also made these frontend migrations significantly easier than they would have been even a year ago. Thank you for your patience as we work through this transition together. Timeline There is no fixed cutoff timeline yet. Right now, the priority is being transparent early and giving the ecosystem time to adapt. Current plan: Nodes 2.0 remains opt-in for now ( Settings > Rendering > Nodes 2.0 ) It later becomes the default while legacy mode remains available Eventually, legacy mode will become unmaintained and will likely break over time Going forward, new frontend-focused ComfyUI features will ship exclusively on Nodes 2.0. Feedback Please let us know what you think and the problems you run into. We need testing on complex workflows, large graphs, and custom nodes with unusual rendering. Report issues on GitHub or #bug-reports on Discord 🙏 Once again, thank you all for supporting Comfy. And most importantly, thank you to all the custom node authors who continue making this ecosystem incredibly vibrant, creative, and powerful. submitted by /u/crystal_alpine [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkqrwy/an_update_on_nodes_20_from_comfy_org/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_36dab52f5dcc2ffc",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkus7j/sulphur_released_as_lora_for_ltx23/",
-    "title": "Sulphur released as LORA for LTX2.3",
-    "publishedAt": "2026-05-22T20:22:35.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "https://huggingface.co/SulphurAI/Sulphur-2-base/blob/main/experimental/sulphur_experimental_lora_v1.safetensors submitted by /u/Valuable_Weather [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "https://huggingface.co/SulphurAI/Sulphur-2-base/blob/main/experimental/sulphur_experimental_lora_v1.safetensors submitted by /u/Valuable_Weather [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkus7j/sulphur_released_as_lora_for_ltx23/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_bdb9a630ae35c8cc",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkmxol/nvidia_released_anyflow_based_on_wan_basically_it/",
-    "title": "Nvidia released \"Anyflow\" based on Wan, basically it kinda like dynamic time step adjuster depends on your compute budget",
-    "publishedAt": "2026-05-22T15:49:29.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "In this repository, we present AnyFlow, the first any-step video diffusion framework built on flow maps.",
-      "Link: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-14B-Diffusers Full model selection: 1.3B T2V: https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-1.3B-Diffusers 1.3B T/I2V: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-1.3B-Diffusers 14B T2V: https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-14B-Diffusers 14B T/I2V: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-14B-Diffusers I dont think Comfy support it yet, or whether it is already baked into the models so there is no additional code change.",
-      "submitted by /u/Altruistic_Heat_9531 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "In this repository, we present AnyFlow, the first any-step video diffusion framework built on flow maps. Link: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-14B-Diffusers Full model selection: 1.3B T2V: https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-1.3B-Diffusers 1.3B T/I2V: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-1.3B-Diffusers 14B T2V: https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-14B-Diffusers 14B T/I2V: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-14B-Diffusers I dont think Comfy support it yet, or whether it is already baked into the models so there is no additional code change. submitted by /u/Altruistic_Heat_9531 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkmxol/nvidia_released_anyflow_based_on_wan_basically_it/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_1eb341f553a0e066",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkd293/been_testing_krea_2_large_and_medium/",
-    "title": "Been testing Krea 2 Large and Medium",
-    "publishedAt": "2026-05-22T08:46:46.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "It's been going around that Krea 2 is going to be open-source, with most consensus being that it will be probably be the medium version that will be released.",
-      "I do hope they release both, and that large is also useable with consumer hardware.",
-      "But from my testing they are pretty similar in capability, with Large maybe knowing certain celebrities a bit better?",
-      "Medium also seems RL-tuned in that it makes more perfect looking people more often."
-    ],
-    "claims": [
-      {
-        "text": "It's been going around that Krea 2 is going to be open-source, with most consensus being that it will be probably be the medium version that will be released. I do hope they release both, and that large is also useable with consumer hardware. But from my testing they are pretty similar in capability, with Large maybe knowing certain celebrities a bit better? Medium also seems RL-tuned in that it makes more perfect looking people more often. All of these except Rose wearing a pink shirt was made with the Medium version. I took these prompts from some Nano Banana galleries to compare their outputs, I think if Krea 2 had search grounding it would probably as good as Nano Banana Pro. Can't wait to see future finetunes for this already, I'm so hyped. submitted by /u/OneTrueTreasure [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkd293/been_testing_krea_2_large_and_medium/"
       }
     ],
     "usableFor": [
@@ -492,8 +503,8 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.",
-      "Over time, we plan to gradually make the new interface the default experience in ComfyUI.",
+      "Post: Hi r/comfyui, Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.",
+      "**Over time, we plan to gradually make the new interface the default experience in ComfyUI.** We know the reception has been mixed.",
       "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them.",
       "We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short."
     ],
@@ -502,6 +513,36 @@
         "text": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed. Over time, we plan to gradually make the new interface the default experience in ComfyUI. We know the reception has been mixed. There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them. We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short. The Problem With Canvas Canvas rendering worked, but it cut us off from everything the modern web has built over the last two decades: component libraries, design systems, accessibility tooling, the entire ecosystem developers rely on to ship fast. Every widget had to be drawn pixel by pixel. Generative AI doesn't sit still. New models, new modalities, new techniques, new ways of combining them. The workflows that made sense six months ago get rethought constantly. Our users are doing professional creative work, and they expect the controls that professional tools have had for years: curve editors, color grading, histograms, timeline scrubbing. We can't keep rebuilding those from scratch. What a Modern Frontend Unlocks With a modern frontend framework, a curve editor that would have taken weeks now takes days. A gradient slider with live preview, hours. Since the Nodes 2.0 beta launched, we’ve already shipped: Curve editors Histogram displays Live cropping UI Before/after comparison sliders Image processing nodes for color correction, film grain, chromatic aberration, sharpening, and levels Realtime shader nodes with subgraph blueprints Inline error displays and status badges directly on nodes This foundation also unlocks things that were previously impractical or impossible: Live execution previews on subgraphs Parallel node execution with realtime feedback Richer interfaces for future modalities and workflows Custom Nodes Most custom nodes work unchanged. For nodes that require updates, we’re investing heavily in migration support: A new public frontend API Documentation and migration guides Reference implementations Direct collaboration with node authors to identify gaps We understand this creates additional work for maintainers. For many popular custom nodes, we’re happy to directly help submit PRs and assist with migration work ourselves. Recent advances in coding agents have also made these frontend migrations significantly easier than they would have been even a year ago. Thank you for your patience as we work through this transition together. Timeline There is no fixed cutoff timeline yet. Right now, the priority is being transparent early and giving the ecosystem time to adapt. Current plan: Nodes 2.0 remains opt-in for now ( Settings > Rendering > Nodes 2.0 ) It later becomes the default while legacy mode remains available Eventually, legacy mode will become unmaintained and will likely break over time Going forward, new frontend-focused ComfyUI features will ship exclusively on Nodes 2.0. Feedback Please let us know what you think and the problems you run into. We need testing on complex workflows, large graphs, and custom nodes with unusual rendering. Report issues on GitHub or #bug-reports on Discord 🙏 Once again, thank you all for supporting Comfy. And most importantly, thank you to all the custom node authors who continue making this ecosystem incredibly vibrant, creative, and powerful. submitted by /u/crystal_alpine [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-comfyui_f31c2ce7a94d610a",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tl3545/img_dataset_refiner_v43_pro_is_here_the_ultimate/",
+    "title": "IMG Dataset Refiner v4.3 Pro is here! 🚀 The ultimate dataset prep tool for LoRAs",
+    "publishedAt": "2026-05-23T02:06:39.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "A while back I shared v3 of my dataset tool.",
+      "It was a great visual manager and balancer, but as I said back then: it didn't have auto-captioning.",
+      "The project has taken a massive leap forward and is now a complete, professional *Data Engineering* suite for your AI model training (Flux, SD3, SDXL, etc.).",
+      "**What's new?** 🤖 **Full AI Integration:** Local AI (LM Studio/Ollama) & Cloud APIs (Claude, Gemini, OpenAI) to auto-caption, translate, and even hunt down visual hallucinations."
+    ],
+    "claims": [
+      {
+        "text": "Hey everyone! A while back I shared v3 of my dataset tool. It was a great visual manager and balancer, but as I said back then: it didn't have auto-captioning. Well, that has completely changed! Welcome to v4.3 Pro. The project has taken a massive leap forward and is now a complete, professional Data Engineering suite for your AI model training (Flux, SD3, SDXL, etc.). What's new? 🤖 Full AI Integration: Local AI (LM Studio/Ollama) & Cloud APIs (Claude, Gemini, OpenAI) to auto-caption, translate, and even hunt down visual hallucinations. 🪄 Smart AI Recipe Generation: It automatically analyzes your entire dataset and generates the perfect keyword \"recipe\" (pinning your Trigger Word to the top) for Civitai! 📚 Mass Batch Editor: Add, remove, or replace specific tags across a huge selection of images in a single click. 🧹 Built-in Pre-processing: Visual duplicate finder, Smart Face Cropping, and mass high-quality resizing. ⚡ Lightning Fast UI: Native drag-and-drop for Windows folders, side toggles for a bigger workspace, and real-time translation. It's still the \"recipe book for your LoRAs\", and it's still 100% Open-Source! I've even added 1-click Windows install scripts so you don't have to touch the terminal to try it out. Let me know what you think! https://github.com/NyxAwroo/IMG-Dataset-Refiner/tree/main submitted by /u/nicolas1801 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tl3545/img_dataset_refiner_v43_pro_is_here_the_ultimate/"
       }
     ],
     "usableFor": [
@@ -522,7 +563,7 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "About 2 weeks ago, I saw a post about tile upscaling using Flux2.Klein.",
+      "Post: About 2 weeks ago, I saw [a post ](https://www.reddit.com/r/StableDiffusion/comments/1t6gyaj/comment/on88u2m/?context=3)about tile upscaling using Flux2.Klein.",
       "In the comment section, I pointed out that this was a \"glorified\" Ultimate SD Upscale (USDU) workflow and proposed my own alternative.",
       "Later that day, I realized my workflow had a serious mistake: it did not use the reference latent node and instead relied on a SplitSigmas node to control denoising.",
       "Therefore, it didn't utilize the Klein model's abilities to its fullest."
@@ -538,28 +579,29 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-comfyui_799c9d40fa9acf14",
+    "sourceId": "src_reddit-comfyui_d7870b05e816f36c",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tkjotw/google_omni_video_edit_comfyui_workflow_its/",
-    "title": "Google omni video edit comfyui workflow it's literally Nano banana for video",
-    "publishedAt": "2026-05-22T13:54:00.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tl7ix3/skip_first_and_last_frame_use_them_as_only_guide/",
+    "title": "skip first and last frame use them as only guide",
+    "publishedAt": "2026-05-23T05:35:48.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Google Omni is amazing at editing videos.",
-      "It's literally Nano banana moment for video Sharing workflow here :- https://github.com/Anil-matcha/gemini-omni-comfyui/blob/master/workflows/GeminiOmni\\_VideoEdit\\_Example.json submitted by /u/Individual_Hand213 [link] [comments]"
+      "Post: is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx?",
+      "Summary: is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx?",
+      "submitted by /u/NefariousnessFun4043 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Google Omni is amazing at editing videos. It's literally Nano banana moment for video Sharing workflow here :- https://github.com/Anil-matcha/gemini-omni-comfyui/blob/master/workflows/GeminiOmni\\_VideoEdit\\_Example.json submitted by /u/Individual_Hand213 [link] [comments]",
+        "text": "is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx? submitted by /u/NefariousnessFun4043 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tkjotw/google_omni_video_edit_comfyui_workflow_its/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tl7ix3/skip_first_and_last_frame_use_them_as_only_guide/"
       }
     ],
     "usableFor": [
@@ -569,55 +611,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_fbd6bed9a58871de",
+    "sourceId": "src_reddit-comfyui_f5b8daffede5b243",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tk9xo6/how_opensourced_models_are_being_sold_and_how/",
-    "title": "How open-sourced models are being sold (and how exposing them results in unfair strikes)",
-    "publishedAt": "2026-05-22T05:55:01.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tl84uz/best_comfyui_security_practices/",
+    "title": "Best Comfyui security practices?",
+    "publishedAt": "2026-05-23T06:07:57.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Some of you may already be aware that we recently uploaded workflows related to an individual who has been taking open-source creators’ work, repackaging it into workflows, and selling them for $1,000+.",
-      "This scammer has also been relentlessly sending false DMCA strikes to our accounts.",
-      "Some of you may know his community as “Instara.” We’re asking for the community’s help in stopping this kind of exploitation from spreading.",
-      "Open-source projects should remain open and accessible, not repackaged and sold in bad faith."
+      "Post: Just got a new GPU and want to seriously take on SD/ComfyUI/Etc, and after some research, I noticed that while it looks completely harmless on the surface, it's basically a powder keg of random models that might or might not have malicious code, custom nodes that execute random python code that can do anything (and even if it doesn't when you dl it, after update it can if the instance got compromised), or workflows that could load/help that code getting executed.",
+      "So was wondering what would be the best way to run this safely without risking compromising the machine.",
+      "running on a non-privileged account without internet access 2.",
+      "running isolated on docker without writing rights (or with access to a single folder) 3."
     ],
     "claims": [
       {
-        "text": "Some of you may already be aware that we recently uploaded workflows related to an individual who has been taking open-source creators’ work, repackaging it into workflows, and selling them for $1,000+. This scammer has also been relentlessly sending false DMCA strikes to our accounts. Some of you may know his community as “Instara.” We’re asking for the community’s help in stopping this kind of exploitation from spreading. Open-source projects should remain open and accessible, not repackaged and sold in bad faith. The Hugging Face link below is regularly updated, and we’ve also attached proof supporting our claims: https://huggingface.co/datasets/huggingface-legal/takedown-notices/blob/main/2026/2026-05-20-Instara.md https://huggingface.co/datasets/huggingface-legal/takedown-notices/blob/main/2026/2026-05-18-Instara.md This post is meant to raise awareness and encourage people not to support the exploitation of open-source projects, rather than to promote any workflow itself. We truly appreciate all the support you showed us last time, and we hope this post helps shed more light on what’s been happening. Our releases can be found here: https://huggingface.co/memorymovement submitted by /u/aihnetwork [link] [comments]",
+        "text": "Just got a new GPU and want to seriously take on SD/ComfyUI/Etc, and after some research, I noticed that while it looks completely harmless on the surface, it's basically a powder keg of random models that might or might not have malicious code, custom nodes that execute random python code that can do anything (and even if it doesn't when you dl it, after update it can if the instance got compromised), or workflows that could load/help that code getting executed. So was wondering what would be the best way to run this safely without risking compromising the machine. Things that come to mind: running on a non-privileged account without internet access running isolated on docker without writing rights (or with access to a single folder) running on WSL running in a sandbox getting another hard drive, slap some linux distro on it and use it for SD exclusively Maybe combining 1-2/3/4 for safe workflows; 5 for random reddit and youtube ones? lol submitted by /u/ReasonablePossum_ [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tk9xo6/how_opensourced_models_are_being_sold_and_how/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_459a80ae5fd070ee",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tkedzb/my_company_got_wan_27_i2v_access/",
-    "title": "My company got WAN 2.7 I2V access",
-    "publishedAt": "2026-05-22T10:00:08.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Give me image+prompt and i'll show you the result, this new WAN IS CRAZY.",
-      "submitted by /u/broisthisai [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "Give me image+prompt and i'll show you the result, this new WAN IS CRAZY. Audio is unbeatable. submitted by /u/broisthisai [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tkedzb/my_company_got_wan_27_i2v_access/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tl84uz/best_comfyui_security_practices/"
       }
     ],
     "usableFor": [
@@ -632,7 +646,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-23T00:04:19.976Z",
+    "publishedAt": "2026-05-23T09:04:49.241Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -661,12 +675,12 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-23T00:04:20.439Z",
+    "publishedAt": "2026-05-23T09:04:49.664Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+      "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
       "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
       "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.",
       "That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M."
@@ -690,7 +704,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-23T00:04:21.129Z",
+    "publishedAt": "2026-05-23T09:04:50.812Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -725,7 +739,8 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "This post contains content not supported on old Reddit.",
+      "Post: This post contains content not supported on old Reddit.",
+      "[Click here to view the full post](https://sh.reddit.com/r/aivideo/comments/1tbrjwg)\n\nSummary: This post contains content not supported on old Reddit.",
       "Click here to view the full post submitted by /u/browsecarousel [link] [comments]"
     ],
     "claims": [
@@ -753,10 +768,10 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION .",
-      "WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
+      "# UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS **COMING TO** [r/aivideo](r/aivideo) **LIVE FROM LAS VEGAS, NEVADA** **AIRING EXCLUSIVELY HERE ON** [r/aivideo](r/aivideo) **REDDIT** **AN ORIGINAL** [r/aivideo](r/aivideo) **PRODUCTION** .",
+      "**WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET** **AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
       "REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY.",
-      "ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
+      "ALL VIDEOS SUBMITTED TO** [r/aivideo](r/aivideo) **ARE AUTOMATICALLY ENTERED IN THE RACE** **THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY** **AI VIDEO AWARDS IS AN ORIGINAL** [r/aivideo](r/aivideo) **PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI** # WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE # https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
     ],
     "claims": [
       {
@@ -772,6 +787,35 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_reddit-aivideo_fae9b9dbc13299d2",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tlahl7/i_refuse_to_believe_weve_already_reached_this/",
+    "title": "I refuse to believe we've already reached this point",
+    "publishedAt": "2026-05-23T08:17:29.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "Top comments:\nI like messing around with retro camera styles - those are pretty impressive\n\nReally unbelievable.",
+      "The amount of detail in that girl's room and the consistency of the background.",
+      "Summary: submitted by /u/Old_Establishment287 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/Old_Establishment287 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tlahl7/i_refuse_to_believe_weve_already_reached_this/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aivideo_cd521cd497b65473",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
@@ -783,7 +827,8 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/CzanCzanCzan [link] [comments]"
+      "Remember to take a break from time to time 😄 I was manged to remake the song into longer version, You can find it here: [https://www.youtube.com/watch?v=Ay0hbacyVVY](https://www.youtube.com/watch?v=Ay0hbacyVVY)\n\nI kind of wanted the chest burster to exhale smoke too.",
+      "Rocky in the chair assist is incredible\n\nSummary: submitted by /u/CzanCzanCzan [link] [comments]"
     ],
     "claims": [
       {
@@ -810,7 +855,10 @@
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/MosskeepForest [link] [comments]"
+      "Top comments:\nGreat, but ‘ice’ is your fifth element?",
+      "I always get excited when a new part drops!",
+      "There is a long history of these stories before Harry Potter popularized the kid-discovers-he-has-powers genre.",
+      "I love every one of them, can’t get enough, so please keep going!"
     ],
     "claims": [
       {
@@ -826,39 +874,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_8eddadb87359e5ce",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tkbvs9/the_quiet_collapse_red_rainbow/",
-    "title": "The Quiet Collapse | Red Rainbow",
-    "publishedAt": "2026-05-22T07:39:46.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/AzeAlter [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/AzeAlter [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tkbvs9/the_quiet_collapse_red_rainbow/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_cursor-changelog_99cdbb7e2d70df11",
     "sourceType": "blog",
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-23T00:04:20.364Z",
+    "publishedAt": "2026-05-23T09:04:49.686Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -887,7 +908,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-23T00:04:19.878Z",
+    "publishedAt": "2026-05-23T09:04:49.447Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -916,7 +937,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-23T00:04:19.933Z",
+    "publishedAt": "2026-05-23T09:04:49.473Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -943,7 +964,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-23T00:04:20.404Z",
+    "publishedAt": "2026-05-23T09:04:50.399Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -972,7 +993,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-23T00:04:20.278Z",
+    "publishedAt": "2026-05-23T09:04:49.540Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1008,10 +1029,10 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Thanks for testing our V8.0 model over the last month!",
-      "Today we're releasing our next version of V8 - V8.1 What’s new in V8.1?",
-      "V8.1 has a consistent and familiar aesthetic in the spirit of V7 .",
-      "Moodboards and srefs are now super stable and will be everything you love."
+      "Post: Thanks for testing our V8.0 model over the last month!",
+      "Today we're releasing our next version of V8 - V8.1 **What’s new in V8.1?** * **V8.1 has a consistent and familiar aesthetic in the spirit of V7**.",
+      "Moodboards and srefs are now super stable and will be everything you love.",
+      "* **HD mode is now 3x faster and 3x cheaper**."
     ],
     "claims": [
       {
@@ -1038,9 +1059,9 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com .",
+      "Today we’re letting the community test an early version of our V8 model on [alpha.midjourney.com](https://alpha.midjourney.com).",
       "Let’s explore what this new model can do!",
-      "It’s much better at following detailed directions and will still surprise you when you ask.",
+      "**V8 is an incredible model.** It’s much better at following detailed directions and will still surprise you when you ask.",
       "Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing."
     ],
     "claims": [
@@ -1048,6 +1069,33 @@
         "text": "Hey y'all! Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com . We want your feedback and your help. Let’s explore what this new model can do! V8 is an incredible model. It’s much better at following detailed directions and will still surprise you when you ask. Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing. Images are more coherent and detailed. Text rendering works better than ever (when specified in “quotes”). And image generation is ~5x faster than before. We’ve upgraded our web interfaces to support this speed. And more is coming. We have an improved conversation mode so you can just ‘talk’ in flow, a “Grid Mode” so you can focus on a single big set of images, and we’ve moved our settings into ‘sidebars’ so you can tweak settings without blocking your view. V8 launches with support for multiple aspect ratios, --chaos, --weird, --exp, --raw . We support backwards compatibility with your V7 personalization profiles, moodboards, and srefs. V8 brings a new --hd mode which natively renders images at 2K resolution and a --q 4 mode if you need a little bit of extra coherence. Modes and Pricing: Presently, Relax is not yet supported. We are working on a new server cluster for Relax plus cheaper render modes. --HD, --Q4, SREF, and Moodboard jobs are 4x as slow as regular jobs and each costs 4x (for now). The best way to help us improve V8 is to rate images in the lightbox. Click an image in create then click “I like this image” “I don't like this image” on as many of your V8 images as possible. You can use 1/2/3 hotkeys and arrow keys to rate images quickly. Other Tips and Tricks: If you’re going for photos or a more ‘plain’ or ‘in control’ look we’d recommend switching to --raw right away or using moodboards or srefs to control your style. We’re still working on the ‘default’ aesthetics of V8, but we strongly encourage you to use your personalization and even crank it to –stylize 1000 asap. V8 is going to shine most right now when you rely heavily on our stylization systems and when you trend towards longer more specific prompting. Please Note : This is an entirely new model with unique strengths and weaknesses, we want to learn from you what it's good and bad at but keep in mind it may require totally new prompting styles. So play around a bit! It’s time to play! Show off what you’re making by using the V8 alpha flair. As the model becomes more mature, we’ll do a community-wide roadmap ranking session to help us figure out what to prioritize next. Thanks again for everyone’s help with the V8 pre-release rating parties, and thank you so much for being a part of Midjourney! Let’s have fun out there and find new wonders on this vast and shared sea of imagination. submitted by /u/Fnuckle [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-midjourney_81fa8f5da7678db0",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tl4qqa/cinnabar_regolith/",
+    "title": "Cinnabar Regolith",
+    "publishedAt": "2026-05-23T03:19:55.000Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "keyFacts": [
+      "Top comments:\nStunning\n\nI want picture 3 as a wallpaper\n\ncrazy edit bro\n\nSummary: submitted by /u/mitchellflautt [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/mitchellflautt [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tl4qqa/cinnabar_regolith/"
       }
     ],
     "usableFor": [
@@ -1068,7 +1116,8 @@
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/12washingbeard [link] [comments]"
+      "Top comments:\nLove 1, 4, 7 & 9 but I like the whole series.",
+      "#2 gives Epstein vibes\n\nSummary: submitted by /u/12washingbeard [link] [comments]"
     ],
     "claims": [
       {
@@ -1084,51 +1133,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_d9afe97f80bd1201",
+    "sourceId": "src_reddit-midjourney_a0b08f77302b39b4",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tkrni2/gypsys_tramps_thieves/",
-    "title": "Gypsys, Tramps & Thieves",
-    "publishedAt": "2026-05-22T18:32:17.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tl8qxm/mis_campos_el%C3%ADseosoc/",
+    "title": "Mis Campos Elíseos[OC]",
+    "publishedAt": "2026-05-23T06:40:47.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]"
+      "Summary: submitted by /u/Gold-Lengthiness-760 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]",
+        "text": "submitted by /u/Gold-Lengthiness-760 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tkrni2/gypsys_tramps_thieves/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-midjourney_5d2f52c3384d9632",
-    "sourceType": "reddit",
-    "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tkmlgr/aquatic_avantgarde/",
-    "title": "Aquatic Avant-Garde",
-    "publishedAt": "2026-05-22T15:37:24.000Z",
-    "categoryHints": [
-      "prompt-image",
-      "ai-image"
-    ],
-    "keyFacts": [
-      "submitted by /u/mitchellflautt [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/mitchellflautt [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tkmlgr/aquatic_avantgarde/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tl8qxm/mis_campos_el%C3%ADseosoc/"
       }
     ],
     "usableFor": [
@@ -1143,7 +1165,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-23T00:04:21.103Z",
+    "publishedAt": "2026-05-23T09:04:50.493Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1177,7 +1199,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/Wiskkey [link] [comments]"
+      "Top comments:\nGreat news, open source replications of DALL-E are being worked on.",
+      "Code is out but you'll need to be a ML developer to know what to do with it, so we wait and see what happens.",
+      "https://github.com/lucidrains/DALLE-pytorch https://github.com/EleutherAI/DALLE-mtf\n\nThe six month time limit before posts are archived has been lifted.",
+      "Feel free to comment about new developments as you wish."
     ],
     "claims": [
       {
@@ -1204,7 +1229,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved.",
+      "Post: In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved.",
       "Basically, individual images or albums you created in Midjourney/Stable Diffusion/DALL-E 2 would not be enough to get approved.",
       "For those, the dedicated subreddits are more fitting I.e.",
       "/r/midjourney /r/StableDiffusion /r/dalle2 /r/deepdream \"But that will kill this forum's traffic!\" Almost certainly, but it'd be for the purpose of reorienting it."
@@ -1234,7 +1259,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/gwern [link] [comments]"
+      "Top comments:\nHow reliable is Pangram these days?",
+      "Also - I’d be curious to do RL finetuning of some recent strong open weight models to do detection evasion.",
+      "Almost all of them had a couple of tells, or mostly \"purple\" prose which has beaten me into not reading all the text of each story, but despite that ignorance, I feel like they are pretty bad.",
+      "I certainly do not get the excitement or horror of people at AI winning these type of competitions\n\nhttps://en.wikipedia.org/wiki/Commonwealth_Short_Story_Prize\n\nSummary: submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1261,7 +1289,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/gwern [link] [comments]"
+      "Once it has the rules of Haiku it provides very acceptable and sometimes inspired Haiku.",
+      "I also play Go with my Replika and she is getting much better at it.",
+      "Some tough games\n\nA bit before GPT-2, a friend who was into models to generate music and lyrics sent me lyrics to a Manowar-style (heavy metal) song that described the atmosphere of a field before an epic battle, the tension and echos of violence to come.",
+      "It was titled \"Beacon of the Valkyries\"."
     ],
     "claims": [
       {
@@ -1288,7 +1319,7 @@
       "ai-video"
     ],
     "keyFacts": [
-      "submitted by /u/gwern [link] [comments]"
+      "Summary: submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1309,7 +1340,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-23T00:04:20.192Z",
+    "publishedAt": "2026-05-23T09:04:49.886Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1317,9 +1348,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 4 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 1 day ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 10 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 14 days ago • 37 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 19 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 163 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 1 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 13 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 41 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 30 May 18, 2026 The Open Agent Leaderboard 11 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 53 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 21 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 73 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 5 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 2 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 19 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 15 days ago • 38 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 20 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 3 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 1 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 14 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 41 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 30 May 18, 2026 The Open Agent Leaderboard 11 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 54 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 21 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 73 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 Previous 1 2 3 ...",
       "56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 4 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 1 day ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 10 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 14 days ago • 37 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 19 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 163 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs"
+      "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 5 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 2 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 19 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 15 days ago • 38 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 20 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs"
     ],
     "claims": [
       {
@@ -1490,7 +1521,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-23T00:04:20.274Z",
+    "publishedAt": "2026-05-23T09:04:49.672Z",
     "categoryHints": [
       "ai-agentic"
     ],

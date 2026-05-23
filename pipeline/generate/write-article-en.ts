@@ -1,5 +1,6 @@
 import type { GeneratedArticleDraft, SourceNote, TopicCluster } from "../types/schema.ts";
 import { generateWithOllama, ollamaModel } from "./ollama.ts";
+import { sanitizeGeneratedMedia } from "./media-sanitize.ts";
 
 const STRUCTURED_PROMPT_EN = `You are AI Radar's English editor. Write an in-depth 800-1200 word analysis for creators and developers.
 
@@ -68,7 +69,7 @@ async function tryGenerate(cluster: TopicCluster, notes: SourceNote[]): Promise<
     });
     if (!text) return undefined;
 
-    const parsed = parseJson(text);
+    const parsed = sanitizeGeneratedMedia(parseJson(text), notes);
     return {
       ...templateDraft(cluster, notes),
       ...parsed,

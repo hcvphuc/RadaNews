@@ -320,38 +320,6 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T00:04:22.278Z",
-    "readingTime": 1,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T00:04:22.521Z",
-    "readingTime": 1,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-23"
-  },
-  {
     "id": "cluster_ai-agentic_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_vi",
     "lang": "vi",
     "category": "ai-agentic",
@@ -359,12 +327,14 @@
     "title": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
+      "AI-Hardware",
+      "Memory-Shortage",
+      "HBM",
+      "Consumer-Electronics",
+      "AI-Agents"
     ],
-    "publishedAt": "2026-05-23T00:04:22.273Z",
-    "readingTime": 2,
+    "publishedAt": "2026-05-23T09:05:20.485Z",
+    "readingTime": 4,
     "url": "/vi/ai-agentic/the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23"
   },
   {
@@ -375,13 +345,51 @@
     "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
+      "hardware",
+      "semiconductors",
+      "ai-economics",
+      "digital-divide",
+      "memory-shortage"
     ],
-    "publishedAt": "2026-05-23T00:04:22.528Z",
-    "readingTime": 2,
+    "publishedAt": "2026-05-23T09:06:00.115Z",
+    "readingTime": 4,
     "url": "/en/ai-agentic/the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/AI_Agents, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "llm-research",
+      "creative-ai",
+      "software-engineering"
+    ],
+    "publishedAt": "2026-05-23T09:05:29.953Z",
+    "readingTime": 3,
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-23"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Research \\ Anthropic: creator and builder analysis",
+    "subtitle": "Signal synthesized from Anthropic Research, r/AI_Agents, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "software-development",
+      "anthropic",
+      "generative-ai"
+    ],
+    "publishedAt": "2026-05-23T09:06:20.904Z",
+    "readingTime": 4,
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-23"
   },
   {
     "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-23_vi",
@@ -391,12 +399,15 @@
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
+      "AI-Video",
+      "Runway-AI",
+      "FLUX",
+      "Midjourney-V8",
+      "World-Models",
+      "ComfyUI"
     ],
-    "publishedAt": "2026-05-23T00:04:22.275Z",
-    "readingTime": 1,
+    "publishedAt": "2026-05-23T09:05:20.991Z",
+    "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-23"
   },
   {
@@ -407,12 +418,15 @@
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
+      "AI Video",
+      "Runway AI",
+      "FLUX",
+      "ComfyUI",
+      "World Models",
+      "Generative AI"
     ],
-    "publishedAt": "2026-05-23T00:04:22.503Z",
-    "readingTime": 1,
+    "publishedAt": "2026-05-23T09:06:20.225Z",
+    "readingTime": 3,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-23"
   },
   {
@@ -421,14 +435,16 @@
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "Kling AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
+      "Kling AI",
+      "AI Video",
+      "Native 4K",
+      "Generative AI",
+      "AI Production"
     ],
-    "publishedAt": "2026-05-23T00:04:22.267Z",
-    "readingTime": 1,
+    "publishedAt": "2026-05-23T09:05:41.251Z",
+    "readingTime": 4,
     "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-23"
   },
   {
@@ -437,14 +453,16 @@
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "Kling AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from r/comfyui, Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
+      "Kling AI",
+      "AI Video",
+      "Native 4K",
+      "AI Cinema",
+      "Generative AI"
     ],
-    "publishedAt": "2026-05-23T00:04:22.589Z",
-    "readingTime": 1,
+    "publishedAt": "2026-05-23T09:06:48.393Z",
+    "readingTime": 3,
     "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-23"
   },
   {
@@ -455,12 +473,14 @@
     "title": "Homes we've never seen before: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
+      "AI Architecture",
+      "Midjourney",
+      "Surrealism",
+      "Concept Art",
+      "Generative AI"
     ],
-    "publishedAt": "2026-05-23T00:04:22.326Z",
-    "readingTime": 1,
+    "publishedAt": "2026-05-23T09:05:42.593Z",
+    "readingTime": 4,
     "url": "/vi/prompt-image/homes-we-ve-never-seen-before-goc-nhin-cho-creator-va-build-2026-05-23"
   },
   {
@@ -471,12 +491,14 @@
     "title": "Homes we've never seen before: creator and builder analysis",
     "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
     "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
+      "AI Architecture",
+      "Midjourney",
+      "Speculative Design",
+      "Prompt Engineering",
+      "Digital Art"
     ],
-    "publishedAt": "2026-05-23T00:04:22.595Z",
-    "readingTime": 1,
+    "publishedAt": "2026-05-23T09:06:56.903Z",
+    "readingTime": 4,
     "url": "/en/prompt-image/homes-we-ve-never-seen-before-creator-and-builder-analysis-2026-05-23"
   },
   {
@@ -487,12 +509,14 @@
     "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
+      "Generative AI",
+      "AI Literature",
+      "Commonwealth Prize",
+      "Creative Writing",
+      "AI Detection"
     ],
-    "publishedAt": "2026-05-23T00:04:22.351Z",
-    "readingTime": 1,
+    "publishedAt": "2026-05-23T09:06:24.778Z",
+    "readingTime": 4,
     "url": "/vi/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23"
   },
   {
@@ -503,12 +527,14 @@
     "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
     "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
+      "Generative AI",
+      "Literary Theory",
+      "LLM Detection",
+      "Creative Writing",
+      "AI Ethics"
     ],
-    "publishedAt": "2026-05-23T00:04:22.632Z",
-    "readingTime": 1,
+    "publishedAt": "2026-05-23T09:07:47.097Z",
+    "readingTime": 4,
     "url": "/en/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23"
   }
 ]
