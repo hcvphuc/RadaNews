@@ -325,13 +325,13 @@
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "ai-agentic",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.762Z",
+    "publishedAt": "2026-05-23T23:55:21.547Z",
     "readingTime": 2,
     "url": "/vi/ai-agentic/the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23"
   },
@@ -341,13 +341,13 @@
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-agentic",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.671Z",
+    "publishedAt": "2026-05-23T23:55:28.527Z",
     "readingTime": 2,
     "url": "/en/ai-agentic/the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23"
   },
@@ -363,7 +363,7 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.565Z",
+    "publishedAt": "2026-05-23T23:55:21.544Z",
     "readingTime": 1,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-23"
   },
@@ -379,7 +379,7 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.562Z",
+    "publishedAt": "2026-05-23T23:55:28.523Z",
     "readingTime": 1,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-23"
   },
@@ -395,7 +395,7 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.651Z",
+    "publishedAt": "2026-05-23T23:55:21.510Z",
     "readingTime": 1,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-23"
   },
@@ -411,41 +411,9 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.563Z",
+    "publishedAt": "2026-05-23T23:55:28.657Z",
     "readingTime": 1,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T11:52:32.649Z",
-    "readingTime": 1,
-    "url": "/vi/ai-vibe-coding/an-update-on-nodes-2-0-from-comfy-org-goc-nhin-cho-creator-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T11:52:39.501Z",
-    "readingTime": 1,
-    "url": "/en/ai-vibe-coding/an-update-on-nodes-2-0-from-comfy-org-creator-and-builder-a-2026-05-23"
   },
   {
     "id": "cluster_ai-video_1_kling-ai_2026-05-23_vi",
@@ -459,7 +427,7 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.808Z",
+    "publishedAt": "2026-05-23T23:55:21.637Z",
     "readingTime": 1,
     "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-23"
   },
@@ -475,108 +443,172 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.705Z",
+    "publishedAt": "2026-05-23T23:55:28.670Z",
     "readingTime": 1,
     "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-23"
   },
   {
-    "id": "cluster_ai-image_2_charecter-in-anima-checkpoint-can-make-like-regional-prompter-wi_2026-05-23_vi",
+    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-23T23:55:21.655Z",
+    "readingTime": 1,
+    "url": "/vi/ai-vibe-coding/an-update-on-nodes-2-0-from-comfy-org-goc-nhin-cho-creator-2026-05-23"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "ai-vibe-coding",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-23T23:55:28.568Z",
+    "readingTime": 1,
+    "url": "/en/ai-vibe-coding/an-update-on-nodes-2-0-from-comfy-org-creator-and-builder-a-2026-05-23"
+  },
+  {
+    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_vi",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "After 6 months of running AI agents in production I think the framework you p...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "ai-agentic",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-23T23:55:21.601Z",
+    "readingTime": 1,
+    "url": "/vi/ai-agentic/after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-23"
+  },
+  {
+    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_en",
+    "lang": "en",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "After 6 months of running AI agents in production I think the framework you p...: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "ai-agentic",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-23T23:55:28.769Z",
+    "readingTime": 1,
+    "url": "/en/ai-agentic/after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-23"
+  },
+  {
+    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "Charecter in Anima checkpoint can make like Regional Prompter without use any...: góc nhìn cho creator và builder",
+    "title": "Multi Referencelatent: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "ai-image",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.721Z",
+    "publishedAt": "2026-05-23T23:55:21.590Z",
     "readingTime": 1,
-    "url": "/vi/ai-image/charecter-in-anima-checkpoint-can-make-like-regional-prompte-2026-05-23"
+    "url": "/vi/ai-image/multi-referencelatent-goc-nhin-cho-creator-va-builder-2026-05-23"
   },
   {
-    "id": "cluster_ai-image_2_charecter-in-anima-checkpoint-can-make-like-regional-prompter-wi_2026-05-23_en",
+    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "Charecter in Anima checkpoint can make like Regional Prompter without use any...: creator and builder analysis",
+    "title": "Multi Referencelatent: creator and builder analysis",
     "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-image",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.598Z",
+    "publishedAt": "2026-05-23T23:55:28.580Z",
     "readingTime": 1,
-    "url": "/en/ai-image/charecter-in-anima-checkpoint-can-make-like-regional-prompte-2026-05-23"
+    "url": "/en/ai-image/multi-referencelatent-creator-and-builder-analysis-2026-05-23"
   },
   {
-    "id": "cluster_ai-agentic_2_datasette-agent-charts-0-1a2_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "datasette-agent-charts 0.1a2: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T11:52:32.703Z",
-    "readingTime": 1,
-    "url": "/vi/ai-agentic/datasette-agent-charts-0-1a2-goc-nhin-cho-creator-va-builde-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-agentic_2_datasette-agent-charts-0-1a2_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "datasette-agent-charts 0.1a2: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T11:52:39.667Z",
-    "readingTime": 1,
-    "url": "/en/ai-agentic/datasette-agent-charts-0-1a2-creator-and-builder-analysis-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-video_2_i-refuse-to-believe-we-ve-already-reached-this-point_2026-05-23_vi",
+    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
-    "title": "I refuse to believe we've already reached this point: góc nhìn cho creator và builder",
+    "title": "“The Eye Doctor” by jboogxcreative (me): góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "ai-video",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.751Z",
+    "publishedAt": "2026-05-23T23:55:21.540Z",
     "readingTime": 1,
-    "url": "/vi/ai-video/i-refuse-to-believe-we-ve-already-reached-this-point-goc-nh-2026-05-23"
+    "url": "/vi/ai-video/the-eye-doctor-by-jboogxcreative-me-goc-nhin-cho-creato-2026-05-23"
   },
   {
-    "id": "cluster_ai-video_2_i-refuse-to-believe-we-ve-already-reached-this-point_2026-05-23_en",
+    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
-    "title": "I refuse to believe we've already reached this point: creator and builder analysis",
+    "title": "“The Eye Doctor” by jboogxcreative (me): creator and builder analysis",
     "subtitle": "Signal synthesized from r/aivideo, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-video",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.735Z",
+    "publishedAt": "2026-05-23T23:55:28.402Z",
     "readingTime": 1,
-    "url": "/en/ai-video/i-refuse-to-believe-we-ve-already-reached-this-point-creato-2026-05-23"
+    "url": "/en/ai-video/the-eye-doctor-by-jboogxcreative-me-creator-and-builder-2026-05-23"
   },
   {
-    "id": "cluster_prompt-image_1_land-of-war-135_2026-05-23_vi",
+    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_vi",
+    "lang": "vi",
+    "category": "prompt-image",
+    "categoryLabel": "Prompt Image",
+    "title": "Flying With Angels: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "prompt-image",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-23T23:55:22.124Z",
+    "readingTime": 1,
+    "url": "/vi/prompt-image/flying-with-angels-goc-nhin-cho-creator-va-builder-2026-05-23"
+  },
+  {
+    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_en",
+    "lang": "en",
+    "category": "prompt-image",
+    "categoryLabel": "Prompt Image",
+    "title": "Flying With Angels: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "prompt-image",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-23T23:55:29.085Z",
+    "readingTime": 1,
+    "url": "/en/prompt-image/flying-with-angels-creator-and-builder-analysis-2026-05-23"
+  },
+  {
+    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_vi",
     "lang": "vi",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
@@ -587,12 +619,12 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.814Z",
+    "publishedAt": "2026-05-23T23:55:21.826Z",
     "readingTime": 1,
     "url": "/vi/prompt-image/land-of-war-135-goc-nhin-cho-creator-va-builder-2026-05-23"
   },
   {
-    "id": "cluster_prompt-image_1_land-of-war-135_2026-05-23_en",
+    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_en",
     "lang": "en",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
@@ -603,73 +635,41 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.656Z",
+    "publishedAt": "2026-05-23T23:55:28.834Z",
     "readingTime": 1,
     "url": "/en/prompt-image/land-of-war-135-creator-and-builder-analysis-2026-05-23"
   },
   {
-    "id": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-23_vi",
+    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_vi",
     "lang": "vi",
     "category": "prompt-video",
     "categoryLabel": "Prompt Video",
-    "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...: góc nhìn cho creator và builder",
+    "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "prompt-video",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.896Z",
+    "publishedAt": "2026-05-23T23:55:22.053Z",
     "readingTime": 1,
-    "url": "/vi/prompt-video/ai-is-incapable-of-poetry-it-s-incapable-of-producing-anyt-2026-05-23"
+    "url": "/vi/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23"
   },
   {
-    "id": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-23_en",
+    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_en",
     "lang": "en",
     "category": "prompt-video",
     "categoryLabel": "Prompt Video",
-    "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...: creator and builder analysis",
+    "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
     "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
       "prompt-video",
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.800Z",
+    "publishedAt": "2026-05-23T23:55:29.191Z",
     "readingTime": 1,
-    "url": "/en/prompt-video/ai-is-incapable-of-poetry-it-s-incapable-of-producing-anyt-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-image_2_homes-we-ve-never-seen-before_2026-05-23_vi",
-    "lang": "vi",
-    "category": "prompt-image",
-    "categoryLabel": "Prompt Image",
-    "title": "Homes we've never seen before: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T11:52:32.812Z",
-    "readingTime": 1,
-    "url": "/vi/prompt-image/homes-we-ve-never-seen-before-goc-nhin-cho-creator-va-build-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-image_2_homes-we-ve-never-seen-before_2026-05-23_en",
-    "lang": "en",
-    "category": "prompt-image",
-    "categoryLabel": "Prompt Image",
-    "title": "Homes we've never seen before: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T11:52:39.759Z",
-    "readingTime": 1,
-    "url": "/en/prompt-image/homes-we-ve-never-seen-before-creator-and-builder-analysis-2026-05-23"
+    "url": "/en/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23"
   },
   {
     "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_vi",
@@ -683,7 +683,7 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:32.812Z",
+    "publishedAt": "2026-05-23T23:55:21.681Z",
     "readingTime": 1,
     "url": "/vi/prompt-video/review-50-years-of-text-games-by-aaron-reed-goc-nhin-2026-05-23"
   },
@@ -699,7 +699,7 @@
       "ai-radar",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T11:52:39.671Z",
+    "publishedAt": "2026-05-23T23:55:28.675Z",
     "readingTime": 1,
     "url": "/en/prompt-video/review-50-years-of-text-games-by-aaron-reed-creator-a-2026-05-23"
   }

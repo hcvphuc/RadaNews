@@ -15,7 +15,7 @@
         "Something went wrong while submitting the form.",
         "LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found.",
         "How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min Deep Agents New in Deep Agents v0.6 Sydney Runkle May 13, 2026 10 min LangSmith LangSmith LLM Gateway: runtime governance built into the agent lifecycle Martha Janicki May 13, 2026 6 min Deep Agents LangGraph Delta Channels: Evolving our Runtime for Long-Running Agents Sydney Runkle May 12, 2026 7 min No items found.",
-        "Just got a new GPU and want to seriously take on SD/ComfyUI/Etc, and after some research, I noticed that while it looks completely harmless on the surface, it's basically a powder keg of random models that might or might not have malicious code, custom nodes that execute random python code that can do anything (and even if it doesn't when you dl it, after update it can if the instance got compromised), or workflows that could load/help that code getting executed."
+        "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations."
       ]
     },
     "vi": {
@@ -23,7 +23,7 @@
       "lang": "vi",
       "category": "ai-agentic",
       "title": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
           "text": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!"
@@ -69,19 +69,19 @@
       ],
       "sourceIds": [
         "src_simonwillison-blog_db308cdbb5fbeceb",
-        "src_simonwillison-blog_ddeaa077ca02cb60",
         "src_langchain-blog_40ded3f923e3291d",
+        "src_simonwillison-blog_ddeaa077ca02cb60",
         "src_luma-blog_c7449029956c34f9",
+        "src_simonwillison-blog_19ea9b0e255464db",
         "src_huggingface-blog_af185e1e7e4dfbac",
         "src_lilianweng-blog_31a2c7baf9b791a5",
-        "src_simonwillison-blog_ad17da1cd1df2e1d",
-        "src_reddit-comfyui_f5b8daffede5b243"
+        "src_simonwillison-blog_ad17da1cd1df2e1d"
       ],
       "sourceUrls": [
         "https://blog.langchain.dev/rss/",
-        "https://www.reddit.com/r/comfyui/comments/1tl84uz/best_comfyui_security_practices/",
         "https://lumalabs.ai/blog",
         "https://huggingface.co/blog",
+        "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
         "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
         "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
         "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
@@ -90,7 +90,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.762Z",
+        "generatedAt": "2026-05-23T23:55:21.547Z",
         "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
@@ -102,7 +102,7 @@
       "lang": "en",
       "category": "ai-agentic",
       "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
-      "subtitle": "Signal synthesized from LangChain Blog, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+      "subtitle": "Signal synthesized from LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
       "highlights": [
         {
           "text": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!"
@@ -148,19 +148,19 @@
       ],
       "sourceIds": [
         "src_simonwillison-blog_db308cdbb5fbeceb",
-        "src_simonwillison-blog_ddeaa077ca02cb60",
         "src_langchain-blog_40ded3f923e3291d",
+        "src_simonwillison-blog_ddeaa077ca02cb60",
         "src_luma-blog_c7449029956c34f9",
+        "src_simonwillison-blog_19ea9b0e255464db",
         "src_huggingface-blog_af185e1e7e4dfbac",
         "src_lilianweng-blog_31a2c7baf9b791a5",
-        "src_simonwillison-blog_ad17da1cd1df2e1d",
-        "src_reddit-comfyui_f5b8daffede5b243"
+        "src_simonwillison-blog_ad17da1cd1df2e1d"
       ],
       "sourceUrls": [
         "https://blog.langchain.dev/rss/",
-        "https://www.reddit.com/r/comfyui/comments/1tl84uz/best_comfyui_security_practices/",
         "https://lumalabs.ai/blog",
         "https://huggingface.co/blog",
+        "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
         "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
         "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
         "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
@@ -169,7 +169,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.671Z",
+        "generatedAt": "2026-05-23T23:55:28.527Z",
         "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
@@ -274,7 +274,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.565Z",
+        "generatedAt": "2026-05-23T23:55:21.544Z",
         "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
@@ -345,7 +345,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.562Z",
+        "generatedAt": "2026-05-23T23:55:28.523Z",
         "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
@@ -440,25 +440,25 @@
         "src_black-forest-labs_db0e6d09e99dbd6f",
         "src_replicate-blog_572c1f4ac9c0ea5c",
         "src_reddit-stablediffusion_e99db46e2ce55fdc",
-        "src_reddit-stablediffusion_0c3ca0ee4bfd804b",
-        "src_reddit-comfyui_973b4b6310780df2",
+        "src_reddit-stablediffusion_8c31397b15af82b1",
         "src_comfyui-blog_fa3eb47ac5fb52c8",
-        "src_reddit-comfyui_f31c2ce7a94d610a"
+        "src_reddit-comfyui_c39c8fc57dbcc9c1",
+        "src_reddit-stablediffusion_475a4e7e3e1145e0"
       ],
       "sourceUrls": [
         "https://blackforestlabs.ai/blog/",
         "https://replicate.com/blog",
         "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/",
-        "https://www.reddit.com/r/comfyui/comments/1tl3545/img_dataset_refiner_v43_pro_is_here_the_ultimate/",
-        "https://www.reddit.com/r/comfyui/comments/1tkmj0q/flux2klein_tile_upscaler_node_basically_usdu_with/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tli8j5/vnccs_posestudio_big_update_0419/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
+        "https://www.reddit.com/r/comfyui/comments/1tli954/vnccs_posestudio_big_update_0419/",
         "https://runwayml.com/research",
         "https://blog.comfy.org/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.651Z",
+        "generatedAt": "2026-05-23T23:55:21.510Z",
         "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
@@ -519,202 +519,26 @@
         "src_black-forest-labs_db0e6d09e99dbd6f",
         "src_replicate-blog_572c1f4ac9c0ea5c",
         "src_reddit-stablediffusion_e99db46e2ce55fdc",
-        "src_reddit-stablediffusion_0c3ca0ee4bfd804b",
-        "src_reddit-comfyui_973b4b6310780df2",
+        "src_reddit-stablediffusion_8c31397b15af82b1",
         "src_comfyui-blog_fa3eb47ac5fb52c8",
-        "src_reddit-comfyui_f31c2ce7a94d610a"
+        "src_reddit-comfyui_c39c8fc57dbcc9c1",
+        "src_reddit-stablediffusion_475a4e7e3e1145e0"
       ],
       "sourceUrls": [
         "https://blackforestlabs.ai/blog/",
         "https://replicate.com/blog",
         "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/",
-        "https://www.reddit.com/r/comfyui/comments/1tl3545/img_dataset_refiner_v43_pro_is_here_the_ultimate/",
-        "https://www.reddit.com/r/comfyui/comments/1tkmj0q/flux2klein_tile_upscaler_node_basically_usdu_with/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tli8j5/vnccs_posestudio_big_update_0419/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
+        "https://www.reddit.com/r/comfyui/comments/1tli954/vnccs_posestudio_big_update_0419/",
         "https://runwayml.com/research",
         "https://blog.comfy.org/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.563Z",
+        "generatedAt": "2026-05-23T23:55:28.657Z",
         "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
-        "confidence": "high",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "viValidation": {
-      "ok": false,
-      "errors": [
-        "Body is too thin",
-        "Missing TL;DR"
-      ]
-    },
-    "enValidation": {
-      "ok": false,
-      "errors": [
-        "Body is too thin",
-        "Missing TL;DR"
-      ]
-    }
-  },
-  {
-    "outline": {
-      "titleDirection": "An Update on Nodes 2.0 from Comfy Org",
-      "angle": "editorial analysis for builders and creators",
-      "sections": [
-        "TL;DR",
-        "Main analysis",
-        "Why it matters",
-        "Creator / Builder takeaway",
-        "Sources"
-      ],
-      "sourceFacts": [
-        "Hi everyone, I’m working on a Research Methodology project and need a few responses for a short academic survey.",
-        "The survey is about how AI tools sometimes forget context, lose earlier instructions, or give confident but incorrect answers during long or multi-step tasks.",
-        "It takes around 3–5 minutes to complete, and the responses will be used only for academic purposes.",
-        "Form link in the comment section Would really appreciate your help.",
-        "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed."
-      ]
-    },
-    "vi": {
-      "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_vi",
-      "lang": "vi",
-      "category": "ai-vibe-coding",
-      "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-      "highlights": [
-        {
-          "text": "Hi everyone, I’m working on a Research Methodology project and need a few responses for a short academic survey."
-        },
-        {
-          "text": "The survey is about how AI tools sometimes forget context, lose earlier instructions, or give confident but incorrect answers during long or multi-step tasks."
-        },
-        {
-          "text": "It takes around 3–5 minutes to complete, and the responses will be used only for academic purposes."
-        }
-      ],
-      "sections": [
-        {
-          "id": "main",
-          "heading": "Phân tích",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "• Hi everyone, I’m working on a Research Methodology project and need a few responses for a short academic survey.\n\n• The survey is about how AI tools sometimes forget context, lose earlier instructions, or give confident but incorrect answers during long or multi-step tasks.\n\n• It takes around 3–5 minutes to complete, and the responses will be used only for academic purposes."
-            }
-          ]
-        }
-      ],
-      "insightBlocks": [
-        {
-          "title": "Vì sao đáng chú ý",
-          "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-          "variant": "analysis"
-        }
-      ],
-      "takeaway": {
-        "title": "Creator / Builder Takeaway",
-        "items": [
-          "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-          "Thử nghiệm trên một workflow nhỏ trước khi scale",
-          "Theo dõi diễn biến trong 1-2 tuần tới"
-        ]
-      },
-      "tags": [
-        "ai-vibe-coding",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_reddit-comfyui_f0fcbff5cbf30b57",
-        "src_cursor-changelog_99cdbb7e2d70df11",
-        "src_reddit-aiagents_286ad188500f2616",
-        "src_vercel-ai-blog_2026-05-23_fallback"
-      ],
-      "sourceUrls": [
-        "https://www.reddit.com/r/AI_Agents/comments/1tl7nna/need_responses_for_a_short_academic_survey/",
-        "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
-        "https://www.cursor.com/changelog",
-        "https://vercel.com/blog/ai"
-      ],
-      "generation": {
-        "model": "gemma4:31b",
-        "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.649Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
-        "confidence": "high",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "en": {
-      "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_en",
-      "lang": "en",
-      "category": "ai-vibe-coding",
-      "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
-      "subtitle": "Signal synthesized from r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
-      "highlights": [
-        {
-          "text": "Hi everyone, I’m working on a Research Methodology project and need a few responses for a short academic survey."
-        },
-        {
-          "text": "The survey is about how AI tools sometimes forget context, lose earlier instructions, or give confident but incorrect answers during long or multi-step tasks."
-        },
-        {
-          "text": "It takes around 3–5 minutes to complete, and the responses will be used only for academic purposes."
-        }
-      ],
-      "sections": [
-        {
-          "id": "main",
-          "heading": "Analysis",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "• Hi everyone, I’m working on a Research Methodology project and need a few responses for a short academic survey.\n\n• The survey is about how AI tools sometimes forget context, lose earlier instructions, or give confident but incorrect answers during long or multi-step tasks.\n\n• It takes around 3–5 minutes to complete, and the responses will be used only for academic purposes."
-            }
-          ]
-        }
-      ],
-      "insightBlocks": [
-        {
-          "title": "Why This Matters",
-          "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-          "variant": "analysis"
-        }
-      ],
-      "takeaway": {
-        "title": "Creator / Builder Takeaway",
-        "items": [
-          "Verify the source trail from listed sources",
-          "Test in one small workflow before scaling",
-          "Monitor developments over the next 1-2 weeks"
-        ]
-      },
-      "tags": [
-        "ai-vibe-coding",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_reddit-comfyui_f0fcbff5cbf30b57",
-        "src_cursor-changelog_99cdbb7e2d70df11",
-        "src_reddit-aiagents_286ad188500f2616",
-        "src_vercel-ai-blog_2026-05-23_fallback"
-      ],
-      "sourceUrls": [
-        "https://www.reddit.com/r/AI_Agents/comments/1tl7nna/need_responses_for_a_short_academic_survey/",
-        "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
-        "https://www.cursor.com/changelog",
-        "https://vercel.com/blog/ai"
-      ],
-      "generation": {
-        "model": "gemma4:31b",
-        "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.501Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -818,7 +642,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.808Z",
+        "generatedAt": "2026-05-23T23:55:21.637Z",
         "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
@@ -889,7 +713,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.705Z",
+        "generatedAt": "2026-05-23T23:55:28.670Z",
         "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
@@ -913,7 +737,7 @@
   },
   {
     "outline": {
-      "titleDirection": "Charecter in Anima checkpoint can make like Regional Prompter without use any...",
+      "titleDirection": "An Update on Nodes 2.0 from Comfy Org",
       "angle": "editorial analysis for builders and creators",
       "sections": [
         "TL;DR",
@@ -923,28 +747,28 @@
         "Sources"
       ],
       "sourceFacts": [
-        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-        "As I learn that anima can make more than two charecter with different outlook.",
-        "I just want to know some more trick to more Clearly stated position for placing in prompt like \"Left girl\" or \"Right girl\" and how many it can make in one time prompt ?",
-        "submitted by /u/lajabingl [link] [comments]",
-        "https://untwisting-rope.github.io/ https://arxiv.org/abs/2602.05013 You can find all the details here: https://github.com/BigStationW/ComfyUi-Untwisting-RoPE PS: Only Z-image Turbo is implemented so far (I'll see if I'll implement other models)."
+        "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.",
+        "Over time, we plan to gradually make the new interface the default experience in ComfyUI.",
+        "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them.",
+        "We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short.",
+        "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Code Review Cloud Tab CLI Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.5 May 20, 2026 · Changelog Improvements to Cursor Automations This release brings Cursor Automations to the Agents Window and introduces the ability to configure automations with multiple attached repos or no repos at all."
       ]
     },
     "vi": {
-      "id": "cluster_ai-image_2_charecter-in-anima-checkpoint-can-make-like-regional-prompter-wi_2026-05-23_vi",
+      "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_vi",
       "lang": "vi",
-      "category": "ai-image",
-      "title": "Charecter in Anima checkpoint can make like Regional Prompter without use any...: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "category": "ai-vibe-coding",
+      "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
-          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+          "text": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed."
         },
         {
-          "text": "As I learn that anima can make more than two charecter with different outlook."
+          "text": "Over time, we plan to gradually make the new interface the default experience in ComfyUI."
         },
         {
-          "text": "I just want to know some more trick to more Clearly stated position for placing in prompt like \"Left girl\" or \"Right girl\" and how many it can make in one time prompt ?"
+          "text": "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them."
         }
       ],
       "sections": [
@@ -954,7 +778,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• As I learn that anima can make more than two charecter with different outlook.\n\n• I just want to know some more trick to more Clearly stated position for placing in prompt like \"Left girl\" or \"Right girl\" and how many it can make in one time prompt ?"
+              "text": "• Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.\n\n• Over time, we plan to gradually make the new interface the default experience in ComfyUI.\n\n• There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them."
             }
           ]
         }
@@ -975,55 +799,45 @@
         ]
       },
       "tags": [
-        "ai-image",
+        "ai-vibe-coding",
         "ai-radar",
         "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-stablediffusion_7c518ddc08328867",
-        "src_reddit-stablediffusion_44256606e9d422c4",
-        "src_reddit-midjourney_91c5cf49176c170c",
-        "src_reddit-comfyui_47d55bf57a9532a1",
-        "src_reddit-midjourney_8df2718c2362b144",
-        "src_reddit-mediasynthesis_459f419f1f6e36c2",
-        "src_reddit-stablediffusion_ad3915e293388838",
-        "src_stability-ai-blog_2026-05-23_fallback"
+        "src_reddit-comfyui_f0fcbff5cbf30b57",
+        "src_cursor-changelog_99cdbb7e2d70df11",
+        "src_vercel-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
-        "https://stability.ai/news/rss",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tl7tyi/charecter_in_anima_checkpoint_can_make_like/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tl8mo4/i_implemented_untwisting_rope_in_comfyui/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tla88u/sega_spectralenergy_guided_attention_for/",
-        "https://www.reddit.com/r/comfyui/comments/1tlcdwg/any_loras_for_realistic_gameplay_screenshots_you/",
-        "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/"
+        "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
+        "https://www.cursor.com/changelog",
+        "https://vercel.com/blog/ai"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.721Z",
-        "sourceClusterId": "cluster_ai-image_2_charecter-in-anima-checkpoint-can-make-like-regional-prompter-wi_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:21.655Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-image_2_charecter-in-anima-checkpoint-can-make-like-regional-prompter-wi_2026-05-23_en",
+      "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_en",
       "lang": "en",
-      "category": "ai-image",
-      "title": "Charecter in Anima checkpoint can make like Regional Prompter without use any...: creator and builder analysis",
-      "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+      "category": "ai-vibe-coding",
+      "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
+      "subtitle": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
       "highlights": [
         {
-          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+          "text": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed."
         },
         {
-          "text": "As I learn that anima can make more than two charecter with different outlook."
+          "text": "Over time, we plan to gradually make the new interface the default experience in ComfyUI."
         },
         {
-          "text": "I just want to know some more trick to more Clearly stated position for placing in prompt like \"Left girl\" or \"Right girl\" and how many it can make in one time prompt ?"
+          "text": "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them."
         }
       ],
       "sections": [
@@ -1033,7 +847,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• As I learn that anima can make more than two charecter with different outlook.\n\n• I just want to know some more trick to more Clearly stated position for placing in prompt like \"Left girl\" or \"Right girl\" and how many it can make in one time prompt ?"
+              "text": "• Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.\n\n• Over time, we plan to gradually make the new interface the default experience in ComfyUI.\n\n• There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them."
             }
           ]
         }
@@ -1054,35 +868,25 @@
         ]
       },
       "tags": [
-        "ai-image",
+        "ai-vibe-coding",
         "ai-radar",
         "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-stablediffusion_7c518ddc08328867",
-        "src_reddit-stablediffusion_44256606e9d422c4",
-        "src_reddit-midjourney_91c5cf49176c170c",
-        "src_reddit-comfyui_47d55bf57a9532a1",
-        "src_reddit-midjourney_8df2718c2362b144",
-        "src_reddit-mediasynthesis_459f419f1f6e36c2",
-        "src_reddit-stablediffusion_ad3915e293388838",
-        "src_stability-ai-blog_2026-05-23_fallback"
+        "src_reddit-comfyui_f0fcbff5cbf30b57",
+        "src_cursor-changelog_99cdbb7e2d70df11",
+        "src_vercel-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
-        "https://stability.ai/news/rss",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tl7tyi/charecter_in_anima_checkpoint_can_make_like/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tl8mo4/i_implemented_untwisting_rope_in_comfyui/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tla88u/sega_spectralenergy_guided_attention_for/",
-        "https://www.reddit.com/r/comfyui/comments/1tlcdwg/any_loras_for_realistic_gameplay_screenshots_you/",
-        "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/"
+        "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
+        "https://www.cursor.com/changelog",
+        "https://vercel.com/blog/ai"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.598Z",
-        "sourceClusterId": "cluster_ai-image_2_charecter-in-anima-checkpoint-can-make-like-regional-prompter-wi_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:28.568Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -1105,7 +909,7 @@
   },
   {
     "outline": {
-      "titleDirection": "datasette-agent-charts 0.1a2",
+      "titleDirection": "After 6 months of running AI agents in production I think the framework you p...",
       "angle": "editorial analysis for builders and creators",
       "sections": [
         "TL;DR",
@@ -1123,11 +927,11 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-agentic_2_datasette-agent-charts-0-1a2_2026-05-23_vi",
+      "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-agentic",
-      "title": "datasette-agent-charts 0.1a2: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "title": "After 6 months of running AI agents in production I think the framework you p...: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
           "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
@@ -1172,9 +976,10 @@
         "daily-signal"
       ],
       "sourceIds": [
-        "src_simonwillison-blog_6b472c6187e9e7bb",
-        "src_reddit-aiagents_adda9b02662a81e3",
-        "src_reddit-aiagents_351010d15e8b88df",
+        "src_reddit-aiagents_c730b44f0330bb58",
+        "src_reddit-aiagents_53817c29175c6392",
+        "src_reddit-stablediffusion_c9e3aaf046157248",
+        "src_reddit-aiagents_7b684a9782df210c",
         "src_reddit-aiagents_c7605a4726e06ec4",
         "src_reddit-aiagents_a8d909420e99b084",
         "src_openai-blog_2026-05-23_fallback",
@@ -1185,26 +990,27 @@
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
         "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tl9lah/anyone_building_internal_ai_agents/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tl6re3/help_me_choose_an_llm_provider_which_doesnt_take/",
-        "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything"
+        "https://www.reddit.com/r/AI_Agents/comments/1tlgz6o/after_6_months_of_running_ai_agents_in_production/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlt6md/asymflux2klein9b_is_all_about_textures/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.703Z",
-        "sourceClusterId": "cluster_ai-agentic_2_datasette-agent-charts-0-1a2_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:21.601Z",
+        "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-agentic_2_datasette-agent-charts-0-1a2_2026-05-23_en",
+      "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_en",
       "lang": "en",
       "category": "ai-agentic",
-      "title": "datasette-agent-charts 0.1a2: creator and builder analysis",
-      "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+      "title": "After 6 months of running AI agents in production I think the framework you p...: creator and builder analysis",
+      "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, scored by recency, content depth, and source reliability.",
       "highlights": [
         {
           "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
@@ -1249,9 +1055,10 @@
         "daily-signal"
       ],
       "sourceIds": [
-        "src_simonwillison-blog_6b472c6187e9e7bb",
-        "src_reddit-aiagents_adda9b02662a81e3",
-        "src_reddit-aiagents_351010d15e8b88df",
+        "src_reddit-aiagents_c730b44f0330bb58",
+        "src_reddit-aiagents_53817c29175c6392",
+        "src_reddit-stablediffusion_c9e3aaf046157248",
+        "src_reddit-aiagents_7b684a9782df210c",
         "src_reddit-aiagents_c7605a4726e06ec4",
         "src_reddit-aiagents_a8d909420e99b084",
         "src_openai-blog_2026-05-23_fallback",
@@ -1262,15 +1069,16 @@
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
         "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tl9lah/anyone_building_internal_ai_agents/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tl6re3/help_me_choose_an_llm_provider_which_doesnt_take/",
-        "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything"
+        "https://www.reddit.com/r/AI_Agents/comments/1tlgz6o/after_6_months_of_running_ai_agents_in_production/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlt6md/asymflux2klein9b_is_all_about_textures/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.667Z",
-        "sourceClusterId": "cluster_ai-agentic_2_datasette-agent-charts-0-1a2_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:28.769Z",
+        "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -1293,7 +1101,7 @@
   },
   {
     "outline": {
-      "titleDirection": "I refuse to believe we've already reached this point",
+      "titleDirection": "Multi Referencelatent",
       "angle": "editorial analysis for builders and creators",
       "sections": [
         "TL;DR",
@@ -1303,26 +1111,28 @@
         "Sources"
       ],
       "sourceFacts": [
-        "submitted by /u/Old_Establishment287 [link] [comments]",
-        "submitted by /u/CzanCzanCzan [link] [comments]",
-        "submitted by /u/ArmaanKhatri [link] [comments]"
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).",
+        "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now.",
+        "submitted by /u/Capitan01R- [link] [comments]",
+        "submitted by /u/HotObjective6753 [link] [comments]"
       ]
     },
     "vi": {
-      "id": "cluster_ai-video_2_i-refuse-to-believe-we-ve-already-reached-this-point_2026-05-23_vi",
+      "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_vi",
       "lang": "vi",
-      "category": "ai-video",
-      "title": "I refuse to believe we've already reached this point: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "category": "ai-image",
+      "title": "Multi Referencelatent: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
-          "text": "submitted by /u/Old_Establishment287 [link] [comments]"
+          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
         },
         {
-          "text": "submitted by /u/CzanCzanCzan [link] [comments]"
+          "text": "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that)."
         },
         {
-          "text": "submitted by /u/ArmaanKhatri [link] [comments]"
+          "text": "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
         }
       ],
       "sections": [
@@ -1332,7 +1142,197 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "• submitted by /u/Old_Establishment287 [link] [comments]\n\n• submitted by /u/CzanCzanCzan [link] [comments]\n\n• submitted by /u/ArmaanKhatri [link] [comments]"
+              "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).\n\n• But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
+            }
+          ]
+        }
+      ],
+      "insightBlocks": [
+        {
+          "title": "Vì sao đáng chú ý",
+          "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+          "variant": "analysis"
+        }
+      ],
+      "takeaway": {
+        "title": "Creator / Builder Takeaway",
+        "items": [
+          "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+          "Thử nghiệm trên một workflow nhỏ trước khi scale",
+          "Theo dõi diễn biến trong 1-2 tuần tới"
+        ]
+      },
+      "tags": [
+        "ai-image",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_reddit-stablediffusion_9e22043bd7c8387c",
+        "src_reddit-comfyui_5841237d9fe93aae",
+        "src_reddit-midjourney_91c5cf49176c170c",
+        "src_reddit-midjourney_8df2718c2362b144",
+        "src_reddit-mediasynthesis_459f419f1f6e36c2",
+        "src_reddit-comfyui_837868449b319243",
+        "src_reddit-comfyui_7144adf926fdc7a9",
+        "src_stability-ai-blog_2026-05-23_fallback"
+      ],
+      "sourceUrls": [
+        "https://stability.ai/news/rss",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
+        "https://www.reddit.com/r/comfyui/comments/1tlixec/is_anyone_else_using_qwen_and_finding_it_as_great/",
+        "https://www.reddit.com/r/comfyui/comments/1tlleg3/really_impressed_with_ltx_23_11_mind_blowing/",
+        "https://www.reddit.com/r/comfyui/comments/1tlj5vw/ive_had_some_time_to_experiment_with_trellis_and/",
+        "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/"
+      ],
+      "generation": {
+        "model": "gemma4:31b",
+        "promptVersion": "article-vi-v2",
+        "generatedAt": "2026-05-23T23:55:21.590Z",
+        "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
+        "confidence": "high",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "en": {
+      "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_en",
+      "lang": "en",
+      "category": "ai-image",
+      "title": "Multi Referencelatent: creator and builder analysis",
+      "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+      "highlights": [
+        {
+          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+        },
+        {
+          "text": "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that)."
+        },
+        {
+          "text": "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
+        }
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "heading": "Analysis",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).\n\n• But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
+            }
+          ]
+        }
+      ],
+      "insightBlocks": [
+        {
+          "title": "Why This Matters",
+          "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
+          "variant": "analysis"
+        }
+      ],
+      "takeaway": {
+        "title": "Creator / Builder Takeaway",
+        "items": [
+          "Verify the source trail from listed sources",
+          "Test in one small workflow before scaling",
+          "Monitor developments over the next 1-2 weeks"
+        ]
+      },
+      "tags": [
+        "ai-image",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_reddit-stablediffusion_9e22043bd7c8387c",
+        "src_reddit-comfyui_5841237d9fe93aae",
+        "src_reddit-midjourney_91c5cf49176c170c",
+        "src_reddit-midjourney_8df2718c2362b144",
+        "src_reddit-mediasynthesis_459f419f1f6e36c2",
+        "src_reddit-comfyui_837868449b319243",
+        "src_reddit-comfyui_7144adf926fdc7a9",
+        "src_stability-ai-blog_2026-05-23_fallback"
+      ],
+      "sourceUrls": [
+        "https://stability.ai/news/rss",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
+        "https://www.reddit.com/r/comfyui/comments/1tlixec/is_anyone_else_using_qwen_and_finding_it_as_great/",
+        "https://www.reddit.com/r/comfyui/comments/1tlleg3/really_impressed_with_ltx_23_11_mind_blowing/",
+        "https://www.reddit.com/r/comfyui/comments/1tlj5vw/ive_had_some_time_to_experiment_with_trellis_and/",
+        "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/"
+      ],
+      "generation": {
+        "model": "gemma4:31b",
+        "promptVersion": "article-en-v2",
+        "generatedAt": "2026-05-23T23:55:28.580Z",
+        "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
+        "confidence": "high",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "viValidation": {
+      "ok": false,
+      "errors": [
+        "Body is too thin",
+        "Missing TL;DR"
+      ]
+    },
+    "enValidation": {
+      "ok": false,
+      "errors": [
+        "Body is too thin",
+        "Missing TL;DR"
+      ]
+    }
+  },
+  {
+    "outline": {
+      "titleDirection": "“The Eye Doctor” by jboogxcreative (me)",
+      "angle": "editorial analysis for builders and creators",
+      "sections": [
+        "TL;DR",
+        "Main analysis",
+        "Why it matters",
+        "Creator / Builder takeaway",
+        "Sources"
+      ],
+      "sourceFacts": [
+        "submitted by /u/JBOOGZEE [link] [comments]",
+        "submitted by /u/Old_Establishment287 [link] [comments]",
+        "submitted by /u/numberchef [link] [comments]"
+      ]
+    },
+    "vi": {
+      "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_vi",
+      "lang": "vi",
+      "category": "ai-video",
+      "title": "“The Eye Doctor” by jboogxcreative (me): góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "highlights": [
+        {
+          "text": "submitted by /u/JBOOGZEE [link] [comments]"
+        },
+        {
+          "text": "submitted by /u/Old_Establishment287 [link] [comments]"
+        },
+        {
+          "text": "submitted by /u/numberchef [link] [comments]"
+        }
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "heading": "Phân tích",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "• submitted by /u/JBOOGZEE [link] [comments]\n\n• submitted by /u/Old_Establishment287 [link] [comments]\n\n• submitted by /u/numberchef [link] [comments]"
             }
           ]
         }
@@ -1358,40 +1358,40 @@
         "daily-signal"
       ],
       "sourceIds": [
+        "src_reddit-aivideo_b03404a7bf696aa9",
         "src_reddit-aivideo_fae9b9dbc13299d2",
-        "src_reddit-aivideo_cd521cd497b65473",
-        "src_reddit-aivideo_059f33804c9312f6"
+        "src_reddit-aivideo_ed6b41c9db550445"
       ],
       "sourceUrls": [
+        "https://www.reddit.com/r/aivideo/comments/1tlpux5/the_eye_doctor_by_jboogxcreative_me/",
         "https://www.reddit.com/r/aivideo/comments/1tlahl7/i_refuse_to_believe_weve_already_reached_this/",
-        "https://www.reddit.com/r/aivideo/comments/1tkuobv/chillzone/",
-        "https://www.reddit.com/r/aivideo/comments/1tlc0b5/her_daughter_draws_her_wearing_a_crown/"
+        "https://www.reddit.com/r/aivideo/comments/1tlj11m/goosebumps/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.751Z",
-        "sourceClusterId": "cluster_ai-video_2_i-refuse-to-believe-we-ve-already-reached-this-point_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:21.540Z",
+        "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-video_2_i-refuse-to-believe-we-ve-already-reached-this-point_2026-05-23_en",
+      "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_en",
       "lang": "en",
       "category": "ai-video",
-      "title": "I refuse to believe we've already reached this point: creator and builder analysis",
+      "title": "“The Eye Doctor” by jboogxcreative (me): creator and builder analysis",
       "subtitle": "Signal synthesized from r/aivideo, scored by recency, content depth, and source reliability.",
       "highlights": [
+        {
+          "text": "submitted by /u/JBOOGZEE [link] [comments]"
+        },
         {
           "text": "submitted by /u/Old_Establishment287 [link] [comments]"
         },
         {
-          "text": "submitted by /u/CzanCzanCzan [link] [comments]"
-        },
-        {
-          "text": "submitted by /u/ArmaanKhatri [link] [comments]"
+          "text": "submitted by /u/numberchef [link] [comments]"
         }
       ],
       "sections": [
@@ -1401,7 +1401,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "• submitted by /u/Old_Establishment287 [link] [comments]\n\n• submitted by /u/CzanCzanCzan [link] [comments]\n\n• submitted by /u/ArmaanKhatri [link] [comments]"
+              "text": "• submitted by /u/JBOOGZEE [link] [comments]\n\n• submitted by /u/Old_Establishment287 [link] [comments]\n\n• submitted by /u/numberchef [link] [comments]"
             }
           ]
         }
@@ -1427,20 +1427,179 @@
         "daily-signal"
       ],
       "sourceIds": [
+        "src_reddit-aivideo_b03404a7bf696aa9",
         "src_reddit-aivideo_fae9b9dbc13299d2",
-        "src_reddit-aivideo_cd521cd497b65473",
-        "src_reddit-aivideo_059f33804c9312f6"
+        "src_reddit-aivideo_ed6b41c9db550445"
       ],
       "sourceUrls": [
+        "https://www.reddit.com/r/aivideo/comments/1tlpux5/the_eye_doctor_by_jboogxcreative_me/",
         "https://www.reddit.com/r/aivideo/comments/1tlahl7/i_refuse_to_believe_weve_already_reached_this/",
-        "https://www.reddit.com/r/aivideo/comments/1tkuobv/chillzone/",
-        "https://www.reddit.com/r/aivideo/comments/1tlc0b5/her_daughter_draws_her_wearing_a_crown/"
+        "https://www.reddit.com/r/aivideo/comments/1tlj11m/goosebumps/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.735Z",
-        "sourceClusterId": "cluster_ai-video_2_i-refuse-to-believe-we-ve-already-reached-this-point_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:28.402Z",
+        "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
+        "confidence": "medium",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "viValidation": {
+      "ok": false,
+      "errors": [
+        "Body is too thin",
+        "Missing TL;DR"
+      ]
+    },
+    "enValidation": {
+      "ok": false,
+      "errors": [
+        "Body is too thin",
+        "Missing TL;DR"
+      ]
+    }
+  },
+  {
+    "outline": {
+      "titleDirection": "Flying With Angels",
+      "angle": "workflow-first prompt breakdown",
+      "sections": [
+        "TL;DR",
+        "Main analysis",
+        "Why it matters",
+        "Creator / Builder takeaway",
+        "Sources"
+      ],
+      "sourceFacts": [
+        "Made with V8 submitted by /u/MysticLinear [link] [comments]",
+        "submitted by /u/Dropdeadlegs84 [link] [comments]"
+      ]
+    },
+    "vi": {
+      "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_vi",
+      "lang": "vi",
+      "category": "prompt-image",
+      "title": "Flying With Angels: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "highlights": [
+        {
+          "text": "Made with V8 submitted by /u/MysticLinear [link] [comments]"
+        },
+        {
+          "text": "submitted by /u/Dropdeadlegs84 [link] [comments]"
+        }
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "heading": "Phân tích",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "• Made with V8 submitted by /u/MysticLinear [link] [comments]\n\n• submitted by /u/Dropdeadlegs84 [link] [comments]"
+            }
+          ]
+        }
+      ],
+      "insightBlocks": [
+        {
+          "title": "Vì sao đáng chú ý",
+          "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+          "variant": "analysis"
+        }
+      ],
+      "takeaway": {
+        "title": "Creator / Builder Takeaway",
+        "items": [
+          "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+          "Thử nghiệm trên một workflow nhỏ trước khi scale",
+          "Theo dõi diễn biến trong 1-2 tuần tới"
+        ]
+      },
+      "tags": [
+        "prompt-image",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_reddit-midjourney_5a926761e9895210",
+        "src_reddit-midjourney_102dd1176f3ffee5"
+      ],
+      "sourceUrls": [
+        "https://www.reddit.com/r/midjourney/comments/1tlmnci/flying_with_angels/",
+        "https://www.reddit.com/r/midjourney/comments/1tlgjyt/atomica/"
+      ],
+      "generation": {
+        "model": "gemma4:31b",
+        "promptVersion": "article-vi-v2",
+        "generatedAt": "2026-05-23T23:55:22.124Z",
+        "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
+        "confidence": "medium",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "en": {
+      "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_en",
+      "lang": "en",
+      "category": "prompt-image",
+      "title": "Flying With Angels: creator and builder analysis",
+      "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
+      "highlights": [
+        {
+          "text": "Made with V8 submitted by /u/MysticLinear [link] [comments]"
+        },
+        {
+          "text": "submitted by /u/Dropdeadlegs84 [link] [comments]"
+        }
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "heading": "Analysis",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "• Made with V8 submitted by /u/MysticLinear [link] [comments]\n\n• submitted by /u/Dropdeadlegs84 [link] [comments]"
+            }
+          ]
+        }
+      ],
+      "insightBlocks": [
+        {
+          "title": "Why This Matters",
+          "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
+          "variant": "analysis"
+        }
+      ],
+      "takeaway": {
+        "title": "Creator / Builder Takeaway",
+        "items": [
+          "Verify the source trail from listed sources",
+          "Test in one small workflow before scaling",
+          "Monitor developments over the next 1-2 weeks"
+        ]
+      },
+      "tags": [
+        "prompt-image",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_reddit-midjourney_5a926761e9895210",
+        "src_reddit-midjourney_102dd1176f3ffee5"
+      ],
+      "sourceUrls": [
+        "https://www.reddit.com/r/midjourney/comments/1tlmnci/flying_with_angels/",
+        "https://www.reddit.com/r/midjourney/comments/1tlgjyt/atomica/"
+      ],
+      "generation": {
+        "model": "gemma4:31b",
+        "promptVersion": "article-en-v2",
+        "generatedAt": "2026-05-23T23:55:29.085Z",
+        "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
@@ -1473,12 +1632,11 @@
         "Sources"
       ],
       "sourceFacts": [
-        "submitted by /u/Slave_Human [link] [comments]",
-        "submitted by /u/mitchellflautt [link] [comments]"
+        "submitted by /u/Slave_Human [link] [comments]"
       ]
     },
     "vi": {
-      "id": "cluster_prompt-image_1_land-of-war-135_2026-05-23_vi",
+      "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_vi",
       "lang": "vi",
       "category": "prompt-image",
       "title": "Land of War #135: góc nhìn cho creator và builder",
@@ -1486,9 +1644,6 @@
       "highlights": [
         {
           "text": "submitted by /u/Slave_Human [link] [comments]"
-        },
-        {
-          "text": "submitted by /u/mitchellflautt [link] [comments]"
         }
       ],
       "sections": [
@@ -1498,7 +1653,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "• submitted by /u/Slave_Human [link] [comments]\n\n• submitted by /u/mitchellflautt [link] [comments]"
+              "text": "• submitted by /u/Slave_Human [link] [comments]"
             }
           ]
         }
@@ -1524,25 +1679,23 @@
         "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-midjourney_1ddaba474de07cbd",
-        "src_reddit-midjourney_81fa8f5da7678db0"
+        "src_reddit-midjourney_1ddaba474de07cbd"
       ],
       "sourceUrls": [
-        "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/",
-        "https://www.reddit.com/r/midjourney/comments/1tl4qqa/cinnabar_regolith/"
+        "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.814Z",
-        "sourceClusterId": "cluster_prompt-image_1_land-of-war-135_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:21.826Z",
+        "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-image_1_land-of-war-135_2026-05-23_en",
+      "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_en",
       "lang": "en",
       "category": "prompt-image",
       "title": "Land of War #135: creator and builder analysis",
@@ -1550,9 +1703,6 @@
       "highlights": [
         {
           "text": "submitted by /u/Slave_Human [link] [comments]"
-        },
-        {
-          "text": "submitted by /u/mitchellflautt [link] [comments]"
         }
       ],
       "sections": [
@@ -1562,7 +1712,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "• submitted by /u/Slave_Human [link] [comments]\n\n• submitted by /u/mitchellflautt [link] [comments]"
+              "text": "• submitted by /u/Slave_Human [link] [comments]"
             }
           ]
         }
@@ -1588,18 +1738,16 @@
         "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-midjourney_1ddaba474de07cbd",
-        "src_reddit-midjourney_81fa8f5da7678db0"
+        "src_reddit-midjourney_1ddaba474de07cbd"
       ],
       "sourceUrls": [
-        "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/",
-        "https://www.reddit.com/r/midjourney/comments/1tl4qqa/cinnabar_regolith/"
+        "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.656Z",
-        "sourceClusterId": "cluster_prompt-image_1_land-of-war-135_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:28.834Z",
+        "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
@@ -1622,7 +1770,7 @@
   },
   {
     "outline": {
-      "titleDirection": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...",
+      "titleDirection": "AI won the 2025 Commonwealth Short Story Prize competition",
       "angle": "workflow-first prompt breakdown",
       "sections": [
         "TL;DR",
@@ -1637,10 +1785,10 @@
       ]
     },
     "vi": {
-      "id": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-23_vi",
+      "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_vi",
       "lang": "vi",
       "category": "prompt-video",
-      "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...: góc nhìn cho creator và builder",
+      "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
       "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
@@ -1683,8 +1831,8 @@
         "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-mediasynthesis_98111c99496f6ea1",
-        "src_reddit-mediasynthesis_196d9065129257ad"
+        "src_reddit-mediasynthesis_196d9065129257ad",
+        "src_reddit-mediasynthesis_98111c99496f6ea1"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
@@ -1693,18 +1841,18 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.896Z",
-        "sourceClusterId": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:22.053Z",
+        "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-23_en",
+      "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_en",
       "lang": "en",
       "category": "prompt-video",
-      "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...: creator and builder analysis",
+      "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
       "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
       "highlights": [
         {
@@ -1747,8 +1895,8 @@
         "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-mediasynthesis_98111c99496f6ea1",
-        "src_reddit-mediasynthesis_196d9065129257ad"
+        "src_reddit-mediasynthesis_196d9065129257ad",
+        "src_reddit-mediasynthesis_98111c99496f6ea1"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
@@ -1757,156 +1905,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.800Z",
-        "sourceClusterId": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-23",
-        "confidence": "medium",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "viValidation": {
-      "ok": false,
-      "errors": [
-        "Body is too thin",
-        "Missing TL;DR"
-      ]
-    },
-    "enValidation": {
-      "ok": false,
-      "errors": [
-        "Body is too thin",
-        "Missing TL;DR"
-      ]
-    }
-  },
-  {
-    "outline": {
-      "titleDirection": "Homes we've never seen before",
-      "angle": "workflow-first prompt breakdown",
-      "sections": [
-        "TL;DR",
-        "Main analysis",
-        "Why it matters",
-        "Creator / Builder takeaway",
-        "Sources"
-      ],
-      "sourceFacts": [
-        "submitted by /u/12washingbeard [link] [comments]"
-      ]
-    },
-    "vi": {
-      "id": "cluster_prompt-image_2_homes-we-ve-never-seen-before_2026-05-23_vi",
-      "lang": "vi",
-      "category": "prompt-image",
-      "title": "Homes we've never seen before: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-      "highlights": [
-        {
-          "text": "submitted by /u/12washingbeard [link] [comments]"
-        }
-      ],
-      "sections": [
-        {
-          "id": "main",
-          "heading": "Phân tích",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "• submitted by /u/12washingbeard [link] [comments]"
-            }
-          ]
-        }
-      ],
-      "insightBlocks": [
-        {
-          "title": "Vì sao đáng chú ý",
-          "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-          "variant": "analysis"
-        }
-      ],
-      "takeaway": {
-        "title": "Creator / Builder Takeaway",
-        "items": [
-          "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-          "Thử nghiệm trên một workflow nhỏ trước khi scale",
-          "Theo dõi diễn biến trong 1-2 tuần tới"
-        ]
-      },
-      "tags": [
-        "prompt-image",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_reddit-midjourney_2a0b84c6afc0d09b"
-      ],
-      "sourceUrls": [
-        "https://www.reddit.com/r/midjourney/comments/1tko8r2/homes_weve_never_seen_before/"
-      ],
-      "generation": {
-        "model": "gemma4:31b",
-        "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.812Z",
-        "sourceClusterId": "cluster_prompt-image_2_homes-we-ve-never-seen-before_2026-05-23",
-        "confidence": "medium",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "en": {
-      "id": "cluster_prompt-image_2_homes-we-ve-never-seen-before_2026-05-23_en",
-      "lang": "en",
-      "category": "prompt-image",
-      "title": "Homes we've never seen before: creator and builder analysis",
-      "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-      "highlights": [
-        {
-          "text": "submitted by /u/12washingbeard [link] [comments]"
-        }
-      ],
-      "sections": [
-        {
-          "id": "main",
-          "heading": "Analysis",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "• submitted by /u/12washingbeard [link] [comments]"
-            }
-          ]
-        }
-      ],
-      "insightBlocks": [
-        {
-          "title": "Why This Matters",
-          "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-          "variant": "analysis"
-        }
-      ],
-      "takeaway": {
-        "title": "Creator / Builder Takeaway",
-        "items": [
-          "Verify the source trail from listed sources",
-          "Test in one small workflow before scaling",
-          "Monitor developments over the next 1-2 weeks"
-        ]
-      },
-      "tags": [
-        "prompt-image",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_reddit-midjourney_2a0b84c6afc0d09b"
-      ],
-      "sourceUrls": [
-        "https://www.reddit.com/r/midjourney/comments/1tko8r2/homes_weve_never_seen_before/"
-      ],
-      "generation": {
-        "model": "gemma4:31b",
-        "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.759Z",
-        "sourceClusterId": "cluster_prompt-image_2_homes-we-ve-never-seen-before_2026-05-23",
+        "generatedAt": "2026-05-23T23:55:29.191Z",
+        "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
@@ -2000,7 +2000,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-23T11:52:32.812Z",
+        "generatedAt": "2026-05-23T23:55:21.681Z",
         "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
@@ -2064,7 +2064,7 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-23T11:52:39.671Z",
+        "generatedAt": "2026-05-23T23:55:28.675Z",
         "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
