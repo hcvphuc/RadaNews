@@ -15,15 +15,15 @@
         "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
         "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.",
         "Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world.",
-        "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Code Review Cloud Tab CLI Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.5 May 20, 2026 · Changelog Improvements to Cursor Automations This release brings Cursor Automations to the Agents Window and introduces the ability to configure automations with multiple attached repos or no repos at all."
+        "Hi r/StableDiffusion, Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed."
       ]
     },
     "vi": {
-      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_vi",
+      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-vibe-coding",
       "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
           "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
@@ -72,11 +72,17 @@
         "src_simonwillison-blog_83680f69a2ed9c19",
         "src_github-copilot-blog_1cb7f10cc2e13dc1",
         "src_replit-blog_49899058ba32f8e5",
+        "src_reddit-stablediffusion_a0971547c5244b39",
+        "src_reddit-comfyui_f0fcbff5cbf30b57",
         "src_cursor-changelog_99cdbb7e2d70df11",
-        "src_vercel-ai-blog_2026-05-22_fallback"
+        "src_reddit-stablediffusion_bdb9a630ae35c8cc",
+        "src_vercel-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://www.anthropic.com/research",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tkqrwy/an_update_on_nodes_20_from_comfy_org/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tkmxol/nvidia_released_anyflow_based_on_wan_basically_it/",
+        "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
         "https://www.cursor.com/changelog",
         "https://github.blog/tag/github-copilot/",
         "https://vercel.com/blog/ai",
@@ -86,19 +92,19 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T13:19:44.384Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.278Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-22_en",
+      "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_en",
       "lang": "en",
       "category": "ai-vibe-coding",
       "title": "Research \\ Anthropic: creator and builder analysis",
-      "subtitle": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+      "subtitle": "Signal synthesized from Anthropic Research, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
       "highlights": [
         {
           "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
@@ -147,11 +153,17 @@
         "src_simonwillison-blog_83680f69a2ed9c19",
         "src_github-copilot-blog_1cb7f10cc2e13dc1",
         "src_replit-blog_49899058ba32f8e5",
+        "src_reddit-stablediffusion_a0971547c5244b39",
+        "src_reddit-comfyui_f0fcbff5cbf30b57",
         "src_cursor-changelog_99cdbb7e2d70df11",
-        "src_vercel-ai-blog_2026-05-22_fallback"
+        "src_reddit-stablediffusion_bdb9a630ae35c8cc",
+        "src_vercel-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://www.anthropic.com/research",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tkqrwy/an_update_on_nodes_20_from_comfy_org/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tkmxol/nvidia_released_anyflow_based_on_wan_basically_it/",
+        "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
         "https://www.cursor.com/changelog",
         "https://github.blog/tag/github-copilot/",
         "https://vercel.com/blog/ai",
@@ -161,8 +173,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T13:19:44.664Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.521Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -185,7 +197,7 @@
   },
   {
     "outline": {
-      "titleDirection": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...",
+      "titleDirection": "The memory shortage is causing a repricing of consumer electronics",
       "angle": "editorial analysis for builders and creators",
       "sections": [
         "TL;DR",
@@ -203,10 +215,10 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22_vi",
+      "id": "cluster_ai-agentic_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-agentic",
-      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...: góc nhìn cho creator và builder",
+      "title": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
       "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
@@ -252,24 +264,23 @@
         "daily-signal"
       ],
       "sourceIds": [
+        "src_simonwillison-blog_db308cdbb5fbeceb",
         "src_simonwillison-blog_ddeaa077ca02cb60",
         "src_langchain-blog_40ded3f923e3291d",
         "src_luma-blog_c7449029956c34f9",
         "src_huggingface-blog_af185e1e7e4dfbac",
-        "src_simonwillison-blog_1b4f3443da7e97f6",
         "src_simonwillison-blog_ad17da1cd1df2e1d",
-        "src_reddit-comfyui_3023f09b1ddfdeed",
         "src_lilianweng-blog_31a2c7baf9b791a5",
         "src_reddit-comfyui_fbd6bed9a58871de",
-        "src_reddit-comfyui_a9578863d68eb3c6",
         "src_simonwillison-blog_6b472c6187e9e7bb",
-        "src_reddit-aiagents_df5deae093bf800c",
-        "src_reddit-aiagents_edf3fcdabeb00123",
+        "src_reddit-comfyui_799c9d40fa9acf14",
+        "src_reddit-aiagents_0c3e0c5c24c61a37",
         "src_reddit-aiagents_441a29f5bf50cb05",
+        "src_reddit-aiagents_53c0c586d842b138",
         "src_reddit-aiagents_c7605a4726e06ec4",
         "src_reddit-aiagents_a8d909420e99b084",
-        "src_openai-blog_2026-05-22_fallback",
-        "src_mcp-blog_2026-05-22_fallback"
+        "src_openai-blog_2026-05-23_fallback",
+        "src_mcp-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://blog.langchain.dev/rss/",
@@ -277,35 +288,34 @@
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
         "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tkghyu/how_do_you_decide_which_ai_tools_are_actually/",
         "https://www.reddit.com/r/AI_Agents/comments/1tkg2z3/people_trust_reddit_comments_more_than_polished/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tkf0o8/getting_compute_limits_while_vibe_coding_my/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tkwzwz/i_build_daily_briefing_ai_agent/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tkns2z/ai_memory_systems_are_becoming_harder_to_trust/",
+        "https://www.reddit.com/r/comfyui/comments/1tkjotw/google_omni_video_edit_comfyui_workflow_its/",
         "https://www.reddit.com/r/comfyui/comments/1tk9xo6/how_opensourced_models_are_being_sold_and_how/",
-        "https://www.reddit.com/r/comfyui/comments/1tk0h1g/google_omni_vs_ltx_23_rtx_4060ti_local/",
-        "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
         "https://lumalabs.ai/blog",
         "https://huggingface.co/blog",
+        "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
         "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
         "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
         "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
-        "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
         "https://lilianweng.github.io/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T13:19:44.314Z",
-        "sourceClusterId": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.273Z",
+        "sourceClusterId": "cluster_ai-agentic_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22_en",
+      "id": "cluster_ai-agentic_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_en",
       "lang": "en",
       "category": "ai-agentic",
-      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to S...: creator and builder analysis",
+      "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
       "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
       "highlights": [
         {
@@ -351,24 +361,23 @@
         "daily-signal"
       ],
       "sourceIds": [
+        "src_simonwillison-blog_db308cdbb5fbeceb",
         "src_simonwillison-blog_ddeaa077ca02cb60",
         "src_langchain-blog_40ded3f923e3291d",
         "src_luma-blog_c7449029956c34f9",
         "src_huggingface-blog_af185e1e7e4dfbac",
-        "src_simonwillison-blog_1b4f3443da7e97f6",
         "src_simonwillison-blog_ad17da1cd1df2e1d",
-        "src_reddit-comfyui_3023f09b1ddfdeed",
         "src_lilianweng-blog_31a2c7baf9b791a5",
         "src_reddit-comfyui_fbd6bed9a58871de",
-        "src_reddit-comfyui_a9578863d68eb3c6",
         "src_simonwillison-blog_6b472c6187e9e7bb",
-        "src_reddit-aiagents_df5deae093bf800c",
-        "src_reddit-aiagents_edf3fcdabeb00123",
+        "src_reddit-comfyui_799c9d40fa9acf14",
+        "src_reddit-aiagents_0c3e0c5c24c61a37",
         "src_reddit-aiagents_441a29f5bf50cb05",
+        "src_reddit-aiagents_53c0c586d842b138",
         "src_reddit-aiagents_c7605a4726e06ec4",
         "src_reddit-aiagents_a8d909420e99b084",
-        "src_openai-blog_2026-05-22_fallback",
-        "src_mcp-blog_2026-05-22_fallback"
+        "src_openai-blog_2026-05-23_fallback",
+        "src_mcp-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://blog.langchain.dev/rss/",
@@ -376,25 +385,24 @@
         "https://modelcontextprotocol.io/blog",
         "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
         "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tkghyu/how_do_you_decide_which_ai_tools_are_actually/",
         "https://www.reddit.com/r/AI_Agents/comments/1tkg2z3/people_trust_reddit_comments_more_than_polished/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tkf0o8/getting_compute_limits_while_vibe_coding_my/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tkwzwz/i_build_daily_briefing_ai_agent/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tkns2z/ai_memory_systems_are_becoming_harder_to_trust/",
+        "https://www.reddit.com/r/comfyui/comments/1tkjotw/google_omni_video_edit_comfyui_workflow_its/",
         "https://www.reddit.com/r/comfyui/comments/1tk9xo6/how_opensourced_models_are_being_sold_and_how/",
-        "https://www.reddit.com/r/comfyui/comments/1tk0h1g/google_omni_vs_ltx_23_rtx_4060ti_local/",
-        "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
         "https://lumalabs.ai/blog",
         "https://huggingface.co/blog",
+        "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
         "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
         "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
         "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
-        "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
         "https://lilianweng.github.io/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T13:19:44.633Z",
-        "sourceClusterId": "cluster_ai-agentic_ftc-to-require-cox-media-group-two-other-firms-to-pay-nearly-1-m_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.528Z",
+        "sourceClusterId": "cluster_ai-agentic_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -435,7 +443,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22_vi",
+      "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-image",
       "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
@@ -487,30 +495,26 @@
         "src_runway-research_4c72ae34dd32cd2b",
         "src_black-forest-labs_db0e6d09e99dbd6f",
         "src_replicate-blog_572c1f4ac9c0ea5c",
-        "src_reddit-stablediffusion_641707a86ce9e886",
-        "src_reddit-comfyui_688f9ee8b405b1d0",
+        "src_reddit-comfyui_973b4b6310780df2",
         "src_comfyui-blog_fa3eb47ac5fb52c8",
         "src_reddit-stablediffusion_1eb341f553a0e066",
-        "src_reddit-stablediffusion_f8776d7997fb8fe7",
+        "src_reddit-stablediffusion_36dab52f5dcc2ffc",
         "src_reddit-midjourney_91c5cf49176c170c",
         "src_reddit-comfyui_459a80ae5fd070ee",
         "src_reddit-midjourney_8df2718c2362b144",
         "src_reddit-mediasynthesis_459f419f1f6e36c2",
-        "src_reddit-stablediffusion_deddb07af51cca42",
-        "src_reddit-stablediffusion_6c49a0c80a293e91",
-        "src_stability-ai-blog_2026-05-22_fallback"
+        "src_reddit-stablediffusion_e88ec17f93743154",
+        "src_stability-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://stability.ai/news/rss",
         "https://blackforestlabs.ai/blog/",
         "https://replicate.com/blog",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tkus7j/sulphur_released_as_lora_for_ltx23/",
         "https://www.reddit.com/r/StableDiffusion/comments/1tkd293/been_testing_krea_2_large_and_medium/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tkh9c2/phosphene_30_open_source_ai_video_image_suite_for/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tkg4r9/ltx_23_ltx_director_testing/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tkajke/microsoft_lens_seems_to_be_back/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tkepzb/i_built_a_free_demo_for_pixal3d_tencent_new/",
+        "https://www.reddit.com/r/comfyui/comments/1tkmj0q/flux2klein_tile_upscaler_node_basically_usdu_with/",
         "https://www.reddit.com/r/comfyui/comments/1tkedzb/my_company_got_wan_27_i2v_access/",
-        "https://www.reddit.com/r/comfyui/comments/1tkh0gr/character_consistency_lora_training_and_testing/",
         "https://runwayml.com/research",
         "https://blog.comfy.org/",
         "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
@@ -520,15 +524,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T13:19:44.330Z",
-        "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.275Z",
+        "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22_en",
+      "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-23_en",
       "lang": "en",
       "category": "ai-image",
       "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
@@ -580,30 +584,26 @@
         "src_runway-research_4c72ae34dd32cd2b",
         "src_black-forest-labs_db0e6d09e99dbd6f",
         "src_replicate-blog_572c1f4ac9c0ea5c",
-        "src_reddit-stablediffusion_641707a86ce9e886",
-        "src_reddit-comfyui_688f9ee8b405b1d0",
+        "src_reddit-comfyui_973b4b6310780df2",
         "src_comfyui-blog_fa3eb47ac5fb52c8",
         "src_reddit-stablediffusion_1eb341f553a0e066",
-        "src_reddit-stablediffusion_f8776d7997fb8fe7",
+        "src_reddit-stablediffusion_36dab52f5dcc2ffc",
         "src_reddit-midjourney_91c5cf49176c170c",
         "src_reddit-comfyui_459a80ae5fd070ee",
         "src_reddit-midjourney_8df2718c2362b144",
         "src_reddit-mediasynthesis_459f419f1f6e36c2",
-        "src_reddit-stablediffusion_deddb07af51cca42",
-        "src_reddit-stablediffusion_6c49a0c80a293e91",
-        "src_stability-ai-blog_2026-05-22_fallback"
+        "src_reddit-stablediffusion_e88ec17f93743154",
+        "src_stability-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://stability.ai/news/rss",
         "https://blackforestlabs.ai/blog/",
         "https://replicate.com/blog",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tkus7j/sulphur_released_as_lora_for_ltx23/",
         "https://www.reddit.com/r/StableDiffusion/comments/1tkd293/been_testing_krea_2_large_and_medium/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tkh9c2/phosphene_30_open_source_ai_video_image_suite_for/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tkg4r9/ltx_23_ltx_director_testing/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tkajke/microsoft_lens_seems_to_be_back/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tkepzb/i_built_a_free_demo_for_pixal3d_tencent_new/",
+        "https://www.reddit.com/r/comfyui/comments/1tkmj0q/flux2klein_tile_upscaler_node_basically_usdu_with/",
         "https://www.reddit.com/r/comfyui/comments/1tkedzb/my_company_got_wan_27_i2v_access/",
-        "https://www.reddit.com/r/comfyui/comments/1tkh0gr/character_consistency_lora_training_and_testing/",
         "https://runwayml.com/research",
         "https://blog.comfy.org/",
         "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
@@ -613,8 +613,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T13:19:44.647Z",
-        "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.503Z",
+        "sourceClusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -655,7 +655,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-video_kling-ai_2026-05-22_vi",
+      "id": "cluster_ai-video_kling-ai_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-video",
       "title": "Kling AI: góc nhìn cho creator và builder",
@@ -708,31 +708,31 @@
         "src_pika-blog_80e55ecea6acd04d",
         "src_reddit-aivideo_a7a9a72758720ba6",
         "src_reddit-aivideo_5a163fe980d106d8",
-        "src_reddit-aivideo_8eddadb87359e5ce",
-        "src_reddit-aivideo_c1cebfe7b473055b",
-        "src_reddit-aivideo_d8fef4bac87d6c01"
+        "src_reddit-aivideo_cd521cd497b65473",
+        "src_reddit-aivideo_79543b3208ac0d08",
+        "src_reddit-aivideo_8eddadb87359e5ce"
       ],
       "sourceUrls": [
         "https://pika.art/blog",
         "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
         "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "https://www.reddit.com/r/aivideo/comments/1tkuobv/chillzone/",
+        "https://www.reddit.com/r/aivideo/comments/1tkv2e5/spellcasting_fundamentals_magehold_scene/",
         "https://www.reddit.com/r/aivideo/comments/1tkbvs9/the_quiet_collapse_red_rainbow/",
-        "https://www.reddit.com/r/aivideo/comments/1tjq72c/lingerie_photoshoot/",
-        "https://www.reddit.com/r/aivideo/comments/1tkf1j5/cletus_the_agi_robot/",
         "https://klingai.com/blog"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T13:19:44.375Z",
-        "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.267Z",
+        "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-video_kling-ai_2026-05-22_en",
+      "id": "cluster_ai-video_kling-ai_2026-05-23_en",
       "lang": "en",
       "category": "ai-video",
       "title": "Kling AI: creator and builder analysis",
@@ -785,24 +785,24 @@
         "src_pika-blog_80e55ecea6acd04d",
         "src_reddit-aivideo_a7a9a72758720ba6",
         "src_reddit-aivideo_5a163fe980d106d8",
-        "src_reddit-aivideo_8eddadb87359e5ce",
-        "src_reddit-aivideo_c1cebfe7b473055b",
-        "src_reddit-aivideo_d8fef4bac87d6c01"
+        "src_reddit-aivideo_cd521cd497b65473",
+        "src_reddit-aivideo_79543b3208ac0d08",
+        "src_reddit-aivideo_8eddadb87359e5ce"
       ],
       "sourceUrls": [
         "https://pika.art/blog",
         "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
         "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "https://www.reddit.com/r/aivideo/comments/1tkuobv/chillzone/",
+        "https://www.reddit.com/r/aivideo/comments/1tkv2e5/spellcasting_fundamentals_magehold_scene/",
         "https://www.reddit.com/r/aivideo/comments/1tkbvs9/the_quiet_collapse_red_rainbow/",
-        "https://www.reddit.com/r/aivideo/comments/1tjq72c/lingerie_photoshoot/",
-        "https://www.reddit.com/r/aivideo/comments/1tkf1j5/cletus_the_agi_robot/",
         "https://klingai.com/blog"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T13:19:44.663Z",
-        "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.589Z",
+        "sourceClusterId": "cluster_ai-video_kling-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -825,7 +825,7 @@
   },
   {
     "outline": {
-      "titleDirection": "Untitled 56",
+      "titleDirection": "Homes we've never seen before",
       "angle": "workflow-first prompt breakdown",
       "sections": [
         "TL;DR",
@@ -836,25 +836,25 @@
       ],
       "sourceFacts": [
         "submitted by /u/12washingbeard [link] [comments]",
-        "submitted by /u/Dropdeadlegs84 [link] [comments]",
-        "submitted by /u/NaturalCrits [link] [comments]"
+        "Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]",
+        "submitted by /u/mitchellflautt [link] [comments]"
       ]
     },
     "vi": {
-      "id": "cluster_prompt-image_untitled-56_2026-05-22_vi",
+      "id": "cluster_prompt-image_homes-we-ve-never-seen-before_2026-05-23_vi",
       "lang": "vi",
       "category": "prompt-image",
-      "title": "Untitled 56: góc nhìn cho creator và builder",
+      "title": "Homes we've never seen before: góc nhìn cho creator và builder",
       "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
       "highlights": [
         {
           "text": "submitted by /u/12washingbeard [link] [comments]"
         },
         {
-          "text": "submitted by /u/Dropdeadlegs84 [link] [comments]"
+          "text": "Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]"
         },
         {
-          "text": "submitted by /u/NaturalCrits [link] [comments]"
+          "text": "submitted by /u/mitchellflautt [link] [comments]"
         }
       ],
       "sections": [
@@ -864,7 +864,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "• submitted by /u/12washingbeard [link] [comments]\n\n• submitted by /u/Dropdeadlegs84 [link] [comments]\n\n• submitted by /u/NaturalCrits [link] [comments]"
+              "text": "• submitted by /u/12washingbeard [link] [comments]\n\n• Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]\n\n• submitted by /u/mitchellflautt [link] [comments]"
             }
           ]
         }
@@ -890,40 +890,40 @@
         "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-midjourney_780e38c5d43bd232",
-        "src_reddit-midjourney_1b8aeb4812f17110",
-        "src_reddit-midjourney_7a2420202beea09d"
+        "src_reddit-midjourney_2a0b84c6afc0d09b",
+        "src_reddit-midjourney_d9afe97f80bd1201",
+        "src_reddit-midjourney_5d2f52c3384d9632"
       ],
       "sourceUrls": [
-        "https://www.reddit.com/r/midjourney/comments/1tk6tuo/untitled_56/",
-        "https://www.reddit.com/r/midjourney/comments/1tkgckp/the_good_old_2060s/",
-        "https://www.reddit.com/r/midjourney/comments/1tk4sui/paladin_pencil_sketch/"
+        "https://www.reddit.com/r/midjourney/comments/1tko8r2/homes_weve_never_seen_before/",
+        "https://www.reddit.com/r/midjourney/comments/1tkrni2/gypsys_tramps_thieves/",
+        "https://www.reddit.com/r/midjourney/comments/1tkmlgr/aquatic_avantgarde/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T13:19:44.377Z",
-        "sourceClusterId": "cluster_prompt-image_untitled-56_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.326Z",
+        "sourceClusterId": "cluster_prompt-image_homes-we-ve-never-seen-before_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-image_untitled-56_2026-05-22_en",
+      "id": "cluster_prompt-image_homes-we-ve-never-seen-before_2026-05-23_en",
       "lang": "en",
       "category": "prompt-image",
-      "title": "Untitled 56: creator and builder analysis",
+      "title": "Homes we've never seen before: creator and builder analysis",
       "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
       "highlights": [
         {
           "text": "submitted by /u/12washingbeard [link] [comments]"
         },
         {
-          "text": "submitted by /u/Dropdeadlegs84 [link] [comments]"
+          "text": "Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]"
         },
         {
-          "text": "submitted by /u/NaturalCrits [link] [comments]"
+          "text": "submitted by /u/mitchellflautt [link] [comments]"
         }
       ],
       "sections": [
@@ -933,7 +933,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "• submitted by /u/12washingbeard [link] [comments]\n\n• submitted by /u/Dropdeadlegs84 [link] [comments]\n\n• submitted by /u/NaturalCrits [link] [comments]"
+              "text": "• submitted by /u/12washingbeard [link] [comments]\n\n• Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]\n\n• submitted by /u/mitchellflautt [link] [comments]"
             }
           ]
         }
@@ -959,20 +959,20 @@
         "daily-signal"
       ],
       "sourceIds": [
-        "src_reddit-midjourney_780e38c5d43bd232",
-        "src_reddit-midjourney_1b8aeb4812f17110",
-        "src_reddit-midjourney_7a2420202beea09d"
+        "src_reddit-midjourney_2a0b84c6afc0d09b",
+        "src_reddit-midjourney_d9afe97f80bd1201",
+        "src_reddit-midjourney_5d2f52c3384d9632"
       ],
       "sourceUrls": [
-        "https://www.reddit.com/r/midjourney/comments/1tk6tuo/untitled_56/",
-        "https://www.reddit.com/r/midjourney/comments/1tkgckp/the_good_old_2060s/",
-        "https://www.reddit.com/r/midjourney/comments/1tk4sui/paladin_pencil_sketch/"
+        "https://www.reddit.com/r/midjourney/comments/1tko8r2/homes_weve_never_seen_before/",
+        "https://www.reddit.com/r/midjourney/comments/1tkrni2/gypsys_tramps_thieves/",
+        "https://www.reddit.com/r/midjourney/comments/1tkmlgr/aquatic_avantgarde/"
       ],
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T13:19:44.673Z",
-        "sourceClusterId": "cluster_prompt-image_untitled-56_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.595Z",
+        "sourceClusterId": "cluster_prompt-image_homes-we-ve-never-seen-before_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
@@ -1012,7 +1012,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22_vi",
+      "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_vi",
       "lang": "vi",
       "category": "prompt-video",
       "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
@@ -1075,15 +1075,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-22T13:19:44.401Z",
-        "sourceClusterId": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.351Z",
+        "sourceClusterId": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22_en",
+      "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_en",
       "lang": "en",
       "category": "prompt-video",
       "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
@@ -1146,8 +1146,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-22T13:19:44.679Z",
-        "sourceClusterId": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-22",
+        "generatedAt": "2026-05-23T00:04:22.632Z",
+        "sourceClusterId": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },

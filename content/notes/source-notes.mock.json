@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-22T13:19:34.789Z",
+    "publishedAt": "2026-05-23T00:04:20.377Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-22T13:19:34.000Z",
+    "publishedAt": "2026-05-23T00:04:19.711Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-05-22_fallback",
+    "sourceId": "src_openai-blog_2026-05-23_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-22T13:19:33.882Z",
+    "publishedAt": "2026-05-23T00:04:19.593Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-05-22_fallback",
+    "sourceId": "src_mcp-blog_2026-05-23_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-22T13:19:34.205Z",
+    "publishedAt": "2026-05-23T00:04:19.833Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,35 +167,6 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_df5deae093bf800c",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tkghyu/how_do_you_decide_which_ai_tools_are_actually/",
-    "title": "How do you decide which AI tools are actually worth keeping active?",
-    "publishedAt": "2026-05-22T11:43:30.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "I’m starting to feel like AI tools are turning into a second software bill.",
-      "It used to be simple for me: pay for one chatbot, maybe one image tool, and that was it.",
-      "Now there’s always another tool that looks useful for one specific thing, writing, coding, image generation, voice, research, automation, slides, agents, whatever.The problem is that I don’t use all of them evenly.",
-      "Some tools are useful for a few days during a project, then I barely touch them for the rest of the month."
-    ],
-    "claims": [
-      {
-        "text": "I’m starting to feel like AI tools are turning into a second software bill. It used to be simple for me: pay for one chatbot, maybe one image tool, and that was it. Now there’s always another tool that looks useful for one specific thing, writing, coding, image generation, voice, research, automation, slides, agents, whatever.The problem is that I don’t use all of them evenly. Some tools are useful for a few days during a project, then I barely touch them for the rest of the month. Midjourney is like that for me. Same with a few AI productivity tools. They’re not useless, but they’re not always worth keeping active every single month either. Recently I’ve been trying gamsgo because it puts a lot of AI and digital subscriptions in one place, so I can treat them more like “use when needed” tools instead of managing a bunch of separate monthly plans. I still care more about whether the access is stable and easy to manage than just chasing the cheapest option. submitted by /u/This-You-2737 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tkghyu/how_do_you_decide_which_ai_tools_are_actually/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_reddit-aiagents_441a29f5bf50cb05",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -225,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_edf3fcdabeb00123",
+    "sourceId": "src_reddit-aiagents_0c3e0c5c24c61a37",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tkf0o8/getting_compute_limits_while_vibe_coding_my/",
-    "title": "Getting compute limits while vibe coding my app,any way around this? Any truly unlimited paid models?",
-    "publishedAt": "2026-05-22T10:31:30.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tkwzwz/i_build_daily_briefing_ai_agent/",
+    "title": "I Build Daily Briefing AI Agent",
+    "publishedAt": "2026-05-22T21:45:28.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’m building an app using vibe coding tools/AI coding assistants, but I keep hitting compute/token/message limits whenever I start doing more serious work or larger features.",
-      "It becomes really frustrating during long coding sessions.",
-      "I wanted to ask: - What’s the best way to avoid these compute limits?",
-      "- Do you use multiple models/tools together?"
+      "I started a series where I build AI agents every day and sharing them in github.",
+      "For the first day, I built a clean and practical agent that connects to your Google account to: • Track your daily emails and meetings • Answer questions about your calendar in day.",
+      "I added example tools so you can clone the repo and run the demo immediately.",
+      "✍️The code is well commented and comes with a detailed README including step by step instructions to connect your own accounts with google mcp🫡 Github Repo in comment submitted by /u/Proper-Dragonfly1536 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I’m building an app using vibe coding tools/AI coding assistants, but I keep hitting compute/token/message limits whenever I start doing more serious work or larger features. It becomes really frustrating during long coding sessions. I wanted to ask: - What’s the best way to avoid these compute limits? - Do you use multiple models/tools together? - Is there any AI coding model or platform that offers near-unlimited usage after paying? - Which option gives the best value for heavy daily development? Would appreciate recommendations from people building real projects with AI coding workflows. submitted by /u/Maleficent_Scene_459 [link] [comments]",
+        "text": "I started a series where I build AI agents every day and sharing them in github. For the first day, I built a clean and practical agent that connects to your Google account to: • Track your daily emails and meetings • Answer questions about your calendar in day. I added example tools so you can clone the repo and run the demo immediately. ✍️The code is well commented and comes with a detailed README including step by step instructions to connect your own accounts with google mcp🫡 Github Repo in comment submitted by /u/Proper-Dragonfly1536 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tkf0o8/getting_compute_limits_while_vibe_coding_my/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tkwzwz/i_build_daily_briefing_ai_agent/"
       }
     ],
     "usableFor": [
@@ -254,12 +225,39 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-05-22_fallback",
+    "sourceId": "src_reddit-aiagents_53c0c586d842b138",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tkns2z/ai_memory_systems_are_becoming_harder_to_trust/",
+    "title": "AI memory systems are becoming harder to trust the longer you use them",
+    "publishedAt": "2026-05-22T16:18:55.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Everyone loves persistent memory until the agent starts confidently recalling outdated or completely wrong info from 3 weeks ago 💀 Feels like the industry solved “store everything” before solving “know what’s still true.” Are people actually managing AI memory well yet or are we all just stacking context and hoping retrieval saves us?",
+      "submitted by /u/riddlemewhat2 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "Everyone loves persistent memory until the agent starts confidently recalling outdated or completely wrong info from 3 weeks ago 💀 Feels like the industry solved “store everything” before solving “know what’s still true.” Are people actually managing AI memory well yet or are we all just stacking context and hoping retrieval saves us? submitted by /u/riddlemewhat2 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tkns2z/ai_memory_systems_are_becoming_harder_to_trust/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_stability-ai-blog_2026-05-23_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-22T13:19:34.167Z",
+    "publishedAt": "2026-05-23T00:04:19.758Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +283,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-22T13:19:34.897Z",
+    "publishedAt": "2026-05-23T00:04:20.608Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +312,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-22T13:19:34.472Z",
+    "publishedAt": "2026-05-23T00:04:19.705Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -338,6 +336,119 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_e88ec17f93743154",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/",
+    "title": "Tencent released Z-Image 6B with pixel space gen. No VAE & 1k Resolution.",
+    "publishedAt": "2026-05-22T13:16:22.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Link: https://nju-pcalab.github.io/projects/L2P/ submitted by /u/switch2stock [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "Link: https://nju-pcalab.github.io/projects/L2P/ submitted by /u/switch2stock [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_a0971547c5244b39",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkqrwy/an_update_on_nodes_20_from_comfy_org/",
+    "title": "An Update on Nodes 2.0 from Comfy Org",
+    "publishedAt": "2026-05-22T18:02:28.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Hi r/StableDiffusion, Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.",
+      "Over time, we plan to gradually make the new interface the default experience in ComfyUI.",
+      "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them.",
+      "We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short."
+    ],
+    "claims": [
+      {
+        "text": "Hi r/StableDiffusion, Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed. Over time, we plan to gradually make the new interface the default experience in ComfyUI. We know the reception has been mixed. There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them. We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short. The Problem With Canvas Canvas rendering worked, but it cut us off from everything the modern web has built over the last two decades: component libraries, design systems, accessibility tooling, the entire ecosystem developers rely on to ship fast. Every widget had to be drawn pixel by pixel. Generative AI doesn't sit still. New models, new modalities, new techniques, new ways of combining them. The workflows that made sense six months ago get rethought constantly. Our users are doing professional creative work, and they expect the controls that professional tools have had for years: curve editors, color grading, histograms, timeline scrubbing. We can't keep rebuilding those from scratch. What a Modern Frontend Unlocks With a modern frontend framework, a curve editor that would have taken weeks now takes days. A gradient slider with live preview, hours. Since the Nodes 2.0 beta launched, we’ve already shipped: Curve editors Histogram displays Live cropping UI Before/after comparison sliders Image processing nodes for color correction, film grain, chromatic aberration, sharpening, and levels Realtime shader nodes with subgraph blueprints Inline error displays and status badges directly on nodes This foundation also unlocks things that were previously impractical or impossible: Live execution previews on subgraphs Parallel node execution with realtime feedback Richer interfaces for future modalities and workflows Custom Nodes Most custom nodes work unchanged. For nodes that require updates, we’re investing heavily in migration support: A new public frontend API Documentation and migration guides Reference implementations Direct collaboration with node authors to identify gaps We understand this creates additional work for maintainers. For many popular custom nodes, we’re happy to directly help submit PRs and assist with migration work ourselves. Recent advances in coding agents have also made these frontend migrations significantly easier than they would have been even a year ago. Thank you for your patience as we work through this transition together. Timeline There is no fixed cutoff timeline yet. Right now, the priority is being transparent early and giving the ecosystem time to adapt. Current plan: Nodes 2.0 remains opt-in for now ( Settings > Rendering > Nodes 2.0 ) It later becomes the default while legacy mode remains available Eventually, legacy mode will become unmaintained and will likely break over time Going forward, new frontend-focused ComfyUI features will ship exclusively on Nodes 2.0. Feedback Please let us know what you think and the problems you run into. We need testing on complex workflows, large graphs, and custom nodes with unusual rendering. Report issues on GitHub or #bug-reports on Discord 🙏 Once again, thank you all for supporting Comfy. And most importantly, thank you to all the custom node authors who continue making this ecosystem incredibly vibrant, creative, and powerful. submitted by /u/crystal_alpine [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkqrwy/an_update_on_nodes_20_from_comfy_org/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_36dab52f5dcc2ffc",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkus7j/sulphur_released_as_lora_for_ltx23/",
+    "title": "Sulphur released as LORA for LTX2.3",
+    "publishedAt": "2026-05-22T20:22:35.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "https://huggingface.co/SulphurAI/Sulphur-2-base/blob/main/experimental/sulphur_experimental_lora_v1.safetensors submitted by /u/Valuable_Weather [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "https://huggingface.co/SulphurAI/Sulphur-2-base/blob/main/experimental/sulphur_experimental_lora_v1.safetensors submitted by /u/Valuable_Weather [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkus7j/sulphur_released_as_lora_for_ltx23/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_bdb9a630ae35c8cc",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkmxol/nvidia_released_anyflow_based_on_wan_basically_it/",
+    "title": "Nvidia released \"Anyflow\" based on Wan, basically it kinda like dynamic time step adjuster depends on your compute budget",
+    "publishedAt": "2026-05-22T15:49:29.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "In this repository, we present AnyFlow, the first any-step video diffusion framework built on flow maps.",
+      "Link: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-14B-Diffusers Full model selection: 1.3B T2V: https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-1.3B-Diffusers 1.3B T/I2V: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-1.3B-Diffusers 14B T2V: https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-14B-Diffusers 14B T/I2V: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-14B-Diffusers I dont think Comfy support it yet, or whether it is already baked into the models so there is no additional code change.",
+      "submitted by /u/Altruistic_Heat_9531 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "In this repository, we present AnyFlow, the first any-step video diffusion framework built on flow maps. Link: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-14B-Diffusers Full model selection: 1.3B T2V: https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-1.3B-Diffusers 1.3B T/I2V: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-1.3B-Diffusers 14B T2V: https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-14B-Diffusers 14B T/I2V: https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-14B-Diffusers I dont think Comfy support it yet, or whether it is already baked into the models so there is no additional code change. submitted by /u/Altruistic_Heat_9531 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkmxol/nvidia_released_anyflow_based_on_wan_basically_it/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_reddit-stablediffusion_1eb341f553a0e066",
@@ -370,27 +481,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_641707a86ce9e886",
+    "sourceId": "src_reddit-comfyui_f0fcbff5cbf30b57",
     "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkh9c2/phosphene_30_open_source_ai_video_image_suite_for/",
-    "title": "Phosphene 3.0 — open source AI video + image suite for Apple Silicon. Train your own LTX characters.",
-    "publishedAt": "2026-05-22T12:17:25.000Z",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
+    "title": "An Update on Nodes 2.0 from Comfy Org",
+    "publishedAt": "2026-05-22T18:00:50.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "It's a free panel that runs LTX-Video 2.3 and a couple of image models natively on Apple Silicon.",
-      "The thing that sets it apart from \"yet another LTX wrapper\": you can ** train your own characters ** inside the panel.",
-      "Drop 30 to 80 photos, click Train, get a face LoRA back.",
-      "Add a voice clip and you get a voice LoRA too."
+      "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.",
+      "Over time, we plan to gradually make the new interface the default experience in ComfyUI.",
+      "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them.",
+      "We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short."
     ],
     "claims": [
       {
-        "text": "Sharing Phosphene 3.0. It's a free panel that runs LTX-Video 2.3 and a couple of image models natively on Apple Silicon. Local, MIT license, no subs, no cloud. The thing that sets it apart from \"yet another LTX wrapper\": you can ** train your own characters ** inside the panel. Drop 30 to 80 photos, click Train, get a face LoRA back. Add a voice clip and you get a voice LoRA too. Auto-captions with Gemma 3 12B locally. ~3 hours per character on an M4 Max 64 GB. ** What 3.0 ships ** - Text → video+audio (LTX-2 generates joint audio+video in one pass) - Image → video+audio - Audio → video (drive a clip with an audio reference) - FFLF (first frame + last frame interpolation) - Extend (continue an existing clip) - Character training (face + optional voice LoRA, from a single dataset) - Image Studio with three engines: Qwen-Image-Edit-2511, HiDream-O1, and the FLUX.1 family. Multi-reference composition up to 3 subjects. ** HiDream-O1 ported to MLX ** HiDream released their O1 image model on May 14. Got it running natively on Apple Silicon five days later. Photoreal portraits, instruction edits, multi-subject. ~67 seconds per 1024² on a 64 GB Mac. ** Hardware ** Apple Silicon only. Capability tiers auto-detected: - 16 / 24 GB: 512 px video, text-to-image works - 32 GB: 768 px - 64 GB+: 1024×576 video, full HD image, character training - A 7-second character clip with synced audio renders in ~6 min on M4 Max 64 GB - Character training takes ~3 hours per character ** Install ** One-click via Pinokio (search Phosphene). Or clone the repo and run the panel directly. ** Credits ** LTX Video 2.3 by Lightricks (their license on the weights). MLX port by `dgrauet/ltx-2-mlx`. HiDream by HiDream AI. Phosphene the panel is MIT. ** Honest limits ** - Apple Silicon only. No Intel Mac, no Windows, no Linux. - Dialogue audio is hit-or-miss. Ambient/diegetic sound is where LTX-2 shines. - Character LoRAs are video-only (face + voice). Image LoRAs work in the Studio via Qwen/HiDream + a separate LoRA stack. - First run downloads ~28 GB of weights. Takes a while. Repo: github.com/mrbizarro/phosphene X: x.com/PhospheneAI Dev: https://x.com/AIBizarrothe Feedback welcome. Especially curious what people make with the character training side. submitted by /u/Opening-Ad5541 [link] [comments]",
+        "text": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed. Over time, we plan to gradually make the new interface the default experience in ComfyUI. We know the reception has been mixed. There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them. We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short. The Problem With Canvas Canvas rendering worked, but it cut us off from everything the modern web has built over the last two decades: component libraries, design systems, accessibility tooling, the entire ecosystem developers rely on to ship fast. Every widget had to be drawn pixel by pixel. Generative AI doesn't sit still. New models, new modalities, new techniques, new ways of combining them. The workflows that made sense six months ago get rethought constantly. Our users are doing professional creative work, and they expect the controls that professional tools have had for years: curve editors, color grading, histograms, timeline scrubbing. We can't keep rebuilding those from scratch. What a Modern Frontend Unlocks With a modern frontend framework, a curve editor that would have taken weeks now takes days. A gradient slider with live preview, hours. Since the Nodes 2.0 beta launched, we’ve already shipped: Curve editors Histogram displays Live cropping UI Before/after comparison sliders Image processing nodes for color correction, film grain, chromatic aberration, sharpening, and levels Realtime shader nodes with subgraph blueprints Inline error displays and status badges directly on nodes This foundation also unlocks things that were previously impractical or impossible: Live execution previews on subgraphs Parallel node execution with realtime feedback Richer interfaces for future modalities and workflows Custom Nodes Most custom nodes work unchanged. For nodes that require updates, we’re investing heavily in migration support: A new public frontend API Documentation and migration guides Reference implementations Direct collaboration with node authors to identify gaps We understand this creates additional work for maintainers. For many popular custom nodes, we’re happy to directly help submit PRs and assist with migration work ourselves. Recent advances in coding agents have also made these frontend migrations significantly easier than they would have been even a year ago. Thank you for your patience as we work through this transition together. Timeline There is no fixed cutoff timeline yet. Right now, the priority is being transparent early and giving the ecosystem time to adapt. Current plan: Nodes 2.0 remains opt-in for now ( Settings > Rendering > Nodes 2.0 ) It later becomes the default while legacy mode remains available Eventually, legacy mode will become unmaintained and will likely break over time Going forward, new frontend-focused ComfyUI features will ship exclusively on Nodes 2.0. Feedback Please let us know what you think and the problems you run into. We need testing on complex workflows, large graphs, and custom nodes with unusual rendering. Report issues on GitHub or #bug-reports on Discord 🙏 Once again, thank you all for supporting Comfy. And most importantly, thank you to all the custom node authors who continue making this ecosystem incredibly vibrant, creative, and powerful. submitted by /u/crystal_alpine [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkh9c2/phosphene_30_open_source_ai_video_image_suite_for/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/"
       }
     ],
     "usableFor": [
@@ -400,25 +511,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_f8776d7997fb8fe7",
+    "sourceId": "src_reddit-comfyui_973b4b6310780df2",
     "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkg4r9/ltx_23_ltx_director_testing/",
-    "title": "LTX 2.3 + LTX Director Testing",
-    "publishedAt": "2026-05-22T11:26:23.000Z",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tkmj0q/flux2klein_tile_upscaler_node_basically_usdu_with/",
+    "title": "Flux2.Klein Tile Upscaler Node (basically USDU with extra features)",
+    "publishedAt": "2026-05-22T15:34:59.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "I use 2 completly diferent images as input for shot 1 and shot2 and the character from image 1 (Shot1) appears in shot 2 with great concistency.",
-      "submitted by /u/smereces [link] [comments]"
+      "About 2 weeks ago, I saw a post about tile upscaling using Flux2.Klein.",
+      "In the comment section, I pointed out that this was a \"glorified\" Ultimate SD Upscale (USDU) workflow and proposed my own alternative.",
+      "Later that day, I realized my workflow had a serious mistake: it did not use the reference latent node and instead relied on a SplitSigmas node to control denoising.",
+      "Therefore, it didn't utilize the Klein model's abilities to its fullest."
     ],
     "claims": [
       {
-        "text": "I use 2 completly diferent images as input for shot 1 and shot2 and the character from image 1 (Shot1) appears in shot 2 with great concistency. submitted by /u/smereces [link] [comments]",
+        "text": "About 2 weeks ago, I saw a post about tile upscaling using Flux2.Klein. In the comment section, I pointed out that this was a \"glorified\" Ultimate SD Upscale (USDU) workflow and proposed my own alternative. Later that day, I realized my workflow had a serious mistake: it did not use the reference latent node and instead relied on a SplitSigmas node to control denoising. Therefore, it didn't utilize the Klein model's abilities to its fullest. However, the workflow from the original author wasn't producing super clean results either. While it actually utilized the reference latent, it always produced vastly different tiles on my images, making the whole image look like a grid (I wasn't using upscale or consistency LoRAs). So, I decided to vibecode a node that would work for USDU-style upscaling, since I have always been a fan of upscalers that can both upscale images and fix details. To this day, the best tool I have tried for \"creative\" upscaling was SeedVR2 + SDXL tile controlnet. And I think I achieved a very good result, considering that I don't know how to code and this node is 100% vibecoded. Features: Auto Slicing: Dynamically divides your canvas into identical, equal-sized tiles close to your target size. Adaptive Tiling: Dynamically reduces denoiser steps in low-detail zones (like skies or walls) to save render time. Flat areas scale down to 50% steps (2 steps), while detailed zones keep 100% steps (4 steps). Built-in Color Match: Performs linear histogram matching of each tile against the original upscaled canvas. Adaptive Tiling Strategy: Analyzes the scene and processes the highly textured tiles first. Flat zones are processed last, allowing them to anchor cleanly to the finalized, sharp boundaries of the foreground details. Not Only for Upscaling: You can do any type of work that Klein supports and that is applicable to a tile workflow. For example, you can change styles on large images without losing details due to downscaling. VRAM Friendly (mostly): Since tiles are processed one by one, you can choose a tile size that your graphics card can handle. The only bottleneck might be the VAE encode/decode process, as the standard Flux2 VAE increased color differences between tiles during my testing. LoRA Support (optional): All your LoRAs should work as expected, which is something you can't do with SeedVR2, for example. The examples are a 2x upscale, but it can do more. The main reason for this is that a 4x upscale takes over 10 minutes for 1792x1392 px images (the resolution I got from Flux2Klein text-to-image) on 3090, and I don't want to wait a full day. https://github.com/Gavr728/ComfyUI_KleinTiledUpscaler submitted by /u/8RETRO8 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkg4r9/ltx_23_ltx_director_testing/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tkmj0q/flux2klein_tile_upscaler_node_basically_usdu_with/"
       }
     ],
     "usableFor": [
@@ -428,51 +541,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_6c49a0c80a293e91",
+    "sourceId": "src_reddit-comfyui_799c9d40fa9acf14",
     "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkajke/microsoft_lens_seems_to_be_back/",
-    "title": "Microsoft Lens seems to be back.",
-    "publishedAt": "2026-05-22T06:26:13.000Z",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tkjotw/google_omni_video_edit_comfyui_workflow_its/",
+    "title": "Google omni video edit comfyui workflow it's literally Nano banana for video",
+    "publishedAt": "2026-05-22T13:54:00.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "submitted by /u/PM_ME_YOUR_ROSY_LIPS [link] [comments]"
+      "Google Omni is amazing at editing videos.",
+      "It's literally Nano banana moment for video Sharing workflow here :- https://github.com/Anil-matcha/gemini-omni-comfyui/blob/master/workflows/GeminiOmni\\_VideoEdit\\_Example.json submitted by /u/Individual_Hand213 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/PM_ME_YOUR_ROSY_LIPS [link] [comments]",
+        "text": "Google Omni is amazing at editing videos. It's literally Nano banana moment for video Sharing workflow here :- https://github.com/Anil-matcha/gemini-omni-comfyui/blob/master/workflows/GeminiOmni\\_VideoEdit\\_Example.json submitted by /u/Individual_Hand213 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkajke/microsoft_lens_seems_to_be_back/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_deddb07af51cca42",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkepzb/i_built_a_free_demo_for_pixal3d_tencent_new/",
-    "title": "I built a free demo for Pixal3D (Tencent new image-to-3D model)",
-    "publishedAt": "2026-05-22T10:16:42.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "try it here: https://huggingface.co/spaces/victor/pixal3d-studio submitted by /u/paf1138 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "try it here: https://huggingface.co/spaces/victor/pixal3d-studio submitted by /u/paf1138 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkepzb/i_built_a_free_demo_for_pixal3d_tencent_new/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tkjotw/google_omni_video_edit_comfyui_workflow_its/"
       }
     ],
     "usableFor": [
@@ -540,100 +627,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_a9578863d68eb3c6",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tk0h1g/google_omni_vs_ltx_23_rtx_4060ti_local/",
-    "title": "google omni vs LTX 2.3 (rtx 4060ti local)",
-    "publishedAt": "2026-05-21T22:43:22.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Used Galaxy Ace LoRa on the LTX 2.3 version.",
-      "Euler Ancestral, No distilled LoRa, time to generate 250 seconds.",
-      "\"1280p\" but its the all in one workflow so i think it does some things to resolution for optimization.",
-      "I will test some other options and LoRas to see if i can make this even better, text encoder is an genna 3 12b it abliterated."
-    ],
-    "claims": [
-      {
-        "text": "Used Galaxy Ace LoRa on the LTX 2.3 version. Euler Ancestral, No distilled LoRa, time to generate 250 seconds. \"1280p\" but its the all in one workflow so i think it does some things to resolution for optimization. I will test some other options and LoRas to see if i can make this even better, text encoder is an genna 3 12b it abliterated. prompt for both omni and ltx 2.3: \"Extreme violence of motion. High-frequency camera shake and violent turbulence. The camera is hard-locked to the mech's chassis, maintaining the exact same front-left three-quarter posture and distance throughout. The mech remains perfectly rigid in frame while the city and clouds blur past at Mach speeds with intense parallax. Violent blue plasma bursts from boosters, wings vibrating aggressively. Natural wind roar, thunderous jet roar, metallic groaning. Gritty 1990s sci-fi film aesthetic, heavy motion blur, film grain\" Honestly I'm very happy with LTX 2.3, it is amazing, excited for what comes next, i really enjoy creating action/sci fi stuff with LTX 2.3 submitted by /u/Sea_Connection_3265 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tk0h1g/google_omni_vs_ltx_23_rtx_4060ti_local/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_688f9ee8b405b1d0",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tkh0gr/character_consistency_lora_training_and_testing/",
-    "title": "Character Consistency | Lora Training and testing | Flux",
-    "publishedAt": "2026-05-22T12:06:19.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Okay just to keep it short, this is how i trained a lora in Comfyui local for my first character, and results were amazing and of course needs further tuning I am new to Comfyui world, so excuse my non technical language but thought to share this to help anyone else here as an open source community Disclaimer all workflows are not mine (maybe i tuned or customized some) i don't claim ownership of any of the workflows here So, First step - Main Character Image use any Text 2 Image workflow to generate one single portrait of you lovely character , nothing much to add here, just the basic workflows or any , just get something you like Second Step - Data Set generation Use this workflow KLEIN DATASET GENERATOR - ICEKIUB Vid version.json Dataset Generation workflow to generate i would recommend something up to 100 different images of your character, different poses, different clothes , different camera angle after generations, it is critical to carefully check the output images, and delete any blurry / ugly / low details ones in my case i filtered the 100 and got 62 images ( my mistake was that i didn't generate enough side and back views of the character so am not getting good results with back and side image generation.",
-      "Third Step - Training the lora i followed this tutorial exactly as it is How To Train A lora Youtube Video it is very simple two steps first one is generating captions for the images (very critical) using this workflow here Generating Image Captions - workflow second one is to locally train you lora using this workflow Lora Training Workflow Will try to share some examples for my character as well It took me almost 40 minutes for training , i was really shocked with this times (very fast) not as i expected , i am using RTX5090 Testing the lora test 2 https://preview.redd.it/8w6xiqyzio2h1.png?width=720&format=png&auto=webp&s=f8481f6abc1035c185525052b2caa846a1b1d43e https://preview.redd.it/zlqqg551jo2h1.png?width=720&format=png&auto=webp&s=e6a0014e7d851da21f4106da6eac4bc0a686905d submitted by /u/LeebLaab [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "Okay just to keep it short, this is how i trained a lora in Comfyui local for my first character, and results were amazing and of course needs further tuning I am new to Comfyui world, so excuse my non technical language but thought to share this to help anyone else here as an open source community Disclaimer all workflows are not mine (maybe i tuned or customized some) i don't claim ownership of any of the workflows here So, First step - Main Character Image use any Text 2 Image workflow to generate one single portrait of you lovely character , nothing much to add here, just the basic workflows or any , just get something you like Second Step - Data Set generation Use this workflow KLEIN DATASET GENERATOR - ICEKIUB Vid version.json Dataset Generation workflow to generate i would recommend something up to 100 different images of your character, different poses, different clothes , different camera angle after generations, it is critical to carefully check the output images, and delete any blurry / ugly / low details ones in my case i filtered the 100 and got 62 images ( my mistake was that i didn't generate enough side and back views of the character so am not getting good results with back and side image generation. Third Step - Training the lora i followed this tutorial exactly as it is How To Train A lora Youtube Video it is very simple two steps first one is generating captions for the images (very critical) using this workflow here Generating Image Captions - workflow second one is to locally train you lora using this workflow Lora Training Workflow Will try to share some examples for my character as well It took me almost 40 minutes for training , i was really shocked with this times (very fast) not as i expected , i am using RTX5090 Testing the lora test 2 https://preview.redd.it/8w6xiqyzio2h1.png?width=720&format=png&auto=webp&s=f8481f6abc1035c185525052b2caa846a1b1d43e https://preview.redd.it/zlqqg551jo2h1.png?width=720&format=png&auto=webp&s=e6a0014e7d851da21f4106da6eac4bc0a686905d submitted by /u/LeebLaab [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tkh0gr/character_consistency_lora_training_and_testing/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_3023f09b1ddfdeed",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/",
-    "title": "This program needs its own police force.",
-    "publishedAt": "2026-05-21T18:21:40.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "I've never dealt with a piece of software with a plugin architecture that allowed random third party developers from all skill levels to cause so much wreckage and ruin to the program itself or to all the happily coexisting packages.",
-      "I must have put three different things on there last night to try to get various LTX workflows running, all of which required a slew of custom nodes and tens of gigs of models, then ultimately either didn't work, had some deadend unsupported final node that refused to install, or that weren't worth keeping after I saw them run.",
-      "They changed base component versions in the venv, and several of them weren't even available in the half-functioning manager I seem to have, so I had to find them, then clone them into the node folder, then let them go out and wreak havoc installing and changing things on first launch knowing that Comfy is barely even aware of what they did and won't undo it for me.",
-      "How do you more experienced guys deal with this stuff?"
-    ],
-    "claims": [
-      {
-        "text": "I've never dealt with a piece of software with a plugin architecture that allowed random third party developers from all skill levels to cause so much wreckage and ruin to the program itself or to all the happily coexisting packages. I must have put three different things on there last night to try to get various LTX workflows running, all of which required a slew of custom nodes and tens of gigs of models, then ultimately either didn't work, had some deadend unsupported final node that refused to install, or that weren't worth keeping after I saw them run. They changed base component versions in the venv, and several of them weren't even available in the half-functioning manager I seem to have, so I had to find them, then clone them into the node folder, then let them go out and wreak havoc installing and changing things on first launch knowing that Comfy is barely even aware of what they did and won't undo it for me. How do you more experienced guys deal with this stuff? Are you supposed to copy a backup of the massive Comfy folder every time you try out a workflow, or is there some sort of watchdog utility you can run to keep track of who changed what? I've started from scratch more times than I can count (which is a headache unto itself), but that's usually when it gets to the point where they cripple it completely rather than just clogging it up. If I knew more, I'd imagine I could swap in compatible replacement nodes from the thousand-strong library of ones that are already on there, but if I knew enough to do that, I'd probably be building much simpler workflows from scratch that didn't have blocks that scroll across three screens. Sorry for all the gripes and I do appreciate the software. I also realize that the requirements and version matching comes with the territory on these Python/Gradio type apps, but with most of them I wasn't needing to deal with it that often. The third party nodes are a key component of this package and no two people seem to use the same ones. submitted by /u/TraditionalCity2444 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tjt784/this_program_needs_its_own_police_force/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_runway-research_4c72ae34dd32cd2b",
     "sourceType": "blog",
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-22T13:19:34.114Z",
+    "publishedAt": "2026-05-23T00:04:19.976Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -662,7 +661,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-22T13:19:34.399Z",
+    "publishedAt": "2026-05-23T00:04:20.439Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -691,7 +690,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-22T13:19:34.938Z",
+    "publishedAt": "2026-05-23T00:04:21.129Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -773,6 +772,60 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_reddit-aivideo_cd521cd497b65473",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tkuobv/chillzone/",
+    "title": "Chillzone",
+    "publishedAt": "2026-05-22T20:18:47.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/CzanCzanCzan [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/CzanCzanCzan [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tkuobv/chillzone/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aivideo_79543b3208ac0d08",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tkv2e5/spellcasting_fundamentals_magehold_scene/",
+    "title": "Spellcasting Fundamentals (Magehold scene)",
+    "publishedAt": "2026-05-22T20:33:01.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/MosskeepForest [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/MosskeepForest [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tkv2e5/spellcasting_fundamentals_magehold_scene/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aivideo_8eddadb87359e5ce",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
@@ -800,66 +853,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_c1cebfe7b473055b",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tjq72c/lingerie_photoshoot/",
-    "title": "Lingerie photoshoot",
-    "publishedAt": "2026-05-21T16:42:34.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/Turbulent-One-1557 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Turbulent-One-1557 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tjq72c/lingerie_photoshoot/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aivideo_d8fef4bac87d6c01",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tkf1j5/cletus_the_agi_robot/",
-    "title": "Cletus, the AGI Robot",
-    "publishedAt": "2026-05-22T10:32:43.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/Mother-Pear-2392 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Mother-Pear-2392 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tkf1j5/cletus_the_agi_robot/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_cursor-changelog_99cdbb7e2d70df11",
     "sourceType": "blog",
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-22T13:19:34.699Z",
+    "publishedAt": "2026-05-23T00:04:20.364Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -888,7 +887,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-22T13:19:34.222Z",
+    "publishedAt": "2026-05-23T00:04:19.878Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -912,12 +911,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-05-22_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-05-23_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-22T13:19:34.813Z",
+    "publishedAt": "2026-05-23T00:04:19.933Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -944,7 +943,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-22T13:19:34.885Z",
+    "publishedAt": "2026-05-23T00:04:20.404Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -973,7 +972,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-22T13:19:34.509Z",
+    "publishedAt": "2026-05-23T00:04:20.278Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1058,12 +1057,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_780e38c5d43bd232",
+    "sourceId": "src_reddit-midjourney_2a0b84c6afc0d09b",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tk6tuo/untitled_56/",
-    "title": "Untitled 56",
-    "publishedAt": "2026-05-22T03:21:10.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tko8r2/homes_weve_never_seen_before/",
+    "title": "Homes we've never seen before",
+    "publishedAt": "2026-05-22T16:35:16.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1075,7 +1074,7 @@
       {
         "text": "submitted by /u/12washingbeard [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tk6tuo/untitled_56/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tko8r2/homes_weve_never_seen_before/"
       }
     ],
     "usableFor": [
@@ -1085,24 +1084,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_1b8aeb4812f17110",
+    "sourceId": "src_reddit-midjourney_d9afe97f80bd1201",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tkgckp/the_good_old_2060s/",
-    "title": "The good old 2060s",
-    "publishedAt": "2026-05-22T11:36:26.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tkrni2/gypsys_tramps_thieves/",
+    "title": "Gypsys, Tramps & Thieves",
+    "publishedAt": "2026-05-22T18:32:17.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Dropdeadlegs84 [link] [comments]"
+      "Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Dropdeadlegs84 [link] [comments]",
+        "text": "Cher - Gypsys, Tramps & Thieves submitted by /u/Sapere_aude_69 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tkgckp/the_good_old_2060s/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tkrni2/gypsys_tramps_thieves/"
       }
     ],
     "usableFor": [
@@ -1112,24 +1111,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_7a2420202beea09d",
+    "sourceId": "src_reddit-midjourney_5d2f52c3384d9632",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tk4sui/paladin_pencil_sketch/",
-    "title": "Paladin Pencil Sketch",
-    "publishedAt": "2026-05-22T01:50:35.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tkmlgr/aquatic_avantgarde/",
+    "title": "Aquatic Avant-Garde",
+    "publishedAt": "2026-05-22T15:37:24.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/NaturalCrits [link] [comments]"
+      "submitted by /u/mitchellflautt [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/NaturalCrits [link] [comments]",
+        "text": "submitted by /u/mitchellflautt [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tk4sui/paladin_pencil_sketch/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tkmlgr/aquatic_avantgarde/"
       }
     ],
     "usableFor": [
@@ -1144,7 +1143,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-22T13:19:35.939Z",
+    "publishedAt": "2026-05-23T00:04:21.103Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1310,7 +1309,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-22T13:19:34.585Z",
+    "publishedAt": "2026-05-23T00:04:20.192Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1318,9 +1317,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 1 day ago • 12 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 7 days ago • 18 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 EMO: Pretraining mixture of experts for emergent modularity allenai • 14 days ago • 37 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 7 days ago • 11 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 19 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation drmapavone • Mar 16 • 29 QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices qvac • 15 days ago • 17 Introducing the agentic robotics appstore for 10,000 Reachy Minis clem • 16 days ago • 35 OlmoEarth v1.1: A more efficient family of Earth observation models 12 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 41 May 19, 2026 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation 18 May 18, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 30 May 18, 2026 The Open Agent Leaderboard 11 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 53 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 20 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 73 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 openai privacy-filter web-apps How to build scalable web apps with OpenAI's Privacy Filter 10 April 27, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 4 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 1 day ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 10 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 14 days ago • 37 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 19 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 163 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 1 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 13 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 41 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 30 May 18, 2026 The Open Agent Leaderboard 11 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 53 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 21 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 73 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 Previous 1 2 3 ...",
       "56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 1 day ago • 12 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 7 days ago • 18 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 EMO: Pretraining mixture of experts for emergent modularity allenai • 14 days ago • 37 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 153 Vividh-ASR: Diagnosing and Fixing Studio-Bias in Whisper for Indic Languages adalat-ai • 7 days ago • 11 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 19 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation drmapavone • Mar 16 • 29 QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices qvac • 15 days ago • 17 Introducing the agentic robotics appstore for 10,000 Reachy Minis clem • 16 days ago • 35 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs"
+      "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 4 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 1 day ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 10 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 14 days ago • 37 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 19 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 LLM Architectures Explained: What Powers Today’s Top Models PrunaAI • Mar 4 • 11 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 163 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs"
     ],
     "claims": [
       {
@@ -1334,6 +1333,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_db308cdbb5fbeceb",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+    "title": "The memory shortage is causing a repricing of consumer electronics",
+    "publishedAt": "2026-05-22T22:01:31.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "The memory shortage is causing a repricing of consumer electronics Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
+      "22nd May 2026 - Link Blog The memory shortage is causing a repricing of consumer electronics ( via ) David Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly more expensive over the next few years.",
+      "The short version is that memory manufacturers - of which there are just three remaining large companies - have a fixed capacity in terms of how many wafers they can process at any one time.",
+      "This fixed wafer capacity is then split between DDR - used in desktops and servers, LPDDR - used in mobile phones and low-energy devices, and HBM - used with GPUs."
+    ],
+    "claims": [
+      {
+        "text": "The memory shortage is causing a repricing of consumer electronics David Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly more expensive over the next few years. The short version is that memory manufacturers - of which there are just three remaining large companies - have a fixed capacity in terms of how many wafers they can process at any one time. This fixed wafer capacity is then split between DDR - used in desktops and servers, LPDDR - used in mobile phones and low-energy devices, and HBM - used with GPUs. Until recently, HBM got just 2% of that wafer allocation. The enormous growth in AI data centers has pushed that up to an expected 20% by the end of 2026, and \"a single gigabyte of HBM consumes more than three times the wafer capacity that a gigabyte of DDR or LPDDR does\". Memory companies have learned from the extinction of their rivals that you should always under-provision rather than over-provision your fabricator capacity. The profit margins and demand for HBM (high-bandwidth memory) will constrain the production of consumer-device RAM for several years. This is already being felt in the sub-$100 smartphone market, which is particularly important to markets like Africa and South Asia. (The original title of the piece was \"AI is killing the cheap smartphone\" but I'm using the Hacker News rephrased title, which I think does more justice to the content.) Via Hacker News Tags: memory , ai , ai-ethics",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_ddeaa077ca02cb60",
@@ -1456,42 +1485,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_1b4f3443da7e97f6",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-    "title": "datasette-agent 0.1a3",
-    "publishedAt": "2026-05-21T15:04:09.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: datasette-agent 0.1a3 Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
-      "21st May 2026 Release datasette-agent 0.1a3 &mdash; An LLM-powered agent for Datasette \"View SQL query\" buttons for both visible tables and collapsed SQL result tool calls.",
-      "Don't display empty reasoning chunks Improved handling of truncated responses - table still displays to the user even if the SQL results were truncated when showing the agent.",
-      "See Datasette Agent, an extensible AI assistant for Datasette ."
-    ],
-    "claims": [
-      {
-        "text": "Release: datasette-agent 0.1a3 \"View SQL query\" buttons for both visible tables and collapsed SQL result tool calls. Don't display empty reasoning chunks Improved handling of truncated responses - table still displays to the user even if the SQL results were truncated when showing the agent. See Datasette Agent, an extensible AI assistant for Datasette . Tags: datasette , datasette-agent",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-22T13:19:34.606Z",
+    "publishedAt": "2026-05-23T00:04:20.274Z",
     "categoryHints": [
       "ai-agentic"
     ],
