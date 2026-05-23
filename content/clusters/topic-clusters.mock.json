@@ -9,9 +9,9 @@
       "src_langchain-blog_40ded3f923e3291d",
       "src_luma-blog_c7449029956c34f9",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_reddit-comfyui_f5b8daffede5b243",
       "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_simonwillison-blog_ad17da1cd1df2e1d"
+      "src_simonwillison-blog_ad17da1cd1df2e1d",
+      "src_reddit-comfyui_f5b8daffede5b243"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
@@ -26,11 +26,10 @@
       "src_anthropic-research_15aa8285dd0354e9",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
       "src_simonwillison-blog_83680f69a2ed9c19",
-      "src_replit-blog_49899058ba32f8e5",
-      "src_reddit-comfyui_f0fcbff5cbf30b57"
+      "src_replit-blog_49899058ba32f8e5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -44,11 +43,27 @@
       "src_replicate-blog_572c1f4ac9c0ea5c",
       "src_reddit-stablediffusion_e99db46e2ce55fdc",
       "src_reddit-stablediffusion_0c3ca0ee4bfd804b",
-      "src_reddit-comfyui_f31c2ce7a94d610a",
-      "src_reddit-comfyui_973b4b6310780df2"
+      "src_reddit-comfyui_973b4b6310780df2",
+      "src_comfyui-blog_fa3eb47ac5fb52c8",
+      "src_reddit-comfyui_f31c2ce7a94d610a"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
+    "category": "ai-vibe-coding",
+    "topic": "An Update on Nodes 2.0 from Comfy Org",
+    "sourceIds": [
+      "src_reddit-comfyui_f0fcbff5cbf30b57",
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_286ad188500f2616",
+      "src_vercel-ai-blog_2026-05-23_fallback"
+    ],
+    "articleWorthinessScore": 0.9,
+    "reasonSelected": "Score 0.90 from 4 source item(s), 3 live crawl(s), strongest sources: r/comfyui, Cursor Changelog, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -59,80 +74,63 @@
     "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
       "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-comfyui_d7870b05e816f36c",
-      "src_reddit-aivideo_a7a9a72758720ba6"
+      "src_reddit-aivideo_a7a9a72758720ba6",
+      "src_reddit-aivideo_5a163fe980d106d8"
     ],
-    "articleWorthinessScore": 0.93,
-    "reasonSelected": "Score 0.93 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/comfyui.",
+    "articleWorthinessScore": 0.9,
+    "reasonSelected": "Score 0.90 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_comfyui-blog-robin-substack_2026-05-23",
+    "clusterId": "cluster_ai-image_2_charecter-in-anima-checkpoint-can-make-like-regional-prompter-wi_2026-05-23",
     "category": "ai-image",
-    "topic": "ComfyUI Blog | Robin | Substack",
+    "topic": "Charecter in Anima checkpoint can make like Regional Prompter without use any...",
     "sourceIds": [
-      "src_comfyui-blog_fa3eb47ac5fb52c8",
+      "src_reddit-stablediffusion_7c518ddc08328867",
       "src_reddit-stablediffusion_44256606e9d422c4",
-      "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-midjourney_91c5cf49176c170c",
+      "src_reddit-comfyui_47d55bf57a9532a1",
+      "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
       "src_reddit-stablediffusion_ad3915e293388838",
       "src_stability-ai-blog_2026-05-23_fallback"
     ],
-    "articleWorthinessScore": 0.88,
-    "reasonSelected": "Score 0.88 from 7 source item(s), 6 live crawl(s), strongest sources: ComfyUI Blog, r/StableDiffusion, r/midjourney.",
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 8 source item(s), 7 live crawl(s), strongest sources: r/StableDiffusion, r/midjourney, r/comfyui.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_help-me-choose-an-llm-provider-which-doesn-t-take-my-life-saving_2026-05-23",
+    "clusterId": "cluster_ai-agentic_2_datasette-agent-charts-0-1a2_2026-05-23",
     "category": "ai-agentic",
-    "topic": "Help me choose an LLM Provider which doesn't take my life savings",
+    "topic": "datasette-agent-charts 0.1a2",
     "sourceIds": [
+      "src_simonwillison-blog_6b472c6187e9e7bb",
       "src_reddit-aiagents_adda9b02662a81e3",
       "src_reddit-aiagents_351010d15e8b88df",
-      "src_reddit-aiagents_286ad188500f2616",
-      "src_simonwillison-blog_6b472c6187e9e7bb",
       "src_reddit-aiagents_c7605a4726e06ec4",
       "src_reddit-aiagents_a8d909420e99b084",
       "src_openai-blog_2026-05-23_fallback",
       "src_mcp-blog_2026-05-23_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, Simon Willison's Weblog, OpenAI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-23",
-    "category": "ai-vibe-coding",
-    "topic": "What's New in Cursor — Latest Updates & Release Notes",
-    "sourceIds": [
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-stablediffusion_7c518ddc08328867",
-      "src_reddit-mediasynthesis_98111c99496f6ea1",
-      "src_reddit-mediasynthesis_334324f1d5231047",
-      "src_vercel-ai-blog_2026-05-23_fallback"
-    ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 5 source item(s), 4 live crawl(s), strongest sources: Cursor Changelog, r/StableDiffusion, r/MediaSynthesis.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-video_2_featured-titles-latest-releases_2026-05-23",
-    "category": "ai-video",
-    "topic": "Featured Titles + Latest Releases",
-    "sourceIds": [
-      "src_reddit-aivideo_5a163fe980d106d8",
-      "src_reddit-aivideo_059f33804c9312f6",
-      "src_reddit-aivideo_fae9b9dbc13299d2",
-      "src_reddit-aivideo_cd521cd497b65473"
-    ],
     "articleWorthinessScore": 0.79,
-    "reasonSelected": "Score 0.79 from 4 source item(s), 4 live crawl(s), strongest sources: r/aivideo.",
+    "reasonSelected": "Score 0.79 from 7 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_2_i-refuse-to-believe-we-ve-already-reached-this-point_2026-05-23",
+    "category": "ai-video",
+    "topic": "I refuse to believe we've already reached this point",
+    "sourceIds": [
+      "src_reddit-aivideo_fae9b9dbc13299d2",
+      "src_reddit-aivideo_cd521cd497b65473",
+      "src_reddit-aivideo_059f33804c9312f6"
+    ],
+    "articleWorthinessScore": 0.69,
+    "reasonSelected": "Score 0.69 from 3 source item(s), 3 live crawl(s), strongest sources: r/aivideo.",
+    "confidence": "medium",
     "selectedForGeneration": true
   },
   {
@@ -141,34 +139,35 @@
     "topic": "Land of War #135",
     "sourceIds": [
       "src_reddit-midjourney_1ddaba474de07cbd",
-      "src_reddit-midjourney_2a0b84c6afc0d09b"
+      "src_reddit-midjourney_81fa8f5da7678db0"
     ],
-    "articleWorthinessScore": 0.62,
-    "reasonSelected": "Score 0.62 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
+    "articleWorthinessScore": 0.61,
+    "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_cinnabar-regolith_2026-05-23",
-    "category": "prompt-image",
-    "topic": "Cinnabar Regolith",
+    "clusterId": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-05-23",
+    "category": "prompt-video",
+    "topic": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...",
     "sourceIds": [
-      "src_reddit-midjourney_81fa8f5da7678db0"
+      "src_reddit-mediasynthesis_98111c99496f6ea1",
+      "src_reddit-mediasynthesis_196d9065129257ad"
+    ],
+    "articleWorthinessScore": 0.55,
+    "reasonSelected": "Score 0.55 from 2 source item(s), 2 live crawl(s), strongest sources: r/MediaSynthesis.",
+    "confidence": "medium",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_prompt-image_2_homes-we-ve-never-seen-before_2026-05-23",
+    "category": "prompt-image",
+    "topic": "Homes we've never seen before",
+    "sourceIds": [
+      "src_reddit-midjourney_2a0b84c6afc0d09b"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
-    "confidence": "medium",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
-    "category": "prompt-video",
-    "topic": "AI won the 2025 Commonwealth Short Story Prize competition",
-    "sourceIds": [
-      "src_reddit-mediasynthesis_196d9065129257ad"
-    ],
-    "articleWorthinessScore": 0.5,
-    "reasonSelected": "Score 0.50 from 1 source item(s), 1 live crawl(s), strongest sources: r/MediaSynthesis.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
@@ -177,11 +176,12 @@
     "category": "prompt-video",
     "topic": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
     "sourceIds": [
-      "src_reddit-mediasynthesis_8dc8d246a27d02f6"
+      "src_reddit-mediasynthesis_8dc8d246a27d02f6",
+      "src_reddit-mediasynthesis_334324f1d5231047"
     ],
-    "articleWorthinessScore": 0.42,
-    "reasonSelected": "Score 0.42 from 1 source item(s), 1 live crawl(s), strongest sources: r/MediaSynthesis.",
-    "confidence": "low",
+    "articleWorthinessScore": 0.46,
+    "reasonSelected": "Score 0.46 from 2 source item(s), 2 live crawl(s), strongest sources: r/MediaSynthesis.",
+    "confidence": "medium",
     "selectedForGeneration": true
   }
 ]
