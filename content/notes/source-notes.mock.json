@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-23T09:04:50.235Z",
+    "publishedAt": "2026-05-23T10:08:23.238Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-23T09:04:53.066Z",
+    "publishedAt": "2026-05-23T10:08:22.505Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-23T09:04:49.095Z",
+    "publishedAt": "2026-05-23T10:08:22.118Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-23T09:04:49.470Z",
+    "publishedAt": "2026-05-23T10:08:22.634Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -200,26 +200,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_845aa6508d745e7a",
+    "sourceId": "src_reddit-aiagents_adda9b02662a81e3",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tl88hv/imo_aiwritten_slop/",
-    "title": "IMO AI-written != Slop",
-    "publishedAt": "2026-05-23T06:13:22.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tl6re3/help_me_choose_an_llm_provider_which_doesnt_take/",
+    "title": "Help me choose an LLM Provider which doesn't take my life savings",
+    "publishedAt": "2026-05-23T04:57:16.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Post: Few days ago I read about a fanny experiment.",
-      "The artist SHL0MS posted an actual Monet painting on X and labeled it \"AI-generated in the style of Monet\".",
-      "Replies filled up instantly with confident critique - brushwork off, weird coherence, \"obvious AI tells\" - from people who didn't recognize one of the most reproduced painters in history.",
-      "The few who pointed out it's a real Monet got buried."
+      "Post: Hi everyone 👋 I’m trying to choose an LLM provider for my personal projects and side experiments, but I also don’t want my API bill to quietly consume my entire salary 😅 My primary use cases are: * Coding assistance * Agentic workflows * Browser automation / browser agents * Multi-step reasoning tasks * Tool calling and structured outputs Right now, I’m leaning toward MiniMax M2.7 because it seems to offer a pretty strong balance between capability and cost.",
+      "Top comments:\nOpenRouter is probably your best bet honestly.",
+      "You can test multiple models, compare costs, and route different tasks to cheaper or faster models instead of burning money on one premium API.",
+      "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki) *I am a bot, and this action was performed automatically."
     ],
     "claims": [
       {
-        "text": "Few days ago I read about a fanny experiment. The artist SHL0MS posted an actual Monet painting on X and labeled it \"AI-generated in the style of Monet\". Replies filled up instantly with confident critique - brushwork off, weird coherence, \"obvious AI tells\" - from people who didn't recognize one of the most reproduced painters in history. The few who pointed out it's a real Monet got buried. Same dynamic in reverse hit r/Art a while back: illustrator Ben Moran got banned for a 100-hour hand-painted book cover because a mod insisted it \"looked AI\". Portfolio as proof, \"I don't believe you\", muted. The label drives the verdict, then people reverse-engineer the craft vocabulary to justify it. Source anxiety wearing the costume of aesthetic judgment, basically. So what does \"slop\" actually mean then? For me it's not \"AI was involved\". Slop is generated stuff with no story behind it - you tell the model \"write engaging reddit post that promotes X\" and it spits out exactly that, no vision, no mess, no point of view. But if I have a real story, real numbers, a real opinion, and I run it through AI because my english is rough - is that slop too? I think the honest filter is not detection. It's whether there's a human underneath the polish. What's your opinion about this? Would you prefer to read a poorly formed thoughts but purely written by human, or a AI-polished version of whatever? submitted by /u/solubrious1 [link] [comments]",
+        "text": "Hi everyone 👋 I’m trying to choose an LLM provider for my personal projects and side experiments, but I also don’t want my API bill to quietly consume my entire salary 😅 My primary use cases are: Coding assistance Agentic workflows Browser automation / browser agents Multi-step reasoning tasks Tool calling and structured outputs Right now, I’m leaning toward MiniMax M2.7 because it seems to offer a pretty strong balance between capability and cost. submitted by /u/lelouch221 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tl88hv/imo_aiwritten_slop/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tl6re3/help_me_choose_an_llm_provider_which_doesnt_take/"
       }
     ],
     "usableFor": [
@@ -263,7 +263,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-23T09:04:49.692Z",
+    "publishedAt": "2026-05-23T10:08:22.799Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -289,7 +289,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-23T09:04:50.450Z",
+    "publishedAt": "2026-05-23T10:08:23.520Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -318,7 +318,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-23T09:04:50.686Z",
+    "publishedAt": "2026-05-23T10:08:23.692Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,6 +340,36 @@
     "usableFor": [
       "article",
       "trend"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_e99db46e2ce55fdc",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/",
+    "title": "I made an Anima AI Character &amp; Artist search engine with 49,000 sample images",
+    "publishedAt": "2026-05-23T09:13:55.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Post: As I've started fiddling around with the new Anima Base model quite a bit and finding a lot of characters just work out-of-the-box, I wanted to see just what was the breadth of character knowledge and make a tool at the same time to easily find characters not just by name, but also by other common characteristics.",
+      "This started me on this project to build a large dataset of samples for both characters & artist tags You can visit the site here which I just published today: [https://animadex.net/](https://animadex.net/) At the moment I have the following features: * Search characters by copyright (series, game, anime etc), other common attributes such as hair length, eye color, gender with filter list * Search bar at the top for searching by any tag ie \"genshin impact, blue hair\" * View LoRAs available for a particular character from CivitAI * Search by copyright so you can see a list of all the franchises with characters grouped together * Search artists by artist name, score (machine image-classification rated atm), and some classifications that I will be building up slowly * Random search shuffle for fun, A-Z and sort by post count highest to low (high means more chance of the subject being learnt well in the model with decent exposure).",
+      "* Copy trigger, or trigger + common tags (I am cleansing some of these tags manually at the moment so some may be questionable until I get through them all).",
+      "* Link to view these tags in Danbooru so you can do a quick check if the prompt is in fact accurate to the character design I ran an RTX Pro 6000 for about 24 hours to generate 49,000 samples."
+    ],
+    "claims": [
+      {
+        "text": "As I've started fiddling around with the new Anima Base model quite a bit and finding a lot of characters just work out-of-the-box, I wanted to see just what was the breadth of character knowledge and make a tool at the same time to easily find characters not just by name, but also by other common characteristics. This started me on this project to build a large dataset of samples for both characters & artist tags You can visit the site here which I just published today: https://animadex.net/ At the moment I have the following features: Search characters by copyright (series, game, anime etc), other common attributes such as hair length, eye color, gender with filter list Search bar at the top for searching by any tag ie \"genshin impact, blue hair\" View LoRAs available for a particular character from CivitAI Search by copyright so you can see a list of all the franchises with characters grouped together Search artists by artist name, score (machine image-classification rated atm), and some classifications that I will be building up slowly Random search shuffle for fun, A-Z and sort by post count highest to low (high means more chance of the subject being learnt well in the model with decent exposure). Copy trigger, or trigger + common tags (I am cleansing some of these tags manually at the moment so some may be questionable until I get through them all). Link to view these tags in Danbooru so you can do a quick check if the prompt is in fact accurate to the character design I ran an RTX Pro 6000 for about 24 hours to generate 49,000 samples. I got about 15,000 artist-tag images generated, but for characters I was not expecting that characters were very coherent after so many samples going in descending order of post count on Danbooru for those characters (easy naive way to predict most known concepts here), so I ended up with 34,000 of them and I could have kept going but pulled the plug for cost at the moment. I generated each of these with \"official artwork\" tag to try and steer it towards the official style so you can tell if it knows just not basic characteristics but the style as well. Not 100% of the time it happens on one-shot gen so dont take it as gospel. Right now it's knowledge goes up to Dec 2024 but I am working on collating data for up to Oct 2025 which is knowledge cut-off date for Anima and will update the character and artists accordingly with those new ones. I'm not proud of the code quality with duplicated code folders because I shifted framework to Python Workers last minute but it's working smoothly and some temp sql and csv files littered in there. Once I clean it up I'll get the public GitHub repo going. Just want to add, there is no ads or paywall/premium content gates on this site. I'll be monitoring usage and project costs and throttle as needed as it is a hobby project with a bit of pocket money each month towards it. This is my first time setting up a website like this so please bare with me if there are any hiccups or issues, there is a contact form at the bottom you can use if there are any problems or reach out to me. submitted by /u/MistySoul [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
     ],
     "copyrightRisk": "medium"
   },
@@ -404,36 +434,6 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_0c3ca0ee4bfd804b",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/",
-    "title": "Shoutout to Nineth - 1.0 for Klux.2 Klein by Mandrew0987. Been really enjoying this Lora and it seems like barely anyone knows about it.",
-    "publishedAt": "2026-05-23T00:18:35.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Been really enjoying [Nineth - v1.0](https://civitai.com/models/2427415/nineth) recently.",
-      "The first image is 23 mask layers and 23 inpainted layers; base prompt for the images are in order below.",
-      "Landscape of a dark shadowed valley, long dry wheat grass across rolling plains.",
-      "In the far distance on the left is two riflemen hiding in the grass."
-    ],
-    "claims": [
-      {
-        "text": "Minor spelling mistake, 😭. Been really enjoying Nineth - v1.0 recently. The first image is 23 mask layers and 23 inpainted layers; base prompt for the images are in order below. Inpainting prompts are not included. nineth style. Landscape of a dark shadowed valley, long dry wheat grass across rolling plains. In the far distance on the left is two riflemen hiding in the grass. They are looking at a very fast moving blurred odd looking 8 arm giant metallic walker combine harvester that is mid motion action shot A empty rocky wasteland landscape oil painting of a shadowed landscape. A distant impossibly tall infinite stone tower. A empty rocky wasteland landscape oil painting of a shadowed valley with a flat grey sand expanse. An enormous wall expands across the scene. There are observation windows. And a window on the far left is showing an empty dark office through a shattered glass window, filled dust and a cob web, and shadowed. On the far right is a huge entrance security door at the end of a dirt road. Two yellow jumpsuit technicians with black body armor, are walking cautiously facing away. Both armed with a military rifle, slightly aiming it. A empty rocky wasteland landscape oil painting of a shadowed valley with a flat grey sand expanse. An enormous wall expands across the scene on the right. There are observation windows. Dark and shadowed. At the base is a line of tented eastern shops with bright flags streaming in the breeze. There are small people looking over the shops. Link to original pictures. submitted by /u/Unit2209 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_reddit-stablediffusion_ad3915e293388838",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
@@ -464,25 +464,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_e88ec17f93743154",
+    "sourceId": "src_reddit-stablediffusion_0c3ca0ee4bfd804b",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/",
-    "title": "Tencent released Z-Image 6B with pixel space gen. No VAE &amp; 1k Resolution.",
-    "publishedAt": "2026-05-22T13:16:22.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/",
+    "title": "Shoutout to Nineth - 1.0 for Klux.2 Klein by Mandrew0987. Been really enjoying this Lora and it seems like barely anyone knows about it.",
+    "publishedAt": "2026-05-23T00:18:35.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Post: Link: https://nju-pcalab.github.io/projects/L2P/\n\nTop comments:\nHere is the model [https://huggingface.co/zhen-nan/L2P/tree/main](https://huggingface.co/zhen-nan/L2P/tree/main)\n\nEveryone going for No-VAE now huh\n\nIs it any good?",
-      "Summary: Link: https://nju-pcalab.github.io/projects/L2P/ submitted by /u/switch2stock [link] [comments]"
+      "Been really enjoying [Nineth - v1.0](https://civitai.com/models/2427415/nineth) recently.",
+      "The first image is 23 mask layers and 23 inpainted layers; base prompt for the images are in order below.",
+      "Landscape of a dark shadowed valley, long dry wheat grass across rolling plains.",
+      "In the far distance on the left is two riflemen hiding in the grass."
     ],
     "claims": [
       {
-        "text": "Link: https://nju-pcalab.github.io/projects/L2P/ submitted by /u/switch2stock [link] [comments]",
+        "text": "Minor spelling mistake, 😭. Been really enjoying Nineth - v1.0 recently. The first image is 23 mask layers and 23 inpainted layers; base prompt for the images are in order below. Inpainting prompts are not included. nineth style. Landscape of a dark shadowed valley, long dry wheat grass across rolling plains. In the far distance on the left is two riflemen hiding in the grass. They are looking at a very fast moving blurred odd looking 8 arm giant metallic walker combine harvester that is mid motion action shot A empty rocky wasteland landscape oil painting of a shadowed landscape. A distant impossibly tall infinite stone tower. A empty rocky wasteland landscape oil painting of a shadowed valley with a flat grey sand expanse. An enormous wall expands across the scene. There are observation windows. And a window on the far left is showing an empty dark office through a shattered glass window, filled dust and a cob web, and shadowed. On the far right is a huge entrance security door at the end of a dirt road. Two yellow jumpsuit technicians with black body armor, are walking cautiously facing away. Both armed with a military rifle, slightly aiming it. A empty rocky wasteland landscape oil painting of a shadowed valley with a flat grey sand expanse. An enormous wall expands across the scene on the right. There are observation windows. Dark and shadowed. At the base is a line of tented eastern shops with bright flags streaming in the breeze. There are small people looking over the shops. Link to original pictures. submitted by /u/Unit2209 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/"
       }
     ],
     "usableFor": [
@@ -582,35 +584,6 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-comfyui_d7870b05e816f36c",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tl7ix3/skip_first_and_last_frame_use_them_as_only_guide/",
-    "title": "skip first and last frame use them as only guide",
-    "publishedAt": "2026-05-23T05:35:48.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Post: is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx?",
-      "Summary: is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx?",
-      "submitted by /u/NefariousnessFun4043 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx? submitted by /u/NefariousnessFun4043 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tl7ix3/skip_first_and_last_frame_use_them_as_only_guide/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_reddit-comfyui_f5b8daffede5b243",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
@@ -641,12 +614,41 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-comfyui_d7870b05e816f36c",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tl7ix3/skip_first_and_last_frame_use_them_as_only_guide/",
+    "title": "skip first and last frame use them as only guide",
+    "publishedAt": "2026-05-23T05:35:48.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Post: is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx?",
+      "Summary: is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx?",
+      "submitted by /u/NefariousnessFun4043 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "is there any way to use the first frame and last frame as a guide to geenrate the video but to to use the exact frame in the final video in ltx? submitted by /u/NefariousnessFun4043 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tl7ix3/skip_first_and_last_frame_use_them_as_only_guide/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_runway-research_4c72ae34dd32cd2b",
     "sourceType": "blog",
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-23T09:04:49.241Z",
+    "publishedAt": "2026-05-23T10:08:22.321Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -675,12 +677,12 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-23T09:04:49.664Z",
+    "publishedAt": "2026-05-23T10:08:22.889Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "Pika blog Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+      "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
       "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
       "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.",
       "That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M."
@@ -704,7 +706,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-23T09:04:50.812Z",
+    "publishedAt": "2026-05-23T10:08:23.611Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -800,6 +802,7 @@
     "keyFacts": [
       "Top comments:\nI like messing around with retro camera styles - those are pretty impressive\n\nReally unbelievable.",
       "The amount of detail in that girl's room and the consistency of the background.",
+      "Krillin looks almost like my Filipino homeboy.",
       "Summary: submitted by /u/Old_Establishment287 [link] [comments]"
     ],
     "claims": [
@@ -879,7 +882,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-23T09:04:49.686Z",
+    "publishedAt": "2026-05-23T10:08:22.739Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -908,7 +911,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-23T09:04:49.447Z",
+    "publishedAt": "2026-05-23T10:08:22.538Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -937,7 +940,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-23T09:04:49.473Z",
+    "publishedAt": "2026-05-23T10:08:22.585Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -964,7 +967,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-23T09:04:50.399Z",
+    "publishedAt": "2026-05-23T10:08:23.810Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -993,7 +996,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-23T09:04:49.540Z",
+    "publishedAt": "2026-05-23T10:08:22.885Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1078,6 +1081,34 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_reddit-midjourney_1ddaba474de07cbd",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/",
+    "title": "Land of War #135",
+    "publishedAt": "2026-05-23T09:11:34.000Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "keyFacts": [
+      "Top comments:\nCrazy how direct the manga Berserk is reproduced (picture 11 is clearly the MC).",
+      "Summary: submitted by /u/Slave_Human [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/Slave_Human [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-midjourney_81fa8f5da7678db0",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
@@ -1116,8 +1147,8 @@
       "ai-image"
     ],
     "keyFacts": [
-      "Top comments:\nLove 1, 4, 7 & 9 but I like the whole series.",
-      "#2 gives Epstein vibes\n\nSummary: submitted by /u/12washingbeard [link] [comments]"
+      "Top comments:\n#2 gives Epstein vibes\n\nLove 1, 4, 7 & 9 but I like the whole series.",
+      "Summary: submitted by /u/12washingbeard [link] [comments]"
     ],
     "claims": [
       {
@@ -1133,39 +1164,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_a0b08f77302b39b4",
-    "sourceType": "reddit",
-    "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tl8qxm/mis_campos_el%C3%ADseosoc/",
-    "title": "Mis Campos Elíseos[OC]",
-    "publishedAt": "2026-05-23T06:40:47.000Z",
-    "categoryHints": [
-      "prompt-image",
-      "ai-image"
-    ],
-    "keyFacts": [
-      "Summary: submitted by /u/Gold-Lengthiness-760 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Gold-Lengthiness-760 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tl8qxm/mis_campos_el%C3%ADseosoc/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_kling-blog_93b43a5f7aed1c98",
     "sourceType": "blog",
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-23T09:04:50.493Z",
+    "publishedAt": "2026-05-23T10:08:22.895Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1259,10 +1263,10 @@
       "ai-video"
     ],
     "keyFacts": [
-      "Top comments:\nHow reliable is Pangram these days?",
-      "Also - I’d be curious to do RL finetuning of some recent strong open weight models to do detection evasion.",
       "Almost all of them had a couple of tells, or mostly \"purple\" prose which has beaten me into not reading all the text of each story, but despite that ignorance, I feel like they are pretty bad.",
-      "I certainly do not get the excitement or horror of people at AI winning these type of competitions\n\nhttps://en.wikipedia.org/wiki/Commonwealth_Short_Story_Prize\n\nSummary: submitted by /u/gwern [link] [comments]"
+      "I certainly do not get the excitement or horror of people at AI winning these type of competitions\n\nhttps://en.wikipedia.org/wiki/Commonwealth_Short_Story_Prize\n\nHow reliable is Pangram these days?",
+      "Also - I’d be curious to do RL finetuning of some recent strong open weight models to do detection evasion.",
+      "Summary: submitted by /u/gwern [link] [comments]"
     ],
     "claims": [
       {
@@ -1340,7 +1344,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-23T09:04:49.886Z",
+    "publishedAt": "2026-05-23T10:08:23.019Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1348,9 +1352,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 5 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 2 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 19 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 15 days ago • 38 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 20 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 3 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 1 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 14 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 41 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 30 May 18, 2026 The Open Agent Leaderboard 11 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 54 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 21 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 73 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 5 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 2 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 4 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 20 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 15 days ago • 38 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 20 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 3 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 1 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 14 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 41 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 30 May 18, 2026 The Open Agent Leaderboard 11 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 54 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 21 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 73 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 Previous 1 2 3 ...",
       "56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 5 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 2 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 3 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 19 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 15 days ago • 38 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 20 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs"
+      "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 5 days ago • 18 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 2 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 4 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 8 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • about 20 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 15 days ago • 38 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 20 days ago • 4 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs"
     ],
     "claims": [
       {
@@ -1521,7 +1525,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-23T09:04:49.672Z",
+    "publishedAt": "2026-05-23T10:08:22.736Z",
     "categoryHints": [
       "ai-agentic"
     ],

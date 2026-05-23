@@ -21,6 +21,7 @@ export type SourceItem = {
   crawlStatus?: "live" | "fallback";
   crawlError?: string;
   imageUrl?: string;
+  videoUrl?: string;
 };
 
 export type SourceNote = {

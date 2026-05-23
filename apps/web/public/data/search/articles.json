@@ -329,11 +329,11 @@
     "tags": [
       "AI-Hardware",
       "Memory-Shortage",
-      "HBM",
+      "Agentic-AI",
       "Consumer-Electronics",
-      "AI-Agents"
+      "Economic-Impact"
     ],
-    "publishedAt": "2026-05-23T09:05:20.485Z",
+    "publishedAt": "2026-05-23T10:09:10.322Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23"
   },
@@ -345,51 +345,15 @@
     "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "hardware",
       "semiconductors",
-      "ai-economics",
-      "digital-divide",
-      "memory-shortage"
+      "ai-hardware",
+      "supply-chain",
+      "consumer-electronics",
+      "HBM"
     ],
-    "publishedAt": "2026-05-23T09:06:00.115Z",
+    "publishedAt": "2026-05-23T10:09:37.455Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/AI_Agents, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "llm-research",
-      "creative-ai",
-      "software-engineering"
-    ],
-    "publishedAt": "2026-05-23T09:05:29.953Z",
-    "readingTime": 3,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, r/AI_Agents, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "software-development",
-      "anthropic",
-      "generative-ai"
-    ],
-    "publishedAt": "2026-05-23T09:06:20.904Z",
-    "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-23"
   },
   {
     "id": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-23_vi",
@@ -403,10 +367,10 @@
       "Runway-AI",
       "FLUX",
       "Midjourney-V8",
-      "World-Models",
-      "ComfyUI"
+      "ComfyUI",
+      "World-Models"
     ],
-    "publishedAt": "2026-05-23T09:05:20.991Z",
+    "publishedAt": "2026-05-23T10:08:50.856Z",
     "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-23"
   },
@@ -419,15 +383,50 @@
     "subtitle": "Signal synthesized from Stability AI Blog, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
       "AI Video",
-      "Runway AI",
+      "World Models",
       "FLUX",
       "ComfyUI",
-      "World Models",
-      "Generative AI"
+      "Midjourney V8"
     ],
-    "publishedAt": "2026-05-23T09:06:20.225Z",
+    "publishedAt": "2026-05-23T10:09:35.839Z",
     "readingTime": 3,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-23"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "anthropic",
+      "comfyui",
+      "software-development"
+    ],
+    "publishedAt": "2026-05-23T10:08:51.785Z",
+    "readingTime": 4,
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-23"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_research-anthropic_2026-05-23_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Research \\ Anthropic: creator and builder analysis",
+    "subtitle": "Signal synthesized from Anthropic Research, r/StableDiffusion, r/comfyui, Cursor Changelog, GitHub Copilot Blog, Vercel AI Blog, Replit Blog, r/MediaSynthesis, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "developer-experience",
+      "generative-ai",
+      "software-architecture"
+    ],
+    "publishedAt": "2026-05-23T10:09:36.035Z",
+    "readingTime": 4,
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-23"
   },
   {
     "id": "cluster_ai-video_kling-ai_2026-05-23_vi",
@@ -437,13 +436,13 @@
     "title": "Kling AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "Kling AI",
-      "AI Video",
-      "Native 4K",
-      "Generative AI",
-      "AI Production"
+      "KlingAI",
+      "Native4K",
+      "AIVideo",
+      "ContentCreation",
+      "AIProduction"
     ],
-    "publishedAt": "2026-05-23T09:05:41.251Z",
+    "publishedAt": "2026-05-23T10:09:13.591Z",
     "readingTime": 4,
     "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-23"
   },
@@ -456,50 +455,50 @@
     "subtitle": "Signal synthesized from r/comfyui, Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
       "Kling AI",
-      "AI Video",
       "Native 4K",
-      "AI Cinema",
-      "Generative AI"
+      "AI Video Production",
+      "Generative AI",
+      "Creative Economy"
     ],
-    "publishedAt": "2026-05-23T09:06:48.393Z",
+    "publishedAt": "2026-05-23T10:09:52.655Z",
     "readingTime": 3,
     "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-23"
   },
   {
-    "id": "cluster_prompt-image_homes-we-ve-never-seen-before_2026-05-23_vi",
+    "id": "cluster_prompt-image_land-of-war-135_2026-05-23_vi",
     "lang": "vi",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Homes we've never seen before: góc nhìn cho creator và builder",
+    "title": "Land of War #135: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI Architecture",
       "Midjourney",
-      "Surrealism",
-      "Concept Art",
-      "Generative AI"
+      "AI-Art",
+      "World-Building",
+      "Manga-Style",
+      "Visual-Storytelling"
     ],
-    "publishedAt": "2026-05-23T09:05:42.593Z",
+    "publishedAt": "2026-05-23T10:09:11.287Z",
     "readingTime": 4,
-    "url": "/vi/prompt-image/homes-we-ve-never-seen-before-goc-nhin-cho-creator-va-build-2026-05-23"
+    "url": "/vi/prompt-image/land-of-war-135-goc-nhin-cho-creator-va-builder-2026-05-23"
   },
   {
-    "id": "cluster_prompt-image_homes-we-ve-never-seen-before_2026-05-23_en",
+    "id": "cluster_prompt-image_land-of-war-135_2026-05-23_en",
     "lang": "en",
     "category": "prompt-image",
     "categoryLabel": "Prompt Image",
-    "title": "Homes we've never seen before: creator and builder analysis",
+    "title": "Land of War #135: creator and builder analysis",
     "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Architecture",
       "Midjourney",
-      "Speculative Design",
-      "Prompt Engineering",
-      "Digital Art"
+      "AI Art",
+      "Dark Fantasy",
+      "Concept Art",
+      "Visual Storytelling"
     ],
-    "publishedAt": "2026-05-23T09:06:56.903Z",
+    "publishedAt": "2026-05-23T10:10:06.123Z",
     "readingTime": 4,
-    "url": "/en/prompt-image/homes-we-ve-never-seen-before-creator-and-builder-analysis-2026-05-23"
+    "url": "/en/prompt-image/land-of-war-135-creator-and-builder-analysis-2026-05-23"
   },
   {
     "id": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_vi",
@@ -510,12 +509,12 @@
     "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "Generative AI",
-      "AI Literature",
-      "Commonwealth Prize",
-      "Creative Writing",
-      "AI Detection"
+      "AI Writing",
+      "Digital Art",
+      "LLM Fine-tuning",
+      "Creative Industry"
     ],
-    "publishedAt": "2026-05-23T09:06:24.778Z",
+    "publishedAt": "2026-05-23T10:09:38.545Z",
     "readingTime": 4,
     "url": "/vi/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23"
   },
@@ -528,12 +527,12 @@
     "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
       "Generative AI",
-      "Literary Theory",
-      "LLM Detection",
-      "Creative Writing",
-      "AI Ethics"
+      "AI Detection",
+      "Digital Literature",
+      "LLM Fine-tuning",
+      "Creative Arts"
     ],
-    "publishedAt": "2026-05-23T09:07:47.097Z",
+    "publishedAt": "2026-05-23T10:10:07.837Z",
     "readingTime": 4,
     "url": "/en/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23"
   }

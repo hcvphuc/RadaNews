@@ -177,6 +177,7 @@ export type SourceItem = {
   author?: string;
   score?: number;
   imageUrl?: string;
+  videoUrl?: string;
 };
 
 export type SourceNote = {

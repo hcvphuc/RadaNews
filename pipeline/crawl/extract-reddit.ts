@@ -26,6 +26,10 @@ type RedditPostData = {
     reddit_video?: { fallback_url: string };
     oembed?: { thumbnail_url: string };
   };
+  secure_media?: {
+    reddit_video?: { fallback_url: string };
+    oembed?: { thumbnail_url: string };
+  };
 };
 
 type RedditCommentData = {
@@ -52,8 +56,9 @@ export async function extractRedditPost(item: SourceItem): Promise<SourceItem> {
       ? stripHtml(postData.selftext).slice(0, 4000)
       : "";
 
-    // Extract image URL
+    // Extract verified media from Reddit JSON.
     const imageUrl = extractRedditImage(postData);
+    const videoUrl = extractRedditVideo(postData);
 
     // Get top comments
     let topComments = "";
@@ -80,6 +85,7 @@ export async function extractRedditPost(item: SourceItem): Promise<SourceItem> {
       extractedText: extractedText || item.rawSummary,
       author: postData.author || item.author,
       imageUrl: imageUrl || item.imageUrl,
+      videoUrl: videoUrl || item.videoUrl,
       score: item.score ?? clampRedditScore(postData.score, postData.num_comments)
     };
   } catch {
@@ -106,6 +112,12 @@ function extractRedditImage(data: RedditPostData): string | undefined {
     return data.thumbnail;
   }
   return undefined;
+}
+
+function extractRedditVideo(data: RedditPostData): string | undefined {
+  const fallback = data.secure_media?.reddit_video?.fallback_url || data.media?.reddit_video?.fallback_url;
+  if (!fallback) return undefined;
+  return fallback.replace(/&amp;/g, "&");
 }
 
 function enrichFromRss(item: SourceItem): SourceItem {

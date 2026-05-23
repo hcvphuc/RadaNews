@@ -62,6 +62,8 @@ interface Source {
   publishedAt?: string;
 }
 
+type SourceMedia = MediaBlock & { sourceId: string };
+
 interface Article {
   id: string;
   slug: string;
@@ -160,6 +162,90 @@ function parseSections(bodyMd: string): ArticleSection[] {
   return sections;
 }
 
+function sourceMediaFromItem(item: SourceItem): SourceMedia[] {
+  const media: SourceMedia[] = [];
+  const videoUrl = (item as SourceItem & { videoUrl?: string }).videoUrl;
+  if (videoUrl) {
+    media.push({
+      sourceId: item.id,
+      type: "video",
+      src: videoUrl.replace(/&amp;/g, "&"),
+      alt: item.title,
+      caption: `${item.title} — ${item.sourceName}`,
+      credit: item.sourceName,
+      sourceUrl: item.sourceUrl,
+    });
+  }
+  if (item.imageUrl) {
+    media.push({
+      sourceId: item.id,
+      type: "image",
+      src: item.imageUrl.replace(/&amp;/g, "&"),
+      alt: item.title,
+      caption: `${item.title} — ${item.sourceName}`,
+      credit: item.sourceName,
+      sourceUrl: item.sourceUrl,
+    });
+  }
+  return media;
+}
+
+function injectVerifiedSourceMedia(
+  sections: ArticleSection[],
+  sourceIds: string[] | undefined,
+  mediaBySource: Map<string, SourceMedia[]>,
+  heroMedia: MediaBlock | undefined,
+  category: string,
+): ArticleSection[] {
+  if (!sections.length || !sourceIds?.length) return sections;
+
+  const heroSrc = heroMedia?.src?.replace(/&amp;/g, "&");
+  const pool = sourceIds.flatMap((sid) => mediaBySource.get(sid) || []);
+  const seen = new Set<string>();
+  const unique = pool.filter((m) => {
+    if (!m.src || seen.has(m.src)) return false;
+    seen.add(m.src);
+    return true;
+  });
+
+  unique.sort((a, b) => {
+    const aVideo = a.type === "video" ? 1 : 0;
+    const bVideo = b.type === "video" ? 1 : 0;
+    if ((category === "ai-video" || category === "prompt-video") && aVideo !== bVideo) return bVideo - aVideo;
+    if (a.src === heroSrc) return 1;
+    if (b.src === heroSrc) return -1;
+    return 0;
+  });
+
+  const selected: SourceMedia[] = unique.slice(0, 2);
+  if (selected.length === 0 && heroMedia?.src) {
+    selected.push({ ...heroMedia, sourceId: sourceIds[0], caption: heroMedia.caption || heroMedia.alt });
+  }
+  if (selected.length === 0) return sections;
+
+  const cloned: ArticleSection[] = JSON.parse(JSON.stringify(sections));
+  let mediaIndex = 0;
+  for (const section of cloned) {
+    if (mediaIndex >= selected.length) break;
+    if (section.blocks.some((block) => block.type === "media" && block.src)) continue;
+    const paragraphIndex = section.blocks.findIndex((block) => block.type === "paragraph");
+    const insertAfter = paragraphIndex >= 0 ? paragraphIndex : 0;
+    const media = selected[mediaIndex++];
+    section.blocks.splice(insertAfter + 1, 0, {
+      type: "media",
+      mediaType: media.type === "video" || media.type === "embed" ? "video" : "image",
+      src: media.src,
+      alt: media.alt,
+      caption: media.caption,
+      credit: media.credit,
+      sourceUrl: media.sourceUrl,
+      placement: "after-paragraph",
+    });
+  }
+
+  return cloned;
+}
+
 async function main() {
   const draftsPath = resolve(root, "content/exports/generation-drafts.mock.json");
   const notesPath = resolve(root, "content/notes/source-notes.mock.json");
@@ -187,8 +273,11 @@ async function main() {
   } catch { /* best-effort */ }
 
   const imageUrlBySource = new Map<string, string>();
+  const mediaBySource = new Map<string, SourceMedia[]>();
   for (const item of sourceItems) {
     if (item.imageUrl && item.id) imageUrlBySource.set(item.id, item.imageUrl);
+    const media = sourceMediaFromItem(item);
+    if (item.id && media.length > 0) mediaBySource.set(item.id, media);
   }
 
   const sourceMetaById = new Map<string, { name: string; url: string }>();
@@ -264,6 +353,7 @@ async function main() {
       } else {
         sections = [{ id: "sec_main", heading: "Main Analysis", blocks: [] }];
       }
+      sections = injectVerifiedSourceMedia(sections, draft.sourceIds, mediaBySource, heroMedia, draft.category);
 
       // ── Insight Blocks ──
       let insightBlocks: InsightBlock[];
