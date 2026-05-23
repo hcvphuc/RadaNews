@@ -1,6 +1,6 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
+    "clusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
     "category": "ai-agentic",
     "topic": "The memory shortage is causing a repricing of consumer electronics",
     "sourceIds": [
@@ -11,23 +11,31 @@
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_reddit-comfyui_f5b8daffede5b243",
       "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_simonwillison-blog_ad17da1cd1df2e1d",
-      "src_reddit-aiagents_adda9b02662a81e3",
-      "src_reddit-aiagents_351010d15e8b88df",
-      "src_reddit-aiagents_286ad188500f2616",
-      "src_simonwillison-blog_6b472c6187e9e7bb",
-      "src_reddit-aiagents_c7605a4726e06ec4",
-      "src_reddit-aiagents_a8d909420e99b084",
-      "src_openai-blog_2026-05-23_fallback",
-      "src_mcp-blog_2026-05-23_fallback"
+      "src_simonwillison-blog_ad17da1cd1df2e1d"
     ],
-    "articleWorthinessScore": 0.99,
-    "reasonSelected": "Score 0.99 from 16 source item(s), 14 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
+    "articleWorthinessScore": 1,
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_ai-video-research-innovation-runway-ai_2026-05-23",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
+    "category": "ai-vibe-coding",
+    "topic": "Research \\ Anthropic",
+    "sourceIds": [
+      "src_anthropic-research_15aa8285dd0354e9",
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_simonwillison-blog_83680f69a2ed9c19",
+      "src_replit-blog_49899058ba32f8e5",
+      "src_reddit-comfyui_f0fcbff5cbf30b57"
+    ],
+    "articleWorthinessScore": 1,
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -37,7 +45,33 @@
       "src_reddit-stablediffusion_e99db46e2ce55fdc",
       "src_reddit-stablediffusion_0c3ca0ee4bfd804b",
       "src_reddit-comfyui_f31c2ce7a94d610a",
-      "src_reddit-comfyui_973b4b6310780df2",
+      "src_reddit-comfyui_973b4b6310780df2"
+    ],
+    "articleWorthinessScore": 1,
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
+    "category": "ai-video",
+    "topic": "Kling AI",
+    "sourceIds": [
+      "src_kling-blog_93b43a5f7aed1c98",
+      "src_pika-blog_80e55ecea6acd04d",
+      "src_reddit-comfyui_d7870b05e816f36c",
+      "src_reddit-aivideo_a7a9a72758720ba6"
+    ],
+    "articleWorthinessScore": 0.93,
+    "reasonSelected": "Score 0.93 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/comfyui.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_2_comfyui-blog-robin-substack_2026-05-23",
+    "category": "ai-image",
+    "topic": "ComfyUI Blog | Robin | Substack",
+    "sourceIds": [
       "src_comfyui-blog_fa3eb47ac5fb52c8",
       "src_reddit-stablediffusion_44256606e9d422c4",
       "src_reddit-midjourney_8df2718c2362b144",
@@ -46,76 +80,108 @@
       "src_reddit-stablediffusion_ad3915e293388838",
       "src_stability-ai-blog_2026-05-23_fallback"
     ],
-    "articleWorthinessScore": 0.99,
-    "reasonSelected": "Score 0.99 from 14 source item(s), 13 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "articleWorthinessScore": 0.88,
+    "reasonSelected": "Score 0.88 from 7 source item(s), 6 live crawl(s), strongest sources: ComfyUI Blog, r/StableDiffusion, r/midjourney.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_research-anthropic_2026-05-23",
-    "category": "ai-vibe-coding",
-    "topic": "Research \\ Anthropic",
+    "clusterId": "cluster_ai-agentic_2_help-me-choose-an-llm-provider-which-doesn-t-take-my-life-saving_2026-05-23",
+    "category": "ai-agentic",
+    "topic": "Help me choose an LLM Provider which doesn't take my life savings",
     "sourceIds": [
-      "src_anthropic-research_15aa8285dd0354e9",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_83680f69a2ed9c19",
-      "src_replit-blog_49899058ba32f8e5",
-      "src_reddit-comfyui_f0fcbff5cbf30b57",
+      "src_reddit-aiagents_adda9b02662a81e3",
+      "src_reddit-aiagents_351010d15e8b88df",
+      "src_reddit-aiagents_286ad188500f2616",
+      "src_simonwillison-blog_6b472c6187e9e7bb",
+      "src_reddit-aiagents_c7605a4726e06ec4",
+      "src_reddit-aiagents_a8d909420e99b084",
+      "src_openai-blog_2026-05-23_fallback",
+      "src_mcp-blog_2026-05-23_fallback"
+    ],
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, Simon Willison's Weblog, OpenAI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-23",
+    "category": "ai-vibe-coding",
+    "topic": "What's New in Cursor — Latest Updates & Release Notes",
+    "sourceIds": [
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_reddit-stablediffusion_7c518ddc08328867",
       "src_reddit-mediasynthesis_98111c99496f6ea1",
       "src_reddit-mediasynthesis_334324f1d5231047",
       "src_vercel-ai-blog_2026-05-23_fallback"
     ],
-    "articleWorthinessScore": 0.98,
-    "reasonSelected": "Score 0.98 from 10 source item(s), 9 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 5 source item(s), 4 live crawl(s), strongest sources: Cursor Changelog, r/StableDiffusion, r/MediaSynthesis.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_kling-ai_2026-05-23",
+    "clusterId": "cluster_ai-video_2_featured-titles-latest-releases_2026-05-23",
     "category": "ai-video",
-    "topic": "Kling AI",
+    "topic": "Featured Titles + Latest Releases",
     "sourceIds": [
-      "src_kling-blog_93b43a5f7aed1c98",
-      "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-comfyui_d7870b05e816f36c",
-      "src_reddit-aivideo_a7a9a72758720ba6",
       "src_reddit-aivideo_5a163fe980d106d8",
+      "src_reddit-aivideo_059f33804c9312f6",
       "src_reddit-aivideo_fae9b9dbc13299d2",
-      "src_reddit-aivideo_cd521cd497b65473",
-      "src_reddit-aivideo_79543b3208ac0d08"
+      "src_reddit-aivideo_cd521cd497b65473"
     ],
-    "articleWorthinessScore": 0.87,
-    "reasonSelected": "Score 0.87 from 8 source item(s), 8 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/comfyui.",
+    "articleWorthinessScore": 0.79,
+    "reasonSelected": "Score 0.79 from 4 source item(s), 4 live crawl(s), strongest sources: r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_land-of-war-135_2026-05-23",
+    "clusterId": "cluster_prompt-image_1_land-of-war-135_2026-05-23",
     "category": "prompt-image",
     "topic": "Land of War #135",
     "sourceIds": [
       "src_reddit-midjourney_1ddaba474de07cbd",
-      "src_reddit-midjourney_2a0b84c6afc0d09b",
-      "src_reddit-midjourney_81fa8f5da7678db0"
+      "src_reddit-midjourney_2a0b84c6afc0d09b"
     ],
-    "articleWorthinessScore": 0.69,
-    "reasonSelected": "Score 0.69 from 3 source item(s), 3 live crawl(s), strongest sources: r/midjourney.",
+    "articleWorthinessScore": 0.62,
+    "reasonSelected": "Score 0.62 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
+    "clusterId": "cluster_prompt-image_2_cinnabar-regolith_2026-05-23",
+    "category": "prompt-image",
+    "topic": "Cinnabar Regolith",
+    "sourceIds": [
+      "src_reddit-midjourney_81fa8f5da7678db0"
+    ],
+    "articleWorthinessScore": 0.54,
+    "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
+    "confidence": "medium",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
     "category": "prompt-video",
     "topic": "AI won the 2025 Commonwealth Short Story Prize competition",
     "sourceIds": [
-      "src_reddit-mediasynthesis_196d9065129257ad",
+      "src_reddit-mediasynthesis_196d9065129257ad"
+    ],
+    "articleWorthinessScore": 0.5,
+    "reasonSelected": "Score 0.50 from 1 source item(s), 1 live crawl(s), strongest sources: r/MediaSynthesis.",
+    "confidence": "medium",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
+    "category": "prompt-video",
+    "topic": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+    "sourceIds": [
       "src_reddit-mediasynthesis_8dc8d246a27d02f6"
     ],
-    "articleWorthinessScore": 0.56,
-    "reasonSelected": "Score 0.56 from 2 source item(s), 2 live crawl(s), strongest sources: r/MediaSynthesis.",
-    "confidence": "medium",
+    "articleWorthinessScore": 0.42,
+    "reasonSelected": "Score 0.42 from 1 source item(s), 1 live crawl(s), strongest sources: r/MediaSynthesis.",
+    "confidence": "low",
     "selectedForGeneration": true
   }
 ]

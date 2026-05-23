@@ -29,7 +29,7 @@ export function getLanguageVariant(article: Article, lang: Lang) {
 }
 
 export function getTodayArticles(lang: Lang) {
-  return categories.flatMap((category) => getArticlesByCategory(lang, category.id).slice(0, 1));
+  return getArticles(lang);
 }
 
 export function getFeaturedArticle(lang: Lang) {

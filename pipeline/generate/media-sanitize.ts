@@ -58,6 +58,9 @@ function isSafeDirectMediaUrl(raw: string, sourceUrls: string[]) {
     // Only accept generic direct media URLs from hosts that are not known article-page domains.
     // Example failure seen in production: simonwillison.net/static/images/...jpg returns 404.
     if (host === "simonwillison.net" || host.slice(-19) === ".simonwillison.net") return false;
+    if (host === "blog.comfy.org") return false;
+    if (host === "untwisting-rope.github.io" && parsed.pathname.toLowerCase().indexOf("/static/img/") !== -1) return false;
+    if (host === "rajabi2001.github.io" && parsed.pathname.toLowerCase().indexOf("/static/img/") !== -1) return false;
     return DIRECT_MEDIA_RE.test(parsed.pathname + parsed.search);
   } catch {
     return false;

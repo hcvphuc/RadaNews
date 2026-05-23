@@ -64,6 +64,21 @@ interface Source {
 
 type SourceMedia = MediaBlock & { sourceId: string };
 
+function isKnownBadMediaUrl(url: string | undefined): boolean {
+  if (!url) return true;
+  try {
+    const parsed = new URL(url.replace(/&amp;/g, "&"));
+    const host = parsed.hostname.toLowerCase();
+    const path = parsed.pathname.toLowerCase();
+    if (host === "blog.comfy.org") return true;
+    if (host === "untwisting-rope.github.io" && path.includes("/static/img/")) return true;
+    if (host === "rajabi2001.github.io" && path.includes("/static/img/")) return true;
+    return false;
+  } catch {
+    return true;
+  }
+}
+
 interface Article {
   id: string;
   slug: string;
@@ -165,7 +180,7 @@ function parseSections(bodyMd: string): ArticleSection[] {
 function sourceMediaFromItem(item: SourceItem): SourceMedia[] {
   const media: SourceMedia[] = [];
   const videoUrl = (item as SourceItem & { videoUrl?: string }).videoUrl;
-  if (videoUrl) {
+  if (videoUrl && !isKnownBadMediaUrl(videoUrl)) {
     media.push({
       sourceId: item.id,
       type: "video",
@@ -176,7 +191,7 @@ function sourceMediaFromItem(item: SourceItem): SourceMedia[] {
       sourceUrl: item.sourceUrl,
     });
   }
-  if (item.imageUrl) {
+  if (item.imageUrl && !isKnownBadMediaUrl(item.imageUrl)) {
     media.push({
       sourceId: item.id,
       type: "image",
@@ -225,7 +240,7 @@ function injectVerifiedSourceMedia(
 
   const cloned: ArticleSection[] = JSON.parse(JSON.stringify(sections));
   for (const section of cloned) {
-    section.blocks = section.blocks.filter((block) => block.type !== "media" || Boolean(block.src));
+    section.blocks = section.blocks.filter((block) => block.type !== "media");
   }
 
   let mediaIndex = 0;
@@ -279,7 +294,7 @@ async function main() {
   const imageUrlBySource = new Map<string, string>();
   const mediaBySource = new Map<string, SourceMedia[]>();
   for (const item of sourceItems) {
-    if (item.imageUrl && item.id) imageUrlBySource.set(item.id, item.imageUrl);
+    if (item.imageUrl && item.id && !isKnownBadMediaUrl(item.imageUrl)) imageUrlBySource.set(item.id, item.imageUrl);
     const media = sourceMediaFromItem(item);
     if (item.id && media.length > 0) mediaBySource.set(item.id, media);
   }
@@ -320,7 +335,7 @@ async function main() {
 
       // ── Hero Media ──
       let heroMedia: MediaBlock | undefined;
-      if (draft.heroMedia && draft.heroMedia.src) {
+      if (draft.heroMedia && draft.heroMedia.src && !isKnownBadMediaUrl(draft.heroMedia.src)) {
         // Structured output — model provided heroMedia directly
         heroMedia = draft.heroMedia;
       } else {

@@ -10,11 +10,20 @@ export function clusterSources(items: SourceItem[]): TopicCluster[] {
   });
 
   return [...byCategory.entries()]
-    .map(([category, categoryItems]) => buildCluster(category, categoryItems))
+    .flatMap(([category, categoryItems]) => buildCategoryClusters(category, categoryItems))
     .sort((a, b) => b.articleWorthinessScore - a.articleWorthinessScore);
 }
 
-function buildCluster(category: Category, items: SourceItem[]): TopicCluster {
+function buildCategoryClusters(category: Category, items: SourceItem[]): TopicCluster[] {
+  const sortedItems = [...items].sort((a, b) => scoreSource(b) - scoreSource(a));
+  const primary = sortedItems.slice(0, Math.ceil(sortedItems.length / 2));
+  const secondary = sortedItems.slice(Math.ceil(sortedItems.length / 2));
+  return [primary, secondary]
+    .filter((group) => group.length > 0)
+    .map((group, index) => buildCluster(category, group, index + 1));
+}
+
+function buildCluster(category: Category, items: SourceItem[], clusterIndex = 1): TopicCluster {
   const sortedItems = [...items].sort((a, b) => scoreSource(b) - scoreSource(a));
   const averageScore = sortedItems.reduce((sum, item) => sum + scoreSource(item), 0) / Math.max(1, sortedItems.length);
   const crossSourceBoost = Math.min(0.22, Math.max(0, sortedItems.length - 1) * 0.07);
@@ -23,7 +32,7 @@ function buildCluster(category: Category, items: SourceItem[]): TopicCluster {
   const topic = topicLabel(category, sortedItems);
 
   return {
-    clusterId: `cluster_${category}_${slugify(topic)}_${new Date().toISOString().slice(0, 10)}`,
+    clusterId: `cluster_${category}_${clusterIndex}_${slugify(topic)}_${new Date().toISOString().slice(0, 10)}`,
     category,
     topic,
     sourceIds: sortedItems.map((item) => item.id),

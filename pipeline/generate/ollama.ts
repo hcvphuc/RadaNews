@@ -60,27 +60,46 @@ async function generateWithChatCompletions(
     max_tokens: 4096,
   };
 
-  try {
-    const response = await fetch(`${endpoint.replace(/\/$/, "")}/chat/completions`, {
-      method: "POST",
-      headers,
-      body: JSON.stringify(body),
-      signal: AbortSignal.timeout(300_000),
-    });
+  let lastError: unknown;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const response = await fetch(`${endpoint.replace(/\/$/, "")}/chat/completions`, {
+        method: "POST",
+        headers,
+        body: JSON.stringify(body),
+        signal: AbortSignal.timeout(300_000),
+      });
 
-    if (!response.ok) {
-      const errorText = await response.text().catch(() => "");
-      throw new Error(`Ollama cloud failed ${response.status}: ${errorText.slice(0, 200)}`);
-    }
+      if (!response.ok) {
+        const errorText = await response.text().catch(() => "");
+        const message = `Ollama cloud failed ${response.status}: ${errorText.slice(0, 200)}`;
+        if (response.status >= 500 && attempt < 3) {
+          console.warn(`[ollama] transient ${message}; retry ${attempt + 1}/3`);
+          await delay(2_000 * attempt);
+          continue;
+        }
+        throw new Error(message);
+      }
 
-    const data = (await response.json()) as ChatCompletionResponse;
-    return data.choices?.[0]?.message?.content?.trim();
-  } catch (error) {
-    if (error instanceof Error && error.name === "AbortError") {
-      throw new Error("Ollama cloud request timed out (120s)");
+      const data = (await response.json()) as ChatCompletionResponse;
+      return data.choices?.[0]?.message?.content?.trim();
+    } catch (error) {
+      lastError = error;
+      if (error instanceof Error && error.name === "AbortError") {
+        lastError = new Error("Ollama cloud request timed out (300s)");
+      }
+      if (attempt < 3) {
+        console.warn(`[ollama] request failed; retry ${attempt + 1}/3`);
+        await delay(2_000 * attempt);
+        continue;
+      }
     }
-    throw error;
   }
+  throw lastError;
+}
+
+async function delay(ms: number) {
+  await new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 async function generateWithLegacyOllama(
