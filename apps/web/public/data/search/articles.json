@@ -702,5 +702,24 @@
     "publishedAt": "2026-05-23T23:55:28.675Z",
     "readingTime": 1,
     "url": "/en/prompt-video/review-50-years-of-text-games-by-aaron-reed-creator-a-2026-05-23"
+  },
+  {
+    "id": "manual_ai-video_2026-05-24_ai-video-workflow-runway-ltx-kling-seedance_vi",
+    "lang": "vi",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "AI video 2026: đừng chọn model, hãy chọn pipeline",
+    "subtitle": "Runway Gen-4, LTX Studio, Kling và Seedance không giải cùng một bài toán. Bài này tách rõ khi nào dùng tool nào để creator đỡ đốt credit vào prompt vô nghĩa.",
+    "tags": [
+      "ai-video",
+      "runway",
+      "ltx-studio",
+      "kling",
+      "seedance",
+      "workflow"
+    ],
+    "publishedAt": "2026-05-24T00:20:00.000Z",
+    "readingTime": 9,
+    "url": "/vi/ai-video/ai-video-workflow-runway-ltx-kling-seedance"
   }
 ]

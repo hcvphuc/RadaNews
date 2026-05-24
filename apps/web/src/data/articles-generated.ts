@@ -2304,5 +2304,312 @@ export const generatedArticles: Article[] = [
       "confidence": "medium"
     },
     "status": "published"
-  }
+  },
+  {
+    "id": "manual_ai-video_2026-05-24_ai-video-workflow-runway-ltx-kling-seedance_vi",
+    "slug": "ai-video-workflow-runway-ltx-kling-seedance",
+    "lang": "vi",
+    "category": "ai-video",
+    "title": "AI video 2026: đừng chọn model, hãy chọn pipeline",
+    "subtitle": "Runway Gen-4, LTX Studio, Kling và Seedance không giải cùng một bài toán. Bài này tách rõ khi nào dùng tool nào để creator đỡ đốt credit vào prompt vô nghĩa.",
+    "publishedAt": "2026-05-24T00:20:00.000Z",
+    "readingTime": 9,
+    "sourceCount": 4,
+    "tags": [
+      "ai-video",
+      "runway",
+      "ltx-studio",
+      "kling",
+      "seedance",
+      "workflow"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/images/card_gen4post.jpg",
+      "alt": "Runway Gen-4 world consistency demo",
+      "caption": "Runway Gen-4 đặt trọng tâm vào world consistency: nhân vật, vật thể, địa điểm và style giữ được qua nhiều shot.",
+      "credit": "Runway",
+      "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4"
+    },
+    "highlights": [
+      {
+        "text": "Sai lầm phổ biến nhất của creator là hỏi “model nào đẹp nhất?”. Câu đúng là: shot này cần consistency, speed, control hay giá rẻ?"
+      },
+      {
+        "text": "Runway Gen-4 mạnh ở world consistency và reference-driven shots; LTX mạnh ở production workspace; Seedance đáng chú ý ở hướng API/latency; Kling phù hợp thử motion nhanh."
+      },
+      {
+        "text": "Một pipeline thực dụng nên tách 4 lớp: brief, reference pack, shot matrix, rồi mới generation. Prompt dài không cứu được storyboard lười."
+      },
+      {
+        "text": "Đường kiếm tiền gần nhất không phải ads traffic, mà là bán audit workflow AI video 99 USD cho studio nhỏ đang đốt credit mà chưa có quy trình."
+      }
+    ],
+    "sections": [
+      {
+        "id": "hook",
+        "heading": "Tôi không tin bảng xếp hạng “model đẹp nhất” nữa",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tuần nào cũng có một bảng so sánh AI video mới. Runway hơn Kling ở shot này, Seedance nhanh hơn Sora ở case kia, LTX lại bảo mình là studio trọn gói. Nghe nhiều quá thành nhiễu. Với người làm TVC, film, social content, câu hỏi “model nào đẹp nhất?” gần như vô dụng."
+          },
+          {
+            "type": "paragraph",
+            "text": "Lý do đơn giản: một clip 5 giây đẹp không đồng nghĩa với một pipeline sản xuất được 30 shot nhất quán. Khách không trả tiền cho một demo viral trên X. Khách trả tiền cho sản phẩm, nhân vật, bối cảnh, logo, tone màu và deadline. AI video hiện tại vẫn là thằng học việc rất nhanh nhưng trí nhớ kém; nếu không có hệ thống kèm nó, nó sẽ ăn credit rồi trả lại một đống clip nhìn vui nhưng không dựng được."
+          },
+          {
+            "type": "paragraph",
+            "text": "Vì vậy bài này không xếp hạng kiểu fanboy. Tôi tách Runway Gen-4, LTX Studio, Kling và Seedance theo vai trò trong pipeline: ai dùng để giữ thế giới hình ảnh, ai dùng để dựng workflow, ai dùng để thử motion, ai đáng quan tâm khi cần API hoặc tốc độ."
+          }
+        ]
+      },
+      {
+        "id": "comparison",
+        "heading": "Bảng chọn tool: đừng dùng dao mổ để chặt gà",
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Nhu cầu",
+              "Tool nên thử trước",
+              "Vì sao",
+              "Rủi ro"
+            ],
+            "rows": [
+              [
+                "Nhân vật/sản phẩm cần nhất quán qua nhiều shot",
+                "Runway Gen-4",
+                "Trang nghiên cứu Gen-4 nhấn mạnh world consistency, reference image và khả năng giữ character/object/location/style qua nhiều scene.",
+                "Chi phí và giới hạn platform có thể làm scale chậm nếu không lock shot list trước."
+              ],
+              [
+                "Làm từ brief/script đến storyboard/timeline",
+                "LTX Studio",
+                "LTX định vị là AI video production platform, có storyboard, timeline, sound design, shot/motion control và workspace cộng tác.",
+                "Nếu chỉ cần generate vài clip lẻ, workspace đầy đủ có thể thành quá nặng."
+              ],
+              [
+                "Thử motion nhanh, nhiều biến thể social",
+                "Kling",
+                "Kling AI tự định vị creative studio với series 3.0; hợp cho vòng khám phá motion/visual nhanh.",
+                "Thông tin public mỏng; phải tự test bằng case thật, không tin demo trang chủ."
+              ],
+              [
+                "Tích hợp vào app hoặc pipeline backend",
+                "Seedance / multi-provider",
+                "SitePoint mô tả Seedance 2.0 theo hướng OpenAI-compatible async polling và nhấn mạnh quyết định API ảnh hưởng queue, retry, latency, cost.",
+                "API video luôn bất đồng bộ; không thiết kế hàng đợi từ đầu là tự sát."
+              ]
+            ]
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.prod.website-files.com/65bb6b901cb133d784d16166/68f8e8732edc31c03540eafb_ltx-hp-new1.webp",
+            "alt": "LTX Studio homepage production workspace",
+            "caption": "LTX Studio bán câu chuyện “production platform”, không chỉ model generate clip. Đây là hướng đáng chú ý cho team cần storyboard, timeline và collaboration.",
+            "credit": "LTX Studio",
+            "sourceUrl": "https://ltx.studio/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Điểm quan trọng: bốn lựa chọn này không thay nhau hoàn toàn. Một studio nhỏ có thể dùng LTX để tiền kỳ/storyboard, Runway để giữ reference nhân vật hoặc sản phẩm, Kling để bắn nhanh vài motion option, rồi một API như Seedance khi cần nhúng vào sản phẩm hoặc batch tạo biến thể. Pipeline lai nghe kém sexy hơn “một tool thắng tất cả”, nhưng thực tế sản xuất thường thắng bằng cái kém sexy đó."
+          }
+        ]
+      },
+      {
+        "id": "pipeline",
+        "heading": "Pipeline 4 lớp: bớt prompt, thêm kỷ luật",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nếu hôm nay phải làm một video 30 giây cho sản phẩm, tôi sẽ không mở tool lên prompt ngay. Tôi sẽ làm 4 lớp trước. Lớp 1 là brief: mục tiêu, khán giả, deliverable, format, deadline, điều cấm. Lớp 2 là reference pack: nhân vật, sản phẩm, location, ánh sáng, lens, màu, frame mẫu. Lớp 3 là shot matrix: mỗi shot có duration, camera, action, subject consistency cue, negative cue, expected failure. Lớp 4 mới là generation: chọn tool theo từng shot."
+          },
+          {
+            "type": "list",
+            "items": [
+              "Brief phải có ràng buộc thật: 16:9 hay 9:16, 6 giây hay 10 giây, có packshot hay không, logo xuất hiện ở đâu.",
+              "Reference pack nên ít nhưng sạch. 3 ảnh đúng còn hơn 30 ảnh đẹp nhưng lệch style.",
+              "Shot matrix phải viết như call sheet mini: Shot 01 / 4s / slow dolly-in / product on black acrylic / no extra text.",
+              "Mỗi shot cần tiêu chí pass/fail. Không có tiêu chí thì bạn sẽ generate đến khi hết credit rồi tự lừa mình rằng “cũng được”."
+            ]
+          },
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "Anti-pattern cần bỏ",
+            "text": "Prompt kiểu “cinematic, photorealistic, ultra detail, 8K” là noise nếu không nói camera làm gì, subject giữ gì, motion đi đâu và shot dùng trong đoạn dựng nào. Đẹp chung chung không bán được."
+          }
+        ]
+      },
+      {
+        "id": "cost",
+        "heading": "Chi phí thật nằm ở vòng thử sai, không nằm ở giá gói tháng",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nhiều creator tính tiền sai. Họ nhìn subscription 20–100 USD/tháng rồi tưởng đó là cost. Không. Cost thật là số vòng thử sai trước khi có shot usable. Nếu một shot cần 12 lần generate mới dùng được, giá mỗi shot không còn là vài chục cent nữa; nó là thời gian operator, thời gian chờ, thời gian review, và cơ hội bị trễ deadline."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Workflow",
+              "Số shot cần làm",
+              "Lần generate/shot",
+              "Usable rate giả định",
+              "Hệ quả"
+            ],
+            "rows": [
+              [
+                "Prompt tự do, không reference pack",
+                "20",
+                "10–15",
+                "20–30%",
+                "Nhiều clip đẹp lẻ, dựng lên lệch nhân vật/style."
+              ],
+              [
+                "Reference pack + shot matrix",
+                "20",
+                "4–7",
+                "45–60%",
+                "Ít wow ngẫu nhiên hơn, nhưng nhiều shot dùng được hơn."
+              ],
+              [
+                "Pipeline có test shot trước khi scale",
+                "20",
+                "3–5 sau khi lock style",
+                "60–70%",
+                "Tốn thêm 1 giờ đầu, tiết kiệm cả ngày sau."
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Bảng trên không phải benchmark phòng lab. Nó là cách tính thực dụng để khỏi tự lừa. Nếu team không đo usable rate, team không biết tool nào rẻ. Một model “đắt” nhưng 5 lần ra shot dùng được có thể rẻ hơn model “rẻ” nhưng 20 lần vẫn lệch tay nhân vật."
+          }
+        ]
+      },
+      {
+        "id": "case-study",
+        "heading": "Case thực dụng: TVC 30 giây cho một app fitness",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Giả sử brief là video 30 giây cho app fitness, target nữ 25–35, tone premium, cần 6 shot: mở app, nhân vật tập ở nhà, close-up UI, chuyển cảnh progress, packshot, CTA. Nếu prompt từng shot riêng lẻ, nhân vật sẽ đổi mặt, căn hộ đổi style, UI bịa chữ, màu lệch. Đây là chỗ AI video hay phá nhất."
+          },
+          {
+            "type": "paragraph",
+            "text": "Pipeline tốt hơn: dùng image model hoặc photo reference để khóa nhân vật và căn hộ; tạo 2–3 key visual được duyệt; đưa key visual vào Runway Gen-4 cho các shot cần consistency; dùng LTX hoặc timeline tool để giữ storyboard và thứ tự shot; dùng Kling/other model để thử vài motion phụ như towel movement, camera push, transition; UI thật thì composite ở post, đừng bắt AI viết chữ."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.prod.website-files.com/65af5bb45119ef8315f7474c/67f65b661a97d150b22f2e94_LTX-Studio-01.png",
+            "alt": "LTX Studio production interface visual",
+            "caption": "Với job nhiều shot, workspace/storyboard quan trọng ngang model. Không có nơi quản lý shot, feedback và version, team sẽ chìm trong file rác.",
+            "credit": "LTX Studio",
+            "sourceUrl": "https://ltx.studio/",
+            "placement": "after-paragraph"
+          }
+        ]
+      },
+      {
+        "id": "sources-read",
+        "heading": "Đọc nguồn thế nào cho khỏi bị demo marketing dắt mũi",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nguồn chính thức rất hữu ích, nhưng phải đọc đúng cách. Runway nói Gen-4 giữ character, object, location, style và world environment qua scene. Đó là claim quan trọng. Nhưng claim không thay cho test với asset của bạn. LTX nói có storyboard, timeline, sound design, collaboration. Đó là claim workflow. Nhưng nếu team chỉ làm 3 clip TikTok/ngày, bạn phải hỏi: workflow đó giúp tăng usable rate hay chỉ thêm giao diện?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Với bài so sánh API như SitePoint, phần đáng đọc không phải ai “thắng”. Phần đáng đọc là rủi ro backend: async job, polling, queue, retry, latency, cost forecasting, lock-in. Builder nào nhúng AI video vào sản phẩm mà không thiết kế queue từ đầu thì sẽ sớm gặp cảnh user bấm generate, request timeout, video vẫn chạy ở backend, tiền vẫn mất."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Cơ hội kiếm tiền: bán audit, không chờ traffic cứu mình",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nếu mục tiêu 20 ngày là tạo đường tới 100 USD/tháng, bài kiểu này không nên chỉ để kéo SEO. Nó phải biến thành offer. Offer đơn giản nhất: AI video workflow audit 99 USD. Khách gửi storyboard hoặc workflow hiện tại; mình chỉ ra chỗ đốt credit, viết lại shot matrix, đề xuất tool stack và 10 prompt shot-level. Không cần checkout phức tạp. Manual contact trước, tiền về sau."
+          },
+          {
+            "type": "list",
+            "items": [
+              "Target đầu tiên: studio nhỏ làm social video, agency chạy concept board, creator bán template/prompt pack.",
+              "Lead magnet: checklist “20 câu hỏi trước khi generate AI video”.",
+              "Proof: lấy chính bài này làm landing content, thêm CTA ở cuối.",
+              "Upsell: prompt pack theo ngành — beauty, real estate, fitness, F&B.",
+              "KPI 7 ngày: gửi 20 outreach, mục tiêu 2 call, 1 audit trả tiền."
+            ]
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Insight 1: Model không thay thế producer",
+        "text": "AI video đang tiến rất nhanh, nhưng người thắng không phải người thuộc tên model mới nhất. Người thắng là người biến brief mơ hồ thành shot system rõ ràng để model ít có cơ hội phá.",
+        "variant": "analysis"
+      },
+      {
+        "title": "Insight 2: Consistency là currency",
+        "text": "Trong sản xuất thật, consistency đáng tiền hơn một clip wow. Khách cần cùng một sản phẩm, cùng một người, cùng một thế giới. Runway đánh đúng nỗi đau này; các tool workspace như LTX đánh vào nỗi đau quản lý quy trình.",
+        "variant": "impact"
+      },
+      {
+        "title": "Insight 3: Backend AI video là bài toán vận hành",
+        "text": "Với builder, video API không giống text API. Nó bất đồng bộ, đắt, chậm, cần queue và retry. Bỏ qua lớp này thì demo chạy được nhưng sản phẩm sẽ chết khi có user thật.",
+        "variant": "risk"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Đừng hỏi tool nào đẹp nhất; hãy phân loại shot theo consistency, motion, speed, cost và integration.",
+        "Trước khi generate, viết shot matrix tối thiểu 10 dòng: duration, camera, action, reference, pass/fail.",
+        "Dùng source/official media để học claim của tool, nhưng test lại bằng asset thật của bạn.",
+        "Không để AI tạo UI/text quan trọng trong video; composite ở post nếu cần sạch.",
+        "Biến kiến thức pipeline thành offer 99 USD: audit workflow, giảm credit waste, viết lại prompt shot-level."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Runway Gen-4: AI Video Generation with World Consistency",
+        "publisher": "Runway Research",
+        "url": "https://runwayml.com/research/introducing-runway-gen-4",
+        "publishedAt": "2026-05-24T00:00:00.000Z"
+      },
+      {
+        "title": "The Creative Studio for AI Video Production",
+        "publisher": "LTX Studio",
+        "url": "https://ltx.studio/",
+        "publishedAt": "2026-05-24T00:00:00.000Z"
+      },
+      {
+        "title": "Kling AI: Next-Generation AI Creative Studio",
+        "publisher": "Kling AI",
+        "url": "https://www.klingai.com/",
+        "publishedAt": "2026-05-24T00:00:00.000Z"
+      },
+      {
+        "title": "Seedance 2.0 vs Sora vs Runway Gen-4: AI Video API Comparison for Developers",
+        "publisher": "SitePoint",
+        "url": "https://www.sitepoint.com/seedance2-vs-sora2-vs-runway-gen4/",
+        "publishedAt": "2026-03-09T00:00:00.000Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-cron-editor",
+      "promptVersion": "article-vi-structured-v1",
+      "generatedAt": "2026-05-24T00:20:00.000Z",
+      "sourceClusterId": "manual_ai-video_2026-05-24",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
 ];
