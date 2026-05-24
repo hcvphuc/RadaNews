@@ -1,6 +1,6 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
+    "clusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24",
     "category": "ai-agentic",
     "topic": "The memory shortage is causing a repricing of consumer electronics",
     "sourceIds": [
@@ -19,7 +19,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
@@ -34,7 +34,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -42,10 +42,10 @@
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
       "src_reddit-stablediffusion_e99db46e2ce55fdc",
+      "src_reddit-stablediffusion_7148aa50cea56dcf",
       "src_reddit-stablediffusion_8c31397b15af82b1",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-comfyui_c39c8fc57dbcc9c1",
-      "src_reddit-stablediffusion_475a4e7e3e1145e0"
+      "src_reddit-comfyui_c39c8fc57dbcc9c1"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
@@ -53,7 +53,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-05-24",
     "category": "ai-video",
     "topic": "Kling AI",
     "sourceIds": [
@@ -68,13 +68,13 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
+    "clusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24",
     "category": "ai-vibe-coding",
     "topic": "An Update on Nodes 2.0 from Comfy Org",
     "sourceIds": [
       "src_reddit-comfyui_f0fcbff5cbf30b57",
       "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_vercel-ai-blog_2026-05-23_fallback"
+      "src_vercel-ai-blog_2026-05-24_fallback"
     ],
     "articleWorthinessScore": 0.84,
     "reasonSelected": "Score 0.84 from 3 source item(s), 2 live crawl(s), strongest sources: r/comfyui, Cursor Changelog, Vercel AI Blog.",
@@ -82,26 +82,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
-    "category": "ai-agentic",
-    "topic": "After 6 months of running AI agents in production I think the framework you p...",
-    "sourceIds": [
-      "src_reddit-aiagents_c730b44f0330bb58",
-      "src_reddit-aiagents_53817c29175c6392",
-      "src_reddit-stablediffusion_c9e3aaf046157248",
-      "src_reddit-aiagents_7b684a9782df210c",
-      "src_reddit-aiagents_c7605a4726e06ec4",
-      "src_reddit-aiagents_a8d909420e99b084",
-      "src_openai-blog_2026-05-23_fallback",
-      "src_mcp-blog_2026-05-23_fallback"
-    ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, r/StableDiffusion, OpenAI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
+    "clusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-24",
     "category": "ai-image",
     "topic": "Multi Referencelatent",
     "sourceIds": [
@@ -112,7 +93,7 @@
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
       "src_reddit-comfyui_837868449b319243",
       "src_reddit-comfyui_7144adf926fdc7a9",
-      "src_stability-ai-blog_2026-05-23_fallback"
+      "src_stability-ai-blog_2026-05-24_fallback"
     ],
     "articleWorthinessScore": 0.83,
     "reasonSelected": "Score 0.83 from 8 source item(s), 7 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
@@ -120,7 +101,26 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
+    "clusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24",
+    "category": "ai-agentic",
+    "topic": "After 6 months of running AI agents in production I think the framework you p...",
+    "sourceIds": [
+      "src_reddit-aiagents_c730b44f0330bb58",
+      "src_reddit-aiagents_17fa8dec3e7ece81",
+      "src_reddit-stablediffusion_c9e3aaf046157248",
+      "src_reddit-aiagents_7b684a9782df210c",
+      "src_reddit-aiagents_c7605a4726e06ec4",
+      "src_reddit-aiagents_a8d909420e99b084",
+      "src_openai-blog_2026-05-24_fallback",
+      "src_mcp-blog_2026-05-24_fallback"
+    ],
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, r/StableDiffusion, OpenAI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24",
     "category": "ai-video",
     "topic": "“The Eye Doctor” by jboogxcreative (me)",
     "sourceIds": [
@@ -134,7 +134,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
+    "clusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-24",
     "category": "prompt-image",
     "topic": "Flying With Angels",
     "sourceIds": [
@@ -147,7 +147,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
+    "clusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-24",
     "category": "prompt-image",
     "topic": "Land of War #135",
     "sourceIds": [
@@ -159,7 +159,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
+    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24",
     "category": "prompt-video",
     "topic": "AI won the 2025 Commonwealth Short Story Prize competition",
     "sourceIds": [
@@ -172,7 +172,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
+    "clusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24",
     "category": "prompt-video",
     "topic": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
     "sourceIds": [
