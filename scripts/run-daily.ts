@@ -24,23 +24,37 @@ const extracted = await Promise.all(
 );
 const clusters = clusterSources(extracted);
 const notes = createSourceNotes(extracted);
-const generationDrafts = await Promise.all(
-  clusters
-    .filter((cluster) => cluster.selectedForGeneration)
-    .map(async (cluster) => {
-      const clusterNotes = notes.filter((note) => cluster.sourceIds.includes(note.sourceId));
-      const vi = await writeArticleVi(cluster, clusterNotes);
-      const en = await writeArticleEn(cluster, clusterNotes);
+const selectedClusters = clusters
+  .filter((cluster) => cluster.selectedForGeneration)
+  .slice(0, 6);
 
-      return {
-        outline: createOutline(cluster, clusterNotes),
-        vi,
-        en,
-        viValidation: validateArticle(vi),
-        enValidation: validateArticle(en)
-      };
-    })
+if (selectedClusters.length !== 6) {
+  throw new Error(`Daily pipeline requires exactly 6 selected clusters / 12 bilingual articles; got ${selectedClusters.length}.`);
+}
+
+const generationDrafts = await Promise.all(
+  selectedClusters.map(async (cluster) => {
+    const clusterNotes = notes.filter((note) => cluster.sourceIds.includes(note.sourceId));
+    const vi = await writeArticleVi(cluster, clusterNotes);
+    const en = await writeArticleEn(cluster, clusterNotes);
+
+    return {
+      outline: createOutline(cluster, clusterNotes),
+      vi,
+      en,
+      viValidation: validateArticle(vi),
+      enValidation: validateArticle(en)
+    };
+  })
 );
+
+const fallbackDrafts = generationDrafts.flatMap((draft) => [draft.vi, draft.en])
+  .filter((draft) => draft.generation?.mode !== "ollama");
+
+if (fallbackDrafts.length > 0) {
+  const titles = fallbackDrafts.map((draft) => `${draft.lang}: ${draft.title}`).join("; ");
+  throw new Error(`Refusing to publish template-fallback articles (${fallbackDrafts.length}). Fix Ollama/API quota first. ${titles}`);
+}
 
 await mkdir(rawDir, { recursive: true });
 await writeFile(resolve(rawDir, `${today}.source-items.json`), JSON.stringify(extracted, null, 2) + "\n");

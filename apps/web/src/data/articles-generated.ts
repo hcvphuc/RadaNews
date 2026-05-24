@@ -1,16 +1,16 @@
 // Auto-generated from pipeline output — do not edit manually
-// Generated at: 2026-05-24T00:03:22.003Z
+// Generated at: 2026-05-23T23:55:29.223Z
 import type { Article } from "@/lib/schema";
 
 export const generatedArticles: Article[] = [
   {
-    "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24_vi",
-    "slug": "the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-24",
+    "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_vi",
+    "slug": "the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23",
     "lang": "vi",
     "category": "ai-agentic",
     "title": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.577Z",
+    "publishedAt": "2026-05-23T23:55:21.547Z",
     "readingTime": 2,
     "sourceCount": 8,
     "tags": [
@@ -77,19 +77,19 @@ export const generatedArticles: Article[] = [
         "title": "LangChain Blog",
         "publisher": "LangChain Blog",
         "url": "https://blog.langchain.dev/rss/",
-        "publishedAt": "2026-05-24T00:02:59.509Z"
+        "publishedAt": "2026-05-23T23:55:03.625Z"
       },
       {
         "title": "News | Luma",
         "publisher": "Luma Labs Blog",
         "url": "https://lumalabs.ai/blog",
-        "publishedAt": "2026-05-24T00:02:59.767Z"
+        "publishedAt": "2026-05-23T23:55:03.708Z"
       },
       {
         "title": "Hugging Face – Blog",
         "publisher": "Hugging Face Blog",
         "url": "https://huggingface.co/blog",
-        "publishedAt": "2026-05-24T00:02:59.418Z"
+        "publishedAt": "2026-05-23T23:55:03.455Z"
       },
       {
         "title": "On the",
@@ -119,26 +119,26 @@ export const generatedArticles: Article[] = [
         "title": "Lil'Log",
         "publisher": "Lil'Log",
         "url": "https://lilianweng.github.io/",
-        "publishedAt": "2026-05-24T00:02:59.276Z"
+        "publishedAt": "2026-05-23T23:55:03.352Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.577Z",
-      "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.547Z",
+      "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24_en",
-    "slug": "the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-24",
+    "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_en",
+    "slug": "the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23",
     "lang": "en",
     "category": "ai-agentic",
     "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.527Z",
+    "publishedAt": "2026-05-23T23:55:28.527Z",
     "readingTime": 2,
     "sourceCount": 8,
     "tags": [
@@ -205,19 +205,19 @@ export const generatedArticles: Article[] = [
         "title": "LangChain Blog",
         "publisher": "LangChain Blog",
         "url": "https://blog.langchain.dev/rss/",
-        "publishedAt": "2026-05-24T00:02:59.509Z"
+        "publishedAt": "2026-05-23T23:55:03.625Z"
       },
       {
         "title": "News | Luma",
         "publisher": "Luma Labs Blog",
         "url": "https://lumalabs.ai/blog",
-        "publishedAt": "2026-05-24T00:02:59.767Z"
+        "publishedAt": "2026-05-23T23:55:03.708Z"
       },
       {
         "title": "Hugging Face – Blog",
         "publisher": "Hugging Face Blog",
         "url": "https://huggingface.co/blog",
-        "publishedAt": "2026-05-24T00:02:59.418Z"
+        "publishedAt": "2026-05-23T23:55:03.455Z"
       },
       {
         "title": "On the",
@@ -247,26 +247,26 @@ export const generatedArticles: Article[] = [
         "title": "Lil'Log",
         "publisher": "Lil'Log",
         "url": "https://lilianweng.github.io/",
-        "publishedAt": "2026-05-24T00:02:59.276Z"
+        "publishedAt": "2026-05-23T23:55:03.352Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.527Z",
-      "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.527Z",
+      "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24_vi",
-    "slug": "research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-24",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23_vi",
+    "slug": "research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-23",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.634Z",
+    "publishedAt": "2026-05-23T23:55:21.544Z",
     "readingTime": 1,
     "sourceCount": 4,
     "tags": [
@@ -333,19 +333,19 @@ export const generatedArticles: Article[] = [
         "title": "Research \\ Anthropic",
         "publisher": "Anthropic Research",
         "url": "https://www.anthropic.com/research",
-        "publishedAt": "2026-05-24T00:03:03.785Z"
+        "publishedAt": "2026-05-23T23:55:09.215Z"
       },
       {
         "title": "GitHub Copilot Archives - The GitHub Blog",
         "publisher": "GitHub Copilot Blog",
         "url": "https://github.blog/tag/github-copilot/",
-        "publishedAt": "2026-05-24T00:02:59.715Z"
+        "publishedAt": "2026-05-23T23:55:03.910Z"
       },
       {
         "title": "Replit — Replit Blog – Product updates from the team",
         "publisher": "Replit Blog",
         "url": "https://blog.replit.com/",
-        "publishedAt": "2026-05-24T00:02:59.434Z"
+        "publishedAt": "2026-05-23T23:55:03.645Z"
       },
       {
         "title": "Datasette Agent",
@@ -357,20 +357,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.634Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.544Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24_en",
-    "slug": "research-anthropic-creator-and-builder-analysis-2026-05-24",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23_en",
+    "slug": "research-anthropic-creator-and-builder-analysis-2026-05-23",
     "lang": "en",
     "category": "ai-vibe-coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.807Z",
+    "publishedAt": "2026-05-23T23:55:28.523Z",
     "readingTime": 1,
     "sourceCount": 4,
     "tags": [
@@ -437,19 +437,19 @@ export const generatedArticles: Article[] = [
         "title": "Research \\ Anthropic",
         "publisher": "Anthropic Research",
         "url": "https://www.anthropic.com/research",
-        "publishedAt": "2026-05-24T00:03:03.785Z"
+        "publishedAt": "2026-05-23T23:55:09.215Z"
       },
       {
         "title": "GitHub Copilot Archives - The GitHub Blog",
         "publisher": "GitHub Copilot Blog",
         "url": "https://github.blog/tag/github-copilot/",
-        "publishedAt": "2026-05-24T00:02:59.715Z"
+        "publishedAt": "2026-05-23T23:55:03.910Z"
       },
       {
         "title": "Replit — Replit Blog – Product updates from the team",
         "publisher": "Replit Blog",
         "url": "https://blog.replit.com/",
-        "publishedAt": "2026-05-24T00:02:59.434Z"
+        "publishedAt": "2026-05-23T23:55:03.645Z"
       },
       {
         "title": "Datasette Agent",
@@ -461,20 +461,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.807Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.523Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24_vi",
-    "slug": "ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-24",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23_vi",
+    "slug": "ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-23",
     "lang": "vi",
     "category": "ai-image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.611Z",
+    "publishedAt": "2026-05-23T23:55:21.510Z",
     "readingTime": 1,
     "sourceCount": 8,
     "tags": [
@@ -541,13 +541,13 @@ export const generatedArticles: Article[] = [
         "title": "Blog | Black Forest Labs",
         "publisher": "Black Forest Labs",
         "url": "https://blackforestlabs.ai/blog/",
-        "publishedAt": "2026-05-24T00:02:59.625Z"
+        "publishedAt": "2026-05-23T23:55:03.777Z"
       },
       {
         "title": "Blog – Replicate",
         "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
-        "publishedAt": "2026-05-24T00:02:58.978Z"
+        "publishedAt": "2026-05-23T23:55:03.410Z"
       },
       {
         "title": "I made an Anima AI Character & Artist search engine with 49,000 sample images",
@@ -562,10 +562,10 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-23T14:37:59.000Z"
       },
       {
-        "title": "Microsoft Lens First Tests: It's Pretty Decent! - ComfyUI Native Support About to Be Merged",
+        "title": "Help with Anima.",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlw09a/microsoft_lens_first_tests_its_pretty_decent/",
-        "publishedAt": "2026-05-23T23:49:43.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
+        "publishedAt": "2026-05-23T19:35:15.000Z"
       },
       {
         "title": "VNCCS PoseStudio BIG UPDATE 0.4.19",
@@ -577,32 +577,32 @@ export const generatedArticles: Article[] = [
         "title": "AI Video Research & Innovation | Runway AI",
         "publisher": "Runway Research",
         "url": "https://runwayml.com/research",
-        "publishedAt": "2026-05-24T00:02:59.044Z"
+        "publishedAt": "2026-05-23T23:55:03.233Z"
       },
       {
         "title": "ComfyUI Blog | Robin | Substack",
         "publisher": "ComfyUI Blog",
         "url": "https://blog.comfy.org/",
-        "publishedAt": "2026-05-24T00:02:59.127Z"
+        "publishedAt": "2026-05-23T23:55:03.398Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.611Z",
-      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.510Z",
+      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24_en",
-    "slug": "ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-24",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23_en",
+    "slug": "ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-23",
     "lang": "en",
     "category": "ai-image",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.818Z",
+    "publishedAt": "2026-05-23T23:55:28.657Z",
     "readingTime": 1,
     "sourceCount": 8,
     "tags": [
@@ -669,13 +669,13 @@ export const generatedArticles: Article[] = [
         "title": "Blog | Black Forest Labs",
         "publisher": "Black Forest Labs",
         "url": "https://blackforestlabs.ai/blog/",
-        "publishedAt": "2026-05-24T00:02:59.625Z"
+        "publishedAt": "2026-05-23T23:55:03.777Z"
       },
       {
         "title": "Blog – Replicate",
         "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
-        "publishedAt": "2026-05-24T00:02:58.978Z"
+        "publishedAt": "2026-05-23T23:55:03.410Z"
       },
       {
         "title": "I made an Anima AI Character & Artist search engine with 49,000 sample images",
@@ -690,10 +690,10 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-23T14:37:59.000Z"
       },
       {
-        "title": "Microsoft Lens First Tests: It's Pretty Decent! - ComfyUI Native Support About to Be Merged",
+        "title": "Help with Anima.",
         "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlw09a/microsoft_lens_first_tests_its_pretty_decent/",
-        "publishedAt": "2026-05-23T23:49:43.000Z"
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
+        "publishedAt": "2026-05-23T19:35:15.000Z"
       },
       {
         "title": "VNCCS PoseStudio BIG UPDATE 0.4.19",
@@ -705,32 +705,32 @@ export const generatedArticles: Article[] = [
         "title": "AI Video Research & Innovation | Runway AI",
         "publisher": "Runway Research",
         "url": "https://runwayml.com/research",
-        "publishedAt": "2026-05-24T00:02:59.044Z"
+        "publishedAt": "2026-05-23T23:55:03.233Z"
       },
       {
         "title": "ComfyUI Blog | Robin | Substack",
         "publisher": "ComfyUI Blog",
         "url": "https://blog.comfy.org/",
-        "publishedAt": "2026-05-24T00:02:59.127Z"
+        "publishedAt": "2026-05-23T23:55:03.398Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.818Z",
-      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.657Z",
+      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-24_vi",
-    "slug": "kling-ai-goc-nhin-cho-creator-va-builder-2026-05-24",
+    "id": "cluster_ai-video_1_kling-ai_2026-05-23_vi",
+    "slug": "kling-ai-goc-nhin-cho-creator-va-builder-2026-05-23",
     "lang": "vi",
     "category": "ai-video",
     "title": "Kling AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.649Z",
+    "publishedAt": "2026-05-23T23:55:21.637Z",
     "readingTime": 1,
     "sourceCount": 4,
     "tags": [
@@ -797,7 +797,7 @@ export const generatedArticles: Article[] = [
         "title": "Pika blog",
         "publisher": "Pika Labs Blog",
         "url": "https://pika.art/blog",
-        "publishedAt": "2026-05-24T00:02:59.200Z"
+        "publishedAt": "2026-05-23T23:55:03.562Z"
       },
       {
         "title": "Featured Titles + Latest Releases",
@@ -815,26 +815,26 @@ export const generatedArticles: Article[] = [
         "title": "Kling AI",
         "publisher": "Kling AI Blog",
         "url": "https://klingai.com/blog",
-        "publishedAt": "2026-05-24T00:03:00.494Z"
+        "publishedAt": "2026-05-23T23:55:04.894Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.649Z",
-      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.637Z",
+      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-24_en",
-    "slug": "kling-ai-creator-and-builder-analysis-2026-05-24",
+    "id": "cluster_ai-video_1_kling-ai_2026-05-23_en",
+    "slug": "kling-ai-creator-and-builder-analysis-2026-05-23",
     "lang": "en",
     "category": "ai-video",
     "title": "Kling AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.829Z",
+    "publishedAt": "2026-05-23T23:55:28.670Z",
     "readingTime": 1,
     "sourceCount": 4,
     "tags": [
@@ -901,7 +901,7 @@ export const generatedArticles: Article[] = [
         "title": "Pika blog",
         "publisher": "Pika Labs Blog",
         "url": "https://pika.art/blog",
-        "publishedAt": "2026-05-24T00:02:59.200Z"
+        "publishedAt": "2026-05-23T23:55:03.562Z"
       },
       {
         "title": "Featured Titles + Latest Releases",
@@ -919,26 +919,26 @@ export const generatedArticles: Article[] = [
         "title": "Kling AI",
         "publisher": "Kling AI Blog",
         "url": "https://klingai.com/blog",
-        "publishedAt": "2026-05-24T00:03:00.494Z"
+        "publishedAt": "2026-05-23T23:55:04.894Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.829Z",
-      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.670Z",
+      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24_vi",
-    "slug": "an-update-on-nodes-2-0-from-comfy-org-goc-nhin-cho-creator-2026-05-24",
+    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_vi",
+    "slug": "an-update-on-nodes-2-0-from-comfy-org-goc-nhin-cho-creator-2026-05-23",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.837Z",
+    "publishedAt": "2026-05-23T23:55:21.655Z",
     "readingTime": 1,
     "sourceCount": 3,
     "tags": [
@@ -1011,32 +1011,32 @@ export const generatedArticles: Article[] = [
         "title": "What's New in Cursor — Latest Updates & Release Notes",
         "publisher": "Cursor Changelog",
         "url": "https://www.cursor.com/changelog",
-        "publishedAt": "2026-05-24T00:02:59.456Z"
+        "publishedAt": "2026-05-23T23:55:03.460Z"
       },
       {
         "title": "Vercel AI Blog signal for ai-vibe-coding",
         "publisher": "Vercel AI Blog",
         "url": "https://vercel.com/blog/ai",
-        "publishedAt": "2026-05-24T00:02:59.151Z"
+        "publishedAt": "2026-05-23T23:55:03.544Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.837Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.655Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24_en",
-    "slug": "an-update-on-nodes-2-0-from-comfy-org-creator-and-builder-a-2026-05-24",
+    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_en",
+    "slug": "an-update-on-nodes-2-0-from-comfy-org-creator-and-builder-a-2026-05-23",
     "lang": "en",
     "category": "ai-vibe-coding",
     "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
     "subtitle": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.891Z",
+    "publishedAt": "2026-05-23T23:55:28.568Z",
     "readingTime": 1,
     "sourceCount": 3,
     "tags": [
@@ -1109,256 +1109,32 @@ export const generatedArticles: Article[] = [
         "title": "What's New in Cursor — Latest Updates & Release Notes",
         "publisher": "Cursor Changelog",
         "url": "https://www.cursor.com/changelog",
-        "publishedAt": "2026-05-24T00:02:59.456Z"
+        "publishedAt": "2026-05-23T23:55:03.460Z"
       },
       {
         "title": "Vercel AI Blog signal for ai-vibe-coding",
         "publisher": "Vercel AI Blog",
         "url": "https://vercel.com/blog/ai",
-        "publishedAt": "2026-05-24T00:02:59.151Z"
+        "publishedAt": "2026-05-23T23:55:03.544Z"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.891Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.568Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-24_vi",
-    "slug": "multi-referencelatent-goc-nhin-cho-creator-va-builder-2026-05-24",
-    "lang": "vi",
-    "category": "ai-image",
-    "title": "Multi Referencelatent: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.740Z",
-    "readingTime": 1,
-    "sourceCount": 8,
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-      },
-      {
-        "text": "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that)."
-      },
-      {
-        "text": "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).\n\n• But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Stability AI Blog signal for ai-image",
-        "publisher": "Stability AI Blog",
-        "url": "https://stability.ai/news/rss",
-        "publishedAt": "2026-05-24T00:02:58.840Z"
-      },
-      {
-        "title": "Multi Referencelatent",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
-        "publishedAt": "2026-05-23T17:39:10.000Z"
-      },
-      {
-        "title": "Is anyone else using Qwen and finding it as great as I do?",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlixec/is_anyone_else_using_qwen_and_finding_it_as_great/",
-        "publishedAt": "2026-05-23T15:05:23.000Z"
-      },
-      {
-        "title": "Really impressed with LTX 2.3 (1.1). Mind blowing results!",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlleg3/really_impressed_with_ltx_23_11_mind_blowing/",
-        "publishedAt": "2026-05-23T16:40:37.000Z"
-      },
-      {
-        "title": "I've had some time to experiment with Trellis, and here are the results; I still need a lot more time to learn and research.",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlj5vw/ive_had_some_time_to_experiment_with_trellis_and/",
-        "publishedAt": "2026-05-23T15:14:49.000Z"
-      },
-      {
-        "title": "V8.1 Alpha is out!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "publishedAt": "2026-04-14T21:44:04.000Z"
-      },
-      {
-        "title": "V8 alpha is here!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "publishedAt": "2026-03-17T21:39:40.000Z"
-      },
-      {
-        "title": "Probable changes to the subreddit",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
-        "publishedAt": "2022-09-26T20:55:02.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.740Z",
-      "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-24",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-24_en",
-    "slug": "multi-referencelatent-creator-and-builder-analysis-2026-05-24",
-    "lang": "en",
-    "category": "ai-image",
-    "title": "Multi Referencelatent: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.815Z",
-    "readingTime": 1,
-    "sourceCount": 8,
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-      },
-      {
-        "text": "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that)."
-      },
-      {
-        "text": "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).\n\n• But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Stability AI Blog signal for ai-image",
-        "publisher": "Stability AI Blog",
-        "url": "https://stability.ai/news/rss",
-        "publishedAt": "2026-05-24T00:02:58.840Z"
-      },
-      {
-        "title": "Multi Referencelatent",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
-        "publishedAt": "2026-05-23T17:39:10.000Z"
-      },
-      {
-        "title": "Is anyone else using Qwen and finding it as great as I do?",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlixec/is_anyone_else_using_qwen_and_finding_it_as_great/",
-        "publishedAt": "2026-05-23T15:05:23.000Z"
-      },
-      {
-        "title": "Really impressed with LTX 2.3 (1.1). Mind blowing results!",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlleg3/really_impressed_with_ltx_23_11_mind_blowing/",
-        "publishedAt": "2026-05-23T16:40:37.000Z"
-      },
-      {
-        "title": "I've had some time to experiment with Trellis, and here are the results; I still need a lot more time to learn and research.",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlj5vw/ive_had_some_time_to_experiment_with_trellis_and/",
-        "publishedAt": "2026-05-23T15:14:49.000Z"
-      },
-      {
-        "title": "V8.1 Alpha is out!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "publishedAt": "2026-04-14T21:44:04.000Z"
-      },
-      {
-        "title": "V8 alpha is here!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "publishedAt": "2026-03-17T21:39:40.000Z"
-      },
-      {
-        "title": "Probable changes to the subreddit",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
-        "publishedAt": "2022-09-26T20:55:02.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.815Z",
-      "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-24",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24_vi",
-    "slug": "after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-24",
+    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_vi",
+    "slug": "after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-23",
     "lang": "vi",
     "category": "ai-agentic",
     "title": "After 6 months of running AI agents in production I think the framework you p...: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.729Z",
+    "publishedAt": "2026-05-23T23:55:21.601Z",
     "readingTime": 1,
     "sourceCount": 8,
     "tags": [
@@ -1409,13 +1185,13 @@ export const generatedArticles: Article[] = [
         "title": "OpenAI Blog signal for ai-agentic",
         "publisher": "OpenAI Blog",
         "url": "https://openai.com/blog",
-        "publishedAt": "2026-05-24T00:02:58.779Z"
+        "publishedAt": "2026-05-23T23:55:03.072Z"
       },
       {
         "title": "MCP Blog signal for ai-agentic",
         "publisher": "MCP Blog",
         "url": "https://modelcontextprotocol.io/blog",
-        "publishedAt": "2026-05-24T00:02:59.025Z"
+        "publishedAt": "2026-05-23T23:55:03.675Z"
       },
       {
         "title": "Weekly Thread: Project Display",
@@ -1436,16 +1212,16 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-23T13:47:26.000Z"
       },
       {
+        "title": "Agentic AI in Big Tech and Enterprise",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
+        "publishedAt": "2026-05-23T17:24:55.000Z"
+      },
+      {
         "title": "Real use cases for ai agents what u have done",
         "publisher": "r/AI_Agents",
         "url": "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
         "publishedAt": "2026-05-23T23:13:24.000Z"
-      },
-      {
-        "title": "if software is basically free to clone now, what actually stops someone from copying your app?",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlw28s/if_software_is_basically_free_to_clone_now_what/",
-        "publishedAt": "2026-05-23T23:52:15.000Z"
       },
       {
         "title": "AsymFLUX.2-klein-9B is all about textures",
@@ -1457,20 +1233,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.729Z",
-      "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.601Z",
+      "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24_en",
-    "slug": "after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-24",
+    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_en",
+    "slug": "after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-23",
     "lang": "en",
     "category": "ai-agentic",
     "title": "After 6 months of running AI agents in production I think the framework you p...: creator and builder analysis",
     "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.970Z",
+    "publishedAt": "2026-05-23T23:55:28.769Z",
     "readingTime": 1,
     "sourceCount": 8,
     "tags": [
@@ -1521,13 +1297,13 @@ export const generatedArticles: Article[] = [
         "title": "OpenAI Blog signal for ai-agentic",
         "publisher": "OpenAI Blog",
         "url": "https://openai.com/blog",
-        "publishedAt": "2026-05-24T00:02:58.779Z"
+        "publishedAt": "2026-05-23T23:55:03.072Z"
       },
       {
         "title": "MCP Blog signal for ai-agentic",
         "publisher": "MCP Blog",
         "url": "https://modelcontextprotocol.io/blog",
-        "publishedAt": "2026-05-24T00:02:59.025Z"
+        "publishedAt": "2026-05-23T23:55:03.675Z"
       },
       {
         "title": "Weekly Thread: Project Display",
@@ -1548,16 +1324,16 @@ export const generatedArticles: Article[] = [
         "publishedAt": "2026-05-23T13:47:26.000Z"
       },
       {
+        "title": "Agentic AI in Big Tech and Enterprise",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
+        "publishedAt": "2026-05-23T17:24:55.000Z"
+      },
+      {
         "title": "Real use cases for ai agents what u have done",
         "publisher": "r/AI_Agents",
         "url": "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
         "publishedAt": "2026-05-23T23:13:24.000Z"
-      },
-      {
-        "title": "if software is basically free to clone now, what actually stops someone from copying your app?",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlw28s/if_software_is_basically_free_to_clone_now_what/",
-        "publishedAt": "2026-05-23T23:52:15.000Z"
       },
       {
         "title": "AsymFLUX.2-klein-9B is all about textures",
@@ -1569,20 +1345,244 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.970Z",
-      "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.769Z",
+      "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24_vi",
-    "slug": "the-eye-doctor-by-jboogxcreative-me-goc-nhin-cho-creato-2026-05-24",
+    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_vi",
+    "slug": "multi-referencelatent-goc-nhin-cho-creator-va-builder-2026-05-23",
+    "lang": "vi",
+    "category": "ai-image",
+    "title": "Multi Referencelatent: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-05-23T23:55:21.590Z",
+    "readingTime": 1,
+    "sourceCount": 8,
+    "tags": [
+      "ai-image",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "highlights": [
+      {
+        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      },
+      {
+        "text": "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that)."
+      },
+      {
+        "text": "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
+      }
+    ],
+    "sections": [
+      {
+        "id": "main",
+        "heading": "Phân tích",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).\n\n• But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Vì sao đáng chú ý",
+        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+        "Thử nghiệm trên một workflow nhỏ trước khi scale",
+        "Theo dõi diễn biến trong 1-2 tuần tới"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Stability AI Blog signal for ai-image",
+        "publisher": "Stability AI Blog",
+        "url": "https://stability.ai/news/rss",
+        "publishedAt": "2026-05-23T23:55:03.217Z"
+      },
+      {
+        "title": "Multi Referencelatent",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
+        "publishedAt": "2026-05-23T17:39:10.000Z"
+      },
+      {
+        "title": "Is anyone else using Qwen and finding it as great as I do?",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tlixec/is_anyone_else_using_qwen_and_finding_it_as_great/",
+        "publishedAt": "2026-05-23T15:05:23.000Z"
+      },
+      {
+        "title": "Really impressed with LTX 2.3 (1.1). Mind blowing results!",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tlleg3/really_impressed_with_ltx_23_11_mind_blowing/",
+        "publishedAt": "2026-05-23T16:40:37.000Z"
+      },
+      {
+        "title": "I've had some time to experiment with Trellis, and here are the results; I still need a lot more time to learn and research.",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tlj5vw/ive_had_some_time_to_experiment_with_trellis_and/",
+        "publishedAt": "2026-05-23T15:14:49.000Z"
+      },
+      {
+        "title": "V8.1 Alpha is out!",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "publishedAt": "2026-04-14T21:44:04.000Z"
+      },
+      {
+        "title": "V8 alpha is here!",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "publishedAt": "2026-03-17T21:39:40.000Z"
+      },
+      {
+        "title": "Probable changes to the subreddit",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
+        "publishedAt": "2022-09-26T20:55:02.000Z"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-05-23T23:55:21.590Z",
+      "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_en",
+    "slug": "multi-referencelatent-creator-and-builder-analysis-2026-05-23",
+    "lang": "en",
+    "category": "ai-image",
+    "title": "Multi Referencelatent: creator and builder analysis",
+    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-05-23T23:55:28.580Z",
+    "readingTime": 1,
+    "sourceCount": 8,
+    "tags": [
+      "ai-image",
+      "ai-radar",
+      "daily-signal"
+    ],
+    "highlights": [
+      {
+        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      },
+      {
+        "text": "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that)."
+      },
+      {
+        "text": "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
+      }
+    ],
+    "sections": [
+      {
+        "id": "main",
+        "heading": "Analysis",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).\n\n• But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Why This Matters",
+        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Verify the source trail from listed sources",
+        "Test in one small workflow before scaling",
+        "Monitor developments over the next 1-2 weeks"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Stability AI Blog signal for ai-image",
+        "publisher": "Stability AI Blog",
+        "url": "https://stability.ai/news/rss",
+        "publishedAt": "2026-05-23T23:55:03.217Z"
+      },
+      {
+        "title": "Multi Referencelatent",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
+        "publishedAt": "2026-05-23T17:39:10.000Z"
+      },
+      {
+        "title": "Is anyone else using Qwen and finding it as great as I do?",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tlixec/is_anyone_else_using_qwen_and_finding_it_as_great/",
+        "publishedAt": "2026-05-23T15:05:23.000Z"
+      },
+      {
+        "title": "Really impressed with LTX 2.3 (1.1). Mind blowing results!",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tlleg3/really_impressed_with_ltx_23_11_mind_blowing/",
+        "publishedAt": "2026-05-23T16:40:37.000Z"
+      },
+      {
+        "title": "I've had some time to experiment with Trellis, and here are the results; I still need a lot more time to learn and research.",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tlj5vw/ive_had_some_time_to_experiment_with_trellis_and/",
+        "publishedAt": "2026-05-23T15:14:49.000Z"
+      },
+      {
+        "title": "V8.1 Alpha is out!",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+        "publishedAt": "2026-04-14T21:44:04.000Z"
+      },
+      {
+        "title": "V8 alpha is here!",
+        "publisher": "r/midjourney",
+        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+        "publishedAt": "2026-03-17T21:39:40.000Z"
+      },
+      {
+        "title": "Probable changes to the subreddit",
+        "publisher": "r/MediaSynthesis",
+        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
+        "publishedAt": "2022-09-26T20:55:02.000Z"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-05-23T23:55:28.580Z",
+      "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_vi",
+    "slug": "the-eye-doctor-by-jboogxcreative-me-goc-nhin-cho-creato-2026-05-23",
     "lang": "vi",
     "category": "ai-video",
     "title": "“The Eye Doctor” by jboogxcreative (me): góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.769Z",
+    "publishedAt": "2026-05-23T23:55:21.540Z",
     "readingTime": 1,
     "sourceCount": 3,
     "tags": [
@@ -1651,20 +1651,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.769Z",
-      "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.540Z",
+      "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24_en",
-    "slug": "the-eye-doctor-by-jboogxcreative-me-creator-and-builder-2026-05-24",
+    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_en",
+    "slug": "the-eye-doctor-by-jboogxcreative-me-creator-and-builder-2026-05-23",
     "lang": "en",
     "category": "ai-video",
     "title": "“The Eye Doctor” by jboogxcreative (me): creator and builder analysis",
     "subtitle": "Signal synthesized from r/aivideo, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.555Z",
+    "publishedAt": "2026-05-23T23:55:28.402Z",
     "readingTime": 1,
     "sourceCount": 3,
     "tags": [
@@ -1733,20 +1733,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.555Z",
-      "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.402Z",
+      "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-24_vi",
-    "slug": "flying-with-angels-goc-nhin-cho-creator-va-builder-2026-05-24",
+    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_vi",
+    "slug": "flying-with-angels-goc-nhin-cho-creator-va-builder-2026-05-23",
     "lang": "vi",
     "category": "prompt-image",
     "title": "Flying With Angels: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.779Z",
+    "publishedAt": "2026-05-23T23:55:22.124Z",
     "readingTime": 1,
     "sourceCount": 2,
     "tags": [
@@ -1806,20 +1806,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.779Z",
-      "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:22.124Z",
+      "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-24_en",
-    "slug": "flying-with-angels-creator-and-builder-analysis-2026-05-24",
+    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_en",
+    "slug": "flying-with-angels-creator-and-builder-analysis-2026-05-23",
     "lang": "en",
     "category": "prompt-image",
     "title": "Flying With Angels: creator and builder analysis",
     "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.875Z",
+    "publishedAt": "2026-05-23T23:55:29.085Z",
     "readingTime": 1,
     "sourceCount": 2,
     "tags": [
@@ -1879,20 +1879,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.875Z",
-      "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:29.085Z",
+      "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-24_vi",
-    "slug": "land-of-war-135-goc-nhin-cho-creator-va-builder-2026-05-24",
+    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_vi",
+    "slug": "land-of-war-135-goc-nhin-cho-creator-va-builder-2026-05-23",
     "lang": "vi",
     "category": "prompt-image",
     "title": "Land of War #135: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.929Z",
+    "publishedAt": "2026-05-23T23:55:21.826Z",
     "readingTime": 1,
     "sourceCount": 1,
     "tags": [
@@ -1943,20 +1943,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.929Z",
-      "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.826Z",
+      "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-24_en",
-    "slug": "land-of-war-135-creator-and-builder-analysis-2026-05-24",
+    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_en",
+    "slug": "land-of-war-135-creator-and-builder-analysis-2026-05-23",
     "lang": "en",
     "category": "prompt-image",
     "title": "Land of War #135: creator and builder analysis",
     "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.766Z",
+    "publishedAt": "2026-05-23T23:55:28.834Z",
     "readingTime": 1,
     "sourceCount": 1,
     "tags": [
@@ -2007,20 +2007,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.766Z",
-      "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.834Z",
+      "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24_vi",
-    "slug": "ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-24",
+    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_vi",
+    "slug": "ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23",
     "lang": "vi",
     "category": "prompt-video",
     "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.832Z",
+    "publishedAt": "2026-05-23T23:55:22.053Z",
     "readingTime": 1,
     "sourceCount": 2,
     "tags": [
@@ -2080,20 +2080,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.832Z",
-      "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:22.053Z",
+      "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24_en",
-    "slug": "ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-24",
+    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_en",
+    "slug": "ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23",
     "lang": "en",
     "category": "prompt-video",
     "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
     "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.592Z",
+    "publishedAt": "2026-05-23T23:55:29.191Z",
     "readingTime": 1,
     "sourceCount": 2,
     "tags": [
@@ -2153,20 +2153,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.592Z",
-      "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:29.191Z",
+      "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24_vi",
-    "slug": "review-50-years-of-text-games-by-aaron-reed-goc-nhin-2026-05-24",
+    "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_vi",
+    "slug": "review-50-years-of-text-games-by-aaron-reed-goc-nhin-2026-05-23",
     "lang": "vi",
     "category": "prompt-video",
     "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-24T00:03:14.907Z",
+    "publishedAt": "2026-05-23T23:55:21.681Z",
     "readingTime": 1,
     "sourceCount": 2,
     "tags": [
@@ -2226,20 +2226,20 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-24T00:03:14.907Z",
-      "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:21.681Z",
+      "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"
   },
   {
-    "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24_en",
-    "slug": "review-50-years-of-text-games-by-aaron-reed-creator-a-2026-05-24",
+    "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_en",
+    "slug": "review-50-years-of-text-games-by-aaron-reed-creator-a-2026-05-23",
     "lang": "en",
     "category": "prompt-video",
     "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": creator and builder analysis",
     "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-24T00:03:21.795Z",
+    "publishedAt": "2026-05-23T23:55:28.675Z",
     "readingTime": 1,
     "sourceCount": 2,
     "tags": [
@@ -2299,8 +2299,8 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-24T00:03:21.795Z",
-      "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24",
+      "generatedAt": "2026-05-23T23:55:28.675Z",
+      "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
       "confidence": "medium"
     },
     "status": "published"

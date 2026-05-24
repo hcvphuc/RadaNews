@@ -19,7 +19,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24_vi",
+      "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-agentic",
       "title": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
@@ -90,15 +90,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.577Z",
-        "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.547Z",
+        "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24_en",
+      "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_en",
       "lang": "en",
       "category": "ai-agentic",
       "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
@@ -169,8 +169,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.527Z",
-        "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.527Z",
+        "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -211,7 +211,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24_vi",
+      "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-vibe-coding",
       "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
@@ -274,15 +274,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.634Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.544Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24_en",
+      "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23_en",
       "lang": "en",
       "category": "ai-vibe-coding",
       "title": "Research \\ Anthropic: creator and builder analysis",
@@ -345,8 +345,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.807Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.523Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -387,7 +387,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24_vi",
+      "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-image",
       "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
@@ -440,17 +440,17 @@
         "src_black-forest-labs_db0e6d09e99dbd6f",
         "src_replicate-blog_572c1f4ac9c0ea5c",
         "src_reddit-stablediffusion_e99db46e2ce55fdc",
-        "src_reddit-stablediffusion_7148aa50cea56dcf",
         "src_reddit-stablediffusion_8c31397b15af82b1",
         "src_comfyui-blog_fa3eb47ac5fb52c8",
-        "src_reddit-comfyui_c39c8fc57dbcc9c1"
+        "src_reddit-comfyui_c39c8fc57dbcc9c1",
+        "src_reddit-stablediffusion_475a4e7e3e1145e0"
       ],
       "sourceUrls": [
         "https://blackforestlabs.ai/blog/",
         "https://replicate.com/blog",
         "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/",
         "https://www.reddit.com/r/StableDiffusion/comments/1tli8j5/vnccs_posestudio_big_update_0419/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tlw09a/microsoft_lens_first_tests_its_pretty_decent/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
         "https://www.reddit.com/r/comfyui/comments/1tli954/vnccs_posestudio_big_update_0419/",
         "https://runwayml.com/research",
         "https://blog.comfy.org/"
@@ -458,15 +458,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.611Z",
-        "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.510Z",
+        "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24_en",
+      "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23_en",
       "lang": "en",
       "category": "ai-image",
       "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
@@ -519,17 +519,17 @@
         "src_black-forest-labs_db0e6d09e99dbd6f",
         "src_replicate-blog_572c1f4ac9c0ea5c",
         "src_reddit-stablediffusion_e99db46e2ce55fdc",
-        "src_reddit-stablediffusion_7148aa50cea56dcf",
         "src_reddit-stablediffusion_8c31397b15af82b1",
         "src_comfyui-blog_fa3eb47ac5fb52c8",
-        "src_reddit-comfyui_c39c8fc57dbcc9c1"
+        "src_reddit-comfyui_c39c8fc57dbcc9c1",
+        "src_reddit-stablediffusion_475a4e7e3e1145e0"
       ],
       "sourceUrls": [
         "https://blackforestlabs.ai/blog/",
         "https://replicate.com/blog",
         "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/",
         "https://www.reddit.com/r/StableDiffusion/comments/1tli8j5/vnccs_posestudio_big_update_0419/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tlw09a/microsoft_lens_first_tests_its_pretty_decent/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
         "https://www.reddit.com/r/comfyui/comments/1tli954/vnccs_posestudio_big_update_0419/",
         "https://runwayml.com/research",
         "https://blog.comfy.org/"
@@ -537,8 +537,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.818Z",
-        "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.657Z",
+        "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -579,7 +579,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-video_1_kling-ai_2026-05-24_vi",
+      "id": "cluster_ai-video_1_kling-ai_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-video",
       "title": "Kling AI: góc nhìn cho creator và builder",
@@ -642,15 +642,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.649Z",
-        "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.637Z",
+        "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-video_1_kling-ai_2026-05-24_en",
+      "id": "cluster_ai-video_1_kling-ai_2026-05-23_en",
       "lang": "en",
       "category": "ai-video",
       "title": "Kling AI: creator and builder analysis",
@@ -713,8 +713,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.829Z",
-        "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.670Z",
+        "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -755,7 +755,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24_vi",
+      "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-vibe-coding",
       "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
@@ -806,7 +806,7 @@
       "sourceIds": [
         "src_reddit-comfyui_f0fcbff5cbf30b57",
         "src_cursor-changelog_99cdbb7e2d70df11",
-        "src_vercel-ai-blog_2026-05-24_fallback"
+        "src_vercel-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
@@ -816,15 +816,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.837Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.655Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24_en",
+      "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_en",
       "lang": "en",
       "category": "ai-vibe-coding",
       "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
@@ -875,7 +875,7 @@
       "sourceIds": [
         "src_reddit-comfyui_f0fcbff5cbf30b57",
         "src_cursor-changelog_99cdbb7e2d70df11",
-        "src_vercel-ai-blog_2026-05-24_fallback"
+        "src_vercel-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
@@ -885,8 +885,200 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.891Z",
-        "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.568Z",
+        "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
+        "confidence": "high",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "viValidation": {
+      "ok": false,
+      "errors": [
+        "Body is too thin",
+        "Missing TL;DR"
+      ]
+    },
+    "enValidation": {
+      "ok": false,
+      "errors": [
+        "Body is too thin",
+        "Missing TL;DR"
+      ]
+    }
+  },
+  {
+    "outline": {
+      "titleDirection": "After 6 months of running AI agents in production I think the framework you p...",
+      "angle": "editorial analysis for builders and creators",
+      "sections": [
+        "TL;DR",
+        "Main analysis",
+        "Why it matters",
+        "Creator / Builder takeaway",
+        "Sources"
+      ],
+      "sourceFacts": [
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "Weekly thread to show off your AI Agents and LLM Apps!",
+        "Top voted projects will be featured in our weekly newsletter .",
+        "submitted by /u/help-me-grow [link] [comments]"
+      ]
+    },
+    "vi": {
+      "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_vi",
+      "lang": "vi",
+      "category": "ai-agentic",
+      "title": "After 6 months of running AI agents in production I think the framework you p...: góc nhìn cho creator và builder",
+      "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+      "highlights": [
+        {
+          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+        },
+        {
+          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+        },
+        {
+          "text": "Weekly thread to show off your AI Agents and LLM Apps!"
+        }
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "heading": "Phân tích",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Weekly thread to show off your AI Agents and LLM Apps!"
+            }
+          ]
+        }
+      ],
+      "insightBlocks": [
+        {
+          "title": "Vì sao đáng chú ý",
+          "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
+          "variant": "analysis"
+        }
+      ],
+      "takeaway": {
+        "title": "Creator / Builder Takeaway",
+        "items": [
+          "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
+          "Thử nghiệm trên một workflow nhỏ trước khi scale",
+          "Theo dõi diễn biến trong 1-2 tuần tới"
+        ]
+      },
+      "tags": [
+        "ai-agentic",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_reddit-aiagents_c730b44f0330bb58",
+        "src_reddit-aiagents_53817c29175c6392",
+        "src_reddit-stablediffusion_c9e3aaf046157248",
+        "src_reddit-aiagents_7b684a9782df210c",
+        "src_reddit-aiagents_c7605a4726e06ec4",
+        "src_reddit-aiagents_a8d909420e99b084",
+        "src_openai-blog_2026-05-23_fallback",
+        "src_mcp-blog_2026-05-23_fallback"
+      ],
+      "sourceUrls": [
+        "https://openai.com/blog",
+        "https://modelcontextprotocol.io/blog",
+        "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlgz6o/after_6_months_of_running_ai_agents_in_production/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlt6md/asymflux2klein9b_is_all_about_textures/"
+      ],
+      "generation": {
+        "model": "gemma4:31b",
+        "promptVersion": "article-vi-v2",
+        "generatedAt": "2026-05-23T23:55:21.601Z",
+        "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
+        "confidence": "high",
+        "mode": "template-fallback"
+      },
+      "status": "draft"
+    },
+    "en": {
+      "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_en",
+      "lang": "en",
+      "category": "ai-agentic",
+      "title": "After 6 months of running AI agents in production I think the framework you p...: creator and builder analysis",
+      "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, scored by recency, content depth, and source reliability.",
+      "highlights": [
+        {
+          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+        },
+        {
+          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+        },
+        {
+          "text": "Weekly thread to show off your AI Agents and LLM Apps!"
+        }
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "heading": "Analysis",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Weekly thread to show off your AI Agents and LLM Apps!"
+            }
+          ]
+        }
+      ],
+      "insightBlocks": [
+        {
+          "title": "Why This Matters",
+          "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
+          "variant": "analysis"
+        }
+      ],
+      "takeaway": {
+        "title": "Creator / Builder Takeaway",
+        "items": [
+          "Verify the source trail from listed sources",
+          "Test in one small workflow before scaling",
+          "Monitor developments over the next 1-2 weeks"
+        ]
+      },
+      "tags": [
+        "ai-agentic",
+        "ai-radar",
+        "daily-signal"
+      ],
+      "sourceIds": [
+        "src_reddit-aiagents_c730b44f0330bb58",
+        "src_reddit-aiagents_53817c29175c6392",
+        "src_reddit-stablediffusion_c9e3aaf046157248",
+        "src_reddit-aiagents_7b684a9782df210c",
+        "src_reddit-aiagents_c7605a4726e06ec4",
+        "src_reddit-aiagents_a8d909420e99b084",
+        "src_openai-blog_2026-05-23_fallback",
+        "src_mcp-blog_2026-05-23_fallback"
+      ],
+      "sourceUrls": [
+        "https://openai.com/blog",
+        "https://modelcontextprotocol.io/blog",
+        "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlgz6o/after_6_months_of_running_ai_agents_in_production/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
+        "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
+        "https://www.reddit.com/r/StableDiffusion/comments/1tlt6md/asymflux2klein9b_is_all_about_textures/"
+      ],
+      "generation": {
+        "model": "gemma4:31b",
+        "promptVersion": "article-en-v2",
+        "generatedAt": "2026-05-23T23:55:28.769Z",
+        "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -927,7 +1119,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-image_2_multi-referencelatent_2026-05-24_vi",
+      "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-image",
       "title": "Multi Referencelatent: góc nhìn cho creator và builder",
@@ -983,7 +1175,7 @@
         "src_reddit-mediasynthesis_459f419f1f6e36c2",
         "src_reddit-comfyui_837868449b319243",
         "src_reddit-comfyui_7144adf926fdc7a9",
-        "src_stability-ai-blog_2026-05-24_fallback"
+        "src_stability-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://stability.ai/news/rss",
@@ -998,15 +1190,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.740Z",
-        "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.590Z",
+        "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-image_2_multi-referencelatent_2026-05-24_en",
+      "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_en",
       "lang": "en",
       "category": "ai-image",
       "title": "Multi Referencelatent: creator and builder analysis",
@@ -1062,7 +1254,7 @@
         "src_reddit-mediasynthesis_459f419f1f6e36c2",
         "src_reddit-comfyui_837868449b319243",
         "src_reddit-comfyui_7144adf926fdc7a9",
-        "src_stability-ai-blog_2026-05-24_fallback"
+        "src_stability-ai-blog_2026-05-23_fallback"
       ],
       "sourceUrls": [
         "https://stability.ai/news/rss",
@@ -1077,200 +1269,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.815Z",
-        "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-24",
-        "confidence": "high",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "viValidation": {
-      "ok": false,
-      "errors": [
-        "Body is too thin",
-        "Missing TL;DR"
-      ]
-    },
-    "enValidation": {
-      "ok": false,
-      "errors": [
-        "Body is too thin",
-        "Missing TL;DR"
-      ]
-    }
-  },
-  {
-    "outline": {
-      "titleDirection": "After 6 months of running AI agents in production I think the framework you p...",
-      "angle": "editorial analysis for builders and creators",
-      "sections": [
-        "TL;DR",
-        "Main analysis",
-        "Why it matters",
-        "Creator / Builder takeaway",
-        "Sources"
-      ],
-      "sourceFacts": [
-        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-        "Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-        "Weekly thread to show off your AI Agents and LLM Apps!",
-        "Top voted projects will be featured in our weekly newsletter .",
-        "submitted by /u/help-me-grow [link] [comments]"
-      ]
-    },
-    "vi": {
-      "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24_vi",
-      "lang": "vi",
-      "category": "ai-agentic",
-      "title": "After 6 months of running AI agents in production I think the framework you p...: góc nhìn cho creator và builder",
-      "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-      "highlights": [
-        {
-          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-        },
-        {
-          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-        },
-        {
-          "text": "Weekly thread to show off your AI Agents and LLM Apps!"
-        }
-      ],
-      "sections": [
-        {
-          "id": "main",
-          "heading": "Phân tích",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Weekly thread to show off your AI Agents and LLM Apps!"
-            }
-          ]
-        }
-      ],
-      "insightBlocks": [
-        {
-          "title": "Vì sao đáng chú ý",
-          "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-          "variant": "analysis"
-        }
-      ],
-      "takeaway": {
-        "title": "Creator / Builder Takeaway",
-        "items": [
-          "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-          "Thử nghiệm trên một workflow nhỏ trước khi scale",
-          "Theo dõi diễn biến trong 1-2 tuần tới"
-        ]
-      },
-      "tags": [
-        "ai-agentic",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_reddit-aiagents_c730b44f0330bb58",
-        "src_reddit-aiagents_17fa8dec3e7ece81",
-        "src_reddit-stablediffusion_c9e3aaf046157248",
-        "src_reddit-aiagents_7b684a9782df210c",
-        "src_reddit-aiagents_c7605a4726e06ec4",
-        "src_reddit-aiagents_a8d909420e99b084",
-        "src_openai-blog_2026-05-24_fallback",
-        "src_mcp-blog_2026-05-24_fallback"
-      ],
-      "sourceUrls": [
-        "https://openai.com/blog",
-        "https://modelcontextprotocol.io/blog",
-        "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tlgz6o/after_6_months_of_running_ai_agents_in_production/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tlw28s/if_software_is_basically_free_to_clone_now_what/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tlt6md/asymflux2klein9b_is_all_about_textures/"
-      ],
-      "generation": {
-        "model": "gemma4:31b",
-        "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.729Z",
-        "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24",
-        "confidence": "high",
-        "mode": "template-fallback"
-      },
-      "status": "draft"
-    },
-    "en": {
-      "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24_en",
-      "lang": "en",
-      "category": "ai-agentic",
-      "title": "After 6 months of running AI agents in production I think the framework you p...: creator and builder analysis",
-      "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, scored by recency, content depth, and source reliability.",
-      "highlights": [
-        {
-          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-        },
-        {
-          "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-        },
-        {
-          "text": "Weekly thread to show off your AI Agents and LLM Apps!"
-        }
-      ],
-      "sections": [
-        {
-          "id": "main",
-          "heading": "Analysis",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Weekly thread to show off your AI Agents and LLM Apps!"
-            }
-          ]
-        }
-      ],
-      "insightBlocks": [
-        {
-          "title": "Why This Matters",
-          "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-          "variant": "analysis"
-        }
-      ],
-      "takeaway": {
-        "title": "Creator / Builder Takeaway",
-        "items": [
-          "Verify the source trail from listed sources",
-          "Test in one small workflow before scaling",
-          "Monitor developments over the next 1-2 weeks"
-        ]
-      },
-      "tags": [
-        "ai-agentic",
-        "ai-radar",
-        "daily-signal"
-      ],
-      "sourceIds": [
-        "src_reddit-aiagents_c730b44f0330bb58",
-        "src_reddit-aiagents_17fa8dec3e7ece81",
-        "src_reddit-stablediffusion_c9e3aaf046157248",
-        "src_reddit-aiagents_7b684a9782df210c",
-        "src_reddit-aiagents_c7605a4726e06ec4",
-        "src_reddit-aiagents_a8d909420e99b084",
-        "src_openai-blog_2026-05-24_fallback",
-        "src_mcp-blog_2026-05-24_fallback"
-      ],
-      "sourceUrls": [
-        "https://openai.com/blog",
-        "https://modelcontextprotocol.io/blog",
-        "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tlgz6o/after_6_months_of_running_ai_agents_in_production/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
-        "https://www.reddit.com/r/AI_Agents/comments/1tlw28s/if_software_is_basically_free_to_clone_now_what/",
-        "https://www.reddit.com/r/StableDiffusion/comments/1tlt6md/asymflux2klein9b_is_all_about_textures/"
-      ],
-      "generation": {
-        "model": "gemma4:31b",
-        "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.970Z",
-        "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.580Z",
+        "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
         "confidence": "high",
         "mode": "template-fallback"
       },
@@ -1309,7 +1309,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24_vi",
+      "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_vi",
       "lang": "vi",
       "category": "ai-video",
       "title": "“The Eye Doctor” by jboogxcreative (me): góc nhìn cho creator và builder",
@@ -1370,15 +1370,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.769Z",
-        "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.540Z",
+        "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24_en",
+      "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_en",
       "lang": "en",
       "category": "ai-video",
       "title": "“The Eye Doctor” by jboogxcreative (me): creator and builder analysis",
@@ -1439,8 +1439,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.555Z",
-        "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.402Z",
+        "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
@@ -1478,7 +1478,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_prompt-image_1_flying-with-angels_2026-05-24_vi",
+      "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_vi",
       "lang": "vi",
       "category": "prompt-image",
       "title": "Flying With Angels: góc nhìn cho creator và builder",
@@ -1534,15 +1534,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.779Z",
-        "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:22.124Z",
+        "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-image_1_flying-with-angels_2026-05-24_en",
+      "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_en",
       "lang": "en",
       "category": "prompt-image",
       "title": "Flying With Angels: creator and builder analysis",
@@ -1598,8 +1598,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.875Z",
-        "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:29.085Z",
+        "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
@@ -1636,7 +1636,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_prompt-image_2_land-of-war-135_2026-05-24_vi",
+      "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_vi",
       "lang": "vi",
       "category": "prompt-image",
       "title": "Land of War #135: góc nhìn cho creator và builder",
@@ -1687,15 +1687,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.929Z",
-        "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.826Z",
+        "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-image_2_land-of-war-135_2026-05-24_en",
+      "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_en",
       "lang": "en",
       "category": "prompt-image",
       "title": "Land of War #135: creator and builder analysis",
@@ -1746,8 +1746,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.766Z",
-        "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.834Z",
+        "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
@@ -1785,7 +1785,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24_vi",
+      "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_vi",
       "lang": "vi",
       "category": "prompt-video",
       "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
@@ -1841,15 +1841,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.832Z",
-        "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:22.053Z",
+        "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24_en",
+      "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_en",
       "lang": "en",
       "category": "prompt-video",
       "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
@@ -1905,8 +1905,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.592Z",
-        "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:29.191Z",
+        "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
@@ -1944,7 +1944,7 @@
       ]
     },
     "vi": {
-      "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24_vi",
+      "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_vi",
       "lang": "vi",
       "category": "prompt-video",
       "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": góc nhìn cho creator và builder",
@@ -2000,15 +2000,15 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-vi-v2",
-        "generatedAt": "2026-05-24T00:03:14.907Z",
-        "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:21.681Z",
+        "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },
       "status": "draft"
     },
     "en": {
-      "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24_en",
+      "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_en",
       "lang": "en",
       "category": "prompt-video",
       "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": creator and builder analysis",
@@ -2064,8 +2064,8 @@
       "generation": {
         "model": "gemma4:31b",
         "promptVersion": "article-en-v2",
-        "generatedAt": "2026-05-24T00:03:21.795Z",
-        "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-24",
+        "generatedAt": "2026-05-23T23:55:28.675Z",
+        "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
         "confidence": "medium",
         "mode": "template-fallback"
       },

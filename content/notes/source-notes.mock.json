@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-24T00:02:59.509Z",
+    "publishedAt": "2026-05-23T23:55:03.625Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-24T00:03:03.785Z",
+    "publishedAt": "2026-05-23T23:55:09.215Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-05-24_fallback",
+    "sourceId": "src_openai-blog_2026-05-23_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-24T00:02:58.779Z",
+    "publishedAt": "2026-05-23T23:55:03.072Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-05-24_fallback",
+    "sourceId": "src_mcp-blog_2026-05-23_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-24T00:02:59.025Z",
+    "publishedAt": "2026-05-23T23:55:03.675Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -196,6 +196,35 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aiagents_53817c29175c6392",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
+    "title": "Agentic AI in Big Tech and Enterprise",
+    "publishedAt": "2026-05-23T17:24:55.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Disclaimer - this post was rewritten with AI based of my brain dump.",
+      "Yet, I find it inspirational and useful.",
+      "A firsthand experience from a guy who runs Research & Development teams in large enterprise companies.",
+      "Let me know if I need to update my AI to get to the point shorter :D A Longread For context, I manage enterprise software development in Life Sciences."
+    ],
+    "claims": [
+      {
+        "text": "Disclaimer - this post was rewritten with AI based of my brain dump. Yet, I find it inspirational and useful. A firsthand experience from a guy who runs Research & Development teams in large enterprise companies. Let me know if I need to update my AI to get to the point shorter :D A Longread For context, I manage enterprise software development in Life Sciences. Around 50 engineers across several projects for massive companies. The kind with 100k+ employees, billions in revenue, endless compliance requirements, and layers of process nobody fully understands anymore. What’s happening inside these companies right now is interesting. Top management split into two groups: people who understand what AI is doing, and people who think they understand what AI is doing. Both groups look at the same layoffs and productivity reports and come to completely different conclusions. The reality is that most giant enterprises were already heavily overstaffed long before AI. Too many parallel initiatives, too much legacy software nobody wants to touch, entire departments preserving systems that stopped generating meaningful revenue years ago. So companies cut overhead, free up millions, and redirect that money into AI transformation initiatives. The problem is that a lot of executives now think smaller teams plus AI automatically means 20-30% productivity gains. In practice, when you actually assess these teams internally, the gains usually come from removing coordination overhead. Fewer people means fewer meetings, fewer collisions, less idle time, less approval paralysis. That improvement could have happened without AI. Yes, some engineers genuinely became 2-3x faster. But something funny happens after that. Once people finish their normal work faster, they start doing all the things they used to neglect because there was never enough time. Better documentation. Better testing. Refactoring. Validation. Cleanup. So overall throughput barely changes. Dashboards wiggle around a few percent and leadership starts hallucinating revolutions from noise. I’ve spent the last year helping teams adopt Claude, Codex, Cursor, agents, all of it. The biggest surprise is how few people actually understand what these tools are. Giving Claude to an average employee is like giving a smartphone to a child. They press buttons for a bit, get bored, then go back to basics. Give the same device to a good entrepreneur or trader and suddenly entire businesses appear from thin air. Most enterprise AI adoption is failing because companies never demonstrate real workflows. Every AI townhall is the same: \"Productivity increased here\" \"Claude helped there\" \"Cursor accelerated development\" But nobody actually shows HOW. Nobody walks people through real examples step by step. Employees leave those meetings thinking: \"Cool story. Could’ve been an email.\" Recently I showed a group of business consultants how to take Claude, drop it into a folder with their consulting proposal, and turn it into a multi-stage research and validation pipeline. Extract claims. Research supporting evidence. Find contradictions. Run another validation pass. Rebuild the migration proposal with new findings. The whole thing was driven by 3 markdown files and one long instruction prompt. Their minds were blown. Then I checked back a week later. Nobody was using it. Too much reading. Too much setup. Existing workflow felt comfortable enough. Software development is even worse. Some AI enthusiasts are shipping their 20th side project with Cursor and now think enterprise engineers are idiots because they can’t deliver major regulated features in two weeks. These people still don’t understand where enterprise development time actually goes. Writing code was never the bottleneck. The hard part is architecture. Stable abstractions. Cross-team alignment. Compliance. Validation. Testing. Long-term maintainability. That’s where months disappear. I pushed hard into agent workflows myself. BMAD, multi-agent pipelines, architecture-driven prompts, all of it. After a few weeks it became obvious: even top-tier models constantly fail to follow enterprise architecture correctly. The code works. Until it doesn’t. One out of ten approaches produces something solid. The other nine turn into endless regeneration loops, partial rewrites, rollback commits, and prompt archaeology trying to convince the model to think like the engineer wanted in the first place. Meanwhile upper management is panic-drinking whiskey while demanding AI transformation because they built a landing page in Lovable during lunch. Any pushback gets interpreted as resistance, incompetence, or sabotage. The disconnect between executives and engineering has honestly never been this bad. Now here’s the uncomfortable part: AI absolutely CAN accelerate development 2-10x. But only if you accept the tradeoff. Current agents are not producing enterprise-grade maintainable systems consistently. So the only way to fully exploit them is to stop treating code quality as sacred. Engineers hate hearing this. But if you want maximum speed, you stop reviewing every line manually and start building systems around validation instead. Benchmarks. Tests. Sub-agents reviewing architecture. Automated verification loops. If the code passes benchmarks and doesn’t explode in production, management usually doesn’t care how elegant it is. That’s the real shift happening right now. Not AI replacing engineers. AI replacing the importance of clean human-readable implementation details in certain product categories. The question becomes: Do you want fast and risky, or slow and reliable? For some products, speed matters more than maintainability. Especially when validating a business hypothesis quickly. Would I build aircraft autopilot software this way? Obviously not. Would I build a messy enterprise data aggregation platform this way? Absolutely. Half those systems already produce questionable data even with fully human teams anyway. Humanity spent decades building gigantic enterprise spaghetti factories and now acts shocked when probabilistic machines produce spaghetti faster. Incredible species. One more thing nobody talks about: Enterprise AI coding is already expensive. Real multi-agent development workflows easily burn $20-100/hour in tokens. 10-40 million tokens per hour is becoming normal once you add context, validation, sub-agents, SDLC flows, and verification loops. But economically it still makes sense. A US software engineer can easily cost a company ~$200k/year fully loaded. Right now I have a tiny 2-person AI-heavy team costing roughly: $32k/month engineering cost $4-5k/month token spend And they perform roughly like a traditional 5 person team that would cost closer to $80k/month. So yes, the savings are real. But they come with risk: technical debt, maintainability collapse, and the possibility of catastrophic future rewrites. Management needs to consciously choose that tradeoff instead of pretending AI somehow removed it. submitted by /u/Darqsat [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
     "sourceId": "src_reddit-aiagents_7b684a9782df210c",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -225,41 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_17fa8dec3e7ece81",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tlw28s/if_software_is_basically_free_to_clone_now_what/",
-    "title": "if software is basically free to clone now, what actually stops someone from copying your app?",
-    "publishedAt": "2026-05-23T23:52:15.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "the second you ship something good, there's 10 clones by next week.",
-      "saw it with buildyourcorner getting ripped, doordash clones, and openai/google just casually launching a competitor to whatever's hot every other week.",
-      "every product has hundreds of competitors now.",
-      "it's not the code, anyone can copy the code."
-    ],
-    "claims": [
-      {
-        "text": "been thinking about this a lot. building anything is cheap now. the second you ship something good, there's 10 clones by next week. saw it with buildyourcorner getting ripped, doordash clones, and openai/google just casually launching a competitor to whatever's hot every other week. every product has hundreds of competitors now. ai assistants have thousands. so what's the moat. it's not the code, anyone can copy the code. the only thing i keep landing on is the experience being so specific to each user that a clone literally can't replicate it without knowing your users the way you do. a copycat can clone your features in a weekend. they can't clone the fact that your app actually gets the person using it. which is the whole bet behind what we're doing at onairos, giving apps deep per-user understanding so the product feels different for every single person. but curious if people think that holds up. Wanna deliver magical experiences for your users, visit onairos.io submitted by /u/OnairosApp [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tlw28s/if_software_is_basically_free_to_clone_now_what/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_stability-ai-blog_2026-05-24_fallback",
+    "sourceId": "src_stability-ai-blog_2026-05-23_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-24T00:02:58.840Z",
+    "publishedAt": "2026-05-23T23:55:03.217Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-24T00:02:59.625Z",
+    "publishedAt": "2026-05-23T23:55:03.777Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-24T00:02:58.978Z",
+    "publishedAt": "2026-05-23T23:55:03.410Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -456,27 +456,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_7148aa50cea56dcf",
+    "sourceId": "src_reddit-stablediffusion_475a4e7e3e1145e0",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlw09a/microsoft_lens_first_tests_its_pretty_decent/",
-    "title": "Microsoft Lens First Tests: It's Pretty Decent! - ComfyUI Native Support About to Be Merged",
-    "publishedAt": "2026-05-23T23:49:43.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
+    "title": "Help with Anima.",
+    "publishedAt": "2026-05-23T19:35:15.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Model weights: https://huggingface.co/Comfy-Org/Lens PR: https://github.com/Comfy-Org/ComfyUI/pull/14077 You'll need to git the merge pull request if you're in a hurry: git fetch origin pull/14077/head:pr-14077 git checkout pr-14077 Supported Resolutions (Width × Height): Base resolution = 1024 Aspect Ratio Resolution (width × height) 1:2 736 × 1472 9:16 768 × 1376 2:3 832 × 1248 3:4 864 × 1152 1:1 1024 × 1024 4:3 1152 × 864 3:2 1248 × 832 16:9 1376 × 768 2:1 1472 × 736 Base resolution = 1440 (default) Aspect Ratio Resolution (width × height) 1:2 1040 × 2080 9:16 1088 × 1936 2:3 1168 × 1760 3:4 1216 × 1616 1:1 1440 × 1440 4:3 1616 × 1216 3:2 1760 × 1168 16:9 1936 × 1088 2:1 2080 × 1040 It works pretty well with JSON prompts.",
-      "I used some shitty ones I had laying around.",
-      "Example prompt: { \"language\": \"en\", \"main_subject\": { \"description\": \"An anthropomorphic European badger with distinct black and white facial stripes, wearing a faded navy blue oversized hoodie and baggy corduroy pants.",
-      "It is slumped deeply into a worn-out beanbag chair, holding a Super Nintendo (SNES) controller with intense focus."
+      "However, i do have a small issue regarding the accuracy of the model in some areas.",
+      "I feel like illustrious could do a lot more in terms of following the prompt in some way.",
+      "I'm new to local AI img generation, and I wanted to know if anyone else is experiencing this?",
+      "This issue would probably be resolved over time since this is the first base model, I am probably a bit impatient."
     ],
     "claims": [
       {
-        "text": "Model weights: https://huggingface.co/Comfy-Org/Lens PR: https://github.com/Comfy-Org/ComfyUI/pull/14077 You'll need to git the merge pull request if you're in a hurry: git fetch origin pull/14077/head:pr-14077 git checkout pr-14077 Supported Resolutions (Width × Height): Base resolution = 1024 Aspect Ratio Resolution (width × height) 1:2 736 × 1472 9:16 768 × 1376 2:3 832 × 1248 3:4 864 × 1152 1:1 1024 × 1024 4:3 1152 × 864 3:2 1248 × 832 16:9 1376 × 768 2:1 1472 × 736 Base resolution = 1440 (default) Aspect Ratio Resolution (width × height) 1:2 1040 × 2080 9:16 1088 × 1936 2:3 1168 × 1760 3:4 1216 × 1616 1:1 1440 × 1440 4:3 1616 × 1216 3:2 1760 × 1168 16:9 1936 × 1088 2:1 2080 × 1040 It works pretty well with JSON prompts. I used some shitty ones I had laying around. Example prompt: { \"language\": \"en\", \"main_subject\": { \"description\": \"An anthropomorphic European badger with distinct black and white facial stripes, wearing a faded navy blue oversized hoodie and baggy corduroy pants. It is slumped deeply into a worn-out beanbag chair, holding a Super Nintendo (SNES) controller with intense focus. Its badger feet poke out from the pant cuffs.\", \"count\": 1, \"position\": \"center frame, low angle sitting\" }, \"secondary_elements\": [ { \"description\": \"A glowing CRT television displaying a pixelated 16-bit game (e.g., Street Fighter II).\", \"relation_to_main\": \"in front of the badger, providing light\" }, { \"description\": \"Empty soda cans, snack wrappers, and game cartridges scattered on a shag carpet.\", \"relation_to_main\": \"surrounding the beanbag\" } ], \"environment\": { \"description\": \"A cluttered, finished basement with wood-paneled walls. Band posters (Nirvana, Pearl Jam) are taped to the walls. The room is dimly lit by the TV and a single floor lamp.\", \"background_style\": \"cluttered domestic interior\" }, \"composition\": \"candid snapshot, slightly messy framing\", \"style\": { \"medium\": \"photograph\", \"artist_or_reference\": \"1990s amateur film photography, snapshot aesthetic\", \"aesthetic_qualities\": [ \"grainy\", \"lo-fi\", \"flash-lit\", \"nostalgic\", \"grunge\" ] }, \"photographic_details\": { \"lighting\": \"direct on-camera flash mixed with CRT glow, creating harsh shadows\", \"camera_shot\": \"medium shot\", \"lens_and_film\": \"35mm film point-and-shoot, high ISO grain, poor color rendition\" }, \"text_elements\": [ { \"text\": \"'93\", \"language\": \"en\", \"placement\": \"bottom right corner, burnt into the film\", \"style\": \"orange digital date stamp font\" } ], \"aspect_ratio\": \"4:3\", \"negative_prompt\": \"high definition, modern technology, flatscreen TV, clean room, bright studio lighting, CGI fur\" } submitted by /u/LatentSpacer [link] [comments]",
+        "text": "I love this model. It's cool. Way better than Illustrious and NoobAI. However, i do have a small issue regarding the accuracy of the model in some areas. I feel like it's a bit too generalist? I feel like illustrious could do a lot more in terms of following the prompt in some way. I'm new to local AI img generation, and I wanted to know if anyone else is experiencing this? This issue would probably be resolved over time since this is the first base model, I am probably a bit impatient. Also I don't really use reddit much, but i couldn't help but ask the question. I hope this inquiry doesn't bother you. Thank you for reading :) submitted by /u/OldComposer7680 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tlw09a/microsoft_lens_first_tests_its_pretty_decent/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/"
       }
     ],
     "usableFor": [
@@ -635,7 +635,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-24T00:02:59.044Z",
+    "publishedAt": "2026-05-23T23:55:03.233Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -664,7 +664,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-24T00:02:59.200Z",
+    "publishedAt": "2026-05-23T23:55:03.562Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -693,7 +693,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-24T00:02:59.767Z",
+    "publishedAt": "2026-05-23T23:55:03.708Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -861,7 +861,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-24T00:02:59.456Z",
+    "publishedAt": "2026-05-23T23:55:03.460Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -890,7 +890,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-24T00:02:59.715Z",
+    "publishedAt": "2026-05-23T23:55:03.910Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -914,12 +914,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-05-24_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-05-23_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-24T00:02:59.151Z",
+    "publishedAt": "2026-05-23T23:55:03.544Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -946,7 +946,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-24T00:02:59.434Z",
+    "publishedAt": "2026-05-23T23:55:03.645Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -975,7 +975,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-24T00:02:59.127Z",
+    "publishedAt": "2026-05-23T23:55:03.398Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1146,7 +1146,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-24T00:03:00.494Z",
+    "publishedAt": "2026-05-23T23:55:04.894Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1312,7 +1312,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-24T00:02:59.418Z",
+    "publishedAt": "2026-05-23T23:55:03.455Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1321,7 +1321,7 @@
     ],
     "keyFacts": [
       "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 3 days ago • 21 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 5 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 4 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 9 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 1 day ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 15 days ago • 38 An experiment with attention.",
-      "wop • about 15 hours ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 13 days ago • 23 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 9 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 1 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 15 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 42 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 31 May 18, 2026 The Open Agent Leaderboard 11 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 54 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 21 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 73 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 Previous 1 2 3 ...",
+      "wop • about 14 hours ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 154 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 21 Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 13 days ago • 23 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 335 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 174 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 122 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 81 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 9 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 1 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 15 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 42 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 31 May 18, 2026 The Open Agent Leaderboard 11 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 29 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 54 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 21 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 9 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 16 May 6, 2026 Granite 4.1 LLMs: How They’re Built 73 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 11 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 56 April 28, 2026 Previous 1 2 3 ...",
       "56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
       "LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 3 days ago • 21 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 5 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 4 days ago • 8 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 9 days ago • 18 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 1 day ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 857 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 334 EMO: Pretraining mixture of experts for emergent modularity allenai • 15 days ago • 38 An experiment with attention."
     ],
@@ -1494,7 +1494,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-24T00:02:59.276Z",
+    "publishedAt": "2026-05-23T23:55:03.352Z",
     "categoryHints": [
       "ai-agentic"
     ],
