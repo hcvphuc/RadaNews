@@ -1,2615 +1,2086 @@
 // Auto-generated from pipeline output — do not edit manually
-// Generated at: 2026-05-23T23:55:29.223Z
+// Generated at: 2026-05-25T00:07:13.027Z
 import type { Article } from "@/lib/schema";
 
 export const generatedArticles: Article[] = [
   {
-    "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_vi",
-    "slug": "the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23",
+    "id": "manual_anthropic-glasswing-cyber-agent_2026-05-25_vi",
+    "slug": "project-glasswing-khi-ai-agent-buoc-vao-cuoc-san-lo-hong-phan-mem",
     "lang": "vi",
+    "status": "published",
     "category": "ai-agentic",
-    "title": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.547Z",
-    "readingTime": 2,
-    "sourceCount": 8,
-    "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
-      "alt": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
-    "highlights": [
-      {
-        "text": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!"
-      },
-      {
-        "text": "Something went wrong while submitting the form."
-      },
-      {
-        "text": "LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n\n• Something went wrong while submitting the form.\n\n• LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg",
-            "alt": "News | Luma",
-            "caption": "News | Luma — Luma Labs Blog",
-            "credit": "Luma Labs Blog",
-            "sourceUrl": "https://lumalabs.ai/blog",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "LangChain Blog",
-        "publisher": "LangChain Blog",
-        "url": "https://blog.langchain.dev/rss/",
-        "publishedAt": "2026-05-23T23:55:03.625Z"
-      },
-      {
-        "title": "News | Luma",
-        "publisher": "Luma Labs Blog",
-        "url": "https://lumalabs.ai/blog",
-        "publishedAt": "2026-05-23T23:55:03.708Z"
-      },
-      {
-        "title": "Hugging Face – Blog",
-        "publisher": "Hugging Face Blog",
-        "url": "https://huggingface.co/blog",
-        "publishedAt": "2026-05-23T23:55:03.455Z"
-      },
-      {
-        "title": "On the",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
-        "publishedAt": "2026-05-23T20:24:48.000Z"
-      },
-      {
-        "title": "The memory shortage is causing a repricing of consumer electronics",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
-        "publishedAt": "2026-05-22T22:01:31.000Z"
-      },
-      {
-        "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
-        "publishedAt": "2026-05-22T04:48:32.000Z"
-      },
-      {
-        "title": "datasette-agent-sprites 0.1a0",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
-        "publishedAt": "2026-05-21T18:21:07.000Z"
-      },
-      {
-        "title": "Lil'Log",
-        "publisher": "Lil'Log",
-        "url": "https://lilianweng.github.io/",
-        "publishedAt": "2026-05-23T23:55:03.352Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.547Z",
-      "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_en",
-    "slug": "the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23",
-    "lang": "en",
-    "category": "ai-agentic",
-    "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.527Z",
-    "readingTime": 2,
-    "sourceCount": 8,
-    "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
-      "alt": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
-      "caption": "Signal synthesized from LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability."
-    },
-    "highlights": [
-      {
-        "text": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!"
-      },
-      {
-        "text": "Something went wrong while submitting the form."
-      },
-      {
-        "text": "LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!\n\n• Something went wrong while submitting the form.\n\n• LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg",
-            "alt": "News | Luma",
-            "caption": "News | Luma — Luma Labs Blog",
-            "credit": "Luma Labs Blog",
-            "sourceUrl": "https://lumalabs.ai/blog",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "LangChain Blog",
-        "publisher": "LangChain Blog",
-        "url": "https://blog.langchain.dev/rss/",
-        "publishedAt": "2026-05-23T23:55:03.625Z"
-      },
-      {
-        "title": "News | Luma",
-        "publisher": "Luma Labs Blog",
-        "url": "https://lumalabs.ai/blog",
-        "publishedAt": "2026-05-23T23:55:03.708Z"
-      },
-      {
-        "title": "Hugging Face – Blog",
-        "publisher": "Hugging Face Blog",
-        "url": "https://huggingface.co/blog",
-        "publishedAt": "2026-05-23T23:55:03.455Z"
-      },
-      {
-        "title": "On the",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
-        "publishedAt": "2026-05-23T20:24:48.000Z"
-      },
-      {
-        "title": "The memory shortage is causing a repricing of consumer electronics",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
-        "publishedAt": "2026-05-22T22:01:31.000Z"
-      },
-      {
-        "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
-        "publishedAt": "2026-05-22T04:48:32.000Z"
-      },
-      {
-        "title": "datasette-agent-sprites 0.1a0",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
-        "publishedAt": "2026-05-21T18:21:07.000Z"
-      },
-      {
-        "title": "Lil'Log",
-        "publisher": "Lil'Log",
-        "url": "https://lilianweng.github.io/",
-        "publishedAt": "2026-05-23T23:55:03.352Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.527Z",
-      "sourceClusterId": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23_vi",
-    "slug": "research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-23",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.544Z",
-    "readingTime": 1,
-    "sourceCount": 4,
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "alt": "Research \\ Anthropic: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
-    "highlights": [
-      {
-        "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
-      },
-      {
-        "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
-      },
-      {
-        "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://static.simonwillison.net/static/2026/datasette-agent.jpg",
-            "alt": "Datasette Agent",
-            "caption": "Datasette Agent — Simon Willison's Weblog",
-            "credit": "Simon Willison's Weblog",
-            "sourceUrl": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Research \\ Anthropic",
-        "publisher": "Anthropic Research",
-        "url": "https://www.anthropic.com/research",
-        "publishedAt": "2026-05-23T23:55:09.215Z"
-      },
-      {
-        "title": "GitHub Copilot Archives - The GitHub Blog",
-        "publisher": "GitHub Copilot Blog",
-        "url": "https://github.blog/tag/github-copilot/",
-        "publishedAt": "2026-05-23T23:55:03.910Z"
-      },
-      {
-        "title": "Replit — Replit Blog – Product updates from the team",
-        "publisher": "Replit Blog",
-        "url": "https://blog.replit.com/",
-        "publishedAt": "2026-05-23T23:55:03.645Z"
-      },
-      {
-        "title": "Datasette Agent",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-        "publishedAt": "2026-05-21T19:52:19.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.544Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23_en",
-    "slug": "research-anthropic-creator-and-builder-analysis-2026-05-23",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.523Z",
-    "readingTime": 1,
-    "sourceCount": 4,
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "alt": "Research \\ Anthropic: creator and builder analysis",
-      "caption": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability."
-    },
-    "highlights": [
-      {
-        "text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable."
-      },
-      {
-        "text": "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes."
-      },
-      {
-        "text": "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.\n\n• Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.\n\n• Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://static.simonwillison.net/static/2026/datasette-agent.jpg",
-            "alt": "Datasette Agent",
-            "caption": "Datasette Agent — Simon Willison's Weblog",
-            "credit": "Simon Willison's Weblog",
-            "sourceUrl": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Research \\ Anthropic",
-        "publisher": "Anthropic Research",
-        "url": "https://www.anthropic.com/research",
-        "publishedAt": "2026-05-23T23:55:09.215Z"
-      },
-      {
-        "title": "GitHub Copilot Archives - The GitHub Blog",
-        "publisher": "GitHub Copilot Blog",
-        "url": "https://github.blog/tag/github-copilot/",
-        "publishedAt": "2026-05-23T23:55:03.910Z"
-      },
-      {
-        "title": "Replit — Replit Blog – Product updates from the team",
-        "publisher": "Replit Blog",
-        "url": "https://blog.replit.com/",
-        "publishedAt": "2026-05-23T23:55:03.645Z"
-      },
-      {
-        "title": "Datasette Agent",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-        "publishedAt": "2026-05-21T19:52:19.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.523Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23_vi",
-    "slug": "ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-23",
-    "lang": "vi",
-    "category": "ai-image",
-    "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.510Z",
-    "readingTime": 1,
-    "sourceCount": 8,
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
-      "alt": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
-    "highlights": [
-      {
-        "text": "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image."
-      },
-      {
-        "text": "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
-      },
-      {
-        "text": "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Products May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image.\n\n• Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.\n\n• All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Products May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0",
-            "alt": "Blog | Black Forest Labs",
-            "caption": "Blog | Black Forest Labs — Black Forest Labs",
-            "credit": "Black Forest Labs",
-            "sourceUrl": "https://blackforestlabs.ai/blog/",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Blog | Black Forest Labs",
-        "publisher": "Black Forest Labs",
-        "url": "https://blackforestlabs.ai/blog/",
-        "publishedAt": "2026-05-23T23:55:03.777Z"
-      },
-      {
-        "title": "Blog – Replicate",
-        "publisher": "Replicate Blog",
-        "url": "https://replicate.com/blog",
-        "publishedAt": "2026-05-23T23:55:03.410Z"
-      },
-      {
-        "title": "I made an Anima AI Character & Artist search engine with 49,000 sample images",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/",
-        "publishedAt": "2026-05-23T09:13:55.000Z"
-      },
-      {
-        "title": "VNCCS PoseStudio BIG UPDATE 0.4.19",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tli8j5/vnccs_posestudio_big_update_0419/",
-        "publishedAt": "2026-05-23T14:37:59.000Z"
-      },
-      {
-        "title": "Help with Anima.",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
-        "publishedAt": "2026-05-23T19:35:15.000Z"
-      },
-      {
-        "title": "VNCCS PoseStudio BIG UPDATE 0.4.19",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tli954/vnccs_posestudio_big_update_0419/",
-        "publishedAt": "2026-05-23T14:38:42.000Z"
-      },
-      {
-        "title": "AI Video Research & Innovation | Runway AI",
-        "publisher": "Runway Research",
-        "url": "https://runwayml.com/research",
-        "publishedAt": "2026-05-23T23:55:03.233Z"
-      },
-      {
-        "title": "ComfyUI Blog | Robin | Substack",
-        "publisher": "ComfyUI Blog",
-        "url": "https://blog.comfy.org/",
-        "publishedAt": "2026-05-23T23:55:03.398Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.510Z",
-      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23_en",
-    "slug": "ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-23",
-    "lang": "en",
-    "category": "ai-image",
-    "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.657Z",
-    "readingTime": 1,
-    "sourceCount": 8,
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg",
-      "alt": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
-      "caption": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability."
-    },
-    "highlights": [
-      {
-        "text": "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image."
-      },
-      {
-        "text": "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved."
-      },
-      {
-        "text": "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Products May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image.\n\n• Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.\n\n• All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Products May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0",
-            "alt": "Blog | Black Forest Labs",
-            "caption": "Blog | Black Forest Labs — Black Forest Labs",
-            "credit": "Black Forest Labs",
-            "sourceUrl": "https://blackforestlabs.ai/blog/",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Blog | Black Forest Labs",
-        "publisher": "Black Forest Labs",
-        "url": "https://blackforestlabs.ai/blog/",
-        "publishedAt": "2026-05-23T23:55:03.777Z"
-      },
-      {
-        "title": "Blog – Replicate",
-        "publisher": "Replicate Blog",
-        "url": "https://replicate.com/blog",
-        "publishedAt": "2026-05-23T23:55:03.410Z"
-      },
-      {
-        "title": "I made an Anima AI Character & Artist search engine with 49,000 sample images",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/",
-        "publishedAt": "2026-05-23T09:13:55.000Z"
-      },
-      {
-        "title": "VNCCS PoseStudio BIG UPDATE 0.4.19",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tli8j5/vnccs_posestudio_big_update_0419/",
-        "publishedAt": "2026-05-23T14:37:59.000Z"
-      },
-      {
-        "title": "Help with Anima.",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlpwsd/help_with_anima/",
-        "publishedAt": "2026-05-23T19:35:15.000Z"
-      },
-      {
-        "title": "VNCCS PoseStudio BIG UPDATE 0.4.19",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tli954/vnccs_posestudio_big_update_0419/",
-        "publishedAt": "2026-05-23T14:38:42.000Z"
-      },
-      {
-        "title": "AI Video Research & Innovation | Runway AI",
-        "publisher": "Runway Research",
-        "url": "https://runwayml.com/research",
-        "publishedAt": "2026-05-23T23:55:03.233Z"
-      },
-      {
-        "title": "ComfyUI Blog | Robin | Substack",
-        "publisher": "ComfyUI Blog",
-        "url": "https://blog.comfy.org/",
-        "publishedAt": "2026-05-23T23:55:03.398Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.657Z",
-      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-23_vi",
-    "slug": "kling-ai-goc-nhin-cho-creator-va-builder-2026-05-23",
-    "lang": "vi",
-    "category": "ai-video",
-    "title": "Kling AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.637Z",
-    "readingTime": 1,
-    "sourceCount": 4,
-    "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg",
-      "alt": "Kling AI: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
-    "highlights": [
-      {
-        "text": "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us."
-      },
-      {
-        "text": "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen."
-      },
-      {
-        "text": "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.\n\n• It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.\n\n• But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg",
-            "alt": "Pika blog",
-            "caption": "Pika blog — Pika Labs Blog",
-            "credit": "Pika Labs Blog",
-            "sourceUrl": "https://pika.art/blog",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Pika blog",
-        "publisher": "Pika Labs Blog",
-        "url": "https://pika.art/blog",
-        "publishedAt": "2026-05-23T23:55:03.562Z"
-      },
-      {
-        "title": "Featured Titles + Latest Releases",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
-        "publishedAt": "2026-05-13T06:38:36.000Z"
-      },
-      {
-        "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
-        "publishedAt": "2026-01-15T08:28:02.000Z"
-      },
-      {
-        "title": "Kling AI",
-        "publisher": "Kling AI Blog",
-        "url": "https://klingai.com/blog",
-        "publishedAt": "2026-05-23T23:55:04.894Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.637Z",
-      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-23_en",
-    "slug": "kling-ai-creator-and-builder-analysis-2026-05-23",
-    "lang": "en",
-    "category": "ai-video",
-    "title": "Kling AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.670Z",
-    "readingTime": 1,
-    "sourceCount": 4,
-    "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg",
-      "alt": "Kling AI: creator and builder analysis",
-      "caption": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability."
-    },
-    "highlights": [
-      {
-        "text": "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us."
-      },
-      {
-        "text": "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen."
-      },
-      {
-        "text": "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.\n\n• It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.\n\n• But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg",
-            "alt": "Pika blog",
-            "caption": "Pika blog — Pika Labs Blog",
-            "credit": "Pika Labs Blog",
-            "sourceUrl": "https://pika.art/blog",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Pika blog",
-        "publisher": "Pika Labs Blog",
-        "url": "https://pika.art/blog",
-        "publishedAt": "2026-05-23T23:55:03.562Z"
-      },
-      {
-        "title": "Featured Titles + Latest Releases",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
-        "publishedAt": "2026-05-13T06:38:36.000Z"
-      },
-      {
-        "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
-        "publishedAt": "2026-01-15T08:28:02.000Z"
-      },
-      {
-        "title": "Kling AI",
-        "publisher": "Kling AI Blog",
-        "url": "https://klingai.com/blog",
-        "publishedAt": "2026-05-23T23:55:04.894Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.670Z",
-      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_vi",
-    "slug": "an-update-on-nodes-2-0-from-comfy-org-goc-nhin-cho-creator-2026-05-23",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.655Z",
-    "readingTime": 1,
-    "sourceCount": 3,
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png",
-      "alt": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
-    "highlights": [
-      {
-        "text": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed."
-      },
-      {
-        "text": "Over time, we plan to gradually make the new interface the default experience in ComfyUI."
-      },
-      {
-        "text": "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.\n\n• Over time, we plan to gradually make the new interface the default experience in ComfyUI.\n\n• There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png",
-            "alt": "What's New in Cursor — Latest Updates & Release Notes",
-            "caption": "What's New in Cursor — Latest Updates & Release Notes — Cursor Changelog",
-            "credit": "Cursor Changelog",
-            "sourceUrl": "https://www.cursor.com/changelog",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "An Update on Nodes 2.0 from Comfy Org",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
-        "publishedAt": "2026-05-22T18:00:50.000Z"
-      },
-      {
-        "title": "What's New in Cursor — Latest Updates & Release Notes",
-        "publisher": "Cursor Changelog",
-        "url": "https://www.cursor.com/changelog",
-        "publishedAt": "2026-05-23T23:55:03.460Z"
-      },
-      {
-        "title": "Vercel AI Blog signal for ai-vibe-coding",
-        "publisher": "Vercel AI Blog",
-        "url": "https://vercel.com/blog/ai",
-        "publishedAt": "2026-05-23T23:55:03.544Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.655Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_en",
-    "slug": "an-update-on-nodes-2-0-from-comfy-org-creator-and-builder-a-2026-05-23",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.568Z",
-    "readingTime": 1,
-    "sourceCount": 3,
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png",
-      "alt": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
-      "caption": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability."
-    },
-    "highlights": [
-      {
-        "text": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed."
-      },
-      {
-        "text": "Over time, we plan to gradually make the new interface the default experience in ComfyUI."
-      },
-      {
-        "text": "There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed.\n\n• Over time, we plan to gradually make the new interface the default experience in ComfyUI.\n\n• There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png",
-            "alt": "What's New in Cursor — Latest Updates & Release Notes",
-            "caption": "What's New in Cursor — Latest Updates & Release Notes — Cursor Changelog",
-            "credit": "Cursor Changelog",
-            "sourceUrl": "https://www.cursor.com/changelog",
-            "placement": "after-paragraph"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "An Update on Nodes 2.0 from Comfy Org",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
-        "publishedAt": "2026-05-22T18:00:50.000Z"
-      },
-      {
-        "title": "What's New in Cursor — Latest Updates & Release Notes",
-        "publisher": "Cursor Changelog",
-        "url": "https://www.cursor.com/changelog",
-        "publishedAt": "2026-05-23T23:55:03.460Z"
-      },
-      {
-        "title": "Vercel AI Blog signal for ai-vibe-coding",
-        "publisher": "Vercel AI Blog",
-        "url": "https://vercel.com/blog/ai",
-        "publishedAt": "2026-05-23T23:55:03.544Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.568Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_vi",
-    "slug": "after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-23",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "title": "After 6 months of running AI agents in production I think the framework you p...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.601Z",
-    "readingTime": 1,
-    "sourceCount": 8,
-    "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-      },
-      {
-        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-      },
-      {
-        "text": "Weekly thread to show off your AI Agents and LLM Apps!"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Weekly thread to show off your AI Agents and LLM Apps!"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "OpenAI Blog signal for ai-agentic",
-        "publisher": "OpenAI Blog",
-        "url": "https://openai.com/blog",
-        "publishedAt": "2026-05-23T23:55:03.072Z"
-      },
-      {
-        "title": "MCP Blog signal for ai-agentic",
-        "publisher": "MCP Blog",
-        "url": "https://modelcontextprotocol.io/blog",
-        "publishedAt": "2026-05-23T23:55:03.675Z"
-      },
-      {
-        "title": "Weekly Thread: Project Display",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
-        "publishedAt": "2026-05-20T16:00:22.000Z"
-      },
-      {
-        "title": "Weekly Hiring Thread",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
-        "publishedAt": "2026-05-18T16:00:57.000Z"
-      },
-      {
-        "title": "After 6 months of running AI agents in production I think the framework you pick barely matters. The thing that kills them is something else.",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlgz6o/after_6_months_of_running_ai_agents_in_production/",
-        "publishedAt": "2026-05-23T13:47:26.000Z"
-      },
-      {
-        "title": "Agentic AI in Big Tech and Enterprise",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
-        "publishedAt": "2026-05-23T17:24:55.000Z"
-      },
-      {
-        "title": "Real use cases for ai agents what u have done",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
-        "publishedAt": "2026-05-23T23:13:24.000Z"
-      },
-      {
-        "title": "AsymFLUX.2-klein-9B is all about textures",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlt6md/asymflux2klein9b_is_all_about_textures/",
-        "publishedAt": "2026-05-23T21:46:30.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.601Z",
-      "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_en",
-    "slug": "after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-23",
-    "lang": "en",
-    "category": "ai-agentic",
-    "title": "After 6 months of running AI agents in production I think the framework you p...: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.769Z",
-    "readingTime": 1,
-    "sourceCount": 8,
-    "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-      },
-      {
-        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-      },
-      {
-        "text": "Weekly thread to show off your AI Agents and LLM Apps!"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• Weekly thread to show off your AI Agents and LLM Apps!"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "OpenAI Blog signal for ai-agentic",
-        "publisher": "OpenAI Blog",
-        "url": "https://openai.com/blog",
-        "publishedAt": "2026-05-23T23:55:03.072Z"
-      },
-      {
-        "title": "MCP Blog signal for ai-agentic",
-        "publisher": "MCP Blog",
-        "url": "https://modelcontextprotocol.io/blog",
-        "publishedAt": "2026-05-23T23:55:03.675Z"
-      },
-      {
-        "title": "Weekly Thread: Project Display",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
-        "publishedAt": "2026-05-20T16:00:22.000Z"
-      },
-      {
-        "title": "Weekly Hiring Thread",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
-        "publishedAt": "2026-05-18T16:00:57.000Z"
-      },
-      {
-        "title": "After 6 months of running AI agents in production I think the framework you pick barely matters. The thing that kills them is something else.",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlgz6o/after_6_months_of_running_ai_agents_in_production/",
-        "publishedAt": "2026-05-23T13:47:26.000Z"
-      },
-      {
-        "title": "Agentic AI in Big Tech and Enterprise",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlmjtk/agentic_ai_in_big_tech_and_enterprise/",
-        "publishedAt": "2026-05-23T17:24:55.000Z"
-      },
-      {
-        "title": "Real use cases for ai agents what u have done",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1tlv6pi/real_use_cases_for_ai_agents_what_u_have_done/",
-        "publishedAt": "2026-05-23T23:13:24.000Z"
-      },
-      {
-        "title": "AsymFLUX.2-klein-9B is all about textures",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlt6md/asymflux2klein9b_is_all_about_textures/",
-        "publishedAt": "2026-05-23T21:46:30.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.769Z",
-      "sourceClusterId": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_vi",
-    "slug": "multi-referencelatent-goc-nhin-cho-creator-va-builder-2026-05-23",
-    "lang": "vi",
-    "category": "ai-image",
-    "title": "Multi Referencelatent: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.590Z",
-    "readingTime": 1,
-    "sourceCount": 8,
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-      },
-      {
-        "text": "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that)."
-      },
-      {
-        "text": "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).\n\n• But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Stability AI Blog signal for ai-image",
-        "publisher": "Stability AI Blog",
-        "url": "https://stability.ai/news/rss",
-        "publishedAt": "2026-05-23T23:55:03.217Z"
-      },
-      {
-        "title": "Multi Referencelatent",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
-        "publishedAt": "2026-05-23T17:39:10.000Z"
-      },
-      {
-        "title": "Is anyone else using Qwen and finding it as great as I do?",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlixec/is_anyone_else_using_qwen_and_finding_it_as_great/",
-        "publishedAt": "2026-05-23T15:05:23.000Z"
-      },
-      {
-        "title": "Really impressed with LTX 2.3 (1.1). Mind blowing results!",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlleg3/really_impressed_with_ltx_23_11_mind_blowing/",
-        "publishedAt": "2026-05-23T16:40:37.000Z"
-      },
-      {
-        "title": "I've had some time to experiment with Trellis, and here are the results; I still need a lot more time to learn and research.",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlj5vw/ive_had_some_time_to_experiment_with_trellis_and/",
-        "publishedAt": "2026-05-23T15:14:49.000Z"
-      },
-      {
-        "title": "V8.1 Alpha is out!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "publishedAt": "2026-04-14T21:44:04.000Z"
-      },
-      {
-        "title": "V8 alpha is here!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "publishedAt": "2026-03-17T21:39:40.000Z"
-      },
-      {
-        "title": "Probable changes to the subreddit",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
-        "publishedAt": "2022-09-26T20:55:02.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.590Z",
-      "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_en",
-    "slug": "multi-referencelatent-creator-and-builder-analysis-2026-05-23",
-    "lang": "en",
-    "category": "ai-image",
-    "title": "Multi Referencelatent: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.580Z",
-    "readingTime": 1,
-    "sourceCount": 8,
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
-      },
-      {
-        "text": "I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that)."
-      },
-      {
-        "text": "But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Live crawl was unavailable, so the pipeline preserved source coverage for local verification.\n\n• I added this node to Flux2klein enhancer package , it serves the same purpose as stacking multiple ref latent nodes, but the main reason of releasing this is because I am working on an update for the identity feature transfer node where I essentially will have it support this same method this way you wouldn't have to deal with measuring multiple different stacked nodes ( I am still working on that).\n\n• But I thought this node can be used for now to reduce the need of multiple ref latents so just a convenience node for now."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Stability AI Blog signal for ai-image",
-        "publisher": "Stability AI Blog",
-        "url": "https://stability.ai/news/rss",
-        "publishedAt": "2026-05-23T23:55:03.217Z"
-      },
-      {
-        "title": "Multi Referencelatent",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
-        "publishedAt": "2026-05-23T17:39:10.000Z"
-      },
-      {
-        "title": "Is anyone else using Qwen and finding it as great as I do?",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlixec/is_anyone_else_using_qwen_and_finding_it_as_great/",
-        "publishedAt": "2026-05-23T15:05:23.000Z"
-      },
-      {
-        "title": "Really impressed with LTX 2.3 (1.1). Mind blowing results!",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlleg3/really_impressed_with_ltx_23_11_mind_blowing/",
-        "publishedAt": "2026-05-23T16:40:37.000Z"
-      },
-      {
-        "title": "I've had some time to experiment with Trellis, and here are the results; I still need a lot more time to learn and research.",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tlj5vw/ive_had_some_time_to_experiment_with_trellis_and/",
-        "publishedAt": "2026-05-23T15:14:49.000Z"
-      },
-      {
-        "title": "V8.1 Alpha is out!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "publishedAt": "2026-04-14T21:44:04.000Z"
-      },
-      {
-        "title": "V8 alpha is here!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "publishedAt": "2026-03-17T21:39:40.000Z"
-      },
-      {
-        "title": "Probable changes to the subreddit",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
-        "publishedAt": "2022-09-26T20:55:02.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.580Z",
-      "sourceClusterId": "cluster_ai-image_2_multi-referencelatent_2026-05-23",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_vi",
-    "slug": "the-eye-doctor-by-jboogxcreative-me-goc-nhin-cho-creato-2026-05-23",
-    "lang": "vi",
-    "category": "ai-video",
-    "title": "“The Eye Doctor” by jboogxcreative (me): góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.540Z",
-    "readingTime": 1,
-    "sourceCount": 3,
-    "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "submitted by /u/JBOOGZEE [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/Old_Establishment287 [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/numberchef [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• submitted by /u/JBOOGZEE [link] [comments]\n\n• submitted by /u/Old_Establishment287 [link] [comments]\n\n• submitted by /u/numberchef [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "“The Eye Doctor” by jboogxcreative (me)",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tlpux5/the_eye_doctor_by_jboogxcreative_me/",
-        "publishedAt": "2026-05-23T19:33:17.000Z"
-      },
-      {
-        "title": "I refuse to believe we've already reached this point",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tlahl7/i_refuse_to_believe_weve_already_reached_this/",
-        "publishedAt": "2026-05-23T08:17:29.000Z"
-      },
-      {
-        "title": "Goosebumps",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tlj11m/goosebumps/",
-        "publishedAt": "2026-05-23T15:09:24.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.540Z",
-      "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_en",
-    "slug": "the-eye-doctor-by-jboogxcreative-me-creator-and-builder-2026-05-23",
-    "lang": "en",
-    "category": "ai-video",
-    "title": "“The Eye Doctor” by jboogxcreative (me): creator and builder analysis",
-    "subtitle": "Signal synthesized from r/aivideo, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.402Z",
-    "readingTime": 1,
-    "sourceCount": 3,
-    "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "submitted by /u/JBOOGZEE [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/Old_Establishment287 [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/numberchef [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• submitted by /u/JBOOGZEE [link] [comments]\n\n• submitted by /u/Old_Establishment287 [link] [comments]\n\n• submitted by /u/numberchef [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "“The Eye Doctor” by jboogxcreative (me)",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tlpux5/the_eye_doctor_by_jboogxcreative_me/",
-        "publishedAt": "2026-05-23T19:33:17.000Z"
-      },
-      {
-        "title": "I refuse to believe we've already reached this point",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tlahl7/i_refuse_to_believe_weve_already_reached_this/",
-        "publishedAt": "2026-05-23T08:17:29.000Z"
-      },
-      {
-        "title": "Goosebumps",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1tlj11m/goosebumps/",
-        "publishedAt": "2026-05-23T15:09:24.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.402Z",
-      "sourceClusterId": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_vi",
-    "slug": "flying-with-angels-goc-nhin-cho-creator-va-builder-2026-05-23",
-    "lang": "vi",
-    "category": "prompt-image",
-    "title": "Flying With Angels: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:22.124Z",
-    "readingTime": 1,
-    "sourceCount": 2,
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "Made with V8 submitted by /u/MysticLinear [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/Dropdeadlegs84 [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Made with V8 submitted by /u/MysticLinear [link] [comments]\n\n• submitted by /u/Dropdeadlegs84 [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Flying With Angels",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tlmnci/flying_with_angels/",
-        "publishedAt": "2026-05-23T17:28:47.000Z"
-      },
-      {
-        "title": "Atomica",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tlgjyt/atomica/",
-        "publishedAt": "2026-05-23T13:29:29.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:22.124Z",
-      "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_en",
-    "slug": "flying-with-angels-creator-and-builder-analysis-2026-05-23",
-    "lang": "en",
-    "category": "prompt-image",
-    "title": "Flying With Angels: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:29.085Z",
-    "readingTime": 1,
-    "sourceCount": 2,
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "Made with V8 submitted by /u/MysticLinear [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/Dropdeadlegs84 [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• Made with V8 submitted by /u/MysticLinear [link] [comments]\n\n• submitted by /u/Dropdeadlegs84 [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Flying With Angels",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tlmnci/flying_with_angels/",
-        "publishedAt": "2026-05-23T17:28:47.000Z"
-      },
-      {
-        "title": "Atomica",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tlgjyt/atomica/",
-        "publishedAt": "2026-05-23T13:29:29.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:29.085Z",
-      "sourceClusterId": "cluster_prompt-image_1_flying-with-angels_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_vi",
-    "slug": "land-of-war-135-goc-nhin-cho-creator-va-builder-2026-05-23",
-    "lang": "vi",
-    "category": "prompt-image",
-    "title": "Land of War #135: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.826Z",
-    "readingTime": 1,
+    "title": "Project Glasswing: khi AI agent bước vào cuộc săn lỗ hổng phần mềm",
+    "subtitle": "Anthropic đặt Claude vào bài toán bảo vệ phần mềm trọng yếu. Với builder, đây không chỉ là tin an ninh mạng; nó là tín hiệu rằng agent sẽ được đo bằng khả năng làm việc trong hệ thống thật, có rủi ro thật.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
     "sourceCount": 1,
     "tags": [
-      "prompt-image",
-      "ai-radar",
+      "anthropic",
+      "claude",
+      "ai-agent",
+      "cybersecurity",
       "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "submitted by /u/Slave_Human [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• submitted by /u/Slave_Human [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Land of War #135",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/",
-        "publishedAt": "2026-05-23T09:11:34.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.826Z",
-      "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_en",
-    "slug": "land-of-war-135-creator-and-builder-analysis-2026-05-23",
-    "lang": "en",
-    "category": "prompt-image",
-    "title": "Land of War #135: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.834Z",
-    "readingTime": 1,
-    "sourceCount": 1,
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "submitted by /u/Slave_Human [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• submitted by /u/Slave_Human [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Land of War #135",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1tlbfrl/land_of_war_135/",
-        "publishedAt": "2026-05-23T09:11:34.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.834Z",
-      "sourceClusterId": "cluster_prompt-image_2_land-of-war-135_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_vi",
-    "slug": "ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23",
-    "lang": "vi",
-    "category": "prompt-video",
-    "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:22.053Z",
-    "readingTime": 1,
-    "sourceCount": 2,
-    "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "submitted by /u/gwern [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/gwern [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• submitted by /u/gwern [link] [comments]\n\n• submitted by /u/gwern [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "AI won the 2025 Commonwealth Short Story Prize competition",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
-        "publishedAt": "2026-05-21T23:17:53.000Z"
-      },
-      {
-        "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
-        "publishedAt": "2026-05-19T23:53:07.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:22.053Z",
-      "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_en",
-    "slug": "ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23",
-    "lang": "en",
-    "category": "prompt-video",
-    "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:29.191Z",
-    "readingTime": 1,
-    "sourceCount": 2,
-    "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "submitted by /u/gwern [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/gwern [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• submitted by /u/gwern [link] [comments]\n\n• submitted by /u/gwern [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "AI won the 2025 Commonwealth Short Story Prize competition",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
-        "publishedAt": "2026-05-21T23:17:53.000Z"
-      },
-      {
-        "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
-        "publishedAt": "2026-05-19T23:53:07.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:29.191Z",
-      "sourceClusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_vi",
-    "slug": "review-50-years-of-text-games-by-aaron-reed-goc-nhin-2026-05-23",
-    "lang": "vi",
-    "category": "prompt-video",
-    "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-05-23T23:55:21.681Z",
-    "readingTime": 1,
-    "sourceCount": 2,
-    "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "submitted by /u/Wiskkey [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/gwern [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Phân tích",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• submitted by /u/Wiskkey [link] [comments]\n\n• submitted by /u/gwern [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Tín hiệu này có thể ảnh hưởng trực tiếp đến workflow sản xuất nội dung, coding hoặc prompt trong tuần.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Kiểm tra nguồn gốc tín hiệu từ các nguồn được liệt kê",
-        "Thử nghiệm trên một workflow nhỏ trước khi scale",
-        "Theo dõi diễn biến trong 1-2 tuần tới"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Extensive list of generative tools curated by Eyal Gruss",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "publishedAt": "2021-01-22T08:37:47.000Z"
-      },
-      {
-        "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/",
-        "publishedAt": "2026-05-13T23:03:13.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-05-23T23:55:21.681Z",
-      "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_en",
-    "slug": "review-50-years-of-text-games-by-aaron-reed-creator-a-2026-05-23",
-    "lang": "en",
-    "category": "prompt-video",
-    "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": creator and builder analysis",
-    "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-05-23T23:55:28.675Z",
-    "readingTime": 1,
-    "sourceCount": 2,
-    "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "highlights": [
-      {
-        "text": "submitted by /u/Wiskkey [link] [comments]"
-      },
-      {
-        "text": "submitted by /u/gwern [link] [comments]"
-      }
-    ],
-    "sections": [
-      {
-        "id": "main",
-        "heading": "Analysis",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "• submitted by /u/Wiskkey [link] [comments]\n\n• submitted by /u/gwern [link] [comments]"
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "This signal may directly impact production workflows, coding practices, or prompt engineering this week.",
-        "variant": "analysis"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Verify the source trail from listed sources",
-        "Test in one small workflow before scaling",
-        "Monitor developments over the next 1-2 weeks"
-      ]
-    },
-    "sources": [
-      {
-        "title": "Extensive list of generative tools curated by Eyal Gruss",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
-        "publishedAt": "2021-01-22T08:37:47.000Z"
-      },
-      {
-        "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
-        "publisher": "r/MediaSynthesis",
-        "url": "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/",
-        "publishedAt": "2026-05-13T23:03:13.000Z"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-05-23T23:55:28.675Z",
-      "sourceClusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23",
-      "confidence": "medium"
-    },
-    "status": "published"
-  },
-  {
-    "id": "manual_ai-video_2026-05-24_ai-video-workflow-runway-ltx-kling-seedance_vi",
-    "slug": "ai-video-workflow-runway-ltx-kling-seedance",
-    "lang": "vi",
-    "category": "ai-video",
-    "title": "AI video 2026: đừng chọn model, hãy chọn pipeline",
-    "subtitle": "Runway Gen-4, LTX Studio, Kling và Seedance không giải cùng một bài toán. Bài này tách rõ khi nào dùng tool nào để creator đỡ đốt credit vào prompt vô nghĩa.",
-    "publishedAt": "2026-05-24T00:20:00.000Z",
-    "readingTime": 9,
-    "sourceCount": 4,
-    "tags": [
-      "ai-video",
-      "runway",
-      "ltx-studio",
-      "kling",
-      "seedance",
-      "workflow"
     ],
     "heroMedia": {
       "type": "image",
-      "src": "https://d3phaj0sisr2ct.cloudfront.net/site/content/images/card_gen4post.jpg",
-      "alt": "Runway Gen-4 world consistency demo",
-      "caption": "Runway Gen-4 đặt trọng tâm vào world consistency: nhân vật, vật thể, địa điểm và style giữ được qua nhiều shot.",
-      "credit": "Runway",
-      "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4"
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
+      "alt": "Project Glasswing: khi AI agent bước vào cuộc săn lỗ hổng phần mềm",
+      "caption": "Project Glasswing: Securing critical software for the AI era",
+      "credit": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/glasswing"
     },
     "highlights": [
       {
-        "text": "Sai lầm phổ biến nhất của creator là hỏi “model nào đẹp nhất?”. Câu đúng là: shot này cần consistency, speed, control hay giá rẻ?"
+        "text": "Anthropic đặt Claude vào bài toán bảo vệ phần mềm trọng yếu. Với builder, đây không chỉ là tin an ninh mạng; nó là tín hiệu rằng agent sẽ được đo bằng khả năng làm việc trong hệ thống thật, có rủi ro thật."
       },
       {
-        "text": "Runway Gen-4 mạnh ở world consistency và reference-driven shots; LTX mạnh ở production workspace; Seedance đáng chú ý ở hướng API/latency; Kling phù hợp thử motion nhanh."
+        "text": "Tín hiệu quan trọng không nằm ở benchmark, mà ở khả năng kiểm soát workflow: sửa shot, giữ style, tạo PR nhỏ, hoặc để lại audit trail."
       },
       {
-        "text": "Một pipeline thực dụng nên tách 4 lớp: brief, reference pack, shot matrix, rồi mới generation. Prompt dài không cứu được storyboard lười."
-      },
-      {
-        "text": "Đường kiếm tiền gần nhất không phải ads traffic, mà là bán audit workflow AI video 99 USD cho studio nhỏ đang đốt credit mà chưa có quy trình."
+        "text": "Khuyến nghị: test trên một job thật trong 60-90 phút, đo số vòng sửa và tỷ lệ output dùng được trước khi đổi pipeline."
       }
     ],
     "sections": [
       {
-        "id": "hook",
-        "heading": "Tôi không tin bảng xếp hạng “model đẹp nhất” nữa",
+        "id": "context",
+        "heading": "Vì sao tin này đáng để mở workflow ra xem lại",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Tuần nào cũng có một bảng so sánh AI video mới. Runway hơn Kling ở shot này, Seedance nhanh hơn Sora ở case kia, LTX lại bảo mình là studio trọn gói. Nghe nhiều quá thành nhiễu. Với người làm TVC, film, social content, câu hỏi “model nào đẹp nhất?” gần như vô dụng."
+            "text": "Nếu anh đang dùng AI agent chỉ để viết vài hàm CRUD, Glasswing là cú nhắc khá đau: sân chơi thật nằm ở những việc có hậu quả. Anthropic nói về bảo vệ phần mềm trọng yếu, nhưng câu chuyện lớn hơn là agent phải biết đọc codebase, hiểu dependency, lập giả thuyết, kiểm chứng và để lại dấu vết audit được."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
+            "alt": "Project Glasswing: khi AI agent bước vào cuộc săn lỗ hổng phần mềm",
+            "caption": "Project Glasswing: Securing critical software for the AI era",
+            "credit": "Anthropic",
+            "sourceUrl": "https://www.anthropic.com/glasswing",
+            "placement": "after-paragraph"
           },
           {
             "type": "paragraph",
-            "text": "Lý do đơn giản: một clip 5 giây đẹp không đồng nghĩa với một pipeline sản xuất được 30 shot nhất quán. Khách không trả tiền cho một demo viral trên X. Khách trả tiền cho sản phẩm, nhân vật, bối cảnh, logo, tone màu và deadline. AI video hiện tại vẫn là thằng học việc rất nhanh nhưng trí nhớ kém; nếu không có hệ thống kèm nó, nó sẽ ăn credit rồi trả lại một đống clip nhìn vui nhưng không dựng được."
-          },
-          {
-            "type": "paragraph",
-            "text": "Vì vậy bài này không xếp hạng kiểu fanboy. Tôi tách Runway Gen-4, LTX Studio, Kling và Seedance theo vai trò trong pipeline: ai dùng để giữ thế giới hình ảnh, ai dùng để dựng workflow, ai dùng để thử motion, ai đáng quan tâm khi cần API hoặc tốc độ."
+            "text": "Anthropic đặt Claude vào bài toán bảo vệ phần mềm trọng yếu. Với builder, đây không chỉ là tin an ninh mạng; nó là tín hiệu rằng agent sẽ được đo bằng khả năng làm việc trong hệ thống thật, có rủi ro thật."
           }
         ]
       },
       {
-        "id": "comparison",
-        "heading": "Bảng chọn tool: đừng dùng dao mổ để chặt gà",
+        "id": "deep-analysis",
+        "heading": "Phân tích chi tiết: tín hiệu nằm ở workflow, không nằm ở câu chữ PR",
         "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Điểm đáng chú ý là Anthropic đóng khung AI như công cụ phòng thủ, không phải demo tấn công màu mè. Nhưng đây cũng là bài test thương mại: doanh nghiệp chỉ trả tiền lớn khi agent giảm rủi ro vận hành, không phải khi nó tạo thêm pull request rác."
+          },
           {
             "type": "table",
             "headers": [
-              "Nhu cầu",
-              "Tool nên thử trước",
-              "Vì sao",
+              "Use case",
+              "Giá trị thật",
               "Rủi ro"
             ],
             "rows": [
               [
-                "Nhân vật/sản phẩm cần nhất quán qua nhiều shot",
-                "Runway Gen-4",
-                "Trang nghiên cứu Gen-4 nhấn mạnh world consistency, reference image và khả năng giữ character/object/location/style qua nhiều scene.",
-                "Chi phí và giới hạn platform có thể làm scale chậm nếu không lock shot list trước."
+                "Code audit",
+                "Tìm pattern lỗi lặp lại nhanh hơn reviewer người",
+                "False positive làm đội security mất thời gian"
               ],
               [
-                "Làm từ brief/script đến storyboard/timeline",
-                "LTX Studio",
-                "LTX định vị là AI video production platform, có storyboard, timeline, sound design, shot/motion control và workspace cộng tác.",
-                "Nếu chỉ cần generate vài clip lẻ, workspace đầy đủ có thể thành quá nặng."
+                "Dependency review",
+                "Ưu tiên package có tác động lớn",
+                "Bỏ sót context runtime"
               ],
               [
-                "Thử motion nhanh, nhiều biến thể social",
-                "Kling",
-                "Kling AI tự định vị creative studio với series 3.0; hợp cho vòng khám phá motion/visual nhanh.",
-                "Thông tin public mỏng; phải tự test bằng case thật, không tin demo trang chủ."
-              ],
-              [
-                "Tích hợp vào app hoặc pipeline backend",
-                "Seedance / multi-provider",
-                "SitePoint mô tả Seedance 2.0 theo hướng OpenAI-compatible async polling và nhấn mạnh quyết định API ảnh hưởng queue, retry, latency, cost.",
-                "API video luôn bất đồng bộ; không thiết kế hàng đợi từ đầu là tự sát."
+                "Patch proposal",
+                "Rút ngắn thời gian phản ứng",
+                "Patch đúng syntax nhưng sai ý đồ hệ thống"
               ]
             ]
           },
           {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://cdn.prod.website-files.com/65bb6b901cb133d784d16166/68f8e8732edc31c03540eafb_ltx-hp-new1.webp",
-            "alt": "LTX Studio homepage production workspace",
-            "caption": "LTX Studio bán câu chuyện “production platform”, không chỉ model generate clip. Đây là hướng đáng chú ý cho team cần storyboard, timeline và collaboration.",
-            "credit": "LTX Studio",
-            "sourceUrl": "https://ltx.studio/",
-            "placement": "after-paragraph"
-          },
-          {
             "type": "paragraph",
-            "text": "Điểm quan trọng: bốn lựa chọn này không thay nhau hoàn toàn. Một studio nhỏ có thể dùng LTX để tiền kỳ/storyboard, Runway để giữ reference nhân vật hoặc sản phẩm, Kling để bắn nhanh vài motion option, rồi một API như Seedance khi cần nhúng vào sản phẩm hoặc batch tạo biến thể. Pipeline lai nghe kém sexy hơn “một tool thắng tất cả”, nhưng thực tế sản xuất thường thắng bằng cái kém sexy đó."
+            "text": "Cách đọc thực dụng là tách phần marketing khỏi phần có thể đưa vào sản xuất tuần này. Nếu thông báo giúp giảm vòng render, giảm vòng review, hoặc làm agent/creator tool để lại dấu vết kiểm soát tốt hơn, nó đáng thử trên một job nhỏ. Nếu nó chỉ thêm một nút bấm mới nhưng không giải quyết consistency, quyền dữ liệu hoặc khả năng sửa lỗi, đừng vội thay pipeline."
           }
         ]
       },
       {
-        "id": "pipeline",
-        "heading": "Pipeline 4 lớp: bớt prompt, thêm kỷ luật",
+        "id": "critical-perspective",
+        "heading": "Góc nhìn phản biện: đừng mua demo, hãy mua khả năng sửa sai",
         "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Nếu hôm nay phải làm một video 30 giây cho sản phẩm, tôi sẽ không mở tool lên prompt ngay. Tôi sẽ làm 4 lớp trước. Lớp 1 là brief: mục tiêu, khán giả, deliverable, format, deadline, điều cấm. Lớp 2 là reference pack: nhân vật, sản phẩm, location, ánh sáng, lens, màu, frame mẫu. Lớp 3 là shot matrix: mỗi shot có duration, camera, action, subject consistency cue, negative cue, expected failure. Lớp 4 mới là generation: chọn tool theo từng shot."
-          },
-          {
-            "type": "list",
-            "items": [
-              "Brief phải có ràng buộc thật: 16:9 hay 9:16, 6 giây hay 10 giây, có packshot hay không, logo xuất hiện ở đâu.",
-              "Reference pack nên ít nhưng sạch. 3 ảnh đúng còn hơn 30 ảnh đẹp nhưng lệch style.",
-              "Shot matrix phải viết như call sheet mini: Shot 01 / 4s / slow dolly-in / product on black acrylic / no extra text.",
-              "Mỗi shot cần tiêu chí pass/fail. Không có tiêu chí thì bạn sẽ generate đến khi hết credit rồi tự lừa mình rằng “cũng được”."
-            ]
-          },
           {
             "type": "callout",
             "variant": "warning",
-            "title": "Anti-pattern cần bỏ",
-            "text": "Prompt kiểu “cinematic, photorealistic, ultra detail, 8K” là noise nếu không nói camera làm gì, subject giữ gì, motion đi đâu và shot dùng trong đoạn dựng nào. Đẹp chung chung không bán được."
-          }
-        ]
-      },
-      {
-        "id": "cost",
-        "heading": "Chi phí thật nằm ở vòng thử sai, không nằm ở giá gói tháng",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Nhiều creator tính tiền sai. Họ nhìn subscription 20–100 USD/tháng rồi tưởng đó là cost. Không. Cost thật là số vòng thử sai trước khi có shot usable. Nếu một shot cần 12 lần generate mới dùng được, giá mỗi shot không còn là vài chục cent nữa; nó là thời gian operator, thời gian chờ, thời gian review, và cơ hội bị trễ deadline."
-          },
-          {
-            "type": "table",
-            "headers": [
-              "Workflow",
-              "Số shot cần làm",
-              "Lần generate/shot",
-              "Usable rate giả định",
-              "Hệ quả"
-            ],
-            "rows": [
-              [
-                "Prompt tự do, không reference pack",
-                "20",
-                "10–15",
-                "20–30%",
-                "Nhiều clip đẹp lẻ, dựng lên lệch nhân vật/style."
-              ],
-              [
-                "Reference pack + shot matrix",
-                "20",
-                "4–7",
-                "45–60%",
-                "Ít wow ngẫu nhiên hơn, nhưng nhiều shot dùng được hơn."
-              ],
-              [
-                "Pipeline có test shot trước khi scale",
-                "20",
-                "3–5 sau khi lock style",
-                "60–70%",
-                "Tốn thêm 1 giờ đầu, tiết kiệm cả ngày sau."
-              ]
-            ]
+            "title": "Cái bẫy",
+            "text": "Demo luôn chọn case thuận lợi. Production luôn gặp case xấu: brief mơ hồ, asset thiếu, deadline gấp, client đổi ý, policy chặn output. Tool nào không giúp sửa sai có kiểm soát thì chỉ làm team render nhanh hơn trước khi kẹt."
           },
           {
             "type": "paragraph",
-            "text": "Bảng trên không phải benchmark phòng lab. Nó là cách tính thực dụng để khỏi tự lừa. Nếu team không đo usable rate, team không biết tool nào rẻ. Một model “đắt” nhưng 5 lần ra shot dùng được có thể rẻ hơn model “rẻ” nhưng 20 lần vẫn lệch tay nhân vật."
-          }
-        ]
-      },
-      {
-        "id": "case-study",
-        "heading": "Case thực dụng: TVC 30 giây cho một app fitness",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Giả sử brief là video 30 giây cho app fitness, target nữ 25–35, tone premium, cần 6 shot: mở app, nhân vật tập ở nhà, close-up UI, chuyển cảnh progress, packshot, CTA. Nếu prompt từng shot riêng lẻ, nhân vật sẽ đổi mặt, căn hộ đổi style, UI bịa chữ, màu lệch. Đây là chỗ AI video hay phá nhất."
-          },
-          {
-            "type": "paragraph",
-            "text": "Pipeline tốt hơn: dùng image model hoặc photo reference để khóa nhân vật và căn hộ; tạo 2–3 key visual được duyệt; đưa key visual vào Runway Gen-4 cho các shot cần consistency; dùng LTX hoặc timeline tool để giữ storyboard và thứ tự shot; dùng Kling/other model để thử vài motion phụ như towel movement, camera push, transition; UI thật thì composite ở post, đừng bắt AI viết chữ."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://cdn.prod.website-files.com/65af5bb45119ef8315f7474c/67f65b661a97d150b22f2e94_LTX-Studio-01.png",
-            "alt": "LTX Studio production interface visual",
-            "caption": "Với job nhiều shot, workspace/storyboard quan trọng ngang model. Không có nơi quản lý shot, feedback và version, team sẽ chìm trong file rác.",
-            "credit": "LTX Studio",
-            "sourceUrl": "https://ltx.studio/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "id": "sources-read",
-        "heading": "Đọc nguồn thế nào cho khỏi bị demo marketing dắt mũi",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Nguồn chính thức rất hữu ích, nhưng phải đọc đúng cách. Runway nói Gen-4 giữ character, object, location, style và world environment qua scene. Đó là claim quan trọng. Nhưng claim không thay cho test với asset của bạn. LTX nói có storyboard, timeline, sound design, collaboration. Đó là claim workflow. Nhưng nếu team chỉ làm 3 clip TikTok/ngày, bạn phải hỏi: workflow đó giúp tăng usable rate hay chỉ thêm giao diện?"
-          },
-          {
-            "type": "paragraph",
-            "text": "Với bài so sánh API như SitePoint, phần đáng đọc không phải ai “thắng”. Phần đáng đọc là rủi ro backend: async job, polling, queue, retry, latency, cost forecasting, lock-in. Builder nào nhúng AI video vào sản phẩm mà không thiết kế queue từ đầu thì sẽ sớm gặp cảnh user bấm generate, request timeout, video vẫn chạy ở backend, tiền vẫn mất."
+            "text": "Một tiêu chí đơn giản: sau khi output sai, anh có sửa đúng chỗ sai không, hay phải đập đi làm lại? Với AI video là sửa shot và motion. Với coding agent là sửa diff nhỏ. Với image workflow là khoá style và seed/reference. Với cybersecurity agent là chứng minh được vì sao nó kết luận."
           }
         ]
       },
       {
         "id": "opportunity",
-        "heading": "Cơ hội kiếm tiền: bán audit, không chờ traffic cứu mình",
+        "heading": "Cơ hội cho creator và builder",
         "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Nếu mục tiêu 20 ngày là tạo đường tới 100 USD/tháng, bài kiểu này không nên chỉ để kéo SEO. Nó phải biến thành offer. Offer đơn giản nhất: AI video workflow audit 99 USD. Khách gửi storyboard hoặc workflow hiện tại; mình chỉ ra chỗ đốt credit, viết lại shot matrix, đề xuất tool stack và 10 prompt shot-level. Không cần checkout phức tạp. Manual contact trước, tiền về sau."
-          },
           {
             "type": "list",
             "items": [
-              "Target đầu tiên: studio nhỏ làm social video, agency chạy concept board, creator bán template/prompt pack.",
-              "Lead magnet: checklist “20 câu hỏi trước khi generate AI video”.",
-              "Proof: lấy chính bài này làm landing content, thêm CTA ở cuối.",
-              "Upsell: prompt pack theo ngành — beauty, real estate, fitness, F&B.",
-              "KPI 7 ngày: gửi 20 outreach, mục tiêu 2 call, 1 audit trả tiền."
+              "Chạy một test nhỏ với brief thật, không dùng prompt demo của hãng.",
+              "Ghi lại số vòng sửa, chi phí render/API và tỷ lệ output dùng được.",
+              "Biến workflow thắng thành template: prompt, reference, node graph, checklist review.",
+              "Đừng bán “AI nhanh hơn”; hãy bán “ít vòng reject hơn”."
             ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tin hot chỉ có giá trị khi nó làm workflow hôm nay tốt hơn. Với RadaNews, điểm cần theo dõi trong tuần tới là tool nào biến AI từ máy tạo output thành hệ thống có thể kiểm soát, sửa sai và bàn giao. Đó mới là nơi tiền production nằm."
           }
         ]
       }
     ],
     "insightBlocks": [
       {
-        "title": "Insight 1: Model không thay thế producer",
-        "text": "AI video đang tiến rất nhanh, nhưng người thắng không phải người thuộc tên model mới nhất. Người thắng là người biến brief mơ hồ thành shot system rõ ràng để model ít có cơ hội phá.",
+        "title": "RadaNews nhận định",
+        "text": "Đây là nhóm tin đáng theo dõi vì nó chạm trực tiếp vào chi phí sản xuất: thời gian sửa, consistency, governance và khả năng bàn giao workflow cho team.",
         "variant": "analysis"
-      },
-      {
-        "title": "Insight 2: Consistency là currency",
-        "text": "Trong sản xuất thật, consistency đáng tiền hơn một clip wow. Khách cần cùng một sản phẩm, cùng một người, cùng một thế giới. Runway đánh đúng nỗi đau này; các tool workspace như LTX đánh vào nỗi đau quản lý quy trình.",
-        "variant": "impact"
-      },
-      {
-        "title": "Insight 3: Backend AI video là bài toán vận hành",
-        "text": "Với builder, video API không giống text API. Nó bất đồng bộ, đắt, chậm, cần queue và retry. Bỏ qua lớp này thì demo chạy được nhưng sản phẩm sẽ chết khi có user thật.",
-        "variant": "risk"
       }
     ],
     "takeaway": {
-      "title": "Creator / Builder Takeaway",
+      "title": "Takeaway hành động",
       "items": [
-        "Đừng hỏi tool nào đẹp nhất; hãy phân loại shot theo consistency, motion, speed, cost và integration.",
-        "Trước khi generate, viết shot matrix tối thiểu 10 dòng: duration, camera, action, reference, pass/fail.",
-        "Dùng source/official media để học claim của tool, nhưng test lại bằng asset thật của bạn.",
-        "Không để AI tạo UI/text quan trọng trong video; composite ở post nếu cần sạch.",
-        "Biến kiến thức pipeline thành offer 99 USD: audit workflow, giảm credit waste, viết lại prompt shot-level."
+        "Chọn một use case thật, không benchmark chung chung.",
+        "Lưu input/output, chi phí và lỗi để so sánh sau một tuần.",
+        "Chỉ đưa vào pipeline nếu tool giúp sửa sai tốt hơn, không chỉ tạo output nhanh hơn."
       ]
     },
     "sources": [
       {
-        "title": "Runway Gen-4: AI Video Generation with World Consistency",
-        "publisher": "Runway Research",
-        "url": "https://runwayml.com/research/introducing-runway-gen-4",
-        "publishedAt": "2026-05-24T00:00:00.000Z"
-      },
-      {
-        "title": "The Creative Studio for AI Video Production",
-        "publisher": "LTX Studio",
-        "url": "https://ltx.studio/",
-        "publishedAt": "2026-05-24T00:00:00.000Z"
-      },
-      {
-        "title": "Kling AI: Next-Generation AI Creative Studio",
-        "publisher": "Kling AI",
-        "url": "https://www.klingai.com/",
-        "publishedAt": "2026-05-24T00:00:00.000Z"
-      },
-      {
-        "title": "Seedance 2.0 vs Sora vs Runway Gen-4: AI Video API Comparison for Developers",
-        "publisher": "SitePoint",
-        "url": "https://www.sitepoint.com/seedance2-vs-sora2-vs-runway-gen4/",
-        "publishedAt": "2026-03-09T00:00:00.000Z"
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "publisher": "Anthropic",
+        "url": "https://www.anthropic.com/glasswing",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
       }
     ],
     "generation": {
-      "model": "manual-cron-editor",
-      "promptVersion": "article-vi-structured-v1",
-      "generatedAt": "2026-05-24T00:20:00.000Z",
-      "sourceClusterId": "manual_ai-video_2026-05-24",
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_anthropic-glasswing-cyber-agent",
       "confidence": "high"
-    },
-    "status": "published"
+    }
   },
+  {
+    "id": "manual_anthropic-glasswing-cyber-agent_2026-05-25_en",
+    "slug": "project-glasswing-ai-agents-move-into-critical-software-defense",
+    "lang": "en",
+    "status": "published",
+    "category": "ai-agentic",
+    "title": "Project Glasswing: AI agents move into critical software defense",
+    "subtitle": "Anthropic is pushing Claude into critical software defense. For builders, this is less a cybersecurity headline than a signal that agents will be judged inside real systems with real risk.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "anthropic",
+      "claude",
+      "ai-agent",
+      "cybersecurity",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
+      "alt": "Project Glasswing: AI agents move into critical software defense",
+      "caption": "Project Glasswing: Securing critical software for the AI era",
+      "credit": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/glasswing"
+    },
+    "highlights": [
+      {
+        "text": "Anthropic is pushing Claude into critical software defense. For builders, this is less a cybersecurity headline than a signal that agents will be judged inside real systems with real risk."
+      },
+      {
+        "text": "The important signal is not the benchmark; it is workflow control: repairing shots, preserving style, producing small PRs or leaving an audit trail."
+      },
+      {
+        "text": "Recommendation: test on a real job for 60-90 minutes and measure revision loops plus usable-output rate before changing the pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Why this news should make you reopen the workflow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If your agent workflow still means asking a bot to write small CRUD functions, Glasswing is a useful slap. Anthropic is talking about critical software defense, but the larger story is that useful agents must read codebases, understand dependencies, form hypotheses, verify them and leave an auditable trail."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
+            "alt": "Project Glasswing: AI agents move into critical software defense",
+            "caption": "Project Glasswing: Securing critical software for the AI era",
+            "credit": "Anthropic",
+            "sourceUrl": "https://www.anthropic.com/glasswing",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Anthropic is pushing Claude into critical software defense. For builders, this is less a cybersecurity headline than a signal that agents will be judged inside real systems with real risk."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Deep analysis: the signal is in the workflow, not the PR wording",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The important move is that Anthropic frames AI as defense infrastructure rather than a flashy exploit demo. It is also a commercial test: enterprises pay serious money when agents reduce operational risk, not when they generate more noisy pull requests."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Use case",
+              "Real value",
+              "Risk"
+            ],
+            "rows": [
+              [
+                "Code audit",
+                "Find repeated bug patterns faster than manual review",
+                "False positives waste security time"
+              ],
+              [
+                "Dependency review",
+                "Prioritize packages with real blast radius",
+                "Missing runtime context"
+              ],
+              [
+                "Patch proposal",
+                "Shorten response time",
+                "Syntactically correct patch, wrong system intent"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The practical reading is to separate marketing language from what can enter production this week. If the release reduces render loops, review loops or gives agents and creator tools a better control trail, it deserves a small test. If it only adds another button without solving consistency, data rights or repairability, do not rush to replace the pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Critical perspective: do not buy the demo, buy recoverability",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "The trap",
+            "text": "Demos select favorable cases. Production gets the bad cases: vague briefs, missing assets, short deadlines, client reversals and policy blocks. A tool that does not support controlled recovery merely lets the team render faster before getting stuck."
+          },
+          {
+            "type": "paragraph",
+            "text": "A simple criterion: when the output is wrong, can you fix the wrong part, or must you start over? For AI video, that means shot and motion repair. For coding agents, smaller diffs. For image workflows, locked style and reference. For cybersecurity agents, explainable findings."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Opportunities for creators and builders",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Run a small test with a real brief, not the vendor demo prompt.",
+              "Track revision count, render/API cost and usable-output rate.",
+              "Turn the winning workflow into a template: prompt, references, node graph and review checklist.",
+              "Do not sell “faster AI”; sell “fewer rejection loops”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hot news only matters when it improves today’s workflow. The thing to watch this week is which tool turns AI from an output generator into a controllable, recoverable and handoff-ready system. That is where production money sits."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews take",
+        "text": "This news cluster matters because it touches production cost directly: revision time, consistency, governance and whether a workflow can be handed off to a team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Action takeaway",
+      "items": [
+        "Pick a real use case, not a generic benchmark.",
+        "Save inputs, outputs, cost and failures for a one-week comparison.",
+        "Adopt only if the tool improves recovery, not merely generation speed."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "publisher": "Anthropic",
+        "url": "https://www.anthropic.com/glasswing",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_anthropic-glasswing-cyber-agent",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_runway-gen-45-video-control_2026-05-25_vi",
+    "slug": "runway-gen-4-5-cuoc-ua-ai-video-chuyen-tu-ep-sang-kiem-soat-uoc",
+    "lang": "vi",
+    "status": "published",
+    "category": "ai-video",
+    "title": "Runway Gen-4.5: cuộc đua AI video chuyển từ đẹp sang kiểm soát được",
+    "subtitle": "Runway gọi Gen-4.5 là model video có độ trung thực và creative control cao hơn. Với production, câu hỏi không phải clip đầu tiên đẹp không, mà shot thứ ba có còn giữ nhân vật, ánh sáng và logic chuyển động hay không.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "runway",
+      "gen-4.5",
+      "ai-video",
+      "creator-workflow",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/research/gen/launch-post/card-gen-4.5.png",
+      "alt": "Runway Gen-4.5: cuộc đua AI video chuyển từ đẹp sang kiểm soát được",
+      "caption": "Introducing Runway Gen-4.5",
+      "credit": "Runway",
+      "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4.5"
+    },
+    "highlights": [
+      {
+        "text": "Runway gọi Gen-4.5 là model video có độ trung thực và creative control cao hơn. Với production, câu hỏi không phải clip đầu tiên đẹp không, mà shot thứ ba có còn giữ nhân vật, ánh sáng và logic chuyển động hay không."
+      },
+      {
+        "text": "Tín hiệu quan trọng không nằm ở benchmark, mà ở khả năng kiểm soát workflow: sửa shot, giữ style, tạo PR nhỏ, hoặc để lại audit trail."
+      },
+      {
+        "text": "Khuyến nghị: test trên một job thật trong 60-90 phút, đo số vòng sửa và tỷ lệ output dùng được trước khi đổi pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Vì sao tin này đáng để mở workflow ra xem lại",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "AI video đẹp thì giờ không hiếm. Cái hiếm là clip đẹp sau khi client bắt sửa ba vòng. Gen-4.5 đáng chú ý vì Runway đang bán đúng thứ production cần: kiểm soát, fidelity và khả năng giữ ý đồ đạo diễn qua nhiều biến thể."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/research/gen/launch-post/card-gen-4.5.png",
+            "alt": "Runway Gen-4.5: cuộc đua AI video chuyển từ đẹp sang kiểm soát được",
+            "caption": "Introducing Runway Gen-4.5",
+            "credit": "Runway",
+            "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4.5",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Runway gọi Gen-4.5 là model video có độ trung thực và creative control cao hơn. Với production, câu hỏi không phải clip đầu tiên đẹp không, mà shot thứ ba có còn giữ nhân vật, ánh sáng và logic chuyển động hay không."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Phân tích chi tiết: tín hiệu nằm ở workflow, không nằm ở câu chữ PR",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đừng đọc release này như cuộc thi benchmark. Hãy đọc như một tín hiệu workflow: image-to-video, reference, edit pass và shot consistency đang trở thành tiêu chuẩn mua tool, không còn là tính năng phụ."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Tiêu chí",
+              "Clip demo",
+              "Production thật"
+            ],
+            "rows": [
+              [
+                "Fidelity",
+                "Một shot đẹp là đủ gây wow",
+                "Nhiều shot phải cùng ngôn ngữ hình ảnh"
+              ],
+              [
+                "Control",
+                "Prompt dài có thể ăn may",
+                "Cần reference và sửa được từng pass"
+              ],
+              [
+                "Cost",
+                "Tính theo lượt render",
+                "Tính theo số vòng reject của client"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Cách đọc thực dụng là tách phần marketing khỏi phần có thể đưa vào sản xuất tuần này. Nếu thông báo giúp giảm vòng render, giảm vòng review, hoặc làm agent/creator tool để lại dấu vết kiểm soát tốt hơn, nó đáng thử trên một job nhỏ. Nếu nó chỉ thêm một nút bấm mới nhưng không giải quyết consistency, quyền dữ liệu hoặc khả năng sửa lỗi, đừng vội thay pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Góc nhìn phản biện: đừng mua demo, hãy mua khả năng sửa sai",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "Cái bẫy",
+            "text": "Demo luôn chọn case thuận lợi. Production luôn gặp case xấu: brief mơ hồ, asset thiếu, deadline gấp, client đổi ý, policy chặn output. Tool nào không giúp sửa sai có kiểm soát thì chỉ làm team render nhanh hơn trước khi kẹt."
+          },
+          {
+            "type": "paragraph",
+            "text": "Một tiêu chí đơn giản: sau khi output sai, anh có sửa đúng chỗ sai không, hay phải đập đi làm lại? Với AI video là sửa shot và motion. Với coding agent là sửa diff nhỏ. Với image workflow là khoá style và seed/reference. Với cybersecurity agent là chứng minh được vì sao nó kết luận."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Cơ hội cho creator và builder",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Chạy một test nhỏ với brief thật, không dùng prompt demo của hãng.",
+              "Ghi lại số vòng sửa, chi phí render/API và tỷ lệ output dùng được.",
+              "Biến workflow thắng thành template: prompt, reference, node graph, checklist review.",
+              "Đừng bán “AI nhanh hơn”; hãy bán “ít vòng reject hơn”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tin hot chỉ có giá trị khi nó làm workflow hôm nay tốt hơn. Với RadaNews, điểm cần theo dõi trong tuần tới là tool nào biến AI từ máy tạo output thành hệ thống có thể kiểm soát, sửa sai và bàn giao. Đó mới là nơi tiền production nằm."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews nhận định",
+        "text": "Đây là nhóm tin đáng theo dõi vì nó chạm trực tiếp vào chi phí sản xuất: thời gian sửa, consistency, governance và khả năng bàn giao workflow cho team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Takeaway hành động",
+      "items": [
+        "Chọn một use case thật, không benchmark chung chung.",
+        "Lưu input/output, chi phí và lỗi để so sánh sau một tuần.",
+        "Chỉ đưa vào pipeline nếu tool giúp sửa sai tốt hơn, không chỉ tạo output nhanh hơn."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Introducing Runway Gen-4.5",
+        "publisher": "Runway",
+        "url": "https://runwayml.com/research/introducing-runway-gen-4.5",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_runway-gen-45-video-control",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_runway-gen-45-video-control_2026-05-25_en",
+    "slug": "runway-gen-4-5-ai-video-shifts-from-looking-good-to-staying-controllab",
+    "lang": "en",
+    "status": "published",
+    "category": "ai-video",
+    "title": "Runway Gen-4.5: AI video shifts from looking good to staying controllable",
+    "subtitle": "Runway positions Gen-4.5 around visual fidelity and creative control. In production, the question is not whether the first clip looks good; it is whether the third shot keeps character, lighting and motion logic intact.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "runway",
+      "gen-4.5",
+      "ai-video",
+      "creator-workflow",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/research/gen/launch-post/card-gen-4.5.png",
+      "alt": "Runway Gen-4.5: AI video shifts from looking good to staying controllable",
+      "caption": "Introducing Runway Gen-4.5",
+      "credit": "Runway",
+      "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4.5"
+    },
+    "highlights": [
+      {
+        "text": "Runway positions Gen-4.5 around visual fidelity and creative control. In production, the question is not whether the first clip looks good; it is whether the third shot keeps character, lighting and motion logic intact."
+      },
+      {
+        "text": "The important signal is not the benchmark; it is workflow control: repairing shots, preserving style, producing small PRs or leaving an audit trail."
+      },
+      {
+        "text": "Recommendation: test on a real job for 60-90 minutes and measure revision loops plus usable-output rate before changing the pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Why this news should make you reopen the workflow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Good-looking AI video is no longer rare. What is rare is a good-looking clip after three rounds of client revisions. Gen-4.5 matters because Runway is selling what production teams actually need: control, fidelity and the ability to preserve direction across variants."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/research/gen/launch-post/card-gen-4.5.png",
+            "alt": "Runway Gen-4.5: AI video shifts from looking good to staying controllable",
+            "caption": "Introducing Runway Gen-4.5",
+            "credit": "Runway",
+            "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4.5",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Runway positions Gen-4.5 around visual fidelity and creative control. In production, the question is not whether the first clip looks good; it is whether the third shot keeps character, lighting and motion logic intact."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Deep analysis: the signal is in the workflow, not the PR wording",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Do not read this as a benchmark contest. Read it as a workflow signal: image-to-video, references, edit passes and shot consistency are becoming buying criteria, not side features."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Criterion",
+              "Demo clip",
+              "Real production"
+            ],
+            "rows": [
+              [
+                "Fidelity",
+                "One beautiful shot creates the wow",
+                "Many shots need the same visual language"
+              ],
+              [
+                "Control",
+                "A long prompt may get lucky",
+                "References and iterative edits are required"
+              ],
+              [
+                "Cost",
+                "Measured per render",
+                "Measured by client rejection loops"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The practical reading is to separate marketing language from what can enter production this week. If the release reduces render loops, review loops or gives agents and creator tools a better control trail, it deserves a small test. If it only adds another button without solving consistency, data rights or repairability, do not rush to replace the pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Critical perspective: do not buy the demo, buy recoverability",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "The trap",
+            "text": "Demos select favorable cases. Production gets the bad cases: vague briefs, missing assets, short deadlines, client reversals and policy blocks. A tool that does not support controlled recovery merely lets the team render faster before getting stuck."
+          },
+          {
+            "type": "paragraph",
+            "text": "A simple criterion: when the output is wrong, can you fix the wrong part, or must you start over? For AI video, that means shot and motion repair. For coding agents, smaller diffs. For image workflows, locked style and reference. For cybersecurity agents, explainable findings."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Opportunities for creators and builders",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Run a small test with a real brief, not the vendor demo prompt.",
+              "Track revision count, render/API cost and usable-output rate.",
+              "Turn the winning workflow into a template: prompt, references, node graph and review checklist.",
+              "Do not sell “faster AI”; sell “fewer rejection loops”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hot news only matters when it improves today’s workflow. The thing to watch this week is which tool turns AI from an output generator into a controllable, recoverable and handoff-ready system. That is where production money sits."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews take",
+        "text": "This news cluster matters because it touches production cost directly: revision time, consistency, governance and whether a workflow can be handed off to a team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Action takeaway",
+      "items": [
+        "Pick a real use case, not a generic benchmark.",
+        "Save inputs, outputs, cost and failures for a one-week comparison.",
+        "Adopt only if the tool improves recovery, not merely generation speed."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Introducing Runway Gen-4.5",
+        "publisher": "Runway",
+        "url": "https://runwayml.com/research/introducing-runway-gen-4.5",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_runway-gen-45-video-control",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_google-veo-31-flow-audio_2026-05-25_vi",
+    "slug": "veo-3-1-va-flow-prompt-video-bat-au-tinh-ca-am-thanh-nhip-dung-va-sua-",
+    "lang": "vi",
+    "status": "published",
+    "category": "prompt-video",
+    "title": "Veo 3.1 và Flow: prompt video bắt đầu tính cả âm thanh, nhịp dựng và sửa shot",
+    "subtitle": "Google nhấn mạnh Veo 3.1 và Flow với creative controls, audio và khả năng chỉnh clip chính xác hơn. Đây là dấu hiệu prompt video đang rời khỏi kiểu “một câu ra một clip” để đi vào workflow dựng phim.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "google",
+      "veo",
+      "flow",
+      "prompt-video",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1_Social_v3.width-1300.png",
+      "alt": "Veo 3.1 và Flow: prompt video bắt đầu tính cả âm thanh, nhịp dựng và sửa shot",
+      "caption": "Introducing Veo 3.1 and advanced capabilities in Flow",
+      "credit": "Google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/veo-updates-flow/"
+    },
+    "highlights": [
+      {
+        "text": "Google nhấn mạnh Veo 3.1 và Flow với creative controls, audio và khả năng chỉnh clip chính xác hơn. Đây là dấu hiệu prompt video đang rời khỏi kiểu “một câu ra một clip” để đi vào workflow dựng phim."
+      },
+      {
+        "text": "Tín hiệu quan trọng không nằm ở benchmark, mà ở khả năng kiểm soát workflow: sửa shot, giữ style, tạo PR nhỏ, hoặc để lại audit trail."
+      },
+      {
+        "text": "Khuyến nghị: test trên một job thật trong 60-90 phút, đo số vòng sửa và tỷ lệ output dùng được trước khi đổi pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Vì sao tin này đáng để mở workflow ra xem lại",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Prompt video tệ nhất là prompt chỉ tả hình. Clip có thể sắc nét, nhưng nếu nhịp dựng sai, tiếng động vô duyên, chuyển cảnh gãy thì vẫn vứt. Veo 3.1 đáng chú ý vì Google đang kéo prompt vào cả audio và công đoạn sửa clip."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1_Social_v3.width-1300.png",
+            "alt": "Veo 3.1 và Flow: prompt video bắt đầu tính cả âm thanh, nhịp dựng và sửa shot",
+            "caption": "Introducing Veo 3.1 and advanced capabilities in Flow",
+            "credit": "Google",
+            "sourceUrl": "https://blog.google/innovation-and-ai/products/veo-updates-flow/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Google nhấn mạnh Veo 3.1 và Flow với creative controls, audio và khả năng chỉnh clip chính xác hơn. Đây là dấu hiệu prompt video đang rời khỏi kiểu “một câu ra một clip” để đi vào workflow dựng phim."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Phân tích chi tiết: tín hiệu nằm ở workflow, không nằm ở câu chữ PR",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Creator nên xem Flow như bàn dựng mini, không chỉ là ô nhập prompt. Ai biết viết shot list, mô tả âm thanh và chỉ định điểm sửa sẽ có lợi hơn người chỉ spam từ khóa cinematic."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Prompt cũ",
+              "Prompt mới"
+            ],
+            "rows": [
+              [
+                "“Cinematic drone shot”",
+                "Shot 1 mở rộng, tiếng gió nhẹ, cut ở giây 4 khi nhân vật quay đầu"
+              ],
+              [
+                "Chỉ mô tả style",
+                "Mô tả hành động, nhịp, âm thanh, điểm cần sửa"
+              ],
+              [
+                "Render lại toàn bộ",
+                "Sửa clip theo vùng/đoạn cụ thể"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Cách đọc thực dụng là tách phần marketing khỏi phần có thể đưa vào sản xuất tuần này. Nếu thông báo giúp giảm vòng render, giảm vòng review, hoặc làm agent/creator tool để lại dấu vết kiểm soát tốt hơn, nó đáng thử trên một job nhỏ. Nếu nó chỉ thêm một nút bấm mới nhưng không giải quyết consistency, quyền dữ liệu hoặc khả năng sửa lỗi, đừng vội thay pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Góc nhìn phản biện: đừng mua demo, hãy mua khả năng sửa sai",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "Cái bẫy",
+            "text": "Demo luôn chọn case thuận lợi. Production luôn gặp case xấu: brief mơ hồ, asset thiếu, deadline gấp, client đổi ý, policy chặn output. Tool nào không giúp sửa sai có kiểm soát thì chỉ làm team render nhanh hơn trước khi kẹt."
+          },
+          {
+            "type": "paragraph",
+            "text": "Một tiêu chí đơn giản: sau khi output sai, anh có sửa đúng chỗ sai không, hay phải đập đi làm lại? Với AI video là sửa shot và motion. Với coding agent là sửa diff nhỏ. Với image workflow là khoá style và seed/reference. Với cybersecurity agent là chứng minh được vì sao nó kết luận."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Cơ hội cho creator và builder",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Chạy một test nhỏ với brief thật, không dùng prompt demo của hãng.",
+              "Ghi lại số vòng sửa, chi phí render/API và tỷ lệ output dùng được.",
+              "Biến workflow thắng thành template: prompt, reference, node graph, checklist review.",
+              "Đừng bán “AI nhanh hơn”; hãy bán “ít vòng reject hơn”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tin hot chỉ có giá trị khi nó làm workflow hôm nay tốt hơn. Với RadaNews, điểm cần theo dõi trong tuần tới là tool nào biến AI từ máy tạo output thành hệ thống có thể kiểm soát, sửa sai và bàn giao. Đó mới là nơi tiền production nằm."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews nhận định",
+        "text": "Đây là nhóm tin đáng theo dõi vì nó chạm trực tiếp vào chi phí sản xuất: thời gian sửa, consistency, governance và khả năng bàn giao workflow cho team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Takeaway hành động",
+      "items": [
+        "Chọn một use case thật, không benchmark chung chung.",
+        "Lưu input/output, chi phí và lỗi để so sánh sau một tuần.",
+        "Chỉ đưa vào pipeline nếu tool giúp sửa sai tốt hơn, không chỉ tạo output nhanh hơn."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
+        "publisher": "Google",
+        "url": "https://blog.google/innovation-and-ai/products/veo-updates-flow/",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_google-veo-31-flow-audio",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_google-veo-31-flow-audio_2026-05-25_en",
+    "slug": "veo-3-1-and-flow-video-prompting-now-includes-sound-pacing-and-shot-re",
+    "lang": "en",
+    "status": "published",
+    "category": "prompt-video",
+    "title": "Veo 3.1 and Flow: video prompting now includes sound, pacing and shot repair",
+    "subtitle": "Google is emphasizing Veo 3.1 and Flow with creative controls, audio and more precise clip editing. Video prompting is moving away from one-sentence clip generation toward an editing workflow.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "google",
+      "veo",
+      "flow",
+      "prompt-video",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1_Social_v3.width-1300.png",
+      "alt": "Veo 3.1 and Flow: video prompting now includes sound, pacing and shot repair",
+      "caption": "Introducing Veo 3.1 and advanced capabilities in Flow",
+      "credit": "Google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/veo-updates-flow/"
+    },
+    "highlights": [
+      {
+        "text": "Google is emphasizing Veo 3.1 and Flow with creative controls, audio and more precise clip editing. Video prompting is moving away from one-sentence clip generation toward an editing workflow."
+      },
+      {
+        "text": "The important signal is not the benchmark; it is workflow control: repairing shots, preserving style, producing small PRs or leaving an audit trail."
+      },
+      {
+        "text": "Recommendation: test on a real job for 60-90 minutes and measure revision loops plus usable-output rate before changing the pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Why this news should make you reopen the workflow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The worst video prompt only describes the image. A clip can be sharp, but if pacing is wrong, sound is awkward and transitions break, it is still unusable. Veo 3.1 matters because Google is pulling prompting into audio and clip repair."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1_Social_v3.width-1300.png",
+            "alt": "Veo 3.1 and Flow: video prompting now includes sound, pacing and shot repair",
+            "caption": "Introducing Veo 3.1 and advanced capabilities in Flow",
+            "credit": "Google",
+            "sourceUrl": "https://blog.google/innovation-and-ai/products/veo-updates-flow/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Google is emphasizing Veo 3.1 and Flow with creative controls, audio and more precise clip editing. Video prompting is moving away from one-sentence clip generation toward an editing workflow."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Deep analysis: the signal is in the workflow, not the PR wording",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Creators should treat Flow as a small editing desk, not just a prompt box. The advantage goes to people who can write shot lists, describe sound and specify repair points rather than spam cinematic keywords."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Old prompt",
+              "New prompt"
+            ],
+            "rows": [
+              [
+                "“Cinematic drone shot”",
+                "Wide opening shot, light wind, cut at second 4 as character turns"
+              ],
+              [
+                "Style only",
+                "Action, pacing, sound and repair point"
+              ],
+              [
+                "Regenerate everything",
+                "Fix a specific region or segment"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The practical reading is to separate marketing language from what can enter production this week. If the release reduces render loops, review loops or gives agents and creator tools a better control trail, it deserves a small test. If it only adds another button without solving consistency, data rights or repairability, do not rush to replace the pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Critical perspective: do not buy the demo, buy recoverability",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "The trap",
+            "text": "Demos select favorable cases. Production gets the bad cases: vague briefs, missing assets, short deadlines, client reversals and policy blocks. A tool that does not support controlled recovery merely lets the team render faster before getting stuck."
+          },
+          {
+            "type": "paragraph",
+            "text": "A simple criterion: when the output is wrong, can you fix the wrong part, or must you start over? For AI video, that means shot and motion repair. For coding agents, smaller diffs. For image workflows, locked style and reference. For cybersecurity agents, explainable findings."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Opportunities for creators and builders",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Run a small test with a real brief, not the vendor demo prompt.",
+              "Track revision count, render/API cost and usable-output rate.",
+              "Turn the winning workflow into a template: prompt, references, node graph and review checklist.",
+              "Do not sell “faster AI”; sell “fewer rejection loops”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hot news only matters when it improves today’s workflow. The thing to watch this week is which tool turns AI from an output generator into a controllable, recoverable and handoff-ready system. That is where production money sits."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews take",
+        "text": "This news cluster matters because it touches production cost directly: revision time, consistency, governance and whether a workflow can be handed off to a team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Action takeaway",
+      "items": [
+        "Pick a real use case, not a generic benchmark.",
+        "Save inputs, outputs, cost and failures for a one-week comparison.",
+        "Adopt only if the tool improves recovery, not merely generation speed."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
+        "publisher": "Google",
+        "url": "https://blog.google/innovation-and-ai/products/veo-updates-flow/",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_google-veo-31-flow-audio",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_github-copilot-coding-agent-build_2026-05-25_vi",
+    "slug": "github-copilot-coding-agent-vibe-coding-buoc-vao-pull-request-that",
+    "lang": "vi",
+    "status": "published",
+    "category": "ai-vibe-coding",
+    "title": "GitHub Copilot coding agent: vibe coding bước vào pull request thật",
+    "subtitle": "GitHub đưa coding agent vào Copilot theo hướng enterprise-ready. Tin đáng quan tâm không phải agent biết viết code, mà là nó được nhúng vào vòng đời issue, branch, PR, review và bảo mật.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "github",
+      "copilot",
+      "coding-agent",
+      "vibe-coding",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://images.ctfassets.net/8aevphvgewt8/6aEF0LnKI9Tjgv81ggzpCD/b1af8fd613a72ba9644ec3a1650d8b79/github-logo-productivity-theme.webp",
+      "alt": "GitHub Copilot coding agent: vibe coding bước vào pull request thật",
+      "caption": "GitHub Introduces Coding Agent For GitHub Copilot",
+      "credit": "GitHub",
+      "sourceUrl": "https://github.com/newsroom/press-releases/coding-agent-for-github-copilot"
+    },
+    "highlights": [
+      {
+        "text": "GitHub đưa coding agent vào Copilot theo hướng enterprise-ready. Tin đáng quan tâm không phải agent biết viết code, mà là nó được nhúng vào vòng đời issue, branch, PR, review và bảo mật."
+      },
+      {
+        "text": "Tín hiệu quan trọng không nằm ở benchmark, mà ở khả năng kiểm soát workflow: sửa shot, giữ style, tạo PR nhỏ, hoặc để lại audit trail."
+      },
+      {
+        "text": "Khuyến nghị: test trên một job thật trong 60-90 phút, đo số vòng sửa và tỷ lệ output dùng được trước khi đổi pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Vì sao tin này đáng để mở workflow ra xem lại",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Vibe coding vui nhất là lúc app chạy được lần đầu. Vibe coding đau nhất là lúc phải merge vào repo có người dùng thật. Coding agent của GitHub đáng chú ý vì nó không đứng ngoài IDE để biểu diễn, nó chui thẳng vào quy trình PR."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://images.ctfassets.net/8aevphvgewt8/6aEF0LnKI9Tjgv81ggzpCD/b1af8fd613a72ba9644ec3a1650d8b79/github-logo-productivity-theme.webp",
+            "alt": "GitHub Copilot coding agent: vibe coding bước vào pull request thật",
+            "caption": "GitHub Introduces Coding Agent For GitHub Copilot",
+            "credit": "GitHub",
+            "sourceUrl": "https://github.com/newsroom/press-releases/coding-agent-for-github-copilot",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "GitHub đưa coding agent vào Copilot theo hướng enterprise-ready. Tin đáng quan tâm không phải agent biết viết code, mà là nó được nhúng vào vòng đời issue, branch, PR, review và bảo mật."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Phân tích chi tiết: tín hiệu nằm ở workflow, không nằm ở câu chữ PR",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nếu agent không biết issue context, test command, coding standard và review comment, nó chỉ là autocomplete đắt tiền. GitHub đang biến agent thành một worker có hàng rào, không phải một chatbot thích nói nhiều."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Cấp độ",
+              "Dấu hiệu tốt",
+              "Dấu hiệu xấu"
+            ],
+            "rows": [
+              [
+                "Prototype",
+                "Tạo nhanh route, UI, test sơ bộ",
+                "Không hiểu kiến trúc"
+              ],
+              [
+                "PR",
+                "Commit nhỏ, mô tả rõ, test chạy được",
+                "Diff lớn, sửa lan man"
+              ],
+              [
+                "Maintenance",
+                "Theo issue và review",
+                "Tạo nợ kỹ thuật mới"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Cách đọc thực dụng là tách phần marketing khỏi phần có thể đưa vào sản xuất tuần này. Nếu thông báo giúp giảm vòng render, giảm vòng review, hoặc làm agent/creator tool để lại dấu vết kiểm soát tốt hơn, nó đáng thử trên một job nhỏ. Nếu nó chỉ thêm một nút bấm mới nhưng không giải quyết consistency, quyền dữ liệu hoặc khả năng sửa lỗi, đừng vội thay pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Góc nhìn phản biện: đừng mua demo, hãy mua khả năng sửa sai",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "Cái bẫy",
+            "text": "Demo luôn chọn case thuận lợi. Production luôn gặp case xấu: brief mơ hồ, asset thiếu, deadline gấp, client đổi ý, policy chặn output. Tool nào không giúp sửa sai có kiểm soát thì chỉ làm team render nhanh hơn trước khi kẹt."
+          },
+          {
+            "type": "paragraph",
+            "text": "Một tiêu chí đơn giản: sau khi output sai, anh có sửa đúng chỗ sai không, hay phải đập đi làm lại? Với AI video là sửa shot và motion. Với coding agent là sửa diff nhỏ. Với image workflow là khoá style và seed/reference. Với cybersecurity agent là chứng minh được vì sao nó kết luận."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Cơ hội cho creator và builder",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Chạy một test nhỏ với brief thật, không dùng prompt demo của hãng.",
+              "Ghi lại số vòng sửa, chi phí render/API và tỷ lệ output dùng được.",
+              "Biến workflow thắng thành template: prompt, reference, node graph, checklist review.",
+              "Đừng bán “AI nhanh hơn”; hãy bán “ít vòng reject hơn”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tin hot chỉ có giá trị khi nó làm workflow hôm nay tốt hơn. Với RadaNews, điểm cần theo dõi trong tuần tới là tool nào biến AI từ máy tạo output thành hệ thống có thể kiểm soát, sửa sai và bàn giao. Đó mới là nơi tiền production nằm."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews nhận định",
+        "text": "Đây là nhóm tin đáng theo dõi vì nó chạm trực tiếp vào chi phí sản xuất: thời gian sửa, consistency, governance và khả năng bàn giao workflow cho team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Takeaway hành động",
+      "items": [
+        "Chọn một use case thật, không benchmark chung chung.",
+        "Lưu input/output, chi phí và lỗi để so sánh sau một tuần.",
+        "Chỉ đưa vào pipeline nếu tool giúp sửa sai tốt hơn, không chỉ tạo output nhanh hơn."
+      ]
+    },
+    "sources": [
+      {
+        "title": "GitHub Introduces Coding Agent For GitHub Copilot",
+        "publisher": "GitHub",
+        "url": "https://github.com/newsroom/press-releases/coding-agent-for-github-copilot",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_github-copilot-coding-agent-build",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_github-copilot-coding-agent-build_2026-05-25_en",
+    "slug": "github-copilot-coding-agent-vibe-coding-moves-into-real-pull-requests",
+    "lang": "en",
+    "status": "published",
+    "category": "ai-vibe-coding",
+    "title": "GitHub Copilot coding agent: vibe coding moves into real pull requests",
+    "subtitle": "GitHub is pushing a Copilot coding agent with an enterprise-ready frame. The news is not that an agent can write code; it is that it sits inside issues, branches, PRs, reviews and security controls.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "github",
+      "copilot",
+      "coding-agent",
+      "vibe-coding",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://images.ctfassets.net/8aevphvgewt8/6aEF0LnKI9Tjgv81ggzpCD/b1af8fd613a72ba9644ec3a1650d8b79/github-logo-productivity-theme.webp",
+      "alt": "GitHub Copilot coding agent: vibe coding moves into real pull requests",
+      "caption": "GitHub Introduces Coding Agent For GitHub Copilot",
+      "credit": "GitHub",
+      "sourceUrl": "https://github.com/newsroom/press-releases/coding-agent-for-github-copilot"
+    },
+    "highlights": [
+      {
+        "text": "GitHub is pushing a Copilot coding agent with an enterprise-ready frame. The news is not that an agent can write code; it is that it sits inside issues, branches, PRs, reviews and security controls."
+      },
+      {
+        "text": "The important signal is not the benchmark; it is workflow control: repairing shots, preserving style, producing small PRs or leaving an audit trail."
+      },
+      {
+        "text": "Recommendation: test on a real job for 60-90 minutes and measure revision loops plus usable-output rate before changing the pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Why this news should make you reopen the workflow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Vibe coding is most fun when the app runs for the first time. It is most painful when the work must merge into a repo with real users. GitHub’s coding agent matters because it does not perform outside the IDE; it enters the pull-request workflow."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://images.ctfassets.net/8aevphvgewt8/6aEF0LnKI9Tjgv81ggzpCD/b1af8fd613a72ba9644ec3a1650d8b79/github-logo-productivity-theme.webp",
+            "alt": "GitHub Copilot coding agent: vibe coding moves into real pull requests",
+            "caption": "GitHub Introduces Coding Agent For GitHub Copilot",
+            "credit": "GitHub",
+            "sourceUrl": "https://github.com/newsroom/press-releases/coding-agent-for-github-copilot",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "GitHub is pushing a Copilot coding agent with an enterprise-ready frame. The news is not that an agent can write code; it is that it sits inside issues, branches, PRs, reviews and security controls."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Deep analysis: the signal is in the workflow, not the PR wording",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If an agent does not understand issue context, test commands, coding standards and review comments, it is expensive autocomplete. GitHub is turning the agent into a fenced worker, not a chatty bot."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Level",
+              "Good signal",
+              "Bad signal"
+            ],
+            "rows": [
+              [
+                "Prototype",
+                "Creates route, UI and basic tests quickly",
+                "Does not understand architecture"
+              ],
+              [
+                "PR",
+                "Small commits, clear description, passing tests",
+                "Huge diffuse diff"
+              ],
+              [
+                "Maintenance",
+                "Follows issue and review",
+                "Creates new technical debt"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The practical reading is to separate marketing language from what can enter production this week. If the release reduces render loops, review loops or gives agents and creator tools a better control trail, it deserves a small test. If it only adds another button without solving consistency, data rights or repairability, do not rush to replace the pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Critical perspective: do not buy the demo, buy recoverability",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "The trap",
+            "text": "Demos select favorable cases. Production gets the bad cases: vague briefs, missing assets, short deadlines, client reversals and policy blocks. A tool that does not support controlled recovery merely lets the team render faster before getting stuck."
+          },
+          {
+            "type": "paragraph",
+            "text": "A simple criterion: when the output is wrong, can you fix the wrong part, or must you start over? For AI video, that means shot and motion repair. For coding agents, smaller diffs. For image workflows, locked style and reference. For cybersecurity agents, explainable findings."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Opportunities for creators and builders",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Run a small test with a real brief, not the vendor demo prompt.",
+              "Track revision count, render/API cost and usable-output rate.",
+              "Turn the winning workflow into a template: prompt, references, node graph and review checklist.",
+              "Do not sell “faster AI”; sell “fewer rejection loops”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hot news only matters when it improves today’s workflow. The thing to watch this week is which tool turns AI from an output generator into a controllable, recoverable and handoff-ready system. That is where production money sits."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews take",
+        "text": "This news cluster matters because it touches production cost directly: revision time, consistency, governance and whether a workflow can be handed off to a team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Action takeaway",
+      "items": [
+        "Pick a real use case, not a generic benchmark.",
+        "Save inputs, outputs, cost and failures for a one-week comparison.",
+        "Adopt only if the tool improves recovery, not merely generation speed."
+      ]
+    },
+    "sources": [
+      {
+        "title": "GitHub Introduces Coding Agent For GitHub Copilot",
+        "publisher": "GitHub",
+        "url": "https://github.com/newsroom/press-releases/coding-agent-for-github-copilot",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_github-copilot-coding-agent-build",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_nvidia-comfyui-creator-workflows_2026-05-25_vi",
+    "slug": "nvidia-ay-comfyui-vao-production-workflow-node-khong-con-la-o-choi-ner",
+    "lang": "vi",
+    "status": "published",
+    "category": "ai-image",
+    "title": "NVIDIA đẩy ComfyUI vào production: workflow node không còn là đồ chơi nerd",
+    "subtitle": "NVIDIA hướng dẫn xây, chạy và scale creator workflow chất lượng cao trong ComfyUI. Với studio nhỏ, đây là tín hiệu ComfyUI đang rời nhóm hobby để bước vào pipeline có GPU, template và vận hành.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "nvidia",
+      "comfyui",
+      "ai-image",
+      "workflow",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/workstation-tech-blog-600x338-1-500x282.gif",
+      "alt": "NVIDIA đẩy ComfyUI vào production: workflow node không còn là đồ chơi nerd",
+      "caption": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+      "credit": "NVIDIA Developer Blog",
+      "sourceUrl": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/"
+    },
+    "highlights": [
+      {
+        "text": "NVIDIA hướng dẫn xây, chạy và scale creator workflow chất lượng cao trong ComfyUI. Với studio nhỏ, đây là tín hiệu ComfyUI đang rời nhóm hobby để bước vào pipeline có GPU, template và vận hành."
+      },
+      {
+        "text": "Tín hiệu quan trọng không nằm ở benchmark, mà ở khả năng kiểm soát workflow: sửa shot, giữ style, tạo PR nhỏ, hoặc để lại audit trail."
+      },
+      {
+        "text": "Khuyến nghị: test trên một job thật trong 60-90 phút, đo số vòng sửa và tỷ lệ output dùng được trước khi đổi pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Vì sao tin này đáng để mở workflow ra xem lại",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "ComfyUI từng bị chê là bảng điện rối mắt. Nhưng với người làm production, node graph lại có một lợi thế cực lớn: nó ghi lại quy trình. Khi NVIDIA viết về scale workflow creator trong ComfyUI, đó là dấu hiệu node pipeline đang được hợp thức hóa."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/workstation-tech-blog-600x338-1-500x282.gif",
+            "alt": "NVIDIA đẩy ComfyUI vào production: workflow node không còn là đồ chơi nerd",
+            "caption": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+            "credit": "NVIDIA Developer Blog",
+            "sourceUrl": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "NVIDIA hướng dẫn xây, chạy và scale creator workflow chất lượng cao trong ComfyUI. Với studio nhỏ, đây là tín hiệu ComfyUI đang rời nhóm hobby để bước vào pipeline có GPU, template và vận hành."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Phân tích chi tiết: tín hiệu nằm ở workflow, không nằm ở câu chữ PR",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Studio không cần thêm prompt hay hơn; studio cần workflow lặp lại được. ComfyUI mạnh khi biến style, control, upscaling và batch thành một công thức có thể bàn giao cho team khác."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Bài toán",
+              "ComfyUI giúp gì",
+              "Cần canh chừng"
+            ],
+            "rows": [
+              [
+                "Style pack",
+                "Khoá node style/reference",
+                "Version model thay đổi output"
+              ],
+              [
+                "Batch asset",
+                "Chạy nhiều biến thể cùng graph",
+                "GPU queue và naming lộn xộn"
+              ],
+              [
+                "Client revision",
+                "Sửa node cụ thể thay vì prompt lại từ đầu",
+                "Graph quá phức tạp không ai đọc nổi"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Cách đọc thực dụng là tách phần marketing khỏi phần có thể đưa vào sản xuất tuần này. Nếu thông báo giúp giảm vòng render, giảm vòng review, hoặc làm agent/creator tool để lại dấu vết kiểm soát tốt hơn, nó đáng thử trên một job nhỏ. Nếu nó chỉ thêm một nút bấm mới nhưng không giải quyết consistency, quyền dữ liệu hoặc khả năng sửa lỗi, đừng vội thay pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Góc nhìn phản biện: đừng mua demo, hãy mua khả năng sửa sai",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "Cái bẫy",
+            "text": "Demo luôn chọn case thuận lợi. Production luôn gặp case xấu: brief mơ hồ, asset thiếu, deadline gấp, client đổi ý, policy chặn output. Tool nào không giúp sửa sai có kiểm soát thì chỉ làm team render nhanh hơn trước khi kẹt."
+          },
+          {
+            "type": "paragraph",
+            "text": "Một tiêu chí đơn giản: sau khi output sai, anh có sửa đúng chỗ sai không, hay phải đập đi làm lại? Với AI video là sửa shot và motion. Với coding agent là sửa diff nhỏ. Với image workflow là khoá style và seed/reference. Với cybersecurity agent là chứng minh được vì sao nó kết luận."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Cơ hội cho creator và builder",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Chạy một test nhỏ với brief thật, không dùng prompt demo của hãng.",
+              "Ghi lại số vòng sửa, chi phí render/API và tỷ lệ output dùng được.",
+              "Biến workflow thắng thành template: prompt, reference, node graph, checklist review.",
+              "Đừng bán “AI nhanh hơn”; hãy bán “ít vòng reject hơn”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tin hot chỉ có giá trị khi nó làm workflow hôm nay tốt hơn. Với RadaNews, điểm cần theo dõi trong tuần tới là tool nào biến AI từ máy tạo output thành hệ thống có thể kiểm soát, sửa sai và bàn giao. Đó mới là nơi tiền production nằm."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews nhận định",
+        "text": "Đây là nhóm tin đáng theo dõi vì nó chạm trực tiếp vào chi phí sản xuất: thời gian sửa, consistency, governance và khả năng bàn giao workflow cho team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Takeaway hành động",
+      "items": [
+        "Chọn một use case thật, không benchmark chung chung.",
+        "Lưu input/output, chi phí và lỗi để so sánh sau một tuần.",
+        "Chỉ đưa vào pipeline nếu tool giúp sửa sai tốt hơn, không chỉ tạo output nhanh hơn."
+      ]
+    },
+    "sources": [
+      {
+        "title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+        "publisher": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_nvidia-comfyui-creator-workflows",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_nvidia-comfyui-creator-workflows_2026-05-25_en",
+    "slug": "nvidia-pushes-comfyui-toward-production-node-workflows-are-no-longer-n",
+    "lang": "en",
+    "status": "published",
+    "category": "ai-image",
+    "title": "NVIDIA pushes ComfyUI toward production: node workflows are no longer nerd toys",
+    "subtitle": "NVIDIA is showing how to build, run and scale high-quality creator workflows in ComfyUI. For small studios, it signals that ComfyUI is moving from hobbyist graphs into GPU-backed production pipelines.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "nvidia",
+      "comfyui",
+      "ai-image",
+      "workflow",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/workstation-tech-blog-600x338-1-500x282.gif",
+      "alt": "NVIDIA pushes ComfyUI toward production: node workflows are no longer nerd toys",
+      "caption": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+      "credit": "NVIDIA Developer Blog",
+      "sourceUrl": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/"
+    },
+    "highlights": [
+      {
+        "text": "NVIDIA is showing how to build, run and scale high-quality creator workflows in ComfyUI. For small studios, it signals that ComfyUI is moving from hobbyist graphs into GPU-backed production pipelines."
+      },
+      {
+        "text": "The important signal is not the benchmark; it is workflow control: repairing shots, preserving style, producing small PRs or leaving an audit trail."
+      },
+      {
+        "text": "Recommendation: test on a real job for 60-90 minutes and measure revision loops plus usable-output rate before changing the pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Why this news should make you reopen the workflow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "ComfyUI used to be mocked as a messy circuit board. In production, that mess has a major advantage: it records the process. NVIDIA writing about scaling creator workflows in ComfyUI is a sign that node pipelines are being legitimized."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/workstation-tech-blog-600x338-1-500x282.gif",
+            "alt": "NVIDIA pushes ComfyUI toward production: node workflows are no longer nerd toys",
+            "caption": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+            "credit": "NVIDIA Developer Blog",
+            "sourceUrl": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "NVIDIA is showing how to build, run and scale high-quality creator workflows in ComfyUI. For small studios, it signals that ComfyUI is moving from hobbyist graphs into GPU-backed production pipelines."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Deep analysis: the signal is in the workflow, not the PR wording",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Studios do not need more magical prompts; they need repeatable workflows. ComfyUI is powerful when style, control, upscaling and batch work become a recipe another teammate can run."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Problem",
+              "How ComfyUI helps",
+              "Watch out"
+            ],
+            "rows": [
+              [
+                "Style pack",
+                "Locks style/reference nodes",
+                "Model version changes output"
+              ],
+              [
+                "Batch assets",
+                "Runs many variants through one graph",
+                "GPU queue and naming chaos"
+              ],
+              [
+                "Client revision",
+                "Fixes a node instead of reprompting from scratch",
+                "Graph becomes unreadable"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The practical reading is to separate marketing language from what can enter production this week. If the release reduces render loops, review loops or gives agents and creator tools a better control trail, it deserves a small test. If it only adds another button without solving consistency, data rights or repairability, do not rush to replace the pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Critical perspective: do not buy the demo, buy recoverability",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "The trap",
+            "text": "Demos select favorable cases. Production gets the bad cases: vague briefs, missing assets, short deadlines, client reversals and policy blocks. A tool that does not support controlled recovery merely lets the team render faster before getting stuck."
+          },
+          {
+            "type": "paragraph",
+            "text": "A simple criterion: when the output is wrong, can you fix the wrong part, or must you start over? For AI video, that means shot and motion repair. For coding agents, smaller diffs. For image workflows, locked style and reference. For cybersecurity agents, explainable findings."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Opportunities for creators and builders",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Run a small test with a real brief, not the vendor demo prompt.",
+              "Track revision count, render/API cost and usable-output rate.",
+              "Turn the winning workflow into a template: prompt, references, node graph and review checklist.",
+              "Do not sell “faster AI”; sell “fewer rejection loops”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hot news only matters when it improves today’s workflow. The thing to watch this week is which tool turns AI from an output generator into a controllable, recoverable and handoff-ready system. That is where production money sits."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews take",
+        "text": "This news cluster matters because it touches production cost directly: revision time, consistency, governance and whether a workflow can be handed off to a team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Action takeaway",
+      "items": [
+        "Pick a real use case, not a generic benchmark.",
+        "Save inputs, outputs, cost and failures for a one-week comparison.",
+        "Adopt only if the tool improves recovery, not merely generation speed."
+      ]
+    },
+    "sources": [
+      {
+        "title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+        "publisher": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_nvidia-comfyui-creator-workflows",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_adobe-firefly-custom-models_2026-05-25_vi",
+    "slug": "adobe-firefly-custom-models-prompt-image-ang-chuyen-tu-ep-sang-ung-bra",
+    "lang": "vi",
+    "status": "published",
+    "category": "prompt-image",
+    "title": "Adobe Firefly custom models: prompt image đang chuyển từ “đẹp” sang “đúng brand”",
+    "subtitle": "Adobe mở rộng Firefly với custom models và khả năng sáng tạo video/image mới. Với brand team, điểm ăn tiền là biến style thành tài sản tái sử dụng thay vì mỗi lần prompt lại cầu may.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "adobe",
+      "firefly",
+      "custom-models",
+      "prompt-image",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://blog.adobe.com/en/publish/2026/03/19/media_13006d926799bc866df08ba9c17cd4c7358bc273a.jpg?width=1200&format=pjpg&optimize=medium",
+      "alt": "Adobe Firefly custom models: prompt image đang chuyển từ “đẹp” sang “đúng brand”",
+      "caption": "Adobe Firefly expands video and image creation with new AI capabilities and custom models",
+      "credit": "Adobe Blog",
+      "sourceUrl": "https://blog.adobe.com/en/publish/2026/03/19/adobe-firefly-expands-video-image-creation-with-new-ai-capabilities-custom-models"
+    },
+    "highlights": [
+      {
+        "text": "Adobe mở rộng Firefly với custom models và khả năng sáng tạo video/image mới. Với brand team, điểm ăn tiền là biến style thành tài sản tái sử dụng thay vì mỗi lần prompt lại cầu may."
+      },
+      {
+        "text": "Tín hiệu quan trọng không nằm ở benchmark, mà ở khả năng kiểm soát workflow: sửa shot, giữ style, tạo PR nhỏ, hoặc để lại audit trail."
+      },
+      {
+        "text": "Khuyến nghị: test trên một job thật trong 60-90 phút, đo số vòng sửa và tỷ lệ output dùng được trước khi đổi pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Vì sao tin này đáng để mở workflow ra xem lại",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Prompt “đẹp” không trả tiền thuê studio. Prompt “đúng brand, đúng legal, đúng layout key visual” mới trả tiền. Firefly custom models đáng chú ý vì Adobe hiểu khách hàng của họ không muốn ảnh ngẫu hứng; họ muốn hệ thống sản xuất asset có kiểm soát."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://blog.adobe.com/en/publish/2026/03/19/media_13006d926799bc866df08ba9c17cd4c7358bc273a.jpg?width=1200&format=pjpg&optimize=medium",
+            "alt": "Adobe Firefly custom models: prompt image đang chuyển từ “đẹp” sang “đúng brand”",
+            "caption": "Adobe Firefly expands video and image creation with new AI capabilities and custom models",
+            "credit": "Adobe Blog",
+            "sourceUrl": "https://blog.adobe.com/en/publish/2026/03/19/adobe-firefly-expands-video-image-creation-with-new-ai-capabilities-custom-models",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Adobe mở rộng Firefly với custom models và khả năng sáng tạo video/image mới. Với brand team, điểm ăn tiền là biến style thành tài sản tái sử dụng thay vì mỗi lần prompt lại cầu may."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Phân tích chi tiết: tín hiệu nằm ở workflow, không nằm ở câu chữ PR",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Với creator độc lập, custom model là cách đóng gói phong cách. Với agency, nó là cách giảm vòng sửa key visual. Nhưng nếu dữ liệu huấn luyện bẩn hoặc guideline mơ hồ, model chỉ phóng đại sự lộn xộn."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Workflow",
+              "Trước custom model",
+              "Sau custom model"
+            ],
+            "rows": [
+              [
+                "Moodboard",
+                "Prompt từng ảnh rồi chọn may rủi",
+                "Huấn luyện style từ bộ ảnh đã duyệt"
+              ],
+              [
+                "Brand asset",
+                "Designer sửa tay nhiều",
+                "Generate gần guideline hơn"
+              ],
+              [
+                "Legal review",
+                "Nguồn ảnh khó kiểm soát",
+                "Dễ quản trị hơn nếu dữ liệu đầu vào sạch"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Cách đọc thực dụng là tách phần marketing khỏi phần có thể đưa vào sản xuất tuần này. Nếu thông báo giúp giảm vòng render, giảm vòng review, hoặc làm agent/creator tool để lại dấu vết kiểm soát tốt hơn, nó đáng thử trên một job nhỏ. Nếu nó chỉ thêm một nút bấm mới nhưng không giải quyết consistency, quyền dữ liệu hoặc khả năng sửa lỗi, đừng vội thay pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Góc nhìn phản biện: đừng mua demo, hãy mua khả năng sửa sai",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "Cái bẫy",
+            "text": "Demo luôn chọn case thuận lợi. Production luôn gặp case xấu: brief mơ hồ, asset thiếu, deadline gấp, client đổi ý, policy chặn output. Tool nào không giúp sửa sai có kiểm soát thì chỉ làm team render nhanh hơn trước khi kẹt."
+          },
+          {
+            "type": "paragraph",
+            "text": "Một tiêu chí đơn giản: sau khi output sai, anh có sửa đúng chỗ sai không, hay phải đập đi làm lại? Với AI video là sửa shot và motion. Với coding agent là sửa diff nhỏ. Với image workflow là khoá style và seed/reference. Với cybersecurity agent là chứng minh được vì sao nó kết luận."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Cơ hội cho creator và builder",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Chạy một test nhỏ với brief thật, không dùng prompt demo của hãng.",
+              "Ghi lại số vòng sửa, chi phí render/API và tỷ lệ output dùng được.",
+              "Biến workflow thắng thành template: prompt, reference, node graph, checklist review.",
+              "Đừng bán “AI nhanh hơn”; hãy bán “ít vòng reject hơn”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tin hot chỉ có giá trị khi nó làm workflow hôm nay tốt hơn. Với RadaNews, điểm cần theo dõi trong tuần tới là tool nào biến AI từ máy tạo output thành hệ thống có thể kiểm soát, sửa sai và bàn giao. Đó mới là nơi tiền production nằm."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews nhận định",
+        "text": "Đây là nhóm tin đáng theo dõi vì nó chạm trực tiếp vào chi phí sản xuất: thời gian sửa, consistency, governance và khả năng bàn giao workflow cho team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Takeaway hành động",
+      "items": [
+        "Chọn một use case thật, không benchmark chung chung.",
+        "Lưu input/output, chi phí và lỗi để so sánh sau một tuần.",
+        "Chỉ đưa vào pipeline nếu tool giúp sửa sai tốt hơn, không chỉ tạo output nhanh hơn."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Adobe Firefly expands video and image creation with new AI capabilities and custom models",
+        "publisher": "Adobe Blog",
+        "url": "https://blog.adobe.com/en/publish/2026/03/19/adobe-firefly-expands-video-image-creation-with-new-ai-capabilities-custom-models",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_adobe-firefly-custom-models",
+      "confidence": "high"
+    }
+  },
+  {
+    "id": "manual_adobe-firefly-custom-models_2026-05-25_en",
+    "slug": "adobe-firefly-custom-models-image-prompting-shifts-from-beautiful-to-o",
+    "lang": "en",
+    "status": "published",
+    "category": "prompt-image",
+    "title": "Adobe Firefly custom models: image prompting shifts from beautiful to on-brand",
+    "subtitle": "Adobe is expanding Firefly with custom models and new video/image capabilities. For brand teams, the money point is turning style into a reusable asset instead of hoping each prompt lands correctly.",
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "sourceCount": 1,
+    "tags": [
+      "adobe",
+      "firefly",
+      "custom-models",
+      "prompt-image",
+      "daily-signal"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://blog.adobe.com/en/publish/2026/03/19/media_13006d926799bc866df08ba9c17cd4c7358bc273a.jpg?width=1200&format=pjpg&optimize=medium",
+      "alt": "Adobe Firefly custom models: image prompting shifts from beautiful to on-brand",
+      "caption": "Adobe Firefly expands video and image creation with new AI capabilities and custom models",
+      "credit": "Adobe Blog",
+      "sourceUrl": "https://blog.adobe.com/en/publish/2026/03/19/adobe-firefly-expands-video-image-creation-with-new-ai-capabilities-custom-models"
+    },
+    "highlights": [
+      {
+        "text": "Adobe is expanding Firefly with custom models and new video/image capabilities. For brand teams, the money point is turning style into a reusable asset instead of hoping each prompt lands correctly."
+      },
+      {
+        "text": "The important signal is not the benchmark; it is workflow control: repairing shots, preserving style, producing small PRs or leaving an audit trail."
+      },
+      {
+        "text": "Recommendation: test on a real job for 60-90 minutes and measure revision loops plus usable-output rate before changing the pipeline."
+      }
+    ],
+    "sections": [
+      {
+        "id": "context",
+        "heading": "Why this news should make you reopen the workflow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A beautiful prompt does not pay the studio bill. On-brand, legally safer, layout-ready output does. Firefly custom models matter because Adobe understands that its customers do not want random images; they want controlled asset production."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://blog.adobe.com/en/publish/2026/03/19/media_13006d926799bc866df08ba9c17cd4c7358bc273a.jpg?width=1200&format=pjpg&optimize=medium",
+            "alt": "Adobe Firefly custom models: image prompting shifts from beautiful to on-brand",
+            "caption": "Adobe Firefly expands video and image creation with new AI capabilities and custom models",
+            "credit": "Adobe Blog",
+            "sourceUrl": "https://blog.adobe.com/en/publish/2026/03/19/adobe-firefly-expands-video-image-creation-with-new-ai-capabilities-custom-models",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Adobe is expanding Firefly with custom models and new video/image capabilities. For brand teams, the money point is turning style into a reusable asset instead of hoping each prompt lands correctly."
+          }
+        ]
+      },
+      {
+        "id": "deep-analysis",
+        "heading": "Deep analysis: the signal is in the workflow, not the PR wording",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For independent creators, a custom model packages style. For agencies, it reduces key-visual revision loops. But if the training set is messy or guidelines are vague, the model simply amplifies the mess."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Workflow",
+              "Before custom model",
+              "After custom model"
+            ],
+            "rows": [
+              [
+                "Moodboard",
+                "Prompt each image and hope",
+                "Train style from approved images"
+              ],
+              [
+                "Brand asset",
+                "Heavy manual designer cleanup",
+                "Output starts closer to guideline"
+              ],
+              [
+                "Legal review",
+                "Hard-to-control image sources",
+                "Easier governance if input data is clean"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The practical reading is to separate marketing language from what can enter production this week. If the release reduces render loops, review loops or gives agents and creator tools a better control trail, it deserves a small test. If it only adds another button without solving consistency, data rights or repairability, do not rush to replace the pipeline."
+          }
+        ]
+      },
+      {
+        "id": "critical-perspective",
+        "heading": "Critical perspective: do not buy the demo, buy recoverability",
+        "blocks": [
+          {
+            "type": "callout",
+            "variant": "warning",
+            "title": "The trap",
+            "text": "Demos select favorable cases. Production gets the bad cases: vague briefs, missing assets, short deadlines, client reversals and policy blocks. A tool that does not support controlled recovery merely lets the team render faster before getting stuck."
+          },
+          {
+            "type": "paragraph",
+            "text": "A simple criterion: when the output is wrong, can you fix the wrong part, or must you start over? For AI video, that means shot and motion repair. For coding agents, smaller diffs. For image workflows, locked style and reference. For cybersecurity agents, explainable findings."
+          }
+        ]
+      },
+      {
+        "id": "opportunity",
+        "heading": "Opportunities for creators and builders",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Run a small test with a real brief, not the vendor demo prompt.",
+              "Track revision count, render/API cost and usable-output rate.",
+              "Turn the winning workflow into a template: prompt, references, node graph and review checklist.",
+              "Do not sell “faster AI”; sell “fewer rejection loops”."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conclusion",
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hot news only matters when it improves today’s workflow. The thing to watch this week is which tool turns AI from an output generator into a controllable, recoverable and handoff-ready system. That is where production money sits."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "RadaNews take",
+        "text": "This news cluster matters because it touches production cost directly: revision time, consistency, governance and whether a workflow can be handed off to a team.",
+        "variant": "analysis"
+      }
+    ],
+    "takeaway": {
+      "title": "Action takeaway",
+      "items": [
+        "Pick a real use case, not a generic benchmark.",
+        "Save inputs, outputs, cost and failures for a one-week comparison.",
+        "Adopt only if the tool improves recovery, not merely generation speed."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Adobe Firefly expands video and image creation with new AI capabilities and custom models",
+        "publisher": "Adobe Blog",
+        "url": "https://blog.adobe.com/en/publish/2026/03/19/adobe-firefly-expands-video-image-creation-with-new-ai-capabilities-custom-models",
+        "publishedAt": "2026-05-25T00:07:13.027Z"
+      }
+    ],
+    "generation": {
+      "model": "manual-editorial",
+      "promptVersion": "cron-manual-fallback-v1",
+      "generatedAt": "2026-05-25T00:07:13.027Z",
+      "sourceClusterId": "manual_adobe-firefly-custom-models",
+      "confidence": "high"
+    }
+  }
 ];

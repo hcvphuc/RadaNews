@@ -320,406 +320,219 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_vi",
+    "id": "manual_anthropic-glasswing-cyber-agent_2026-05-25_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "The memory shortage is causing a repricing of consumer electronics: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Project Glasswing: khi AI agent bước vào cuộc săn lỗ hổng phần mềm",
+    "subtitle": "Anthropic đặt Claude vào bài toán bảo vệ phần mềm trọng yếu. Với builder, đây không chỉ là tin an ninh mạng; nó là tín hiệu rằng agent sẽ được đo bằng khả năng làm việc trong hệ thống thật, có rủi ro thật.",
     "tags": [
-      "ai-agentic",
-      "ai-radar",
+      "anthropic",
+      "claude",
+      "ai-agent",
+      "cybersecurity",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T23:55:21.547Z",
-    "readingTime": 2,
-    "url": "/vi/ai-agentic/the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23"
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/vi/ai-agentic/project-glasswing-khi-ai-agent-buoc-vao-cuoc-san-lo-hong-phan-mem"
   },
   {
-    "id": "cluster_ai-agentic_1_the-memory-shortage-is-causing-a-repricing-of-consumer-electroni_2026-05-23_en",
+    "id": "manual_anthropic-glasswing-cyber-agent_2026-05-25_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "The memory shortage is causing a repricing of consumer electronics: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "title": "Project Glasswing: AI agents move into critical software defense",
+    "subtitle": "Anthropic is pushing Claude into critical software defense. For builders, this is less a cybersecurity headline than a signal that agents will be judged inside real systems with real risk.",
     "tags": [
-      "ai-agentic",
-      "ai-radar",
+      "anthropic",
+      "claude",
+      "ai-agent",
+      "cybersecurity",
       "daily-signal"
     ],
-    "publishedAt": "2026-05-23T23:55:28.527Z",
-    "readingTime": 2,
-    "url": "/en/ai-agentic/the-memory-shortage-is-causing-a-repricing-of-consumer-elect-2026-05-23"
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/en/ai-agentic/project-glasswing-ai-agents-move-into-critical-software-defense"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.544Z",
-    "readingTime": 1,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.523Z",
-    "readingTime": 1,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.510Z",
-    "readingTime": 1,
-    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.657Z",
-    "readingTime": 1,
-    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-23_vi",
+    "id": "manual_runway-gen-45-video-control_2026-05-25_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
-    "title": "Kling AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Runway Gen-4.5: cuộc đua AI video chuyển từ đẹp sang kiểm soát được",
+    "subtitle": "Runway gọi Gen-4.5 là model video có độ trung thực và creative control cao hơn. Với production, câu hỏi không phải clip đầu tiên đẹp không, mà shot thứ ba có còn giữ nhân vật, ánh sáng và logic chuyển động hay không.",
     "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.637Z",
-    "readingTime": 1,
-    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "Kling AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.670Z",
-    "readingTime": 1,
-    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.655Z",
-    "readingTime": 1,
-    "url": "/vi/ai-vibe-coding/an-update-on-nodes-2-0-from-comfy-org-goc-nhin-cho-creator-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-vibe-coding",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.568Z",
-    "readingTime": 1,
-    "url": "/en/ai-vibe-coding/an-update-on-nodes-2-0-from-comfy-org-creator-and-builder-a-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "After 6 months of running AI agents in production I think the framework you p...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.601Z",
-    "readingTime": 1,
-    "url": "/vi/ai-agentic/after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-agentic_2_after-6-months-of-running-ai-agents-in-production-i-think-the-fr_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "After 6 months of running AI agents in production I think the framework you p...: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-agentic",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.769Z",
-    "readingTime": 1,
-    "url": "/en/ai-agentic/after-6-months-of-running-ai-agents-in-production-i-think-th-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "Multi Referencelatent: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.590Z",
-    "readingTime": 1,
-    "url": "/vi/ai-image/multi-referencelatent-goc-nhin-cho-creator-va-builder-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-image_2_multi-referencelatent_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "Multi Referencelatent: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.580Z",
-    "readingTime": 1,
-    "url": "/en/ai-image/multi-referencelatent-creator-and-builder-analysis-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_vi",
-    "lang": "vi",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "“The Eye Doctor” by jboogxcreative (me): góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/aivideo, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.540Z",
-    "readingTime": 1,
-    "url": "/vi/ai-video/the-eye-doctor-by-jboogxcreative-me-goc-nhin-cho-creato-2026-05-23"
-  },
-  {
-    "id": "cluster_ai-video_2_the-eye-doctor-by-jboogxcreative-me_2026-05-23_en",
-    "lang": "en",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "“The Eye Doctor” by jboogxcreative (me): creator and builder analysis",
-    "subtitle": "Signal synthesized from r/aivideo, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.402Z",
-    "readingTime": 1,
-    "url": "/en/ai-video/the-eye-doctor-by-jboogxcreative-me-creator-and-builder-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_vi",
-    "lang": "vi",
-    "category": "prompt-image",
-    "categoryLabel": "Prompt Image",
-    "title": "Flying With Angels: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:22.124Z",
-    "readingTime": 1,
-    "url": "/vi/prompt-image/flying-with-angels-goc-nhin-cho-creator-va-builder-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-image_1_flying-with-angels_2026-05-23_en",
-    "lang": "en",
-    "category": "prompt-image",
-    "categoryLabel": "Prompt Image",
-    "title": "Flying With Angels: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:29.085Z",
-    "readingTime": 1,
-    "url": "/en/prompt-image/flying-with-angels-creator-and-builder-analysis-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_vi",
-    "lang": "vi",
-    "category": "prompt-image",
-    "categoryLabel": "Prompt Image",
-    "title": "Land of War #135: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.826Z",
-    "readingTime": 1,
-    "url": "/vi/prompt-image/land-of-war-135-goc-nhin-cho-creator-va-builder-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-image_2_land-of-war-135_2026-05-23_en",
-    "lang": "en",
-    "category": "prompt-image",
-    "categoryLabel": "Prompt Image",
-    "title": "Land of War #135: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/midjourney, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "prompt-image",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.834Z",
-    "readingTime": 1,
-    "url": "/en/prompt-image/land-of-war-135-creator-and-builder-analysis-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_vi",
-    "lang": "vi",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "AI won the 2025 Commonwealth Short Story Prize competition: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:22.053Z",
-    "readingTime": 1,
-    "url": "/vi/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-23_en",
-    "lang": "en",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "AI won the 2025 Commonwealth Short Story Prize competition: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:29.191Z",
-    "readingTime": 1,
-    "url": "/en/prompt-video/ai-won-the-2025-commonwealth-short-story-prize-competition-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_vi",
-    "lang": "vi",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:21.681Z",
-    "readingTime": 1,
-    "url": "/vi/prompt-video/review-50-years-of-text-games-by-aaron-reed-goc-nhin-2026-05-23"
-  },
-  {
-    "id": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-23_en",
-    "lang": "en",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\": creator and builder analysis",
-    "subtitle": "Signal synthesized from r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "prompt-video",
-      "ai-radar",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-23T23:55:28.675Z",
-    "readingTime": 1,
-    "url": "/en/prompt-video/review-50-years-of-text-games-by-aaron-reed-creator-a-2026-05-23"
-  },
-  {
-    "id": "manual_ai-video_2026-05-24_ai-video-workflow-runway-ltx-kling-seedance_vi",
-    "lang": "vi",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "AI video 2026: đừng chọn model, hãy chọn pipeline",
-    "subtitle": "Runway Gen-4, LTX Studio, Kling và Seedance không giải cùng một bài toán. Bài này tách rõ khi nào dùng tool nào để creator đỡ đốt credit vào prompt vô nghĩa.",
-    "tags": [
-      "ai-video",
       "runway",
-      "ltx-studio",
-      "kling",
-      "seedance",
-      "workflow"
+      "gen-4.5",
+      "ai-video",
+      "creator-workflow",
+      "daily-signal"
     ],
-    "publishedAt": "2026-05-24T00:20:00.000Z",
-    "readingTime": 9,
-    "url": "/vi/ai-video/ai-video-workflow-runway-ltx-kling-seedance"
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/vi/ai-video/runway-gen-4-5-cuoc-ua-ai-video-chuyen-tu-ep-sang-kiem-soat-uoc"
+  },
+  {
+    "id": "manual_runway-gen-45-video-control_2026-05-25_en",
+    "lang": "en",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Runway Gen-4.5: AI video shifts from looking good to staying controllable",
+    "subtitle": "Runway positions Gen-4.5 around visual fidelity and creative control. In production, the question is not whether the first clip looks good; it is whether the third shot keeps character, lighting and motion logic intact.",
+    "tags": [
+      "runway",
+      "gen-4.5",
+      "ai-video",
+      "creator-workflow",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/en/ai-video/runway-gen-4-5-ai-video-shifts-from-looking-good-to-staying-controllab"
+  },
+  {
+    "id": "manual_google-veo-31-flow-audio_2026-05-25_vi",
+    "lang": "vi",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "Veo 3.1 và Flow: prompt video bắt đầu tính cả âm thanh, nhịp dựng và sửa shot",
+    "subtitle": "Google nhấn mạnh Veo 3.1 và Flow với creative controls, audio và khả năng chỉnh clip chính xác hơn. Đây là dấu hiệu prompt video đang rời khỏi kiểu “một câu ra một clip” để đi vào workflow dựng phim.",
+    "tags": [
+      "google",
+      "veo",
+      "flow",
+      "prompt-video",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/vi/prompt-video/veo-3-1-va-flow-prompt-video-bat-au-tinh-ca-am-thanh-nhip-dung-va-sua-"
+  },
+  {
+    "id": "manual_google-veo-31-flow-audio_2026-05-25_en",
+    "lang": "en",
+    "category": "prompt-video",
+    "categoryLabel": "Prompt Video",
+    "title": "Veo 3.1 and Flow: video prompting now includes sound, pacing and shot repair",
+    "subtitle": "Google is emphasizing Veo 3.1 and Flow with creative controls, audio and more precise clip editing. Video prompting is moving away from one-sentence clip generation toward an editing workflow.",
+    "tags": [
+      "google",
+      "veo",
+      "flow",
+      "prompt-video",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/en/prompt-video/veo-3-1-and-flow-video-prompting-now-includes-sound-pacing-and-shot-re"
+  },
+  {
+    "id": "manual_github-copilot-coding-agent-build_2026-05-25_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "GitHub Copilot coding agent: vibe coding bước vào pull request thật",
+    "subtitle": "GitHub đưa coding agent vào Copilot theo hướng enterprise-ready. Tin đáng quan tâm không phải agent biết viết code, mà là nó được nhúng vào vòng đời issue, branch, PR, review và bảo mật.",
+    "tags": [
+      "github",
+      "copilot",
+      "coding-agent",
+      "vibe-coding",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/vi/ai-vibe-coding/github-copilot-coding-agent-vibe-coding-buoc-vao-pull-request-that"
+  },
+  {
+    "id": "manual_github-copilot-coding-agent-build_2026-05-25_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "GitHub Copilot coding agent: vibe coding moves into real pull requests",
+    "subtitle": "GitHub is pushing a Copilot coding agent with an enterprise-ready frame. The news is not that an agent can write code; it is that it sits inside issues, branches, PRs, reviews and security controls.",
+    "tags": [
+      "github",
+      "copilot",
+      "coding-agent",
+      "vibe-coding",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/en/ai-vibe-coding/github-copilot-coding-agent-vibe-coding-moves-into-real-pull-requests"
+  },
+  {
+    "id": "manual_nvidia-comfyui-creator-workflows_2026-05-25_vi",
+    "lang": "vi",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "NVIDIA đẩy ComfyUI vào production: workflow node không còn là đồ chơi nerd",
+    "subtitle": "NVIDIA hướng dẫn xây, chạy và scale creator workflow chất lượng cao trong ComfyUI. Với studio nhỏ, đây là tín hiệu ComfyUI đang rời nhóm hobby để bước vào pipeline có GPU, template và vận hành.",
+    "tags": [
+      "nvidia",
+      "comfyui",
+      "ai-image",
+      "workflow",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/vi/ai-image/nvidia-ay-comfyui-vao-production-workflow-node-khong-con-la-o-choi-ner"
+  },
+  {
+    "id": "manual_nvidia-comfyui-creator-workflows_2026-05-25_en",
+    "lang": "en",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "NVIDIA pushes ComfyUI toward production: node workflows are no longer nerd toys",
+    "subtitle": "NVIDIA is showing how to build, run and scale high-quality creator workflows in ComfyUI. For small studios, it signals that ComfyUI is moving from hobbyist graphs into GPU-backed production pipelines.",
+    "tags": [
+      "nvidia",
+      "comfyui",
+      "ai-image",
+      "workflow",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/en/ai-image/nvidia-pushes-comfyui-toward-production-node-workflows-are-no-longer-n"
+  },
+  {
+    "id": "manual_adobe-firefly-custom-models_2026-05-25_vi",
+    "lang": "vi",
+    "category": "prompt-image",
+    "categoryLabel": "Prompt Image",
+    "title": "Adobe Firefly custom models: prompt image đang chuyển từ “đẹp” sang “đúng brand”",
+    "subtitle": "Adobe mở rộng Firefly với custom models và khả năng sáng tạo video/image mới. Với brand team, điểm ăn tiền là biến style thành tài sản tái sử dụng thay vì mỗi lần prompt lại cầu may.",
+    "tags": [
+      "adobe",
+      "firefly",
+      "custom-models",
+      "prompt-image",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/vi/prompt-image/adobe-firefly-custom-models-prompt-image-ang-chuyen-tu-ep-sang-ung-bra"
+  },
+  {
+    "id": "manual_adobe-firefly-custom-models_2026-05-25_en",
+    "lang": "en",
+    "category": "prompt-image",
+    "categoryLabel": "Prompt Image",
+    "title": "Adobe Firefly custom models: image prompting shifts from beautiful to on-brand",
+    "subtitle": "Adobe is expanding Firefly with custom models and new video/image capabilities. For brand teams, the money point is turning style into a reusable asset instead of hoping each prompt lands correctly.",
+    "tags": [
+      "adobe",
+      "firefly",
+      "custom-models",
+      "prompt-image",
+      "daily-signal"
+    ],
+    "publishedAt": "2026-05-25T00:07:13.027Z",
+    "readingTime": 5,
+    "url": "/en/prompt-image/adobe-firefly-custom-models-image-prompting-shifts-from-beautiful-to-o"
   }
 ]
