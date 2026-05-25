@@ -534,5 +534,23 @@
     "publishedAt": "2026-05-25T00:07:13.027Z",
     "readingTime": 5,
     "url": "/en/prompt-image/adobe-firefly-custom-models-image-prompting-shifts-from-beautiful-to-o"
+  },
+  {
+    "id": "manual_runway-gen45-firefly-production_2026-05-25_vi",
+    "lang": "vi",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Runway Gen-4.5 vào Firefly: AI video đang chuyển từ demo đẹp sang pipeline có kiểm soát",
+    "subtitle": "Runway khoe Gen-4.5 đứng đầu benchmark video, Adobe đưa nó vào Firefly. Tin đáng tiền không phải là “video đẹp hơn”, mà là creator có thêm một lớp kiểm soát để giảm vòng reject trong production.",
+    "tags": [
+      "runway",
+      "gen-4.5",
+      "adobe-firefly",
+      "ai-video",
+      "production-workflow"
+    ],
+    "publishedAt": "2026-05-25T08:03:03+07:00",
+    "readingTime": 9,
+    "url": "/vi/ai-video/runway-gen-45-firefly-ai-video-production-test"
   }
 ]

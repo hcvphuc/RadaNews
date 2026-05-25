@@ -2082,5 +2082,270 @@ export const generatedArticles: Article[] = [
       "sourceClusterId": "manual_adobe-firefly-custom-models",
       "confidence": "high"
     }
+  },
+  {
+      "id": "manual_runway-gen45-firefly-production_2026-05-25_vi",
+      "slug": "runway-gen-45-firefly-ai-video-production-test",
+      "lang": "vi",
+      "status": "published",
+      "category": "ai-video",
+      "title": "Runway Gen-4.5 vào Firefly: AI video đang chuyển từ demo đẹp sang pipeline có kiểm soát",
+      "subtitle": "Runway khoe Gen-4.5 đứng đầu benchmark video, Adobe đưa nó vào Firefly. Tin đáng tiền không phải là “video đẹp hơn”, mà là creator có thêm một lớp kiểm soát để giảm vòng reject trong production.",
+      "publishedAt": "2026-05-25T08:03:03+07:00",
+      "readingTime": 9,
+      "sourceCount": 2,
+      "tags": [
+          "runway",
+          "gen-4.5",
+          "adobe-firefly",
+          "ai-video",
+          "production-workflow"
+      ],
+      "heroMedia": {
+          "type": "image",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/research/gen/launch-post/card-gen-4.5.png",
+          "alt": "Runway Gen-4.5 launch visual",
+          "caption": "Runway giới thiệu Gen-4.5 với trọng tâm visual fidelity, motion quality và creative control.",
+          "credit": "Runway",
+          "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4.5"
+      },
+      "highlights": [
+          {
+              "text": "Runway nói Gen-4.5 đạt 1.247 Elo trên Artificial Analysis Text to Video benchmark, nhấn vào motion quality, prompt adherence, visual fidelity và creative control."
+          },
+          {
+              "text": "Adobe đã đưa Runway Gen-4.5 vào Firefly Generate Video, Image to Video và Firefly Boards — tín hiệu rằng AI video đang đi vào workspace sản xuất, không chỉ đứng ngoài như toy generator."
+          },
+          {
+              "text": "Creator nên test bằng brief thật: 6 shot, 3 vòng sửa, đo chi phí mỗi shot usable. Đừng mua lời hứa “cinematic”; hãy mua khả năng sửa sai và bàn giao."
+          }
+      ],
+      "sections": [
+          {
+              "id": "hook",
+              "heading": "Tôi không quan tâm video AI đẹp đến đâu nếu client vẫn bắt làm lại từ đầu",
+              "blocks": [
+                  {
+                      "type": "paragraph",
+                      "text": "Có một kiểu demo AI video nhìn rất đã mắt: slow motion, da người bóng đẹp, ánh sáng cinematic, camera bay như drone Hollywood. Nhưng đem vào job thật thì lòi ra ngay: nhân vật đổi mặt ở shot 2, vật thể biến mất ở shot 4, camera move sai nhịp nhạc, client hỏi “sửa riêng cái tay được không” và câu trả lời là… render lại."
+                  },
+                  {
+                      "type": "paragraph",
+                      "text": "Vì vậy tin Runway Gen-4.5 và Adobe Firefly không nên đọc như cuộc thi ai tạo clip đẹp hơn. Câu hỏi thực dụng hơn: nó có giảm vòng reject không? Có giúp producer giữ style, giữ shot intent, sửa từng bước và bàn giao workflow cho team không? Nếu có, nó đáng tiền. Nếu không, nó chỉ là thêm một máy quay xổ số."
+                  },
+                  {
+                      "type": "media",
+                      "mediaType": "image",
+                      "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/research/gen/launch-post/gen-launch-poster-01.jpg",
+                      "alt": "Runway Gen-4.5 sample poster",
+                      "caption": "Media chính thức từ bài giới thiệu Gen-4.5 của Runway.",
+                      "credit": "Runway",
+                      "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4.5",
+                      "placement": "after-paragraph"
+                  }
+              ]
+          },
+          {
+              "id": "what-changed",
+              "heading": "Tin thật nằm ở hai mảnh ghép: model mạnh hơn và workspace gần creator hơn",
+              "blocks": [
+                  {
+                      "type": "paragraph",
+                      "text": "Runway mô tả Gen-4.5 là model video tốt nhất của họ, tập trung vào motion quality, prompt adherence, visual fidelity, physical accuracy và creative control. Con số họ đưa ra là 1.247 Elo trên Artificial Analysis Text to Video benchmark. Benchmark không phải production, nhưng nó cho một tín hiệu: cuộc đua video đã qua giai đoạn “có tạo được clip không” và chuyển sang “clip có đủ ổn để dựng tiếp không”."
+                  },
+                  {
+                      "type": "paragraph",
+                      "text": "Mảnh ghép thứ hai quan trọng hơn với studio nhỏ: Adobe đưa Runway Gen-4.5 vào Firefly. Nghĩa là creator không nhất thiết phải nhảy giữa 5 tab, tải file về, rename asset, rồi quên prompt nào tạo ra version nào. Firefly đang bán ý tưởng một workspace có nhiều model: Adobe, Google, OpenAI, Runway, Kling, Luma, Ideogram, ElevenLabs. Nếu làm đúng, đây là nơi AI video bớt giống casino và giống một bàn dựng hơn."
+                  },
+                  {
+                      "type": "table",
+                      "headers": [
+                          "Tầng workflow",
+                          "Nếu chỉ dùng model rời",
+                          "Khi vào workspace kiểu Firefly"
+                      ],
+                      "rows": [
+                          [
+                              "Ý tưởng",
+                              "Prompt rải rác trong từng app",
+                              "Boards gom mood, shot, reference"
+                          ],
+                          [
+                              "Tạo shot",
+                              "Mỗi model một UI, một cách export",
+                              "Chọn model theo shot cần giải quyết"
+                          ],
+                          [
+                              "Sửa và bàn giao",
+                              "File lẻ, khó trace version",
+                              "Dễ giữ asset, prompt, output trong cùng mạch làm việc"
+                          ]
+                      ]
+                  },
+                  {
+                      "type": "media",
+                      "mediaType": "image",
+                      "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/research/gen/launch-post/gen-launch-poster-02.png",
+                      "alt": "Runway Gen-4.5 official visual sample",
+                      "caption": "Minh hoạ chính thức từ Runway Gen-4.5; dùng như mốc visual fidelity trước khi test trong workspace production.",
+                      "credit": "Runway",
+                      "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4.5",
+                      "placement": "after-paragraph"
+                  }
+              ]
+          },
+          {
+              "id": "production-test",
+              "heading": "Bài test 90 phút: đừng hỏi “đẹp không”, hỏi “cứu được shot hỏng không”",
+              "blocks": [
+                  {
+                      "type": "paragraph",
+                      "text": "Một producer thực tế nên test Gen-4.5 hoặc Firefly bằng một bài rất cụ thể: 6 shot cho một social video 20–30 giây. Không dùng prompt demo. Dùng brief xấu như đời thật: product shot, một nhân vật, một camera move, một action có vật lý, một shot chuyển cảnh, một shot close-up. Mỗi shot được phép 3 vòng sửa. Ghi lại thời gian, credit/API cost, số clip dùng được và lỗi phải hậu kỳ."
+                  },
+                  {
+                      "type": "table",
+                      "headers": [
+                          "Chỉ số",
+                          "Cách đo",
+                          "Ngưỡng đáng thử tiếp"
+                      ],
+                      "rows": [
+                          [
+                              "Usable shot rate",
+                              "Số shot có thể đưa vào edit / 6 shot",
+                              "Tối thiểu 4/6"
+                          ],
+                          [
+                              "Revision loops",
+                              "Số lần render lại để đạt intent",
+                              "Không quá 3 vòng/shot"
+                          ],
+                          [
+                              "Fixability",
+                              "Có sửa riêng motion/style/character không",
+                              "Có ít nhất một cơ chế kiểm soát"
+                          ],
+                          [
+                              "Handoff",
+                              "Team khác có mở lại workflow hiểu được không",
+                              "Prompt + reference + output lưu rõ"
+                          ]
+                      ]
+                  },
+                  {
+                      "type": "paragraph",
+                      "text": "Nếu tool thắng ở 2 chỉ số đầu nhưng thua fixability, nó chỉ hợp làm ideation hoặc stock B-roll. Nếu thắng cả fixability và handoff, lúc đó mới đáng đưa vào package dịch vụ cho khách hàng."
+                  },
+                  {
+                      "type": "media",
+                      "mediaType": "image",
+                      "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/research/gen/launch-post/gen-4.5-chart-revised-01.png",
+                      "alt": "Runway Gen-4.5 benchmark chart",
+                      "caption": "Runway dùng benchmark để định vị Gen-4.5; production vẫn cần test bằng brief thật.",
+                      "credit": "Runway",
+                      "sourceUrl": "https://runwayml.com/research/introducing-runway-gen-4.5",
+                      "placement": "after-paragraph"
+                  }
+              ]
+          },
+          {
+              "id": "anti-pattern",
+              "heading": "Cái bẫy: prompt càng kêu, pipeline càng rác",
+              "blocks": [
+                  {
+                      "type": "callout",
+                      "variant": "warning",
+                      "title": "Đừng dùng prompt như bùa chú",
+                      "text": "“Ultra cinematic, 8K, photorealistic, award-winning” là noise nếu brief cần một shot product không đổi logo và camera pan đúng 2 giây. Prompt đẹp không thay thế được reference, shot list, negative constraints và review checklist."
+                  },
+                  {
+                      "type": "paragraph",
+                      "text": "Với AI video, lỗi đắt tiền thường không nằm ở frame đầu. Nó nằm ở thời gian: tay đi xuyên vật, tóc đổi texture, logo méo sau 3 giây, camera tăng tốc vô lý. Vì vậy pipeline cần chia nhỏ shot, lock reference, dùng model đúng việc, và accept rằng một số shot nên quay thật hoặc dựng 3D thay vì cố ép AI."
+                  },
+                  {
+                      "type": "media",
+                      "mediaType": "video",
+                      "src": "https://main--cc--adobecom.aem.live/cc-shared/assets/firefly/video/runway/media_159b67f92aaf83a6d0fd5aea7df51a29148c88e75.mp4",
+                      "alt": "Runway video sample inside Adobe Firefly page",
+                      "caption": "Video sample chính thức từ trang Adobe Firefly Runway partner model.",
+                      "credit": "Adobe / Runway",
+                      "sourceUrl": "https://www.adobe.com/products/firefly/partner-models/runway.html",
+                      "placement": "after-paragraph"
+                  }
+              ]
+          },
+          {
+              "id": "service-angle",
+              "heading": "Góc kiếm tiền: bán audit workflow, không bán “prompt thần thánh”",
+              "blocks": [
+                  {
+                      "type": "paragraph",
+                      "text": "Cơ hội $100/tháng đầu tiên không nằm ở ads. Nó nằm ở một offer rất nhỏ: audit AI video workflow cho creator/agency. Nhận một brief thật của khách, chạy 2–3 pipeline, trả lại bảng so sánh usable rate, cost, lỗi thường gặp, prompt/reference pack và checklist handoff. Giá mở màn có thể 49–99 USD cho một audit nhẹ. Không cần platform phức tạp; form liên hệ và một trang dịch vụ là đủ."
+                  },
+                  {
+                      "type": "list",
+                      "items": [
+                          "Gói “AI video shot audit”: 6 shot, 90 phút test, report 1 trang.",
+                          "Deliverable: prompt pack, reference checklist, bảng lỗi, đề xuất model/tool cho từng shot.",
+                          "Đối tượng: agency social video, creator bán khóa học, shop cần video product ngắn.",
+                          "Thông điệp bán hàng: “giảm vòng reject trước khi anh đốt tiền credit”."
+                      ]
+                  }
+              ]
+          },
+          {
+              "id": "takeaway-section",
+              "heading": "Kết luận: Gen-4.5 đáng chú ý, nhưng chỉ workflow mới đáng trả tiền",
+              "blocks": [
+                  {
+                      "type": "paragraph",
+                      "text": "Runway Gen-4.5 có thể là model mạnh. Adobe Firefly có thể là nơi gom nhiều model tiện hơn. Nhưng creator không nên đổi pipeline vì một clip launch đẹp. Hãy đổi khi tool giúp anh kiểm soát 3 thứ: shot intent, vòng sửa, và bàn giao. Đó là khác biệt giữa demo AI và sản xuất có hóa đơn."
+                  }
+              ]
+          }
+      ],
+      "insightBlocks": [
+          {
+              "title": "RadaNews nhận định",
+              "text": "AI video đang đi từ cuộc đua model sang cuộc đua workflow. Người kiếm được tiền không phải người biết prompt kêu nhất, mà là người biến model thành quy trình giảm reject cho khách hàng.",
+              "variant": "analysis"
+          },
+          {
+              "title": "Rủi ro",
+              "text": "Nếu dùng benchmark như quyết định mua tool, anh sẽ trả tiền cho điểm số thay vì trả tiền cho khả năng sửa shot. Benchmark chỉ là cửa vào, production test mới là quyết định.",
+              "variant": "risk"
+          }
+      ],
+      "takeaway": {
+          "title": "Checklist hành động",
+          "items": [
+              "Chọn một brief thật 20–30 giây, chia thành 6 shot.",
+              "Test Gen-4.5/Firefly bằng 3 vòng sửa, ghi cost và usable shot rate.",
+              "Lưu prompt, reference, output, lỗi vào một bảng để tái dùng.",
+              "Chỉ đưa vào dịch vụ nếu đạt tối thiểu 4/6 shot usable và có cách sửa lỗi rõ ràng.",
+              "Biến kết quả test thành offer audit workflow giá 49–99 USD."
+          ]
+      },
+      "sources": [
+          {
+              "title": "Runway Research: Introducing Runway Gen-4.5",
+              "publisher": "Runway",
+              "url": "https://runwayml.com/research/introducing-runway-gen-4.5",
+              "publishedAt": "2025-12-01T00:00:00.000Z"
+          },
+          {
+              "title": "Runway 4.5 Video Generator in Adobe Firefly",
+              "publisher": "Adobe",
+              "url": "https://www.adobe.com/products/firefly/partner-models/runway.html",
+              "publishedAt": "2026-05-25T08:03:03+07:00"
+          }
+      ],
+      "generation": {
+          "model": "manual-editorial",
+          "promptVersion": "cron-manual-fallback-v2",
+          "generatedAt": "2026-05-25T08:03:03+07:00",
+          "sourceClusterId": "manual_runway-gen45-firefly-production",
+          "confidence": "high"
+      }
   }
 ];

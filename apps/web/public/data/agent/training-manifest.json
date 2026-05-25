@@ -1,10 +1,10 @@
 {
   "name": "AI Radar agent-ready export",
-  "generatedAt": "2026-05-25T00:07:13.400Z",
+  "generatedAt": "2026-05-25T01:05:44.799Z",
   "primaryLanguage": "vi",
   "secondaryLanguage": "en",
-  "articleCount": 25,
-  "chunkCount": 125,
+  "articleCount": 26,
+  "chunkCount": 130,
   "files": [
     "articles.vi.jsonl",
     "articles.en.jsonl",
