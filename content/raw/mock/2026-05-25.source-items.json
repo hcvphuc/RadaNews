@@ -1,0 +1,961 @@
+[
+  {
+    "id": "src_langchain-blog_40ded3f923e3291d",
+    "sourceConfigId": "langchain-blog",
+    "sourceType": "blog",
+    "sourceName": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.dev/rss/",
+    "title": "LangChain Blog",
+    "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
+    "publishedAt": "2026-05-25T13:54:02.194Z",
+    "crawledAt": "2026-05-25T13:54:02.194Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.9,
+    "crawlStatus": "live",
+    "extractedText": "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found. How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min Deep Agents New in Deep Agents v0.6 Sydney Runkle May 13, 2026 10 min LangSmith LangSmith LLM Gateway: runtime governance built into the agent lifecycle Martha Janicki May 13, 2026 6 min Deep Agents LangGraph Delta Channels: Evolving our Runtime for Long-Running Agents Sydney Runkle May 12, 2026 7 min No items found. The Agent Development Lifecycle (ADLC) Harrison Chase May 9, 2026 14 min Partner Deep Agents Building a company due diligence agent with Deep Agents, LangSmith and Parallel Matt Harris Nick Martitsch Srimanth Tangedipalli Karan Singh May 8, 2026 9 min 1 ... 1 / 27 We couldn't find anything matching that. Try a broader term, or explore all posts. Sign up for our newsletter to stay up to date Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. See what your agent is really doing LangSmith, our agent engineering platform, helps developers debug every agent decision, eval changes, and deploy in one click. Try LangSmith Get a demo Products LangSmith Platform LangSmith Observability LangSmith Evaluation LangSmith Deployment LangSmith Fleet LangSmith Sandboxes Deep Agents LangChain LangGraph Resources Blog Customer Stories Guides LangChain Academy Community Changelog Docs Support Company About Careers Partners Trust Center Marketing Assets Events Sign up for our newsletter to stay up to date Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. All systems operational Privacy policy Terms of service",
+    "imageUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png"
+  },
+  {
+    "id": "src_anthropic-research_2026-05-25_fallback",
+    "sourceConfigId": "anthropic-research",
+    "sourceType": "blog",
+    "sourceName": "Anthropic Research",
+    "sourceUrl": "https://www.anthropic.com/research",
+    "title": "Anthropic Research signal for ai-agentic",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-25T13:54:11.489Z",
+    "crawledAt": "2026-05-25T13:54:11.489Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.5980000000000001,
+    "crawlStatus": "fallback",
+    "crawlError": "The operation was aborted due to timeout",
+    "extractedText": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes. Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world. Frontier Red Team The Frontier Red Team analyzes the implications of frontier AI models for cybersecurity, biosecurity, and autonomous systems. Natural Language Autoencoders: Turning Claude’s thoughts into text Interpretability May 7, 2026 AI models like Claude talk in words but think in numbers. In this study, we train Claude to translate its thoughts into human-readable text. Alignment May 8, 2026 Teaching Claude why New research on how we've reduced agentic misalignment. Research Apr 24, 2026 Project Deal We created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf. Societal Impacts Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Policy Dec 18, 2025 Project Vend: Phase two In June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote? Publications Search Date Category Title May 22, 2026 Announcements Project Glasswing: An initial update May 14, 2026 Policy 2028: Two scenarios for global AI leadership May 8, 2026 Alignment Teaching Claude why May 7, 2026 Interpretability Natural Language Autoencoders: Turning Claude’s thoughts into text May 7, 2026 Alignment Donating our open-source alignment tool May 7, 2026 Policy Focus areas for The Anthropic Institute Apr 30, 2026 Societal Impacts How people ask Claude for personal guidance Apr 29, 2026 Science Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench Apr 22, 2026 Economic Research Announcing the Anthropic Economic Index Survey Apr 22, 2026 Economic Research What 81,000 people told us about the economics of AI See more Join the Research team See open roles Products Claude Claude Code Claude Code Enterprise Claude Cowork Claude Security Claude for Chrome Claude for Slack Claude for Microsoft 365 Skills Max plan Team plan Enterprise plan Download app Pricing Log in to Claude Models Mythos Preview Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Education Financial services Government Healthcare Legal Life sciences Nonprofits Security Small business Claude Platform Overview Developer docs Pricing Marketplace Regional compliance Claude on AWS Google Cloud’s Vertex AI Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Inside Claude Code Inside Claude Cowork Inside Claude Enterprise Inside Claude Security Plugins Powered by Claude Service partners Startups program Tutorials Use cases Help and security Availability Status Support center Company Anthropic Careers Economic Futures Research News Claude’s Constitution Responsible Scaling Policy Security and compliance Transparency Terms and policies Privacy policy Consumer health data privacy policy Responsible disclosure policy Terms of service: Commercial Terms of service: Consumer Usage policy © 2026 Anthropic PBC Research \\ Anthropic",
+    "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+  },
+  {
+    "id": "src_openai-blog_2026-05-25_fallback",
+    "sourceConfigId": "openai-blog",
+    "sourceType": "blog",
+    "sourceName": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/blog",
+    "title": "OpenAI Blog signal for ai-agentic",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-25T13:54:01.587Z",
+    "crawledAt": "2026-05-25T13:54:01.587Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.5850000000000001,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 403 Forbidden",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_mcp-blog_2026-05-25_fallback",
+    "sourceConfigId": "mcp-blog",
+    "sourceType": "blog",
+    "sourceName": "MCP Blog",
+    "sourceUrl": "https://modelcontextprotocol.io/blog",
+    "title": "MCP Blog signal for ai-agentic",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-25T13:54:01.903Z",
+    "crawledAt": "2026-05-25T13:54:01.903Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.5525,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 404 Not Found",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_reddit-aiagents_c7605a4726e06ec4",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tiq0rx/weekly_thread_project_display/",
+    "title": "Weekly Thread: Project Display",
+    "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
+    "publishedAt": "2026-05-20T16:00:22.000Z",
+    "crawledAt": "2026-05-25T13:54:02.190Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_a8d909420e99b084",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tgqzpi/weekly_hiring_thread/",
+    "title": "Weekly Hiring Thread",
+    "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
+    "publishedAt": "2026-05-18T16:00:57.000Z",
+    "crawledAt": "2026-05-25T13:54:02.190Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_1d8cb0ad4ab2cbb7",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tn1zxz/everybody_seems_to_talk_about_coding_ai_agents/",
+    "title": "Everybody seems to talk about coding AI agents. But what are some other genius AI agents you have come across?",
+    "rawSummary": "Feels like every AI conversation right now eventually turns into \"AI coding agents\" autonomous dev tools, or replacing software engineers. Which is cool, but it also feels like the entire internet is converging on the exact same use case. Meanwhile, I’m convinced there are probably insanely clever AI agents being built quietly in industries most people aren’t even paying attention to yet. I’m especially interested in agents that don’t just generate text or code, but actually remove annoying real-world friction, automate weird workflows, uncover hidden opportunities, or solve problems that normally require a ton of human coordination and context. The kind of stuff where you hear it and instantly think, \"Why didn’t this exist earlier?\" So curious, everybody seems to talk about coding AI agents, but what are some other genius AI agents you have come across? submitted by /u/impetuouschestnut [link] [comments]",
+    "publishedAt": "2026-05-25T07:38:57.000Z",
+    "crawledAt": "2026-05-25T13:54:02.190Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "Feels like every AI conversation right now eventually turns into \"AI coding agents\" autonomous dev tools, or replacing software engineers. Which is cool, but it also feels like the entire internet is converging on the exact same use case. Meanwhile, I’m convinced there are probably insanely clever AI agents being built quietly in industries most people aren’t even paying attention to yet. I’m especially interested in agents that don’t just generate text or code, but actually remove annoying real-world friction, automate weird workflows, uncover hidden opportunities, or solve problems that normally require a ton of human coordination and context. The kind of stuff where you hear it and instantly think, \"Why didn’t this exist earlier?\" So curious, everybody seems to talk about coding AI agents, but what are some other genius AI agents you have come across? submitted by /u/impetuouschestnut [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_e3935e09209165d6",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tn5uf5/whats_the_most_impressive_opensource_ai_agent/",
+    "title": "What’s the most impressive open-source AI agent project right now?",
+    "rawSummary": "Feels like there are new AI agent projects launching every week, but only a few actually seem genuinely useful or technically impressive. Curious which open-source AI agent projects people here think are the most promising right now and why. submitted by /u/Michael_Anderson_8 [link] [comments]",
+    "publishedAt": "2026-05-25T11:04:23.000Z",
+    "crawledAt": "2026-05-25T13:54:02.190Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "Feels like there are new AI agent projects launching every week, but only a few actually seem genuinely useful or technically impressive. Curious which open-source AI agent projects people here think are the most promising right now and why. submitted by /u/Michael_Anderson_8 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_870b7f072f7d8c28",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tn53a0/the_memento_problem_in_ai_agents/",
+    "title": "The Memento problem in AI agents",
+    "rawSummary": "TL;DR: I think a lot of agent failures are not really model failures. Agents are being asked to act from scattered, stale, and incomplete workspace data, so they end up guessing, stopping, or handing the work back to humans. My favorite movie is Memento. The movie revolves around Leonard, a man who suffers from anterograde amnesia and cannot form new memories. Throughout the film, he relies on photos, notes, tattoos, and instructions to understand what happened before, what matters now, and what he should do next. Every time Leonard acts, he is reconstructing the situation from whatever his past self left behind. The notes he creates act as the memory he cannot carry himself. They are how he connects the moment he is in to what happened before. That is increasingly how I think about AI agents. An agent can write, reason, summarize, search, use tools, draft emails, analyze data, and execute steps in a workflow. But every action it takes depends on the context surrounding that action. What is true right now? What changed? Which source should it trust? What is it allowed to do? If that context is reliable, the agent can be useful. If that context is missing, scattered, stale, or trapped in places the agent cannot access, the agent is forced to act from fragments. And acting from fragments is where things break. The context is scattered. Take a normal work moment: a customer call is coming up, and someone needs to prepare the account context before the meeting. The agent needs the basics: what the customer cares about, what happened last time, what was promised, what changed internally, and what should happen next. Most teams already have that information somewhere. The problem is that “somewhere” is doing a lot of work. It might be in a CRM, a Slack thread, a doc, a meeting transcript, a project board, an email chain, a previous AI chat, or someone’s memory. A human can often survive that. We know who to ask. We remember the nuance. We can sense when a task title is outdated. We can read between the lines. An agent does not have that social map. If the context is not carried by the workspace, the agent either guesses, stops, or pushes the work back to a human. The agent has to verify what is still true So whenever the agent has to get work done it first has to answer a more basic question: Which facts can it still trust? Was the last customer complaint resolved, or only acknowledged? Did the product team actually ship the fix, or only discuss it? Is the task board current, or did the plan change in a call? Is the latest pricing in the CRM, the email thread, or the deck someone sent yesterday? A human usually resolves this without noticing. We use memory, instinct, and informal context to decide what to trust. For an agent, that judgment has to come from the system. Before it can draft the agenda, suggest talking points, or write the follow-up, it has to know what version of reality it is working from. If it has to ask you to paste in the latest context, it is not really working from the workspace. The current workspace still hands the work back to humans. This is why adding an agent to an old workspace is not enough. A workspace built for humans can get away with being incomplete, because humans carry the missing context themselves. A workspace built for agents cannot. This incompleteness is the moment of failure for the agent, leading to a half-finished task. If the agent gives you a draft but cannot update the task, CRM, doc, or follow-up, the work still lands back on your desk. The workspace can no longer be only a place where humans look at work. It has to become a place agents can read from, write to, and be checked inside (e.g., a unified data model, explicit status tracking, and automated source prioritization). In essence, the new workspace must become the agent's reliable set of photos, notes, and tattoos, ensuring it never acts from fragments again. Humans still set direction, judge quality, approve important actions, and carry accountability. But agents need the workspace to carry enough of the facts for them to act usefully. So my hot take is that maybe the bottleneck for AI agents is not intelligence. Maybe it is the workspace they are forced to work from. I would love to hear your perspctive. submitted by /u/1hassond [link] [comments]",
+    "publishedAt": "2026-05-25T10:26:46.000Z",
+    "crawledAt": "2026-05-25T13:54:02.191Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "TL;DR: I think a lot of agent failures are not really model failures. Agents are being asked to act from scattered, stale, and incomplete workspace data, so they end up guessing, stopping, or handing the work back to humans. My favorite movie is Memento. The movie revolves around Leonard, a man who suffers from anterograde amnesia and cannot form new memories. Throughout the film, he relies on photos, notes, tattoos, and instructions to understand what happened before, what matters now, and what he should do next. Every time Leonard acts, he is reconstructing the situation from whatever his past self left behind. The notes he creates act as the memory he cannot carry himself. They are how he connects the moment he is in to what happened before. That is increasingly how I think about AI agents. An agent can write, reason, summarize, search, use tools, draft emails, analyze data, and execute steps in a workflow. But every action it takes depends on the context surrounding that action. What is true right now? What changed? Which source should it trust? What is it allowed to do? If that context is reliable, the agent can be useful. If that context is missing, scattered, stale, or trapped in places the agent cannot access, the agent is forced to act from fragments. And acting from fragments is where things break. The context is scattered. Take a normal work moment: a customer call is coming up, and someone needs to prepare the account context before the meeting. The agent needs the basics: what the customer cares about, what happened last time, what was promised, what changed internally, and what should happen next. Most teams already have that information somewhere. The problem is that “somewhere” is doing a lot of work. It might be in a CRM, a Slack thread, a doc, a meeting transcript, a project board, an email chain, a previous AI chat, or someone’s memory. A human can often survive that. We know who to ask. We remember the nuance. We can sense when a task title is outdated. We can read between the lines. An agent does not have that social map. If the context is not carried by the workspace, the agent either guesses, stops, or pushes the work back to a human. The agent has to verify what is still true So whenever the agent has to get work done it first has to answer a more basic question: Which facts can it still trust? Was the last customer complaint resolved, or only acknowledged? Did the product team actually ship the fix, or only discuss it? Is the task board current, or did the plan change in a call? Is the latest pricing in the CRM, the email thread, or the deck someone sent yesterday? A human usually resolves this without noticing. We use memory, instinct, and informal context to decide what to trust. For an agent, that judgment has to come from the system. Before it can draft the agenda, suggest talking points, or write the follow-up, it has to know what version of reality it is working from. If it has to ask you to paste in the latest context, it is not really working from the workspace. The current workspace still hands the work back to humans. This is why adding an agent to an old workspace is not enough. A workspace built for humans can get away with being incomplete, because humans carry the missing context themselves. A workspace built for agents cannot. This incompleteness is the moment of failure for the agent, leading to a half-finished task. If the agent gives you a draft but cannot update the task, CRM, doc, or follow-up, the work still lands back on your desk. The workspace can no longer be only a place where humans look at work. It has to become a place agents can read from, write to, and be checked inside (e.g., a unified data model, explicit status tracking, and automated source prioritization). In essence, the new workspace must become the agent's reliable set of photos, notes, and tattoos, ensuring it never acts from fragments again. Humans still set direction, judge quality, approve important actions, and carry accountability. But agents need the workspace to carry enough of the facts for them to act usefully. So my hot take is that maybe the bottleneck for AI agents is not intelligence. Maybe it is the workspace they are forced to work from. I would love to hear your perspctive. submitted by /u/1hassond [link] [comments]"
+  },
+  {
+    "id": "src_stability-ai-blog_2026-05-25_fallback",
+    "sourceConfigId": "stability-ai-blog",
+    "sourceType": "blog",
+    "sourceName": "Stability AI Blog",
+    "sourceUrl": "https://stability.ai/news/rss",
+    "title": "Stability AI Blog signal for ai-image",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-25T13:54:01.724Z",
+    "crawledAt": "2026-05-25T13:54:01.724Z",
+    "categoryHints": [
+      "ai-image"
+    ],
+    "score": 0.5720000000000001,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 404 Not Found",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_black-forest-labs_db0e6d09e99dbd6f",
+    "sourceConfigId": "black-forest-labs",
+    "sourceType": "blog",
+    "sourceName": "Black Forest Labs",
+    "sourceUrl": "https://blackforestlabs.ai/blog/",
+    "title": "Blog | Black Forest Labs",
+    "rawSummary": "Latest articles from the blog about AI and technology",
+    "publishedAt": "2026-05-25T13:54:02.177Z",
+    "crawledAt": "2026-05-25T13:54:02.177Z",
+    "categoryHints": [
+      "ai-image"
+    ],
+    "score": 0.9,
+    "crawlStatus": "live",
+    "extractedText": "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image. Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved. © 2026 BLACK FOREST LABS. All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Products May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams. Read more Products May 7, 2026 How Our Forward Deployed Engineers Work with Customers Our engineers help partners turn FLUX into real systems: prompts, pipelines, fine-tunes, and infra tuned for real-world use cases. Read more Research February 24, 2026 Capable, Open, and Safe: Combating AI Misuse Today, Black Forest Labs’ FLUX models are among the most popular AI models for visual generation. We are excited to share early results that help validate our efforts to mitigate emerging risks. Read more Models News Research January 15, 2026 FLUX.2 [klein]: Towards Interactive Visual Intelligence Introducing FLUX.2 [klein], our fastest image models. Unified generation and editing in under a second, on hardware you already own. Apache 2.0 on 4B. Read more News December 1, 2025 Laying the Foundations for Visual Intelligence—Our $300M Series B Today, we're excited to announce our Series B of $300M at a $3.25B post-money valuation. Read more News Models Research November 25, 2025 FLUX.2: Frontier Visual Intelligence Today, we release FLUX.2, our most capable model to date. Read more News September 25, 2025 FLUX.1 Kontext now in Adobe Photoshop: Powering Every Pixel By pairing Photoshop’s professional editing environment with FLUX.1 Kontext [Pro]’s accuracy and unmatched speed, creators everywhere gain the freedom to push imagination further. Read more Customer stories August 22, 2025 OpenArt transforms video storytelling with FLUX.1 Kontext: Making video creation accessible beyond traditional creators OpenArt transformed video storytelling with FLUX.1 Kontext integration, enabling creators who couldn't access video production before to create professional-quality content. Read more Customer stories August 6, 2025 Burda transforms Comic Creation with Black Forest Labs' FLUX.1 Models Burda - a major publisher in the DACH region - transformed their comic creation process for the LissyPony series, one of the most recognized children’s magazines in central Europe. Read more News August 5, 2025 FLUX Models Launch on Azure AI Foundry for Enterprise-Ready Image Generation Starting today, Black Forest Labs’ flagship models are available directly from Microsoft on Azure AI Foundry. Read more Research News Models July 31, 2025 FLUX.1 Krea [dev]: An ‘Opinionated’ Text-to-Image Model The BFL model garden just got an exciting update: We are proud to release FLUX.1 Krea [dev], developed in collaboration with Krea AI. Read more News June 26, 2025 FLUX.1 Kontext [dev] - Open Weights for Image Editing Up until today, all capable generative image editing models were only available as proprietary tools. Read more Research News May 29, 2025 Introducing FLUX.1 Kontext and the BFL Playground Today, we are excited to release FLUX.1 Kontext, a suite of generative flow matching models that allows you to generate and edit images. Read more News Research January 16, 2025 Announcing the FLUX Pro Finetuning API Black Forest Labs is excited to announce the launch of the FLUX Pro Finetuning API, bringing unprecedented customization capabilities to our flagship FLUX Pro model line. Read more News January 2, 2025 Bringing Lightning-Fast FLUX Performance to More Creators in Collaboration with NVIDIA Our new collaboration with NVIDIA marks a significant leap forward in making our FLUX models more universally accessible and efficient. Read more Research Models November 6, 2024 Introducing FLUX1.1 [pro] Ultra and Raw Modes Today, we are adding new high-resolution capabilities to FLUX1.1 [pro], extending its functionality to support 4x higher image resolutions (up to 4MP) while maintaining an impressive generation time of only 10 seconds per sample. Read more Research November 1, 2024 Introducing FLUX.1 Tools Today, we are excited to release FLUX.1 Tools, a suite of models designed to add control and steerability to our base text-to-image model FLUX.1 Read more Research October 2, 2024 Announcing FLUX1.1 [pro] and the BFL API Today, we release FLUX1.1 [pro], our most advanced and efficient model yet, alongside the general availability of the beta BFL API. This release marks a significant step forward in our mission to empower creators, developers, and enterprises with scalable, state-of-the-art generative technology. Read more News August 1, 2024 Announcing Black Forest Labs Today, we are excited to announce the launch of Black Forest Labs. Read more",
+    "imageUrl": "https://bfl.ai/opengraph-image-j8qpfc.png?47e2121a0eb4d5b0"
+  },
+  {
+    "id": "src_replicate-blog_572c1f4ac9c0ea5c",
+    "sourceConfigId": "replicate-blog",
+    "sourceType": "blog",
+    "sourceName": "Replicate Blog",
+    "sourceUrl": "https://replicate.com/blog",
+    "title": "Blog – Replicate",
+    "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
+    "publishedAt": "2026-05-25T13:54:01.740Z",
+    "crawledAt": "2026-05-25T13:54:01.740Z",
+    "categoryHints": [
+      "ai-image",
+      "ai-video",
+      "ai-vibe-coding"
+    ],
+    "score": 0.78,
+    "crawlStatus": "live",
+    "extractedText": "Blog – Replicate Blog RSS Atom How to make remarkable videos with Seedance 2.0 If you have never tried a video model before, now is the time. April 15, 2026 How to prompt Seedream 5.0 Seedream 5.0 brings multi-step reasoning, example-based editing, and deep domain knowledge to image generation. Here's what you should know. February 24, 2026 Recraft V4: image generation with design taste Recraft V4 generates art-directed images — and actual editable SVGs — with strong composition, accurate text rendering, and what the Recraft team calls \"design taste.\" Four models are available on Replicate now. February 18, 2026 Run Isaac 0.1 on Replicate Isaac 0.1 is a lightweight, grounded vision-language model built for real-world perception. November 26, 2025 Run FLUX.2 on Replicate FLUX.2 brings professional-grade image generation and editing with unprecedented detail, multi-reference support, and enterprise efficiency. November 25, 2025 How to prompt Nano Banana Pro Nano Banana Pro brings powerful new capabilities in image generation and editing. Here are the main prompt tricks you should know. November 20, 2025 Retro Diffusion's pixel art models are now on Replicate Generate game assets, sprites, tiles, and pixel art with Retro Diffusion's suite of carefully crafted models. November 19, 2025 Replicate is joining Cloudflare November 17, 2025 Extract text from documents and images with Datalab Marker and OCR Turn whole documents into markdown or grab line-level polygons with two new models from Datalab. October 21, 2025 How to prompt Veo 3.1 Google's Veo 3.1 brings powerful new video generation capabilities including reference images, first/last frame control, and enhanced image-to-video. Here's everything you need to know. October 16, 2025 IBM's Granite 4.0 is now on Replicate October 2, 2025 Which image editing model should I use? Here is the ultimate comparison post on all the latest image editing models. September 23, 2025 Introducing our new search API Find the best models and collections with a single API call. September 16, 2025 Torch compile caching for inference speed Cache your compiled models for faster boot and inference times September 8, 2025 Announcing Replicate's remote MCP server Use our MCP to discover, compare, and run models from apps like Claude, Cursor, and VS Code. August 10, 2025 How to prompt Veo 3 with images You'll be surprised what you can do with AI video now. August 1, 2025 Open source video is back Wan 2.2 is our fastest, cheapest video model. July 31, 2025 Generate consistent characters We compare the best image models for generating consistent characters from a single reference image. July 21, 2025 Bria is now on Replicate We've partnered with Bria to bring a suite of commercial-grade image generation and editing models to Replicate. Built entirely on licensed data, Bria’s tools are designed for enterprises and developers building safely with visual AI. July 17, 2025 How we optimized FLUX.1 Kontext [dev] A deep-dive into the Taylor Seer optimization technique July 15, 2025 Compare AI video models It's hard keeping up with every new video model. In this post we'll help you pick the best one for your needs. July 7, 2025 The FLUX.1 Kontext hackathon We hosted a hackathon with BFL for FLUX.1 Kontext. Here were the winners. July 1, 2025 How to prompt Veo 3 for the best results Learn expert prompting techniques to create stunning videos with Google's Veo 3. June 10, 2025 Get the most from Google Veo 3 We're sharing our experiments and tips on Google's new Veo 3 model. June 5, 2025 FLUX.1 Kontext from the community FLUX.1 Kontext is everywhere - see what folks are cooking. June 2, 2025 Use FLUX.1 Kontext to edit images with words This is how to get the most from Black Forest Labs' new image editing model. May 29, 2025 Generate incredible images with Google's Imagen 4 Google's flagship image generation model, Imagen 4, is now available for you to try on Replicate. Create images with fine detail, versatile styles, and improved typography. May 22, 2025 Run OpenAI’s latest models on Replicate OpenAI's latest models are now available on Replicate, including GPT-4.1, GPT-4o, and the o-series. May 22, 2025 NVIDIA H100 GPUs are here NVIDIA H100 GPUs are here, with better performance and lower cost. May 16, 2025 Run 30,000+ LoRAs on Hugging Face with Replicate We've partnered with Hugging Face to bring Replicate inference to their platform. May 15, 2025 Ideogram 3.0 on Replicate Ideogram 3.0 is packed with powerful design, style transfer, and realism capabilities. May 7, 2025 Run MiniMax Speech-02 models with an API MiniMax's Speech-02 models give you high-quality text-to-speech with voice cloning, emotional expression, and multilingual support. May 6, 2025 Easel AI is now on Replicate Advanced face swap and AI avatars from Easel AI are now on Replicate. April 16, 2025 Stylized video with Wan2.1 One of the most fun ways to use Wan2.1 is video style transfer. Learn how here. April 1, 2025 Creative roundup: avatars, lightsabers, and LoRA tricks We take a quick look at the latest creative models, experiments, and community projects. March 28, 2025 Wan2.1: generate videos with an API Wan2.1 is the most capable open-source video generation model, producing coherent and high-quality outputs. Learn how to run it in the cloud with a single line of code. March 5, 2025 Wan2.1 parameter sweep We've been playing with Alibaba's WAN2.1 text-to-video model lately. What happens when you tweak those mysterious parameters? Let's find out. March 5, 2025 You can now fine-tune open-source video models Train your own versions of Tencent's HunyuanVideo for style, motion, and characters on Replicate. January 24, 2025 Generate short videos with the Replicate playground Create AI videos with a convenient workflow. January 17, 2025 AI video is having its Stable Diffusion moment There are lots of models that are as good as OpenAI's Sora now. December 16, 2024 FLUX fine-tunes are now fast We've made running fin",
+    "imageUrl": "https://replicate.com/_content/assets/og-image.y_bpW3_2.png"
+  },
+  {
+    "id": "src_reddit-stablediffusion_d1bb0957f0b4c825",
+    "sourceConfigId": "reddit-stablediffusion",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tn3m6n/nvidia_solved_vae_fast_and_highresolution_latent/",
+    "title": "Nvidia solved VAE? Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+    "rawSummary": "https://research.nvidia.com/labs/sil/projects/pid/ https://huggingface.co/nvidia/PiD submitted by /u/AIDivision [link] [comments]",
+    "publishedAt": "2026-05-25T09:07:26.000Z",
+    "crawledAt": "2026-05-25T13:54:02.342Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.62,
+    "crawlStatus": "live",
+    "extractedText": "https://research.nvidia.com/labs/sil/projects/pid/ https://huggingface.co/nvidia/PiD submitted by /u/AIDivision [link] [comments]"
+  },
+  {
+    "id": "src_reddit-stablediffusion_2d0ac8212fffe90f",
+    "sourceConfigId": "reddit-stablediffusion",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tmz5bf/realistic_selfie_prompts_for_zimage_turbobase/",
+    "title": "Realistic selfie prompts for Z-Image Turbo/Base",
+    "rawSummary": "I tried a bunch of mirror selfie prompts in ZIT, these 3 gave the most realistic results. A young woman with long dark wavy hair takes a mirror selfie in a bedroom. Subject: A young woman with long dark wavy hair and a warm complexion smiles softly at the camera while holding a smartphone up to capture her reflection. Clothing: She wears a fitted white short-sleeved t-shirt tucked into high-waisted dark grey leggings, revealing a tattoo on her left upper arm. Action: She holds a smartphone with a camouflage-patterned case in her right hand, posing with her body angled slightly away from the mirror while looking back over her shoulder. Environment: The setting is a bedroom featuring light wood flooring, a wooden bed frame with a patterned blue and white sheet, and cream-colored walls. Camera: The shot is a vertical mirror selfie taken at eye level with a slight wide-angle distortion typical of front-facing smartphone cameras. Lighting: Warm ambient indoor lighting casts soft shadows and highlights the texture of her hair and skin. Style Details: The image has a candid, casual aesthetic with natural color tones and a slightly grainy texture common in mobile photography. A young woman with long dark hair and bangs sits cross-legged on a dark floor while taking a mirror selfie with a smartphone. Subject: A young woman with long, straight black hair featuring blunt bangs, fair skin, and red lipstick. Clothing: She wears an oversized navy blue zip-up hoodie over a light grey t-shirt, paired with black socks and blue and white sneakers. Action: She holds a silver smartphone in her left hand to take the photo while making a peace sign with her right hand; she looks directly at the camera with a neutral expression. Environment: The setting is an indoor room with a dark floor, light-colored walls, and windows covered by horizontal blinds in the background. A black tripod stands near a white curtain on the right side. Camera: The shot is framed as a mirror selfie taken from a low angle, capturing the subject's full seated body and the reflection of the room behind her. Lighting: Soft, diffused natural light enters through the windows, creating gentle highlights on her hair and face with minimal harsh shadows. Style Details: The image has a candid, casual aesthetic typical of social media mirror selfies with a slightly grainy texture. 3. A woman takes a mirror selfie in an elevator wearing a sparkly magenta cutout dress with crisscross straps and midriff details. Subject: A woman with dark hair pulled back tightly into a sleek bun, fair skin, and a neutral expression, holding a smartphone up to capture her reflection. Clothing: A shimmering magenta two-piece or one-piece dress featuring intricate cutouts across the torso, crisscross spaghetti straps, and a fitted silhouette that reveals the midriff. Action: She holds a smartphone in her right hand to take a mirror selfie, with her left arm hanging naturally by her side. Environment: A dimly lit interior space with dark metallic elevator walls featuring vertical seams and faint reflections of overhead lights. Camera: Vertical composition shot from a close distance within the mirror reflection, capturing the subject from the mid-thigh up. Lighting: Low-key ambient lighting with soft highlights reflecting off the sparkly fabric of the dress and subtle glares on the phone case. Objects: A smartphone with a colorful geometric patterned case held in front of her face. Style Details: Candid mirror selfie aesthetic with high contrast between the bright magenta outfit and the dark background, emphasizing texture and sparkle. For remaining selfie prompts check out my free website: Selfie Prompts submitted by /u/aimasterguru [link] [comments]",
+    "publishedAt": "2026-05-25T05:10:36.000Z",
+    "crawledAt": "2026-05-25T13:54:02.342Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.62,
+    "crawlStatus": "live",
+    "extractedText": "I tried a bunch of mirror selfie prompts in ZIT, these 3 gave the most realistic results. A young woman with long dark wavy hair takes a mirror selfie in a bedroom. Subject: A young woman with long dark wavy hair and a warm complexion smiles softly at the camera while holding a smartphone up to capture her reflection. Clothing: She wears a fitted white short-sleeved t-shirt tucked into high-waisted dark grey leggings, revealing a tattoo on her left upper arm. Action: She holds a smartphone with a camouflage-patterned case in her right hand, posing with her body angled slightly away from the mirror while looking back over her shoulder. Environment: The setting is a bedroom featuring light wood flooring, a wooden bed frame with a patterned blue and white sheet, and cream-colored walls. Camera: The shot is a vertical mirror selfie taken at eye level with a slight wide-angle distortion typical of front-facing smartphone cameras. Lighting: Warm ambient indoor lighting casts soft shadows and highlights the texture of her hair and skin. Style Details: The image has a candid, casual aesthetic with natural color tones and a slightly grainy texture common in mobile photography. A young woman with long dark hair and bangs sits cross-legged on a dark floor while taking a mirror selfie with a smartphone. Subject: A young woman with long, straight black hair featuring blunt bangs, fair skin, and red lipstick. Clothing: She wears an oversized navy blue zip-up hoodie over a light grey t-shirt, paired with black socks and blue and white sneakers. Action: She holds a silver smartphone in her left hand to take the photo while making a peace sign with her right hand; she looks directly at the camera with a neutral expression. Environment: The setting is an indoor room with a dark floor, light-colored walls, and windows covered by horizontal blinds in the background. A black tripod stands near a white curtain on the right side. Camera: The shot is framed as a mirror selfie taken from a low angle, capturing the subject's full seated body and the reflection of the room behind her. Lighting: Soft, diffused natural light enters through the windows, creating gentle highlights on her hair and face with minimal harsh shadows. Style Details: The image has a candid, casual aesthetic typical of social media mirror selfies with a slightly grainy texture. 3. A woman takes a mirror selfie in an elevator wearing a sparkly magenta cutout dress with crisscross straps and midriff details. Subject: A woman with dark hair pulled back tightly into a sleek bun, fair skin, and a neutral expression, holding a smartphone up to capture her reflection. Clothing: A shimmering magenta two-piece or one-piece dress featuring intricate cutouts across the torso, crisscross spaghetti straps, and a fitted silhouette that reveals the midriff. Action: She holds a smartphone in her right hand to take a mirror selfie, with her left arm hanging naturally by her side. Environment: A dimly lit interior space with dark metallic elevator walls featuring vertical seams and faint reflections of overhead lights. Camera: Vertical composition shot from a close distance within the mirror reflection, capturing the subject from the mid-thigh up. Lighting: Low-key ambient lighting with soft highlights reflecting off the sparkly fabric of the dress and subtle glares on the phone case. Objects: A smartphone with a colorful geometric patterned case held in front of her face. Style Details: Candid mirror selfie aesthetic with high contrast between the bright magenta outfit and the dark background, emphasizing texture and sparkle. For remaining selfie prompts check out my free website: Selfie Prompts submitted by /u/aimasterguru [link] [comments]"
+  },
+  {
+    "id": "src_reddit-stablediffusion_d94aadff06a54eba",
+    "sourceConfigId": "reddit-stablediffusion",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tn10aa/1girl_post_sorry_krea_2_medium_is_really_good_at/",
+    "title": "1girl post sorry.. Krea 2 Medium is really good at bringing anime characters to life",
+    "rawSummary": "I really hope Krea 2 Medium gets open-sourced soon. If you want to make the prompts just put this wall of text into Qwen3VL, Grok, Gemini etc. Edit as you like into whatever setting, outfit, ethnicity, etc that you want. \"Create a Json Nanobanana pro prompt for a high quality Cosplay and Live-Action \"Tifa Lockhart\" as a real person. Describe her outfit and her face as being as close as possible to her natural description and regular attire. Describe her facial features. Describe her skin tone as being natural with pores, fine vellus hairs and subsurface scattering. Picture it as a phone snapshot taken by a third party of the character portrayed in everyday life taken without their knowing. Do not include negative prompts. Separate into \"core concept\", \"subject appearance\", \"outfit details\", \"environment details\", \"pose\", and \"photography style\". Limit to a maximum of 1500 characters. Her hands are at her side. School Courtyard. She is sitting down unaware of a photo being taken of her.\" I also took heavy use of the Moodboards (by creating my own) and Style Transfer (using portrait photographs taken with a phone camera) to force in as much photorealism as possible. submitted by /u/OneTrueTreasure [link] [comments]",
+    "publishedAt": "2026-05-25T06:46:02.000Z",
+    "crawledAt": "2026-05-25T13:54:02.343Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.62,
+    "crawlStatus": "live",
+    "extractedText": "I really hope Krea 2 Medium gets open-sourced soon. If you want to make the prompts just put this wall of text into Qwen3VL, Grok, Gemini etc. Edit as you like into whatever setting, outfit, ethnicity, etc that you want. \"Create a Json Nanobanana pro prompt for a high quality Cosplay and Live-Action \"Tifa Lockhart\" as a real person. Describe her outfit and her face as being as close as possible to her natural description and regular attire. Describe her facial features. Describe her skin tone as being natural with pores, fine vellus hairs and subsurface scattering. Picture it as a phone snapshot taken by a third party of the character portrayed in everyday life taken without their knowing. Do not include negative prompts. Separate into \"core concept\", \"subject appearance\", \"outfit details\", \"environment details\", \"pose\", and \"photography style\". Limit to a maximum of 1500 characters. Her hands are at her side. School Courtyard. She is sitting down unaware of a photo being taken of her.\" I also took heavy use of the Moodboards (by creating my own) and Style Transfer (using portrait photographs taken with a phone camera) to force in as much photorealism as possible. submitted by /u/OneTrueTreasure [link] [comments]"
+  },
+  {
+    "id": "src_reddit-stablediffusion_770991fb1129d81c",
+    "sourceConfigId": "reddit-stablediffusion",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tmqjej/brad_pitt_casts_elliot_for_achilles_an_ai_acting/",
+    "title": "Brad Pitt casts Elliot for Achilles - an Ai acting performance experiment",
+    "rawSummary": "I am putting most of my efforts to achieve more realistic Ai acting with natural audio voices and video generations using fully LTX inside wangp. This is my vision of how Pitt would cast Elliot for Achilles. submitted by /u/a-ijoe [link] [comments]",
+    "publishedAt": "2026-05-24T22:37:53.000Z",
+    "crawledAt": "2026-05-25T13:54:02.343Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.62,
+    "crawlStatus": "live",
+    "extractedText": "I am putting most of my efforts to achieve more realistic Ai acting with natural audio voices and video generations using fully LTX inside wangp. This is my vision of how Pitt would cast Elliot for Achilles. submitted by /u/a-ijoe [link] [comments]"
+  },
+  {
+    "id": "src_reddit-stablediffusion_70e97cc328d0e129",
+    "sourceConfigId": "reddit-stablediffusion",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tmwvlb/a_plugandplay_pixel_diffusion_decoder_that/",
+    "title": "A plug-and-play pixel diffusion decoder that replaces VAE/RAE decoders",
+    "rawSummary": "submitted by /u/ninjasaid13 [link] [comments]",
+    "publishedAt": "2026-05-25T03:20:37.000Z",
+    "crawledAt": "2026-05-25T13:54:02.343Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.62,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/ninjasaid13 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-comfyui_f0fcbff5cbf30b57",
+    "sourceConfigId": "reddit-comfyui",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
+    "title": "An Update on Nodes 2.0 from Comfy Org",
+    "rawSummary": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed. Over time, we plan to gradually make the new interface the default experience in ComfyUI. We know the reception has been mixed. There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them. We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short. The Problem With Canvas Canvas rendering worked, but it cut us off from everything the modern web has built over the last two decades: component libraries, design systems, accessibility tooling, the entire ecosystem developers rely on to ship fast. Every widget had to be drawn pixel by pixel. Generative AI doesn't sit still. New models, new modalities, new techniques, new ways of combining them. The workflows that made sense six months ago get rethought constantly. Our users are doing professional creative work, and they expect the controls that professional tools have had for years: curve editors, color grading, histograms, timeline scrubbing. We can't keep rebuilding those from scratch. What a Modern Frontend Unlocks With a modern frontend framework, a curve editor that would have taken weeks now takes days. A gradient slider with live preview, hours. Since the Nodes 2.0 beta launched, we’ve already shipped: Curve editors Histogram displays Live cropping UI Before/after comparison sliders Image processing nodes for color correction, film grain, chromatic aberration, sharpening, and levels Realtime shader nodes with subgraph blueprints Inline error displays and status badges directly on nodes This foundation also unlocks things that were previously impractical or impossible: Live execution previews on subgraphs Parallel node execution with realtime feedback Richer interfaces for future modalities and workflows Custom Nodes Most custom nodes work unchanged. For nodes that require updates, we’re investing heavily in migration support: A new public frontend API Documentation and migration guides Reference implementations Direct collaboration with node authors to identify gaps We understand this creates additional work for maintainers. For many popular custom nodes, we’re happy to directly help submit PRs and assist with migration work ourselves. Recent advances in coding agents have also made these frontend migrations significantly easier than they would have been even a year ago. Thank you for your patience as we work through this transition together. Timeline There is no fixed cutoff timeline yet. Right now, the priority is being transparent early and giving the ecosystem time to adapt. Current plan: Nodes 2.0 remains opt-in for now ( Settings > Rendering > Nodes 2.0 ) It later becomes the default while legacy mode remains available Eventually, legacy mode will become unmaintained and will likely break over time Going forward, new frontend-focused ComfyUI features will ship exclusively on Nodes 2.0. Feedback Please let us know what you think and the problems you run into. We need testing on complex workflows, large graphs, and custom nodes with unusual rendering. Report issues on GitHub or #bug-reports on Discord 🙏 Once again, thank you all for supporting Comfy. And most importantly, thank you to all the custom node authors who continue making this ecosystem incredibly vibrant, creative, and powerful. submitted by /u/crystal_alpine [link] [comments]",
+    "publishedAt": "2026-05-22T18:00:50.000Z",
+    "crawledAt": "2026-05-25T13:54:02.392Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed. Over time, we plan to gradually make the new interface the default experience in ComfyUI. We know the reception has been mixed. There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them. We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short. The Problem With Canvas Canvas rendering worked, but it cut us off from everything the modern web has built over the last two decades: component libraries, design systems, accessibility tooling, the entire ecosystem developers rely on to ship fast. Every widget had to be drawn pixel by pixel. Generative AI doesn't sit still. New models, new modalities, new techniques, new ways of combining them. The workflows that made sense six months ago get rethought constantly. Our users are doing professional creative work, and they expect the controls that professional tools have had for years: curve editors, color grading, histograms, timeline scrubbing. We can't keep rebuilding those from scratch. What a Modern Frontend Unlocks With a modern frontend framework, a curve editor that would have taken weeks now takes days. A gradient slider with live preview, hours. Since the Nodes 2.0 beta launched, we’ve already shipped: Curve editors Histogram displays Live cropping UI Before/after comparison sliders Image processing nodes for color correction, film grain, chromatic aberration, sharpening, and levels Realtime shader nodes with subgraph blueprints Inline error displays and status badges directly on nodes This foundation also unlocks things that were previously impractical or impossible: Live execution previews on subgraphs Parallel node execution with realtime feedback Richer interfaces for future modalities and workflows Custom Nodes Most custom nodes work unchanged. For nodes that require updates, we’re investing heavily in migration support: A new public frontend API Documentation and migration guides Reference implementations Direct collaboration with node authors to identify gaps We understand this creates additional work for maintainers. For many popular custom nodes, we’re happy to directly help submit PRs and assist with migration work ourselves. Recent advances in coding agents have also made these frontend migrations significantly easier than they would have been even a year ago. Thank you for your patience as we work through this transition together. Timeline There is no fixed cutoff timeline yet. Right now, the priority is being transparent early and giving the ecosystem time to adapt. Current plan: Nodes 2.0 remains opt-in for now ( Settings > Rendering > Nodes 2.0 ) It later becomes the default while legacy mode remains available Eventually, legacy mode will become unmaintained and will likely break over time Going forward, new frontend-focused ComfyUI features will ship exclusively on Nodes 2.0. Feedback Please let us know what you think and the problems you run into. We need testing on complex workflows, large graphs, and custom nodes with unusual rendering. Report issues on GitHub or #bug-reports on Discord 🙏 Once again, thank you all for supporting Comfy. And most importantly, thank you to all the custom node authors who continue making this ecosystem incredibly vibrant, creative, and powerful. submitted by /u/crystal_alpine [link] [comments]"
+  },
+  {
+    "id": "src_reddit-comfyui_195281715b2bcbc4",
+    "sourceConfigId": "reddit-comfyui",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tmwrbv/why_klein_does_this/",
+    "title": "why klein does this?",
+    "rawSummary": "I simply want to edit this photo and give the girl a natural tan. The left is the original photo, and the right is what klein did. I can see that he added saturation, making the photo look a bit more watercolor-like and with more of an AI effect than the original. I don't like that at all; how can I fix it? submitted by /u/Better-Career1234 [link] [comments]",
+    "publishedAt": "2026-05-25T03:15:08.000Z",
+    "crawledAt": "2026-05-25T13:54:02.392Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "I simply want to edit this photo and give the girl a natural tan. The left is the original photo, and the right is what klein did. I can see that he added saturation, making the photo look a bit more watercolor-like and with more of an AI effect than the original. I don't like that at all; how can I fix it? submitted by /u/Better-Career1234 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-comfyui_9a5a8c428c83eed8",
+    "sourceConfigId": "reddit-comfyui",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tn4p35/workflow_custom_node_release_i_vibe_coded_my_way/",
+    "title": "[Workflow + Custom Node Release] I vibe coded my way into getting an existing ltx ic-lora model to spit out Pseudo 16bit raw ARRI alexa output, from any mp4 footage of any size, using any rtx graphic cards agnostic of its VRAM.",
+    "rawSummary": "I have attached the workflow and the custom nodes for those who want to jump right in. Please check the copy at the end of this write up for them. If u want to check wat I am trying to solve and how I solved it, feel free to read along. The problem I make visual concepts for a living. I specifically make TVCs. Its selling these TVC “live action movie” concepts, tat pays the bills. Trouble is, other than the creative concepts I cook up, I am stuck with the visual look tat the AI video generators give me. I needed some sort of a raw format tat allows me some vigil room to provide me a certain look I am aiming for because tat is not easily weaved out of prompting. The solution There is existing solutions out there! One such solution is the recently dropped “ltx-2.3-22b-ic-lora-hdr” model. I found it interesting enough for my use case. Trouble is, hardware. Here is yet another heavy model tat needs a cloud to run. A cloud I need to pay for, with money I don’t have, as all the money I have is already allocated for other AI models and aggregators. I am guessing there r many people who agree with me abt the spend on AI. This is exactly my attack point. I wanted to find a solution to run this stuff locally on the hardware I have access to. In my case I had access to a rtx 5090. And it can be done in reasonable time using a rtx 3090 as well. After a series of directions i took and failed for over a month… I finally arrived at a solution tat involved breaking down the original clip into a series of batches tat are bite size for my GPU, to run the workflow. Each batch runs through the workflow with already existing nodes, and then some new nodes tat I vibed into existence. Thus allowing me to get a 12 sec 8bit video clip to be converted into a 16bit ARRI alexa raw, in mere 30 mins. Obviously if u have great hardware, this wont mean much to u… but for people like me with no coding background, no engineering prowess or no disposible income,… this is a break through. Full disclosure: I am not a coder. I built this entire pipeline by collaborating with Claude (Anthropic’s AI) and cross-referencing with Gemini. Claude wrote the custom Python nodes, debugged the tensor math, and helped me iterate through 27 workflow versions. I validated every approach on my hardware and made the creative/architectural decisions, but the code itself was AI-assisted from start to finish. The SeamBlender node included in this release is an original creation that came out of this process — it doesn’t exist anywhere else. https://www.youtube.com/watch?v=t-NQy7yr9eQ here is the video tat got me started down this road. And if u want to see a great breakdown of why this 16bit EXR capability is such a massive deal for professional grading and VFX finishing pipelines, check out Doug Hogan’s video abt it here: https://www.youtube.com/watch?v=_XJGXO9ATqk But here is where I and the original creators went down two completely different paths: · What they gave the community: They provided the raw weight models and basic, single-frame or short-sequence sample nodes. They showed it off inside DaVinci Resolve, but they didn't provide a way to generate full sequences locally without hitting massive hardware walls. If someone tried to feed a long video into their basic template, ComfyUI would load the whole thing into memory, instantly hit a 100% RAM ceiling, freeze the user's mouse, and crash the system. · What I engineered: I took their raw 16-bit math concept and actually turned it into a repeatable, bulletproof production tool. I realized tat instead of fighting the model's memory limits, I could break the task down into isolated 25-frame chunks. Then, I built my custom SeamBlender v2.2 node to automatically handle the pixel-space gradients on disk, creating a flat 200MB memory footprint tat can run on any consumer hardware. If you just want the files and don’t care about the journey, scroll to the bottom for the download link. But if you want to understand why this was so hard and what failed along the way, read on — it might save you weeks if you’re trying something similar. The Grueling Journey The following is general idea of all the directions I took to get here (incase u r interested): Route 1: The External Batch Loop Baseline (v1–v12) · The Concept: I began by building a modular video processor. Instead of feeding a long video file to the model all at once, my graph extracted the clip as separate image frames on my disk and loaded them in chunks of 25 frames at a time. · The Thinking: Keep hardware resource utilization flat and safe. If my computer only loads and runs 25 frames at a time, it will never exceed my 64GB system memory or overload my GPU. · The Failure Point: Every time a new 25-frame batch took over, the AI model reset its math and noise schedule. Because each chunk was completely isolated, it created a visible, sudden step-jump in brightness, exposure, and color tone on every 26th frame. Route 2: The Latent Memory Trick (v13–v15) · The Concept: To fix tat 26th-frame color jump, I introduced a memory system using custom BatchLatentSave and BatchLatentLoad nodes. · The Thinking: If Batch 0 saves its final hidden mathematical video vectors (latents) to a temporary cache file, Batch 1 can load tat cache file and use it as a starting point. By injecting the old batch's memory directly into the sampler with a noise mask, the AI would be forced to match the color and lighting of the previous frames. · The Failure Point: This created a violent conflict inside the AI model's internal attention layers. The model was trying to execute a moving camera orbit around the man, but my injected memory frame was forcefully pulling it backward to stay still. The pixels literally tore, duplicated, and stretched, creating a horrible, translucent \"ghosting\" and morphing effect over my character's body. Route 3: The Centralized Looping Sampler (v17–v23) · The Concept: I abandoned the external frame-purging loop entirely and switched to a single, monolithic, complex node layout built around the native LTXVLoopingSampler. · The Thinking: Eliminate batch cuts altogether by handling long-form video continuation natively inside the model's architecture. The looping sampler cuts the clip into overlapping ~80-frame sliding windows internally, keeping the generation unified under a single running execution thread. · The Failure Point: This route hit two catastrophic walls. First, the looping sampler structurally rejected my external IC-LoRA HDR conditioning tokens, causing immediate, un-patched code crashes (pre_filter_counts != keyframe grid mask length). Second, when I removed the guide nodes to stop the crashes, the model had to guess all 297 frames at once during the VAE decode phase. My massive data footprint piled up in my system RAM, hit a hard 100% saturation ceiling, froze my mouse and keyboard, and paralyzed my operating system. Route 4: The In-Pipeline Math Deflicker (v24–v25) · The Concept: I went back to the rock-solid, resource-safe v15 external batch loop but added a mathematical post-processing node at the tail end of my export tree. · The Thinking: Accept tat the AI will make exposure jumps every 25 frames due to random seeds, but use simple, global pixel multiplication to normalize the folder's brightness automatically after the EXR files land on my disk. · The Failure Point: A global mathematical average cannot differentiate between a broken AI color jump and an intentional, natural camera move. If the camera panned directly into the bright sun, a naive math node would see the overall brightness spike and aggressively crush the entire frame down into flat, dark mud. Furthermore, I discovered tat the flicker wasn't just lighting—the AI model was actually generating slightly different facial architecture and jawline geometry on each separate batch. No brightness slider can fix a shifting face shape. Route 5: The Final Pixel-Space Overlap Blender (v26–v27) · The Concept: My current masterpiece. I kept the safe external batch loop but re-engineered my post-processing node to perform a pixel-space alpha cross-fade gradient across a strict 8-frame overlap zone. · The Thinking: Separate the generation from the alignment. I let the GPU run at a flat 700W throttle to print crisp textures in safe blocks. Then, I let my CPU read just the matching overlap frames from my disk, and smoothly fade Batch A into Batch B using a clean sliding scale (100% → 86% → 71% → 57% → 43% → 29% → 14% → 0%). · The Evolution to Success: In my first attempt (v26), a ComfyUI node cache bug got nuke_frame_start permanently stuck, forcing the node to repeatedly blend only frames 8–15 with a flat 50/50 mix, which caused a blurry double-exposure ghost. I immediately pivoted to v27, stripping out the cache bug entirely and rewriting the script to use pure, un-cached batch_index math. What’s Included in the Release v27 ComfyUI Workflow JSON — the complete, working pipeline BatchVideoProcessor custom node — extracts frames and manages the batch loop with auto-requeue SeamBlender v2.2 custom node — the overlap alpha-blending node that eliminates batch boundary artifacts NukeWrite/NukeOCIO nodes — for EXR output with ARRI LogC4 color space Everything runs inside ComfyUI. No external tools needed except DaVinci Resolve (free version) to review your EXR sequence. Models Setup List The Meat Here r the models I used: · Base DiT Model (GGUF Q6_K): o Link: Kijai's ComfyUI-GGUF LTX-Video Repo on Hugging Face o Filename: ltx-2.3-22b-dev-Q6_K.gguf o Path on your machine: ComfyUI/models/unet/ · Text Encoder (Gemma 3 12B FP4): o Link: ComfyUI Core Text Encoders on Hugging Face o Filename: gemma_3_12B_it_fp4_mixed.safetensors o Path on your machine: ComfyUI/models/clip/ · Video VAE: o Link: Lightricks LTX-Video Official Hugging Face Repo o Filename: ltx-2.3-22b-dev_video_vae.safetensors o Path on your machine: ComfyUI/models/vae/ · The Two Essential LoRAs (Distill & IC-LoRA HDR): o Link: Lightricks LTX-Video LoRA Collection on Hugging Face o Filenames: ltx-2.3-22b-distilled-lora-384-1.1.safetensors and ltx-2.3-22b-ic-lora-hdr-0.9.safetensors o Path on your machine: ComfyUI/models/loras/ltxv/ltx2/ The Ingredients (The workflow and the custom nodes) https://drive.google.com/drive/folders/1zhl2X3WyjMmFB_KEew2nSiDkZplRhth6?usp=sharing https://github.com/dennyvgeorge/Comfyui-Stuff.git 📁 LTX_v27_Cinema_Pipeline/ ├ ── 📄 LTX-2_3_ICLoRA_HDR_v27.json -- Your master workflow canvas └── 📁 custom_nodes/ -- Zip these up for them ├ ── 📁 nuke-nodes/ -- Handles the 16bit EXR & OCIO outputs ├ ── 📁 comfyui_batch_loader/ -- Handles BatchVideoProcessor frame splitting └── 📁 comfyui_seam_blender/ -- Your custom v2.2 script tat welds te 8-frame overlaps Hardware Requirements Minimum: RTX 3090 (24GB VRAM), 32GB RAM Recommended: RTX 4090/5090 (32GB VRAM), 64GB RAM Render time: ~35 minutes for a 12-second clip (297 frames) on RTX 5090 Known Limitations Each batch generates independently, so very subtle texture differences may still exist at boundaries — the SeamBlender smooths them but can’t eliminate them entirely. The LTXVLoopingSampler (which would solve this natively) is structurally incompatible with IC-LoRA guide tokens at the code level — this is a limitation in the Lightricks codebase, not the workflow. The last batch’s overlap frames (273-280) get overwritten by NukeWrite after blending due to execution order — this is a minor issue affecting only the final seam. Hope u enjoy it... Cheers everybody! submitted by /u/d3nnyvg3org3 [link] [comments]",
+    "publishedAt": "2026-05-25T10:06:35.000Z",
+    "crawledAt": "2026-05-25T13:54:02.392Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "I have attached the workflow and the custom nodes for those who want to jump right in. Please check the copy at the end of this write up for them. If u want to check wat I am trying to solve and how I solved it, feel free to read along. The problem I make visual concepts for a living. I specifically make TVCs. Its selling these TVC “live action movie” concepts, tat pays the bills. Trouble is, other than the creative concepts I cook up, I am stuck with the visual look tat the AI video generators give me. I needed some sort of a raw format tat allows me some vigil room to provide me a certain look I am aiming for because tat is not easily weaved out of prompting. The solution There is existing solutions out there! One such solution is the recently dropped “ltx-2.3-22b-ic-lora-hdr” model. I found it interesting enough for my use case. Trouble is, hardware. Here is yet another heavy model tat needs a cloud to run. A cloud I need to pay for, with money I don’t have, as all the money I have is already allocated for other AI models and aggregators. I am guessing there r many people who agree with me abt the spend on AI. This is exactly my attack point. I wanted to find a solution to run this stuff locally on the hardware I have access to. In my case I had access to a rtx 5090. And it can be done in reasonable time using a rtx 3090 as well. After a series of directions i took and failed for over a month… I finally arrived at a solution tat involved breaking down the original clip into a series of batches tat are bite size for my GPU, to run the workflow. Each batch runs through the workflow with already existing nodes, and then some new nodes tat I vibed into existence. Thus allowing me to get a 12 sec 8bit video clip to be converted into a 16bit ARRI alexa raw, in mere 30 mins. Obviously if u have great hardware, this wont mean much to u… but for people like me with no coding background, no engineering prowess or no disposible income,… this is a break through. Full disclosure: I am not a coder. I built this entire pipeline by collaborating with Claude (Anthropic’s AI) and cross-referencing with Gemini. Claude wrote the custom Python nodes, debugged the tensor math, and helped me iterate through 27 workflow versions. I validated every approach on my hardware and made the creative/architectural decisions, but the code itself was AI-assisted from start to finish. The SeamBlender node included in this release is an original creation that came out of this process — it doesn’t exist anywhere else. https://www.youtube.com/watch?v=t-NQy7yr9eQ here is the video tat got me started down this road. And if u want to see a great breakdown of why this 16bit EXR capability is such a massive deal for professional grading and VFX finishing pipelines, check out Doug Hogan’s video abt it here: https://www.youtube.com/watch?v=_XJGXO9ATqk But here is where I and the original creators went down two completely different paths: · What they gave the community: They provided the raw weight models and basic, single-frame or short-sequence sample nodes. They showed it off inside DaVinci Resolve, but they didn't provide a way to generate full sequences locally without hitting massive hardware walls. If someone tried to feed a long video into their basic template, ComfyUI would load the whole thing into memory, instantly hit a 100% RAM ceiling, freeze the user's mouse, and crash the system. · What I engineered: I took their raw 16-bit math concept and actually turned it into a repeatable, bulletproof production tool. I realized tat instead of fighting the model's memory limits, I could break the task down into isolated 25-frame chunks. Then, I built my custom SeamBlender v2.2 node to automatically handle the pixel-space gradients on disk, creating a flat 200MB memory footprint tat can run on any consumer hardware. If you just want the files and don’t care about the journey, scroll to the bottom for the download link. But if you want to understand why this was so hard and what failed along the way, read on — it might save you weeks if you’re trying something similar. The Grueling Journey The following is general idea of all the directions I took to get here (incase u r interested): Route 1: The External Batch Loop Baseline (v1–v12) · The Concept: I began by building a modular video processor. Instead of feeding a long video file to the model all at once, my graph extracted the clip as separate image frames on my disk and loaded them in chunks of 25 frames at a time. · The Thinking: Keep hardware resource utilization flat and safe. If my computer only loads and runs 25 frames at a time, it will never exceed my 64GB system memory or overload my GPU. · The Failure Point: Every time a new 25-frame batch took over, the AI model reset its math and noise schedule. Because each chunk was completely isolated, it created a visible, sudden step-jump in brightness, exposure, and color tone on every 26th frame. Route 2: The Latent Memory Trick (v13–v15) · The Concept: To fix tat 26th-frame color jump, I introduced a memory system using custom BatchLatentSave and BatchLatentLoad nodes. · The Thinking: If Batch 0 saves its final hidden mathematical video vectors (latents) to a temporary cache file, Batch 1 can load tat cache file and use it as a starting point. By injecting the old batch's memory directly into the sampler with a noise mask, the AI would be forced to match the color and lighting of the previous frames. · The Failure Point: This created a violent conflict inside the AI model's internal attention layers. The model was trying to execute a moving camera orbit around the man, but my injected memory frame was forcefully pulling it backward to stay still. The pixels literally tore, duplicated, and stretched, creating a horrible, translucent \"ghosting\" and morphing effect over my character's body. Route 3: The Centralized Looping Sampler (v17–v23) · The Concept: I abandoned the external frame-purging loop entirely and switched to a single, monolithic, complex node layout built around the native LTXVLoopingSampler. · The Thinking: Eliminate batch cuts altogether by handling long-form video continuation natively inside the model's architecture. The looping sampler cuts the clip into overlapping ~80-frame sliding windows internally, keeping the generation unified under a single running execution thread. · The Failure Point: This route hit two catastrophic walls. First, the looping sampler structurally rejected my external IC-LoRA HDR conditioning tokens, causing immediate, un-patched code crashes (pre_filter_counts != keyframe grid mask length). Second, when I removed the guide nodes to stop the crashes, the model had to guess all 297 frames at once during the VAE decode phase. My massive data footprint piled up in my system RAM, hit a hard 100% saturation ceiling, froze my mouse and keyboard, and paralyzed my operating system. Route 4: The In-Pipeline Math Deflicker (v24–v25) · The Concept: I went back to the rock-solid, resource-safe v15 external batch loop but added a mathematical post-processing node at the tail end of my export tree. · The Thinking: Accept tat the AI will make exposure jumps every 25 frames due to random seeds, but use simple, global pixel multiplication to normalize the folder's brightness automatically after the EXR files land on my disk. · The Failure Point: A global mathematical average cannot differentiate between a broken AI color jump and an intentional, natural camera move. If the camera panned directly into the bright sun, a naive math node would see the overall brightness spike and aggressively crush the entire frame down into flat, dark mud. Furthermore, I discovered tat the flicker wasn't just lighting—the AI model was actually generating slightly different facial architecture and jawline geometry on each separate batch. No brightness slider can fix a shifting face shape. Route 5: The Final Pixel-Space Overlap Blender (v26–v27) · The Concept: My current masterpiece. I kept the safe external batch loop but re-engineered my post-processing node to perform a pixel-space alpha cross-fade gradient across a strict 8-frame overlap zone. · The Thinking: Separate the generation from the alignment. I let the GPU run at a flat 700W throttle to print crisp textures in safe blocks. Then, I let my CPU read just the matching overlap frames from my disk, and smoothly fade Batch A into Batch B using a clean sliding scale (100% → 86% → 71% → 57% → 43% → 29% → 14% → 0%). · The Evolution to Success: In my first attempt (v26), a ComfyUI node cache bug got nuke_frame_start permanently stuck, forcing the node to repeatedly blend only frames 8–15 with a flat 50/50 mix, which caused a blurry double-exposure ghost. I immediately pivoted to v27, stripping out the cache bug entirely and rewriting the script to use pure, un-cached batch_index math. What’s Included in the Release v27 ComfyUI Workflow JSON — the complete, working pipeline BatchVideoProcessor custom node — extracts frames and manages the batch loop with auto-requeue SeamBlender v2.2 custom node — the overlap alpha-blending node that eliminates batch boundary artifacts NukeWrite/NukeOCIO nodes — for EXR output with ARRI LogC4 color space Everything runs inside ComfyUI. No external tools needed except DaVinci Resolve (free version) to review your EXR sequence. Models Setup List The Meat Here r the models I used: · Base DiT Model (GGUF Q6_K): o Link: Kijai's ComfyUI-GGUF LTX-Video Repo on Hugging Face o Filename: ltx-2.3-22b-dev-Q6_K.gguf o Path on your machine: ComfyUI/models/unet/ · Text Encoder (Gemma 3 12B FP4): o Link: ComfyUI Core Text Encoders on Hugging Face o Filename: gemma_3_12B_it_fp4_mixed.safetensors o Path on your machine: ComfyUI/models/clip/ · Video VAE: o Link: Lightricks LTX-Video Official Hugging Face Repo o Filename: ltx-2.3-22b-dev_video_vae.safetensors o Path on your machine: ComfyUI/models/vae/ · The Two Essential LoRAs (Distill & IC-LoRA HDR): o Link: Lightricks LTX-Video LoRA Collection on Hugging Face o Filenames: ltx-2.3-22b-distilled-lora-384-1.1.safetensors and ltx-2.3-22b-ic-lora-hdr-0.9.safetensors o Path on your machine: ComfyUI/models/loras/ltxv/ltx2/ The Ingredients (The workflow and the custom nodes) https://drive.google.com/drive/folders/1zhl2X3WyjMmFB_KEew2nSiDkZplRhth6?usp=sharing https://github.com/dennyvgeorge/Comfyui-Stuff.git 📁 LTX_v27_Cinema_Pipeline/ ├ ── 📄 LTX-2_3_ICLoRA_HDR_v27.json -- Your master workflow canvas └── 📁 custom_nodes/ -- Zip these up for them ├ ── 📁 nuke-nodes/ -- Handles the 16bit EXR & OCIO outputs ├ ── 📁 comfyui_batch_loader/ -- Handles BatchVideoProcessor frame splitting └── 📁 comfyui_seam_blender/ -- Your custom v2.2 script tat welds te 8-frame overlaps Hardware Requirements Minimum: RTX 3090 (24GB VRAM), 32GB RAM Recommended: RTX 4090/5090 (32GB VRAM), 64GB RAM Render time: ~35 minutes for a 12-second clip (297 frames) on RTX 5090 Known Limitations Each batch generates independently, so very subtle texture differences may still exist at boundaries — the SeamBlender smooths them but can’t eliminate them entirely. The LTXVLoopingSampler (which would solve this natively) is structurally incompatible with IC-LoRA guide tokens at the code level — this is a limitation in the Lightricks codebase, not the workflow. The last batch’s overlap frames (273-280) get overwritten by NukeWrite after blending due to execution order — this is a minor issue affecting only the final seam. Hope u enjoy it... Cheers everybody! submitted by /u/d3nnyvg3org3 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-comfyui_3991fc71493e2935",
+    "sourceConfigId": "reddit-comfyui",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tn2aog/comfyui_tutorial_ltx_23_just_got_better_with/",
+    "title": "ComfyUI Tutorial: LTX 2.3 Just Got Better With Timeline Control On 6GB VRAM",
+    "rawSummary": "Hello everyone, in this tutorial we explore the new nodes named LTX DIRECTOR it is node that grant you a Complete Timeline Editor tool For LTX 2.3. It can boost your video generation by integrating image, text , costum audio file into one single video. Which will allows you to create unic and stunning video. All you have to do is load your images, text prompts, or audio file and click run. Enjoy VIDEO TUTORIAL LINK https://youtu.be/L7eE5z4Ih_0 Workflow link https://drive.google.com/file/d/1GIIxD_T92Gi6g5qQ2Eng6op81Q0wdctx/view?usp=sharing submitted by /u/cgpixel23 [link] [comments]",
+    "publishedAt": "2026-05-25T07:55:16.000Z",
+    "crawledAt": "2026-05-25T13:54:02.393Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "Hello everyone, in this tutorial we explore the new nodes named LTX DIRECTOR it is node that grant you a Complete Timeline Editor tool For LTX 2.3. It can boost your video generation by integrating image, text , costum audio file into one single video. Which will allows you to create unic and stunning video. All you have to do is load your images, text prompts, or audio file and click run. Enjoy VIDEO TUTORIAL LINK https://youtu.be/L7eE5z4Ih_0 Workflow link https://drive.google.com/file/d/1GIIxD_T92Gi6g5qQ2Eng6op81Q0wdctx/view?usp=sharing submitted by /u/cgpixel23 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-comfyui_8507348a20c15acb",
+    "sourceConfigId": "reddit-comfyui",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tn3zr5/a_lot_of_people_have_been_asking_what_ehdarkmuse/",
+    "title": "A lot of people have been asking what EHDarkMuse actually is, so I made a proper guide.",
+    "rawSummary": "Over the last few days there’s been a lot of confusion around what EHDarkMuse actually does. Some people thought it was: a prompt enhancer a preset pack a Suno wrapper an AI DAW a music generator Honestly… it started as the first one and escalated from there. So I made a full guide explaining: the core idea emotional sequencing timeline composition Advanced Mode structure systems how the workflow actually works Guide: https://civitai.com/articles/30585/ehdarkmuse-it-was-supposed-to-be-a-simple-prompt-enhancer-resource-guide Interactive demo: https://ehdarkmuse.pages.dev/ Music examples: https://suno.com/@ehdarkmuse Would genuinely appreciate feedback because the project has grown way beyond the original. idea. submitted by /u/pumukidelfuturo [link] [comments]",
+    "publishedAt": "2026-05-25T09:28:21.000Z",
+    "crawledAt": "2026-05-25T13:54:02.393Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "Over the last few days there’s been a lot of confusion around what EHDarkMuse actually does. Some people thought it was: a prompt enhancer a preset pack a Suno wrapper an AI DAW a music generator Honestly… it started as the first one and escalated from there. So I made a full guide explaining: the core idea emotional sequencing timeline composition Advanced Mode structure systems how the workflow actually works Guide: https://civitai.com/articles/30585/ehdarkmuse-it-was-supposed-to-be-a-simple-prompt-enhancer-resource-guide Interactive demo: https://ehdarkmuse.pages.dev/ Music examples: https://suno.com/@ehdarkmuse Would genuinely appreciate feedback because the project has grown way beyond the original. idea. submitted by /u/pumukidelfuturo [link] [comments]"
+  },
+  {
+    "id": "src_runway-research_4c72ae34dd32cd2b",
+    "sourceConfigId": "runway-research",
+    "sourceType": "blog",
+    "sourceName": "Runway Research",
+    "sourceUrl": "https://runwayml.com/research",
+    "title": "AI Video Research & Innovation | Runway AI",
+    "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
+    "publishedAt": "2026-05-25T13:54:01.750Z",
+    "crawledAt": "2026-05-25T13:54:01.750Z",
+    "categoryHints": [
+      "ai-video"
+    ],
+    "score": 0.92,
+    "crawlStatus": "live",
+    "extractedText": "AI Video Research & Innovation | Runway AI Research Product Resources Solutions Company Enterprise Sales Log in Try Runway Introducing Aleph 2.0 — our upgraded video editing model. Get 50% off Pro when you use code RUNWAY50. Terms. Try Now Our Research Building general-purpose multimodal simulators of the world. We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing. Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding. Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models.... Read Paper June 2, 2025 Dual-Process Image Generation by Grace Luo, Jonathan Granskog, Aleksander Hołyński, Trevor Darrell Prior methods for controlling image generation are limited in their ability to be taught new tasks. In contrast, vision-language models, or VLMs, can learn tasks in-context and produce the correct outputs for a given input. We propose a dual-process distillation scheme that allows feed-forward image generators to learn new tasks from deliberative VLMs. Our scheme uses a VLM to rate the generated images and backpropagates this gradient to update the weights of the image generator. Our general framework enables a wide variety of new control tasks through the same text-and-image based interface. We showcase a handful of applications of this technique for different types of control signals, such as commonsense inferences and visual prompts. With our method, users can implement multimodal controls for properties such as color palette, line weight, horizon position, and relative depth within a... Read Paper March 31, 2025 StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting by Shakiba Kheradmand, Delio Vicini, George Kopanas, Dmitry Lagun, Kwang Moo Yi, Mark Matthews, Andrea Tagliasacchi 3D Gaussian splatting (3DGS) is a popular radiance field method, with many application-specific extensions. Most variants rely on the same core algorithm: depth-sorting of Gaussian splats then rasterizing in primitive order. This ensures correct alpha compositing, but can cause rendering artifacts due to built-in approximations. Moreover, for a fixed representation, sorted rendering offers little control over render cost and visual fidelity. For example, and counter-intuitively, rendering a lower-resolution image is not necessarily faster. In this work, we address the above limitations by combining 3D Gaussian splatting with stochastic rasterization. Concretely, we leverage an unbiased Monte Carlo estimator of the volume rendering equation. This removes the need for sorting, and allows for accurate 3D blending of overlapping Gaussians. The number of Monte Carlo samples further imbues 3DG... Read Paper View More Publications Upload in progress... Your video file is being uploaded. The currently loaded video is the source file. Runway Research We are building foundational General World Models that will be capable of simulating all possible worlds and experiences. The next frontier of intelligence will come from models that can understand, perceive, generate and act in the world. Learn more GWM-1 ↗ A state-of-the-art General World Model built to interact with the real world. And a major step towards universal simulation. Gen-4.5 ↗ The world's best video model, featuring state-of-the-art motion quality, prompt adherence and visual fidelity. General World Models ↗ Our long-term research effort to build AI systems that understand the visual world and its dynamics. RNA Sessions An ongoing series of talks about frontier research in AI and art, hosted by Runway. Learn more Latest news How Real-Time Video Generation Is Changing Online Interaction Accelerating Robot Policy Evaluation with General World Models The Turing Reel View all research news Product Explore Examples Characters GWM-1 General World Models Robotics Gen-4.5 Aleph 2.0 Act-Two API Initiatives AI Summit 2026 ↗ Studios AI Festival ↗ Gen:48 Academy ↗ Resources Creative Partners Program Runway Builders Company Our Research Publications Careers About Us Customer Stories News Talent Network ↗ Safety Get Started For Enterprises For Education Login Pricing Help Center ↗ Data Security Changelog Connect Press Partnerships Brand Guidelines Meetups ↗ Twitter ↗ Instagram ↗ YouTube ↗ Discord ↗ © 2026 Runway AI, Inc. / Terms of Use / Privacy Policy / California Notices Code of Conduct / System Status ')\" decoding=\"async\" aria-hidden=\"true\"/>",
+    "imageUrl": "https://runwayml.com/research/opengraph-image.jpg?opengraph-image.09drcy~~qw43q.jpg"
+  },
+  {
+    "id": "src_pika-blog_80e55ecea6acd04d",
+    "sourceConfigId": "pika-blog",
+    "sourceType": "blog",
+    "sourceName": "Pika Labs Blog",
+    "sourceUrl": "https://pika.art/blog",
+    "title": "Pika blog",
+    "rawSummary": "Discover stories, experiments, and insights from the Pika community",
+    "publishedAt": "2026-05-25T13:54:01.787Z",
+    "crawledAt": "2026-05-25T13:54:01.787Z",
+    "categoryHints": [
+      "ai-video"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Careers API Blog Try Pika Careers API Blog Sign In Try Pika BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us. It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen. But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video. That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M. Led by the incredible team at Spark Capital, this round will enable us to accelerate our progress in building the best video foundation model, and the best possible product for video creators. Jun 5, 2024 Be the first to hear about Pika updates Get Our Newsletter Company Careers Contact Us Pricing Blog API Connect Discord Instagram X YouTube Facebook TikTok Terms of Service Pika © 2026 . All rights reserved. Acceptable Use Policy Privacy Policy Pika blog",
+    "imageUrl": "https://pika-kz6almgw8-pika-labs.vercel.app/images/og.jpeg"
+  },
+  {
+    "id": "src_luma-blog_c7449029956c34f9",
+    "sourceConfigId": "luma-blog",
+    "sourceType": "blog",
+    "sourceName": "Luma Labs Blog",
+    "sourceUrl": "https://lumalabs.ai/blog",
+    "title": "News | Luma",
+    "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
+    "publishedAt": "2026-05-25T13:54:02.449Z",
+    "crawledAt": "2026-05-25T13:54:02.449Z",
+    "categoryHints": [
+      "ai-video"
+    ],
+    "score": 0.8,
+    "crawlStatus": "live",
+    "extractedText": "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates All Company Product Engineering Creator Series Product May 5, 2026 Introducing the Uni-1.1 API: Intelligence You Can Direct. Aesthetic You Can Ship. Company Apr 16, 2026 Wonder Project and Luma Launch Innovative Dreams: Production Services Company Combining Generative AI and Traditional Filmmaking, Backed and Supported by Amazon Web Services Company Apr 15, 2026 South African Agency Boundless Delivers Mazda’s First AI-Produced Commercial Using Luma Agents Company Apr 9, 2026 Luma Submits 21 AI-Generated Finalists to Cannes Lions After Inspiring 400 Ads in Less Than 8 Weeks Product Apr 1, 2026 Introducing Team Members and Admins on Your Luma Account Company Feb 19, 2026 Serviceplan Group Deploys Creative AI Across Global Operations in Partnership with Luma AI Company Feb 11, 2026 Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe Company Feb 2, 2026 Luma AI Offers $1 Million For Cannes Lions Gold Winner Product Jan 26, 2026 Ray3.14 is here: Native 1080p, 3x cheaper and 4x faster. Product Dec 18, 2025 Introducing Ray3 Modify Company Dec 2, 2025 Luma AI Opens for International Business With Former WPP Executive Jason Day Leading New London Office Engineering Nov 26, 2025 Pushing the Limit of Efficient Inference-Time Scaling with Terminal Velocity Matching Company Nov 19, 2025 AGI is multimodal and reality is the dataset of AGI Company Oct 15, 2025 Hartbeat and Luma AI Partner on Prompt Side Story — A First-of-Its-Kind Live AI Film Event at LA Tech Week Creator Series Oct 15, 2025 Billy Boman Engineering Oct 14, 2025 Ray3 Evaluation Report – State-of-the-Art Performance for Pro Video Generation Creator Series Sep 24, 2025 Nik Kleverov Product Sep 18, 2025 Luma AI launches Ray3 Company Sep 12, 2025 Clio Awards Product Aug 12, 2025 Introducing Modify with Instructions Company Jul 10, 2025 Introducing Dream Lab LA Product Jun 2, 2025 Introducing Modify Video Company May 15, 2025 Luma is Partnering with HUMAIN to Accelerate the Arrival of Multimodal AGI Product May 9, 2025 Introducing Reframe Company Apr 24, 2025 Ray2 is coming to Adobe Firefly & Firefly Boards Product Apr 18, 2025 Introducing Camera Angle Concepts Product Mar 31, 2025 Introducing Camera Motion Concepts Engineering Mar 11, 2025 Breaking the Algorithmic Ceiling in Pre-Training with Inductive Moment Matching Subscribe to Press Updates Want to receive our latest press releases directly in your inbox? First Name * Last Name * Publication Email * Subscribe Media Inquiries Peter Binazeski Head of Communications press@lumalabs.ai Luma Product Pricing Use Cases UNI-1 API Enterprise Join Us Creative Partner Program Education Program Learning Center Media kit Terms of Service Privacy Policy Cookie Policy Subprocessors",
+    "imageUrl": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg"
+  },
+  {
+    "id": "src_reddit-aivideo_5a163fe980d106d8",
+    "sourceConfigId": "reddit-aivideo",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
+    "title": "Featured Titles + Latest Releases",
+    "rawSummary": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/browsecarousel [link] [comments]",
+    "publishedAt": "2026-05-13T06:38:36.000Z",
+    "crawledAt": "2026-05-25T13:54:02.197Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/browsecarousel [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aivideo_a7a9a72758720ba6",
+    "sourceConfigId": "reddit-aivideo",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+    "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
+    "rawSummary": ". AI VIDEO AWARDS 2026 🏆🤩 . UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R . 🎸 LIVE APPEARANCES BY: . WHISKERS THE CAT MIND OVER IMAGES ANDY RIFFETH WACKY TUBE MAN FALLING KNIFE FILMS BOTS IN THE HALL SELENA LOPEZ KNGMKR TONYA & TRISHA CODE AMBER IRWIN M J . 🏆 CURRENT 2026 AWARD NOMINEES ( LIST MAY CHANGE DUE TO VOTING AND NEW CONTENT SUBMITTED ): . 🤯 MINDBLOWING VIDEO OF THE YEAR Category Includes: CRAZY / MINDBLOWING + HORROR + MEME + VIDEOGAME . HeroHusky \"AI Chiropractor\" 🔥 https://www.reddit.com/r/aivideo/comments/1omdf0l/ai_chiropractor/ . NekoChan \"Fast Food Worker From the Feline Community\" 🔥 https://www.reddit.com/r/aivideo/comments/1j4l2hd/fast_food_worker_from_the_feline_community/ . Unknown \"No More Concerts\" 🔥 https://www.reddit.com/r/aivideo/comments/1oxezic/the_didgeridoo/ . Eslop \"Tube Man Exposed\" 🔥 https://www.reddit.com/r/aivideo/comments/1p67r1r/tube_man_exposed/ . Unknown \"Bong Smoking Olympics\" 🔥 https://www.reddit.com/r/aivideo/comments/1o2bvi9/bong_smoking_olympics/ . 📀 MUSIC VIDEO OF THE YEAR . Synthetic Collective \"Take More Dr*gs\" 🔥 https://www.reddit.com/r/aivideo/comments/1ohk6xx/take_more_drugs/ . Promise AI \"Is This AI or Not?\" 🔥 https://www.reddit.com/r/aivideo/comments/1nn80vf/is_this_ai_or_not/ . Andy Riffeth \"Boys In Blue\" 🔥 https://www.reddit.com/r/aivideo/comments/1j3kpsa/half_naked_women_get_thousands_of_views_how_many/ . Mind Over Images \"F*ck It, I’m the Problem\" 🔥 https://www.reddit.com/r/aivideo/comments/1pdwl3p/fuck_it_im_the_problem/ . Neural Hours \"Wash The Snorp\" 🔥 https://www.reddit.com/r/aivideo/comments/1lrwpu5/wash_the_snorp/ . 🍔 TV AD OF THE YEAR . Nimrod Animations \"The Future of Intimacy\" 🔥 https://www.reddit.com/r/aivideo/comments/1oi8sd8/the_future_of_intimacy/ . PJ Accetturo \"Puppramin\" 🔥 https://www.reddit.com/r/aivideo/comments/1kslhy3/i_used_to_make_500k_in_pharmaceutical_commercial/ . Ok Injury \"Beer Tree\" 🔥 https://www.reddit.com/r/aivideo/comments/1ofk04l/beer_tree/ . Jhonny Darrell \"Geriatric Meltdown 2000\" 🔥 https://www.reddit.com/r/aivideo/comments/1k3q62k/geriatric_meltdown_2000/ . Perfectly Unreal AI \"Maid Service\" 🔥 https://www.reddit.com/r/aivideo/comments/1or34al/bikini_babes_maids_service_mostly_used_klingai/ . 🍟 TV SHOW OF THE YEAR Category Includes: TV SHOW + DOCUMENTARY + ANIME . Qemmish \"How Toothpaste Is Made\" 🔥 https://www.reddit.com/r/aivideo/comments/1jujzh2/how_toothpaste_is_made/ . Code Samurai \"Interdimensional Cable\" 🔥 https://www.reddit.com/r/aivideo/comments/1ks2jp9/interdimensional_cable_veo_3/ . Darri 3D \"America’s Funniest AI Home Videos – Episode 1\" 🔥 https://www.reddit.com/r/aivideo/comments/1kjp3is/americas_funniest_ai_home_videos_episode_1/ . Gorm The Old \"Mr. Rogers at the Battle of Agincourt\" 🔥 https://www.reddit.com/r/aivideo/comments/1nwzxfq/mr_rogers_at_the_battle_of_agincourt/ . I Only Like Giraffes \"ADHtv\" 🔥 https://www.reddit.com/r/aivideo/comments/1oqae7p/channel_surfing_through_alternate_dimensions_full/ . 😂 COMEDY OF THE YEAR Category Includes: COMEDY SKETCH / PARODY + COMEDY STAND UP . DOTM Society \"Hood Tours\" 🔥 https://www.reddit.com/r/aivideo/comments/1ojkdal/hood_tours/ . Middle Detective \"Boomers Selling Their Home\" 🔥 https://www.reddit.com/r/aivideo/comments/1mnxltw/boomers_selling_their_home_in_2025/ . Barely Standing Up \"Babies Doing Stand Up\" 🔥 https://www.reddit.com/r/aivideo/comments/1omwute/babies_doing_standup/ . Solopops \"Fast Food Wars\" 🔥 https://www.reddit.com/r/aivideo/comments/1pfuclp/mcdo_vs_kfc_a_fast_food_war_film/ . Krogg Rage \"Oh Yeah, That’s Powerful\" 🔥 https://www.reddit.com/r/aivideo/comments/1pghs10/with_great_power_comes_great_accountability/ . 🍿 MOVIE TRAILER OF THE YEAR . Jurassic Smoothie \"Collect and Liquify\" 🔥 https://www.reddit.com/r/aivideo/comments/1luxcv5/collect_and_liquify/ . Neuro Dreams Exe \"The Awakening\" 🔥 https://www.reddit.com/r/aivideo/comments/1nsrjax/the_awakening/ . Eat The Ethos \"Seraphys\" 🔥 https://www.reddit.com/r/aivideo/comments/1l9wgr7/trailer_for_the_ai_show_seraphys/ . Neilchacho \"Dick Gun\" 🔥 https://www.reddit.com/r/aivideo/comments/1m0uopa/dick_gun_official_trailer_one_mans_junk_is/ . Daryl Wein \"Beer A Geddon\" 🔥 https://www.reddit.com/r/aivideo/comments/1kw33sh/insane_memorial_day_movie_trailer/ . 🎬 MOVIE OF THE YEAR . Eat The Ethos \"The Internet Is Dead\" 🔥 https://www.reddit.com/r/aivideo/comments/1kwt2cv/the_internet_is_dead/ . Gossip Goblin \"The Thirteenth Cycle of Humanity\" 🔥 https://www.reddit.com/r/aivideo/comments/1lkax2e/the_thirteenth_cycle_of_humanity/ . Darri 3D \"Cardboarding\" 🔥 https://www.reddit.com/r/aivideo/comments/1mt8v39/carboarding/ . Solopops \"Egg Protein\" 🔥 https://www.reddit.com/r/aivideo/comments/1q6mmpg/egg_protein_my_weirdest_ai_film/ . 1pcity Studios \"AI Blockbusters — Theme Park Collapse\" 🔥 https://www.reddit.com/r/aivideo/comments/1mjw7hm/theme_park_collapse/ . WATCH THE AI VIDEO AWARDS 2026 SUNDAY MARCH 15th — AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) . 🥳 OFFICIAL AI VIDEO AWARDS 2026 AFTERPARTY . OFFICIAL AI VIDEO AWARDS AFTERPARTY will be held at the Ghost Bar in the Palms Casino in Las Vegas the night of the awards, this is an invite-only ai video industry event for AI creators who are NOMINATED, PRESENTING or PERFORMING at the ceremony along with their production teams. Please get in touch with the mod team for details. . submitted by /u/ZashManson [link] [comments]",
+    "publishedAt": "2026-01-15T08:28:02.000Z",
+    "crawledAt": "2026-05-25T13:54:02.197Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": ". AI VIDEO AWARDS 2026 🏆🤩 . UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R . 🎸 LIVE APPEARANCES BY: . WHISKERS THE CAT MIND OVER IMAGES ANDY RIFFETH WACKY TUBE MAN FALLING KNIFE FILMS BOTS IN THE HALL SELENA LOPEZ KNGMKR TONYA & TRISHA CODE AMBER IRWIN M J . 🏆 CURRENT 2026 AWARD NOMINEES ( LIST MAY CHANGE DUE TO VOTING AND NEW CONTENT SUBMITTED ): . 🤯 MINDBLOWING VIDEO OF THE YEAR Category Includes: CRAZY / MINDBLOWING + HORROR + MEME + VIDEOGAME . HeroHusky \"AI Chiropractor\" 🔥 https://www.reddit.com/r/aivideo/comments/1omdf0l/ai_chiropractor/ . NekoChan \"Fast Food Worker From the Feline Community\" 🔥 https://www.reddit.com/r/aivideo/comments/1j4l2hd/fast_food_worker_from_the_feline_community/ . Unknown \"No More Concerts\" 🔥 https://www.reddit.com/r/aivideo/comments/1oxezic/the_didgeridoo/ . Eslop \"Tube Man Exposed\" 🔥 https://www.reddit.com/r/aivideo/comments/1p67r1r/tube_man_exposed/ . Unknown \"Bong Smoking Olympics\" 🔥 https://www.reddit.com/r/aivideo/comments/1o2bvi9/bong_smoking_olympics/ . 📀 MUSIC VIDEO OF THE YEAR . Synthetic Collective \"Take More Dr*gs\" 🔥 https://www.reddit.com/r/aivideo/comments/1ohk6xx/take_more_drugs/ . Promise AI \"Is This AI or Not?\" 🔥 https://www.reddit.com/r/aivideo/comments/1nn80vf/is_this_ai_or_not/ . Andy Riffeth \"Boys In Blue\" 🔥 https://www.reddit.com/r/aivideo/comments/1j3kpsa/half_naked_women_get_thousands_of_views_how_many/ . Mind Over Images \"F*ck It, I’m the Problem\" 🔥 https://www.reddit.com/r/aivideo/comments/1pdwl3p/fuck_it_im_the_problem/ . Neural Hours \"Wash The Snorp\" 🔥 https://www.reddit.com/r/aivideo/comments/1lrwpu5/wash_the_snorp/ . 🍔 TV AD OF THE YEAR . Nimrod Animations \"The Future of Intimacy\" 🔥 https://www.reddit.com/r/aivideo/comments/1oi8sd8/the_future_of_intimacy/ . PJ Accetturo \"Puppramin\" 🔥 https://www.reddit.com/r/aivideo/comments/1kslhy3/i_used_to_make_500k_in_pharmaceutical_commercial/ . Ok Injury \"Beer Tree\" 🔥 https://www.reddit.com/r/aivideo/comments/1ofk04l/beer_tree/ . Jhonny Darrell \"Geriatric Meltdown 2000\" 🔥 https://www.reddit.com/r/aivideo/comments/1k3q62k/geriatric_meltdown_2000/ . Perfectly Unreal AI \"Maid Service\" 🔥 https://www.reddit.com/r/aivideo/comments/1or34al/bikini_babes_maids_service_mostly_used_klingai/ . 🍟 TV SHOW OF THE YEAR Category Includes: TV SHOW + DOCUMENTARY + ANIME . Qemmish \"How Toothpaste Is Made\" 🔥 https://www.reddit.com/r/aivideo/comments/1jujzh2/how_toothpaste_is_made/ . Code Samurai \"Interdimensional Cable\" 🔥 https://www.reddit.com/r/aivideo/comments/1ks2jp9/interdimensional_cable_veo_3/ . Darri 3D \"America’s Funniest AI Home Videos – Episode 1\" 🔥 https://www.reddit.com/r/aivideo/comments/1kjp3is/americas_funniest_ai_home_videos_episode_1/ . Gorm The Old \"Mr. Rogers at the Battle of Agincourt\" 🔥 https://www.reddit.com/r/aivideo/comments/1nwzxfq/mr_rogers_at_the_battle_of_agincourt/ . I Only Like Giraffes \"ADHtv\" 🔥 https://www.reddit.com/r/aivideo/comments/1oqae7p/channel_surfing_through_alternate_dimensions_full/ . 😂 COMEDY OF THE YEAR Category Includes: COMEDY SKETCH / PARODY + COMEDY STAND UP . DOTM Society \"Hood Tours\" 🔥 https://www.reddit.com/r/aivideo/comments/1ojkdal/hood_tours/ . Middle Detective \"Boomers Selling Their Home\" 🔥 https://www.reddit.com/r/aivideo/comments/1mnxltw/boomers_selling_their_home_in_2025/ . Barely Standing Up \"Babies Doing Stand Up\" 🔥 https://www.reddit.com/r/aivideo/comments/1omwute/babies_doing_standup/ . Solopops \"Fast Food Wars\" 🔥 https://www.reddit.com/r/aivideo/comments/1pfuclp/mcdo_vs_kfc_a_fast_food_war_film/ . Krogg Rage \"Oh Yeah, That’s Powerful\" 🔥 https://www.reddit.com/r/aivideo/comments/1pghs10/with_great_power_comes_great_accountability/ . 🍿 MOVIE TRAILER OF THE YEAR . Jurassic Smoothie \"Collect and Liquify\" 🔥 https://www.reddit.com/r/aivideo/comments/1luxcv5/collect_and_liquify/ . Neuro Dreams Exe \"The Awakening\" 🔥 https://www.reddit.com/r/aivideo/comments/1nsrjax/the_awakening/ . Eat The Ethos \"Seraphys\" 🔥 https://www.reddit.com/r/aivideo/comments/1l9wgr7/trailer_for_the_ai_show_seraphys/ . Neilchacho \"Dick Gun\" 🔥 https://www.reddit.com/r/aivideo/comments/1m0uopa/dick_gun_official_trailer_one_mans_junk_is/ . Daryl Wein \"Beer A Geddon\" 🔥 https://www.reddit.com/r/aivideo/comments/1kw33sh/insane_memorial_day_movie_trailer/ . 🎬 MOVIE OF THE YEAR . Eat The Ethos \"The Internet Is Dead\" 🔥 https://www.reddit.com/r/aivideo/comments/1kwt2cv/the_internet_is_dead/ . Gossip Goblin \"The Thirteenth Cycle of Humanity\" 🔥 https://www.reddit.com/r/aivideo/comments/1lkax2e/the_thirteenth_cycle_of_humanity/ . Darri 3D \"Cardboarding\" 🔥 https://www.reddit.com/r/aivideo/comments/1mt8v39/carboarding/ . Solopops \"Egg Protein\" 🔥 https://www.reddit.com/r/aivideo/comments/1q6mmpg/egg_protein_my_weirdest_ai_film/ . 1pcity Studios \"AI Blockbusters — Theme Park Collapse\" 🔥 https://www.reddit.com/r/aivideo/comments/1mjw7hm/theme_park_collapse/ . WATCH THE AI VIDEO AWARDS 2026 SUNDAY MARCH 15th — AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) . 🥳 OFFICIAL AI VIDEO AWARDS 2026 AFTERPARTY . OFFICIAL AI VIDEO AWARDS AFTERPARTY will be held at the Ghost Bar in the Palms Casino in Las Vegas the night of the awards, this is an invite-only ai video industry event for AI creators who are NOMINATED, PRESENTING or PERFORMING at the ceremony along with their production teams. Please get in touch with the mod team for details. . submitted by /u/ZashManson [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aivideo_a21b488dfe7e207a",
+    "sourceConfigId": "reddit-aivideo",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tn4pxl/ai_cat_vs_husky_the_sausage_throw_goes_off_the/",
+    "title": "AI cat vs husky: the sausage throw goes off the rails",
+    "rawSummary": "submitted by /u/Good_Topic771 [link] [comments]",
+    "publishedAt": "2026-05-25T10:07:53.000Z",
+    "crawledAt": "2026-05-25T13:54:02.197Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/Good_Topic771 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aivideo_49d3cda34f85d39f",
+    "sourceConfigId": "reddit-aivideo",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tmhmey/well_deserved/",
+    "title": "well deserved 😄",
+    "rawSummary": "submitted by /u/No_Tomatillo1695 [link] [comments]",
+    "publishedAt": "2026-05-24T16:57:11.000Z",
+    "crawledAt": "2026-05-25T13:54:02.197Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/No_Tomatillo1695 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aivideo_a6bb1aee1c688707",
+    "sourceConfigId": "reddit-aivideo",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tmpo9w/bradd_pitt_casts_elliot_page_for_achilles_ai/",
+    "title": "Bradd Pitt casts Elliot Page for Achilles - Ai acting performance (open source)",
+    "rawSummary": "submitted by /u/a-ijoe [link] [comments]",
+    "publishedAt": "2026-05-24T22:02:30.000Z",
+    "crawledAt": "2026-05-25T13:54:02.197Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/a-ijoe [link] [comments]"
+  },
+  {
+    "id": "src_cursor-changelog_99cdbb7e2d70df11",
+    "sourceConfigId": "cursor-changelog",
+    "sourceType": "blog",
+    "sourceName": "Cursor Changelog",
+    "sourceUrl": "https://www.cursor.com/changelog",
+    "title": "What's New in Cursor — Latest Updates & Release Notes",
+    "rawSummary": "New updates and improvements.",
+    "publishedAt": "2026-05-25T13:54:02.162Z",
+    "crawledAt": "2026-05-25T13:54:02.162Z",
+    "categoryHints": [
+      "ai-vibe-coding"
+    ],
+    "score": 0.85,
+    "crawlStatus": "live",
+    "extractedText": "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.5 May 20, 2026 · Changelog Improvements to Cursor Automations This release brings Cursor Automations to the Agents Window and introduces the ability to configure automations with multiple attached repos or no repos at all. For the next 7 days, all agent runs for newly created automations are 50% off. # Automations in the Agents Window Cursor Automations are now available in the Agents Window , in addition to cursor.com/automations. Create and manage your automations in the same workspace as your agents. # Multi-repo automations A lot of engineering work spans more than one codebase. You can now attach multiple repos to an automation so agents reason across all required context and work across repos to deliver, test, and verify tasks. # No-repo automations Many useful automations exist apart from code, where agents monitor your tools and act on key signals. You can now create automations without an attached repository. We've added five new templates for no-repo automations to the Cursor Marketplace to help you get started: Slack digest agent : Summarizes unread DMs and key Slack channels every morning and prioritizes them by importance Product analytics agent : Delivers a weekly digest of key metrics from your data warehouse like Databricks Product FAQ agent : Watches a Slack channel for questions and writes a first response based on docs, codebase context, and past threads Product finance agent : Pulls financial data from a billing provider like Stripe for recurring revenue reports Customer health agent : Monitors key systems like Granola, Slack, and Databricks and flags accounts where health signals are shifting Read our docs to learn more. May 19, 2026 · Changelog Cursor in Jira Cursor is now available in Jira. Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent . Cursor uses the work item title, description, comments, and your team's repository settings to scope the task. You can ask Cursor to fix bugs, add features, update tests, or investigate something described in the ticket. When the agent finishes, Jira shows completion updates and includes a link to the pull request. Install the integration from Cursor integrations . You need Cursor admin access and Jira Commercial Cloud with Rovo enabled. Learn more in our docs . May 18, 2026 · Changelog Composer 2.5 Composer 2.5 is now available in Cursor. It's a substantial improvement in intelligence and behavior over Composer 2 . It is better at sustained work on long-running tasks, follows complex instructions more reliably, and is more pleasant to collaborate with. Standard: $0.50/M input, $2.50/M output tokens Fast (default): $3.00/M input, $15.00/M output tokens Composer 2.5 includes double usage for the first week. See our model docs for full details. Read more in our announcement . 3.4 May 13, 2026 · Changelog Full-screen Tabs and Compact Chats This release introduces quality-of-life improvements to the Agents Window . # Full-screen tabs Full screen maximizes the right panel so you can focus on a single tab. Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire working area. This replaces the agent chat with a floating prompt bar. Enter and exit full screen by clicking on the expand/contract button in the panel header, using the command palette, or pressing Cmd/Ctrl+Shift+M . # Compact chat responses Compact chats give you a tighter view of your agent conversations so you can read threads more quickly without losing important context. Customize tool call density to control how much of the agent's tool activity is shown in each response: Compact: shows concise results with minimal tool traces Balanced: includes important intermediate steps Detailed: provides near-complete step-by-step context Improvements (8) ↓ ↑ Improved PR tabs by adding clearer review states, better reviewer/thread visibility, and more predictable PR tab actions. Improved long-chat scrolling to make it smoother, added better undo grouping in prompt input, and improved behavior while streaming. Added clearer status text for background/resumed tasks. Added cleaner environment/repo selection and better persistence when switching contexts. Improved MCP auth token lifecycle handling. Removed noisy in-app terminal notifications and improved shortcut behavior. Clarified model naming and selection behavior in the model picker and added stronger fallback handling. Improved search and navigation to make it faster and more reliable in large workspaces. Bug Fixes (9) ↓ ↑ Fixed PR tab bugs affecting branch lookup, header state, and diff loading. Fixed background task reliability issues like resume failures, interrupt edge cases, and incorrect status scoping on resumed subagents. Fixed cloud agents bugs blocking setup, state merge/persistence bugs, and multi-repo identity issues. Fixed MCP/OAuth reliability bugs like transient 401/stale-token cases and large-token handling edge cases. Fixed edge cases around slash menu + approval regressions, ask-question flow issues, and paste-chunk handling. Fixed keyboard shortcuts bugs in modals, vim/emacs caret style leakage, and other key handling. Fixed hook invocation/path-length issues and Git prompt-related regressions. Fixed model-routing mismatches, proxy body normalization, and thought-chunk forwarding issues. Fixed webhook auth/hostname resolution, GHES installation persistence, and mirrored-repo behavior. 3.4 May 13, 2026 · Changelog Development environments for cloud agents To take engineering tasks from start to finish, agents need a development environment similar to the setup on your laptop: cloned repositories, installed dependencies, credentials for i",
+    "imageUrl": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png"
+  },
+  {
+    "id": "src_github-copilot-blog_1cb7f10cc2e13dc1",
+    "sourceConfigId": "github-copilot-blog",
+    "sourceType": "blog",
+    "sourceName": "GitHub Copilot Blog",
+    "sourceUrl": "https://github.blog/tag/github-copilot/",
+    "title": "GitHub Copilot Archives - The GitHub Blog",
+    "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs.",
+    "publishedAt": "2026-05-25T13:54:01.731Z",
+    "crawledAt": "2026-05-25T13:54:01.731Z",
+    "categoryHints": [
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs. Machine learning Machine learning tips, tricks, and best practices. How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience. Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers. Application development Insights and best practices for building apps. Career growth Tips & tricks to grow as a professional developer. GitHub Improve how you use GitHub at work. GitHub Education Learn how to move into your first professional role. Programming languages & frameworks Stay current on what’s new (or new again). Get started with GitHub documentation Learn how to start building, shipping, and maintaining software with GitHub. Learn more Engineering Engineering Get an inside look at how we’re building the home for all developers. Architecture & optimization Discover how we deliver a performant and highly available experience across the GitHub platform. Engineering principles Explore best practices for building software at scale with a majority remote team. Infrastructure Get a glimpse at the technology underlying the world’s leading AI-powered developer platform. Platform security Learn how we build security into everything we do across the developer lifecycle. User experience Find out what goes into making GitHub the home for all developers. How we use GitHub to be more productive, collaborative, and secure Our engineering and security teams do some incredible work. Let’s take a look at how we use GitHub to be more productive, build collaboratively, and shift security left. Learn more Enterprise software Enterprise software Explore how to write, build, and deploy enterprise software at scale. Automation Automating your way to faster and more secure ships. CI/CD Guides on continuous integration and delivery. Collaboration Tips, tools, and tricks to improve developer collaboration. DevOps DevOps resources for enterprise engineering teams. DevSecOps How to integrate security into the SDLC. Governance & compliance Ensuring your builds stay clean. GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for AI Code Assistants Learn why Gartner positioned GitHub as a Leader for the second year in a row. Learn more News & insights News & insights Keep up with what’s new and notable from inside GitHub. Company news An inside look at news and product updates from GitHub. Product The latest on GitHub’s platform, products, and tools. Octoverse Insights into the state of open source on GitHub. Policy The latest policy and regulatory changes in software. Research Data-driven insights around the developer ecosystem. The library Older news and updates from GitHub. Unlocking the power of unstructured data with RAG Learn how to use retrieval-augmented generation (RAG) to capture more insights. Learn more Open Source Open Source Everything open source on GitHub. Git The latest Git updates. Maintainers Spotlighting open source maintainers. Social impact How open source is driving positive change. Gaming Explore open source games on GitHub. An introduction to innersource Organizations worldwide are incorporating open source methodologies into the way they build and ship their own software. Learn more Security Security Stay up to date on everything security. Application security Application security, explained. Supply chain security Demystifying supply chain security. Vulnerability research Updates from the GitHub Security Lab. Web application security Helpful tips on securing web applications. The enterprise guide to AI-powered DevSecOps Learn about core challenges in DevSecOps, and how you can start addressing them with AI and automation. Learn more Search Categories AI & ML Back AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs. Machine learning Machine learning tips, tricks, and best practices. How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience. Learn more Developer skills Back Developer skills Resources for developers to grow in their skills and careers. Application development Insights and best practices for building apps. Career growth Tips & tricks to grow as a professional developer. GitHub Improve how you use GitHub at work. GitHub Education Learn how to move into your first professional role. Programming languages & frameworks Stay current on what’s new (or new again). Get started with GitHub documentation Learn how to start building, shipping, and maintaining software with GitHub. Learn more Engineering Back Engineering Get an inside look at how we’re building the home for all developers. Architecture & optimization Discover how we deliver a performant and highly available experience across the GitHub platform. Engineering principles Explore best practices for building software at scale with a majority remote team. Infrastructure Get a glimpse at the technology underlying the world’s leading AI-powered developer platform. Platform security Learn how we build security into everything we do across the developer lifecycle. User experience Find out what goes into making GitHub the home for all developers. How we use GitHub to be more productive, collaborative, and secure Our engineering and security teams do some incredible work. Let’s take a look at how "
+  },
+  {
+    "id": "src_vercel-ai-blog_2026-05-25_fallback",
+    "sourceConfigId": "vercel-ai-blog",
+    "sourceType": "blog",
+    "sourceName": "Vercel AI Blog",
+    "sourceUrl": "https://vercel.com/blog/ai",
+    "title": "Vercel AI Blog signal for ai-vibe-coding",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-05-25T13:54:01.779Z",
+    "crawledAt": "2026-05-25T13:54:01.779Z",
+    "categoryHints": [
+      "ai-vibe-coding",
+      "ai-agentic"
+    ],
+    "score": 0.507,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 404 Not Found",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_replit-blog_49899058ba32f8e5",
+    "sourceConfigId": "replit-blog",
+    "sourceType": "blog",
+    "sourceName": "Replit Blog",
+    "sourceUrl": "https://blog.replit.com/",
+    "title": "Replit — Replit Blog – Product updates from the team",
+    "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
+    "publishedAt": "2026-05-25T13:54:02.242Z",
+    "crawledAt": "2026-05-25T13:54:02.242Z",
+    "categoryHints": [
+      "ai-vibe-coding"
+    ],
+    "score": 0.72,
+    "crawlStatus": "live",
+    "extractedText": "Replit — Replit Blog – Product updates from the team Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Wed, Mar 11, 2026 • Featured Introducing Replit Agent 4: Built for Creativity Introducing Agent 4—Replit's fastest, most versatile Agent yet. Push the boundaries of what's possible in vibe coding and build production-ready apps faster. All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Thu, May 21, 2026 Replit Enterprise, Now Self-Serve Starting today, any organization can purchase Replit Enterprise directly on our website, configure SSO and SCIM, invite their team, and start building production apps, in minutes. No demo requests, no contract negotiations, no waiting. Get Started now. Why we built this Teams evaluating Replit Enterprise kept telling us the same thing: “We have budget. We’re ready. We just want to get started quickly.” Self-serve Enterprise removes the friction between deciding to buy and actually building, with setup—from signup to a fully provisioned SSO-enabled Enterprise account—taking less time than most sales calls. Who is this for? Sun, May 10, 2026 Mothers who build A stream of consciousness By Haya Odeh, Co-founder & Head of Design, Replit May 2026 From the moment I got married, the question started. When are you having children? Then, once I had them: How are you still doing this? Why do you even need a job? Your husband is providing. I heard versions of that my entire career. The assumption underneath it, that a woman's ambition has a natural stopping point, that motherhood is where the building ends, is something I've been quietly arguing against for over a decade. Let me try to form my thoughts around this in answers to questions I’ve heard from others or pondered myself. Questions that mothers out there can relate to. Thu, May 7, 2026 Security Center 2.0: Act on vulnerabilities in bulk across all your apps Replit is the most secure place to vibe code. Today, we're making it dramatically easier to use the Security Center to understand your security posture across all Replit projects in your business. We’re also making it possible to remediate urgent security holes, such as active critical vulnerabilities on multiple published projects, in seconds. You can reach the Security Center from the Replit Homepage, or your Settings. When you land there, the first thing we want to answer is simple: which of my projects are actually at risk right now? Start with what's urgent At the top of Security Center, we break your exposure down by critical and high severity vulnerabilities. You'll see how many of your projects have critical or high CVEs, how many of those projects are published, and — most importantly — how many are both published and public. Wed, May 6, 2026 Secure more apps with External Access Tokens and Private Publishing At Replit, we want all users to be able to build secure applications. In addition to features like Security Agent and Auto Protect, you can restrict access to your apps with Private Publishing. Private Publishing is ideal for apps that should only be accessible to a specific set of users — whether that’s a personal tool, an internal app for teammates, or an early prototype shared with close collaborators. Today, we’re introducing two updates that expand secure access for Replit builders: Private Publishing is now available to Core and Starter plan users. Previously, private deployments were limited to Pro and Enterprise plans. External Access Tokens are now available for all private apps. External Access Tokens let trusted external services securely access private apps without exposing the entire application to the public internet. Private Publishing works at the network level. When publishing, simply choose your desired access level and Replit will prevent unauthorized user requests from ever reaching your app. Wed, Apr 29, 2026 Introducing Replit App Monitoring At Replit, we're on a mission to automate software creation for everybody. We want to become your fully AI-powered engineering team. But building your app is only half the job. The other half is keeping your app running smoothly once it's live. Until now, if your published app went down, you would first find out from your users, who would see that your app is experiencing issues. We're launching App Monitoring for published apps, so you're the first to know when your app goes down. And Replit Agent is your partner in fixing it: Agent can now sift through your application’s logs and production database to diagnose failures and identify root cause. Know the moment your app goes down Once you’ve enabled App Monitoring, if your app goes down, we'll email you so you can take action right away. Wed, Apr 22, 2026 Introducing Replit Auto-Protect Modern applications rely heavily on external packages, often open source and maintained by third parties. When new vulnerabilities - tracked as CVEs (Common Vulnerabilities and Exposures) are disclosed, teams need to act quickly before they can be exploited. Previously, staying secure required builders to monitor CVEs constantly and manually update dependencies. Now, Replit handles this for you. When a new critical CVE is identified, we automatically check it against your project’s dependencies. If a match is found, once you’v",
+    "imageUrl": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png"
+  },
+  {
+    "id": "src_comfyui-blog_fa3eb47ac5fb52c8",
+    "sourceConfigId": "comfyui-blog",
+    "sourceType": "blog",
+    "sourceName": "ComfyUI Blog",
+    "sourceUrl": "https://blog.comfy.org/",
+    "title": "ComfyUI Blog | Robin | Substack",
+    "rawSummary": "News and updates from the Comfy team. Click to read ComfyUI Blog, by Robin, a Substack publication with tens of thousands of subscribers.",
+    "publishedAt": "2026-05-25T13:54:02.066Z",
+    "crawledAt": "2026-05-25T13:54:02.066Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "ComfyUI Blog | Robin | Substack ComfyUI Blog News and updates from the Comfy team. Over 25,000 subscribers Subscribe By subscribing, you agree Substack's Terms of Use , and acknowledge its Information Collection Notice and Privacy Policy . No thanks This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+    "imageUrl": "https://substackcdn.com/image/fetch/$s_!rZZF!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fcomfyui.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1801451783%26version%3D9"
+  },
+  {
+    "id": "src_reddit-midjourney_8df2718c2362b144",
+    "sourceConfigId": "reddit-midjourney",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+    "title": "V8.1 Alpha is out!",
+    "rawSummary": "Thanks for testing our V8.0 model over the last month! Today we're releasing our next version of V8 - V8.1 What’s new in V8.1? V8.1 has a consistent and familiar aesthetic in the spirit of V7 . Moodboards and srefs are now super stable and will be everything you love. HD mode is now 3x faster and 3x cheaper . It’s so cheap we’re making it default for V8.1 Standard resolution is now 50% faster and 25% cheaper . Standard resolution in V8.1 at full quality is as fast as V7 draft mode! It’s great for exploring and iterating *fast*. We’ve also added a button called “Run as HD” which will rerun any SD job as HD. We’ve also brought back some community favorite features Image prompts and even image weights are now available in V8.1 New Prompt Shortener , which will kick in anytime you go over the prompt length limits Updated Describe that gives longer more detailed prompts and matches the prompting style of V8 Please Note: Our V8 series of models are still only available on alpha.midjourney.com and are in an early testing phase. Things will change! Perhaps without notice! But good stuff is on the way. It is likely that we will decommission our V8.0 model after V8.1 has been out for a few weeks. If you find something the old model did better than the new one please let us know on our discord server! What’s next? We’re going to try to give a quick shot for some V8 upscalers and then we’re moving onto our V8 edit, inpainting, and outpainting model upgrades. Have fun everyone! And thank you for being a part of our community submitted by /u/Fnuckle [link] [comments]",
+    "publishedAt": "2026-04-14T21:44:04.000Z",
+    "crawledAt": "2026-05-25T13:54:02.900Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "score": 0.58,
+    "crawlStatus": "live",
+    "extractedText": "Thanks for testing our V8.0 model over the last month! Today we're releasing our next version of V8 - V8.1 What’s new in V8.1? V8.1 has a consistent and familiar aesthetic in the spirit of V7 . Moodboards and srefs are now super stable and will be everything you love. HD mode is now 3x faster and 3x cheaper . It’s so cheap we’re making it default for V8.1 Standard resolution is now 50% faster and 25% cheaper . Standard resolution in V8.1 at full quality is as fast as V7 draft mode! It’s great for exploring and iterating *fast*. We’ve also added a button called “Run as HD” which will rerun any SD job as HD. We’ve also brought back some community favorite features Image prompts and even image weights are now available in V8.1 New Prompt Shortener , which will kick in anytime you go over the prompt length limits Updated Describe that gives longer more detailed prompts and matches the prompting style of V8 Please Note: Our V8 series of models are still only available on alpha.midjourney.com and are in an early testing phase. Things will change! Perhaps without notice! But good stuff is on the way. It is likely that we will decommission our V8.0 model after V8.1 has been out for a few weeks. If you find something the old model did better than the new one please let us know on our discord server! What’s next? We’re going to try to give a quick shot for some V8 upscalers and then we’re moving onto our V8 edit, inpainting, and outpainting model upgrades. Have fun everyone! And thank you for being a part of our community submitted by /u/Fnuckle [link] [comments]"
+  },
+  {
+    "id": "src_reddit-midjourney_91c5cf49176c170c",
+    "sourceConfigId": "reddit-midjourney",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+    "title": "V8 alpha is here!",
+    "rawSummary": "Hey y'all! Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com . We want your feedback and your help. Let’s explore what this new model can do! V8 is an incredible model. It’s much better at following detailed directions and will still surprise you when you ask. Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing. Images are more coherent and detailed. Text rendering works better than ever (when specified in “quotes”). And image generation is ~5x faster than before. We’ve upgraded our web interfaces to support this speed. And more is coming. We have an improved conversation mode so you can just ‘talk’ in flow, a “Grid Mode” so you can focus on a single big set of images, and we’ve moved our settings into ‘sidebars’ so you can tweak settings without blocking your view. V8 launches with support for multiple aspect ratios, --chaos, --weird, --exp, --raw . We support backwards compatibility with your V7 personalization profiles, moodboards, and srefs. V8 brings a new --hd mode which natively renders images at 2K resolution and a --q 4 mode if you need a little bit of extra coherence. Modes and Pricing: Presently, Relax is not yet supported. We are working on a new server cluster for Relax plus cheaper render modes. --HD, --Q4, SREF, and Moodboard jobs are 4x as slow as regular jobs and each costs 4x (for now). The best way to help us improve V8 is to rate images in the lightbox. Click an image in create then click “I like this image” “I don't like this image” on as many of your V8 images as possible. You can use 1/2/3 hotkeys and arrow keys to rate images quickly. Other Tips and Tricks: If you’re going for photos or a more ‘plain’ or ‘in control’ look we’d recommend switching to --raw right away or using moodboards or srefs to control your style. We’re still working on the ‘default’ aesthetics of V8, but we strongly encourage you to use your personalization and even crank it to –stylize 1000 asap. V8 is going to shine most right now when you rely heavily on our stylization systems and when you trend towards longer more specific prompting. Please Note : This is an entirely new model with unique strengths and weaknesses, we want to learn from you what it's good and bad at but keep in mind it may require totally new prompting styles. So play around a bit! It’s time to play! Show off what you’re making by using the V8 alpha flair. As the model becomes more mature, we’ll do a community-wide roadmap ranking session to help us figure out what to prioritize next. Thanks again for everyone’s help with the V8 pre-release rating parties, and thank you so much for being a part of Midjourney! Let’s have fun out there and find new wonders on this vast and shared sea of imagination. submitted by /u/Fnuckle [link] [comments]",
+    "publishedAt": "2026-03-17T21:39:40.000Z",
+    "crawledAt": "2026-05-25T13:54:02.901Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "score": 0.58,
+    "crawlStatus": "live",
+    "extractedText": "Hey y'all! Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com . We want your feedback and your help. Let’s explore what this new model can do! V8 is an incredible model. It’s much better at following detailed directions and will still surprise you when you ask. Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing. Images are more coherent and detailed. Text rendering works better than ever (when specified in “quotes”). And image generation is ~5x faster than before. We’ve upgraded our web interfaces to support this speed. And more is coming. We have an improved conversation mode so you can just ‘talk’ in flow, a “Grid Mode” so you can focus on a single big set of images, and we’ve moved our settings into ‘sidebars’ so you can tweak settings without blocking your view. V8 launches with support for multiple aspect ratios, --chaos, --weird, --exp, --raw . We support backwards compatibility with your V7 personalization profiles, moodboards, and srefs. V8 brings a new --hd mode which natively renders images at 2K resolution and a --q 4 mode if you need a little bit of extra coherence. Modes and Pricing: Presently, Relax is not yet supported. We are working on a new server cluster for Relax plus cheaper render modes. --HD, --Q4, SREF, and Moodboard jobs are 4x as slow as regular jobs and each costs 4x (for now). The best way to help us improve V8 is to rate images in the lightbox. Click an image in create then click “I like this image” “I don't like this image” on as many of your V8 images as possible. You can use 1/2/3 hotkeys and arrow keys to rate images quickly. Other Tips and Tricks: If you’re going for photos or a more ‘plain’ or ‘in control’ look we’d recommend switching to --raw right away or using moodboards or srefs to control your style. We’re still working on the ‘default’ aesthetics of V8, but we strongly encourage you to use your personalization and even crank it to –stylize 1000 asap. V8 is going to shine most right now when you rely heavily on our stylization systems and when you trend towards longer more specific prompting. Please Note : This is an entirely new model with unique strengths and weaknesses, we want to learn from you what it's good and bad at but keep in mind it may require totally new prompting styles. So play around a bit! It’s time to play! Show off what you’re making by using the V8 alpha flair. As the model becomes more mature, we’ll do a community-wide roadmap ranking session to help us figure out what to prioritize next. Thanks again for everyone’s help with the V8 pre-release rating parties, and thank you so much for being a part of Midjourney! Let’s have fun out there and find new wonders on this vast and shared sea of imagination. submitted by /u/Fnuckle [link] [comments]"
+  },
+  {
+    "id": "src_reddit-midjourney_28f359f652f1123d",
+    "sourceConfigId": "reddit-midjourney",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tn6eoy/flag_bearer/",
+    "title": "Flag Bearer",
+    "rawSummary": "submitted by /u/Dropdeadlegs84 [link] [comments]",
+    "publishedAt": "2026-05-25T11:30:57.000Z",
+    "crawledAt": "2026-05-25T13:54:02.901Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "score": 0.58,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/Dropdeadlegs84 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-midjourney_6d646e681abaced9",
+    "sourceConfigId": "reddit-midjourney",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tn56o2/protraits_ii_beautiful_people_for_a_beautiful/",
+    "title": "Protraits II: Beautiful People for a Beautiful World",
+    "rawSummary": "submitted by /u/Regular-Musician-969 [link] [comments]",
+    "publishedAt": "2026-05-25T10:31:25.000Z",
+    "crawledAt": "2026-05-25T13:54:02.901Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "score": 0.58,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/Regular-Musician-969 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-midjourney_a0ebbc9731b23a07",
+    "sourceConfigId": "reddit-midjourney",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tn76k4/the_old_mage/",
+    "title": "The Old Mage.",
+    "rawSummary": "submitted by /u/Mordrat_The_Grey [link] [comments]",
+    "publishedAt": "2026-05-25T12:06:06.000Z",
+    "crawledAt": "2026-05-25T13:54:02.901Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "score": 0.58,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/Mordrat_The_Grey [link] [comments]"
+  },
+  {
+    "id": "src_kling-blog_93b43a5f7aed1c98",
+    "sourceConfigId": "kling-blog",
+    "sourceType": "blog",
+    "sourceName": "Kling AI Blog",
+    "sourceUrl": "https://klingai.com/blog",
+    "title": "Kling AI",
+    "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
+    "publishedAt": "2026-05-25T13:54:03.889Z",
+    "crawledAt": "2026-05-25T13:54:03.889Z",
+    "categoryHints": [
+      "prompt-video",
+      "ai-video"
+    ],
+    "score": 0.8,
+    "crawlStatus": "live",
+    "extractedText": "Kling AI 可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity Kling AI Introduces the World’s First Native 4K Video Model, Empowering Industrial-Grade AI Production Across Film, Advertising, and Creative Industries May 20, 2026 How to Create 4K E-commerce Product Videos with AI: Native 4K Image-to-Video Guide May 6, 2026 Native 4K AI Video Output vs Upscaling: What Is the Real Difference? Apr 30, 2026 World's First Native 4K Image-to-Video AI: Kling AI 4K Direct Output Explained Apr 30, 2026 AI Director Style Prompts: Recreate Wes Anderson with Kling AI Apr 29, 2026 Kling AI Long Video Prompts: Write Text-to-10s Video Scripts Apr 29, 2026 AI Prompt Weighting: Prioritize Keywords in Kling AI Prompts Apr 29, 2026 Horror AI Video Prompts: Craft Suspense With Sound And Color Grading Apr 25, 2026 Photorealistic AI Video: Make Kling AI Footage Look Like Real Life Apr 22, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Apr 22, 2026 AI Anime Video Prompts: Create Epic 2D Scenes with Kling AI Apr 21, 2026 AI Motion Prompts for Kling AI: Describe Running, Jumping & Gestures Apr 21, 2026 AI Video Lighting Prompts: Master Volumetric Light & Golden Hour Apr 20, 2026 50 Best Adjectives for Kling AI: Elevate Your AI Video Quality Apr 20, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Apr 20, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Apr 20, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+  },
+  {
+    "id": "src_reddit-mediasynthesis_334324f1d5231047",
+    "sourceConfigId": "reddit-mediasynthesis",
+    "sourceType": "reddit",
+    "sourceName": "r/MediaSynthesis",
+    "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/l2jkjs/extensive_list_of_generative_tools_curated_by/",
+    "title": "Extensive list of generative tools curated by Eyal Gruss",
+    "rawSummary": "submitted by /u/Wiskkey [link] [comments]",
+    "publishedAt": "2021-01-22T08:37:47.000Z",
+    "crawledAt": "2026-05-25T13:54:02.577Z",
+    "categoryHints": [
+      "prompt-video",
+      "ai-video"
+    ],
+    "score": 0.55,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/Wiskkey [link] [comments]"
+  },
+  {
+    "id": "src_reddit-mediasynthesis_459f419f1f6e36c2",
+    "sourceConfigId": "reddit-mediasynthesis",
+    "sourceType": "reddit",
+    "sourceName": "r/MediaSynthesis",
+    "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/xovjky/probable_changes_to_the_subreddit/",
+    "title": "Probable changes to the subreddit",
+    "rawSummary": "In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved. Basically, individual images or albums you created in Midjourney/Stable Diffusion/DALL-E 2 would not be enough to get approved. For those, the dedicated subreddits are more fitting I.e. /r/midjourney /r/StableDiffusion /r/dalle2 /r/deepdream \"But that will kill this forum's traffic!\" Almost certainly, but it'd be for the purpose of reorienting it. Admittedly when I first created /r/MediaSynthesis , I did so with the intent that any AI generated media would be allowed. But that was 2018, when AI generated media was much rarer and harder to create. Now that synthetic media is beginning to grow out of infancy into toddlerhood, I would like to instead help build subs more dedicated to the methodologies grow and keep this one more or less research-based. submitted by /u/Yuli-Ban [link] [comments]",
+    "publishedAt": "2022-09-26T20:55:02.000Z",
+    "crawledAt": "2026-05-25T13:54:02.577Z",
+    "categoryHints": [
+      "prompt-video",
+      "ai-video"
+    ],
+    "score": 0.55,
+    "crawlStatus": "live",
+    "extractedText": "In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved. Basically, individual images or albums you created in Midjourney/Stable Diffusion/DALL-E 2 would not be enough to get approved. For those, the dedicated subreddits are more fitting I.e. /r/midjourney /r/StableDiffusion /r/dalle2 /r/deepdream \"But that will kill this forum's traffic!\" Almost certainly, but it'd be for the purpose of reorienting it. Admittedly when I first created /r/MediaSynthesis , I did so with the intent that any AI generated media would be allowed. But that was 2018, when AI generated media was much rarer and harder to create. Now that synthetic media is beginning to grow out of infancy into toddlerhood, I would like to instead help build subs more dedicated to the methodologies grow and keep this one more or less research-based. submitted by /u/Yuli-Ban [link] [comments]"
+  },
+  {
+    "id": "src_reddit-mediasynthesis_196d9065129257ad",
+    "sourceConfigId": "reddit-mediasynthesis",
+    "sourceType": "reddit",
+    "sourceName": "r/MediaSynthesis",
+    "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/1tk1b6d/ai_won_the_2025_commonwealth_short_story_prize/",
+    "title": "AI won the 2025 Commonwealth Short Story Prize competition",
+    "rawSummary": "submitted by /u/gwern [link] [comments]",
+    "publishedAt": "2026-05-21T23:17:53.000Z",
+    "crawledAt": "2026-05-25T13:54:02.577Z",
+    "categoryHints": [
+      "prompt-video",
+      "ai-video"
+    ],
+    "score": 0.55,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/gwern [link] [comments]"
+  },
+  {
+    "id": "src_reddit-mediasynthesis_98111c99496f6ea1",
+    "sourceConfigId": "reddit-mediasynthesis",
+    "sourceType": "reddit",
+    "sourceName": "r/MediaSynthesis",
+    "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/1ti4oil/ai_is_incapable_of_poetry_its_incapable_of/",
+    "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
+    "rawSummary": "submitted by /u/gwern [link] [comments]",
+    "publishedAt": "2026-05-19T23:53:07.000Z",
+    "crawledAt": "2026-05-25T13:54:02.577Z",
+    "categoryHints": [
+      "prompt-video",
+      "ai-video"
+    ],
+    "score": 0.55,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/gwern [link] [comments]"
+  },
+  {
+    "id": "src_reddit-mediasynthesis_8dc8d246a27d02f6",
+    "sourceConfigId": "reddit-mediasynthesis",
+    "sourceType": "reddit",
+    "sourceName": "r/MediaSynthesis",
+    "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/comments/1tcg07m/review_50_years_of_text_games_by_aaron_reed/",
+    "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+    "rawSummary": "submitted by /u/gwern [link] [comments]",
+    "publishedAt": "2026-05-13T23:03:13.000Z",
+    "crawledAt": "2026-05-25T13:54:02.577Z",
+    "categoryHints": [
+      "prompt-video",
+      "ai-video"
+    ],
+    "score": 0.55,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/gwern [link] [comments]"
+  },
+  {
+    "id": "src_huggingface-blog_af185e1e7e4dfbac",
+    "sourceConfigId": "huggingface-blog",
+    "sourceType": "blog",
+    "sourceName": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog",
+    "title": "Hugging Face – Blog",
+    "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "publishedAt": "2026-05-25T13:54:01.959Z",
+    "crawledAt": "2026-05-25T13:54:01.959Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-image",
+      "ai-video",
+      "ai-vibe-coding"
+    ],
+    "score": 0.85,
+    "crawlStatus": "live",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 4 days ago • 34 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 7 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 6 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 859 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 336 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 3 days ago • 6 An experiment with attention. wop • 2 days ago • 5 Relaunching PapersWithCode with new features nielsr • 1 day ago • 5 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 22 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 10 days ago • 18 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 155 EMO: Pretraining mixture of experts for emergent modularity allenai • 17 days ago • 38 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Understanding Vector Quantization in VQ-VAE ariG23498 • Aug 28, 2024 • 63 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 163 Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation drmapavone • Mar 16 • 29 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 15 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 2 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 18 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 45 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 32 May 18, 2026 The Open Agent Leaderboard 12 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 30 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 55 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 10 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 17 May 6, 2026 Granite 4.1 LLMs: How They’re Built 74 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 12 April 29, 2026 Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 57 April 28, 2026 Previous 1 2 3 ... 56 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 4 days ago • 34 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 7 days ago • 18 Software Forgets: Agent Traces Are the Memory huggingface • 6 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 859 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 336 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 3 days ago • 6 An experiment with attention. wop • 2 days ago • 5 Relaunching PapersWithCode with new features nielsr • 1 day ago • 5 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 22 Training-Free Reasoning at 88.89% on GPQA Diamond: How Darwin Family Hit Frontier Scores Without a Single Gradient Step FINAL-Bench • 10 days ago • 18 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 155 EMO: Pretraining mixture of experts for emergent modularity allenai • 17 days ago • 38 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 225 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Understanding Vector Quantization in VQ-VAE ariG23498 • Aug 28, 2024 • 63 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Performant local mixture-of-experts CPU inference with GPU acceleration in llama.cpp Doctor-Shotgun • Jan 30 • 27 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 163 Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation drmapavone • Mar 16 • 29 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
+  },
+  {
+    "id": "src_simonwillison-blog_013a887adb9f4f00",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+    "title": "datasette 1.0a30",
+    "rawSummary": "Release: datasette 1.0a30 The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog. You can try it out by hitting / on latest.datasette.io - it looks like this: The new jump_items_sql() plugin hook allows plugins to add their own items to the set that's searched by the plugin. Tags: projects , datasette , annotated-release-notes",
+    "publishedAt": "2026-05-24T23:52:37.000Z",
+    "crawledAt": "2026-05-25T13:54:01.952Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Release: datasette 1.0a30 Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https. Real VMs, not sandboxes. Edge-injected secrets so you can yolo. 0→1? ½→1! 24th May 2026 Release datasette 1.0a30 &mdash; An open source multi-tool for exploring and publishing data The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog. You can try it out by hitting / on latest.datasette.io - it looks like this: The new jump_items_sql() plugin hook allows plugins to add their own items to the set that's searched by the plugin. Posted 24th May 2026 at 11:52 pm Recent articles Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 The last six months in LLMs in five minutes - 19th May 2026 This is a beat by Simon Willison, posted on 24th May 2026 . projects 531 datasette 1499 annotated-release-notes 50 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+  },
+  {
+    "id": "src_simonwillison-blog_b003f487f043924e",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+    "title": "datasette-agent 0.1a4",
+    "rawSummary": "Release: datasette-agent 0.1a4 Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30 , datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit / : You can try this out by signing into agent.datasette.io using your GitHub account. Tags: datasette , datasette-agent",
+    "publishedAt": "2026-05-24T23:19:34.000Z",
+    "crawledAt": "2026-05-25T13:54:01.952Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Release: datasette-agent 0.1a4 Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https. Real VMs, not sandboxes. Edge-injected secrets so you can yolo. 0→1? ½→1! 24th May 2026 Release datasette-agent 0.1a4 &mdash; An LLM-powered agent for Datasette Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30 , datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit / : You can try this out by signing into agent.datasette.io using your GitHub account. Posted 24th May 2026 at 11:19 pm Recent articles Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 The last six months in LLMs in five minutes - 19th May 2026 This is a beat by Simon Willison, posted on 24th May 2026 . datasette 1499 datasette-agent 11 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+  },
+  {
+    "id": "src_simonwillison-blog_ff54fa0c55c8a51c",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+    "title": "datasette-fixtures 0.1a0",
+    "rawSummary": "Release: datasette-fixtures 0.1a0 One of the smaller features in Datasette 1.0a30 is this: New documented datasette.fixtures.populate_fixture_database(conn) helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites. This new plugin takes advantage of that API. You can try it out using uvx without even installing Datasette like this: uvx --prerelease=allow \\ --with datasette-fixtures datasette \\ --get /fixtures/roadside_attractions.json Which outputs: { \"ok\" : true , \"next\" : null , \"rows\" : [ { \"pk\" : 1 , \"name\" : \" The Mystery Spot \" , \"address\" : \" 465 Mystery Spot Road, Santa Cruz, CA 95065 \" , \"url\" : \" https://www.mysteryspot.com/ \" , \"latitude\" : 37.0167 , \"longitude\" : -122.0024 }, { \"pk\" : 2 , \"name\" : \" Winchester Mystery House \" , \"address\" : \" 525 South Winchester Boulevard, San Jose, CA 95128 \" , \"url\" : \" https://winchestermysteryhouse.com/ \" , \"latitude\" : 37.3184 , \"longitude\" : -121.9511 }, { \"pk\" : 3 , \"name\" : \" Burlingame Museum of PEZ Memorabilia \" , \"address\" : \" 214 California Drive, Burlingame, CA 94010 \" , \"url\" : null , \"latitude\" : 37.5793 , \"longitude\" : -122.3442 }, { \"pk\" : 4 , \"name\" : \" Bigfoot Discovery Museum \" , \"address\" : \" 5497 Highway 9, Felton, CA 95018 \" , \"url\" : \" https://www.bigfootdiscoveryproject.com/ \" , \"latitude\" : 37.0414 , \"longitude\" : -122.0725 } ], \"truncated\" : false } Tags: datasette , uv",
+    "publishedAt": "2026-05-24T21:38:32.000Z",
+    "crawledAt": "2026-05-25T13:54:01.952Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Release: datasette-fixtures 0.1a0 Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https. Real VMs, not sandboxes. Edge-injected secrets so you can yolo. 0→1? ½→1! 24th May 2026 Release datasette-fixtures 0.1a0 &mdash; Add a fixtures test database to Datasette One of the smaller features in Datasette 1.0a30 is this: New documented datasette.fixtures.populate_fixture_database(conn) helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites. This new plugin takes advantage of that API. You can try it out using uvx without even installing Datasette like this: uvx --prerelease=allow \\ --with datasette-fixtures datasette \\ --get /fixtures/roadside_attractions.json Which outputs: { \"ok\" : true , \"next\" : null , \"rows\" : [ { \"pk\" : 1 , \"name\" : \" The Mystery Spot \" , \"address\" : \" 465 Mystery Spot Road, Santa Cruz, CA 95065 \" , \"url\" : \" https://www.mysteryspot.com/ \" , \"latitude\" : 37.0167 , \"longitude\" : -122.0024 }, { \"pk\" : 2 , \"name\" : \" Winchester Mystery House \" , \"address\" : \" 525 South Winchester Boulevard, San Jose, CA 95128 \" , \"url\" : \" https://winchestermysteryhouse.com/ \" , \"latitude\" : 37.3184 , \"longitude\" : -121.9511 }, { \"pk\" : 3 , \"name\" : \" Burlingame Museum of PEZ Memorabilia \" , \"address\" : \" 214 California Drive, Burlingame, CA 94010 \" , \"url\" : null , \"latitude\" : 37.5793 , \"longitude\" : -122.3442 }, { \"pk\" : 4 , \"name\" : \" Bigfoot Discovery Museum \" , \"address\" : \" 5497 Highway 9, Felton, CA 95018 \" , \"url\" : \" https://www.bigfootdiscoveryproject.com/ \" , \"latitude\" : 37.0414 , \"longitude\" : -122.0725 } ], \"truncated\" : false } Posted 24th May 2026 at 9:38 pm Recent articles Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 The last six months in LLMs in five minutes - 19th May 2026 This is a beat by Simon Willison, posted on 24th May 2026 . datasette 1499 uv 95 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+  },
+  {
+    "id": "src_simonwillison-blog_4255d7143bd69e36",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+    "title": "Quoting Armin Ronacher",
+    "rawSummary": "The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions produced are more often than not inaccurate but always full of confidence. The result is complete guesswork on root causes, fake-minimal repros, suggested implementation strategies, analogies to adjacent but often the wrong code, and long lists of error classes that might or might not matter. [...] So at least personally, I increasingly want issue reports to be condensed to what the human actually observed: I ran this command. I expected this to happen. This happened instead. Here is the exact error or log. &mdash; Armin Ronacher , on slop issues filed against Pi Tags: ai , github-issues , llms , ai-ethics , open-source , coding-agents , generative-ai , armin-ronacher , pi , slop",
+    "publishedAt": "2026-05-24T18:46:53.000Z",
+    "crawledAt": "2026-05-25T13:54:01.952Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "A quote from Armin Ronacher Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https. Real VMs, not sandboxes. Edge-injected secrets so you can yolo. 0→1? ½→1! 24th May 2026 The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions produced are more often than not inaccurate but always full of confidence. The result is complete guesswork on root causes, fake-minimal repros, suggested implementation strategies, analogies to adjacent but often the wrong code, and long lists of error classes that might or might not matter. [...] So at least personally, I increasingly want issue reports to be condensed to what the human actually observed: I ran this command. I expected this to happen. This happened instead. Here is the exact error or log. &mdash; Armin Ronacher , on slop issues filed against Pi Posted 24th May 2026 at 6:46 pm Recent articles Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 The last six months in LLMs in five minutes - 19th May 2026 This is a quotation collected by Simon Willison, posted on 24th May 2026 . armin-ronacher 23 open-source 305 ai 2032 generative-ai 1798 llms 1764 slop 40 ai-ethics 305 github-issues 15 coding-agents 204 pi 3 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+  },
+  {
+    "id": "src_simonwillison-blog_68d33c1f269ad569",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+    "title": "Mad House — Usborne Creepy Computer Games",
+    "rawSummary": "Tool: Mad House — Usborne Creepy Computer Games Via Hacker News I learned that UK publisher Usborne published free PDFs of their 1980s Computer Books , some of which I remember working through on my Commodore 64 as a child. These were so great! Beautifully illustrated books with fun projects made up of code you could type into your own machine. I remember playing \"Mad House\" typed in from the 1983 book \"Creepy Computer Games\", so I fed that PDF into Claude and had it build an interactive version of that game in JavaScript and HTML: Build a vanilla JS artifact that exactly recreates the game Mad House from this book, make sure it's mobile friendly and has a suitable retro aesthetic Credit the book title and link to https://usborne.com/us/books/computer-and-coding-books Tags: computer-history , games , tools",
+    "publishedAt": "2026-05-24T17:14:11.000Z",
+    "crawledAt": "2026-05-25T13:54:01.952Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Tool: Mad House — Usborne Creepy Computer Games Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https. Real VMs, not sandboxes. Edge-injected secrets so you can yolo. 0→1? ½→1! 24th May 2026 Tool Mad House — Usborne Creepy Computer Games Via Hacker News I learned that UK publisher Usborne published free PDFs of their 1980s Computer Books , some of which I remember working through on my Commodore 64 as a child. These were so great! Beautifully illustrated books with fun projects made up of code you could type into your own machine. I remember playing \"Mad House\" typed in from the 1983 book \"Creepy Computer Games\", so I fed that PDF into Claude and had it build an interactive version of that game in JavaScript and HTML: Build a vanilla JS artifact that exactly recreates the game Mad House from this book, make sure it's mobile friendly and has a suitable retro aesthetic Credit the book title and link to https://usborne.com/us/books/computer-and-coding-books \" and \" Posted 24th May 2026 at 5:14 pm Recent articles Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 The last six months in LLMs in five minutes - 19th May 2026 This is a beat by Simon Willison, posted on 24th May 2026 . computer-history 18 games 22 tools 64 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026",
+    "imageUrl": "https://static.simonwillison.net/static/2026/mad-house.jpg"
+  },
+  {
+    "id": "src_lilianweng-blog_31a2c7baf9b791a5",
+    "sourceConfigId": "lilianweng-blog",
+    "sourceType": "blog",
+    "sourceName": "Lil'Log",
+    "sourceUrl": "https://lilianweng.github.io/",
+    "title": "Lil'Log",
+    "rawSummary": "Document my learning notes.",
+    "publishedAt": "2026-05-25T13:54:01.955Z",
+    "crawledAt": "2026-05-25T13:54:01.955Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.85,
+    "crawlStatus": "live",
+    "extractedText": "Lil'Log Lil'Log | Posts Archive Search Tags FAQ 👋 Welcome to Lil&rsquo;Log Hi, this is Lilian. I&rsquo;m documenting my learning notes in this blog since 2017. Based on the number of grammar mistakes in my posts, you can tell how much ChatGPT is involved 😉. Why We Think Special thanks to John Schulman for a lot of super valuable feedback and direct edits on this post. Test time compute (Graves et al. 2016, Ling, et al. 2017, Cobbe et al. 2021) and Chain-of-thought (CoT) (Wei et al. 2022, Nye et al. 2021), have led to significant improvements in model performance, while raising many research questions. This post aims to review recent developments in how to effectively use test-time compute (i.e. “thinking time”) and why it helps. ... Date: May 1, 2025 | Estimated Reading Time: 40 min | Author: Lilian Weng Reward Hacking in Reinforcement Learning Reward hacking occurs when a reinforcement learning (RL) agent exploits flaws or ambiguities in the reward function to achieve high rewards, without genuinely learning or completing the intended task. Reward hacking exists because RL environments are often imperfect, and it is fundamentally challenging to accurately specify a reward function. With the rise of language models generalizing to a broad spectrum of tasks and RLHF becomes a de facto method for alignment training, reward hacking in RL training of language models has become a critical practical challenge. Instances where the model learns to modify unit tests to pass coding tasks, or where responses contain biases that mimic a user’s preference, are pretty concerning and are likely one of the major blockers for real-world deployment of more autonomous use cases of AI models. ... Date: November 28, 2024 | Estimated Reading Time: 37 min | Author: Lilian Weng Extrinsic Hallucinations in LLMs Hallucination in large language models usually refers to the model generating unfaithful, fabricated, inconsistent, or nonsensical content. As a term, hallucination has been somewhat generalized to cases when the model makes mistakes. Here, I would like to narrow down the problem of hallucination to cases where the model output is fabricated and not grounded by either the provided context or world knowledge. There are two types of hallucination: In-context hallucination: The model output should be consistent with the source content in context. Extrinsic hallucination: The model output should be grounded by the pre-training dataset. However, given the size of the pre-training dataset, it is too expensive to retrieve and identify conflicts per generation. If we consider the pre-training data corpus as a proxy for world knowledge, we essentially try to ensure the model output is factual and verifiable by external world knowledge. Equally importantly, when the model does not know about a fact, it should say so. This post focuses on extrinsic hallucination. To avoid hallucination, LLMs need to be (1) factual and (2) acknowledge not knowing the answer when applicable. ... Date: July 7, 2024 | Estimated Reading Time: 29 min | Author: Lilian Weng Diffusion Models for Video Generation Diffusion models have demonstrated strong results on image synthesis in past years. Now the research community has started working on a harder task—using it for video generation. The task itself is a superset of the image case, since an image is a video of 1 frame, and it is much more challenging because: It has extra requirements on temporal consistency across frames in time, which naturally demands more world knowledge to be encoded into the model. In comparison to text or images, it is more difficult to collect large amounts of high-quality, high-dimensional video data, let along text-video pairs. 🥑 Required Pre-read: Please make sure you have read the previous blog on “What are Diffusion Models?” for image generation before continue here. ... Date: April 12, 2024 | Estimated Reading Time: 20 min | Author: Lilian Weng Thinking about High-Quality Human Data [Special thank you to Ian Kivlichan for many useful pointers (E.g. the 100+ year old Nature paper “Vox populi”) and nice feedback. 🙏 ] High-quality data is the fuel for modern data deep learning model training. Most of the task-specific labeled data comes from human annotation, such as classification task or RLHF labeling (which can be constructed as classification format) for LLM alignment training. Lots of ML techniques in the post can help with data quality, but fundamentally human data collection involves attention to details and careful execution. The community knows the value of high quality data, but somehow we have this subtle impression that “Everyone wants to do the model work, not the data work” (Sambasivan et al. 2021). ... Date: February 5, 2024 | Estimated Reading Time: 20 min | Author: Lilian Weng Adversarial Attacks on LLMs The use of large language models in the real world has strongly accelerated by the launch of ChatGPT. We (including my team at OpenAI, shoutout to them) have invested a lot of effort to build default safe behavior into the model during the alignment process (e.g. via RLHF). However, adversarial attacks or jailbreak prompts could potentially trigger the model to output something undesired. A large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space. Attacks for discrete data like text have been considered to be a lot more challenging, due to lack of direct gradient signals. My past post on Controllable Text Generation is quite relevant to this topic, as attacking LLMs is essentially to control the model to output a certain type of (unsafe) content. ... Date: October 25, 2023 | Estimated Reading Time: 33 min | Author: Lilian Weng LLM Powered Autonomous Agents Building agents with LLM (large language model) as its core controller is a cool concept. Several proof-of-concepts demos, such as AutoGPT, GPT-Engineer and BabyAGI, serve as inspiring examples. The potentiality "
+  }
+]

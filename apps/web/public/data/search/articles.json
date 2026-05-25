@@ -320,237 +320,220 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "manual_anthropic-glasswing-cyber-agent_2026-05-25_vi",
+    "id": "cluster_ai-agentic_1_datasette-fixtures-0-1a0_2026-05-25_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Project Glasswing: khi AI agent bước vào cuộc săn lỗ hổng phần mềm",
-    "subtitle": "Anthropic đặt Claude vào bài toán bảo vệ phần mềm trọng yếu. Với builder, đây không chỉ là tin an ninh mạng; nó là tín hiệu rằng agent sẽ được đo bằng khả năng làm việc trong hệ thống thật, có rủi ro thật.",
+    "title": "datasette-fixtures 0.1a0: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/StableDiffusion, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "anthropic",
-      "claude",
       "ai-agent",
-      "cybersecurity",
-      "daily-signal"
+      "datasette",
+      "vibe-coding",
+      "data-engineering",
+      "open-source"
     ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/vi/ai-agentic/project-glasswing-khi-ai-agent-buoc-vao-cuoc-san-lo-hong-phan-mem"
+    "publishedAt": "2026-05-25T13:55:39.389Z",
+    "readingTime": 3,
+    "url": "/vi/ai-agentic/datasette-fixtures-0-1a0-goc-nhin-cho-creator-va-builder-2026-05-25"
   },
   {
-    "id": "manual_anthropic-glasswing-cyber-agent_2026-05-25_en",
+    "id": "cluster_ai-agentic_1_datasette-fixtures-0-1a0_2026-05-25_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Project Glasswing: AI agents move into critical software defense",
-    "subtitle": "Anthropic is pushing Claude into critical software defense. For builders, this is less a cybersecurity headline than a signal that agents will be judged inside real systems with real risk.",
+    "title": "datasette-fixtures 0.1a0: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, r/StableDiffusion, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "anthropic",
-      "claude",
-      "ai-agent",
-      "cybersecurity",
-      "daily-signal"
+      "datasette",
+      "ai-agents",
+      "vibe-coding",
+      "data-engineering",
+      "open-source"
     ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/en/ai-agentic/project-glasswing-ai-agents-move-into-critical-software-defense"
+    "publishedAt": "2026-05-25T13:58:53.584Z",
+    "readingTime": 4,
+    "url": "/en/ai-agentic/datasette-fixtures-0-1a0-creator-and-builder-analysis-2026-05-25"
   },
   {
-    "id": "manual_runway-gen-45-video-control_2026-05-25_vi",
-    "lang": "vi",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "Runway Gen-4.5: cuộc đua AI video chuyển từ đẹp sang kiểm soát được",
-    "subtitle": "Runway gọi Gen-4.5 là model video có độ trung thực và creative control cao hơn. Với production, câu hỏi không phải clip đầu tiên đẹp không, mà shot thứ ba có còn giữ nhân vật, ánh sáng và logic chuyển động hay không.",
-    "tags": [
-      "runway",
-      "gen-4.5",
-      "ai-video",
-      "creator-workflow",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/vi/ai-video/runway-gen-4-5-cuoc-ua-ai-video-chuyen-tu-ep-sang-kiem-soat-uoc"
-  },
-  {
-    "id": "manual_runway-gen-45-video-control_2026-05-25_en",
-    "lang": "en",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "Runway Gen-4.5: AI video shifts from looking good to staying controllable",
-    "subtitle": "Runway positions Gen-4.5 around visual fidelity and creative control. In production, the question is not whether the first clip looks good; it is whether the third shot keeps character, lighting and motion logic intact.",
-    "tags": [
-      "runway",
-      "gen-4.5",
-      "ai-video",
-      "creator-workflow",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/en/ai-video/runway-gen-4-5-ai-video-shifts-from-looking-good-to-staying-controllab"
-  },
-  {
-    "id": "manual_google-veo-31-flow-audio_2026-05-25_vi",
-    "lang": "vi",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "Veo 3.1 và Flow: prompt video bắt đầu tính cả âm thanh, nhịp dựng và sửa shot",
-    "subtitle": "Google nhấn mạnh Veo 3.1 và Flow với creative controls, audio và khả năng chỉnh clip chính xác hơn. Đây là dấu hiệu prompt video đang rời khỏi kiểu “một câu ra một clip” để đi vào workflow dựng phim.",
-    "tags": [
-      "google",
-      "veo",
-      "flow",
-      "prompt-video",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/vi/prompt-video/veo-3-1-va-flow-prompt-video-bat-au-tinh-ca-am-thanh-nhip-dung-va-sua-"
-  },
-  {
-    "id": "manual_google-veo-31-flow-audio_2026-05-25_en",
-    "lang": "en",
-    "category": "prompt-video",
-    "categoryLabel": "Prompt Video",
-    "title": "Veo 3.1 and Flow: video prompting now includes sound, pacing and shot repair",
-    "subtitle": "Google is emphasizing Veo 3.1 and Flow with creative controls, audio and more precise clip editing. Video prompting is moving away from one-sentence clip generation toward an editing workflow.",
-    "tags": [
-      "google",
-      "veo",
-      "flow",
-      "prompt-video",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/en/prompt-video/veo-3-1-and-flow-video-prompting-now-includes-sound-pacing-and-shot-re"
-  },
-  {
-    "id": "manual_github-copilot-coding-agent-build_2026-05-25_vi",
+    "id": "cluster_ai-vibe-coding_1_quoting-armin-ronacher_2026-05-25_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "GitHub Copilot coding agent: vibe coding bước vào pull request thật",
-    "subtitle": "GitHub đưa coding agent vào Copilot theo hướng enterprise-ready. Tin đáng quan tâm không phải agent biết viết code, mà là nó được nhúng vào vòng đời issue, branch, PR, review và bảo mật.",
+    "title": "Quoting Armin Ronacher: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "github",
-      "copilot",
-      "coding-agent",
       "vibe-coding",
-      "daily-signal"
+      "ai-agents",
+      "comfyui",
+      "software-development",
+      "ai-slop"
     ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/vi/ai-vibe-coding/github-copilot-coding-agent-vibe-coding-buoc-vao-pull-request-that"
+    "publishedAt": "2026-05-25T13:55:41.844Z",
+    "readingTime": 4,
+    "url": "/vi/ai-vibe-coding/quoting-armin-ronacher-goc-nhin-cho-creator-va-builder-2026-05-25"
   },
   {
-    "id": "manual_github-copilot-coding-agent-build_2026-05-25_en",
+    "id": "cluster_ai-vibe-coding_1_quoting-armin-ronacher_2026-05-25_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "GitHub Copilot coding agent: vibe coding moves into real pull requests",
-    "subtitle": "GitHub is pushing a Copilot coding agent with an enterprise-ready frame. The news is not that an agent can write code; it is that it sits inside issues, branches, PRs, reviews and security controls.",
+    "title": "Quoting Armin Ronacher: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/comfyui, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "github",
-      "copilot",
-      "coding-agent",
       "vibe-coding",
-      "daily-signal"
+      "llms",
+      "open-source",
+      "comfyui",
+      "ai-agents"
     ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/en/ai-vibe-coding/github-copilot-coding-agent-vibe-coding-moves-into-real-pull-requests"
+    "publishedAt": "2026-05-25T13:56:01.541Z",
+    "readingTime": 4,
+    "url": "/en/ai-vibe-coding/quoting-armin-ronacher-creator-and-builder-analysis-2026-05-25"
   },
   {
-    "id": "manual_nvidia-comfyui-creator-workflows_2026-05-25_vi",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-25_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "NVIDIA đẩy ComfyUI vào production: workflow node không còn là đồ chơi nerd",
-    "subtitle": "NVIDIA hướng dẫn xây, chạy và scale creator workflow chất lượng cao trong ComfyUI. Với studio nhỏ, đây là tín hiệu ComfyUI đang rời nhóm hobby để bước vào pipeline có GPU, template và vận hành.",
+    "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "nvidia",
-      "comfyui",
-      "ai-image",
-      "workflow",
-      "daily-signal"
+      "AI-Video",
+      "Runway-AI",
+      "FLUX",
+      "ComfyUI",
+      "World-Models",
+      "Generative-AI"
     ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/vi/ai-image/nvidia-ay-comfyui-vao-production-workflow-node-khong-con-la-o-choi-ner"
+    "publishedAt": "2026-05-25T13:54:50.658Z",
+    "readingTime": 4,
+    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-25"
   },
   {
-    "id": "manual_nvidia-comfyui-creator-workflows_2026-05-25_en",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-25_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "NVIDIA pushes ComfyUI toward production: node workflows are no longer nerd toys",
-    "subtitle": "NVIDIA is showing how to build, run and scale high-quality creator workflows in ComfyUI. For small studios, it signals that ComfyUI is moving from hobbyist graphs into GPU-backed production pipelines.",
+    "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
+    "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "nvidia",
-      "comfyui",
-      "ai-image",
-      "workflow",
-      "daily-signal"
+      "AI Video",
+      "Generative AI",
+      "ComfyUI",
+      "Runway AI",
+      "FLUX",
+      "World Models"
     ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/en/ai-image/nvidia-pushes-comfyui-toward-production-node-workflows-are-no-longer-n"
+    "publishedAt": "2026-05-25T13:55:38.712Z",
+    "readingTime": 4,
+    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-25"
   },
   {
-    "id": "manual_adobe-firefly-custom-models_2026-05-25_vi",
-    "lang": "vi",
-    "category": "prompt-image",
-    "categoryLabel": "Prompt Image",
-    "title": "Adobe Firefly custom models: prompt image đang chuyển từ “đẹp” sang “đúng brand”",
-    "subtitle": "Adobe mở rộng Firefly với custom models và khả năng sáng tạo video/image mới. Với brand team, điểm ăn tiền là biến style thành tài sản tái sử dụng thay vì mỗi lần prompt lại cầu may.",
-    "tags": [
-      "adobe",
-      "firefly",
-      "custom-models",
-      "prompt-image",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/vi/prompt-image/adobe-firefly-custom-models-prompt-image-ang-chuyen-tu-ep-sang-ung-bra"
-  },
-  {
-    "id": "manual_adobe-firefly-custom-models_2026-05-25_en",
-    "lang": "en",
-    "category": "prompt-image",
-    "categoryLabel": "Prompt Image",
-    "title": "Adobe Firefly custom models: image prompting shifts from beautiful to on-brand",
-    "subtitle": "Adobe is expanding Firefly with custom models and new video/image capabilities. For brand teams, the money point is turning style into a reusable asset instead of hoping each prompt lands correctly.",
-    "tags": [
-      "adobe",
-      "firefly",
-      "custom-models",
-      "prompt-image",
-      "daily-signal"
-    ],
-    "publishedAt": "2026-05-25T00:07:13.027Z",
-    "readingTime": 5,
-    "url": "/en/prompt-image/adobe-firefly-custom-models-image-prompting-shifts-from-beautiful-to-o"
-  },
-  {
-    "id": "manual_runway-gen45-firefly-production_2026-05-25_vi",
+    "id": "cluster_ai-video_1_kling-ai_2026-05-25_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
-    "title": "Runway Gen-4.5 vào Firefly: AI video đang chuyển từ demo đẹp sang pipeline có kiểm soát",
-    "subtitle": "Runway khoe Gen-4.5 đứng đầu benchmark video, Adobe đưa nó vào Firefly. Tin đáng tiền không phải là “video đẹp hơn”, mà là creator có thêm một lớp kiểm soát để giảm vòng reject trong production.",
+    "title": "Kling AI: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "runway",
-      "gen-4.5",
-      "adobe-firefly",
-      "ai-video",
-      "production-workflow"
+      "Kling AI",
+      "AI Video",
+      "Native 4K",
+      "AI Acting",
+      "Generative AI"
     ],
-    "publishedAt": "2026-05-25T08:03:03+07:00",
-    "readingTime": 9,
-    "url": "/vi/ai-video/runway-gen-45-firefly-ai-video-production-test"
+    "publishedAt": "2026-05-25T13:54:46.867Z",
+    "readingTime": 4,
+    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-25"
+  },
+  {
+    "id": "cluster_ai-video_1_kling-ai_2026-05-25_en",
+    "lang": "en",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Kling AI: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "Kling AI",
+      "AI Video",
+      "Native 4K",
+      "AI Cinematography",
+      "Generative Video"
+    ],
+    "publishedAt": "2026-05-25T13:56:29.466Z",
+    "readingTime": 4,
+    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-25"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-25_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "cursor-ai",
+      "vibe-coding",
+      "ai-agents",
+      "developer-productivity",
+      "automation"
+    ],
+    "publishedAt": "2026-05-25T13:57:04.100Z",
+    "readingTime": 4,
+    "url": "/vi/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-05-25"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-25_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
+    "subtitle": "Signal synthesized from Anthropic Research, r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "cursor-ai",
+      "vibe-coding",
+      "ai-agents",
+      "software-engineering",
+      "comfyui"
+    ],
+    "publishedAt": "2026-05-25T13:57:38.477Z",
+    "readingTime": 3,
+    "url": "/en/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-05-25"
+  },
+  {
+    "id": "cluster_ai-agentic_2_the-memento-problem-in-ai-agents_2026-05-25_vi",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "The Memento problem in AI agents: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "AI-Agents",
+      "Context-Window",
+      "Agentic-Workflow",
+      "Knowledge-Management"
+    ],
+    "publishedAt": "2026-05-25T13:55:04.492Z",
+    "readingTime": 4,
+    "url": "/vi/ai-agentic/the-memento-problem-in-ai-agents-goc-nhin-cho-creator-va-bu-2026-05-25"
+  },
+  {
+    "id": "cluster_ai-agentic_2_the-memento-problem-in-ai-agents_2026-05-25_en",
+    "lang": "en",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "The Memento problem in AI agents: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "AI Agents",
+      "Data Architecture",
+      "Agentic Workflow",
+      "LLM Memory",
+      "Enterprise AI"
+    ],
+    "publishedAt": "2026-05-25T13:55:47.739Z",
+    "readingTime": 4,
+    "url": "/en/ai-agentic/the-memento-problem-in-ai-agents-creator-and-builder-analys-2026-05-25"
   }
 ]
