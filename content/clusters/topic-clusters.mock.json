@@ -1,20 +1,20 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_datasette-fixtures-0-1a0_2026-05-26",
+    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-05-26",
     "category": "ai-agentic",
-    "topic": "datasette-fixtures 0.1a0",
+    "topic": "LangChain Blog",
     "sourceIds": [
-      "src_simonwillison-blog_ff54fa0c55c8a51c",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_68d33c1f269ad569",
+      "src_simonwillison-blog_ff54fa0c55c8a51c",
       "src_luma-blog_c7449029956c34f9",
-      "src_simonwillison-blog_013a887adb9f4f00",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_b003f487f043924e",
+      "src_simonwillison-blog_3e5cbe11b91c3c94",
+      "src_reddit-comfyui_687610fa7aa1f854",
+      "src_simonwillison-blog_013a887adb9f4f00",
       "src_lilianweng-blog_31a2c7baf9b791a5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -24,10 +24,10 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_4255d7143bd69e36",
+      "src_simonwillison-blog_f0861377d9b84b0b",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
       "src_replit-blog_49899058ba32f8e5",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_reddit-comfyui_282ec7b73cfcff64"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
@@ -42,14 +42,29 @@
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-comfyui_793bd6352978cd19",
-      "src_reddit-comfyui_ceef89e941f42aa8",
+      "src_reddit-comfyui_e6d4c14c8ae59155",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-stablediffusion_8928620e8d236d67",
-      "src_reddit-stablediffusion_3637faadeedcc335"
+      "src_reddit-stablediffusion_21af232e5376e2c0",
+      "src_reddit-stablediffusion_03d657a10bcccf94",
+      "src_reddit-stablediffusion_6e6b19a6ba5a08a5"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-26",
+    "category": "ai-vibe-coding",
+    "topic": "What's New in Cursor — Latest Updates & Release Notes",
+    "sourceIds": [
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-comfyui_f0fcbff5cbf30b57",
+      "src_reddit-aiagents_121436b90473afa1",
+      "src_vercel-ai-blog_2026-05-26_fallback"
+    ],
+    "articleWorthinessScore": 0.91,
+    "reasonSelected": "Score 0.91 from 4 source item(s), 3 live crawl(s), strongest sources: Cursor Changelog, r/comfyui, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -60,25 +75,11 @@
     "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
       "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-aivideo_a7a9a72758720ba6"
+      "src_reddit-aivideo_a7a9a72758720ba6",
+      "src_reddit-aivideo_5a163fe980d106d8"
     ],
-    "articleWorthinessScore": 0.87,
-    "reasonSelected": "Score 0.87 from 3 source item(s), 3 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_we-automated-monthly-client-reporting-decks-for-a-50-person-mark_2026-05-26",
-    "category": "ai-vibe-coding",
-    "topic": "We automated monthly client reporting decks for a 50-person marketing agency,...",
-    "sourceIds": [
-      "src_reddit-aiagents_b44787a8c6e915ab",
-      "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_reddit-aivideo_1613c2d6f686f9f3",
-      "src_vercel-ai-blog_2026-05-26_fallback"
-    ],
-    "articleWorthinessScore": 0.85,
-    "reasonSelected": "Score 0.85 from 4 source item(s), 3 live crawl(s), strongest sources: r/AI_Agents, r/comfyui, r/aivideo.",
+    "articleWorthinessScore": 0.9,
+    "reasonSelected": "Score 0.90 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -88,58 +89,57 @@
     "topic": "Testing ZIT and Flux-1 with \"NVIDIA PiD — Pixel Diffusion Decoder\"",
     "sourceIds": [
       "src_reddit-stablediffusion_b56045a6c467ce93",
-      "src_reddit-comfyui_195281715b2bcbc4",
-      "src_reddit-stablediffusion_d1bb0957f0b4c825",
+      "src_reddit-comfyui_2b8875835b96b1d2",
+      "src_reddit-stablediffusion_6da5f1e32ce19f81",
       "src_reddit-midjourney_91c5cf49176c170c",
       "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-comfyui_424525815d7897d4",
       "src_stability-ai-blog_2026-05-26_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 8 source item(s), 7 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
+    "articleWorthinessScore": 0.86,
+    "reasonSelected": "Score 0.86 from 7 source item(s), 6 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_ltx-2-3-12gb-gguf-director-workflows-what-a-great-node-this-one-_2026-05-26",
+    "clusterId": "cluster_ai-agentic_2_datasette-agent-0-1a4_2026-05-26",
     "category": "ai-agentic",
-    "topic": "LTX 2.3 12GB GGUF Director Workflows! What a great node this one is!",
+    "topic": "datasette-agent 0.1a4",
     "sourceIds": [
-      "src_reddit-stablediffusion_d1d61d93148845c2",
-      "src_reddit-aiagents_1d8cb0ad4ab2cbb7",
-      "src_reddit-aiagents_b2ba2880e439c9d5",
+      "src_simonwillison-blog_b003f487f043924e",
+      "src_reddit-aiagents_c8ebefe6f34463a9",
+      "src_reddit-aiagents_f6667da96b1601e6",
       "src_reddit-aiagents_079abcf0d1317db2",
       "src_reddit-aiagents_c7605a4726e06ec4",
       "src_openai-blog_2026-05-26_fallback",
       "src_mcp-blog_2026-05-26_fallback"
     ],
-    "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 7 source item(s), 5 live crawl(s), strongest sources: r/StableDiffusion, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 7 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_featured-titles-latest-releases_2026-05-26",
+    "clusterId": "cluster_ai-video_2_star-trek-not-the-original-series_2026-05-26",
     "category": "ai-video",
-    "topic": "Featured Titles + Latest Releases",
+    "topic": "Star Trek: NOT The Original Series",
     "sourceIds": [
-      "src_reddit-aivideo_5a163fe980d106d8",
+      "src_reddit-aivideo_a0a0051b7c94522a",
       "src_reddit-aivideo_d5ac562572125955",
-      "src_reddit-aivideo_840226acbd08d27e"
+      "src_reddit-aivideo_c4edca36daceda19"
     ],
-    "articleWorthinessScore": 0.7,
-    "reasonSelected": "Score 0.70 from 3 source item(s), 3 live crawl(s), strongest sources: r/aivideo.",
+    "articleWorthinessScore": 0.69,
+    "reasonSelected": "Score 0.69 from 3 source item(s), 3 live crawl(s), strongest sources: r/aivideo.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_another-asia_2026-05-26",
+    "clusterId": "cluster_prompt-image_1_feminine-elegance-and-decay_2026-05-26",
     "category": "prompt-image",
-    "topic": "Another Asia",
+    "topic": "Feminine Elegance and Decay",
     "sourceIds": [
-      "src_reddit-midjourney_03bf0bdb7d922ec1",
-      "src_reddit-midjourney_c66fe14d86e72844"
+      "src_reddit-midjourney_66139057eb3a0cc8",
+      "src_reddit-midjourney_6d6558206a728cae"
     ],
     "articleWorthinessScore": 0.61,
     "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
@@ -147,11 +147,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_covert-design-dead-drop-disco_2026-05-26",
+    "clusterId": "cluster_prompt-image_2_arcana-of-the-rings_2026-05-26",
     "category": "prompt-image",
-    "topic": "COVERT-DESIGN [DEAD DROP DISCO]",
+    "topic": "Arcana of the Rings",
     "sourceIds": [
-      "src_reddit-midjourney_f6b1dbd551fbb6bd"
+      "src_reddit-midjourney_56b696dfa56c3398"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
