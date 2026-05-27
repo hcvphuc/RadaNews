@@ -5,15 +5,15 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-26T13:44:22.462Z",
+    "publishedAt": "2026-05-27T00:01:40.846Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found.",
-      "How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min Deep Agents New in Deep Agents v0.6 Sydney Runkle May 13, 2026 10 min LangSmith LangSmith LLM Gateway: runtime governance built into the agent lifecycle Martha Janicki May 13, 2026 6 min Deep Agents LangGraph Delta Channels: Evolving our Runtime for Long-Running Agents Sydney Runkle May 12, 2026 7 min No items found."
+      "Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories No items found.",
+      "Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min No items found."
     ],
     "claims": [
       {
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-26T13:44:27.236Z",
+    "publishedAt": "2026-05-27T00:01:47.974Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-05-26_fallback",
+    "sourceId": "src_openai-blog_2026-05-27_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-26T13:44:21.758Z",
+    "publishedAt": "2026-05-27T00:01:39.989Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-05-26_fallback",
+    "sourceId": "src_mcp-blog_2026-05-27_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-26T13:44:22.050Z",
+    "publishedAt": "2026-05-27T00:01:40.366Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,35 +167,6 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_f6667da96b1601e6",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1to4htw/with_artisan_11x_and_a_couple_others_all_moving/",
-    "title": "With Artisan, 11x, and a couple others all moving to GA this month, what's actually under the hood?",
-    "publishedAt": "2026-05-26T11:46:24.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Genuine question for the agent-builders here.",
-      "There’s a wave of AI SDR tools going GA right now, and I’m trying to understand what’s actually different across them at the architecture level.",
-      "From the outside, the pitches all sound the same: “Autonomous agent that does prospecting.” “AI-generated personalized outreach.” “Works inside your CRM.” “Handles follow-ups.” But anyone who’s built agent infrastructure knows these phrases mean wildly different implementations.",
-      "For anyone who’s looked under the hood: What’s actually different about the agent architecture between tools?"
-    ],
-    "claims": [
-      {
-        "text": "Genuine question for the agent-builders here. There’s a wave of AI SDR tools going GA right now, and I’m trying to understand what’s actually different across them at the architecture level. From the outside, the pitches all sound the same: “Autonomous agent that does prospecting.” “AI-generated personalized outreach.” “Works inside your CRM.” “Handles follow-ups.” But anyone who’s built agent infrastructure knows these phrases mean wildly different implementations. For anyone who’s looked under the hood: What’s actually different about the agent architecture between tools? Which one has the most interesting prompt orchestration vs. which is mostly ChatGPT-with-tools? How are they handling long-horizon state (multi-week prospect tracking) differently? Which one has the deliverability/infra moat that you can’t realistically replicate at home? Genuinely trying to learn here, not shop. submitted by /u/Pig_Benis_was_taken [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1to4htw/with_artisan_11x_and_a_couple_others_all_moving/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_reddit-aiagents_121436b90473afa1",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -225,26 +196,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_c8ebefe6f34463a9",
+    "sourceId": "src_reddit-aiagents_5fc0afba6fdcb7ae",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1to2mtm/sap_just_put_200_ai_agents_into_production_claude/",
-    "title": "SAP Just Put 200+ AI Agents Into Production — Claude Powers the Reasoning Behind the World's Largest ERP",
-    "publishedAt": "2026-05-26T10:15:28.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1todjfn/agentic_ai_frameworks/",
+    "title": "Agentic AI frameworks",
+    "publishedAt": "2026-05-26T17:17:04.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "At SAP Sapphire 2026 in Orlando, SAP unveiled what it's calling the Autonomous Enterprise — a fundamental re-architecture of the world's largest enterprise software company around AI agents as the primary unit of work.",
-      "It's 50+ domain-specific Joule Assistants orchestrating 200+ specialized agents across Finance, Spend Management, Supply Chain, Human Capital Management, and Customer Experience.",
-      "The architecture behind it: Three layers underpin the deployment.",
-      "A context layer (the SAP Knowledge Graph, mapping 7M+ data fields to give agents structured business understanding), a build layer (Joule Studio, from no-code to pro-code agent development), and a governance layer (SAP AI Agent Hub, targeting GA in Q3 2026 at no extra charge)."
+      "Hi, so I have grasped a lot of theory about building agentic systems but I want to apply it am get my hands dirty.",
+      "Which framework should I start with as an individual learner, since there are a lot of them I am kinda confused.",
+      "I am joining a company where my role would be around planning and building agents so I want to gear up for that submitted by /u/JackfruitPotential45 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "At SAP Sapphire 2026 in Orlando, SAP unveiled what it's calling the Autonomous Enterprise — a fundamental re-architecture of the world's largest enterprise software company around AI agents as the primary unit of work. This isn't a feature update. It's 50+ domain-specific Joule Assistants orchestrating 200+ specialized agents across Finance, Spend Management, Supply Chain, Human Capital Management, and Customer Experience. The architecture behind it: Three layers underpin the deployment. A context layer (the SAP Knowledge Graph, mapping 7M+ data fields to give agents structured business understanding), a build layer (Joule Studio, from no-code to pro-code agent development), and a governance layer (SAP AI Agent Hub, targeting GA in Q3 2026 at no extra charge). Agents use the supervisor pattern — each Joule Assistant decomposes user requests, delegates to specialized workers, and synthesizes results. SAP also built bidirectional agent-to-agent interoperability with Google Cloud and Microsoft, so a Joule agent can hand off a task to a Copilot or Vertex AI agent. Why Claude? SAP selected Anthropic's Claude as the primary reasoning engine for HR, procurement, and supply chain agents — a landmark enterprise win for Anthropic. The choice signals that enterprises increasingly value safety and reliability over raw speed in production agent deployments. Claude processes purchase orders, evaluates supplier contracts, answers HR compliance questions, and manages procurement workflows, all within SAP's governed environment. Key numbers: - 200+ specialized agents in production today - 50+ Joule Assistants as user-facing supervisors - 7M+ data fields in the Knowledge Graph - €100M partner fund for agent ecosystem development - 35% reduction in ERP migration effort through agent-led automation - NVIDIA OpenShell provides hardware-backed secure runtime isolation The takeaway: SAP is demonstrating that 200+ agents in production is the new enterprise benchmark. Knowledge Graphs may matter more than RAG for enterprise agent deployments. And multi-model, multi-vendor agent architectures (Claude + SAP models + Google + Microsoft + Mistral) are becoming the default. submitted by /u/docdavkitty [link] [comments]",
+        "text": "Hi, so I have grasped a lot of theory about building agentic systems but I want to apply it am get my hands dirty. Which framework should I start with as an individual learner, since there are a lot of them I am kinda confused. I am joining a company where my role would be around planning and building agents so I want to gear up for that submitted by /u/JackfruitPotential45 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1to2mtm/sap_just_put_200_ai_agents_into_production_claude/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1todjfn/agentic_ai_frameworks/"
       }
     ],
     "usableFor": [
@@ -254,12 +224,41 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-05-26_fallback",
+    "sourceId": "src_reddit-aiagents_4d8159d3673d2233",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1toi0wk/our_ai_agent_isnt_getting_dumber_the_memory/",
+    "title": "our AI agent isn't getting dumber. The memory underneath it is just rotting and nobody told you.",
+    "publishedAt": "2026-05-26T19:48:26.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "How are you actually maintaining yours past month three?",
+      "Every stored assumption, summary, retrieval, and unresolved contradiction accumulates over time.",
+      "The model still reasons effectively, but increasingly from corrupted context.",
+      "Very few can revise, reconcile, or forget it."
+    ],
+    "claims": [
+      {
+        "text": "How are you actually maintaining yours past month three? Our AI agent isn’t getting dumber. The memory underneath it is rotting. Every stored assumption, summary, retrieval, and unresolved contradiction accumulates over time. The model still reasons effectively, but increasingly from corrupted context. Most systems can store knowledge. Very few can revise, reconcile, or forget it. That’s where decay begins. submitted by /u/Distinct-Shoulder592 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1toi0wk/our_ai_agent_isnt_getting_dumber_the_memory/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_stability-ai-blog_2026-05-27_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-26T13:44:21.869Z",
+    "publishedAt": "2026-05-27T00:01:40.108Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-26T13:44:22.621Z",
+    "publishedAt": "2026-05-27T00:01:41.017Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-26T13:44:22.067Z",
+    "publishedAt": "2026-05-27T00:01:40.381Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,27 +339,27 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_21af232e5376e2c0",
+    "sourceId": "src_reddit-stablediffusion_9af90c27fba3e8a1",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tnytly/regional_condition_custom_node_for_anima_model/",
-    "title": "Regional Condition Custom Node for Anima model",
-    "publishedAt": "2026-05-26T06:43:41.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tobzgq/animabase_is_magic_and_i_dont_think_people/",
+    "title": "Anima-Base is magic and i don't think people realize how good it is.",
+    "publishedAt": "2026-05-26T16:24:05.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Created a comfyui custom node for Regional Conditioning for Anima model with the help of Codex.",
-      "https://github.com/Sen-sou/Comfyui-Anima-Regional-Conditioning I think it works better than the sd forge couple - https://github.com/Haoming02/sd-forge-couple , but still have some downsides to it.",
-      "Forge couple masks the text tokens which works for simple regions but fails for complex regions and and also does not follow the mask bounds very well.",
-      "This custom node however masks both the text tokens as well as the image tokens so it does whatever forge couple does but with better bounds."
+      "I made a post about ZIT earlier this month, but i think its time ANIMA gets a post aswell.",
+      "Every image is made by me and made with ONLY anima-base-1, NO loras.",
+      "Below i shared the CivitAI posts so you can find prompts and in some cases the ComfyUI workflows aswell.",
+      "This model is insane and i really don't think people are appreciating it enough."
     ],
     "claims": [
       {
-        "text": "Created a comfyui custom node for Regional Conditioning for Anima model with the help of Codex. https://github.com/Sen-sou/Comfyui-Anima-Regional-Conditioning I think it works better than the sd forge couple - https://github.com/Haoming02/sd-forge-couple , but still have some downsides to it. Forge couple masks the text tokens which works for simple regions but fails for complex regions and and also does not follow the mask bounds very well. This custom node however masks both the text tokens as well as the image tokens so it does whatever forge couple does but with better bounds. But it also results in some uneven composition, so just have to play around with the parameters. This was done with the help of codex so i don't understand the working in depth. But it works, So there's that. submitted by /u/Antendol [link] [comments]",
+        "text": "I made a post about ZIT earlier this month, but i think its time ANIMA gets a post aswell. Every image is made by me and made with ONLY anima-base-1, NO loras. Below i shared the CivitAI posts so you can find prompts and in some cases the ComfyUI workflows aswell. This model is insane and i really don't think people are appreciating it enough. IMAGE 1: https://civitai.red/images/130974882 IMAGE 2: https://civitai.red/images/130930080 IMAGE 3: https://civitai.red/images/130929689 IMAGE 4: https://civitai.red/images/130745552 IMAGE 5: https://civitai.red/images/130704657 IMAGE 6: https://civitai.red/images/131031183 IMAGE 7: https://civitai.red/images/131876038 IMAGE 8: https://civitai.red/images/131710920 IMAGE 9: https://civitai.red/images/131421294 IMAGE 10: https://civitai.red/images/130716207 IMAGE 11: https://civitai.red/images/130712263 submitted by /u/Royal_Carpenter_1338 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tnytly/regional_condition_custom_node_for_anima_model/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tobzgq/animabase_is_magic_and_i_dont_think_people/"
       }
     ],
     "usableFor": [
@@ -370,25 +369,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_6e6b19a6ba5a08a5",
+    "sourceId": "src_reddit-stablediffusion_dd78aab3e4999e1a",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1to3mkl/complex_scene_transitions_with_the_new_ltx/",
-    "title": "Complex scene transitions with the new LTX Director and Transition LoRA",
-    "publishedAt": "2026-05-26T11:04:53.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1togknz/official_turbo_lora_for_anima_10_has_been_posted/",
+    "title": "Official Turbo lora for anima 1.0 has been posted",
+    "publishedAt": "2026-05-26T18:58:26.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "https://reddit.com/link/1to3mkl/video/vl4df55irg3h1/player I’ve been testing the new LTX director custom node alongside the transition lora, and it makes complex transitions incredibly clean.",
-      "Here is a segment from a project I'm working on Links: Node: WhatDreamsCost-ComfyUI LoRA: joyfox/LTX-2.3-Transition-LORA submitted by /u/nikhilprasanth [link] [comments]"
+      "submitted by /u/siegekeebsofficial [link] [comments]"
     ],
     "claims": [
       {
-        "text": "https://reddit.com/link/1to3mkl/video/vl4df55irg3h1/player I’ve been testing the new LTX director custom node alongside the transition lora, and it makes complex transitions incredibly clean. Here is a segment from a project I'm working on Links: Node: WhatDreamsCost-ComfyUI LoRA: joyfox/LTX-2.3-Transition-LORA submitted by /u/nikhilprasanth [link] [comments]",
+        "text": "submitted by /u/siegekeebsofficial [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1to3mkl/complex_scene_transitions_with_the_new_ltx/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1togknz/official_turbo_lora_for_anima_10_has_been_posted/"
       }
     ],
     "usableFor": [
@@ -398,26 +396,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_6da5f1e32ce19f81",
+    "sourceId": "src_reddit-stablediffusion_1f30e8fb8fe5d515",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1to4fl3/infocommercial_the_chef/",
-    "title": "Infocommercial The Chef",
-    "publishedAt": "2026-05-26T11:43:27.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1toi5yz/prismml_just_released_binary_and_ternary_bonsai/",
+    "title": "PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.",
+    "publishedAt": "2026-05-26T19:53:17.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "After a couple of months of work, here is my first short film, hope you like it!",
-      "All done it with LTX 2.3, Flux 2 Klein inside Comfyui and TONS of comp.",
-      "submitted by /u/Euphoric_Attorney271 [link] [comments]"
+      "https://reddit.com/link/1toi5yz/video/y6gh4lxydj3h1/player The PrismML team really cooked with these models.",
+      "They're only ~3GB in size (compared to FLUX.2 Klein 4B, which is ~16GB).",
+      "Official collection on HF: https://huggingface.co/collections/prism-ml/bonsai-image Link to demo: https://huggingface.co/spaces/webml-community/bonsai-image-webgpu Original posted in r/locallama .",
+      "submitted by /u/EveningIncrease7579 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Hello everyone! After a couple of months of work, here is my first short film, hope you like it! All done it with LTX 2.3, Flux 2 Klein inside Comfyui and TONS of comp. submitted by /u/Euphoric_Attorney271 [link] [comments]",
+        "text": "https://reddit.com/link/1toi5yz/video/y6gh4lxydj3h1/player The PrismML team really cooked with these models. They're only ~3GB in size (compared to FLUX.2 Klein 4B, which is ~16GB). Apache-2.0! Official collection on HF: https://huggingface.co/collections/prism-ml/bonsai-image Link to demo: https://huggingface.co/spaces/webml-community/bonsai-image-webgpu Original posted in r/locallama . Thank you xenovatech ! submitted by /u/EveningIncrease7579 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1to4fl3/infocommercial_the_chef/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1toi5yz/prismml_just_released_binary_and_ternary_bonsai/"
       }
     ],
     "usableFor": [
@@ -427,26 +426,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_b56045a6c467ce93",
+    "sourceId": "src_reddit-stablediffusion_c51635aaa3bd1bea",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tnk3hg/testing_zit_and_flux1_with_nvidia_pid_pixel/",
-    "title": "Testing ZIT and Flux-1 with \"NVIDIA PiD — Pixel Diffusion Decoder\"",
-    "publishedAt": "2026-05-25T19:58:48.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1togrx4/testing_the_newly_released_microsoft_lens_turbo/",
+    "title": "Testing the newly released Microsoft Lens Turbo in my low vram GPU, it is good and it works very well",
+    "publishedAt": "2026-05-26T19:05:09.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Just tested NVIDIA-PiD with 512px generated images and 1024 generated image downscaled to 512, because I think this way the comparison is more balanced since 512 generations will always have less details.",
-      "(PiD was trained with 512px inputs) I used https://github.com/tsolful/ComfyUI-PiD to test it.",
-      "There is this other one I just came to know: https://github.com/Merserk/ComfyUI-PiD submitted by /u/marcoc2 [link] [comments]"
+      "Just update comfy to use it Workflow : https://github.com/user-attachments/files/28178322/comfy_lens_test_01.json Models : https://huggingface.co/Comfy-Org/Lens submitted by /u/Nid_All [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Just tested NVIDIA-PiD with 512px generated images and 1024 generated image downscaled to 512, because I think this way the comparison is more balanced since 512 generations will always have less details. (PiD was trained with 512px inputs) I used https://github.com/tsolful/ComfyUI-PiD to test it. There is this other one I just came to know: https://github.com/Merserk/ComfyUI-PiD submitted by /u/marcoc2 [link] [comments]",
+        "text": "Just update comfy to use it Workflow : https://github.com/user-attachments/files/28178322/comfy_lens_test_01.json Models : https://huggingface.co/Comfy-Org/Lens submitted by /u/Nid_All [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tnk3hg/testing_zit_and_flux1_with_nvidia_pid_pixel/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1togrx4/testing_the_newly_released_microsoft_lens_turbo/"
       }
     ],
     "usableFor": [
@@ -456,27 +453,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_03d657a10bcccf94",
+    "sourceId": "src_reddit-stablediffusion_a0b554236fbb2272",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tnptzq/comfyuiangelo_now_supports_qwen_edit/",
-    "title": "ComfyUI-Angelo now supports Qwen Edit",
-    "publishedAt": "2026-05-25T23:45:12.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1toihvn/old_forgotten_ai_model_fixes_eyes_in_under_10_min/",
+    "title": "Old forgotten AI model fixes eyes in under 10 min! Forget about pain of randomness and lack of quality of new AI models ;)",
+    "publishedAt": "2026-05-26T20:04:22.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Qwen edit 1x speed adjustments in action above https://github.com/shootthesound/ComfyUI-Angelo Supported models for the edit modes are now Flux Klein and Qwen Edit.",
-      "More models coming soon - working as fast as I'm able.",
-      "Several other user requested features have been added the last few days also.",
-      "Note: Demo recorded in smart inpaint mode that uses reference latent of the current canvas and upcales any selected segment to 1mp before edit and scales it back down (configurable)."
+      "submitted by /u/Grim_Necromancer [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Qwen edit 1x speed adjustments in action above https://github.com/shootthesound/ComfyUI-Angelo Supported models for the edit modes are now Flux Klein and Qwen Edit. More models coming soon - working as fast as I'm able. Several other user requested features have been added the last few days also. Note: Demo recorded in smart inpaint mode that uses reference latent of the current canvas and upcales any selected segment to 1mp before edit and scales it back down (configurable). In refine mode edits are much quicker. submitted by /u/shootthesound [link] [comments]",
+        "text": "submitted by /u/Grim_Necromancer [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tnptzq/comfyuiangelo_now_supports_qwen_edit/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1toihvn/old_forgotten_ai_model_fixes_eyes_in_under_10_min/"
       }
     ],
     "usableFor": [
@@ -516,27 +510,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_282ec7b73cfcff64",
+    "sourceId": "src_reddit-comfyui_b2f7bca36afef160",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1to1c90/released_nodesafe_v04_opensource_security_scanner/",
-    "title": "Released nodesafe v0.4 — open-source security scanner for ComfyUI custom_nodes (6 detection layers, pip install)",
-    "publishedAt": "2026-05-26T09:05:13.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tob5j8/what_is_your_superpower_again_im_rich_local_96gb/",
+    "title": "\"What is your superpower again?\" — \"I'm rich.\" 🤑 Local 96GB Blackwell VRAM is online.",
+    "publishedAt": "2026-05-26T15:56:02.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Hi r/ComfyUI , After the LLMVISION incident (Jun 2024), Pickai (2025), and the April 2026 botnet that compromised 1,000+ ComfyUI instances by auto-installing malicious nodes through the Manager, I built nodesafe — an open-source security scanner that statically analyzes any custom_node before you install it.",
-      "pip install nodesafe The 9-layer roadmap, with layers 0-5 shipping today: L0 SHA-256 hash matching against known malware L1 Bloom-filter check against malicious URLs L2 Aho-Corasick over 200+ curated dangerous patterns L3 AST analysis (eval/exec, subprocess shell=True, exec(b64decode(...)) chains, suspicious imports, dynamic getattr) L4 Typosquatting detection + OSV.dev vulnerability lookup L5 Aggregate heuristic risk score combining all of the above + embedded base64/hex strings + manifest anomalies + call density Layers 6-8 (anomaly detection, CodeBERT semantic similarity, optional local LLM via Ollama) are on the roadmap.",
-      "Honest framing: L5 is a hand-calibrated heuristic, not a trained ML classifier.",
-      "The architecture plan calls for Naive Bayes + XGBoost there; that's deferred to v0.5+ once enough labeled custom_node samples are collected."
+      "Jokes aside, handled with care because this beast belongs to the lab.",
+      "No cloud, no tiers, just absolute local control.",
+      "As promised, when the channel monetizes, we upgrade a random creator here.",
+      "🤘 submitted by /u/AxonkaiLab [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Hi r/ComfyUI , After the LLMVISION incident (Jun 2024), Pickai (2025), and the April 2026 botnet that compromised 1,000+ ComfyUI instances by auto-installing malicious nodes through the Manager, I built nodesafe — an open-source security scanner that statically analyzes any custom_node before you install it. pip install nodesafe The 9-layer roadmap, with layers 0-5 shipping today: L0 SHA-256 hash matching against known malware L1 Bloom-filter check against malicious URLs L2 Aho-Corasick over 200+ curated dangerous patterns L3 AST analysis (eval/exec, subprocess shell=True, exec(b64decode(...)) chains, suspicious imports, dynamic getattr) L4 Typosquatting detection + OSV.dev vulnerability lookup L5 Aggregate heuristic risk score combining all of the above + embedded base64/hex strings + manifest anomalies + call density Layers 6-8 (anomaly detection, CodeBERT semantic similarity, optional local LLM via Ollama) are on the roadmap. Honest framing: L5 is a hand-calibrated heuristic, not a trained ML classifier. The architecture plan calls for Naive Bayes + XGBoost there; that's deferred to v0.5+ once enough labeled custom_node samples are collected. The feature extractor is the same shape a learned model would consume, so the swap is local. Design choices that may matter to you: Apache 2.0, no freemium, no telemetry (immutable policy in code) Pure static analysis — NEVER executes scanned code Hermetic by default; OSV.dev network call is opt-in Local-first LLM when L8 ships (Ollama), cloud opt-in with BYO key 66 tests across Linux/macOS/Windows × Python 3.10-3.12 Published via OIDC Trusted Publishing (no API tokens, gated environment with required reviewer) GitHub Action on the Marketplace: https://github.com/marketplace/actions/nodesafe-scan Try it: pip install nodesafe nodesafe scan path/to/custom_node GitHub: https://github.com/neuregex/nodesafe PyPI: https://pypi.org/project/nodesafe/ Looking for: False-positive reports on benign nodes (so we can refine thresholds) Missed-detection reports on known-malicious nodes Pattern contributions from people who've reverse-engineered past incidents Maintainers willing to integrate with the Manager (DM me) — neuregex submitted by /u/neuregex [link] [comments]",
+        "text": "Jokes aside, handled with care because this beast belongs to the lab. No cloud, no tiers, just absolute local control. As promised, when the channel monetizes, we upgrade a random creator here. Keep grinding. 🤘 submitted by /u/AxonkaiLab [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1to1c90/released_nodesafe_v04_opensource_security_scanner/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tob5j8/what_is_your_superpower_again_im_rich_local_96gb/"
       }
     ],
     "usableFor": [
@@ -546,27 +540,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_687610fa7aa1f854",
+    "sourceId": "src_reddit-comfyui_5a2dff918ee667ae",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1to1gq6/best_workflow_for_camera_projection_aiassisted/",
-    "title": "Best workflow for camera projection + AI-assisted archival reconstruction + actor compositing?",
-    "publishedAt": "2026-05-26T09:12:07.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tol82q/5_paid_comfyui_builder_contests_open_june_1_20k/",
+    "title": "5 paid ComfyUI builder contests open June 1. $20K pool, briefs are live.",
+    "publishedAt": "2026-05-26T21:41:00.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "I’m a cinematographer developing visual tests for a feature film set in Warsaw in 1939.",
-      "We’re exploring a workflow for turning archival black-and-white photos into subtle cinematic sequences — not typical “AI animated photos.” The goal is a believable archival reconstruction using AI only as a support tool within a traditional VFX pipeline.",
-      "The process would involve: restoring and colorizing archival photos, extracting depth/layers, adding subtle camera movement, and compositing greenscreen actors into the scene.",
-      "I’m discussing this workflow with a VFX artist and would love feedback from people experienced in compositing, camera projection, matte painting, historical reconstruction, or AI-assisted VFX."
+      "Hey everyone - sharing with the builder community: We noticed a clear gap in the market between comfyui production quality on the one side and builder struggling to monetise on the other side.",
+      "So we're opening 5 paid contests for ComfyUI builders starting June 1.",
+      "Two weeks each, $20K prize pool across the season, every contest solving a real customer pain we've been tracking.",
+      "Submissions open June 1, but the 5 briefs are public today at runflow.io/contests."
     ],
     "claims": [
       {
-        "text": "I’m a cinematographer developing visual tests for a feature film set in Warsaw in 1939. We’re exploring a workflow for turning archival black-and-white photos into subtle cinematic sequences — not typical “AI animated photos.” The goal is a believable archival reconstruction using AI only as a support tool within a traditional VFX pipeline. The process would involve: restoring and colorizing archival photos, extracting depth/layers, adding subtle camera movement, and compositing greenscreen actors into the scene. I’m discussing this workflow with a VFX artist and would love feedback from people experienced in compositing, camera projection, matte painting, historical reconstruction, or AI-assisted VFX. Attached: rough AI animation test. The test is intentionally crude and only meant to show the direction. Proposed workflow: Restore and upscale archival image carefully. Supervised colorization based on historical references. Segment image into layers (foreground, buildings, sky, etc.). Build a simple 2.5D projection environment. Add restrained camera movement. Use AI only for subtle motion (trees, smoke, cloth, dust). Shoot actors on greenscreen matching lighting/lens characteristics. Composite actors into the layered environment. Apply final archival texture/grain pass. The aim is to avoid the typical “AI melting” look and keep everything grounded and realistic. What do you think of this approach? Would you structure the workflow differently? Any advice on temporal consistency or integrating actors into archival environments? Thanks! submitted by /u/Usual-Patience6759 [link] [comments]",
+        "text": "Hey everyone - sharing with the builder community: We noticed a clear gap in the market between comfyui production quality on the one side and builder struggling to monetise on the other side. So we're opening 5 paid contests for ComfyUI builders starting June 1. Two weeks each, $20K prize pool across the season, every contest solving a real customer pain we've been tracking. Submissions open June 1, but the 5 briefs are public today at runflow.io/contests. If you want a 6 day head start to read them and decide whether to build, here you go. How the model works: - We talk to companies stuck on real production problems (current cohort: performance marketers losing whole days to manual ad-variant work). - We turn that pain into a brief with a hidden test set and auto-graded acceptance criteria. - Builders ship workflows against the brief. - The winning workflow goes live as a public API on our marketplace. No paywall to enter the contest, no paywall to use the winning workflow once it ships. Prize per contest: $1,650 + $500 credits to 1st, $500 + $100 to 2nd, $200 + $50 to 3rd, plus $50 credits to the next 20 valid entries. The 5 contests in order: Brand-consistent ad variants (Jun 1 -> Jun 15) Static-to-video ad upgrade (Jun 15 -> Jun 29) Static to social ad creative (Jun 29 -> Jul 13) Catalog hero photography (Jul 13 -> Jul 27) UGC-style ad creative (Jul 27 -> Aug 10) What you can do already: - See high level what the 5 contest will be about - Join the builder Discord to ask brief questions, hang out with other entrants, and get pinged when contest #01 opens: discord link on the contest page itself On top of the price we will also actively promote the workflow once live as the goal is to go to production with it. The winner of each will get exposure to the market and client since the builder name will be highlighted. If this initial program is successful we will run more of those. Again we want to be the bridge for better quality workflows for production and helping builders monetise their amazing work. AMA below if anything looks unclear. submitted by /u/Monolikma [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1to1gq6/best_workflow_for_camera_projection_aiassisted/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tol82q/5_paid_comfyui_builder_contests_open_june_1_20k/"
       }
     ],
     "usableFor": [
@@ -576,27 +570,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_e6d4c14c8ae59155",
+    "sourceId": "src_reddit-comfyui_184751a7f3242cd5",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1to13ai/yedp_blockout_mini_3d_studio_built_directly/",
-    "title": "Yedp Blockout: \"mini 3D studio\" built directly inside ComfyUI",
-    "publishedAt": "2026-05-26T08:51:08.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tohch6/i_made_a_decent_inpainting_workflow_couple_custom/",
+    "title": "I made a decent inpainting workflow + couple custom nodes, it works really well preserving quality and that's bloody fast, anyone wants to try?",
+    "publishedAt": "2026-05-26T19:24:45.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "I built this custom comfyUI node as a companion node to Yedp Action Director, it allows you to quickly build a scene, place objects, set up camera angles, and arrange lighting.",
-      "It acts both as its own renderer and a support node for building scenes to use in Yedp Action Director.",
-      "Once your scene is set up, click the \"BAKE\" button to render Texture/Shaded/Depth Map/Normal outputs.",
-      "Key Features: - Easily drop in cubes, spheres, cylinders, planes etc."
+      "i'd like to have your opinion guys and soon ill publish the workflow in case you like it, meanwhile i tried to make a youtube video showing how it works (it's my first video tips welcome but dont be so harsh) https://youtu.be/DanmPE7OENg?si=1i1nTy-Xhr67SVgo submitted by /u/Gold-Safe6796 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I built this custom comfyUI node as a companion node to Yedp Action Director, it allows you to quickly build a scene, place objects, set up camera angles, and arrange lighting. It acts both as its own renderer and a support node for building scenes to use in Yedp Action Director. Once your scene is set up, click the \"BAKE\" button to render Texture/Shaded/Depth Map/Normal outputs. Key Features: - Easily drop in cubes, spheres, cylinders, planes etc. - Asset Library: It has organized tabs for things like Architecture, Vehicles, Furniture, Props, etc. (currently all the presets are thanks to the amazing work of Tim Seer who offers CCO license 3D assets) - PBR workflow: you can load diffuse/metallic/roughness/normal maps - You can upload your own custom 3D models (GLB, GLTF, or FBX formats) straight into the scene. - You can add specific lights like spotlights, point lights, and sun-like directional lights, complete with real shadows and adjustable intensity. - You can load 360-degree images (HDRIs) to instantly give your scene realistic, real-world lighting and reflections. - It has a built-in \"Path Tracer\". - Size Reference: You can toggle a \"human silhouette\" on and off to make sure the scale of your buildings and props looks correct. - Undo/Redo - Gizmos & Snapping: Easy-to-use tools to move, rotate, and scale objects. You can also turn on \"Grid Snapping\" to perfectly align walls or floors. - Save & Load: You can save your entire 3D scene and load it back up later, so you never lose your work. It exports the 3D scene as a .glb file in the input folder Yedp Action Director import assets from by default. ------------------------------------------- The node might still have some issues so any feedback are welcome, it comes installed with Yedp Action Director and Yedp MoCap Surgeon as a whole package suite: Yedp Blockout submitted by /u/shamomylle [link] [comments]",
+        "text": "i'd like to have your opinion guys and soon ill publish the workflow in case you like it, meanwhile i tried to make a youtube video showing how it works (it's my first video tips welcome but dont be so harsh) https://youtu.be/DanmPE7OENg?si=1i1nTy-Xhr67SVgo submitted by /u/Gold-Safe6796 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1to13ai/yedp_blockout_mini_3d_studio_built_directly/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tohch6/i_made_a_decent_inpainting_workflow_couple_custom/"
       }
     ],
     "usableFor": [
@@ -641,15 +632,15 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-26T13:44:21.964Z",
+    "publishedAt": "2026-05-27T00:01:40.230Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "AI Video Research & Innovation | Runway AI Research Product Resources Solutions Company Enterprise Sales Log in Try Runway Introducing Aleph 2.0 — our upgraded video editing model.",
-      "Get 50% off Pro when you use code RUNWAY50.",
-      "Try Now Our Research Building general-purpose multimodal simulators of the world.",
-      "We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing."
+      "AI Video Research & Innovation | Runway AI Research Product Resources Solutions Company Enterprise Sales Log in Try Runway Our Research Building general-purpose multimodal simulators of the world.",
+      "We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing.",
+      "Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding.",
+      "Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models...."
     ],
     "claims": [
       {
@@ -670,7 +661,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-26T13:44:22.083Z",
+    "publishedAt": "2026-05-27T00:01:40.484Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -699,7 +690,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-26T13:44:22.653Z",
+    "publishedAt": "2026-05-27T00:01:41.127Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -781,6 +772,33 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_reddit-aivideo_8fc1c7481da5c0e7",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1togg50/barely_scary_movie/",
+    "title": "Barely Scary Movie",
+    "publishedAt": "2026-05-26T18:54:10.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/shesbarelyreal [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/shesbarelyreal [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1togg50/barely_scary_movie/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aivideo_a0a0051b7c94522a",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
@@ -808,51 +826,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_d5ac562572125955",
+    "sourceId": "src_reddit-aivideo_9fa079722e09307a",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tnlczr/sulfur_breath_by_gossip_goblin/",
-    "title": "Sulfur Breath by Gossip Goblin",
-    "publishedAt": "2026-05-25T20:45:21.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tof7fv/i_made_a_1_minute_stop_motion_short_called_come/",
+    "title": "I made a 1 minute Stop Motion short called \"come for me\"",
+    "publishedAt": "2026-05-26T18:12:46.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/8bitcollective [link] [comments]"
+      "submitted by /u/SoulMotionLabs [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/8bitcollective [link] [comments]",
+        "text": "submitted by /u/SoulMotionLabs [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tnlczr/sulfur_breath_by_gossip_goblin/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aivideo_c4edca36daceda19",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tnqhwf/technoviking_meets_snape_and_dumbledore/",
-    "title": "TechnoViking meets Snape and Dumbledore",
-    "publishedAt": "2026-05-26T00:13:24.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/cs862 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/cs862 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tnqhwf/technoviking_meets_snape_and_dumbledore/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tof7fv/i_made_a_1_minute_stop_motion_short_called_come/"
       }
     ],
     "usableFor": [
@@ -867,7 +858,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-26T13:44:22.319Z",
+    "publishedAt": "2026-05-27T00:01:40.742Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -896,7 +887,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-26T13:44:22.635Z",
+    "publishedAt": "2026-05-27T00:01:41.008Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -920,12 +911,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-05-26_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-05-27_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-26T13:44:22.141Z",
+    "publishedAt": "2026-05-27T00:01:40.679Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -952,7 +943,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-26T13:44:22.393Z",
+    "publishedAt": "2026-05-27T00:01:40.839Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -981,7 +972,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-26T13:44:22.209Z",
+    "publishedAt": "2026-05-27T00:01:40.507Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1066,6 +1057,60 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-midjourney_8c84845c0a291c67",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tobtz7/untitled_57/",
+    "title": "Untitled 57",
+    "publishedAt": "2026-05-26T16:19:07.000Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "keyFacts": [
+      "submitted by /u/12washingbeard [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/12washingbeard [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tobtz7/untitled_57/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-midjourney_8cc96b3dad522335",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "url": "https://www.reddit.com/r/midjourney/comments/1to84ps/the_grand_exilarch/",
+    "title": "The Grand Exilarch",
+    "publishedAt": "2026-05-26T14:10:18.000Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "keyFacts": [
+      "submitted by /u/mitchellflautt [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/mitchellflautt [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1to84ps/the_grand_exilarch/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-midjourney_66139057eb3a0cc8",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
@@ -1093,66 +1138,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_6d6558206a728cae",
-    "sourceType": "reddit",
-    "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1to4fir/marigold_station/",
-    "title": "Marigold Station",
-    "publishedAt": "2026-05-26T11:43:22.000Z",
-    "categoryHints": [
-      "prompt-image",
-      "ai-image"
-    ],
-    "keyFacts": [
-      "submitted by /u/Dropdeadlegs84 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Dropdeadlegs84 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1to4fir/marigold_station/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-midjourney_56b696dfa56c3398",
-    "sourceType": "reddit",
-    "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1to5279/arcana_of_the_rings/",
-    "title": "Arcana of the Rings",
-    "publishedAt": "2026-05-26T12:11:17.000Z",
-    "categoryHints": [
-      "prompt-image",
-      "ai-image"
-    ],
-    "keyFacts": [
-      "submitted by /u/Zaicab [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Zaicab [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1to5279/arcana_of_the_rings/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_kling-blog_93b43a5f7aed1c98",
     "sourceType": "blog",
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-26T13:44:24.002Z",
+    "publishedAt": "2026-05-27T00:01:42.273Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1318,7 +1309,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-26T13:44:22.207Z",
+    "publishedAt": "2026-05-27T00:01:40.564Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1326,10 +1317,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 5 days ago • 38 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • about 20 hours ago • 12 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 8 days ago • 19 Software Forgets: Agent Traces Are the Memory huggingface • 7 days ago • 8 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 4 days ago • 7 Relaunching PapersWithCode with new features nielsr • 2 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 859 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 338 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 24 An experiment with attention.",
-      "wop • 3 days ago • 5 Eight Days in China: What I Learned from the AI Labs, Robotics Startups and Academia matthew-d-white • 4 days ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 226 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Understanding Vector Quantization in VQ-VAE ariG23498 • Aug 28, 2024 • 63 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 155 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation drmapavone • Mar 16 • 29 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 23 days ago • 4 How to Comply with SOC 2 and ISO 27001 with Hugging Face: A Practical Guide to AI Model Supply Chain Governance jeffboudier • 12 days ago • 6 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 38 May 25, 2026 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 18 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 2 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 18 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 45 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 32 May 18, 2026 The Open Agent Leaderboard 12 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 30 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 55 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 10 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 17 May 6, 2026 Granite 4.1 LLMs: How They’re Built 75 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 12 April 29, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 6 days ago • 41 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 1 day ago • 14 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 8 days ago • 19 Software Forgets: Agent Traces Are the Memory huggingface • 7 days ago • 8 Relaunching PapersWithCode with new features nielsr • 2 days ago • 8 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 4 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 860 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 338 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 24 An experiment with attention.",
+      "wop • 4 days ago • 5 Eight Days in China: What I Learned from the AI Labs, Robotics Startups and Academia matthew-d-white • 4 days ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 226 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques 👐 📚 Isayoften • Aug 26, 2024 • 91 Understanding Vector Quantization in VQ-VAE ariG23498 • Aug 28, 2024 • 63 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 155 Best Open-Source LLM Models in 2026: Coding, Local, Agentic AI, Benchmarks, and License daya-shankar • Nov 13, 2025 • 15 Deriving the PPO Loss from First Principles garg-aayush • Dec 25, 2025 • 44 Expanding the Alpamayo Open Platform for Developing Reasoning AVs Across Models, Data, and Simulation drmapavone • Mar 16 • 29 Talking to a 4-Year-Old: A Multilingual Benchmark for Children's AI Companions batuhanaktas • 23 days ago • 4 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 49 May 25, 2026 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 22 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 2 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 19 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 46 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 32 May 18, 2026 The Open Agent Leaderboard 12 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 30 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 55 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 10 May 6, 2026 audio speech leaderboard Adding Benchmaxxer Repellant to the Open ASR Leaderboard +7 17 May 6, 2026 Granite 4.1 LLMs: How They’re Built 75 April 29, 2026 llms inference-providers deepinfra DeepInfra on Hugging Face Inference Providers 🔥 +4 12 April 29, 2026 Previous 1 2 3 ...",
       "57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 5 days ago • 38 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • about 20 hours ago • 12 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 8 days ago • 19 Software Forgets: Agent Traces Are the Memory huggingface • 7 days ago • 8 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 4 days ago • 7 Relaunching PapersWithCode with new features nielsr • 2 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 859 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 338 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 24 An experiment with attention."
+      "LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 6 days ago • 41 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 1 day ago • 14 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 8 days ago • 19 Software Forgets: Agent Traces Are the Memory huggingface • 7 days ago • 8 Relaunching PapersWithCode with new features nielsr • 2 days ago • 8 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 4 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 860 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 338 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 24 An experiment with attention."
     ],
     "claims": [
       {
@@ -1343,6 +1334,96 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_278e5597a06e8424",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+    "title": "The pressure",
+    "publishedAt": "2026-05-26T23:48:45.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "The pressure Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
+      "26th May 2026 - Link Blog The pressure ( via ) Daniel Stenberg on the unprecedented level of pressure the curl team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported.",
+      "The rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning that on average we now get more than one report per day .",
+      "The quality is way higher than ever before."
+    ],
+    "claims": [
+      {
+        "text": "The pressure Daniel Stenberg on the unprecedented level of pressure the curl team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported. The rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning that on average we now get more than one report per day . The quality is way higher than ever before. The reports are typically very detailed and long. [...] For the first time in my life, my wife voiced concerns about my work hours and my imbalanced work/life situation. I work more than I’ve done before, but the flood keeps coming. [...] This is a never-before seen or experienced pressure on the curl project and its security team members. An avalanche of high priority work that trumps all other things in the project that is primarily mental because we certainly could ignore them all if we wanted, but we feel a responsibility, we have a conscience and we are proud about our work. The good news is that curl is a very solid piece of software, so the vulnerabilities people are finding tend not to be of high severity: What is also a good trend: almost no one finds terrible vulnerabilities. All vulnerabilities found the last few years in curl have all been deemed severity LOW or MEDIUM. I'm not saying there won't be any more HIGH ever, but at least they are rare. The most recent severity high curl CVE was published in October 2023. Via Lobste.rs Tags: curl , security , ai , generative-ai , llms , daniel-stenberg , ai-ethics , ai-security-research",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_06e555f7bed56dec",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "publishedAt": "2026-05-26T15:36:48.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Microsoft Copilot Cowork Exfiltrates Files Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
+      "26th May 2026 - Link Blog Microsoft Copilot Cowork Exfiltrates Files ( via ) The biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data.",
+      "In this case Microsoft Copilot Cowork (yes, that's a real product name ) was allowing agents to send emails to the user's own inbox without approval...",
+      "but those messages were then displayed in a way that could leak data to an attacker via rendered images: Because these messages can contain external images that trigger network requests to external websites, data can be exfiltrated when a user opens a compromised message sent by the agent."
+    ],
+    "claims": [
+      {
+        "text": "Microsoft Copilot Cowork Exfiltrates Files The biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data. In this case Microsoft Copilot Cowork (yes, that's a real product name ) was allowing agents to send emails to the user's own inbox without approval... but those messages were then displayed in a way that could leak data to an attacker via rendered images: Because these messages can contain external images that trigger network requests to external websites, data can be exfiltrated when a user opens a compromised message sent by the agent. Since OneDrive can create pre-authenticated download links, a successful prompt injection could cause those links to be leaked, allowing files to be downloaded by the attacker. Via Hacker News Tags: microsoft , security , ai , prompt-injection , generative-ai , llms , exfiltration-attacks , lethal-trifecta",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_7f1dc373953e4677",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+    "title": "Quoting Paul Graham",
+    "publishedAt": "2026-05-26T15:02:30.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Paul Graham Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
+      "26th May 2026 A lot of the emails I get from founders are now written in a hard-hitting journalistic style.",
+      "I know they're written by AI, because no founder ever wrote this way before.",
+      "And once you realize something is written by AI, it's hard not to ignore it."
+    ],
+    "claims": [
+      {
+        "text": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it. I have never knowingly finished reading an email signed by a human but written by AI. It feels like being lied to, and who would stand for that? [ ... ] It makes me think less of the author. It means they can't write well unaided (or feel they can't), and that they're trying to trick me. It's not impressive to use AI to write stuff for you; any teenager can do that. &mdash; Paul Graham Tags: writing , ai-misuse , paul-graham , generative-ai , ai , llms",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_3e5cbe11b91c3c94",
@@ -1359,7 +1440,7 @@
       "A quote from Corey Quinn Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
       "26th May 2026 I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen.",
       "&mdash; Corey Quinn , on Anthropic co-founder Christopher Olah's influence on Magnifica Humanitas Posted 26th May 2026 at 2:28 am Recent articles Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 This is a quotation collected by Simon Willison, posted on 26th May 2026 .",
-      "ai 2034 anthropic 284 ai-ethics 307 corey-quinn 4 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+      "ai 2036 anthropic 284 ai-ethics 307 corey-quinn 4 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
     ],
     "claims": [
       {
@@ -1405,102 +1486,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_013a887adb9f4f00",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
-    "title": "datasette 1.0a30",
-    "publishedAt": "2026-05-24T23:52:37.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: datasette 1.0a30 Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
-      "24th May 2026 Release datasette 1.0a30 &mdash; An open source multi-tool for exploring and publishing data The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog.",
-      "You can try it out by hitting / on latest.datasette.io - it looks like this: The new jump_items_sql() plugin hook allows plugins to add their own items to the set that's searched by the plugin.",
-      "Posted 24th May 2026 at 11:52 pm Recent articles Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 This is a beat by Simon Willison, posted on 24th May 2026 ."
-    ],
-    "claims": [
-      {
-        "text": "Release: datasette 1.0a30 The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog. You can try it out by hitting / on latest.datasette.io - it looks like this: The new jump_items_sql() plugin hook allows plugins to add their own items to the set that's searched by the plugin. Tags: projects , datasette , annotated-release-notes",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/May/24/datasette/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_b003f487f043924e",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
-    "title": "datasette-agent 0.1a4",
-    "publishedAt": "2026-05-24T23:19:34.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: datasette-agent 0.1a4 Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
-      "24th May 2026 Release datasette-agent 0.1a4 &mdash; An LLM-powered agent for Datasette Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30 , datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit / : You can try this out by signing into agent.datasette.io using your GitHub account.",
-      "Posted 24th May 2026 at 11:19 pm Recent articles Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 This is a beat by Simon Willison, posted on 24th May 2026 .",
-      "datasette 1499 datasette-agent 11 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
-    ],
-    "claims": [
-      {
-        "text": "Release: datasette-agent 0.1a4 Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30 , datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit / : You can try this out by signing into agent.datasette.io using your GitHub account. Tags: datasette , datasette-agent",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_ff54fa0c55c8a51c",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
-    "title": "datasette-fixtures 0.1a0",
-    "publishedAt": "2026-05-24T21:38:32.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: datasette-fixtures 0.1a0 Simon Willison’s Weblog Subscribe Sponsored by: exe.dev &mdash; ssh, root, https.",
-      "24th May 2026 Release datasette-fixtures 0.1a0 &mdash; Add a fixtures test database to Datasette One of the smaller features in Datasette 1.0a30 is this: New documented datasette.fixtures.populate_fixture_database(conn) helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites.",
-      "This new plugin takes advantage of that API.",
-      "You can try it out using uvx without even installing Datasette like this: uvx --prerelease=allow \\ --with datasette-fixtures datasette \\ --get /fixtures/roadside_attractions.json Which outputs: { \"ok\" : true , \"next\" : null , \"rows\" : [ { \"pk\" : 1 , \"name\" : \" The Mystery Spot \" , \"address\" : \" 465 Mystery Spot Road, Santa Cruz, CA 95065 \" , \"url\" : \" https://www.mysteryspot.com/ \" , \"latitude\" : 37.0167 , \"longitude\" : -122.0024 }, { \"pk\" : 2 , \"name\" : \" Winchester Mystery House \" , \"address\" : \" 525 South Winchester Boulevard, San Jose, CA 95128 \" , \"url\" : \" https://winchestermysteryhouse.com/ \" , \"latitude\" : 37.3184 , \"longitude\" : -121.9511 }, { \"pk\" : 3 , \"name\" : \" Burlingame Museum of PEZ Memorabilia \" , \"address\" : \" 214 California Drive, Burlingame, CA 94010 \" , \"url\" : null , \"latitude\" : 37.5793 , \"longitude\" : -122.3442 }, { \"pk\" : 4 , \"name\" : \" Bigfoot Discovery Museum \" , \"address\" : \" 5497 Highway 9, Felton, CA 95018 \" , \"url\" : \" https://www.bigfootdiscoveryproject.com/ \" , \"latitude\" : 37.0414 , \"longitude\" : -122.0725 } ], \"truncated\" : false } Posted 24th May 2026 at 9:38 pm Recent articles Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 Datasette Agent - 21st May 2026 Gemini 3.5 Flash: more expensive, but Google plan to use it for everything - 19th May 2026 This is a beat by Simon Willison, posted on 24th May 2026 ."
-    ],
-    "claims": [
-      {
-        "text": "Release: datasette-fixtures 0.1a0 One of the smaller features in Datasette 1.0a30 is this: New documented datasette.fixtures.populate_fixture_database(conn) helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites. This new plugin takes advantage of that API. You can try it out using uvx without even installing Datasette like this: uvx --prerelease=allow \\ --with datasette-fixtures datasette \\ --get /fixtures/roadside_attractions.json Which outputs: { \"ok\" : true , \"next\" : null , \"rows\" : [ { \"pk\" : 1 , \"name\" : \" The Mystery Spot \" , \"address\" : \" 465 Mystery Spot Road, Santa Cruz, CA 95065 \" , \"url\" : \" https://www.mysteryspot.com/ \" , \"latitude\" : 37.0167 , \"longitude\" : -122.0024 }, { \"pk\" : 2 , \"name\" : \" Winchester Mystery House \" , \"address\" : \" 525 South Winchester Boulevard, San Jose, CA 95128 \" , \"url\" : \" https://winchestermysteryhouse.com/ \" , \"latitude\" : 37.3184 , \"longitude\" : -121.9511 }, { \"pk\" : 3 , \"name\" : \" Burlingame Museum of PEZ Memorabilia \" , \"address\" : \" 214 California Drive, Burlingame, CA 94010 \" , \"url\" : null , \"latitude\" : 37.5793 , \"longitude\" : -122.3442 }, { \"pk\" : 4 , \"name\" : \" Bigfoot Discovery Museum \" , \"address\" : \" 5497 Highway 9, Felton, CA 95018 \" , \"url\" : \" https://www.bigfootdiscoveryproject.com/ \" , \"latitude\" : 37.0414 , \"longitude\" : -122.0725 } ], \"truncated\" : false } Tags: datasette , uv",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-26T13:44:22.183Z",
+    "publishedAt": "2026-05-27T00:01:40.532Z",
     "categoryHints": [
       "ai-agentic"
     ],
