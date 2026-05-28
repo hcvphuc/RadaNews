@@ -1,131 +1,131 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_the-pressure_2026-05-27",
+    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-05-28",
     "category": "ai-agentic",
-    "topic": "The pressure",
+    "topic": "LangChain Blog",
     "sourceIds": [
-      "src_simonwillison-blog_278e5597a06e8424",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_06e555f7bed56dec",
+      "src_simonwillison-blog_278e5597a06e8424",
       "src_luma-blog_c7449029956c34f9",
-      "src_simonwillison-blog_7f1dc373953e4677",
       "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_simonwillison-blog_06e555f7bed56dec",
       "src_simonwillison-blog_7b0aa98c6f3fad34",
-      "src_simonwillison-blog_3e5cbe11b91c3c94",
-      "src_reddit-stablediffusion_a8aacd71309ed301",
-      "src_lilianweng-blog_31a2c7baf9b791a5"
+      "src_lilianweng-blog_31a2c7baf9b791a5",
+      "src_reddit-comfyui_9fa17e9eaa1db6e5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 10 source item(s), 10 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-27",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-28",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
+      "src_simonwillison-blog_a286fc6d3e26a581",
+      "src_simonwillison-blog_813d3278f78a08f2",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_replit-blog_49899058ba32f8e5",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_replit-blog_49899058ba32f8e5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Replit Blog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-27",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-28",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-comfyui_e08be9f6e6d22cf7",
-      "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-stablediffusion_9af90c27fba3e8a1"
+      "src_reddit-stablediffusion_431b6d3c47ff9fe8",
+      "src_reddit-stablediffusion_5df19aef13f3e07a",
+      "src_reddit-comfyui_c896d25e322b21ed",
+      "src_reddit-comfyui_432cded1d8095ce3",
+      "src_comfyui-blog_fa3eb47ac5fb52c8"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_kling-ai_2026-05-27",
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-05-28",
     "category": "ai-video",
     "topic": "Kling AI",
     "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
+      "src_reddit-stablediffusion_833d94f5731e147f",
       "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-aivideo_a7a9a72758720ba6",
-      "src_reddit-aivideo_41638aa011d272eb"
+      "src_reddit-aivideo_a7a9a72758720ba6"
     ],
-    "articleWorthinessScore": 0.89,
-    "reasonSelected": "Score 0.89 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
+    "articleWorthinessScore": 0.94,
+    "reasonSelected": "Score 0.94 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, r/StableDiffusion, Pika Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_anima-base-1-0-with-custom-lora-is-goated_2026-05-27",
+    "clusterId": "cluster_ai-image_2_lightx2v-just-released-nvfp4-ckpt-for-wan-2-2-14b_2026-05-28",
     "category": "ai-image",
-    "topic": "Anima base 1.0 with custom lora is goated.",
+    "topic": "Lightx2v just released NVFP4 ckpt for WAN 2.2 14b",
     "sourceIds": [
-      "src_reddit-stablediffusion_fb6bc14733cdaa6d",
-      "src_reddit-stablediffusion_2359724f7520f4c8",
+      "src_reddit-stablediffusion_d3da2941401bd20c",
+      "src_reddit-stablediffusion_e6b564ef68eab275",
+      "src_reddit-comfyui_3b0b8993aad9dd02",
       "src_reddit-midjourney_91c5cf49176c170c",
       "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_stability-ai-blog_2026-05-27_fallback"
+      "src_stability-ai-blog_2026-05-28_fallback"
     ],
-    "articleWorthinessScore": 0.85,
-    "reasonSelected": "Score 0.85 from 6 source item(s), 5 live crawl(s), strongest sources: r/StableDiffusion, r/midjourney, r/MediaSynthesis.",
+    "articleWorthinessScore": 0.86,
+    "reasonSelected": "Score 0.86 from 7 source item(s), 6 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_why-does-everyone-think-ai-agents-are-easy_2026-05-27",
-    "category": "ai-agentic",
-    "topic": "Why Does Everyone Think AI Agents Are Easy?",
+    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-28",
+    "category": "ai-vibe-coding",
+    "topic": "What's New in Cursor — Latest Updates & Release Notes",
     "sourceIds": [
-      "src_reddit-aiagents_689752e9332414b6",
-      "src_reddit-aiagents_ae2f2768e3fb346c",
-      "src_reddit-comfyui_ffab59ec5ed90aa6",
-      "src_reddit-comfyui_810652dc2e566c8d",
-      "src_reddit-comfyui_40ec1bd55093f24c",
-      "src_reddit-aiagents_19d5b180945a489e",
-      "src_reddit-aiagents_079abcf0d1317db2",
-      "src_reddit-aiagents_c7605a4726e06ec4",
-      "src_openai-blog_2026-05-27_fallback",
-      "src_mcp-blog_2026-05-27_fallback"
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-comfyui_f0fcbff5cbf30b57",
+      "src_reddit-aivideo_c2734fb440643022",
+      "src_vercel-ai-blog_2026-05-28_fallback"
     ],
     "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 10 source item(s), 8 live crawl(s), strongest sources: r/AI_Agents, r/comfyui, OpenAI Blog.",
+    "reasonSelected": "Score 0.84 from 4 source item(s), 3 live crawl(s), strongest sources: Cursor Changelog, r/comfyui, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_nvidia-pid-based-img-upscaler-no-workflow-but-py_2026-05-27",
-    "category": "ai-vibe-coding",
-    "topic": "NVIDIA PiD-based img upscaler (no workflow but .py)",
+    "clusterId": "cluster_ai-agentic_2_obsidian-claude-is-the-perfect-local-memory-stack-whats-the-web-_2026-05-28",
+    "category": "ai-agentic",
+    "topic": "obsidian + claude is the perfect local memory stack whats the web-based equiv...",
     "sourceIds": [
-      "src_reddit-stablediffusion_84f3192c4188066a",
-      "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_vercel-ai-blog_2026-05-27_fallback"
+      "src_reddit-aiagents_8ce0ecd2f1ba7761",
+      "src_reddit-aiagents_3b27039e31d74767",
+      "src_reddit-aiagents_f56d1f4bdf5118d1",
+      "src_reddit-aiagents_7e0305e7a84c61f3",
+      "src_reddit-aiagents_079abcf0d1317db2",
+      "src_openai-blog_2026-05-28_fallback",
+      "src_mcp-blog_2026-05-28_fallback"
     ],
-    "articleWorthinessScore": 0.77,
-    "reasonSelected": "Score 0.77 from 3 source item(s), 2 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, Vercel AI Blog.",
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_i-spent-days-refining-this-epic-action-scene-is-it-still-clunky-_2026-05-27",
+    "clusterId": "cluster_ai-video_2_grand-theft-auto-every-era-of-human-history_2026-05-28",
     "category": "ai-video",
-    "topic": "I spent days refining this epic action scene Is it still clunky? - Girl Zombi...",
+    "topic": "Grand Theft Auto Every Era of Human History",
     "sourceIds": [
-      "src_reddit-aivideo_f73320ae8940f9f1",
-      "src_reddit-aivideo_8fc1c7481da5c0e7",
+      "src_reddit-aivideo_e508c78ccd82a3b6",
+      "src_reddit-aivideo_a52b9cd040fe1f25",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.68,
@@ -134,12 +134,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_dystopia_2026-05-27",
+    "clusterId": "cluster_prompt-image_1_the-lost-civilisation-138_2026-05-28",
     "category": "prompt-image",
-    "topic": "Dystopia",
+    "topic": "The Lost Civilisation #138",
     "sourceIds": [
-      "src_reddit-midjourney_cf29a59adb7287e1",
-      "src_reddit-midjourney_92110768c3fadf60"
+      "src_reddit-midjourney_2c260cbe4d923847",
+      "src_reddit-midjourney_f1f30064cab8de1b"
     ],
     "articleWorthinessScore": 0.61,
     "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
@@ -147,11 +147,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_machine-137_2026-05-27",
+    "clusterId": "cluster_prompt-image_2_spot_2026-05-28",
     "category": "prompt-image",
-    "topic": "Machine #137",
+    "topic": "Spot",
     "sourceIds": [
-      "src_reddit-midjourney_01c3905a54dea7ca"
+      "src_reddit-midjourney_fa282032aff03b62"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
@@ -159,7 +159,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-27",
+    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-28",
     "category": "prompt-video",
     "topic": "AI won the 2025 Commonwealth Short Story Prize competition",
     "sourceIds": [
@@ -172,16 +172,16 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_2_review-50-years-of-text-games-by-aaron-reed_2026-05-27",
+    "clusterId": "cluster_prompt-video_2_extensive-list-of-generative-tools-curated-by-eyal-gruss_2026-05-28",
     "category": "prompt-video",
-    "topic": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
+    "topic": "Extensive list of generative tools curated by Eyal Gruss",
     "sourceIds": [
-      "src_reddit-mediasynthesis_8dc8d246a27d02f6",
-      "src_reddit-mediasynthesis_334324f1d5231047"
+      "src_reddit-mediasynthesis_334324f1d5231047",
+      "src_reddit-mediasynthesis_8dc8d246a27d02f6"
     ],
-    "articleWorthinessScore": 0.46,
-    "reasonSelected": "Score 0.46 from 2 source item(s), 2 live crawl(s), strongest sources: r/MediaSynthesis.",
-    "confidence": "medium",
+    "articleWorthinessScore": 0.43,
+    "reasonSelected": "Score 0.43 from 2 source item(s), 2 live crawl(s), strongest sources: r/MediaSynthesis.",
+    "confidence": "low",
     "selectedForGeneration": true
   }
 ]

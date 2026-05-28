@@ -320,123 +320,123 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_the-pressure_2026-05-27_vi",
+    "id": "cluster_ai-agentic_1_langchain-blog_2026-05-28_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "The pressure: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/StableDiffusion, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "LangChain Blog: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "ai-agentic",
-      "cyber-security",
-      "open-source",
-      "ai-ethics",
-      "vibe-coding"
+      "langgraph",
+      "ai-security",
+      "observability",
+      "deep-agents"
     ],
-    "publishedAt": "2026-05-27T14:17:59.631Z",
-    "readingTime": 4,
-    "url": "/vi/ai-agentic/the-pressure-goc-nhin-cho-creator-va-builder-2026-05-27"
+    "publishedAt": "2026-05-28T14:27:30.083Z",
+    "readingTime": 5,
+    "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-05-28"
   },
   {
-    "id": "cluster_ai-agentic_1_the-pressure_2026-05-27_en",
+    "id": "cluster_ai-agentic_1_langchain-blog_2026-05-28_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "The pressure: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, r/StableDiffusion, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "title": "LangChain Blog: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agentic",
-      "cybersecurity",
-      "open-source",
-      "ai-ethics",
-      "llm-observability"
+      "ai-agents",
+      "observability",
+      "ai-security",
+      "langchain",
+      "llm-ops"
     ],
-    "publishedAt": "2026-05-27T14:20:14.100Z",
+    "publishedAt": "2026-05-28T14:28:03.688Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/the-pressure-creator-and-builder-analysis-2026-05-27"
+    "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-05-28"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-27_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-28_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "software-engineering",
-      "anthropic",
-      "replit",
-      "cursor"
+      "Vibe-Coding",
+      "Agentic-AI",
+      "LLM-Pricing",
+      "Anthropic",
+      "Software-Engineering"
     ],
-    "publishedAt": "2026-05-27T14:17:16.866Z",
-    "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-27"
+    "publishedAt": "2026-05-28T14:26:58.959Z",
+    "readingTime": 5,
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-28"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-27_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-28_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Replit Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
       "ai-agents",
-      "software-engineering",
+      "llm-economics",
       "anthropic",
-      "replit",
-      "cursor"
+      "enterprise-ai"
     ],
-    "publishedAt": "2026-05-27T14:18:15.292Z",
+    "publishedAt": "2026-05-28T14:28:06.845Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-27"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-28"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-27_vi",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-28_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI Video",
-      "Runway AI",
-      "FLUX",
-      "ComfyUI",
-      "Generative Design",
-      "World Models"
+      "AI-Video",
+      "RunwayAI",
+      "Flux",
+      "LoRA",
+      "WorldModels",
+      "VisualEngineering",
+      "ThreeJS"
     ],
-    "publishedAt": "2026-05-27T14:18:08.224Z",
-    "readingTime": 5,
-    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-27"
+    "publishedAt": "2026-05-28T14:27:18.926Z",
+    "readingTime": 4,
+    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-28"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-27_en",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-28_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "World-Models",
-      "ComfyUI",
+      "AI Video",
+      "Runway AI",
       "FLUX",
-      "Generative-AI"
+      "Visual Engineering",
+      "LoRA Training",
+      "3D Simulation"
     ],
-    "publishedAt": "2026-05-27T14:19:03.124Z",
+    "publishedAt": "2026-05-28T14:28:28.585Z",
     "readingTime": 4,
-    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-27"
+    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-28"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-27_vi",
+    "id": "cluster_ai-video_1_kling-ai_2026-05-28_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "Kling AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "Kling AI",
       "AI Video",
@@ -444,99 +444,97 @@
       "Generative AI",
       "Content Creation"
     ],
-    "publishedAt": "2026-05-27T14:17:55.958Z",
-    "readingTime": 5,
-    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-27"
+    "publishedAt": "2026-05-28T14:26:57.409Z",
+    "readingTime": 4,
+    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-28"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-27_en",
+    "id": "cluster_ai-video_1_kling-ai_2026-05-28_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "Kling AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
+      "Kling AI",
+      "AI Video",
+      "Native 4K",
+      "Generative AI",
+      "Digital Production"
+    ],
+    "publishedAt": "2026-05-28T14:27:40.182Z",
+    "readingTime": 3,
+    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-28"
+  },
+  {
+    "id": "cluster_ai-image_2_lightx2v-just-released-nvfp4-ckpt-for-wan-2-2-14b_2026-05-28_vi",
+    "lang": "vi",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "Lightx2v just released NVFP4 ckpt for WAN 2.2 14b: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "Wan2.2",
+      "NVFP4",
       "AI-Video",
-      "KlingAI",
-      "GenerativeAI",
-      "4K-Production",
-      "CreativeTech"
+      "Optimization",
+      "ComfyUI"
     ],
-    "publishedAt": "2026-05-27T14:18:20.636Z",
+    "publishedAt": "2026-05-28T14:27:09.314Z",
     "readingTime": 4,
-    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-27"
+    "url": "/vi/ai-image/lightx2v-just-released-nvfp4-ckpt-for-wan-2-2-14b-goc-nhin-2026-05-28"
   },
   {
-    "id": "cluster_ai-image_2_anima-base-1-0-with-custom-lora-is-goated_2026-05-27_vi",
-    "lang": "vi",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "Anima base 1.0 with custom lora is goated.: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "Anima-Base-1.0",
-      "LoRA-Training",
-      "AI-Anime",
-      "StableDiffusion",
-      "Generative-AI"
-    ],
-    "publishedAt": "2026-05-27T14:17:41.958Z",
-    "readingTime": 4,
-    "url": "/vi/ai-image/anima-base-1-0-with-custom-lora-is-goated-goc-nhin-cho-cre-2026-05-27"
-  },
-  {
-    "id": "cluster_ai-image_2_anima-base-1-0-with-custom-lora-is-goated_2026-05-27_en",
+    "id": "cluster_ai-image_2_lightx2v-just-released-nvfp4-ckpt-for-wan-2-2-14b_2026-05-28_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "Anima base 1.0 with custom lora is goated.: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "title": "Lightx2v just released NVFP4 ckpt for WAN 2.2 14b: creator and builder analysis",
+    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Image",
-      "Anima-Base",
-      "LoRA",
-      "StableDiffusion",
-      "Anime-AI",
-      "Midjourney-V8"
+      "Wan 2.2",
+      "Quantization",
+      "AI Video",
+      "ComfyUI",
+      "Inference Optimization"
     ],
-    "publishedAt": "2026-05-27T14:18:38.081Z",
+    "publishedAt": "2026-05-28T14:28:07.910Z",
     "readingTime": 4,
-    "url": "/en/ai-image/anima-base-1-0-with-custom-lora-is-goated-creator-and-buil-2026-05-27"
+    "url": "/en/ai-image/lightx2v-just-released-nvfp4-ckpt-for-wan-2-2-14b-creator-a-2026-05-28"
   },
   {
-    "id": "cluster_ai-agentic_2_why-does-everyone-think-ai-agents-are-easy_2026-05-27_vi",
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-28_vi",
     "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "Why Does Everyone Think AI Agents Are Easy?: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, r/aivideo, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "cursor-ai",
+      "vibe-coding",
       "ai-agents",
-      "automation",
-      "llm-ops",
-      "no-code",
-      "software-architecture"
+      "developer-experience",
+      "collaboration"
     ],
-    "publishedAt": "2026-05-27T14:17:24.502Z",
-    "readingTime": 5,
-    "url": "/vi/ai-agentic/why-does-everyone-think-ai-agents-are-easy-goc-nhin-cho-cr-2026-05-27"
+    "publishedAt": "2026-05-28T14:26:59.871Z",
+    "readingTime": 4,
+    "url": "/vi/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-05-28"
   },
   {
-    "id": "cluster_ai-agentic_2_why-does-everyone-think-ai-agents-are-easy_2026-05-27_en",
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-28_en",
     "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "Why Does Everyone Think AI Agents Are Easy?: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, scored by recency, content depth, and source reliability.",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/comfyui, r/aivideo, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
-      "automation",
-      "software-architecture",
-      "llm-reliability",
-      "low-code"
+      "ai-vibe-coding",
+      "cursor-ai",
+      "agentic-workflows",
+      "collaborative-dev"
     ],
-    "publishedAt": "2026-05-27T14:18:57.741Z",
+    "publishedAt": "2026-05-28T14:27:30.120Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/why-does-everyone-think-ai-agents-are-easy-creator-and-bui-2026-05-27"
+    "url": "/en/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-05-28"
   }
 ]
