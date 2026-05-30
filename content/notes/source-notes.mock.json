@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-30T00:07:27.077Z",
+    "publishedAt": "2026-05-30T11:59:48.372Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Newsletter Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Partner Deep Agents LangSmith EU macroeconomic analysis with Deep Agents, LangSmith, and the You.com Finance Research API Srimanth Tangedipalli Karan Singh Saurabh Sharma Akhil Pothana May 20, 2026 18 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min LangSmith Agent Architecture Deep Agents Tutorials & How-Tos How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min 1 ...",
+      "Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Partner Deep Agents LangSmith EU macroeconomic analysis with Deep Agents, LangSmith, and the You.com Finance Research API Srimanth Tangedipalli Karan Singh Saurabh Sharma Akhil Pothana May 20, 2026 18 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min LangSmith Agent Architecture Deep Agents Tutorials & How-Tos How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min 1 ...",
       "1 / 27 We couldn't find anything matching that."
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-30T00:07:32.101Z",
+    "publishedAt": "2026-05-30T11:59:51.054Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-30T00:07:26.468Z",
+    "publishedAt": "2026-05-30T11:59:47.424Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-30T00:07:26.932Z",
+    "publishedAt": "2026-05-30T11:59:47.848Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_0b922bdbed0631fa",
+    "sourceId": "src_reddit-aiagents_7ad5d435e7e092b1",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tr8r8d/whats_the_best_cloud_agent_right_now_for_actual/",
-    "title": "What’s the best Cloud Agent right now for actual daily workflows?",
-    "publishedAt": "2026-05-29T17:16:24.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1trunaj/ai_agent_marketplace/",
+    "title": "AI Agent marketplace",
+    "publishedAt": "2026-05-30T08:57:35.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’ve been trying different cloud agents lately and honestly most of them feel amazing in demos but unreliable once you throw real workflows at them.",
-      "Some are decent for quick coding tasks, others are better for research or automation, but I still haven’t found one that consistently feels production-ready.",
-      "Curious what everyone here is actually using day to day.",
-      "Mainly looking for something that: handles long tasks well keeps context properly doesn’t completely hallucinate halfway through a workflow and can work asynchronously without constant babysitting."
+      "Who is bilding AI Agent marketplace here?",
+      "Because I see all marketplaces are similar so how do builder make themselves unique from another marketplace?",
+      "And which is most trusted / used marketplace?",
+      "Because I believe we don't want big companies like open AI, Google etc to dominate atleast this space it should be more of indie projects :) just a rant submitted by /u/Sure-Economist-5581 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I’ve been trying different cloud agents lately and honestly most of them feel amazing in demos but unreliable once you throw real workflows at them. Some are decent for quick coding tasks, others are better for research or automation, but I still haven’t found one that consistently feels production-ready. Curious what everyone here is actually using day to day. Mainly looking for something that: handles long tasks well keeps context properly doesn’t completely hallucinate halfway through a workflow and can work asynchronously without constant babysitting. submitted by /u/Interesting_Put9143 [link] [comments]",
+        "text": "Who is bilding AI Agent marketplace here? Because I see all marketplaces are similar so how do builder make themselves unique from another marketplace? And which is most trusted / used marketplace? Because I believe we don't want big companies like open AI, Google etc to dominate atleast this space it should be more of indie projects :) just a rant submitted by /u/Sure-Economist-5581 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tr8r8d/whats_the_best_cloud_agent_right_now_for_actual/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1trunaj/ai_agent_marketplace/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6001645f44c7c764",
+    "sourceId": "src_reddit-aiagents_e2cc7459153b1d5e",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1trdswh/ai_agents_can_now_form_companies_and_open_bank/",
-    "title": "AI agents can now form companies and open bank accounts. Is anyone here talking about this",
-    "publishedAt": "2026-05-29T19:58:37.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1trtgl5/are_ai_coding_tools_making_developers_better_or/",
+    "title": "Are AI coding tools making developers better, or just making bad judgment faster?",
+    "publishedAt": "2026-05-30T07:49:21.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Saw a Polymarket post about an AI startup that lets agents form companies get EINs and open bank accounts from a single prompt.",
-      "Had like 200K+ views so I looked into it more Apparently you can now use Claude to form an LLC and open a business bank account in one conversation without leaving the chat.",
-      "The banking side connects through MCP to a fintech called Meow I work with AI agents daily and this still made me even more interested on it.",
-      "Agents writing code and handling support tickets made sense to me but forming legal entities and opening real bank accounts is a different category."
+      "I've been thinking about this a lot lately, maybe way too much.",
+      "AI coding tools are getting powerful really fast.",
+      "Claude Code, Codex, Cursor, Copilot, all of this, and now Anthropic just launched Opus 4.8 with Dynamic Workflows, where the direction is not just \"autocomplete my function\" anymore.",
+      "It is more like codebase-level migrations, subagents, big workflows, from kickoff to merge."
     ],
     "claims": [
       {
-        "text": "Saw a Polymarket post about an AI startup that lets agents form companies get EINs and open bank accounts from a single prompt. Had like 200K+ views so I looked into it more Apparently you can now use Claude to form an LLC and open a business bank account in one conversation without leaving the chat. The banking side connects through MCP to a fintech called Meow I work with AI agents daily and this still made me even more interested on it. Agents writing code and handling support tickets made sense to me but forming legal entities and opening real bank accounts is a different category. I spent 3 weeks last year setting up my own LLC and dealing with the banking side and an agent can do it in one sitting now The part that got me thinking is spinning up a new business for every agent or every project vibe code an app have the agent form the company and set up a bank account for it. No more running side projects through your personal checking account like I did for way too long. Are we close to fully autonomous business creation or is this still a guided workflow with a human approving steps submitted by /u/Free-Cucumber903 [link] [comments]",
+        "text": "I've been thinking about this a lot lately, maybe way too much. AI coding tools are getting powerful really fast. Claude Code, Codex, Cursor, Copilot, all of this, and now Anthropic just launched Opus 4.8 with Dynamic Workflows, where the direction is not just \"autocomplete my function\" anymore. It is more like codebase-level migrations, subagents, big workflows, from kickoff to merge. At the same time, Microsoft is reportedly pushing engineers away from Claude Code toward Copilot after budget issues, and Fortune reported Uber burned through its 2026 AI coding tools budget in four months . Uber's COO also basically questioned whether more AI tool usage is clearly turning into more useful product output. That part really stuck with me. Because maybe the issue is not only \"are the tools good enough?\" Maybe the harder question is: are we good enough at using them? Imagine having a junior dev who writes code insanely fast, never gets tired, and always sounds confident. But if your instructions are fuzzy, or you can't properly review what they built, they ship stuff that looks good but breaks in production . That's AI right now. It doesn't replace your judgment. It multiplies whatever judgment you bring — and then it feels productive. I keep coming back to this line from a senior dev I respect: AI coding is a mirror, not a ladder. It reflects your thinking. Your context. Your taste. Your ability to review. Your ability to say \"no, this is wrong\" when the output looks clean but the design is bad. Prompting alone is not intelligence. Vibe coding is not engineering. And maybe reviewing AI output is becoming as important as writing the first version manually. Maybe even more important in some cases. Unlimited tokens can honestly make you lazy if you stop thinking and just keep asking the model to fix whatever the previous model broke. And I'm not saying this like I'm above it. I do this too. Sometimes when tokens are limited, I suddenly become smarter because I'm forced to explain better. When tokens feel unlimited, I can get sloppy. We had proof systems before. We don't have one for this. Before the AI era, we had some rough but functional proof systems: GitHub showed you could build real things LeetCode showed DSA ability Kaggle showed ML chops Open source contributions showed consistency and collaboration Designers have portfolios But what will prove AI-native engineering judgment ? Not this: \"I used 7 agents on my laptop\" screenshots on Twitter A random 24-hour hackathon demo Just shipping a lot of code \"I built an entire app in a weekend using AI\" If hiring shifts toward \"show me how you work with AI,\" then what do we actually show? A PR? Prompt logs? A decision memo? A walkthrough of where the AI was wrong and how you corrected it? Tests proving the output was validated properly? Honestly, I don't know. And it feels like nobody really knows how to measure good human + AI collaboration yet. That feels weird, because the tools are improving faster than most people are adapting. It may be that a very small group of good engineers are becoming AI orchestrators not just people who write code manually, but people who guide systems , give context, review output, catch hallucinations, and make judgment calls. That's a very different skill than just typing fast. And I'm not sure we're teaching it, measuring it, or honestly even talking about it enough. I'm actually curious what you think Are you learning how to work with AI properly , or mostly just using it when stuck? And if tomorrow an interviewer asked you: \"Show me proof that you can use AI well as an engineer\" what would you even show? Are we actually ready for this? PS: Please comment whatever thoughts you have on this. It would honestly help me stop overthinking about it and thank you for reading :) submitted by /u/Known_Ad8309 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1trdswh/ai_agents_can_now_form_companies_and_open_bank/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1trtgl5/are_ai_coding_tools_making_developers_better_or/"
       }
     ],
     "usableFor": [
@@ -225,33 +225,33 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_190176af5e16d0b8",
+    "sourceId": "src_reddit-aiagents_8b426c4c4d89ac2a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tqvsds/after_a_month_on_karpathys_llm_wiki_the/",
-    "title": "After a month on Karpathy's LLM Wiki, the bottleneck isn't setup. It's maintenance",
-    "publishedAt": "2026-05-29T08:50:18.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1trxjpf/we_wrote_an_opensource_interactive_playbook_for/",
+    "title": "We wrote an open-source interactive playbook for Agentic DevOps (How to move multi-agent systems from local notebooks to production).",
+    "publishedAt": "2026-05-30T11:36:23.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I think I was one of the first few people who immediately read that Andrej Karpathy tweet, and it just clicked.",
-      "Dump your sources into a folder, let an AI read them all and build a wiki on top, then ask the wiki questions instead of digging through the original docs.",
-      "I spent the last month actually building it.",
-      "Here's what I learned, in the order I learned it."
+      "Hey everyone, If you’ve built a multi-agent system, you already know the painful truth: wiring nodes together locally is fun, but deploying them is an absolute infrastructure nightmare.",
+      "When a standard app fails, it throws a 500 error.",
+      "When an autonomous swarm fails, it can get stuck in a ReAct loop, hallucinate an answer, and quietly burn through your API budget without triggering a single traditional alert.",
+      "Standard DevOps practices don't natively map to stochastic AI outputs."
     ],
     "claims": [
       {
-        "text": "I think I was one of the first few people who immediately read that Andrej Karpathy tweet, and it just clicked. Dump your sources into a folder, let an AI read them all and build a wiki on top, then ask the wiki questions instead of digging through the original docs. Once you see it, you can't unsee it. I spent the last month actually building it. Here's what I learned, in the order I learned it. Week 1: Setting it up is the easy part A weekend was enough to get a basic version working With Claude and Obsidian combo. I fed it about 80 articles and PDFs, and by Sunday night I had a working wiki that summarized everything and linked related ideas together. It genuinely felt like magic. I told two friends Karpathy had cracked something fundamental. Week 2: The first cracks Getting clean text out of messy sources is a nightmare. Scanned PDFs come out as gibberish. Some websites won't load properly when a program tries to read them. Tables turn into garbage. Footnotes get jumbled into the main text. Every new type of source was a new evening of frustration. Week 3: The real problem shows up I added 50 new articles in one batch and realized the wiki had no idea they existed. To actually fold them in, the AI had to re-read and re-organize everything from scratch, which took 40 minutes and cost real money in API fees. Then I noticed three of my older summaries were quoting an article that had been updated weeks ago. The wiki was confidently telling me things from a version of the source that no longer existed. This is when it hit me. Karpathy's method assumes your sources sit still. Real research doesn't work that way. Articles get updated. Posts get deleted. You add new stuff in batches. A wiki built on a snapshot starts going stale the moment you finish building it. The maintenance problems I kept hitting: Stale summaries. A source gets updated and your summary is silently wrong. Nothing tells you. No way to know what changed. Even when I knew a source had been edited, I had no way to tell if the edit mattered enough to re-summarize. Adding new stuff means redoing everything. There's no clean way to just slot in new sources without rebuilding the whole wiki. Deleting is worse than updating. Remove a source and the wiki still references it like a ghost. The same website starts parsing differently after a redesign. You don't notice until a summary comes out broken. None of this is about prompts. None of it is about which AI model you use. It's all about keeping the underlying pile of sources fresh and clean, and that's the part nobody talks about. Week 4: Giving up and trying the no-code options This feels like defeat. I don't know if I'm the only one out there. Here are some low-code options I'm looking at. Maybe I just missed something, and I need to go back to the drawing board. If I did, please can you offer some guidance below? Trust me, I've watched almost all of the tutorials and gone through all the red threads on it, but maybe it's just me. I'm now shopping around for no-code solutions of Karpathy's LLM wiki. This is what I'm considering. Has anyone else tried these and have a successful flow? Claude with Notion: This isnt no code but it's just an alternative to Obsidian that I actually find is quite clever. I find the right MCP to be pretty smooth, and I quite like that I can create tasks and reminders versus only knowledge management. It's not exactly the same workflow, but it's a slightly tweaked version that I actually think is pretty cool. The downside is that Notion doesn't handle YouTube videos and PDFs as well. Mymind: I'm super excited about this one, but I'm not quite ready to do it. The website is beautiful, and I feel very peaceful in it, but I'm not too sure if this is a lifelong second brain or a peaceful Pinterest of knowledge. Has anybody used this? Please let me know. Recall: an AI knowledge base is the closest thing to what Karpathy is actually describing. It looks like you can add pretty much any online content: YouTube videos, podcasts, PDFs and it reads, summarizes, tags, and connects everything automatically. The catch is it's cloud-based. What I actually want to know Has anyone built their own version of this that doesn't go stale? I couldn't crack it and I'd love to be wrong. For people still running Karpathy's setup with a lot of sources, how are you dealing with summaries that go out of date when articles get edited? Is there a tool I missed that treats keeping sources fresh as the main job rather than an afterthought? submitted by /u/Sai_Abhinav [link] [comments]",
+        "text": "Hey everyone, If you’ve built a multi-agent system, you already know the painful truth: wiring nodes together locally is fun, but deploying them is an absolute infrastructure nightmare. When a standard app fails, it throws a 500 error. When an autonomous swarm fails, it can get stuck in a ReAct loop, hallucinate an answer, and quietly burn through your API budget without triggering a single traditional alert. Standard DevOps practices don't natively map to stochastic AI outputs. We just published a massive, no-fluff playbook on the AgentSwarms blog detailing exactly how to build an Agentic DevOps pipeline using entirely open-source tooling. Here is what we cover in the playbook: Observability & Tracing: Why standard logging fails, and how to implement open-source tracing to capture the state, prompt, token count, and latency at every single node handoff. Test-Driven Prompt Evals (CI/CD): You can't just change a system prompt based on \"vibes\" and push it to main. We break down how to run matrix evaluations against historical user inputs before deployment to catch regressions instantly. Deterministic Guardrails: How to implement middleware that scrubs PII and blocks destructive code execution before the LLM even sees the state. Cost Control & Routing: How to prevent vendor lock-in and implement dynamic routing to keep token economics from destroying your cloud budget. If you are currently wrestling with the deployment phase of your AI projects, I highly recommend giving this a read. It focuses entirely on open-source solutions so you don't have to sign a massive enterprise contract just to get visibility into your swarms. Would love to hear what open-source tools you guys are currently slotting into your LLMOps pipelines! submitted by /u/Outside-Risk-8912 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tqvsds/after_a_month_on_karpathys_llm_wiki_the/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1trxjpf/we_wrote_an_opensource_interactive_playbook_for/"
       }
     ],
     "usableFor": [
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_stability-ai-blog_2026-05-30_fallback",
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-30T00:07:26.634Z",
+    "publishedAt": "2026-05-30T11:59:47.621Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-30T00:07:27.144Z",
+    "publishedAt": "2026-05-30T11:59:48.614Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-30T00:07:26.604Z",
+    "publishedAt": "2026-05-30T11:59:47.767Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,6 +340,35 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_reddit-stablediffusion_09aef44dd0c244ab",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1trw160/anima_ip_adapter_is_comming/",
+    "title": "Anima Ip Adapter is comming.",
+    "publishedAt": "2026-05-30T10:16:16.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "It seems someone is working on IP Adapter for Anima.",
+      "If it is good it could finally make sd 1.5 obsolete.",
+      "https://github.com/Wenaka2004/comfyui-anima-ipadapter submitted by /u/Unhappy_Pudding_1547 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "It seems someone is working on IP Adapter for Anima. If it is good it could finally make sd 1.5 obsolete. https://github.com/Wenaka2004/comfyui-anima-ipadapter submitted by /u/Unhappy_Pudding_1547 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1trw160/anima_ip_adapter_is_comming/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-stablediffusion_dafd282be91224f8",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
@@ -361,6 +390,33 @@
         "text": "Page: https://ernie-research.github.io/NAVA/ Model: https://huggingface.co/ernie-research/NAVA Github: https://github.com/ernie-research/NAVA NAVA is a 6.3 B-parameter joint audio-video generator that synthesizes synchronized video and audio from a single prompt — including multi-speaker speech with reference-timbre control and image-conditioned continuations. Instead of post-hoc-aligned dual towers or fully unified tri-modal stacks, NAVA uses an Align-then-Fuse MMDiT : a dedicated alignment space first establishes audio-video correspondence, then context (text, speaker embeddings) is fused via cross-attention. On Verse-Bench it sets new SOTA on Sync-C / Sync-D / video quality / audio WER while using 2× to 5× fewer parameters than open-source baselines. submitted by /u/AgeNo5351 [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1trb93v/nava_a_63b_audiovideo_model/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_6646cc44ebeda2f5",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1trkyr0/ltx_23_character_dialogue/",
+    "title": "LTX 2.3 Character Dialogue",
+    "publishedAt": "2026-05-30T00:43:45.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "submitted by /u/hidden2u [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/hidden2u [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1trkyr0/ltx_23_character_dialogue/"
       }
     ],
     "usableFor": [
@@ -399,87 +455,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_b764099222ca1683",
+    "sourceId": "src_reddit-stablediffusion_b98db0a507cae015",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tqz5y0/i_found_it_real_easy_to_make_your_own_character/",
-    "title": "I Found it Real Easy to Make Your Own Character Lora Locally from Scratch.",
-    "publishedAt": "2026-05-29T11:39:40.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1trqncp/anima6steps_modle/",
+    "title": "Anima-6steps modle",
+    "publishedAt": "2026-05-30T05:17:10.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Edit: OK, it is a real humbling experience posting here so here's what I gathered from all the helpful comments: It is NOT that easy and I did a terrible job here.",
-      "Use larger datasets between 50-200 and diversify the input resolution ratio to improve output variety.",
-      "Keep skin defects consistancy in dataset is crucial because people will be looking for those.",
-      "Try to avoid Asian woman because It's gonna be too generic unless they have some comical face features."
+      "https://civitai.com/models/2637029/unstableanimav1-12step?modelVersionId=2988995 anima-base-1 + some of my loras + official anima-turbo-lora-v0.2 test in forge-neo ER SDE BETA step=4-16 prefer 6 CFG=1-4 prefer 1.25 offset=3-12 prefer 8 The advantage of this version which is using the official Turbo Lora is that it's very fast; a 5070TI can be generated in less than 5 seconds in 6 steps, which is quite sensitive to prompts.",
+      "The problem is that because it's generated so quickly, it's not sensitive to seed changes, and the output is almost the same with same prompt.",
+      "A simple test {1girl tanktop sitting} that the basic structure is already established by step 3; by step 4-6, details are simply being added; if more than 10 steps are taken, the structure will change but not much https://preview.redd.it/on97cjnxh74h1.jpg?width=2688&format=pjpg&auto=webp&s=7571b3d67fc8a20df31377398564ec1c07187f9b and well function with loras https://preview.redd.it/1cx4ntvsk74h1.png?width=896&format=png&auto=webp&s=38079f372fe3bd24b9a329ed61433d2d017615d8 https://preview.redd.it/eysilx7xk74h1.png?width=896&format=png&auto=webp&s=a4fcf6e5bf818af48b5973cca6a2253d5dd195bd https://preview.redd.it/lq3hcjmyk74h1.png?width=896&format=png&auto=webp&s=05de4a579a1ddb926c105a2013422864896becc3 https://preview.redd.it/39cuv7a0l74h1.png?width=896&format=png&auto=webp&s=40162b010b297237cde0a1e4b43caffbd7ca96cb https://preview.redd.it/ijmowxw2l74h1.png?width=896&format=png&auto=webp&s=08236bbbe2457340bd4c8e48adb47db4195f3a72 https://preview.redd.it/z0dos8l8l74h1.png?width=896&format=png&auto=webp&s=9cf57e75d2f3c645e3ac14118f6c8fd08a0b0787 https://preview.redd.it/35wo2cf9l74h1.png?width=896&format=png&auto=webp&s=bac27c6796bc3e445ee6f4a850fd6f75e3f5f0e4 https://preview.redd.it/j13567fbl74h1.png?width=1152&format=png&auto=webp&s=a76b23b0f2ab4bc40693ec2cf12d8224b30bd4f9 https://preview.redd.it/z09k3oncl74h1.png?width=1152&format=png&auto=webp&s=221badfb10c3bff294e20a6d6d3a5657a35197db submitted by /u/mayasoo2020 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Edit: OK, it is a real humbling experience posting here so here's what I gathered from all the helpful comments: It is NOT that easy and I did a terrible job here. Use larger datasets between 50-200 and diversify the input resolution ratio to improve output variety. Keep skin defects consistancy in dataset is crucial because people will be looking for those. Try to avoid Asian woman because It's gonna be too generic unless they have some comical face features. Fully synthetic faces are bad. Expect more people to just bashing on you instead of giving helpful advices. Original post: I woundn't call it a guide but here's how I do it. Make a image of a face that you like, you can ask any LLM to help you with the prompt about detailed face features. I used Z-image to make the face. Than use the BFS (Best Face Swap) Lora together with Flux2Klein model to make your data set. Once you have a good data set, i think 20 is more than enough. feed it to your favorite lora tool to make the character lora. For me ai-toolkit by ostris works perfectly. submitted by /u/HolyDancingPotato [link] [comments]",
+        "text": "https://civitai.com/models/2637029/unstableanimav1-12step?modelVersionId=2988995 anima-base-1 + some of my loras + official anima-turbo-lora-v0.2 test in forge-neo ER SDE BETA step=4-16 prefer 6 CFG=1-4 prefer 1.25 offset=3-12 prefer 8 The advantage of this version which is using the official Turbo Lora is that it's very fast; a 5070TI can be generated in less than 5 seconds in 6 steps, which is quite sensitive to prompts. The problem is that because it's generated so quickly, it's not sensitive to seed changes, and the output is almost the same with same prompt. A simple test {1girl tanktop sitting} that the basic structure is already established by step 3; by step 4-6, details are simply being added; if more than 10 steps are taken, the structure will change but not much https://preview.redd.it/on97cjnxh74h1.jpg?width=2688&format=pjpg&auto=webp&s=7571b3d67fc8a20df31377398564ec1c07187f9b and well function with loras https://preview.redd.it/1cx4ntvsk74h1.png?width=896&format=png&auto=webp&s=38079f372fe3bd24b9a329ed61433d2d017615d8 https://preview.redd.it/eysilx7xk74h1.png?width=896&format=png&auto=webp&s=a4fcf6e5bf818af48b5973cca6a2253d5dd195bd https://preview.redd.it/lq3hcjmyk74h1.png?width=896&format=png&auto=webp&s=05de4a579a1ddb926c105a2013422864896becc3 https://preview.redd.it/39cuv7a0l74h1.png?width=896&format=png&auto=webp&s=40162b010b297237cde0a1e4b43caffbd7ca96cb https://preview.redd.it/ijmowxw2l74h1.png?width=896&format=png&auto=webp&s=08236bbbe2457340bd4c8e48adb47db4195f3a72 https://preview.redd.it/z0dos8l8l74h1.png?width=896&format=png&auto=webp&s=9cf57e75d2f3c645e3ac14118f6c8fd08a0b0787 https://preview.redd.it/35wo2cf9l74h1.png?width=896&format=png&auto=webp&s=bac27c6796bc3e445ee6f4a850fd6f75e3f5f0e4 https://preview.redd.it/j13567fbl74h1.png?width=1152&format=png&auto=webp&s=a76b23b0f2ab4bc40693ec2cf12d8224b30bd4f9 https://preview.redd.it/z09k3oncl74h1.png?width=1152&format=png&auto=webp&s=221badfb10c3bff294e20a6d6d3a5657a35197db submitted by /u/mayasoo2020 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tqz5y0/i_found_it_real_easy_to_make_your_own_character/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_9d089367cffe7945",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tray25/colored_noise_diffusion_sampling_plugandplay/",
-    "title": "Colored Noise Diffusion Sampling - plug-and-play, inference-time sampler.",
-    "publishedAt": "2026-05-29T18:26:11.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Project: https://hadardavidson.github.io/CNS/ Paper: https://arxiv.org/pdf/2605.30332 Github: https://github.com/hadardavidson/colored-noise-sampling Diffusion models generate images with a spectral bias : low-frequency global structure is resolved early in the sampling trajectory, while high-frequency detail emerges only at the very end.",
-      "Standard SDE solvers ignore this dynamic entirely — they inject uniform white noise at every step, wasting the finite stochastic energy budget on frequency bands that are already structurally resolved.",
-      "CNS reconsiders SDE inference as a targeted energy transfer .",
-      "At each step, it measures how \"built\" each frequency band is via a precomputed progress index γ(f, t) ∈ [0, 1], and dynamically routes injected noise energy toward the bands with the largest remaining structural deficit."
-    ],
-    "claims": [
-      {
-        "text": "Project: https://hadardavidson.github.io/CNS/ Paper: https://arxiv.org/pdf/2605.30332 Github: https://github.com/hadardavidson/colored-noise-sampling Diffusion models generate images with a spectral bias : low-frequency global structure is resolved early in the sampling trajectory, while high-frequency detail emerges only at the very end. Standard SDE solvers ignore this dynamic entirely — they inject uniform white noise at every step, wasting the finite stochastic energy budget on frequency bands that are already structurally resolved. CNS reconsiders SDE inference as a targeted energy transfer . At each step, it measures how \"built\" each frequency band is via a precomputed progress index γ(f, t) ∈ [0, 1], and dynamically routes injected noise energy toward the bands with the largest remaining structural deficit. A strict global variance-conservation constraint (mean β² = 1) ensures the modified SDE still converges to the target data distribution. The result is a strictly plug-and-play sampler substitution — same model, same number of steps, only the noise injection change submitted by /u/AgeNo5351 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tray25/colored_noise_diffusion_sampling_plugandplay/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_225cf205103e1168",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tr9539/italy_in_the_1980s_zimage_turbo_wan_22/",
-    "title": "Italy in the 1980s (Z-Image Turbo - Wan 2.2)",
-    "publishedAt": "2026-05-29T17:28:51.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "This was just a test I did a couple of weeks ago.",
-      "It's not the kind of video I usually make.",
-      "It doesn't have a story, just a context (Italy in the 1980s).",
-      "Since the final result isn't that bad in my opinion, I decided to share it."
-    ],
-    "claims": [
-      {
-        "text": "This was just a test I did a couple of weeks ago. It's not the kind of video I usually make. It doesn't have a story, just a context (Italy in the 1980s). Since the final result isn't that bad in my opinion, I decided to share it. I hope you like it. Workflows: https://drive.google.com/file/d/1GC6mClujD5vggyIHi6cnT_vuE9fRmwGg/view?usp=sharing My previous videos: https://www.reddit.com/user/MayaProphecy/submitted/ submitted by /u/MayaProphecy [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tr9539/italy_in_the_1980s_zimage_turbo_wan_22/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1trqncp/anima6steps_modle/"
       }
     ],
     "usableFor": [
@@ -519,6 +514,95 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-comfyui_0c54ed829094fbc5",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1trvory/search_edit_store_the_usefulness_of_databases_in/",
+    "title": "Search, edit, store: the usefulness of databases in ComfyUI",
+    "publishedAt": "2026-05-30T09:57:10.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "I've been working on adapting a few workflows to work with PixlStash my image management database system, so you can either load pictures based on project, character or picture set or search for pictures semantically or by face or picture likeness.",
+      "I think this demonstrates some things that are difficult to do without a database backend and I am spending a lot of time trying to make PixlStash useful for people who make a lot of images.",
+      "It should be entirely possible to combine many different concepts and build up data sets that match all of them.",
+      "I'd love for people to have a look at the PixlStash API to see what they could put together themselves, but I'm still gonna put out a few more nodes and workflows."
+    ],
+    "claims": [
+      {
+        "text": "I've been working on adapting a few workflows to work with PixlStash my image management database system, so you can either load pictures based on project, character or picture set or search for pictures semantically or by face or picture likeness. I think this demonstrates some things that are difficult to do without a database backend and I am spending a lot of time trying to make PixlStash useful for people who make a lot of images. It should be entirely possible to combine many different concepts and build up data sets that match all of them. I'd love for people to have a look at the PixlStash API to see what they could put together themselves, but I'm still gonna put out a few more nodes and workflows. The workflows themselves have been adapted from the standard Flux2-Klein Image Edit or Z-Image Turbo workflows and can be found on the ComfyUI-PixlStash GitHub submitted by /u/Infamous_Campaign687 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1trvory/search_edit_store_the_usefulness_of_databases_in/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-comfyui_ddc6fdfab9382ae9",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1trqqtz/comfyui_much_slower_lately_no_node_caching_for/",
+    "title": "ComfyUI much slower lately? (no node caching for some reason)",
+    "publishedAt": "2026-05-30T05:22:14.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "I use flux 2 klein a 3090 and I noticed when I run a workflow again with no inputs changed (prompt, image, mask, etc.) but with a different, it now takes ~30 seconds instead of ~6 seconds.",
+      "It's rerunning nodes that would've been cached before this slowdown first appeared.",
+      "submitted by /u/TheTwelveYearOld [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "I use flux 2 klein a 3090 and I noticed when I run a workflow again with no inputs changed (prompt, image, mask, etc.) but with a different, it now takes ~30 seconds instead of ~6 seconds. It's rerunning nodes that would've been cached before this slowdown first appeared. submitted by /u/TheTwelveYearOld [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1trqqtz/comfyui_much_slower_lately_no_node_caching_for/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-comfyui_51d0fedeae345a27",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1trxfky/trying_to_create_sketch_animations_from_sd_15/",
+    "title": "Trying to create sketch animations from SD 1.5 frame sequences",
+    "publishedAt": "2026-05-30T11:30:29.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "I’m experimenting with a local pipeline on a MacBook Air M4 16GB to create short sketch-style animations from individual SD 1.5 frames.",
+      "The idea is not full AI video generation, but something more lightweight: scene prompt → storyboard/keyframes → per-frame prompts → ComfyUI txt2img/img2img → frame sequence → MP4/GIF Example: “a man sitting at a table reaches for a glass and lifts it.” The system breaks this into 8–12 keyframes, generates consistent prompts, then uses ComfyUI to generate the frames.",
+      "I’m currently testing SD 1.5, pencil sketch/storyboard style, 512×512, and an img2img chain approach to keep character, camera, table and glass coherent between frames.",
+      "I’ve built a small Python CLI tool to manage projects, prompts, frames, ComfyUI workflows, and ffmpeg export."
+    ],
+    "claims": [
+      {
+        "text": "I’m experimenting with a local pipeline on a MacBook Air M4 16GB to create short sketch-style animations from individual SD 1.5 frames. The idea is not full AI video generation, but something more lightweight: scene prompt → storyboard/keyframes → per-frame prompts → ComfyUI txt2img/img2img → frame sequence → MP4/GIF Example: “a man sitting at a table reaches for a glass and lifts it.” The system breaks this into 8–12 keyframes, generates consistent prompts, then uses ComfyUI to generate the frames. I’m currently testing SD 1.5, pencil sketch/storyboard style, 512×512, and an img2img chain approach to keep character, camera, table and glass coherent between frames. I’ve built a small Python CLI tool to manage projects, prompts, frames, ComfyUI workflows, and ffmpeg export. I’m now trying to improve inter-frame consistency, probably with img2img anchors first, and maybe ControlNet Lineart/OpenPose later. Any advice on the best ComfyUI workflow for this kind of lightweight sketch animation would be very welcome. submitted by /u/Polstick1971 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1trxfky/trying_to_create_sketch_animations_from_sd_15/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-comfyui_5604148117d6075f",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
@@ -549,102 +633,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_c11a5910264de5cc",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tr581g/i_ported_the_cns_paper_colored_noise_diffusion/",
-    "title": "I ported the CNS paper (Colored Noise Diffusion Sampling) to ComfyUI for FLUX — here's what it does and how to use it",
-    "publishedAt": "2026-05-29T15:22:44.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "I ported the CNS paper (Colored Noise Diffusion Sampling) to ComfyUI for FLUX — here's what it does and how to use it There's a paper that dropped two days ago called Colored Noise Diffusion Sampling that got me curious.",
-      "The core idea is simple but clever: standard SDE samplers inject uniform white noise at every step, wasting energy on frequency bands that are already resolved.",
-      "CNS routes that energy toward bands that still need work — early steps focus on low-freq structure, later steps on high-freq detail.",
-      "Same model, same step count, better output."
-    ],
-    "claims": [
-      {
-        "text": "I ported the CNS paper (Colored Noise Diffusion Sampling) to ComfyUI for FLUX — here's what it does and how to use it There's a paper that dropped two days ago called Colored Noise Diffusion Sampling that got me curious. The core idea is simple but clever: standard SDE samplers inject uniform white noise at every step, wasting energy on frequency bands that are already resolved. CNS routes that energy toward bands that still need work — early steps focus on low-freq structure, later steps on high-freq detail. Same model, same step count, better output. The paper tested it on FLUX and showed consistent FID improvements, so I built a ComfyUI node for it. https://preview.redd.it/wvmm3jygg34h1.png?width=1756&format=png&auto=webp&s=6c578ffc91a6b9bbe1048d397f7f5c93314c6990 GitHub: IIs-fanta/ComfyUI-CNS-Sampler-CHENGOU 取自论文 How to use it Drop the folder into custom_nodes/ and restart. The node outputs a SAMPLER — plug it into SamplerCustomAdvanced (not KSampler). If you have gamma_matrix_scaled.pt from the official repo, put it in the node folder and it loads automatically. If not, there's a built-in sigma-based approximation that works fine. The node replaces the sampler slot, not the noise node — this is intentional. CNS needs to adjust noise frequency at every step , so it has to live inside the sampling loop. Recommended settings for FLUX Unguided / low CFG: s_churn: 0.5 power_gamma: 0.75 gamma_divider: 1.73 energy_scale: 0.98 alpha_tilt_start: 0.15 alpha_tilt_end: -0.5 With CFG guidance: power_gamma: 0.5 gamma_divider: 25.0 energy_scale: 0.998 alpha_tilt_start: -0.1 alpha_tilt_end: 0.03 alpha_exp_interp: off What to expect Not a miracle worker — FID is a statistical metric across thousands of images, not a per-image guarantee. But in practice, complex compositions and high-detail subjects tend to look more coherent. Low step counts seem to benefit most. Paper is two days old so this is early. Happy to take bug reports — there have already been a few interpolation edge cases that needed fixing. Based on: Davidson et al., \"Colored Noise Diffusion Sampling\" (2026) — https://arxiv.org/abs/2605.30332 submitted by /u/PlusInvestment6393 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tr581g/i_ported_the_cns_paper_colored_noise_diffusion/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_ca9f49408ab04c5d",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tqw84x/title_im_not_a_developer_but_i_was_so_frustrated/",
-    "title": "Title: I’m not a developer, but I was so frustrated with ComfyUI’s \"spaghetti\" nodes that I built a Wireless Engine with AI.",
-    "publishedAt": "2026-05-29T09:14:56.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Body: Hi everyone, I’m just an ordinary ComfyUI user from South Korea who doesn't know how to code or speak English.",
-      "I've always been incredibly stressed by the messy, tangled 'spaghetti' connections in ComfyUI.",
-      "To solve this, I spent months communicating with AI to build my own engine, and I’m finally sharing it with the community today!",
-      "It’s a tool that lets you turn complicated wired connections into clean wireless ones with a simple shortcut (Shift+S)."
-    ],
-    "claims": [
-      {
-        "text": "Body: Hi everyone, I’m just an ordinary ComfyUI user from South Korea who doesn't know how to code or speak English. I've always been incredibly stressed by the messy, tangled 'spaghetti' connections in ComfyUI. To solve this, I spent months communicating with AI to build my own engine, and I’m finally sharing it with the community today! What is the 'GoRi Wireless Engine'? It’s a tool that lets you turn complicated wired connections into clean wireless ones with a simple shortcut (Shift+S). I designed it to help keep the workspace intuitive and organized. Key Features: Clean Workflow: No more dealing with complex, tangled wire connections. One-Click Wireless: Easily toggle between wired and wireless modes with a single shortcut. Intuitive UI: Easily track data flow with features like mouse-over highlighting and selected-node visibility. I’m still learning, and I’m sure there’s plenty of room for improvement, but I truly hope this helps anyone who has struggled with the same frustration as I did. Watch the demo: [ https://www.youtube.com/watch?v=ujyHUHzabJ4 ] GitHub Repository: [ https://github.com/kwonhyukdal/ComfyUI-GoRi-Wireless-Engine ] I would appreciate any feedback or suggestions you might have. Thank you! Ps: Also, please note that the GoRi engine doesn't currently work within subgraphs—I’m still actively working on it. To be honest, I'm still debating whether it's the right direction for the engine, so your feedback on this would be greatly appreciated. I’ll keep you all updated on the progress! submitted by /u/Ok_Muscle_5465 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tqw84x/title_im_not_a_developer_but_i_was_so_frustrated/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_845d589e9f2394bc",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tr5fj9/image_restoration_with_nvidia_pid/",
-    "title": "Image restoration with NVIDIA PID?",
-    "publishedAt": "2026-05-29T15:29:29.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "After watching Benji's latest PID Z-image and Flux2 video ( https://www.youtube.com/watch?v=Be9u6zo85TE ) I wanted to know if anyone has tried to preform image restoration with PID for Image to Image, much like the SEEDVR workflows?",
-      "I tried creating the WF but it did not work out the way I thought it would.",
-      "Basically take a image that has lost it's details and add the details back with Nvidia PID?",
-      "Maybe it is not made for that, but T2I PID results look pretty good to me."
-    ],
-    "claims": [
-      {
-        "text": "After watching Benji's latest PID Z-image and Flux2 video ( https://www.youtube.com/watch?v=Be9u6zo85TE ) I wanted to know if anyone has tried to preform image restoration with PID for Image to Image, much like the SEEDVR workflows? I tried creating the WF but it did not work out the way I thought it would. Basically take a image that has lost it's details and add the details back with Nvidia PID? Maybe it is not made for that, but T2I PID results look pretty good to me. Pictures show with_PID (left) vs no_PID (right) submitted by /u/dirtybeagles [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tr5fj9/image_restoration_with_nvidia_pid/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_runway-research_4c72ae34dd32cd2b",
     "sourceType": "blog",
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-30T00:07:26.692Z",
+    "publishedAt": "2026-05-30T11:59:47.826Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -673,12 +667,12 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-30T00:07:26.819Z",
+    "publishedAt": "2026-05-30T11:59:47.863Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "Careers Contact Us API Login Sign Up Careers Contact Us API Login Sign Up BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+      "Pika blog Careers Contact Us API Login Sign Up Careers Contact Us API Login Sign Up BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
       "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
       "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.",
       "That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M."
@@ -702,7 +696,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-30T00:07:27.510Z",
+    "publishedAt": "2026-05-30T11:59:48.721Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -784,6 +778,60 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_reddit-aivideo_8afd5acd5d77a6bd",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1trwhcc/the_hangover_star_wars_edition/",
+    "title": "The Hangover 🍻🥴 Star Wars edition",
+    "publishedAt": "2026-05-30T10:41:21.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/Bourbon-Thinker [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/Bourbon-Thinker [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1trwhcc/the_hangover_star_wars_edition/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aivideo_0677a92675515fae",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1truprj/the_bottle_never_broke/",
+    "title": "The Bottle Never Broke",
+    "publishedAt": "2026-05-30T09:01:13.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/ArmaanKhatri [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/ArmaanKhatri [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1truprj/the_bottle_never_broke/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aivideo_d7e4648c768e9094",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
@@ -811,66 +859,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_1043af4844585cb0",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1trbis3/out_of_time/",
-    "title": "Out of Time",
-    "publishedAt": "2026-05-29T18:44:37.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/konibak [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/konibak [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1trbis3/out_of_time/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aivideo_be1296343abb7c99",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tr5s2a/time_machine_created_using_seedance_2_gpt_image_2/",
-    "title": "Time Machine | Created Using Seedance 2 + GPT Image 2",
-    "publishedAt": "2026-05-29T15:40:49.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/Wealth_Wise007 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Wealth_Wise007 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tr5s2a/time_machine_created_using_seedance_2_gpt_image_2/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_cursor-changelog_99cdbb7e2d70df11",
     "sourceType": "blog",
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-30T00:07:27.079Z",
+    "publishedAt": "2026-05-30T11:59:48.419Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -899,7 +893,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-30T00:07:26.671Z",
+    "publishedAt": "2026-05-30T11:59:47.893Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -928,7 +922,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-30T00:07:27.052Z",
+    "publishedAt": "2026-05-30T11:59:48.139Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -955,7 +949,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-30T00:07:27.065Z",
+    "publishedAt": "2026-05-30T11:59:48.416Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -984,7 +978,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-30T00:07:26.917Z",
+    "publishedAt": "2026-05-30T11:59:48.137Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1069,33 +1063,6 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_767ebf0671acefca",
-    "sourceType": "reddit",
-    "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tr6kyp/scifi_scenery/",
-    "title": "Sci-Fi Scenery",
-    "publishedAt": "2026-05-29T16:07:16.000Z",
-    "categoryHints": [
-      "prompt-image",
-      "ai-image"
-    ],
-    "keyFacts": [
-      "- - - submitted by /u/Zenchilada [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "- - - submitted by /u/Zenchilada [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tr6kyp/scifi_scenery/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_reddit-midjourney_adebe8caafc8adc5",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
@@ -1123,26 +1090,51 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_6fc411efdb49f3cb",
+    "sourceId": "src_reddit-midjourney_31abea62d41872a4",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tr3vdr/fantasy_concepts_monsters/",
-    "title": "Fantasy Concepts: Monsters",
-    "publishedAt": "2026-05-29T14:38:25.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1trxk7b/gridlines/",
+    "title": "Gridlines",
+    "publishedAt": "2026-05-30T11:37:03.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "Have some more fantasy concepts for everyone, this time from everyone's favorite monster manual haha 😆.",
-      "I tried to make some varied and unique critters, in some different aspect ratios too.",
-      "submitted by /u/NeoShaolin47 [link] [comments]"
+      "submitted by /u/Zaicab [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Have some more fantasy concepts for everyone, this time from everyone's favorite monster manual haha 😆. I tried to make some varied and unique critters, in some different aspect ratios too. Hope everyone likes them! submitted by /u/NeoShaolin47 [link] [comments]",
+        "text": "submitted by /u/Zaicab [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tr3vdr/fantasy_concepts_monsters/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1trxk7b/gridlines/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-midjourney_767ebf0671acefca",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tr6kyp/scifi_scenery/",
+    "title": "Sci-Fi Scenery",
+    "publishedAt": "2026-05-29T16:07:16.000Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "keyFacts": [
+      "- - - submitted by /u/Zenchilada [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "- - - submitted by /u/Zenchilada [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tr6kyp/scifi_scenery/"
       }
     ],
     "usableFor": [
@@ -1157,7 +1149,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-30T00:07:27.705Z",
+    "publishedAt": "2026-05-30T11:59:49.898Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1323,7 +1315,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-30T00:07:26.922Z",
+    "publishedAt": "2026-05-30T11:59:48.209Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1331,10 +1323,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 9 days ago • 49 Introduction to Trimming ✂ lbourdois • 1 day ago • 21 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 4 days ago • 14 Relaunching PapersWithCode with new features nielsr • 5 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 340 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • about 21 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 862 MONET: Lowering the bar for World-Class Image Generation research.",
-      "jasperai • 1 day ago • 5 An experiment with attention.",
-      "wop • 7 days ago • 5 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 25 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 177 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 10 Eight Days in China: What I Learned from the AI Labs, Robotics Startups and Academia matthew-d-white • 7 days ago • 3 Should we use genetics instead of system prompts for AI Agents & Personas?",
-      "nyxia • 4 days ago • 3 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 3 days ago • 3 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 337 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 124 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 156 We're open-sourcing \"The Amazing Hand\", a fully 3D printed robotic hand for less than $200 ✌️✌️✌️ pollen-robotics • Jul 8, 2025 • 53 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 27 May 29, 2026 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM 12 May 27, 2026 guide robotics audio Reachy Mini goes fully local 39 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +3 30 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 78 May 25, 2026 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 27 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 3 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 19 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 48 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 33 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 31 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 55 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 11 May 6, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 9 days ago • 50 Introduction to Trimming ✂ lbourdois • 2 days ago • 21 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 5 days ago • 14 Relaunching PapersWithCode with new features nielsr • 6 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 341 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 1 day ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 862 MONET: Lowering the bar for World-Class Image Generation research.",
+      "jasperai • 2 days ago • 5 An experiment with attention.",
+      "wop • 7 days ago • 5 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 25 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 177 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 125 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 10 Eight Days in China: What I Learned from the AI Labs, Robotics Startups and Academia matthew-d-white • 8 days ago • 3 Should we use genetics instead of system prompts for AI Agents & Personas?",
+      "nyxia • 5 days ago • 3 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 4 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 319 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 337 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 156 We're open-sourcing \"The Amazing Hand\", a fully 3D printed robotic hand for less than $200 ✌️✌️✌️ pollen-robotics • Jul 8, 2025 • 53 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 38 May 29, 2026 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM 12 May 27, 2026 guide robotics audio Reachy Mini goes fully local 43 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +3 31 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 80 May 25, 2026 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 27 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 3 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 19 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 49 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 33 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 32 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 55 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 11 May 6, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -1505,7 +1497,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-30T00:07:26.920Z",
+    "publishedAt": "2026-05-30T11:59:48.152Z",
     "categoryHints": [
       "ai-agentic"
     ],

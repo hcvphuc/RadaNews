@@ -329,12 +329,12 @@
     "tags": [
       "Anthropic",
       "AI-Agents",
+      "LLMOps",
       "Enterprise-AI",
-      "Revenue-Growth",
-      "LLM"
+      "Revenue-Growth"
     ],
-    "publishedAt": "2026-05-30T00:07:58.492Z",
-    "readingTime": 5,
+    "publishedAt": "2026-05-30T12:00:18.984Z",
+    "readingTime": 4,
     "url": "/vi/ai-agentic/anthropic-s-run-rate-revenue-hits-47-billion-goc-nhin-cho-2026-05-30"
   },
   {
@@ -347,11 +347,11 @@
     "tags": [
       "Anthropic",
       "AI-Agents",
-      "Enterprise-AI",
-      "LLM-Economy",
-      "Vibe-Coding"
+      "LLMOps",
+      "Enterprise AI",
+      "Revenue Scaling"
     ],
-    "publishedAt": "2026-05-30T00:08:21.393Z",
+    "publishedAt": "2026-05-30T12:00:38.029Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/anthropic-s-run-rate-revenue-hits-47-billion-creator-and-b-2026-05-30"
   },
@@ -363,13 +363,13 @@
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "vibe-coding",
       "anthropic",
       "claude-opus-4.8",
-      "vibe-coding",
       "ai-agents",
-      "prompt-engineering"
+      "developer-experience"
     ],
-    "publishedAt": "2026-05-30T00:08:32.306Z",
+    "publishedAt": "2026-05-30T12:00:37.794Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-30"
   },
@@ -381,13 +381,13 @@
     "title": "Research \\ Anthropic: creator and builder analysis",
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
+      "ai-agents",
       "vibe-coding",
       "anthropic",
-      "ai-agents",
-      "llm-steerability",
-      "developer-experience"
+      "llm-orchestration",
+      "software-engineering"
     ],
-    "publishedAt": "2026-05-30T00:08:55.018Z",
+    "publishedAt": "2026-05-30T12:01:05.108Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-30"
   },
@@ -401,13 +401,13 @@
     "tags": [
       "AI-Video",
       "Runway-AI",
-      "FLUX",
+      "World-Models",
       "ComfyUI",
-      "World-Simulators",
-      "Diffusion-Models"
+      "Generative-AI",
+      "Pipeline-Production"
     ],
-    "publishedAt": "2026-05-30T00:08:40.667Z",
-    "readingTime": 4,
+    "publishedAt": "2026-05-30T12:01:02.957Z",
+    "readingTime": 5,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-30"
   },
   {
@@ -420,120 +420,122 @@
     "tags": [
       "AI-Video",
       "World-Models",
-      "Diffusion-Sampling",
       "ComfyUI",
-      "VFX-Pipeline"
+      "Runway-AI",
+      "FLUX",
+      "Cinematic-AI"
     ],
-    "publishedAt": "2026-05-30T00:09:22.637Z",
+    "publishedAt": "2026-05-30T12:01:37.653Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-30"
   },
   {
-    "id": "cluster_ai-video_1_after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-setup-_2026-05-30_vi",
-    "lang": "vi",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "After a month on Karpathy's LLM Wiki, the bottleneck isn't setup. It's mainte...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "LLM",
-      "Knowledge-Management",
-      "AI-Agents",
-      "Data-Maintenance",
-      "Andrej-Karpathy"
-    ],
-    "publishedAt": "2026-05-30T00:08:43.468Z",
-    "readingTime": 5,
-    "url": "/vi/ai-video/after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-s-2026-05-30"
-  },
-  {
-    "id": "cluster_ai-video_1_after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-setup-_2026-05-30_en",
-    "lang": "en",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "After a month on Karpathy's LLM Wiki, the bottleneck isn't setup. It's mainte...: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "PKM",
-      "LLM-Wiki",
-      "RAG",
-      "KnowledgeManagement",
-      "AI-Agents"
-    ],
-    "publishedAt": "2026-05-30T00:09:02.527Z",
-    "readingTime": 4,
-    "url": "/en/ai-video/after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-s-2026-05-30"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_title-i-m-not-a-developer-but-i-was-so-frustrated-with-comfyui-s_2026-05-30_vi",
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-30_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Title: I’m not a developer, but I was so frustrated with ComfyUI’s \"spaghetti...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "cursor-ai",
       "vibe-coding",
-      "comfyui",
       "ai-agents",
-      "ux-design",
-      "low-code"
+      "software-engineering",
+      "productivity"
     ],
-    "publishedAt": "2026-05-30T00:08:12.297Z",
+    "publishedAt": "2026-05-30T12:00:36.103Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/title-i-m-not-a-developer-but-i-was-so-frustrated-with-com-2026-05-30"
+    "url": "/vi/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-05-30"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_title-i-m-not-a-developer-but-i-was-so-frustrated-with-comfyui-s_2026-05-30_en",
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-30_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Title: I’m not a developer, but I was so frustrated with ComfyUI’s \"spaghetti...: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
+      "cursor",
+      "ai-agents",
       "vibe-coding",
-      "ComfyUI",
-      "UX-Design",
-      "AI-Agents",
-      "Frontend-Development"
+      "software-engineering",
+      "productivity"
     ],
-    "publishedAt": "2026-05-30T00:08:39.796Z",
+    "publishedAt": "2026-05-30T12:00:57.944Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/title-i-m-not-a-developer-but-i-was-so-frustrated-with-com-2026-05-30"
+    "url": "/en/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-05-30"
   },
   {
-    "id": "cluster_ai-image_2_nava-a-6-3b-audio-video-model_2026-05-30_vi",
+    "id": "cluster_ai-video_1_kling-ai_2026-05-30_vi",
+    "lang": "vi",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Kling AI: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "AI-Video",
+      "Kling-AI",
+      "Pika-Labs",
+      "Native-4K",
+      "Generative-AI"
+    ],
+    "publishedAt": "2026-05-30T12:00:13.615Z",
+    "readingTime": 4,
+    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-30"
+  },
+  {
+    "id": "cluster_ai-video_1_kling-ai_2026-05-30_en",
+    "lang": "en",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Kling AI: creator and builder analysis",
+    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "Kling AI",
+      "AI Video",
+      "Native 4K",
+      "Generative Cinema",
+      "AI Production"
+    ],
+    "publishedAt": "2026-05-30T12:00:31.376Z",
+    "readingTime": 4,
+    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-30"
+  },
+  {
+    "id": "cluster_ai-image_2_anima-ip-adapter-is-comming_2026-05-30_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "Nava - A 6.3B audio-video model .: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/aivideo, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Anima Ip Adapter is comming.: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "NAVA",
-      "AI-Video",
-      "Multimodal-AI",
-      "Audio-Sync",
-      "MMDiT"
+      "AI-Image",
+      "Stable-Diffusion",
+      "IP-Adapter",
+      "ComfyUI",
+      "Character-Consistency"
     ],
-    "publishedAt": "2026-05-30T00:07:49.995Z",
+    "publishedAt": "2026-05-30T12:00:43.433Z",
     "readingTime": 4,
-    "url": "/vi/ai-image/nava-a-6-3b-audio-video-model-goc-nhin-cho-creator-va-b-2026-05-30"
+    "url": "/vi/ai-image/anima-ip-adapter-is-comming-goc-nhin-cho-creator-va-builde-2026-05-30"
   },
   {
-    "id": "cluster_ai-image_2_nava-a-6-3b-audio-video-model_2026-05-30_en",
+    "id": "cluster_ai-image_2_anima-ip-adapter-is-comming_2026-05-30_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "Nava - A 6.3B audio-video model .: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/aivideo, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "title": "Anima Ip Adapter is comming.: creator and builder analysis",
+    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "multimodal-ai",
-      "ai-video",
-      "ai-audio",
-      "diffusion-transformers",
-      "SOTA"
+      "Anima",
+      "IP-Adapter",
+      "ComfyUI",
+      "StableDiffusion",
+      "CharacterConsistency",
+      "AI-Image-Generation"
     ],
-    "publishedAt": "2026-05-30T00:08:06.087Z",
+    "publishedAt": "2026-05-30T12:01:37.870Z",
     "readingTime": 4,
-    "url": "/en/ai-image/nava-a-6-3b-audio-video-model-creator-and-builder-analy-2026-05-30"
+    "url": "/en/ai-image/anima-ip-adapter-is-comming-creator-and-builder-analysis-2026-05-30"
   }
 ]

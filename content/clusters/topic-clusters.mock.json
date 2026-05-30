@@ -11,7 +11,7 @@
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_691738d0ced1967f",
       "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_reddit-aiagents_6001645f44c7c764"
+      "src_reddit-aiagents_8b426c4c4d89ac2a"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
@@ -24,13 +24,13 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_0ca91bc420d9a913",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_95940ceb8f74d076",
-      "src_replit-blog_49899058ba32f8e5"
+      "src_simonwillison-blog_0ca91bc420d9a913",
+      "src_replit-blog_49899058ba32f8e5",
+      "src_simonwillison-blog_95940ceb8f74d076"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -42,11 +42,11 @@
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
+      "src_reddit-stablediffusion_b98db0a507cae015",
       "src_reddit-comfyui_5604148117d6075f",
-      "src_reddit-comfyui_c11a5910264de5cc",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-stablediffusion_b764099222ca1683",
-      "src_reddit-stablediffusion_9d089367cffe7945"
+      "src_reddit-comfyui_0c54ed829094fbc5",
+      "src_reddit-stablediffusion_dafd282be91224f8"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
@@ -54,78 +54,78 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-setup-_2026-05-30",
-    "category": "ai-video",
-    "topic": "After a month on Karpathy's LLM Wiki, the bottleneck isn't setup. It's mainte...",
-    "sourceIds": [
-      "src_reddit-aiagents_190176af5e16d0b8",
-      "src_kling-blog_93b43a5f7aed1c98",
-      "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-aivideo_a7a9a72758720ba6"
-    ],
-    "articleWorthinessScore": 0.96,
-    "reasonSelected": "Score 0.96 from 4 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, Kling AI Blog, Pika Labs Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_title-i-m-not-a-developer-but-i-was-so-frustrated-with-comfyui-s_2026-05-30",
+    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-30",
     "category": "ai-vibe-coding",
-    "topic": "Title: I’m not a developer, but I was so frustrated with ComfyUI’s \"spaghetti...",
+    "topic": "What's New in Cursor — Latest Updates & Release Notes",
     "sourceIds": [
-      "src_reddit-comfyui_ca9f49408ab04c5d",
       "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_e2cc7459153b1d5e",
       "src_reddit-comfyui_f0fcbff5cbf30b57",
       "src_vercel-ai-blog_2026-05-30_fallback"
     ],
-    "articleWorthinessScore": 0.92,
-    "reasonSelected": "Score 0.92 from 4 source item(s), 3 live crawl(s), strongest sources: r/comfyui, Cursor Changelog, Vercel AI Blog.",
+    "articleWorthinessScore": 0.91,
+    "reasonSelected": "Score 0.91 from 4 source item(s), 3 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, r/comfyui.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_nava-a-6-3b-audio-video-model_2026-05-30",
-    "category": "ai-image",
-    "topic": "Nava - A 6.3B audio-video model .",
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-05-30",
+    "category": "ai-video",
+    "topic": "Kling AI",
     "sourceIds": [
-      "src_reddit-stablediffusion_dafd282be91224f8",
-      "src_reddit-comfyui_845d589e9f2394bc",
+      "src_kling-blog_93b43a5f7aed1c98",
+      "src_pika-blog_80e55ecea6acd04d",
+      "src_reddit-aivideo_a7a9a72758720ba6",
+      "src_reddit-aivideo_8afd5acd5d77a6bd"
+    ],
+    "articleWorthinessScore": 0.89,
+    "reasonSelected": "Score 0.89 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_2_anima-ip-adapter-is-comming_2026-05-30",
+    "category": "ai-image",
+    "topic": "Anima Ip Adapter is comming.",
+    "sourceIds": [
+      "src_reddit-stablediffusion_09aef44dd0c244ab",
+      "src_reddit-comfyui_ddc6fdfab9382ae9",
       "src_reddit-midjourney_91c5cf49176c170c",
       "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-aivideo_be1296343abb7c99",
+      "src_reddit-stablediffusion_6646cc44ebeda2f5",
       "src_stability-ai-blog_2026-05-30_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 7 source item(s), 6 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
+    "articleWorthinessScore": 0.83,
+    "reasonSelected": "Score 0.83 from 7 source item(s), 6 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_some-anima-base-generations_2026-05-30",
+    "clusterId": "cluster_ai-agentic_2_trying-to-create-sketch-animations-from-sd-1-5-frame-sequences_2026-05-30",
     "category": "ai-agentic",
-    "topic": "Some Anima base generations",
+    "topic": "Trying to create sketch animations from SD 1.5 frame sequences",
     "sourceIds": [
+      "src_reddit-comfyui_51d0fedeae345a27",
       "src_reddit-stablediffusion_2982d3ef3b574edc",
-      "src_reddit-stablediffusion_225cf205103e1168",
-      "src_reddit-aiagents_0b922bdbed0631fa",
+      "src_reddit-aiagents_7ad5d435e7e092b1",
       "src_reddit-aiagents_7e0305e7a84c61f3",
       "src_reddit-aiagents_079abcf0d1317db2",
       "src_openai-blog_2026-05-30_fallback",
       "src_mcp-blog_2026-05-30_fallback"
     ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 7 source item(s), 5 live crawl(s), strongest sources: r/StableDiffusion, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.81,
+    "reasonSelected": "Score 0.81 from 7 source item(s), 5 live crawl(s), strongest sources: r/comfyui, r/StableDiffusion, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ddawwd-animated-short-film_2026-05-30",
+    "clusterId": "cluster_ai-video_2_the-bottle-never-broke_2026-05-30",
     "category": "ai-video",
-    "topic": "DDAWWD - Animated Short Film",
+    "topic": "The Bottle Never Broke",
     "sourceIds": [
+      "src_reddit-aivideo_0677a92675515fae",
       "src_reddit-aivideo_d7e4648c768e9094",
-      "src_reddit-aivideo_1043af4844585cb0",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.68,
@@ -134,24 +134,24 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_fantasy-concepts-monsters_2026-05-30",
+    "clusterId": "cluster_prompt-image_1_the-blue-dragon-of-kilmarnock_2026-05-30",
     "category": "prompt-image",
-    "topic": "Fantasy Concepts: Monsters",
+    "topic": "The Blue Dragon of Kilmarnock.",
     "sourceIds": [
-      "src_reddit-midjourney_6fc411efdb49f3cb",
-      "src_reddit-midjourney_767ebf0671acefca"
+      "src_reddit-midjourney_adebe8caafc8adc5",
+      "src_reddit-midjourney_31abea62d41872a4"
     ],
-    "articleWorthinessScore": 0.68,
-    "reasonSelected": "Score 0.68 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
+    "articleWorthinessScore": 0.61,
+    "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_the-blue-dragon-of-kilmarnock_2026-05-30",
+    "clusterId": "cluster_prompt-image_2_sci-fi-scenery_2026-05-30",
     "category": "prompt-image",
-    "topic": "The Blue Dragon of Kilmarnock.",
+    "topic": "Sci-Fi Scenery",
     "sourceIds": [
-      "src_reddit-midjourney_adebe8caafc8adc5"
+      "src_reddit-midjourney_767ebf0671acefca"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
