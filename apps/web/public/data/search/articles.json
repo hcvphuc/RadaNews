@@ -320,25 +320,25 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_anthropic-s-run-rate-revenue-hits-47-billion_2026-05-29_vi",
+    "id": "cluster_ai-agentic_1_anthropic-s-run-rate-revenue-hits-47-billion_2026-05-30_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "Anthropic's run-rate revenue hits $47 billion: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "anthropic",
-      "ai-agents",
-      "enterprise-ai",
-      "revenue-growth",
-      "claude-opus"
+      "Anthropic",
+      "AI-Agents",
+      "Enterprise-AI",
+      "Revenue-Growth",
+      "LLM"
     ],
-    "publishedAt": "2026-05-29T13:52:37.073Z",
-    "readingTime": 4,
-    "url": "/vi/ai-agentic/anthropic-s-run-rate-revenue-hits-47-billion-goc-nhin-cho-2026-05-29"
+    "publishedAt": "2026-05-30T00:07:58.492Z",
+    "readingTime": 5,
+    "url": "/vi/ai-agentic/anthropic-s-run-rate-revenue-hits-47-billion-goc-nhin-cho-2026-05-30"
   },
   {
-    "id": "cluster_ai-agentic_1_anthropic-s-run-rate-revenue-hits-47-billion_2026-05-29_en",
+    "id": "cluster_ai-agentic_1_anthropic-s-run-rate-revenue-hits-47-billion_2026-05-30_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
@@ -348,33 +348,33 @@
       "Anthropic",
       "AI-Agents",
       "Enterprise-AI",
-      "LLM-Economics",
-      "Agentic-Workflows"
+      "LLM-Economy",
+      "Vibe-Coding"
     ],
-    "publishedAt": "2026-05-29T13:53:13.080Z",
+    "publishedAt": "2026-05-30T00:08:21.393Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/anthropic-s-run-rate-revenue-hits-47-billion-creator-and-b-2026-05-29"
+    "url": "/en/ai-agentic/anthropic-s-run-rate-revenue-hits-47-billion-creator-and-b-2026-05-30"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-29_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-30_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "Anthropic",
-      "Claude-Opus-4.8",
-      "Vibe-Coding",
-      "AI-Agents",
-      "LLM-Optimization"
+      "anthropic",
+      "claude-opus-4.8",
+      "vibe-coding",
+      "ai-agents",
+      "prompt-engineering"
     ],
-    "publishedAt": "2026-05-29T13:52:38.470Z",
+    "publishedAt": "2026-05-30T00:08:32.306Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-29"
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-30"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-29_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-30_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
@@ -384,52 +384,88 @@
       "vibe-coding",
       "anthropic",
       "ai-agents",
-      "llm-engineering",
-      "software-development"
+      "llm-steerability",
+      "developer-experience"
     ],
-    "publishedAt": "2026-05-29T13:53:50.207Z",
+    "publishedAt": "2026-05-30T00:08:55.018Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-29"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-30"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-29_vi",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-30_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "Qwen-Edit-2511",
+      "AI-Video",
+      "Runway-AI",
+      "FLUX",
       "ComfyUI",
-      "Character-Consistency",
-      "AI-Workflow",
-      "Runway-AI"
+      "World-Simulators",
+      "Diffusion-Models"
     ],
-    "publishedAt": "2026-05-29T13:53:08.038Z",
+    "publishedAt": "2026-05-30T00:08:40.667Z",
     "readingTime": 4,
-    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-29"
+    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-30"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-29_en",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-30_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Video",
-      "Qwen Edit",
+      "AI-Video",
+      "World-Models",
+      "Diffusion-Sampling",
       "ComfyUI",
-      "Character Consistency",
-      "Runway AI",
-      "FLUX"
+      "VFX-Pipeline"
     ],
-    "publishedAt": "2026-05-29T13:53:32.890Z",
+    "publishedAt": "2026-05-30T00:09:22.637Z",
     "readingTime": 4,
-    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-29"
+    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-30"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_title-i-m-not-a-developer-but-i-was-so-frustrated-with-comfyui-s_2026-05-29_vi",
+    "id": "cluster_ai-video_1_after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-setup-_2026-05-30_vi",
+    "lang": "vi",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "After a month on Karpathy's LLM Wiki, the bottleneck isn't setup. It's mainte...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "LLM",
+      "Knowledge-Management",
+      "AI-Agents",
+      "Data-Maintenance",
+      "Andrej-Karpathy"
+    ],
+    "publishedAt": "2026-05-30T00:08:43.468Z",
+    "readingTime": 5,
+    "url": "/vi/ai-video/after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-s-2026-05-30"
+  },
+  {
+    "id": "cluster_ai-video_1_after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-setup-_2026-05-30_en",
+    "lang": "en",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "After a month on Karpathy's LLM Wiki, the bottleneck isn't setup. It's mainte...: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/AI_Agents, Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "PKM",
+      "LLM-Wiki",
+      "RAG",
+      "KnowledgeManagement",
+      "AI-Agents"
+    ],
+    "publishedAt": "2026-05-30T00:09:02.527Z",
+    "readingTime": 4,
+    "url": "/en/ai-video/after-a-month-on-karpathy-s-llm-wiki-the-bottleneck-isn-t-s-2026-05-30"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_title-i-m-not-a-developer-but-i-was-so-frustrated-with-comfyui-s_2026-05-30_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
@@ -442,12 +478,12 @@
       "ux-design",
       "low-code"
     ],
-    "publishedAt": "2026-05-29T13:52:41.699Z",
+    "publishedAt": "2026-05-30T00:08:12.297Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/title-i-m-not-a-developer-but-i-was-so-frustrated-with-com-2026-05-29"
+    "url": "/vi/ai-vibe-coding/title-i-m-not-a-developer-but-i-was-so-frustrated-with-com-2026-05-30"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_title-i-m-not-a-developer-but-i-was-so-frustrated-with-comfyui-s_2026-05-29_en",
+    "id": "cluster_ai-vibe-coding_2_title-i-m-not-a-developer-but-i-was-so-frustrated-with-comfyui-s_2026-05-30_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
@@ -456,84 +492,48 @@
     "tags": [
       "vibe-coding",
       "ComfyUI",
-      "AI-Agents",
       "UX-Design",
+      "AI-Agents",
       "Frontend-Development"
     ],
-    "publishedAt": "2026-05-29T13:53:10.403Z",
+    "publishedAt": "2026-05-30T00:08:39.796Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/title-i-m-not-a-developer-but-i-was-so-frustrated-with-com-2026-05-29"
+    "url": "/en/ai-vibe-coding/title-i-m-not-a-developer-but-i-was-so-frustrated-with-com-2026-05-30"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-29_vi",
+    "id": "cluster_ai-image_2_nava-a-6-3b-audio-video-model_2026-05-30_vi",
     "lang": "vi",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "Kling AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "Nava - A 6.3B audio-video model .: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/aivideo, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "Kling AI",
-      "AI Video",
-      "Native 4K",
-      "Generative AI",
-      "Content Creation"
+      "NAVA",
+      "AI-Video",
+      "Multimodal-AI",
+      "Audio-Sync",
+      "MMDiT"
     ],
-    "publishedAt": "2026-05-29T13:53:02.518Z",
+    "publishedAt": "2026-05-30T00:07:49.995Z",
     "readingTime": 4,
-    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-29"
+    "url": "/vi/ai-image/nava-a-6-3b-audio-video-model-goc-nhin-cho-creator-va-b-2026-05-30"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-29_en",
+    "id": "cluster_ai-image_2_nava-a-6-3b-audio-video-model_2026-05-30_en",
     "lang": "en",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "Kling AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "Nava - A 6.3B audio-video model .: creator and builder analysis",
+    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/aivideo, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "Kling AI",
-      "AI Video",
-      "Native 4K",
-      "Generative AI",
-      "Cinematography"
+      "multimodal-ai",
+      "ai-video",
+      "ai-audio",
+      "diffusion-transformers",
+      "SOTA"
     ],
-    "publishedAt": "2026-05-29T13:54:46.084Z",
+    "publishedAt": "2026-05-30T00:08:06.087Z",
     "readingTime": 4,
-    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-29"
-  },
-  {
-    "id": "cluster_ai-agentic_2_what-ai-tools-are-you-using-in-2026_2026-05-29_vi",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "What AI Tools Are You Using in 2026?: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "ai-agents",
-      "productivity-tools",
-      "solopreneur",
-      "mcp",
-      "workflow-automation"
-    ],
-    "publishedAt": "2026-05-29T13:53:21.204Z",
-    "readingTime": 4,
-    "url": "/vi/ai-agentic/what-ai-tools-are-you-using-in-2026-goc-nhin-cho-creator-v-2026-05-29"
-  },
-  {
-    "id": "cluster_ai-agentic_2_what-ai-tools-are-you-using-in-2026_2026-05-29_en",
-    "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "What AI Tools Are You Using in 2026?: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/comfyui, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-agents",
-      "solopreneurship",
-      "agentic-workflows",
-      "future-of-work",
-      "mcp"
-    ],
-    "publishedAt": "2026-05-29T13:53:41.634Z",
-    "readingTime": 4,
-    "url": "/en/ai-agentic/what-ai-tools-are-you-using-in-2026-creator-and-builder-an-2026-05-29"
+    "url": "/en/ai-image/nava-a-6-3b-audio-video-model-creator-and-builder-analy-2026-05-30"
   }
 ]

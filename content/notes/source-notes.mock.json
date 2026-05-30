@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-05-29T13:52:11.007Z",
+    "publishedAt": "2026-05-30T00:07:27.077Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Newsletter Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Partner Deep Agents LangSmith EU macroeconomic analysis with Deep Agents, LangSmith, and the You.com Finance Research API Srimanth Tangedipalli Karan Singh Saurabh Sharma Akhil Pothana May 20, 2026 18 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min LangSmith Agent Architecture Deep Agents Tutorials & How-Tos How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min Deep Agents New in Deep Agents v0.6 Sydney Runkle May 13, 2026 10 min 1 ...",
+      "Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Partner Deep Agents LangSmith EU macroeconomic analysis with Deep Agents, LangSmith, and the You.com Finance Research API Srimanth Tangedipalli Karan Singh Saurabh Sharma Akhil Pothana May 20, 2026 18 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min LangSmith Agent Architecture Deep Agents Tutorials & How-Tos How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min 1 ...",
       "1 / 27 We couldn't find anything matching that."
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-05-29T13:52:15.152Z",
+    "publishedAt": "2026-05-30T00:07:32.101Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-05-29_fallback",
+    "sourceId": "src_openai-blog_2026-05-30_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-05-29T13:52:10.052Z",
+    "publishedAt": "2026-05-30T00:07:26.468Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-05-29_fallback",
+    "sourceId": "src_mcp-blog_2026-05-30_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-05-29T13:52:10.648Z",
+    "publishedAt": "2026-05-30T00:07:26.932Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_9197b558e72a63ba",
+    "sourceId": "src_reddit-aiagents_0b922bdbed0631fa",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tqu1p6/what_ai_tools_are_you_using_in_2026/",
-    "title": "What AI Tools Are You Using in 2026?",
-    "publishedAt": "2026-05-29T07:13:40.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tr8r8d/whats_the_best_cloud_agent_right_now_for_actual/",
+    "title": "What’s the best Cloud Agent right now for actual daily workflows?",
+    "publishedAt": "2026-05-29T17:16:24.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Lately, I have been wondering what AI tools people are actually using every day.",
-      "I also use Gemini sometimes for image generation.",
-      "Since I'm a writer, these tools handle most of what I need, so I have not explored many others yet.",
-      "But when I browse AI communities, I keep seeing people talk about tools like Perplexity, Grok, Manus, and a lot of open-source options."
+      "I’ve been trying different cloud agents lately and honestly most of them feel amazing in demos but unreliable once you throw real workflows at them.",
+      "Some are decent for quick coding tasks, others are better for research or automation, but I still haven’t found one that consistently feels production-ready.",
+      "Curious what everyone here is actually using day to day.",
+      "Mainly looking for something that: handles long tasks well keeps context properly doesn’t completely hallucinate halfway through a workflow and can work asynchronously without constant babysitting."
     ],
     "claims": [
       {
-        "text": "Lately, I have been wondering what AI tools people are actually using every day. For me, it's mostly Claude and ChatGPT. I also use Gemini sometimes for image generation. Since I'm a writer, these tools handle most of what I need, so I have not explored many others yet. But when I browse AI communities, I keep seeing people talk about tools like Perplexity, Grok, Manus, and a lot of open-source options. That got me curious about what people are really using and how those tools help them in their daily work. I'm not looking for a list of features. I'm more interested in hearing about real experiences. Which AI tools do you use the most? What do you use them for? Has any AI tool made a big difference in your work or daily life? Which paid subscriptions have been worth the money? Are there any free alternatives that work almost as well? If you could keep only one AI tool, which one would it be and why? It would be great to hear from people across different fields. I'm curious to know what tools you're using, how they fit into your workflow, and what keeps you coming back to them. submitted by /u/PracticalBite1168 [link] [comments]",
+        "text": "I’ve been trying different cloud agents lately and honestly most of them feel amazing in demos but unreliable once you throw real workflows at them. Some are decent for quick coding tasks, others are better for research or automation, but I still haven’t found one that consistently feels production-ready. Curious what everyone here is actually using day to day. Mainly looking for something that: handles long tasks well keeps context properly doesn’t completely hallucinate halfway through a workflow and can work asynchronously without constant babysitting. submitted by /u/Interesting_Put9143 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tqu1p6/what_ai_tools_are_you_using_in_2026/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tr8r8d/whats_the_best_cloud_agent_right_now_for_actual/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_d38ef2401abbb2a7",
+    "sourceId": "src_reddit-aiagents_6001645f44c7c764",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tquu5t/one_person_companies_is_it_feasible/",
-    "title": "One person companies. Is it feasible?",
-    "publishedAt": "2026-05-29T07:57:02.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1trdswh/ai_agents_can_now_form_companies_and_open_bank/",
+    "title": "AI agents can now form companies and open bank accounts. Is anyone here talking about this",
+    "publishedAt": "2026-05-29T19:58:37.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I had a few prospects asking me about this.",
-      "AI agents can already help businesses scale.",
-      "So, taking it to the extreme, can one run an entire business with just yourself and an AI?",
-      "I'm pretty sure there are people already trying to do this with various degrees of success."
+      "Saw a Polymarket post about an AI startup that lets agents form companies get EINs and open bank accounts from a single prompt.",
+      "Had like 200K+ views so I looked into it more Apparently you can now use Claude to form an LLC and open a business bank account in one conversation without leaving the chat.",
+      "The banking side connects through MCP to a fintech called Meow I work with AI agents daily and this still made me even more interested on it.",
+      "Agents writing code and handling support tickets made sense to me but forming legal entities and opening real bank accounts is a different category."
     ],
     "claims": [
       {
-        "text": "I had a few prospects asking me about this. I can see where they’re coming from. AI agents can already help businesses scale. So, taking it to the extreme, can one run an entire business with just yourself and an AI? I'm pretty sure there are people already trying to do this with various degrees of success. What would be the tools needed to make this succeed? I can certainly see technical users making it work. But what about those they aren't? Right now, I’m working with those prospects of making it work as easy as possible. submitted by /u/AvatarIncDev [link] [comments]",
+        "text": "Saw a Polymarket post about an AI startup that lets agents form companies get EINs and open bank accounts from a single prompt. Had like 200K+ views so I looked into it more Apparently you can now use Claude to form an LLC and open a business bank account in one conversation without leaving the chat. The banking side connects through MCP to a fintech called Meow I work with AI agents daily and this still made me even more interested on it. Agents writing code and handling support tickets made sense to me but forming legal entities and opening real bank accounts is a different category. I spent 3 weeks last year setting up my own LLC and dealing with the banking side and an agent can do it in one sitting now The part that got me thinking is spinning up a new business for every agent or every project vibe code an app have the agent form the company and set up a bank account for it. No more running side projects through your personal checking account like I did for way too long. Are we close to fully autonomous business creation or is this still a guided workflow with a human approving steps submitted by /u/Free-Cucumber903 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tquu5t/one_person_companies_is_it_feasible/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1trdswh/ai_agents_can_now_form_companies_and_open_bank/"
       }
     ],
     "usableFor": [
@@ -225,41 +225,41 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_ea6f6ac1235ff6c4",
+    "sourceId": "src_reddit-aiagents_190176af5e16d0b8",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tqx3hd/whats_the_most_genuinely_useful_ai_automation/",
-    "title": "what's the most genuinely useful AI automation you've seen recently?",
-    "publishedAt": "2026-05-29T10:01:33.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tqvsds/after_a_month_on_karpathys_llm_wiki_the/",
+    "title": "After a month on Karpathy's LLM Wiki, the bottleneck isn't setup. It's maintenance",
+    "publishedAt": "2026-05-29T08:50:18.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "The most useful AI automation I’ve seen lately was honestly really simple Lately my feed has been full of “AI agents replacing entire teams” posts.",
-      "But the thing that actually impressed me recently was much simpler.",
-      "I DM’d a business on Instagram expecting to wait hours for a reply.",
-      "Instead, I got a response almost instantly."
+      "I think I was one of the first few people who immediately read that Andrej Karpathy tweet, and it just clicked.",
+      "Dump your sources into a folder, let an AI read them all and build a wiki on top, then ask the wiki questions instead of digging through the original docs.",
+      "I spent the last month actually building it.",
+      "Here's what I learned, in the order I learned it."
     ],
     "claims": [
       {
-        "text": "The most useful AI automation I’ve seen lately was honestly really simple Lately my feed has been full of “AI agents replacing entire teams” posts. Autonomous businesses. AI employees. Multi-agent workflows. Cool stuff. But the thing that actually impressed me recently was much simpler. I DM’d a business on Instagram expecting to wait hours for a reply. Instead, I got a response almost instantly. It wasn’t perfect or super human-like. But it was fast, helpful, and answered my question immediately. And honestly… it worked. It made me realize most businesses probably don’t need insanely advanced AI systems right now. They just need to stop losing customers because nobody replies fast enough. Same with things like: • lead follow-ups • appointment reminders • FAQ replies • support triage • sales summaries None of this sounds revolutionary. But these are the automations that actually save time, improve customer experience, and make businesses money. I feel like the “boring” automations are creating more real-world value than most flashy AI demos online. Curious what useful automations other people here have seen recently. Real-world stuff, not futuristic concepts. submitted by /u/Automatorepreciaso [link] [comments]",
+        "text": "I think I was one of the first few people who immediately read that Andrej Karpathy tweet, and it just clicked. Dump your sources into a folder, let an AI read them all and build a wiki on top, then ask the wiki questions instead of digging through the original docs. Once you see it, you can't unsee it. I spent the last month actually building it. Here's what I learned, in the order I learned it. Week 1: Setting it up is the easy part A weekend was enough to get a basic version working With Claude and Obsidian combo. I fed it about 80 articles and PDFs, and by Sunday night I had a working wiki that summarized everything and linked related ideas together. It genuinely felt like magic. I told two friends Karpathy had cracked something fundamental. Week 2: The first cracks Getting clean text out of messy sources is a nightmare. Scanned PDFs come out as gibberish. Some websites won't load properly when a program tries to read them. Tables turn into garbage. Footnotes get jumbled into the main text. Every new type of source was a new evening of frustration. Week 3: The real problem shows up I added 50 new articles in one batch and realized the wiki had no idea they existed. To actually fold them in, the AI had to re-read and re-organize everything from scratch, which took 40 minutes and cost real money in API fees. Then I noticed three of my older summaries were quoting an article that had been updated weeks ago. The wiki was confidently telling me things from a version of the source that no longer existed. This is when it hit me. Karpathy's method assumes your sources sit still. Real research doesn't work that way. Articles get updated. Posts get deleted. You add new stuff in batches. A wiki built on a snapshot starts going stale the moment you finish building it. The maintenance problems I kept hitting: Stale summaries. A source gets updated and your summary is silently wrong. Nothing tells you. No way to know what changed. Even when I knew a source had been edited, I had no way to tell if the edit mattered enough to re-summarize. Adding new stuff means redoing everything. There's no clean way to just slot in new sources without rebuilding the whole wiki. Deleting is worse than updating. Remove a source and the wiki still references it like a ghost. The same website starts parsing differently after a redesign. You don't notice until a summary comes out broken. None of this is about prompts. None of it is about which AI model you use. It's all about keeping the underlying pile of sources fresh and clean, and that's the part nobody talks about. Week 4: Giving up and trying the no-code options This feels like defeat. I don't know if I'm the only one out there. Here are some low-code options I'm looking at. Maybe I just missed something, and I need to go back to the drawing board. If I did, please can you offer some guidance below? Trust me, I've watched almost all of the tutorials and gone through all the red threads on it, but maybe it's just me. I'm now shopping around for no-code solutions of Karpathy's LLM wiki. This is what I'm considering. Has anyone else tried these and have a successful flow? Claude with Notion: This isnt no code but it's just an alternative to Obsidian that I actually find is quite clever. I find the right MCP to be pretty smooth, and I quite like that I can create tasks and reminders versus only knowledge management. It's not exactly the same workflow, but it's a slightly tweaked version that I actually think is pretty cool. The downside is that Notion doesn't handle YouTube videos and PDFs as well. Mymind: I'm super excited about this one, but I'm not quite ready to do it. The website is beautiful, and I feel very peaceful in it, but I'm not too sure if this is a lifelong second brain or a peaceful Pinterest of knowledge. Has anybody used this? Please let me know. Recall: an AI knowledge base is the closest thing to what Karpathy is actually describing. It looks like you can add pretty much any online content: YouTube videos, podcasts, PDFs and it reads, summarizes, tags, and connects everything automatically. The catch is it's cloud-based. What I actually want to know Has anyone built their own version of this that doesn't go stale? I couldn't crack it and I'd love to be wrong. For people still running Karpathy's setup with a lot of sources, how are you dealing with summaries that go out of date when articles get edited? Is there a tool I missed that treats keeping sources fresh as the main job rather than an afterthought? submitted by /u/Sai_Abhinav [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tqx3hd/whats_the_most_genuinely_useful_ai_automation/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tqvsds/after_a_month_on_karpathys_llm_wiki_the/"
       }
     ],
     "usableFor": [
       "article",
       "trend"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-05-29_fallback",
+    "sourceId": "src_stability-ai-blog_2026-05-30_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-05-29T13:52:10.335Z",
+    "publishedAt": "2026-05-30T00:07:26.634Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-05-29T13:52:11.086Z",
+    "publishedAt": "2026-05-30T00:07:27.144Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-05-29T13:52:10.586Z",
+    "publishedAt": "2026-05-30T00:07:26.604Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,6 +340,65 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_reddit-stablediffusion_dafd282be91224f8",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1trb93v/nava_a_63b_audiovideo_model/",
+    "title": "Nava - A 6.3B audio-video model .",
+    "publishedAt": "2026-05-29T18:35:53.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Page: https://ernie-research.github.io/NAVA/ Model: https://huggingface.co/ernie-research/NAVA Github: https://github.com/ernie-research/NAVA NAVA is a 6.3 B-parameter joint audio-video generator that synthesizes synchronized video and audio from a single prompt — including multi-speaker speech with reference-timbre control and image-conditioned continuations.",
+      "Instead of post-hoc-aligned dual towers or fully unified tri-modal stacks, NAVA uses an Align-then-Fuse MMDiT : a dedicated alignment space first establishes audio-video correspondence, then context (text, speaker embeddings) is fused via cross-attention.",
+      "On Verse-Bench it sets new SOTA on Sync-C / Sync-D / video quality / audio WER while using 2× to 5× fewer parameters than open-source baselines.",
+      "submitted by /u/AgeNo5351 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "Page: https://ernie-research.github.io/NAVA/ Model: https://huggingface.co/ernie-research/NAVA Github: https://github.com/ernie-research/NAVA NAVA is a 6.3 B-parameter joint audio-video generator that synthesizes synchronized video and audio from a single prompt — including multi-speaker speech with reference-timbre control and image-conditioned continuations. Instead of post-hoc-aligned dual towers or fully unified tri-modal stacks, NAVA uses an Align-then-Fuse MMDiT : a dedicated alignment space first establishes audio-video correspondence, then context (text, speaker embeddings) is fused via cross-attention. On Verse-Bench it sets new SOTA on Sync-C / Sync-D / video quality / audio WER while using 2× to 5× fewer parameters than open-source baselines. submitted by /u/AgeNo5351 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1trb93v/nava_a_63b_audiovideo_model/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_2982d3ef3b574edc",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tr8xkx/some_anima_base_generations/",
+    "title": "Some Anima base generations",
+    "publishedAt": "2026-05-29T17:22:15.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Workflow: Anima 1.0 Base for the PC master race - Image to prompt + Turbo mode + ControlNet + 4k upscaler + CivitAI medatada Most of the images were generated using the turbo LoRA, the workflow has a special feature to fix the undesired \"sweaty skin\" issue of the LoRA.",
+      "Such patch allows to inject negative weights into the positive prompt too, so now we can have the best of both worlds, fast generations with turbo mode, and high quality results with negative weights.",
+      "submitted by /u/Brief-Leg-8831 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "Workflow: Anima 1.0 Base for the PC master race - Image to prompt + Turbo mode + ControlNet + 4k upscaler + CivitAI medatada Most of the images were generated using the turbo LoRA, the workflow has a special feature to fix the undesired \"sweaty skin\" issue of the LoRA. Such patch allows to inject negative weights into the positive prompt too, so now we can have the best of both worlds, fast generations with turbo mode, and high quality results with negative weights. submitted by /u/Brief-Leg-8831 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tr8xkx/some_anima_base_generations/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-stablediffusion_b764099222ca1683",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
@@ -351,14 +410,14 @@
       "prompt-image"
     ],
     "keyFacts": [
-      "I woundn't call it a guide but here's how I do it.",
-      "Make a image of a face that you like, you can ask any LLM to help you with the prompt about detailed face features.",
-      "Than use the BFS (Best Face Swap) Lora together with Flux2Klein model to make your data set.",
-      "Once you have a good data set, i think 20 is more than enough."
+      "Edit: OK, it is a real humbling experience posting here so here's what I gathered from all the helpful comments: It is NOT that easy and I did a terrible job here.",
+      "Use larger datasets between 50-200 and diversify the input resolution ratio to improve output variety.",
+      "Keep skin defects consistancy in dataset is crucial because people will be looking for those.",
+      "Try to avoid Asian woman because It's gonna be too generic unless they have some comical face features."
     ],
     "claims": [
       {
-        "text": "I woundn't call it a guide but here's how I do it. Make a image of a face that you like, you can ask any LLM to help you with the prompt about detailed face features. I used Z-image to make the face. Than use the BFS (Best Face Swap) Lora together with Flux2Klein model to make your data set. Once you have a good data set, i think 20 is more than enough. feed it to your favorite lora tool to make the character lora. For me ai-toolkit by ostris works perfectly. submitted by /u/HolyDancingPotato [link] [comments]",
+        "text": "Edit: OK, it is a real humbling experience posting here so here's what I gathered from all the helpful comments: It is NOT that easy and I did a terrible job here. Use larger datasets between 50-200 and diversify the input resolution ratio to improve output variety. Keep skin defects consistancy in dataset is crucial because people will be looking for those. Try to avoid Asian woman because It's gonna be too generic unless they have some comical face features. Fully synthetic faces are bad. Expect more people to just bashing on you instead of giving helpful advices. Original post: I woundn't call it a guide but here's how I do it. Make a image of a face that you like, you can ask any LLM to help you with the prompt about detailed face features. I used Z-image to make the face. Than use the BFS (Best Face Swap) Lora together with Flux2Klein model to make your data set. Once you have a good data set, i think 20 is more than enough. feed it to your favorite lora tool to make the character lora. For me ai-toolkit by ostris works perfectly. submitted by /u/HolyDancingPotato [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tqz5y0/i_found_it_real_easy_to_make_your_own_character/"
       }
@@ -370,27 +429,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_f850c070f14c61db",
+    "sourceId": "src_reddit-stablediffusion_9d089367cffe7945",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tqutrm/native_multigpu_is_merged_on_comfyui/",
-    "title": "Native MultiGPU is merged on ComfyUI",
-    "publishedAt": "2026-05-29T07:56:22.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tray25/colored_noise_diffusion_sampling_plugandplay/",
+    "title": "Colored Noise Diffusion Sampling - plug-and-play, inference-time sampler.",
+    "publishedAt": "2026-05-29T18:26:11.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "https://github.com/Comfy-Org/ComfyUI/pull/7063 Very helpful when it comes to : LTX2.3 first pass since usually we use CFG>1.0 Non distilled lora model.",
-      "e.g: - Wan 2.2 intead of using fast lora, switch to multigpu and use teacache.",
-      "- High quality Qwen 2511, https://www.reddit.com/r/StableDiffusion/comments/1tqm8ic/cracked_the_case_on_high_res_quality_qwen_edit/ - SDXL/SD1.5 Hunyuan vids if i am not mistaken only support CFG 1.0.",
-      "submitted by /u/Altruistic_Heat_9531 [link] [comments]"
+      "Project: https://hadardavidson.github.io/CNS/ Paper: https://arxiv.org/pdf/2605.30332 Github: https://github.com/hadardavidson/colored-noise-sampling Diffusion models generate images with a spectral bias : low-frequency global structure is resolved early in the sampling trajectory, while high-frequency detail emerges only at the very end.",
+      "Standard SDE solvers ignore this dynamic entirely — they inject uniform white noise at every step, wasting the finite stochastic energy budget on frequency bands that are already structurally resolved.",
+      "CNS reconsiders SDE inference as a targeted energy transfer .",
+      "At each step, it measures how \"built\" each frequency band is via a precomputed progress index γ(f, t) ∈ [0, 1], and dynamically routes injected noise energy toward the bands with the largest remaining structural deficit."
     ],
     "claims": [
       {
-        "text": "https://github.com/Comfy-Org/ComfyUI/pull/7063 Very helpful when it comes to : LTX2.3 first pass since usually we use CFG>1.0 Non distilled lora model. e.g: - Wan 2.2 intead of using fast lora, switch to multigpu and use teacache. - High quality Qwen 2511, https://www.reddit.com/r/StableDiffusion/comments/1tqm8ic/cracked_the_case_on_high_res_quality_qwen_edit/ - SDXL/SD1.5 Hunyuan vids if i am not mistaken only support CFG 1.0. submitted by /u/Altruistic_Heat_9531 [link] [comments]",
+        "text": "Project: https://hadardavidson.github.io/CNS/ Paper: https://arxiv.org/pdf/2605.30332 Github: https://github.com/hadardavidson/colored-noise-sampling Diffusion models generate images with a spectral bias : low-frequency global structure is resolved early in the sampling trajectory, while high-frequency detail emerges only at the very end. Standard SDE solvers ignore this dynamic entirely — they inject uniform white noise at every step, wasting the finite stochastic energy budget on frequency bands that are already structurally resolved. CNS reconsiders SDE inference as a targeted energy transfer . At each step, it measures how \"built\" each frequency band is via a precomputed progress index γ(f, t) ∈ [0, 1], and dynamically routes injected noise energy toward the bands with the largest remaining structural deficit. A strict global variance-conservation constraint (mean β² = 1) ensures the modified SDE still converges to the target data distribution. The result is a strictly plug-and-play sampler substitution — same model, same number of steps, only the noise injection change submitted by /u/AgeNo5351 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tqutrm/native_multigpu_is_merged_on_comfyui/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tray25/colored_noise_diffusion_sampling_plugandplay/"
       }
     ],
     "usableFor": [
@@ -400,83 +459,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_31be3cf9597ccd44",
+    "sourceId": "src_reddit-stablediffusion_225cf205103e1168",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tqhdxm/the_essential_calvin_hobbes_flux2_klein_9b_base/",
-    "title": "The Essential Calvin & Hobbes - FLUX.2 Klein 9b Base -> 4x upscaler",
-    "publishedAt": "2026-05-28T21:38:31.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tr9539/italy_in_the_1980s_zimage_turbo_wan_22/",
+    "title": "Italy in the 1980s (Z-Image Turbo - Wan 2.2)",
+    "publishedAt": "2026-05-29T17:28:51.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "submitted by /u/AreaFifty1 [link] [comments]"
+      "This was just a test I did a couple of weeks ago.",
+      "It's not the kind of video I usually make.",
+      "It doesn't have a story, just a context (Italy in the 1980s).",
+      "Since the final result isn't that bad in my opinion, I decided to share it."
     ],
     "claims": [
       {
-        "text": "submitted by /u/AreaFifty1 [link] [comments]",
+        "text": "This was just a test I did a couple of weeks ago. It's not the kind of video I usually make. It doesn't have a story, just a context (Italy in the 1980s). Since the final result isn't that bad in my opinion, I decided to share it. I hope you like it. Workflows: https://drive.google.com/file/d/1GC6mClujD5vggyIHi6cnT_vuE9fRmwGg/view?usp=sharing My previous videos: https://www.reddit.com/user/MayaProphecy/submitted/ submitted by /u/MayaProphecy [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tqhdxm/the_essential_calvin_hobbes_flux2_klein_9b_base/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_3c82c45b3d19d442",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tqm8ic/cracked_the_case_on_high_res_quality_qwen_edit/",
-    "title": "Cracked the case on high res + quality Qwen Edit 2511 outputs, here are minimalistic workflows & lots of info on how/why",
-    "publishedAt": "2026-05-29T00:57:28.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Intro Alright this has been a long time coming.",
-      "I'm the dude who figured out Qwen Edit 2509 a while back , and I've been on-and-off trying to figure out the same for 2511.",
-      "Results in Comfy have always been worse than the examples shown by the Qwen team, and worse than the official Qwen chat implementation online.",
-      "Well, I finally cracked it and it only took 5 months lol."
-    ],
-    "claims": [
-      {
-        "text": "Intro Alright this has been a long time coming. I'm the dude who figured out Qwen Edit 2509 a while back , and I've been on-and-off trying to figure out the same for 2511. Results in Comfy have always been worse than the examples shown by the Qwen team, and worse than the official Qwen chat implementation online. Well, I finally cracked it and it only took 5 months lol. Anyway, turns out Qwedit 2511 is fucking sick. IMO it particularly excels at making new shots of characters while maintaining their likeness. It's significantly better than Klein at some things (like character likeness), but not as good at others. I recommend using them both for different things. As usual, I'll start off with all the setup stuff at the top and then give an explanation + advice below that. Also I'm gonna be calling Qwen Edit \"Qwedit\" most of the time. Here's an album with all the post images separated so you can look at them in high res: https://drive.google.com/drive/folders/1YLjm8Lj3VF6Ec52WNK2URo7uFNfMRmza?usp=sharing The posted images are all raw outputs from Qwedit, without being upscaled (despite mentioning it later in this post). They're also all done with only 20 steps instead of the hypothetical 30 I'd do if I wasn't planning to upscale them. Read further for more on that too. Ref images were all made with Z-image Base ( workflow here ), except for the anime one which came from Anima ( workflow here ). What is this These are minimalistic workflows for Qwen Image Edit 2511 that give the highest quality outputs. Aside from generally improving output quality (by a LOT), they also enable high-res edits and have better prompt adherence. As for why , basically ComfyUI has some serious issues with how it's implemented Qwen Edit and there aren't any workflows out there (that I've found) which have resolved them. These issues result in poor prompt adherence and low resolution/quality outputs. Thankfully the fix is fairly straightforward. The configuration for this is 100% portable and can be migrated to existing workflows to make them better; it works by changing how the reference inputs are handled, and uses 100% native comfy nodes . Feel free to upgrade other workflows with this without providing credit, I don't care about any of that. Workflows Normal Workflows: Most of you will just want these, which are separate single / 2 image workflows. It's done this way because the setup for multi-image is complicated and I didn't want to force you to use a ton of custom nodes to make it useable all-in-one. They do still use one custom node (read the node section below) for quality-of-life. Download from Civitai OR from Pastebin: Qwedit_2511_single Qwedit_2511_2_image Dev Workflows: These are the same as the above but without any quality-of-life nodes or 'helpful' stuff. Grab these if you want to copy the logic over to other workflows, or if you just an easier view of how it works without any clutter. I do not recommend using the dev workflows for actual gens because you will constantly forget to manually adjust stuff correctly. qwedit_2511_single_DEV qwedit_2511_2_image_DEV Models Main Model qwen_edit_2511_fp8 OR GGUF versions Important: the FP8 version of Qwedit is much higher quality than the Q8 GGUF, always use FP8 if you can. Only use the GGUFs if you need to use quants lower than Q8. FP8 is 22GB, so you'll need a combined ~26GB of RAM + VRAM to run it You don't need 24GB of VRAM to run it thanks to ComfyUI's blockswapping, but the less VRAM you have the slower it'll run Only use Q6 & lower quants if you absolutely have to; the quality will noticeably go down Goes in models/diffusion_models Text Encoder Use only the normal FP8 text encoder with Qwedit; abliterated/GGUF encoders will reduce your output quality. qwen_2.5_vl_7b_fp8 Goes in models/text_encoders VAE qwen_image_vae Goes in models/vae Loras? You can use them as normal, just load them however you normally would. I left out lora loader nodes to avoid cluttering the workflow. It's worth noting that many Qwen Image loras work with Qwen Edit too, but you'll need to test them individually to be sure. Lightning Loras - BAD All the lightning loras / distils for Qwedit (that I've tested) are terrible and make your outputs look bad, so I'm not linking them here. The main issue is the same as with Klein Distilled: it makes people's skin look like plastic. But you can technically use them. Don't do it tho . But you can if you want. But don't . Alternative: if you want to cut your gen time down while testing prompts, just set it to 10 steps instead of 20, then go back to 20 once you're satisfied your prompt is correct. It'll still work fine, the quality just dips. Real tho it's ok if you want to use the lightning loras, just expect some degradation if you do - especially with plastic skin. Custom Nodes LayerStyle - A set of handy nodes that manipulate images. We're just using this for its image scaling node which allows you to scale by an image's long edge while maintaining divisibility by 16. You can skip this if you want to use a different scaling method, but you'll need to fix the workflow switch for scaling if you do. SeedVR2 (OPTIONAL) - Only get this if you want to use the seedvr upscale workflow that's included. How To Use How To Use Part 1 - Basic Options There are instructions in the workflow as well, but there's more detail here. Read part 2 & 3 as well, they're important. It works just like a normal Qwedit workflow, but has a couple of extra options available. This section just tells you what they are and how to use them, a full explanation is further down. Screenshot of the settings: https://ibb.co/nWStpmS Enhance with Double Ref This is a switch that turns on double-ref mode. This feeds your input images in TWICE to the model, and generally produces much higher quality results. Downside? It takes about 50% longer to gen. I recommend leaving this on 100% of the time for single-image prompts, unless you're just messing around and want speed. It is ALWAYS better for single image prompts, and will improve everything from prompt adherence to output clarity. For multi-image prompts, it usually increases adherence but sometimes reduces it. So, if you're doing multi-image stuff I recommend switching this on/off as needed based on how it's going with your prompt. Input Scale When off, your image doesn't get scaled (it still gets cropped to be divisible by 16). When on, the long edge of your image gets scaled to the number you put in the box. For example, if you feed in a 2560x1440 image and set the scale to 1920 it will scale your image to 1920x1080. That will then get cropped to 1920x1072 so it's divisible by 16. Custom Output Size When the switch is off, your output image will be the same size as your input image (after it's been scaled). If you turn this switch on, it will instead output an image with the dimensions you specify. As a general rule, you should try to set your scales to be similar along at least one edge. For example, a 1920x1440 input image and a 1024x1440 input image are both suitable for a 1440x1440 output image. You can be more flexible with this if you know what you're doing. How To Use Part 2 - Multi-image Prompting Requirement This section is not a prompting guide (that's further below). This is about an actual requirement for prompting multi-image stuff. It is NOT required for single-image prompts. You do multi-image prompts like normal, except you need to write a very basic description of your input images. Qwedit needs you to do this in order to know which image is which. I explain why in detail later. You may find this slightly annoying, but I guarantee you it's dramatically better than using Qwedit the normal way that other workflows do - and it's pretty easy. The format: At the start of your prompt, write an extremely simple description for each of your input images; one sentence for each input image Start each sentence with \"Picture 1:\", \"Picture 2:\", etc You must write it this way because Qwedit was trained on this exact format Afterwards, write your actual prompt as usual; you can refer to your input images as \"picture 1\" and so on The model uses these descriptions to understand which input picture is which, and it works better with SIMPLE descriptions. You only need to help it know which one is which, it doesn't need a full rundown. Examples Picture 1: a man wearing a t-shirt. Picture 2: a top hat. Make the man in Picture 1 wear the top hat from Picture 2. Picture 1: a living room. Picture 2: a woman. Put the woman from Picture 2 into the living room in Picture 1. Picture 1: a man wearing a professional suit. Picture 2: a man wearing a superhero outfit. Make the man in Picture 1 wear the outfit from Picture 2. How To Use Part 3 - Upscaling Because the qwen VAE tends to put a subtle halftone pattern over images (see limitations just below this section), I recommend downscaling and then re-upscaling your image afterwards. A big benefit of being able to work at high res with the edit model is that you rarely lose any detail doing this. This eliminates the halftone pattern if you're using something like seedvr, or at least reduces it if you're using other upscalers. Note: the workflow is set to do 20 steps of inference. It actually gives sharper results at 30 steps, but I don't bother with that because it takes longer and I down-upscale them afterwards anyway. If you aren't planning on down-upscaling them, you might consider doing 30 steps for the extra sharpness. Below are workflows for doing this with seedvr and normal upscalers. I think seedvr is best for this, but it's very beefy and hard to run on older GPUs. Note: seedvr2 sometimes gives better output at 0.5x downscale, and other times 0.75, so that workflow is configured to run BOTH for you to pick which one turned out best. Note: normal upscalers are a bit different; a relatively small downsize to something like 1920p -> 1600p is usually reasonable, before then running the upscaler. Play around with it. The non-seedvr workflow has a longest_edge scale option so you can tweak the number specifically. Seedvr version Regular version My preferred regular upscaler is 4x Nomos2 HQ DAT2 , but you can use whatever you like. Examples of upscaling: Here's the pic raw output of the robot-arm girl in a dress from the post: https://ibb.co/B5jhrsL9 (if you zoom in you'll see the qwen halftone pattern, it looks like a grid) Here's the pic after it's been run through seedvr after a 0.75x downscale: https://ibb.co/hJcn2f5t Here's the pic after it's been run through a regular Nomos2 upscale after a downscale to 1600p: https://ibb.co/Kc2YSbVc Limitations of Qwen Edit Limitation 1 The Qwen VAE will often put a subtle halftone grid pattern over your images. It's noticeable if you zoom in, and more noticeable at higher resolutions. This is a feature of pretty much every Qwen-based model, but it's particularly present with the Edit model. You can easily resolve this by downscaling your image by 75% or 50%, then re-upscaling it again to your desired resolution. There's a section later that explains this in better detail and recommends upscale models for it + has workflows for it. It sounds like a big issue, but the downscale-upscale trick solves it easily - and it's not always necessary either. The higher quality your input image, the less bad the halftone pattern will be. Limitation 2 Qwedit struggles with complex multi-image stuff most of the time (it's just a limitation of the model). This workflow makes it much better, but it's still not great. You'll have to play around with it to know which things work and which things don't. Limitation3 It takes a while to gen stuff if not using the lightning loras. Very similar to the time it takes with Klein 9B base. The double-ref trick increases it by roughly 50%. Multi-image inputs take a lot longer. For low res images (typical 1mpx size) it's pretty okay, around 50 seconds on a 5090 with the double-ref option turned on. But then there's high-res stuff. Gen time scales non-linearly as you go higher. Going from 1024x1024 (1 mpx) to 1440x1440 (2 mpx) takes around 2.5x as long. Going from 1 mpx to 3 mpx is around 4x as long. 5 mpx is 9.5x as long. In conclusion, stick to 2-3 mpx unless you're cool with long-ass gen times. Stick around 1-2 mpx for multi-image gens, or turn off the double ref switch. On the plus side, it's pretty reliable for single-image edits so you don't typically need to do many gens to get a good result. Examples using a 5090: - Single-image edit @ 1024x1024 (1 mpx), double-ref OFF = 38 seconds - Single-image edit @ 1024x1024 (1 mpx), double-ref ON = 52 seconds - Single-image edit @ 1920x1088 (2 mpx), double-ref OFF = 91 seconds - Single-image edit @ 1920x1088 (2 mpx), double-ref ON = 131 seconds - Single-image edit @ 3072x1728 (5.3 mpx lol), double-ref ON = 550 seconds - Two-image edit @ 2560x1440 each, double-ref ON = serial killer behaviour That's it for how-to! Read on for more tips & info, as well as an explanation of what the workflow is doing & why. Explanation - what is this garbage and why is it so good? There are three important things this workflow is doing that other workflows do not do (except #3 sometimes, because it was also done in the 2509 version of this post). I'm going to call these The Comfy Problem , The VL Problem , and The Double Ref Enhancement . The Comfy Problem Comfy's native \"TextEncodeQwenImageEditPlus\" node is what most people use in their workflows. It handles your prompt and image inputs for you. It's pretty handy, except for the small problem that it's SHITE. Do you work at Comfy? If so: GET YOUR SHIT TOGETHER AND FIX THIS NODE, IT'S SO EASY. Much respect to u tho, thanks for making ComfyUI. The first issue is that this node resizes your image down to 1 megapixel, and you can't stop it from doing that. The second issue is that it does this with the AREA downscale method, which is so incredibly bad that I want to slap whoever implemented this node. The AREA downscale is what makes all of your output images blurry. The third issue is that it ensures your dimensions are divisible by 8, but they actually need to be divisible by 16. Specifically, ComfyUI does this: Calculates 1 megapixel as 1024x1024, which is 1,048,576 pixels Calculates your new image dimensions to match that number of pixels, rounded to be divisible by 8 Scales your image to those new dimensions using the AREA method Why is all this bad? It's completely unnecessary; Qwedit can easily handle images of varying size, all the way up to 3 megapixels (or even higher for simple edits) The area downscale method makes images extremely blurry, and this is the primary reason all ComfyUI qwen edits give blurry images out. Yes it's literally this dumb, this huge problem would easily be solved by changing the word \"area\" to \"lanczos\" in the code, it's a one-word fix. Not even MS paint uses area downscale, wtf is wrong with you Comfy devs (much respect) If your image dimensions are not divisible by 16, you will get major ruination along the whole edge of your image where it didn't match (same as any other diffusion model) The Comfy Problem Solution This workflow bypasses the the Comfy node entirely, allowing you to size your images however you want. And using chad lanczos scaling instead of loser area scaling. Magic. Qwedit easily handles resolutions like 1440x1440 and 1600x1200. Every edit example in this post was done natively at 1920p, except for a few (which are labelled as such). Really high resolutions (3mpx) sometimes have trouble with anatomy, but usually you can just do multiple gens and one of them will turn out fine. If you're doing a simple in-place edit like changing an outfit, you can go VERY high. Here's an example edit done at 1728x3072, which is 5 megapixels: https://ibb.co/twCSWrjy (outfit change -> bikini top + short shorts) The VL Problem In the background, Qwedit 2511 uses a vision-language model (VL model) to describe your images, then gives those AI-generated descriptions to the edit model. It also re-interprets your instructions with these descriptions. Ostensibly this helps the model understand your input images better, leading to better results. The problem? It doesn't lead to better results, it's bad. VL models aren't very good for this sort of thing because they don't know what to focus on. The VL describes your images in excruciating detail, totally overwhelming the edit model and leading to bad prompt adherence + weird outputs. It also reinterprets your instructions based on what it sees in the image. I don't know if that's a good or bad thing, just pointing out that it does it. The Qwen team's official python code does this, and the ComfyUI \"TextEncodeQwenImageEditPlus\" node copies it exactly. No disrespect to the Comfy team on this one, they're doing what the Qwen team officially recommended. The VL Problem Solution Same solution as the previous problem: bypass the Comfy node entirely. This results in the VL step being completely ignored. No AI-generated descriptions get fed into the edit model. For single-image edits, this is a 100% complete and total victory. The model performs way better without the crappy VL interpretation. For multi-image edits, there's a small issue; this step is where the input images normally get labelled. Specifically, the VL outputs are fed into the model in the following exact format: Picture 1: Picture 2: Look familiar? This is why we manually have to type the descriptions in for multi-image edits - otherwise the model doesn't actually know which image is which. The upside is that the model works way better with simple descriptions, so cutting out the VL is still 100% the correct move. A 5 word description wins over whatever BS the VL model spews out, every time. The Double Ref Enhancement I really have no idea why this works so well, but basically if you feed in your reference images twice the model just works better. This was known back in 2509 days (hence the previous post linked at the top), and back then I didn't know why it worked either. For single image edits it's ALWAYS better. And it's not just the quality, for some reason it even helps with prompt adherence. The interesting thing is that the difference is really, really significant. Here's the full list of stuff it improves: Better prompt adherence Sharper output images / more visual clarity Improved consistency of objects & textures Better resemblance of characters at different angles More intelligent guesses, like what to add when outpainting or what's behind a removed object For multi-image edits it can sometimes confuse the model a bit, but most of the time it confers all the same benefits listed above. I recommend switching it on & off randomly when you're doing multi-image stuff, just in case. Note: there are a lot of different ways the input references can be handled. There are conditioning combine/concatenate nodes, you can pass the refs in a different order, you can change the negative conditioning input (read next section for that), etc. I A/B tested SIXTEEN different reference-handling combinations, and a bunch of smaller minor variations of those. Some of them worked, some of them didn't. Of those sixteen combinations, two of them gave the best results; both of them are in this workflow, and you switch between them by turning the double ref method on & off. So, don't fuck with the positive/negative conditioning & reference setup, it's very specific. Extra info: the \"Conditioning Zero Out\" You may notice that the negative prompt input is the first reference image(s) and positive prompt fed into a \"conditioning zero out\" node. Feeding the input images into the model's negative conditioning is required (it's just how Qwedit works). The only question is whether to feed in the positive prompt zeroed-out too, and whether the double ref should get fed in. Through a lot of A/B testing, I can tell you that the way it's done here is the best. IDK why, it's just how it is. Some other combinations do technically work, but they degrade the output quality. Prompting Advice Other than just following the instructions in the workflow, here's some extra stuff. Keep your prompts simple and direct If you need to, point out details the model is missing or be more specific about stuff you do/don't want to change. For example, when doing a simple outfit swap it helps to specify you don't want their pose to change. Using the robot arm girl, here's a prompt that doesn't follow this advice: Change her outfit to a bikini top and short shorts. While it sometimes does what we want, it tends to get confused by her robot arm and often changes her pose too: https://ibb.co/7dyKZttp (notice the human arm showing underneath the robot arm, and the pose change) Here's a better prompt that gives a correct result 99% of the time: Change her outfit to a bikini top and short shorts. Leave her robot arm and pose unchanged. Now it does the right thing every time: https://ibb.co/DP9gZHVv Avoid using fancy words or convoluted phrasing Pretend you're talking to a child. The model will probably still understand you if you talk fancy, but why take the risk? As an example, imagine you have a pic of a table with some plates on it. Bad: Place a red apple on the table, ensuring it's in the center and removing the plate that was in the same spot. Good: Replace the middle plate with a red apple. Also good: Remove the plate from the center. Put a red apple there instead. If there's only one plate, this is even better: Remove the plate, replace it with a red apple. Adjusting Lighting You may want or need to adjust the lighting in an image. Aside from being helpful in general, there are situations where Qwedit may simply not realise that something needs to be lit in a particular way (or re-lit when moved). To do this, you need to know the magic word: relight Seriously tho that is the actual magic word, you are 100% required to use it if you want to adjust lighting properly. Specifically, follow this format: Relight to . Strength - bright, dim, etc Color - white, cool, warm, etc Direction - diffuse, frontlit, backlit, etc Tip: for basic lighting, use \"white diffuse\". Examples: Make a new shot of the man sitting in a chair in a kitchen. Relight to white diffuse. Change the time of day to evening. Relight to warm backlit. You don't actually need anything else in the prompt, you can just change the lighting of a pic like this: Relight to bright cool frontlit. Other Stuff Euler-simple and no ClownsharKSampler? No Clownshark this time. It reduces output quality quite a bit and doesn't confer any benefits. I also didn't find any sampler/scheduler combos that were better than euler/simple. So, this is just one of those classic times where the ol' euler-simple wins the day. Let me know if you happen to know a better combo. Image Quality in->out Qwedit is very sensitive to the quality of your input image. If you feed in a grainy or blurry image, it will usually make your output image blurry or grainy too - even if it's an 'entirely new' shot with nothing copied over 1:1. So, make sure to use HQ images. You can optionally use the upscale workflows to bump up the sharpness/quality of poor input images before you feed them in. What about the flux super duper double resolution special VAE trick? Doesn't work for 2511, it destroys your image. TBH it never really worked for 2509 either, but I won't argue with you if you liked it for some reason. Making character references Tip 1 - Make a nude ref (even for sfw stuff) Qwen is killer for making character references. Other than using similar prompts to the examples I posted, my advice is to make a nude reference shot instead of a clothed one like I did. I only made a clothed ref for the sake of propriety here, but a nude ref (or near-nude, like wearing plain white underwear) will be much easier to prompt into different outfits, and also gives Qwedit the maximum info needed to correctly size your character and know what they look like in clothing or doing different actions. You do not need any loras to do this if you're just using it as a reference; the 'sensitive' parts will lack detail but that doesn't matter for new shots you make. If you don't want them nude, just request plain white underwear and, if relevant, a strapless white bra. Nude ref = best ref. Tip 2 - Make multiple zoom levels, use the thighs-upwards one for most stuff The example I showed was a little too zoomed out for normal reference stuff. I'd recommend making your reference slightly closer like this: https://ibb.co/Q33BJDLX Start at whatever zoom level your initial character pic is at, then make more references at different zoom levels. If you're starting zoomed out, then prompt the model to zoom in. If you start zoomed in, prompt it to zoom out. And, of course, different angles too. Examples: Zoom in on the person's upper body. The composition should frame their head and thighs. Zoom out to show more of the character. The composition should frame their head and thighs. Zoom out to a full body shot. Zoom in for a close up portrait. Once you've got references, you should usually use the head-to-thighs ref for making new shots. Switch to the other refs as necessary; like if you want a close up, use the close up reference. Qwedit is really good at keeping likeness, so you can do 90% of your stuff with only a single input reference. I don't think there's a better open-weight model out there than Qwedit for making new shots of character without loras, for now. The main reason I spent so long digging into Qwen is because Klein is quite bad at that particular task. But hey, now it's possible and it works gloriously. That's everything I think! Feel free to ask questions if you run into any issues. submitted by /u/nsfwVariant [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tqm8ic/cracked_the_case_on_high_res_quality_qwen_edit/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_37be90cb0c20e61e",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tqiufn/what_style_is_this/",
-    "title": "What style is this?",
-    "publishedAt": "2026-05-28T22:34:09.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "I want to generate images in the style of these photos, but I don’t know what prompt to use.",
-      "Also, if anyone knows which model to use, that would be very helpful.",
-      "submitted by /u/InvestigatorThat9518 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "Hi! I want to generate images in the style of these photos, but I don’t know what prompt to use. Also, if anyone knows which model to use, that would be very helpful. Thanks in advance. submitted by /u/InvestigatorThat9518 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tqiufn/what_style_is_this/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tr9539/italy_in_the_1980s_zimage_turbo_wan_22/"
       }
     ],
     "usableFor": [
@@ -516,6 +519,66 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-comfyui_5604148117d6075f",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tr90cl/pipeline_from_blender_blockouts_to_aces_color/",
+    "title": "Pipeline From Blender Block-outs to ACES Color Grading",
+    "publishedAt": "2026-05-29T17:24:37.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Hey guys, I wanted to share the process behind my latest short film so you can replicate the pipeline.",
+      "here is the step-by-step tech sheet of my production bible: ------------------------------------------------------------------ Sometime tomorrow I'll release the actual JSON workflows so you guys can have some fun tweaking them ------------------------------------------------------------------ 1) 3D Block Outs: Done in Blender with free-use meshes.",
+      "No textures needed since this is just fed to a latent space in diffusion later.",
+      "Camera Setup: Placed the camera position and angle to establish the 2D still plate for the starting frame (for I2V inference later)."
+    ],
+    "claims": [
+      {
+        "text": "Hey guys, I wanted to share the process behind my latest short film so you can replicate the pipeline. here is the step-by-step tech sheet of my production bible: ------------------------------------------------------------------ Sometime tomorrow I'll release the actual JSON workflows so you guys can have some fun tweaking them ------------------------------------------------------------------ 1) 3D Block Outs: Done in Blender with free-use meshes. No textures needed since this is just fed to a latent space in diffusion later. Camera Setup: Placed the camera position and angle to establish the 2D still plate for the starting frame (for I2V inference later). 2)First Diffusion Pass: Fed the 3D-to-2D stills into a series of ControlNets (Depthmap, Canny edge) and into an SDXL (Juggernaut Ragnarok) I2I workflow. Used LyCORIs and LoRAs to add texture during a .35 denoise pass, then ran it through 4 dedicated Sam2+BBox detailers targeting anatomy. 3)Second Pass (Hybrid): Fed the output into an I2I Flux.2 Klein 9b and Juggernaut dual-pass hybrid. I do a .55 denoise to lock in geometric edges, master lighting, and structure. It then decodes/encodes back into Juggernaut at .18 denoise (27 steps) for the final texture pass. 4)Likeness & Film Sim: Ran through a PuLID system to lock in character likeness, followed by a film-sim (lens distortion, white balance, lens softness, DOF via Depth Anything V2, chroma aberration). It’s converted into Log in ACEScg space as an .EXR. (I output a PNG as a reference, a Kodak Log format, and a 4k upscale. Note: I avoid grain here since grain is a nightmare for I2V inference.) 5)Color Grading: Grabbed the EXR into DaVinci Resolve Studio. Did a CST in (ACES AP1/ACEScg to ACES AP1/ACEScct) for neutralization, masking, and color grading (no grain), then CST out (ACES AP1/ACEScct to P3-D65/gamma2.4). Exported as PNG for inference. 6)Motion Inference: Ran through an I2V LTX 2.3 workflow for each still, following the beat sheet from my pre-production story bible. 7)Final Assembly: Took each scene back to DaVinci for final touch-ups, minor pEmitters/pRenders through depthmaps in Fusion for atmosphere. Edited, superscaled, retimed, and added Foley in Fairlight with recorded VO. 8)Delivery: Exported the master in ProRes 4444 with alpha, and the deliverable in h.265. -_-_-_+_+_+_-_-_-_+_+_+_-_-_-_+_+_+_-_-_-_+_+_+_-_-_-_+_+_+_-_-_-_+_ -_-_-_+_+_+_-_-_-_+_+_+_-_-_-_+_+_+_-_-_-_+_+_+_-_-_-_+_+_+_-_-_-_+_ Hope this helps you guys make some cinema! Tomorrow I will provide the workflows for free because open source should never hide behind a paywall. 🙃 (Also, I'm super stoked to share that this short actually made the official selection on Wondracinema! If you enjoyed the video and want to support the project, you can check out the official nomination and vote here: [ https://wondracinema.com/video/beb9ff92-d5fe-4940-b926-9f8af10303bd ]) submitted by /u/Sir_Latent [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tr90cl/pipeline_from_blender_blockouts_to_aces_color/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-comfyui_c11a5910264de5cc",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tr581g/i_ported_the_cns_paper_colored_noise_diffusion/",
+    "title": "I ported the CNS paper (Colored Noise Diffusion Sampling) to ComfyUI for FLUX — here's what it does and how to use it",
+    "publishedAt": "2026-05-29T15:22:44.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "I ported the CNS paper (Colored Noise Diffusion Sampling) to ComfyUI for FLUX — here's what it does and how to use it There's a paper that dropped two days ago called Colored Noise Diffusion Sampling that got me curious.",
+      "The core idea is simple but clever: standard SDE samplers inject uniform white noise at every step, wasting energy on frequency bands that are already resolved.",
+      "CNS routes that energy toward bands that still need work — early steps focus on low-freq structure, later steps on high-freq detail.",
+      "Same model, same step count, better output."
+    ],
+    "claims": [
+      {
+        "text": "I ported the CNS paper (Colored Noise Diffusion Sampling) to ComfyUI for FLUX — here's what it does and how to use it There's a paper that dropped two days ago called Colored Noise Diffusion Sampling that got me curious. The core idea is simple but clever: standard SDE samplers inject uniform white noise at every step, wasting energy on frequency bands that are already resolved. CNS routes that energy toward bands that still need work — early steps focus on low-freq structure, later steps on high-freq detail. Same model, same step count, better output. The paper tested it on FLUX and showed consistent FID improvements, so I built a ComfyUI node for it. https://preview.redd.it/wvmm3jygg34h1.png?width=1756&format=png&auto=webp&s=6c578ffc91a6b9bbe1048d397f7f5c93314c6990 GitHub: IIs-fanta/ComfyUI-CNS-Sampler-CHENGOU 取自论文 How to use it Drop the folder into custom_nodes/ and restart. The node outputs a SAMPLER — plug it into SamplerCustomAdvanced (not KSampler). If you have gamma_matrix_scaled.pt from the official repo, put it in the node folder and it loads automatically. If not, there's a built-in sigma-based approximation that works fine. The node replaces the sampler slot, not the noise node — this is intentional. CNS needs to adjust noise frequency at every step , so it has to live inside the sampling loop. Recommended settings for FLUX Unguided / low CFG: s_churn: 0.5 power_gamma: 0.75 gamma_divider: 1.73 energy_scale: 0.98 alpha_tilt_start: 0.15 alpha_tilt_end: -0.5 With CFG guidance: power_gamma: 0.5 gamma_divider: 25.0 energy_scale: 0.998 alpha_tilt_start: -0.1 alpha_tilt_end: 0.03 alpha_exp_interp: off What to expect Not a miracle worker — FID is a statistical metric across thousands of images, not a per-image guarantee. But in practice, complex compositions and high-detail subjects tend to look more coherent. Low step counts seem to benefit most. Paper is two days old so this is early. Happy to take bug reports — there have already been a few interpolation edge cases that needed fixing. Based on: Davidson et al., \"Colored Noise Diffusion Sampling\" (2026) — https://arxiv.org/abs/2605.30332 submitted by /u/PlusInvestment6393 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tr581g/i_ported_the_cns_paper_colored_noise_diffusion/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-comfyui_ca9f49408ab04c5d",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
@@ -546,84 +609,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_fc536e3c979d82c8",
+    "sourceId": "src_reddit-comfyui_845d589e9f2394bc",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tqm4pb/cracked_the_case_on_high_res_quality_qwen_edit/",
-    "title": "Cracked the case on high res + quality Qwen Edit 2511 outputs, here are minimalistic workflows & lots of info on how/why",
-    "publishedAt": "2026-05-29T00:52:48.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tr5fj9/image_restoration_with_nvidia_pid/",
+    "title": "Image restoration with NVIDIA PID?",
+    "publishedAt": "2026-05-29T15:29:29.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Intro Alright this has been a long time coming.",
-      "I'm the dude who figured out Qwen Edit 2509 a while back , and I've been on-and-off trying to figure out the same for 2511.",
-      "Results in Comfy have always been worse than the examples shown by the Qwen team, and worse than the official Qwen chat implementation online.",
-      "Well, I finally cracked it and it only took 5 months lol."
+      "After watching Benji's latest PID Z-image and Flux2 video ( https://www.youtube.com/watch?v=Be9u6zo85TE ) I wanted to know if anyone has tried to preform image restoration with PID for Image to Image, much like the SEEDVR workflows?",
+      "I tried creating the WF but it did not work out the way I thought it would.",
+      "Basically take a image that has lost it's details and add the details back with Nvidia PID?",
+      "Maybe it is not made for that, but T2I PID results look pretty good to me."
     ],
     "claims": [
       {
-        "text": "Intro Alright this has been a long time coming. I'm the dude who figured out Qwen Edit 2509 a while back , and I've been on-and-off trying to figure out the same for 2511. Results in Comfy have always been worse than the examples shown by the Qwen team, and worse than the official Qwen chat implementation online. Well, I finally cracked it and it only took 5 months lol. Anyway, turns out Qwedit 2511 is fucking sick. IMO it particularly excels at making new shots of characters while maintaining their likeness. It's significantly better than Klein at some things (like character likeness), but not as good at others. I recommend using them both for different things. As usual, I'll start off with all the setup stuff at the top and then give an explanation + advice below that. Also I'm gonna be calling Qwen Edit \"Qwedit\" most of the time. Here's an album with all the post images separated so you can look at them in high res: https://drive.google.com/drive/folders/1YLjm8Lj3VF6Ec52WNK2URo7uFNfMRmza?usp=sharing The posted images are all raw outputs from Qwedit, without being upscaled (despite mentioning it later in this post). They're also all done with only 20 steps instead of the hypothetical 30 I'd do if I wasn't planning to upscale them. Read further for more on that too. Ref images were all made with Z-image Base ( workflow here ), except for the anime one which came from Anima ( workflow here ). What is this These are minimalistic workflows for Qwen Image Edit 2511 that give the highest quality outputs. Aside from generally improving output quality (by a LOT), they also enable high-res edits and have better prompt adherence. As for why , basically ComfyUI has some serious issues with how it's implemented Qwen Edit and there aren't any workflows out there (that I've found) which have resolved them. These issues result in poor prompt adherence and low resolution/quality outputs. Thankfully the fix is fairly straightforward. The configuration for this is 100% portable and can be migrated to existing workflows to make them better; it works by changing how the reference inputs are handled, and uses 100% native comfy nodes . Feel free to upgrade other workflows with this without providing credit, I don't care about any of that. Workflows Normal Workflows: Most of you will just want these, which are separate single / 2 image workflows. It's done this way because the setup for multi-image is complicated and I didn't want to force you to use a ton of custom nodes to make it useable all-in-one. They do still use one custom node (read the node section below) for quality-of-life. Download from Civitai OR from Pastebin: Qwedit_2511_single Qwedit_2511_2_image Dev Workflows: These are the same as the above but without any quality-of-life nodes or 'helpful' stuff. Grab these if you want to copy the logic over to other workflows, or if you just an easier view of how it works without any clutter. I do not recommend using the dev workflows for actual gens because you will constantly forget to manually adjust stuff correctly. qwedit_2511_single_DEV qwedit_2511_2_image_DEV Models Main Model qwen_edit_2511_fp8 OR GGUF versions Important: the FP8 version of Qwedit is much higher quality than the Q8 GGUF, always use FP8 if you can. Only use the GGUFs if you need to use quants lower than Q8. FP8 is 22GB, so you'll need a combined ~26GB of RAM + VRAM to run it You don't need 24GB of VRAM to run it thanks to ComfyUI's blockswapping, but the less VRAM you have the slower it'll run Only use Q6 & lower quants if you absolutely have to; the quality will noticeably go down Goes in models/diffusion_models Text Encoder Use only the normal FP8 text encoder with Qwedit; abliterated/GGUF encoders will reduce your output quality. qwen_2.5_vl_7b_fp8 Goes in models/text_encoders VAE qwen_image_vae Goes in models/vae Loras? You can use them as normal, just load them however you normally would. I left out lora loader nodes to avoid cluttering the workflow. It's worth noting that many Qwen Image loras work with Qwen Edit too, but you'll need to test them individually to be sure. Lightning Loras - BAD All the lightning loras / distils for Qwedit (that I've tested) are terrible and make your outputs look bad, so I'm not linking them here. The main issue is the same as with Klein Distilled: it makes people's skin look like plastic. But you can technically use them. Don't do it tho . But you can if you want. But don't . Alternative: if you want to cut your gen time down while testing prompts, just set it to 10 steps instead of 20, then go back to 20 once you're satisfied your prompt is correct. It'll still work fine, the quality just dips. Real tho it's ok if you want to use the lightning loras, just expect some degradation if you do - especially with plastic skin. Custom Nodes LayerStyle - A set of handy nodes that manipulate images. We're just using this for its image scaling node which allows you to scale by an image's long edge while maintaining divisibility by 16. You can skip this if you want to use a different scaling method, but you'll need to fix the workflow switch for scaling if you do. SeedVR2 (OPTIONAL) - Only get this if you want to use the seedvr upscale workflow that's included. How To Use How To Use Part 1 - Basic Options There are instructions in the workflow as well, but there's more detail here. Read part 2 & 3 as well, they're important. It works just like a normal Qwedit workflow, but has a couple of extra options available. This section just tells you what they are and how to use them, a full explanation is further down. Screenshot of the settings: https://ibb.co/nWStpmS Enhance with Double Ref This is a switch that turns on double-ref mode. This feeds your input images in TWICE to the model, and generally produces much higher quality results. Downside? It takes about 50% longer to gen. I recommend leaving this on 100% of the time for single-image prompts, unless you're just messing around and want speed. It is ALWAYS better for single image prompts, and will improve everything from prompt adherence to output clarity. For multi-image prompts, it usually increases adherence but sometimes reduces it. So, if you're doing multi-image stuff I recommend switching this on/off as needed based on how it's going with your prompt. Input Scale When off, your image doesn't get scaled (it still gets cropped to be divisible by 16). When on, the long edge of your image gets scaled to the number you put in the box. For example, if you feed in a 2560x1440 image and set the scale to 1920 it will scale your image to 1920x1080. That will then get cropped to 1920x1072 so it's divisible by 16. Custom Output Size When the switch is off, your output image will be the same size as your input image (after it's been scaled). If you turn this switch on, it will instead output an image with the dimensions you specify. As a general rule, you should try to set your scales to be similar along at least one edge. For example, a 1920x1440 input image and a 1024x1440 input image are both suitable for a 1440x1440 output image. You can be more flexible with this if you know what you're doing. How To Use Part 2 - Multi-image Prompting Requirement This section is not a prompting guide (that's further below). This is about an actual requirement for prompting multi-image stuff. It is NOT required for single-image prompts. You do multi-image prompts like normal, except you need to write a very basic description of your input images. Qwedit needs you to do this in order to know which image is which. I explain why in detail later. You may find this slightly annoying, but I guarantee you it's dramatically better than using Qwedit the normal way that other workflows do - and it's pretty easy. The format: At the start of your prompt, write an extremely simple description for each of your input images; one sentence for each input image Start each sentence with \"Picture 1:\", \"Picture 2:\", etc You must write it this way because Qwedit was trained on this exact format Afterwards, write your actual prompt as usual; you can refer to your input images as \"picture 1\" and so on The model uses these descriptions to understand which input picture is which, and it works better with SIMPLE descriptions. You only need to help it know which one is which, it doesn't need a full rundown. Examples Picture 1: a man wearing a t-shirt. Picture 2: a top hat. Make the man in Picture 1 wear the top hat from Picture 2. Picture 1: a living room. Picture 2: a woman. Put the woman from Picture 2 into the living room in Picture 1. Picture 1: a man wearing a professional suit. Picture 2: a man wearing a superhero outfit. Make the man in Picture 1 wear the outfit from Picture 2. How To Use Part 3 - Upscaling Because the qwen VAE tends to put a subtle halftone pattern over images (see limitations just below this section), I recommend downscaling and then re-upscaling your image afterwards. A big benefit of being able to work at high res with the edit model is that you rarely lose any detail doing this. This eliminates the halftone pattern if you're using something like seedvr, or at least reduces it if you're using other upscalers. Note: the workflow is set to do 20 steps of inference. It actually gives sharper results at 30 steps, but I don't bother with that because it takes longer and I down-upscale them afterwards anyway. If you aren't planning on down-upscaling them, you might consider doing 30 steps for the extra sharpness. Below are workflows for doing this with seedvr and normal upscalers. I think seedvr is best for this, but it's very beefy and hard to run on older GPUs. Note: seedvr2 sometimes gives better output at 0.5x downscale, and other times 0.75, so that workflow is configured to run BOTH for you to pick which one turned out best. Note: normal upscalers are a bit different; a relatively small downsize to something like 1920p -> 1600p is usually reasonable, before then running the upscaler. Play around with it. The non-seedvr workflow has a longest_edge scale option so you can tweak the number specifically. Seedvr version Regular version My preferred regular upscaler is 4x Nomos2 HQ DAT2 , but you can use whatever you like. Examples of upscaling: Here's the pic raw output of the robot-arm girl in a dress from the post: https://ibb.co/B5jhrsL9 (if you zoom in you'll see the qwen halftone pattern, it looks like a grid) Here's the pic after it's been run through seedvr after a 0.75x downscale: https://ibb.co/hJcn2f5t Here's the pic after it's been run through a regular Nomos2 upscale after a downscale to 1600p: https://ibb.co/Kc2YSbVc Limitations of Qwen Edit Limitation 1 The Qwen VAE will often put a subtle halftone grid pattern over your images. It's noticeable if you zoom in, and more noticeable at higher resolutions. This is a feature of pretty much every Qwen-based model, but it's particularly present with the Edit model. You can easily resolve this by downscaling your image by 75% or 50%, then re-upscaling it again to your desired resolution. There's a section later that explains this in better detail and recommends upscale models for it + has workflows for it. It sounds like a big issue, but the downscale-upscale trick solves it easily - and it's not always necessary either. The higher quality your input image, the less bad the halftone pattern will be. Limitation 2 Qwedit struggles with complex multi-image stuff most of the time (it's just a limitation of the model). This workflow makes it much better, but it's still not great. You'll have to play around with it to know which things work and which things don't. Limitation3 It takes a while to gen stuff if not using the lightning loras. Very similar to the time it takes with Klein 9B base. The double-ref trick increases it by roughly 50%. Multi-image inputs take a lot longer. For low res images (typical 1mpx size) it's pretty okay, around 50 seconds on a 5090 with the double-ref option turned on. But then there's high-res stuff. Gen time scales non-linearly as you go higher. Going from 1024x1024 (1 mpx) to 1440x1440 (2 mpx) takes around 2.5x as long. Going from 1 mpx to 3 mpx is around 4x as long. 5 mpx is 9.5x as long. In conclusion, stick to 2-3 mpx unless you're cool with long-ass gen times. Stick around 1-2 mpx for multi-image gens, or turn off the double ref switch. On the plus side, it's pretty reliable for single-image edits so you don't typically need to do many gens to get a good result. Examples using a 5090: - Single-image edit @ 1024x1024 (1 mpx), double-ref OFF = 38 seconds - Single-image edit @ 1024x1024 (1 mpx), double-ref ON = 52 seconds - Single-image edit @ 1920x1088 (2 mpx), double-ref OFF = 91 seconds - Single-image edit @ 1920x1088 (2 mpx), double-ref ON = 131 seconds - Single-image edit @ 3072x1728 (5.3 mpx lol), double-ref ON = 550 seconds - Two-image edit @ 2560x1440 each, double-ref ON = serial killer behaviour That's it for how-to! Read on for more tips & info, as well as an explanation of what the workflow is doing & why. Explanation - what is this garbage and why is it so good? There are three important things this workflow is doing that other workflows do not do (except #3 sometimes, because it was also done in the 2509 version of this post). I'm going to call these The Comfy Problem , The VL Problem , and The Double Ref Enhancement . The Comfy Problem Comfy's native \"TextEncodeQwenImageEditPlus\" node is what most people use in their workflows. It handles your prompt and image inputs for you. It's pretty handy, except for the small problem that it's SHITE. Do you work at Comfy? If so: GET YOUR SHIT TOGETHER AND FIX THIS NODE, IT'S SO EASY. Much respect to u tho, thanks for making ComfyUI. The first issue is that this node resizes your image down to 1 megapixel, and you can't stop it from doing that. The second issue is that it does this with the AREA downscale method, which is so incredibly bad that I want to slap whoever implemented this node. The AREA downscale is what makes all of your output images blurry. The third issue is that it ensures your dimensions are divisible by 8, but they actually need to be divisible by 16. Specifically, ComfyUI does this: Calculates 1 megapixel as 1024x1024, which is 1,048,576 pixels Calculates your new image dimensions to match that number of pixels, rounded to be divisible by 8 Scales your image to those new dimensions using the AREA method Why is all this bad? It's completely unnecessary; Qwedit can easily handle images of varying size, all the way up to 3 megapixels (or even higher for simple edits) The area downscale method makes images extremely blurry, and this is the primary reason all ComfyUI qwen edits give blurry images out. Yes it's literally this dumb, this huge problem would easily be solved by changing the word \"area\" to \"lanczos\" in the code, it's a one-word fix. Not even MS paint uses area downscale, wtf is wrong with you Comfy devs (much respect) If your image dimensions are not divisible by 16, you will get major ruination along the whole edge of your image where it didn't match (same as any other diffusion model) The Comfy Problem Solution This workflow bypasses the the Comfy node entirely, allowing you to size your images however you want. And using chad lanczos scaling instead of loser area scaling. Magic. Qwedit easily handles resolutions like 1440x1440 and 1600x1200. Every edit example in this post was done natively at 1920p, except for a few (which are labelled as such). Really high resolutions (3mpx) sometimes have trouble with anatomy, but usually you can just do multiple gens and one of them will turn out fine. If you're doing a simple in-place edit like changing an outfit, you can go VERY high. Here's an example edit done at 1728x3072, which is 5 megapixels: https://ibb.co/twCSWrjy (outfit change -> bikini top + short shorts) The VL Problem In the background, Qwedit 2511 uses a vision-language model (VL model) to describe your images, then gives those AI-generated descriptions to the edit model. It also re-interprets your instructions with these descriptions. Ostensibly this helps the model understand your input images better, leading to better results. The problem? It doesn't lead to better results, it's bad. VL models aren't very good for this sort of thing because they don't know what to focus on. The VL describes your images in excruciating detail, totally overwhelming the edit model and leading to bad prompt adherence + weird outputs. It also reinterprets your instructions based on what it sees in the image. I don't know if that's a good or bad thing, just pointing out that it does it. The Qwen team's official python code does this, and the ComfyUI \"TextEncodeQwenImageEditPlus\" node copies it exactly. No disrespect to the Comfy team on this one, they're doing what the Qwen team officially recommended. The VL Problem Solution Same solution as the previous problem: bypass the Comfy node entirely. This results in the VL step being completely ignored. No AI-generated descriptions get fed into the edit model. For single-image edits, this is a 100% complete and total victory. The model performs way better without the crappy VL interpretation. For multi-image edits, there's a small issue; this step is where the input images normally get labelled. Specifically, the VL outputs are fed into the model in the following exact format: Picture 1: Picture 2: Look familiar? This is why we manually have to type the descriptions in for multi-image edits - otherwise the model doesn't actually know which image is which. The upside is that the model works way better with simple descriptions, so cutting out the VL is still 100% the correct move. A 5 word description wins over whatever BS the VL model spews out, every time. The Double Ref Enhancement I really have no idea why this works so well, but basically if you feed in your reference images twice the model just works better. This was known back in 2509 days (hence the previous post linked at the top), and back then I didn't know why it worked either. For single image edits it's ALWAYS better. And it's not just the quality, for some reason it even helps with prompt adherence. The interesting thing is that the difference is really, really significant. Here's the full list of stuff it improves: Better prompt adherence Sharper output images / more visual clarity Improved consistency of objects & textures Better resemblance of characters at different angles More intelligent guesses, like what to add when outpainting or what's behind a removed object For multi-image edits it can sometimes confuse the model a bit, but most of the time it confers all the same benefits listed above. I recommend switching it on & off randomly when you're doing multi-image stuff, just in case. Note: there are a lot of different ways the input references can be handled. There are conditioning combine/concatenate nodes, you can pass the refs in a different order, you can change the negative conditioning input (read next section for that), etc. I A/B tested SIXTEEN different reference-handling combinations, and a bunch of smaller minor variations of those. Some of them worked, some of them didn't. Of those sixteen combinations, two of them gave the best results; both of them are in this workflow, and you switch between them by turning the double ref method on & off. So, don't fuck with the positive/negative conditioning & reference setup, it's very specific. Extra info: the \"Conditioning Zero Out\" You may notice that the negative prompt input is the first reference image(s) and positive prompt fed into a \"conditioning zero out\" node. Feeding the input images into the model's negative conditioning is required (it's just how Qwedit works). The only question is whether to feed in the positive prompt zeroed-out too, and whether the double ref should get fed in. Through a lot of A/B testing, I can tell you that the way it's done here is the best. IDK why, it's just how it is. Some other combinations do technically work, but they degrade the output quality. Prompting Advice Other than just following the instructions in the workflow, here's some extra stuff. Keep your prompts simple and direct If you need to, point out details the model is missing or be more specific about stuff you do/don't want to change. For example, when doing a simple outfit swap it helps to specify you don't want their pose to change. Using the robot arm girl, here's a prompt that doesn't follow this advice: Change her outfit to a bikini top and short shorts. While it sometimes does what we want, it tends to get confused by her robot arm and often changes her pose too: https://ibb.co/7dyKZttp (notice the human arm showing underneath the robot arm, and the pose change) Here's a better prompt that gives a correct result 99% of the time: Change her outfit to a bikini top and short shorts. Leave her robot arm and pose unchanged. Now it does the right thing every time: https://ibb.co/DP9gZHVv Avoid using fancy words or convoluted phrasing Pretend you're talking to a child. The model will probably still understand you if you talk fancy, but why take the risk? As an example, imagine you have a pic of a table with some plates on it. Bad: Place a red apple on the table, ensuring it's in the center and removing the plate that was in the same spot. Good: Replace the middle plate with a red apple. Also good: Remove the plate from the center. Put a red apple there instead. If there's only one plate, this is even better: Remove the plate, replace it with a red apple. Adjusting Lighting You may want or need to adjust the lighting in an image. Aside from being helpful in general, there are situations where Qwedit may simply not realise that something needs to be lit in a particular way (or re-lit when moved). To do this, you need to know the magic word: relight Seriously tho that is the actual magic word, you are 100% required to use it if you want to adjust lighting properly. Specifically, follow this format: Relight to . Strength - bright, dim, etc Color - white, cool, warm, etc Direction - diffuse, frontlit, backlit, etc Tip: for basic lighting, use \"white diffuse\". Examples: Make a new shot of the man sitting in a chair in a kitchen. Relight to white diffuse. Change the time of day to evening. Relight to warm backlit. You don't actually need anything else in the prompt, you can just change the lighting of a pic like this: Relight to bright cool frontlit. Other Stuff Euler-simple and no ClownsharKSampler? No Clownshark this time. It reduces output quality quite a bit and doesn't confer any benefits. I also didn't find any sampler/scheduler combos that were better than euler/simple. So, this is just one of those classic times where the ol' euler-simple wins the day. Let me know if you happen to know a better combo. Image Quality in->out Qwedit is very sensitive to the quality of your input image. If you feed in a grainy or blurry image, it will usually make your output image blurry or grainy too - even if it's an 'entirely new' shot with nothing copied over 1:1. So, make sure to use HQ images. You can optionally use the upscale workflows to bump up the sharpness/quality of poor input images before you feed them in. What about the flux super duper double resolution special VAE trick? Doesn't work for 2511, it destroys your image. TBH it never really worked for 2509 either, but I won't argue with you if you liked it for some reason. Making character references Tip 1 - Make a nude ref (even for sfw stuff) Qwen is killer for making character references. Other than using similar prompts to the examples I posted, my advice is to make a nude reference shot instead of a clothed one like I did. I only made a clothed ref for the sake of propriety here, but a nude ref (or near-nude, like wearing plain white underwear) will be much easier to prompt into different outfits, and also gives Qwedit the maximum info needed to correctly size your character and know what they look like in clothing or doing different actions. You do not need any loras to do this if you're just using it as a reference; the 'sensitive' parts will lack detail but that doesn't matter for new shots you make. If you don't want them nude, just request plain white underwear and, if relevant, a strapless white bra. Nude ref = best ref. Tip 2 - Make multiple zoom levels, use the thighs-upwards one for most stuff The example I showed was a little too zoomed out for normal reference stuff. I'd recommend making your reference slightly closer like this: https://ibb.co/Q33BJDLX Start at whatever zoom level your initial character pic is at, then make more references at different zoom levels. If you're starting zoomed out, then prompt the model to zoom in. If you start zoomed in, prompt it to zoom out. And, of course, different angles too. Examples: Zoom in on the person's upper body. The composition should frame their head and thighs. Zoom out to show more of the character. The composition should frame their head and thighs. Zoom out to a full body shot. Zoom in for a close up portrait. Once you've got references, you should usually use the head-to-thighs ref for making new shots. Switch to the other refs as necessary; like if you want a close up, use the close up reference. Qwedit is really good at keeping likeness, so you can do 90% of your stuff with only a single input reference. I don't think there's a better open-weight model out there than Qwedit for making new shots of character without loras, for now. The main reason I spent so long digging into Qwen is because Klein is quite bad at that particular task. But hey, now it's possible and it works gloriously. That's everything I think! Feel free to ask questions if you run into any issues. submitted by /u/nsfwVariant [link] [comments]",
+        "text": "After watching Benji's latest PID Z-image and Flux2 video ( https://www.youtube.com/watch?v=Be9u6zo85TE ) I wanted to know if anyone has tried to preform image restoration with PID for Image to Image, much like the SEEDVR workflows? I tried creating the WF but it did not work out the way I thought it would. Basically take a image that has lost it's details and add the details back with Nvidia PID? Maybe it is not made for that, but T2I PID results look pretty good to me. Pictures show with_PID (left) vs no_PID (right) submitted by /u/dirtybeagles [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tqm4pb/cracked_the_case_on_high_res_quality_qwen_edit/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_aa2cdf146ad59a0a",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tr1cq5/just_trying_to_understand_what_broke/",
-    "title": "Just trying to understand what broke",
-    "publishedAt": "2026-05-29T13:08:05.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "I'm sorry if this is a redundant post or any errors I might make.",
-      "But I was trying to figure out why this won't run and its giving me an error.",
-      "Any help would be massively appreciated.",
-      "I've linked 2 other issues I'm seeing often trying to get any workflow to run."
-    ],
-    "claims": [
-      {
-        "text": "Hey all, I'm fairly new to this. I'm sorry if this is a redundant post or any errors I might make. But I was trying to figure out why this won't run and its giving me an error. Any help would be massively appreciated. Or any kind of guidance. I've linked 2 other issues I'm seeing often trying to get any workflow to run. https://imgur.com/rxljKlM https://imgur.com/R0mgqgu submitted by /u/Plymio [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tr1cq5/just_trying_to_understand_what_broke/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_469cb9c200a3f5b2",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tqvtgy/native_multigpu_is_merged_on_comfyui/",
-    "title": "Native MultiGPU is merged on ComfyUI",
-    "publishedAt": "2026-05-29T08:52:03.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "submitted by /u/Altruistic_Heat_9531 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Altruistic_Heat_9531 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tqvtgy/native_multigpu_is_merged_on_comfyui/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tr5fj9/image_restoration_with_nvidia_pid/"
       }
     ],
     "usableFor": [
@@ -638,12 +644,12 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-05-29T13:52:10.298Z",
+    "publishedAt": "2026-05-30T00:07:26.692Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "AI Video Research & Innovation | Runway AI Research Product Resources Solutions Company Enterprise Sales Log in Try Runway Our Research Building general-purpose multimodal simulators of the world.",
+      "AI Video Research & Innovation | Runway AI Research Product Resources Solutions Company Enterprise Sales Login Try Runway Our Research Building general-purpose multimodal simulators of the world.",
       "We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing.",
       "Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding.",
       "Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models...."
@@ -667,7 +673,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-05-29T13:52:10.494Z",
+    "publishedAt": "2026-05-30T00:07:26.819Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -696,7 +702,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-05-29T13:52:11.173Z",
+    "publishedAt": "2026-05-30T00:07:27.510Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -778,24 +784,24 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_b23db8824f9af36f",
+    "sourceId": "src_reddit-aivideo_d7e4648c768e9094",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tql8on/essence/",
-    "title": "「essence 」",
-    "publishedAt": "2026-05-29T00:14:02.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1trgepf/ddawwd_animated_short_film/",
+    "title": "DDAWWD - Animated Short Film",
+    "publishedAt": "2026-05-29T21:34:08.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/WINDOWS91 [link] [comments]"
+      "submitted by /u/NEXTONNOW [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/WINDOWS91 [link] [comments]",
+        "text": "submitted by /u/NEXTONNOW [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tql8on/essence/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1trgepf/ddawwd_animated_short_film/"
       }
     ],
     "usableFor": [
@@ -805,24 +811,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_4f194a90fe382bc4",
+    "sourceId": "src_reddit-aivideo_1043af4844585cb0",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tqckg2/pulp_fiction_but_make_it_the_sims/",
-    "title": "Pulp Fiction, but make it the Sims",
-    "publishedAt": "2026-05-28T18:47:53.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1trbis3/out_of_time/",
+    "title": "Out of Time",
+    "publishedAt": "2026-05-29T18:44:37.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/Mother-Pear-2392 [link] [comments]"
+      "submitted by /u/konibak [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Mother-Pear-2392 [link] [comments]",
+        "text": "submitted by /u/konibak [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tqckg2/pulp_fiction_but_make_it_the_sims/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1trbis3/out_of_time/"
       }
     ],
     "usableFor": [
@@ -832,24 +838,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_48d0b902397615b8",
+    "sourceId": "src_reddit-aivideo_be1296343abb7c99",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tr0mmi/and_the_crown_never_fell/",
-    "title": "And the Crown Never Fell",
-    "publishedAt": "2026-05-29T12:40:09.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tr5s2a/time_machine_created_using_seedance_2_gpt_image_2/",
+    "title": "Time Machine | Created Using Seedance 2 + GPT Image 2",
+    "publishedAt": "2026-05-29T15:40:49.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/RobZomboyd [link] [comments]"
+      "submitted by /u/Wealth_Wise007 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/RobZomboyd [link] [comments]",
+        "text": "submitted by /u/Wealth_Wise007 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tr0mmi/and_the_crown_never_fell/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tr5s2a/time_machine_created_using_seedance_2_gpt_image_2/"
       }
     ],
     "usableFor": [
@@ -864,15 +870,15 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-05-29T13:52:11.002Z",
+    "publishedAt": "2026-05-30T00:07:27.079Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.5 May 20, 2026 · Changelog Shared Canvases and /loop Skill # Shared canvases You can now share canvases from Cursor with your team.",
-      "Canvases are interactive artifacts created by agents, like reports, dashboards, and custom interfaces.",
-      "Instead of sharing a full chat thread, you can share a link to a live snapshot of a canvas for teammates to open in the browser.",
-      "View your team's shared canvases in the Cursor Dashboard with read-only access."
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.6 May 29, 2026 · Changelog Auto-review Run Mode Auto-review is a new run mode that allows Cursor to work for longer with fewer approval prompts and safer execution.",
+      "Auto-review applies to Shell, MCP, and Fetch tool calls.",
+      "Allowlisted calls run immediately, and calls that can be sandboxed run in the sandbox.",
+      "All other agent actions go to a classifier subagent that decides whether to allow the call, try a different approach, or ask for your approval."
     ],
     "claims": [
       {
@@ -893,7 +899,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-05-29T13:52:10.359Z",
+    "publishedAt": "2026-05-30T00:07:26.671Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -917,12 +923,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-05-29_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-05-30_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-05-29T13:52:10.703Z",
+    "publishedAt": "2026-05-30T00:07:27.052Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -949,7 +955,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-05-29T13:52:11.012Z",
+    "publishedAt": "2026-05-30T00:07:27.065Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -978,7 +984,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-05-29T13:52:10.527Z",
+    "publishedAt": "2026-05-30T00:07:26.917Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1063,24 +1069,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_9dbdb6d160d911f9",
+    "sourceId": "src_reddit-midjourney_767ebf0671acefca",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tqmfew/citymaze/",
-    "title": "Citymaze",
-    "publishedAt": "2026-05-29T01:06:00.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tr6kyp/scifi_scenery/",
+    "title": "Sci-Fi Scenery",
+    "publishedAt": "2026-05-29T16:07:16.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "I'm on tiktok submitted by /u/theyayotony [link] [comments]"
+      "- - - submitted by /u/Zenchilada [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I'm on tiktok submitted by /u/theyayotony [link] [comments]",
+        "text": "- - - submitted by /u/Zenchilada [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tqmfew/citymaze/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tr6kyp/scifi_scenery/"
       }
     ],
     "usableFor": [
@@ -1090,24 +1096,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2a20fa5f986730a3",
+    "sourceId": "src_reddit-midjourney_adebe8caafc8adc5",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tqyttq/tooth_factory/",
-    "title": "tooth factory.",
-    "publishedAt": "2026-05-29T11:24:37.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1trh728/the_blue_dragon_of_kilmarnock/",
+    "title": "The Blue Dragon of Kilmarnock.",
+    "publishedAt": "2026-05-29T22:04:47.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/danielwrbg [link] [comments]"
+      "submitted by /u/Mordrat_The_Grey [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/danielwrbg [link] [comments]",
+        "text": "submitted by /u/Mordrat_The_Grey [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tqyttq/tooth_factory/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1trh728/the_blue_dragon_of_kilmarnock/"
       }
     ],
     "usableFor": [
@@ -1117,24 +1123,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_3356adad2e0ebfe7",
+    "sourceId": "src_reddit-midjourney_6fc411efdb49f3cb",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tr094x/bored_at_the_kaas_city_apartment/",
-    "title": "Bored at the Kaas City Apartment",
-    "publishedAt": "2026-05-29T12:25:03.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tr3vdr/fantasy_concepts_monsters/",
+    "title": "Fantasy Concepts: Monsters",
+    "publishedAt": "2026-05-29T14:38:25.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Ok_Echidna_6971 [link] [comments]"
+      "Have some more fantasy concepts for everyone, this time from everyone's favorite monster manual haha 😆.",
+      "I tried to make some varied and unique critters, in some different aspect ratios too.",
+      "submitted by /u/NeoShaolin47 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Ok_Echidna_6971 [link] [comments]",
+        "text": "Have some more fantasy concepts for everyone, this time from everyone's favorite monster manual haha 😆. I tried to make some varied and unique critters, in some different aspect ratios too. Hope everyone likes them! submitted by /u/NeoShaolin47 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tr094x/bored_at_the_kaas_city_apartment/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tr3vdr/fantasy_concepts_monsters/"
       }
     ],
     "usableFor": [
@@ -1149,7 +1157,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-05-29T13:52:12.236Z",
+    "publishedAt": "2026-05-30T00:07:27.705Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1315,7 +1323,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-05-29T13:52:10.632Z",
+    "publishedAt": "2026-05-30T00:07:26.922Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1323,10 +1331,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 8 days ago • 49 Introduction to Trimming ✂ lbourdois • about 23 hours ago • 19 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 4 days ago • 14 Why Open Models Are the Only Sustainable Way to Teach AI penelopegittos • 7 days ago • 8 Relaunching PapersWithCode with new features nielsr • 5 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 340 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 862 MONET: Lowering the bar for World-Class Image Generation research.",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 9 days ago • 49 Introduction to Trimming ✂ lbourdois • 1 day ago • 21 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 4 days ago • 14 Relaunching PapersWithCode with new features nielsr • 5 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 340 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • about 21 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 862 MONET: Lowering the bar for World-Class Image Generation research.",
       "jasperai • 1 day ago • 5 An experiment with attention.",
-      "wop • 6 days ago • 5 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 25 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • about 10 hours ago • 4 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 177 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 156 Eight Days in China: What I Learned from the AI Labs, Robotics Startups and Academia matthew-d-white • 7 days ago • 3 Should we use genetics instead of system prompts for AI Agents & Personas?",
-      "nyxia • 4 days ago • 3 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 3 days ago • 3 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Understanding Vector Quantization in VQ-VAE ariG23498 • Aug 28, 2024 • 63 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 337 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 124 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 17 May 29, 2026 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM 11 May 27, 2026 guide robotics audio Reachy Mini goes fully local 37 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +3 28 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 77 May 25, 2026 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 26 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 2 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 19 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 48 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 32 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 31 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 55 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 11 May 6, 2026 Previous 1 2 3 ..."
+      "wop • 7 days ago • 5 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 25 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 177 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 10 Eight Days in China: What I Learned from the AI Labs, Robotics Startups and Academia matthew-d-white • 7 days ago • 3 Should we use genetics instead of system prompts for AI Agents & Personas?",
+      "nyxia • 4 days ago • 3 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 3 days ago • 3 How to run Gemini Nano locally in your browser Xenova • Jul 11, 2024 • 52 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 337 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 124 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 156 We're open-sourcing \"The Amazing Hand\", a fully 3D printed robotic hand for less than $200 ✌️✌️✌️ pollen-robotics • Jul 8, 2025 • 53 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 27 May 29, 2026 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM 12 May 27, 2026 guide robotics audio Reachy Mini goes fully local 39 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +3 30 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 78 May 25, 2026 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 27 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 3 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 19 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 48 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 33 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 31 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 55 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 11 May 6, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -1497,7 +1505,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-05-29T13:52:10.675Z",
+    "publishedAt": "2026-05-30T00:07:26.920Z",
     "categoryHints": [
       "ai-agentic"
     ],
