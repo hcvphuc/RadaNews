@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-01T00:03:45.300Z",
+    "publishedAt": "2026-06-01T16:30:14.506Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "LangChain Blog Products LangSmith Platform Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Newsletter Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
+      "LangChain Blog Products LangSmith Platform Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangGraph LangSmith Newsletter Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Partner Deep Agents LangSmith EU macroeconomic analysis with Deep Agents, LangSmith, and the You.com Finance Research API Srimanth Tangedipalli Karan Singh Saurabh Sharma Akhil Pothana May 20, 2026 18 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min LangSmith Agent Architecture Deep Agents Tutorials & How-Tos How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min Deep Agents Introducing Managed Deep Agents Victor Moreira May 13, 2026 5 min 1 ...",
+      "Case Studies How Rippling Went AI-Native Across Every Product in 6 Months with Deep Agents and LangSmith Sofia Sulikowski June 1, 2026 6 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min Recent stories Case Studies How Rippling Went AI-Native Across Every Product in 6 Months with Deep Agents and LangSmith Sofia Sulikowski June 1, 2026 6 min Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Partner Deep Agents LangSmith EU macroeconomic analysis with Deep Agents, LangSmith, and the You.com Finance Research API Srimanth Tangedipalli Karan Singh Saurabh Sharma Akhil Pothana May 20, 2026 18 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min LangSmith Agent Architecture Deep Agents Tutorials & How-Tos How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min LangSmith We built SmithDB, the data layer for agent observability Ankush Gola May 13, 2026 11 min LangSmith Introducing LangSmith Context Hub Harrison Chase May 13, 2026 8 min LangSmith LangSmith Sandboxes are Generally Available Mukil Loganathan May 13, 2026 6 min 1 ...",
       "1 / 27 We couldn't find anything matching that."
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-01T00:03:45.900Z",
+    "publishedAt": "2026-06-01T16:30:13.826Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-01T00:03:44.507Z",
+    "publishedAt": "2026-06-01T16:30:13.570Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-01T00:03:45.664Z",
+    "publishedAt": "2026-06-01T16:30:13.902Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -141,12 +141,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_079abcf0d1317db2",
+    "sourceId": "src_reddit-aiagents_ce5af76cde1748ff",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tndfb8/weekly_hiring_thread/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ttwp24/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
-    "publishedAt": "2026-05-25T16:00:53.000Z",
+    "publishedAt": "2026-06-01T16:01:43.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -157,7 +157,7 @@
       {
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tndfb8/weekly_hiring_thread/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ttwp24/weekly_hiring_thread/"
       }
     ],
     "usableFor": [
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_a0aec831a5db09a0",
+    "sourceId": "src_reddit-aiagents_310774ffee7ade54",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tt63lu/has_anyone_actually_used_an_agent_to_make_payments/",
-    "title": "Has anyone actually used an agent to make payments?",
-    "publishedAt": "2026-05-31T20:13:58.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ttrwiu/whats_the_most_useful_ai_agent_youve_actually/",
+    "title": "What's the most useful AI agent you've actually deployed not just demoed?",
+    "publishedAt": "2026-06-01T13:15:36.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Has anyone actually used an ai agent to buy something?",
-      "And if so how are you doing it and what is it buying?",
-      "I worry that if I were to just hand my credit card info to my agent that it would buy a bunch of stuff I don’t want or get defrauded by some malicious website.",
-      "submitted by /u/kevinfee [link] [comments]"
+      "It feels like everyone's building AI agents right now.",
+      "I'm curious: what's the most useful one you've actually put into production?",
+      "Something that's genuinely saving time, making money, or solving a real problem.",
+      "What does it do, and what surprised you most once real users started using it?"
     ],
     "claims": [
       {
-        "text": "Has anyone actually used an ai agent to buy something? And if so how are you doing it and what is it buying? I worry that if I were to just hand my credit card info to my agent that it would buy a bunch of stuff I don’t want or get defrauded by some malicious website. Has this happened to anyone? Thank you. submitted by /u/kevinfee [link] [comments]",
+        "text": "It feels like everyone's building AI agents right now. I'm curious: what's the most useful one you've actually put into production? - Not a demo. - Not a proof of concept. - Not something that worked for a week. Something that's genuinely saving time, making money, or solving a real problem. What does it do, and what surprised you most once real users started using it? submitted by /u/Techenthusiast_07 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tt63lu/has_anyone_actually_used_an_agent_to_make_payments/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ttrwiu/whats_the_most_useful_ai_agent_youve_actually/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_97e0c56cd1a3d4a4",
+    "sourceId": "src_reddit-aiagents_be29de616df3fc3b",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tt83db/just_finished_a_full_ai_system_for_an_hvac/",
-    "title": "just finished a full AI system for an HVAC company in Tucson. 2 voice agents, 4000 contacts reactivated, zero dispatcher time on qualification",
-    "publishedAt": "2026-05-31T21:30:12.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ttpbr4/what_beginner_mistake_do_people_make_when/",
+    "title": "What beginner mistake do people make when building AI agents?",
+    "publishedAt": "2026-06-01T11:29:09.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "built this for a Tucson HVAC company last month.",
-      "sharing the full setup since this sub likes real agent builds here is how it runs.",
-      "n8n cleans up the phone number and sends a text right away.",
-      "if they don't text back in 5 minutes, n8n starts a Retell voice agent (Kate) and she calls them."
+      "Trying to learn more about AI agents and curious what experienced people think beginners usually get wrong.",
+      "Right now it feels a bit overwhelming because there are so many tools, frameworks, tutorials and everyone seems to build things differently.",
+      "Sometimes I feel like beginners probably try to do too much too early or expect agents to be smarter and more reliable than they actually are.",
+      "Do people usually mess up because of bad prompts, overcomplicating workflows, choosing the wrong tools, or just unrealistic expectations?"
     ],
     "claims": [
       {
-        "text": "built this for a Tucson HVAC company last month. it's a few agents working as a team. 2 that talk on the phone, 4 that text. sharing the full setup since this sub likes real agent builds here is how it runs. someone fills out a web form. that goes to GHL. GHL sends it to n8n. n8n cleans up the phone number and sends a text right away. if they don't text back in 5 minutes, n8n starts a Retell voice agent (Kate) and she calls them. if the lead is a good fit, she books them. that booking has to pass through 5 tools in a row: Retell, n8n, GHL, Zapier, ServiceTitan. it all has to finish in under 2 minutes while she is still on the call. if one step is slow, the booking dies. so each step sends back a pass or fail so she knows right away ServiceTitan was the tricky bit. it does not use the same words the agent hears on the call. so I added a step that fixes the words (the agent hears \"package unit\", ServiceTitan wants \"Package Unit\"). then a small Zapier code step sets the date, writes a short summary and splits the address. after that it makes the booking. it shows up in ServiceTitan as an open job for the dispatcher. rest of the build: the inbound voice agent has no saved contact, so it looks the person up, makes a new one midcall, then books every call, picked up or not, goes back to n8n and gets saved to postgres. about two dozen things: call length, mood, result, where it went, booking status, recording link and more the text side is one flow that picks one of 4 agents (website, engagement, followup, KB). it reads the last 60 messages from postgres, runs on gemini 2.5 flash through openrouter, has 6 booking tools and pulls answers from a supabase vector store reactivation ran on 4000+ old contacts. it takes about 26 hours: text, wait 10 min, call, wait 2 hours, second text, wait a day, then email if still nothing. it stops the second they reply the dispatcher does no qualifying now. they just get readytogo bookings to assign and confirm I documented the whole thing up as a 150 page build doc: every flow, tool and call script. all the private info is swapped for fake values so you can copy it (you can find it in comments) happy to walk through any part submitted by /u/abdullah30mph_ [link] [comments]",
+        "text": "Trying to learn more about AI agents and curious what experienced people think beginners usually get wrong. Right now it feels a bit overwhelming because there are so many tools, frameworks, tutorials and everyone seems to build things differently. Sometimes I feel like beginners probably try to do too much too early or expect agents to be smarter and more reliable than they actually are. Do people usually mess up because of bad prompts, overcomplicating workflows, choosing the wrong tools, or just unrealistic expectations? If you could start again from scratch what would you focus on first? submitted by /u/Signal-Extreme-6615 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tt83db/just_finished_a_full_ai_system_for_an_hvac/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ttpbr4/what_beginner_mistake_do_people_make_when/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5aee5d7923361083",
+    "sourceId": "src_reddit-aiagents_e4892d84ab6ae496",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tt7b28/why_ai_agent_pilots_feel_amazing_but_production/",
-    "title": "why AI agent pilots feel amazing but production deployment turns into a mess",
-    "publishedAt": "2026-05-31T21:00:01.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ttgkg9/my_agent_kept_forgetting_things_midconversation/",
+    "title": "My agent kept \"forgetting\" things mid-conversation found a technique that actually solves it (LCM)",
+    "publishedAt": "2026-06-01T03:46:25.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "been moving past sandbox testing and actually deploying a network of multi-agent systems into our live workflow - customer inquiry intake, document retrieval, CRM routing.",
-      "then we pushed it into production and things fell apart because our human workflows weren't built for any of this.",
-      "our ops team stopped knowing what they were actually responsible for.",
-      "when an agent pulled wrong context or misrouted a request, the human supervisor blamed the system and waited."
+      "I've been building a multi-step research agent, and after about 30–40 turns, I keep running into the same problem: the model starts contradicting itself, forgets hard constraints, and asks for information that was already provided.",
+      "I've tried the usual approaches, but they all have significant limitations: Summaries / handoff.md - Too lossy.",
+      "- Important details inevitably get dropped.",
+      "LangGraph MemorySaver - Great for persisting state across restarts."
     ],
     "claims": [
       {
-        "text": "been moving past sandbox testing and actually deploying a network of multi-agent systems into our live workflow - customer inquiry intake, document retrieval, CRM routing. then we pushed it into production and things fell apart because our human workflows weren't built for any of this. our ops team stopped knowing what they were actually responsible for. when an agent pulled wrong context or misrouted a request, the human supervisor blamed the system and waited. technically, their job description still says \"manage requests\", but since the agent is executing the request, they've become passive watchers who only show up after an error already hit a client. an agent can follow its rules perfectly and still produce a bad outcome. how have you restructured human roles and permissions so your team doesn't just check out when an agent is running the show? submitted by /u/NoIllustrator3759 [link] [comments]",
+        "text": "I've been building a multi-step research agent, and after about 30–40 turns, I keep running into the same problem: the model starts contradicting itself, forgets hard constraints, and asks for information that was already provided. I've tried the usual approaches, but they all have significant limitations: Summaries / handoff.md - Too lossy. - Important details inevitably get dropped. LangGraph MemorySaver - Great for persisting state across restarts. - Doesn't solve context-window overflow. - You still hit token limits. Rolling summarize-and-replace - Eventually becomes a summary of a summary of a summary. - Fine-grained details disappear over time. A Better Approach: Lossless Context Management (LCM) I've been reading about Lossless Context Management (LCM), introduced in the Voltropy paper. The core idea is straightforward: context compression shouldn't require destroying information. I recently found openlcm (\"pip install openlcm\"), which implements this approach. Every original message is stored verbatim in SQLite, while the model is given a compressed hierarchy of summaries. The result is that the model operates on a small, efficient context window but can still retrieve the exact text of a decision made dozens of turns earlier. Unlike traditional summarization approaches—or Claude Code–style compaction—there isn't an inherent \"compress = lose information\" tradeoff. For LangGraph users, it's essentially a drop-in replacement for \"MemorySaver\": from openlcm.adapters.langgraph import LCMCheckpointer graph = StateGraph(MyState).compile( checkpointer=LCMCheckpointer(llm=my_llm) ) It also supports AutoGen, CrewAI, and direct OpenAI/Anthropic integrations. One feature I particularly like is the local dashboard, which lets you inspect exactly what the model sees versus what has been summarized out of the active context. Thought I'd share since I don't see LCM discussed very often, and it seems like a promising direction for long-running agent workflows. submitted by /u/Imbatmanfromyear69bc [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tt7b28/why_ai_agent_pilots_feel_amazing_but_production/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ttgkg9/my_agent_kept_forgetting_things_midconversation/"
       }
     ],
     "usableFor": [
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-01T00:03:44.574Z",
+    "publishedAt": "2026-06-01T16:30:13.859Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-01T00:03:45.419Z",
+    "publishedAt": "2026-06-01T16:30:14.772Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,17 +314,17 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-01T00:03:44.760Z",
+    "publishedAt": "2026-06-01T16:30:14.006Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Blog – Replicate Blog RSS Atom How to make remarkable videos with Seedance 2.0 If you have never tried a video model before, now is the time.",
-      "April 15, 2026 How to prompt Seedream 5.0 Seedream 5.0 brings multi-step reasoning, example-based editing, and deep domain knowledge to image generation.",
-      "February 24, 2026 Recraft V4: image generation with design taste Recraft V4 generates art-directed images — and actual editable SVGs — with strong composition, accurate text rendering, and what the Recraft team calls \"design taste.\" Four models are available on Replicate now.",
-      "February 18, 2026 Run Isaac 0.1 on Replicate Isaac 0.1 is a lightweight, grounded vision-language model built for real-world perception."
+      "Blog – Replicate Blog RSS Atom How to prompt Grok Imagine Video 1.5 xAI just released Grok Imagine Video 1.5.",
+      "It animates a still into a short clip with synchronized audio, all in one pass.",
+      "May 21, 2026 How to make remarkable videos with Seedance 2.0 If you have never tried a video model before, now is the time.",
+      "April 15, 2026 How to prompt Seedream 5.0 Seedream 5.0 brings multi-step reasoning, example-based editing, and deep domain knowledge to image generation."
     ],
     "claims": [
       {
@@ -340,27 +340,26 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_a3ceb63c530f3ce5",
+    "sourceId": "src_reddit-stablediffusion_493abe54ca6c5a15",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tt5uiq/does_anyone_else_cant_stand_comfyui_and_prefers/",
-    "title": "Does anyone else can't stand ComfyUI and prefers classic Automatic/Forge UI or it's just me?",
-    "publishedAt": "2026-05-31T20:04:23.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttnnzu/anima_with_dark_style_anime_lora_is_pretty_good/",
+    "title": "Anima with dark style anime lora is pretty good. Tried with some Sailor girls.",
+    "publishedAt": "2026-06-01T10:07:03.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "EDIT: I can't believe how many great and useful replies I've got, and not a single one negative!",
-      "Here is what I've found out so far: A lot of you recommend me SwarmUI.",
-      "It's some kind of Automatic-style frond-end UI on top of the ComfyUI itself.",
-      "This seems to be the ideal choice for someone like me that comes from Automatic/Forge."
+      "Used Euler A and Beta 57 40 steps and 5 cfg.",
+      "There might be some anatomy issues I used 896x1152 resolution.",
+      "submitted by /u/Asphyxiem [link] [comments]"
     ],
     "claims": [
       {
-        "text": "EDIT: I can't believe how many great and useful replies I've got, and not a single one negative! Thank you all! Here is what I've found out so far: A lot of you recommend me SwarmUI. It's some kind of Automatic-style frond-end UI on top of the ComfyUI itself. This seems to be the ideal choice for someone like me that comes from Automatic/Forge. Thank you for those that told me about Forge Neo! I never even knew even existed. A ForgeUI that gets regular updates? Sign me up asap! A few recommend Pinokio. I seem to remember testing it. It's a kind of general UI for all kinds of AI models not only stable diffusion ones. I will give it a try again a bit later. So it's SwarmUI, Forge Neo and Pinokio later. Thank you again for your comments, and if you have more suggestions for UIs I should try don't hesitate to comment. I will come back and read them all! I still can't believe how great all of you are, so many useful advices, so many tips, great support... This may be one of the best subreddits I've ever posted... Original Post: I tried. I swear I tried. Each time a new \"ultra super mega\" model appears I'm reinstalling that bloody UI just so I can test it, and each time some God Awful error list appears telling me that somehow the latest version it's missing something critical that needs to be downloaded ASAP. And in 3/4 of cases that's not the right download, it's incompatible or needs additional stuff to work. Even when everything works out of the box I am looking at the final image and think to myself \"I could have had 4 batches of 8 images to choose from instead of 1-4 like here\". I am not lazy, but I have a job and I don't have hours to spend to make sure each new model and each new workflow that I download is compatible with every single other version of all dependencies. Does anyone else feels the same or I'm just the only one that keeps using Forge and Automatic?... submitted by /u/VasileAndrei2929 [link] [comments]",
+        "text": "Used Euler A and Beta 57 40 steps and 5 cfg. There might be some anatomy issues I used 896x1152 resolution. submitted by /u/Asphyxiem [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tt5uiq/does_anyone_else_cant_stand_comfyui_and_prefers/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ttnnzu/anima_with_dark_style_anime_lora_is_pretty_good/"
       }
     ],
     "usableFor": [
@@ -370,24 +369,54 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_b100b0e72816969f",
+    "sourceId": "src_reddit-stablediffusion_5e25c9d19427e08a",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tt6eir/damn_anima_base_is_cooking_whats_your_favorite/",
-    "title": "Damn Anima Base is cooking! What's your favorite lora?",
-    "publishedAt": "2026-05-31T20:25:19.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttpi6d/local_ai_news_you_missed_may_2026/",
+    "title": "Local AI News You Missed - May 2026",
+    "publishedAt": "2026-06-01T11:37:07.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "submitted by /u/Spiritual_Vanilla732 [link] [comments]"
+      "Releases you (might of) missed in May 2026: 🧠 LLMs Supra-50M - A tiny model that packs a heavyweight punch in a small package.",
+      "MiMo-V2.5-coder-Q2 - Supercharges coding and tool calls specifically for Macs.",
+      "Kezmark ErniePEUnleashed - A tool to help craft cinematic scene prompts.",
+      "OBLITERATUS Qwen3.6-27B-OBLITERATED - A model fine-tuned to snip out refusal circuits completely."
     ],
     "claims": [
       {
-        "text": "submitted by /u/Spiritual_Vanilla732 [link] [comments]",
+        "text": "Releases you (might of) missed in May 2026: 🧠 LLMs Supra-50M - A tiny model that packs a heavyweight punch in a small package. MiMo-V2.5-coder-Q2 - Supercharges coding and tool calls specifically for Macs. Kezmark ErniePEUnleashed - A tool to help craft cinematic scene prompts. OBLITERATUS Qwen3.6-27B-OBLITERATED - A model fine-tuned to snip out refusal circuits completely. Nemotron-Labs-Diffusion-14B - Turbocharges text generation with three simple modes. Tencent Hy-MT2-1.8B - A pocket-sized model for 33 language translations. Tencent Hy-MT2-30B-A3B - A powerful 33-language translator that runs locally. MiniCPM5-1B - One model with dual modes for fast chat or deep thought. G4-MeroMero-31B-uncensored-heretic - Slashes 85% of refusals for creators. Gemma-4-Gembrain-31B-It-Uncensored-Heretic - Reduces AI refusals by 87%. BitCPM4-CANN-8B - Slashes memory use by 6x while keeping 95% of its smarts. Ettin-Reranker-1b-V1 - Delivers speedy relevancy checks locally. Command-A-Plus-05-2026-Bf16 - Arrives with 128K context and agentic reasoning. Nandi-Mini-600M-Early-Checkpoint - Brings 12-language AI to home labs. Ring-2.6-1T - Brings trillion-parameter reasoning to agentic workflows. HRM-Text-1B - Bends time with dual recurrent loops for deep reasoning. Nvidia Kimi-K2.6-NVFP4 - A plug-and-play AI giant optimized for GPUs. DeepSeek V4 GGUF - Shrinks the massive DeepSeek V4 for local use. Emo - Cuts memory use by 75% with topic-specialized experts. NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16 - Unfolds three models in one for flexibility. AntAngelMed - Deploys a 100B clinical MoE model locally. Gemma-4-31B-It-DFlash - Drafts speed into your local LLM. Leanly_AI - Arms obesity specialists with empathy backed by health data. ZAYA1-8B - Drops a compact reasoning engine for local math and code. IBM Granite-4.1-30b - Empowers private AI agents with multi-tool skills. AEON-7 Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16 - Unlocks Qwen3.6 with no refusals. Ling-2.6-1T - Makes trillion parameter AI fast and affordable. IBM Granite-4.1-8b - Advances multilingual chat and tool assistants. Hy-MT1.5-1.8B-1.25bit - Puts 33-language translation in your pocket. 🔀 Multimodal Step-3.7-Flash MoE Vision Model - Delivers a vision model designed for local AI agents. NVIDIA LocateAnything-3B - Delivers one-step visual grounding for object detection. Qwen3.6-35B-A3B-Uncensored-Genesis-V2-APEX-MTP-GGUF - Removes all refusals from the model. Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved - Removes 89% of AI refusals. Keye-VL-2.0-30B-A3B - Brings native agent tools to long video AI. NuExtract3 - Turns sensitive docs into markdown without the cloud. Gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic - An uncensored creative wordsmith model. Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced - Drops with zero refusals for balanced chats. Intern-S2-Preview - Packs trillion-scale science smarts into a 35B model. Fara-7B - A tiny AI agent that runs your web chores privately. Marlin-2B - Pins down every second of your video. Qwopus3.5-9B-Coder-GGUF - Puts a private coding agent on your laptop. Lance - Unifies image and video generation in one lightweight model. SenseNova-U1-A3B-MoT - A unified vision-language powerhouse that runs locally. Qwopus3.6-27B-v2-MTP-GGUF - Puts faster stepwise AI on your GPU. Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved - Delivers fewer refusals for open chat. Unsloth Qwen3.6-27B-GGUF-MTP - Drops a model for 2x faster local AI. Ovis2.6-80B-A3B - Lands private visual AI on a single GPU. Qwen3.6-27B-MTP-UD-GGUF - Makes your GPU think ahead for faster outputs. MiniCPM-V-4.6 - Packs private visual AI into phones. Qwen3.5-9B-DeepSeek-V4-Flash-GGUF - Brings deep reasoning home. Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF - A massive uncensored fine-tune for power users. Gemma-4-26B-A4B-it-assistant - Google turbocharges Gemma 4 for assistant tasks. Gemma-4-31B-it-assistant - Google drops a model to triple local AI speed. Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4 - Opens local multimodal AI with reasoning. Mistral-Medium-3.5-128B - Introduces a massive unified tool. 🖼️ Image Microsoft Lens-Turbo - Delivers instant 1440p images in four steps flat. Microsoft Lens - Focuses high-quality image creation on your home GPU. Nvidia PiD - Fuses upscaling and decoding for instant 4K images. Anima Base v1.0 - Spawns anime art straight from text prompts. HiDream-O1-Image - Crafts multi-task visuals straight from raw pixels. Walkyrie-1.3B-v1.0 - Spins video smarts into speedy local image creation. UltraReal_FineTune_Anima - Delivers analog soul to digital photos. 🎬 Video LongCat-Video-Avatar-1.5 - Materializes studio-quality talking heads locally. SANA-WM Bidirectional - Turns one still image into a minute-long 3D video. Causal-Forcing - Distills real-time video generation for a single GPU. LTX2.3-10Eros - Brings still images to life with layered precision. 🎧 Audio MOSS-TTS-v1.5 - Lands with precise pause controls and 31-language synthesis. DramaBox - Interprets stage directions for expressive AI voiceovers. Supertonic-3 - Whispers 31 languages directly from your device. Scenema-Audio - Lets you direct voices with emotion and scene sounds. 🤖 Agents SmallCode - A local coding agent that squeezes power from small LLMs. Opendesk - Unlocks direct desktop control for AI agents. ⚡ LoRA ControlLight - Turns photo brightening into a smooth dimmer switch. LTX-2.3 Upscale IC Lora - Breathes detail into fuzzy video renders. VR-360-Outpaint-LTX2.3-IC-LoRA - Morphs clips into 360 VR scenes. SYSTMS-FLW-IC-LORA-LTX-2.3 - Smooths shot transitions using a simple gray frame. LTX-2.3-Dearchive-Lora - Turns vintage grain into sharp modern video. Obscura Remova - Wipes away visual clutter from video scenes. OmniNFT LoRA Adapters - Fixes lip-sync and audio-video alignment for LTX. Ace-Step-1.5-XL-Concept-Sliders - Dials up fine-grained AI music control. LTX-2.3-22b-IC-LoRA-LipDub - Magically redubs videos with a text prompt. Flux.2-Klein-Loras - Summons six style LoRAs for creative edits. Qwen-2512-portrait - Erases the plastic look from AI portraits. 🏋️ Training IMG-Dataset-Refiner - Scrubs image folders into perfect AI training data. Anima-TrainFlow - Corrals LoRA training into one page. Bracket - Delivers stat-backed winners so you stop guessing configs. 🛠️ Other Tools hipEngine - Hacks AMD GPUs to run massive AI locally. MiniCPM-V-4.6-OrangePi - Boots full multimodal AI on a sub-100 dollar board. ScreenDiffusion V0.2 - Reimagines your live screen as evolving artwork. OpenReader - Preloads audio to make every document a private audiobook. FP-Background_Obliterator - Carves out local AI cutouts for your images. Streamlined-HF-Model-Search - Makes local AI model discovery a breeze. Studiomi300 - Spins one prompt into a 30s cinematic reel. MusiCue - Chisels music into frame-perfect animation cues. Tokenspeed - Streams fake tokens to let you feel LLM speed. ExLlamaV3 - Supercharges home AI with triple-speed DFlash decoding. Needle - Stitches seamless tool calling for budget phones. Lucebox-Hub - Supercharges AMD Strix Halo with DFlash and PFlash. Derpy-Turtle-The-Kokoro-Trainer - Hatches smooth voice clones locally. TextGen Portable - Run AI locally with no install and no telemetry. Merlin-Community - Drops redundant AI words for leaner conversations. AI Metadata Viewer - Reveals hidden prompts inside any AI image. Cull - Slashes AI image sorting time without cloud dependencies. FP16-FP8-to-NVFP4 - Trims 31GB AI models down to 13GB. ShrinkComfy - Shrinks your ComfyUI PNGs without erasing workflow data. EasyUI - Turns messy AI node graphs into simple user interfaces. Torch-Nvenc-Compress - Turns idle video chips into AI data superchargers. Deepbooru-Tagwalker - Walks tags first to simplify dataset verification. Diff-forge - Carves flawless training datasets from your video footage. Caption-Creator - Lands local image captioning that skips the cloud. Ace-Step-1.5-Api-server-UI - Turns your browser into a local AI music studio. Phosphene - Stitches visuals and sound instantly on Macs. Beellama.cpp - Supercharges local AI with a speed overhaul. ds4.pinokio - Slots a full DeepSeek V4 brain into Apple Silicon Macs. + ComfyUI Custom Nodes & Tools ComfyUI Performance & Hardware Tools 1. ComfyUI-FeatherOps - Injects AMD RDNA3 GPUs with a massive 50% diffusion speed boost. 2. ComfyUI-SPEED - Dials up image generation to nearly double the standard speed. 3. Comfyui-Mesh - Splits large AI models across two GPUs without needing NVLink. 4. ComfyUI-Safe-Chunked-Image-Blend - Defeats system freezes by handling image blending in chunks. 5. BangtrixToolkit - Gives ComfyUI a live hardware monitor and a prompt translator. ComfyUI Video & Audio Workflows 1. Vlo - Gives creators a timeline to finesse generative AI footage. 2. Comfyui-Controlfoley - Syncs AI Foley sound effects directly to your silent footage. 3. ComfyUI-DramaBox - Injects expressive AI speech directly into visual workflows. 4. Comfyui_VideoCombine_Plus - Brings audio control and frame saving options to video exports. ComfyUI Image Editing & Upscaling 1. ComfyUI_KleinTiledUpscaler - Debuts seamless upscaling specifically for Flux2 Klein. 2. ComfyUI-PiD - Bypasses the VAE for one-step pixel diffusion upscaling. 3. Orion4D_generative_paint - Brings layered drawing capabilities to ComfyUI workflows. 4. ComfyUI-Olm-Liquify - Brings liquify-style warping effects to your generations. 5. ComfyUI-Angelo - Brings \"click to fix\" editing to AI image generation. 6. ComfyUI-PlagueKind-Nodes - Tames mask drift for flawless inpainting results. 7. ComfyUI-Fayens - Brings cinematic polish to face swap workflows. 8. ComfyUI-ReferenceLatentPlus - Enables per-image strength dialing for finer control. ComfyUI Prompting & Model Management 1. ComfyUI-SmartPromptCrafter - Auto-matches prompts to any model you are using. 2. RebelsPromptEnhancer - Offers a local prompt boost for private workflows. 3. ComfyUI-Anima-Style-Nodes - Brings visual tag selection to ComfyUI. 4. Comfyui-Anima-Regional-Conditioning - Paints prompts in bounded regions for specific details. 5. ComfyUI-lora-FindingLora - Delivers quick LoRA finding and stacking capabilities. 6. ComfyUi-Untwisting-RoPE - Delivers Untwisting-RoPE for style transfer without copying. ComfyUI Workflow Management & Utilities 1. Nexus-BTA - Transforms your setup into a complete local creative studio. 2. Somni-ComfyUI - Serves up a slick frontend for ComfyUI on any device. 3. ComfyUI-Artius-Browser - Delivers snappy sidebar browsing for creators. 4. ComfyUI-Workflow-Finder - Finds ComfyUI workflows just by describing them. 5. WorkflowX-Configurator - Lets you switch ComfyUI profiles in just one click. 6. Comfyui-Node-Canvas - Spins custom ComfyUI nodes from visual blueprints. 7. ComfyUI-Magos-Nodes - Drops a full skeleton editor right inside ComfyUI. 8. Huge ComfyUI-Yedp-Action-Director Update - Updates the 3D Director in ComfyUI with new features. 9. ComfyUI-ialhabbal - Bundles eight AI image tools into one convenient node pack. 10. ComfyUI_ShowMe - Drops explainable AI sketches right on your workflow. 11. ComfyUI-XAV-Google-Sheets - Pipes spreadsheet text directly into AI workflows. 12. ComfyUI-Clippy-Reloaded - Pastes clipboard images without needing to save files first. 13. ComfyUI-gonztok_nodes - Ditches file paths by using visual pickers instead. Need to go further back? Check out last month's post or the full archive at LocalAI News . If there's anything wrong, let me know in the comments. PS: Few days behind on this one (I can already see like 30 releases in the past few days I've missed. If you did an average of releases for the month, its around 5 - 7 daily). There's still a lot to work to be done so plans for this month include optimizing and building better automations, updating the site's design, adding non news related content and more useful tools. submitted by /u/vramkickedin [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tt6eir/damn_anima_base_is_cooking_whats_your_favorite/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ttpi6d/local_ai_news_you_missed_may_2026/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_db4a736c16b3fb87",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttjuc0/nvidia_releases_cosmos3superimage2video_64b/",
+    "title": "Nvidia releases Cosmos3-Super-Image2Video . 64B parametres",
+    "publishedAt": "2026-06-01T06:32:54.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Model: https://huggingface.co/nvidia/Cosmos3-Super-Image2Video/tree/main submitted by /u/AgeNo5351 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "Model: https://huggingface.co/nvidia/Cosmos3-Super-Image2Video/tree/main submitted by /u/AgeNo5351 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ttjuc0/nvidia_releases_cosmos3superimage2video_64b/"
       }
     ],
     "usableFor": [
@@ -397,27 +426,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_626b89a7cb35e5c4",
+    "sourceId": "src_reddit-stablediffusion_6ca3877bf4534b65",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tt61vq/comfyui_hyworld2_update_quality_improvement_world/",
-    "title": "ComfyUI_HYWorld2 update. Quality improvement + World Stereo Light models!",
-    "publishedAt": "2026-05-31T20:12:09.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttn2kd/bernini_released_unified_video_generation_and/",
+    "title": "Bernini released. Unified Video generation and editing model. Built on Wan-2.2",
+    "publishedAt": "2026-06-01T09:34:53.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Over the past few days, I’ve significantly improved my node for adding HY-World to ComfyUI.",
-      "Installation should now be much smoother.",
-      "You will most likely still need to compile two modules, but now this is handled fully automatically.",
-      "The quality of panorama processing has improved DRAMATICALLY thanks to several upgrades at once."
+      "Project Page: https://bernini-ai.github.io/ Model: https://huggingface.co/ByteDance/Bernini/tree/main Paper: Bernini: Latent Semantic Planning for Video Diffusion submitted by /u/AgeNo5351 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Over the past few days, I’ve significantly improved my node for adding HY-World to ComfyUI. We have several new features at once! Installation should now be much smoother. You will most likely still need to compile two modules, but now this is handled fully automatically. All you need to do is wait a bit. The quality of panorama processing has improved DRAMATICALLY thanks to several upgrades at once. The most important one is that generation no longer requires a huge amount of VRAM, which makes it possible to increase the generation size up to 1400 on 16 GB of VRAM. The second improvement is smart image processing, which removes almost all of the image artifacts that were present before. WorldStereo support has been added. And although the base model weighs around 100 GB and requires a completely unreasonable amount of VRAM, I have a solution here as well! I created my own lightweight int4 models, which take up only… 8 GB! What’s more, it turned out that they are fully compatible with turbo LoRAs for Wan, which made it possible to use even regular camera models in just 4 steps. The question of WorldStereo quality is still open, but they do work. Unfortunately, I was not able to create fp8 or bf16 versions, as my hardware is not powerful enough to build the models. The project includes nodes that let you try making them yourself. If you succeed, I’ll be happy to see your contributions to the project! Unfortunately, I still haven’t managed to create a fully working world-generation solution. The extra frames from WorldStereo tend to make the final image worse rather than better. I’m afraid that achieving good quality requires generation at 1024×1024, but I can’t fit that into the VRAM limit even with the int4 models. Again, I’d be very happy to receive contributions to the project if you have better hardware than mine! submitted by /u/AHEKOT [link] [comments]",
+        "text": "Project Page: https://bernini-ai.github.io/ Model: https://huggingface.co/ByteDance/Bernini/tree/main Paper: Bernini: Latent Semantic Planning for Video Diffusion submitted by /u/AgeNo5351 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tt61vq/comfyui_hyworld2_update_quality_improvement_world/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ttn2kd/bernini_released_unified_video_generation_and/"
       }
     ],
     "usableFor": [
@@ -427,57 +453,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_56ca2998a6f87e7a",
+    "sourceId": "src_reddit-stablediffusion_4e6a019ebd0f5c0d",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tsvt9z/renting_a_gpu_for_use_with_a_service_like_a/",
-    "title": "Renting a GPU for use with a service like a runpod has become prohibitively expensive. The last time I rented one was about 3 months ago. The price for a 4090 was $5 per day for 25. The hourly rate for a 5090 was higher than for an A100 about 3 months ago.",
-    "publishedAt": "2026-05-31T13:45:56.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tttwgu/cosmos3_nano_testing_with_vllmomni/",
+    "title": "Cosmos3 Nano testing with vllm-omni",
+    "publishedAt": "2026-06-01T14:27:29.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Even simpler GPUs like the 5070 Ti are absurdly expensive.",
-      "Previously, the rental cost was equivalent to the price of the GPU for 2 to 4 years.",
-      "Nowadays, it's equivalent to just a few months.",
-      "submitted by /u/More_Bid_2197 [link] [comments]"
+      "Hey everyone, just wanted to share my recent testing recipe and results running the Cosmos3 Nano using vllm-omni.",
+      "The performance is incredibly fast, it took almost exactly 9 minutes to generate a 720x720, 161 frames video on my setup.",
+      "However, while bumping the resolution up to 1280x720 works fine during generation, It triggers a oom error during the video decoding phase.",
+      "As for quality, Cosmos3 Nano T2V quality wasn't great, but the model produces totally acceptable I2V quality."
     ],
     "claims": [
       {
-        "text": "Even simpler GPUs like the 5070 Ti are absurdly expensive. Previously, the rental cost was equivalent to the price of the GPU for 2 to 4 years. Nowadays, it's equivalent to just a few months. submitted by /u/More_Bid_2197 [link] [comments]",
+        "text": "Hey everyone, just wanted to share my recent testing recipe and results running the Cosmos3 Nano using vllm-omni. The performance is incredibly fast, it took almost exactly 9 minutes to generate a 720x720, 161 frames video on my setup. However, while bumping the resolution up to 1280x720 works fine during generation, It triggers a oom error during the video decoding phase. As for quality, Cosmos3 Nano T2V quality wasn't great, but the model produces totally acceptable I2V quality. That said, likely because it's the Nano model, there is still some noticeable smearing and artifacting where object shapes get a distorted. CPU: AMD Ryzen 9 9950X RAM: 128GB DDR5 6400mt/s GPU: 2x RTX 3090 Here is the exact setup I used to get it running across both GPUs: bash vllm serve nvidia/Cosmos3-Nano \\ --omni \\ --model-class-name Cosmos3OmniDiffusersPipeline \\ --allowed-local-media-path / \\ --enable-layerwise-offload \\ --deploy-config /home/anonymous/vllm/no_guardrails.yaml \\ --tensor-parallel-size 2 \\ --port 8000 \\ --diffusion-attention-backend SAGE_ATTN curl -sS -X POST http://localhost:8000/v1/videos/sync \\ --form-string \"prompt=A charming stop-motion style macro video featuring a miniature knitted yarn turtle doll crawling slowly across a person's open hand. The turtle is made of thick, vibrant green and yellow wool yarn with visible intricate knit stitches. As it moves its legs in a cute, robotic stop-motion rhythm, the camera tilts slightly to follow its progress. The lighting is bright and cheerful, casting soft shadows on the hand. The background is a soft-focus creative craft room desk. High fidelity, crisp textile details, playful and artistic vibe.\" \\ --form-string \"negative_prompt=blurry, distorted, low quality\" \\ --form-string \"size=720x720\" \\ --form-string \"num_frames=161\" \\ -F \"input_reference=@/home/anonymous/Downloads/1657612134015964.jpg\" \\ --form-string \"fps=24\" \\ --form-string \"num_inference_steps=20\" \\ --form-string \"guidance_scale=6.0\" \\ --form-string \"flow_shift=5.0\" \\ --form-string \"seed=1234\" \\ --form-string 'extra_params={\"guardrails\":false}' \\ -o cosmos3_t2v_output.mp4 submitted by /u/Sticky_Ray [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tsvt9z/renting_a_gpu_for_use_with_a_service_like_a/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_7e806ff4afaca0fe",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tt8h2w/pit_nvidia_vs_seedvr2/",
-    "title": "PIT NVIDIA vs SeedVR2",
-    "publishedAt": "2026-05-31T21:45:30.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Unfortunately, Reddit has compressed the images too much, so I recommend checking out the original files I uploaded at https://fex.net/de/s/ovzaayr I decided to compare NVIDIA's new upscaler model called PIT , which performs upscaling based on Latent space rather than the standard Image-based approach used by other upscalers.",
-      "In theory, this method should give the upscaler model better contextual understanding and fewer artifacts when generating fine details that are not always clear to a conventional upscaler.",
-      "I decided to compare PIT against the most popular and effective upscaler at the moment - SeedVR2 .",
-      "The tests were conducted on the Z-image-Turbo (Fp8) model (I may test on Flux 2 Klein later) ."
-    ],
-    "claims": [
-      {
-        "text": "Unfortunately, Reddit has compressed the images too much, so I recommend checking out the original files I uploaded at https://fex.net/de/s/ovzaayr I decided to compare NVIDIA's new upscaler model called PIT , which performs upscaling based on Latent space rather than the standard Image-based approach used by other upscalers. In theory, this method should give the upscaler model better contextual understanding and fewer artifacts when generating fine details that are not always clear to a conventional upscaler. I decided to compare PIT against the most popular and effective upscaler at the moment - SeedVR2 . The tests were conducted on the Z-image-Turbo (Fp8) model (I may test on Flux 2 Klein later) . The prompt for PID_Flux1 was supplied exactly the same as used during generation (although I suspect that for PIT it's better to provide a more detailed prompt, which could be generated via Qwen VL - if this post gets enough reach, I'll try testing with a separate, more detailed prompt). Models Used SeedVR2_7b_fp16 PID_Flux1_1024_to_4096_4step_bf16 Image Order Original Comparison My Opinion The results are not entirely straightforward. PIT, thanks to its Latent-based approach and additional prompt input, handles faces better and produces fewer artifacts and noise . However, it's not yet strong enough to properly upscale text/inscriptions - even when the text is clearly described in the prompt. A perfect example is the last image , where an extremely detailed prompt was provided describing every sign inscription, yet PIT still refused to render them correctly. That said, compared to SeedVR2, PIT represents a huge leap forward and in 80–90% of cases genuinely performs much better - though for the first image I still personally prefer the SeedVR2 result. Another advantage PIT has over SeedVR2 is that PIT does not \"improve\" cinematic grain or intentional subtle blurs that give generated images a sense of life and realism. PIT understands when noise is an artistic effect versus poor quality that needs correction - unlike SeedVR2, which may upscale and sharpen imperfections that are better left alone. I also noticed a slight color shift when using PIT, whereas no color drift was observed with SeedVR2. Speed (RTX 3090, 1024p → 4096p) SeedVR2: 21 seconds PIT: 39 seconds Unfortunately, I couldn't fit all the tests into this post, so I've uploaded the rest of them (in their original format) to a file-sharing site (these files will be available for 7 days, after which they will be deleted): https://fex.net/de/s/ovzaayr If it's convenient for you, feel free to reply to this post in English, German, Russian, or Ukrainian - I understand all of these languages. If you have any questions, I'd be happy to answer them. And if you have any interesting images you'd like to run through PIT, I'd gladly process them for you! submitted by /u/Both-Rub5248 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tt8h2w/pit_nvidia_vs_seedvr2/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tttwgu/cosmos3_nano_testing_with_vllmomni/"
       }
     ],
     "usableFor": [
@@ -517,27 +513,54 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_89b48edf7b142985",
+    "sourceId": "src_reddit-comfyui_fdef6f0e1ddfe1d5",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tt806w/built_a_windows_tool_because_i_got_tired_of_doing/",
-    "title": "Built a Windows tool because I got tired of doing the same media tasks around ComfyUI over and over",
-    "publishedAt": "2026-05-31T21:26:41.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1ttrbu2/i_got_ltx_iclora_hdr_to_process_any_number_of/",
+    "title": "I got LTX IC-LoRA HDR to process any number of clips, any length, single click, zero babysitting. All locally. [Workflow + Custom Node Release]",
+    "publishedAt": "2026-06-01T12:54:10.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Hi everyone, I spend a lot of time working with ComfyUI, especially for video generation workflows (recently a lot of WAN 2.2).",
-      "Over time I noticed that a surprising amount of my time wasn't actually spent inside ComfyUI.",
-      "Instead, I kept jumping between FFmpeg commands, Audacity, GIMP and various small utilities just to prepare files before generation or clean them up afterwards.",
-      "After doing this hundreds of times, I started building a small utility with vibecodding for myself just to save a few clicks."
+      "If you just want the workflow and files, here you go: https://drive.google.com/drive/folders/1UIUN40jb_qXPwe-WxRU0EVMMwGWxdnbZ?usp=sharing For those who want to know how I figured all this out...",
+      "## The Problem I work on pitches and 360 campaigns — which means I'm constantly producing TVCs.",
+      "Each TVC is assembled from a ton of individual video clips that get stitched together in your editing tool of choice.",
+      "These days, most of my work is AI-generated video."
     ],
     "claims": [
       {
-        "text": "Hi everyone, I spend a lot of time working with ComfyUI, especially for video generation workflows (recently a lot of WAN 2.2). Over time I noticed that a surprising amount of my time wasn't actually spent inside ComfyUI. Instead, I kept jumping between FFmpeg commands, Audacity, GIMP and various small utilities just to prepare files before generation or clean them up afterwards. Crop a clip. Cut a segment. Resize something. Extract frames. Convert formats. Change playback speed. Compress files. Remove a background. Then jump back into ComfyUI. After doing this hundreds of times, I started building a small utility with vibecodding for myself just to save a few clicks. Then I kept improving it, added more actions, local AI features.... And at some point it stopped being a personal tool and became a real project. Today it has become a standalone Windows application called FrameShift . Some of the current features include: Audio and video cutting Image and video cropping (visual editors) Convert workflows Resize workflows Compress workflows Rotate / Flip operations Frame extraction Video and audio speed changes Background removal (local AI) ...and many other media utilities that I kept needing around my AI workflows. FrameShift currently includes a large collection of image, audio, video and local AI actions. Everything runs locally and offline. It's a companion tool that makes working with ComfyUI projects easier by handling many of the repetitive media preparation and post-processing tasks around image, video and audio workflows. I'm also gradually adding more local AI features. Local RIFE interpolation is already available, and I'm currently exploring additional AI workflows such as upscaling and other useful media-processing models. The project is free, open source (GPL), local-first, fully offline, and currently focused on Windows. Also, full disclosure: the project has been vibe-coded. I'm not a professional software engineer, just someone who kept building tools to solve his own workflow problems and ended up turning them into a larger project. I'm curious: What media tasks do you find yourself doing repeatedly outside of ComfyUI? Those are usually the best candidates for future features. Project: https://gaurox.github.io/FrameShift/ submitted by /u/Gaurox [link] [comments]",
+        "text": "If you just want the workflow and files, here you go: https://drive.google.com/drive/folders/1UIUN40jb_qXPwe-WxRU0EVMMwGWxdnbZ?usp=sharing For those who want to know how I figured all this out... read on. ## The Problem I work on pitches and 360 campaigns — which means I'm constantly producing TVCs. Each TVC is assembled from a ton of individual video clips that get stitched together in your editing tool of choice. These days, most of my work is AI-generated video. Here's the thing nobody talks about: when you're pulling clips from different AI video generators, the colors almost never match. And it's not the kind of mismatch you can easily fix in post. Every generator has its own color science, its own idea of what \"cinematic\" looks like, and trying to grade them into a cohesive look is an absolute nightmare. That's how I discovered **LTX IC Lora HDR**. It's genuinely great at harmonizing the look across clips — but running it locally introduced a whole new set of problems. My GPU (~32GB VRAM) doesn't have enough headroom to hold all the models AND process full-length clips in one shot. A 5-second clip at 24fps is ~120 frames, and LTX can only chew through about 24-25 frames per batch before VRAM taps out. I first solved the single-clip problem — figuring out how to split one video into GPU-sized batches, process them through LTX, and blend the seams back together. [That journey is documented in my previous post.]( https://www.reddit.com/r/comfyui/comments/1tn4p35/workflow_custom_node_release_i_vibe_coded_my_way/ ) But that still left me babysitting. I'd finish one clip, manually point the pipeline at the next one, click Run, wait, repeat. With 48 clips to process for a production job, that's not a workflow — that's a prison sentence. --- ## The Solution I needed a pipeline that could: - Split a clip into GPU-sized batches - Process each batch through LTX - Blend the seams between batches so there are no visible cuts - Output cinema-grade EXR sequences - Do this for **every clip in a folder**, automatically, with zero intervention I built it as a set of **custom ComfyUI nodes** — five nodes across two Python files, all written from scratch: - **AllClipsOneClick*\\ * — scans a folder of videos, extracts frames, manages clip-to-clip state - **AllClipsAdvancer*\\ * — the requeue brain; handles batch-to-batch and clip-to-clip transitions automatically - **BatchFrameLoader*\\ * — loads GPU-sized frame batches from disk, tracks batch progress - **SeamBlender*\\ * — linear crossfade across overlap regions so batch boundaries are invisible - **NukeWrite*\\ * — outputs EXR frame sequences with Nuke/DaVinci-compatible naming The only node in the pipeline I didn't build is the **LTX Video** node itself (available from the community). Everything else — the orchestration, the batching, the seam blending, the EXR output, the requeue system — is custom. **The workflow graph:** ``` AllClipsOneClick → BatchFrameLoader → LTX Video → SeamBlender → NukeWrite → AllClipsAdvancer ↑ | |_____________________________________________________________________________| (automatic requeue loop) ``` **What happens when you click Run once:*\\ * **AllClipsOneClick** scans your video folder, picks the first clip, extracts all frames using OpenCV into `clip_001/` **BatchFrameLoader** loads the first 24 frames as a tensor, sends them to LTX LTX does its thing, SeamBlender handles the overlap between batches, NukeWrite outputs EXR frames **AllClipsAdvancer** sees there are more batches → automatically requeues the workflow Steps 2-4 repeat until all batches for that clip are done AllClipsAdvancer sees it's the last batch → advances the state file to the next clip AllClipsOneClick picks up `clip_002/`, extracts frames, and the whole cycle repeats After the last batch of the last clip → pipeline writes `completed: true` and stops Each clip gets its own folder (`clip_001/`, `clip_002/`, etc.) in the EXR output directory, with properly named frame sequences ready for Nuke or DaVinci. My test run: 5 clips of varying lengths (80-110 frames each), 28 total batches, 28 consecutive automatic requeues, zero failures, zero skipped executions. Every batch did real GPU work (~115 seconds each). Clean stop at the end. For production, I pointed it at 48 clips and let it run overnight. One click. --- ## The Journey This is where it gets fun. ComfyUI doesn't natively support looping a workflow — there's no built-in \"process this batch, then automatically do the next one.\" So I had to build the requeue mechanism from scratch, and it broke in increasingly creative ways. **A note before I list these:*\\ * what follows is the watered-down version to keep this post readable. In reality, each of these attempts consumed hours — sometimes days. The problem rarely announces itself clearly. You get a vague symptom (a 0.01-second execution, a silently skipped clip), and that opens up an array of possible causes. Figuring out which layer is actually misbehaving — ComfyUI's cache, the execution graph, the API queue, your own state logic — requires a grounded understanding of the whole system. The journey from \"something is wrong\" to \"I know exactly what to fix\" is the hard part. **Attempt 1 — \"Run (On Change)\" toggle** ComfyUI has a built-in auto-queue that re-runs when node outputs change. Worked at first! Then randomly stopped triggering between clips. Also depends on the frontend UI being open, which kills unattended rendering. Scrapped. **Attempt 2 — Queue polling + history scraping** Had the node poll `localhost:8188/queue` every second, wait for it to be empty, then grab the last prompt from `/history` and repost it. Worked perfectly for all 6 batches of clip 1. Then on clip 2, batch 1→2, the execution finished in 0.01 seconds with no GPU work. The prompt had been queued while the previous one was still technically in the pipeline, and ComfyUI just returned cached results. Dead end. **Attempt 3 — Hidden PROMPT input** ComfyUI can inject the live workflow graph into a node via a hidden input. No more history scraping, no race condition. Except... the prompt got queued during execution, ComfyUI cached everything, and every requeue finished in 0.01 seconds. Even worse, having PROMPT as a hidden input corrupted ComfyUI's cache behavior for subsequent runs. **Attempt 4 — Cache bust on the Advancer node only** Injected a random UUID into the AllClipsAdvancer's inputs before reposting, so ComfyUI would see \"new\" inputs and not cache it. The advancer node re-executed... but every upstream node (BatchFrameLoader, LTX, everything that actually does work) was still cached. Result: infinite loop of 0.01-0.09 second executions where only the advancer ran. No GPU work at all. **Attempt 5 — Cache bust on ALL three custom nodes** The breakthrough. Instead of busting the cache on just the advancer, I inject the same UUID into `_cache_bust` inputs on **AllClipsOneClick**, **BatchFrameLoader**, AND **AllClipsAdvancer**. All three nodes declare `_cache_bust` as an optional string input. When ComfyUI sees changed inputs on the upstream nodes, it's forced to re-execute the entire pipeline. Combined with: - Hidden PROMPT input to capture the live workflow graph (no history scraping) - Daemon thread for the requeue POST (so the current node finishes cleanly) - `IS_CHANGED` returning `float(\"nan\")` / `time.time()` to prevent any additional caching This is what finally worked. 28 consecutive requeues, every single one followed by ~115 seconds of real GPU work. No skips, no stalls, no doubles. The key insight: **ComfyUI's caching is per-node based on input values. If you only bust the cache on your output node, upstream nodes still return cached results. You have to bust every node in the chain that matters.** --- ## The Tools - **ComfyUI** — the backbone, installed via Pinokio - **LTX Video (IC Lora HDR)** — the AI model doing the actual video processing/upscaling - **OpenCV** — frame extraction - **OpenImageIO** — 16-bit EXR output for the NukeWrite node - **Claude** — helped architect the solution, debug the requeue problem, and iterate through all the failed approaches - **Aider** — AI coding assistant running locally, used for rapid code edits and iteration - **Qwen Coder** — local LLM powering Aider (via LM Studio), so the whole dev loop stays offline and fast --- ## Files & Installation Everything you need is included. Drop the files into the right folders and load the workflow. **Step 1 — Custom nodes*\\ * Copy all three node folders into your ComfyUI custom nodes directory: ``` ComfyUI/ └── custom_nodes/ ├── comfyui_batch_loader/ ← AllClipsOneClick, AllClipsAdvancer, BatchFrameLoader, BatchFrameSaver ├── comfyui_seam_blender/ ← SeamBlender (crossfade between batches) └── nuke-nodes/ ← NukeWrite (EXR output with Nuke-compatible naming) ``` **Step 2 — Load the workflow*\\ * Drag and drop the included `LTX-2_3_ICLoRA_HDR_v30_AllClips.json` into ComfyUI. All nodes and connections are pre-wired. **Step 3 — Install dependencies*\\ * Run this in your ComfyUI's Python environment (adjust the path to match your install): ``` path/to/your/python.exe -m pip install opencv-python openimageio ``` **Step 4 — Configure paths*\\ * In the workflow, update three paths on the AllClipsOneClick node: - `video_directory` → folder containing your source video clips - `frames_output_folder` → where extracted frames go (can leave default) - `exr_base_path` → where your processed EXR sequences will be saved **Step 5 — Run*\\ * Click Run once. Walk away. Each clip gets its own folder (`clip_001/`, `clip_002/`, etc.) with properly named EXR frame sequences. The pipeline stops automatically when all clips are done. **Important notes:*\\ * - Make sure \"Run (On Change)\" and any other auto-queue modes are **OFF** in ComfyUI — the pipeline handles its own requeuing - Before a fresh run, delete any leftover state files (`_allclips_progress.json` and `_batch_state.json` files in your frames folder) - Tested on Windows with ~32GB VRAM (RTX 5090). Batch size of 24 frames with 8-frame overlap. Adjust `batch_size` and `overlap` on the BatchFrameLoader node if your VRAM is different One Last Thing I honestly thought this would be straightforward. I already had one video working on my GPU. batch it, blend the seams, output EXR. Done. So getting many videos to work should just be a matter of adding one node that loops through a folder, right? How hard could that be? Turns out I wasn't fighting my own code. I was fighting ComfyUI's execution model. My nodes worked fine from day one. The caching system just wasn't designed for what I was asking it to do. And the worst part is, nobody could have warned me upfront the requeue problem doesn't exist until you try to requeue. The caching problem doesn't surface until your second iteration finishes suspiciously fast. Each layer only reveals itself after you've solved the previous one. The gap between \"this should be one simple node\" and \"this took five architectural iterations\" is something every developer knows but never expects when it's their turn. I looked at this and thought \"half a day, tops.\" I was very, very wrong. But it works now, and hopefully this saves someone else the same journey. --- **TL;DR:*\\ * Built custom ComfyUI nodes that turn LTX IC Lora HDR into a fully autonomous batch video processor. Point it at a folder of clips, click Run, walk away. It splits each clip into GPU-sized chunks, processes them through LTX, blends the seams, outputs EXR sequences, and moves to the next clip automatically. Took 5 attempts to solve the requeue/caching problem, but it's now bulletproof — tested with 28 consecutive requeues across 5 clips with zero failures. All files included — just drop them in and go. submitted by /u/d3nnyvg3org3 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tt806w/built_a_windows_tool_because_i_got_tired_of_doing/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1ttrbu2/i_got_ltx_iclora_hdr_to_process_any_number_of/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-comfyui_46da5b5f73dedbef",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1ttuftr/time_travel_with_ltx_23/",
+    "title": "Time Travel with LTX 2.3",
+    "publishedAt": "2026-06-01T14:45:45.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "LTX 2.3 workflow: https://github.com/Lightricks/ComfyUI-LTXVideo/blob/master/example_workflows/2.3/LTX-2.3_T2V_I2V_Two_Stage_Distilled.json submitted by /u/alisitskii [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "LTX 2.3 workflow: https://github.com/Lightricks/ComfyUI-LTXVideo/blob/master/example_workflows/2.3/LTX-2.3_T2V_I2V_Two_Stage_Distilled.json submitted by /u/alisitskii [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1ttuftr/time_travel_with_ltx_23/"
       }
     ],
     "usableFor": [
@@ -547,27 +570,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_eaffaa0e351b7405",
+    "sourceId": "src_reddit-comfyui_09ccc8da5270072e",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tt54jv/big_comfystudio_update_discord_is_open_custom/",
-    "title": "Big ComfyStudio update: Discord is open + custom ComfyUI workflows are here",
-    "publishedAt": "2026-05-31T19:37:16.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1ttpbn5/flux2_klein_9b_schematic_lora_depth_normal_pose/",
+    "title": "FLUX.2 Klein 9B Schematic LoRA - Depth, Normal, Pose, and Segmentation",
+    "publishedAt": "2026-06-01T11:28:59.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Big ComfyStudio Update: Discord + Custom ComfyUI Workflows Hey everyone, big ComfyStudio update.",
-      "It’s brand new, so it’s still quiet, but this will be the place for support, workflow sharing, bug reports, feature requests, tutorials, custom workflow ideas, and community music video experiments.",
-      "Discord: https://discord.gg/E3bAHPan ComfyStudio is also free and open source.",
-      "I’d love to get more contributors involved, whether that’s code, testing, workflows, bug reports, documentation, tutorials, or just feedback from people actually making things with it."
+      "There have already been several projects that try to use the prior knowledge of image generation models for CV tasks, such as Marigold and SDPose .",
+      "Now that image editing models have become more common, there is a very simple idea: maybe these CV tasks can also be treated as image editing tasks.",
+      "That is the idea behind Google's Vision Banana .",
+      "When I saw it, I felt that a similar approach might also work with a local model like FLUX.2 Klein, so I trained a set of LoRAs for it."
     ],
     "claims": [
       {
-        "text": "Big ComfyStudio Update: Discord + Custom ComfyUI Workflows Hey everyone, big ComfyStudio update. First: we now have an official Discord. It’s brand new, so it’s still quiet, but this will be the place for support, workflow sharing, bug reports, feature requests, tutorials, custom workflow ideas, and community music video experiments. Discord: https://discord.gg/E3bAHPan ComfyStudio is also free and open source. I’d love to get more contributors involved, whether that’s code, testing, workflows, bug reports, documentation, tutorials, or just feedback from people actually making things with it. I also just posted a new video showing the new custom ComfyUI workflow support inside the Music Video Creator. Video: https://www.youtube.com/watch?v=bNk9kdfCpCM Small warning: I’m a little all over the place in the video because I’m genuinely excited about this feature. If anything is confusing or you need help getting custom workflows working, please jump into the Discord and ask. I’d love for people to test this, break it, improve it, and share what they build. This is one of the biggest requests I’ve gotten: people want to use their own ComfyUI setups, custom nodes, custom LoRAs, GGUF models, local models, paid API nodes, and whatever else they already have working in ComfyUI. This video is mainly for people who have already used ComfyStudio before. It focuses on the new custom workflow tools in: Step 4: custom image/keyframe workflows Step 5: custom video workflows A full beginner walkthrough of the entire Music Video Creator is coming soon. The big idea is that you are no longer locked into only the built-in models. You can now bring your own ComfyUI workflow, use your own custom nodes/models/LoRAs/GGUFs, and have ComfyStudio send inputs like prompts, images, audio, seed, size, FPS, and duration into your graph, then pull the finished image or video back into the music video flow. There have also been a lot of other updates since the earlier versions: You can edit keyframe prompts directly before rerunning a shot You can copy prompts from generated shots You can manually replace keyframe images You can change per-shot references for Nano Banana You can rerun individual keyframes or videos more easily Already-generated keyframes/videos are skipped when continuing a run The timeline has smoother playback, better transitions, snapping improvements, and cleaner waveform display ComfyUI tab generations can auto-import back into ComfyStudio Custom ComfyUI workflows can now be used for both keyframes and videos Lyrics timing support has improved, including pasted lyrics alignment Builds are now available for Windows, Mac, and Linux Download ComfyStudio: https://comfystudiopro.com/ GitHub releases: https://github.com/JaimeIsMe/comfystudio/releases This is still moving fast, but the Music Video Creator is getting much more flexible now. I’m especially excited to see what people do with custom workflows, because it means you can build around your own ComfyUI setup instead of waiting for every model or node to be built directly into ComfyStudio. submitted by /u/VisualFXMan [link] [comments]",
+        "text": "There have already been several projects that try to use the prior knowledge of image generation models for CV tasks, such as Marigold and SDPose . Now that image editing models have become more common, there is a very simple idea: maybe these CV tasks can also be treated as image editing tasks. That is the idea behind Google's Vision Banana . When I saw it, I felt that a similar approach might also work with a local model like FLUX.2 Klein, so I trained a set of LoRAs for it. To avoid setting expectations too high: unfortunately, the quality is not good enough for practical use yet. I wanted to research this a bit more, but I ran out of both time and budget... 🫠 Model: https://huggingface.co/nomadoor/flux-2-klein-9B-schematic-lora Dataset: https://huggingface.co/datasets/nomadoor/flux-2-klein-9B-schematic-dataset Blog: https://comfyui.nomadoor.net/en/notes/flux2-klein-schematic-lora/ Tasks I trained six tasks. Unlike Vision Banana, I chose tasks that are familiar to many people as \"ControlNet preprocessor\"-like outputs: relative depth surface normal body pose full pose binary segmentation amodal segmentation Amodal segmentation may be less familiar. Normal segmentation masks only the visible region of the target. Amodal segmentation tries to estimate the full shape of the target, including parts hidden behind occluders. Since it requires the model to infer invisible regions, it is partly a generative task. If this worked well, I thought it would be a pretty interesting demonstration. Results As you can see from the examples, I would call this half success, half failure. Depth / Normal worked relatively well, but Pose starts to break when you look at the details. Segmentation was the least stable task. I expected the text encoder in FLUX.2 to help with prompt understanding, but target selection and fine boundaries were still quite unstable. I would like to try again if I have the chance... That said, even though it is far from perfect, I was happy to confirm that some behaviors I had imagined, such as amodal segmentation, actually appeared in the model output. Thoughts For me, the important point of this experiment is not whether the model can truly solve CV tasks. The more interesting point is that the usefulness of image editing models may depend a lot on what we decide to treat as \"image editing.\" When people hear image editing, they usually think of style transfer, object removal, and similar tasks. But CV-like outputs like these, or even custom intermediate representations, can also be treated as image editing in a broad sense. If I come up with another idea, I would like to keep experimenting. It is fun to imagine what kinds of new representations might come out of this direction. submitted by /u/nomadoor [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tt54jv/big_comfystudio_update_discord_is_open_custom/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1ttpbn5/flux2_klein_9b_schematic_lora_depth_normal_pose/"
       }
     ],
     "usableFor": [
@@ -577,56 +600,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_15c96f9e5ff4e94c",
+    "sourceId": "src_reddit-comfyui_900b9d208eef76de",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tsxqxr/simple_comics_style_story_generation/",
-    "title": "Simple comics style story generation",
-    "publishedAt": "2026-05-31T15:03:16.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1ttujrl/our_1st_paid_comfyui_builder_contest_is_open_4k/",
+    "title": "Our 1st paid ComfyUI builder contest is open. $4K pool",
+    "publishedAt": "2026-06-01T14:49:34.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "I created a story generation workflow from 1 simple prompt https://preview.redd.it/awmp3ut3gh4h1.png?width=1507&format=png&auto=webp&s=e3cc313ca9d81e61970d935074ffbfdb031ad563 Now I want to show you some outputs with prompts I have tested the workflow on RTX 3060 12gb.",
-      "First generation - 587s Second generation - 559s Prompt: Story about ronaldo eating ramen, but its dissapers, after that ronaldo is start searching, he is finding that cat eated all his ramen, anime style Result Prompt: Story about how YouTube was created Result Also you can see prompt and image for each frame https://preview.redd.it/4m64qev9kh4h1.png?width=1697&format=png&auto=webp&s=811d2e109bf7d8b7e6532104c7a73494f4e43455 Link to download workflow, enjoy https://drive.google.com/drive/folders/1QyOsH_TvhAMjywEEyJYQjnSHUKfMCfFN?usp=drive_link P.S.",
-      "Sorry, my RTX 3060 can't handle Flux.2-Dev in that workflow so i just picked that model t submitted by /u/FishermanLive8958 [link] [comments]"
+      "Hey everyone - quick follow-up to last week's post: We're officially launching the first paid contest today.",
+      "Two weeks to ship, $20K prize pool across the 5-contest season, every contest solving a real customer pain we've been tracking.",
+      "Contest #01 is live now: Brand-consistent ad variants.",
+      "Brief + apply form at runflow.io/contests How the model works (recap): - We talk to companies stuck on real production problems (current cohort: performance marketers losing whole days to manual ad-variant work)."
     ],
     "claims": [
       {
-        "text": "I created a story generation workflow from 1 simple prompt https://preview.redd.it/awmp3ut3gh4h1.png?width=1507&format=png&auto=webp&s=e3cc313ca9d81e61970d935074ffbfdb031ad563 Now I want to show you some outputs with prompts I have tested the workflow on RTX 3060 12gb. First generation - 587s Second generation - 559s Prompt: Story about ronaldo eating ramen, but its dissapers, after that ronaldo is start searching, he is finding that cat eated all his ramen, anime style Result Prompt: Story about how YouTube was created Result Also you can see prompt and image for each frame https://preview.redd.it/4m64qev9kh4h1.png?width=1697&format=png&auto=webp&s=811d2e109bf7d8b7e6532104c7a73494f4e43455 Link to download workflow, enjoy https://drive.google.com/drive/folders/1QyOsH_TvhAMjywEEyJYQjnSHUKfMCfFN?usp=drive_link P.S. Sorry, my RTX 3060 can't handle Flux.2-Dev in that workflow so i just picked that model t submitted by /u/FishermanLive8958 [link] [comments]",
+        "text": "Hey everyone - quick follow-up to last week's post: We're officially launching the first paid contest today. Two weeks to ship, $20K prize pool across the 5-contest season, every contest solving a real customer pain we've been tracking. Contest #01 is live now: Brand-consistent ad variants. Brief + apply form at runflow.io/contests How the model works (recap): - We talk to companies stuck on real production problems (current cohort: performance marketers losing whole days to manual ad-variant work). - We turn that pain into a brief with an internal test set and auto-graded acceptance criteria. - Builders ship workflows against the brief. - The winning workflow goes live as a public API on our marketplace. No paywall to enter the contest, no paywall to use the winning workflow once it ships. Prize per contest: $1,650 + $500 credits to 1st, $500 + $100 to 2nd, $200 + $50 to 3rd, plus $50 credits to the next 20 valid entries. The 5 contests in order: (1) Brand-consistent ad variants (Jun 1 -> Jun 15) Jun 29) (3) Static to social ad creative (Jun 29 -> Jul 13) (4) Catalog hero photography (Jul 13 -> Jul 27) (5) UGC-style ad creative (Jul 27 -> Aug 10) On top of the prize we will also actively promote the winning workflow once it goes live. The builder name stays on the public API endpoint and on a Runflow page with a contact form, so any client work that comes through it goes directly to the builder. If this first season works, we run more of these. Again, we want to be the bridge for better quality workflows for production and helping builders monetise their amazing work. AMA below if anything looks unclear. submitted by /u/Monolikma [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tsxqxr/simple_comics_style_story_generation/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_5d3a70cc1831389c",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tt60zw/comfyui_hyworld2_update_quality_improvement_world/",
-    "title": "ComfyUI_HYWorld2 update. Quality improvement + World Stereo Light models!",
-    "publishedAt": "2026-05-31T20:11:13.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Over the past few days, I’ve significantly improved my node for adding HY-World to ComfyUI.",
-      "Installation should now be much smoother.",
-      "You will most likely still need to compile two modules, but now this is handled fully automatically.",
-      "The quality of panorama processing has improved DRAMATICALLY thanks to several upgrades at once."
-    ],
-    "claims": [
-      {
-        "text": "Over the past few days, I’ve significantly improved my node for adding HY-World to ComfyUI. We have several new features at once! Installation should now be much smoother. You will most likely still need to compile two modules, but now this is handled fully automatically. All you need to do is wait a bit. The quality of panorama processing has improved DRAMATICALLY thanks to several upgrades at once. The most important one is that generation no longer requires a huge amount of VRAM, which makes it possible to increase the generation size up to 1400 on 16 GB of VRAM. The second improvement is smart image processing, which removes almost all of the image artifacts that were present before. WorldStereo support has been added. And although the base model weighs around 100 GB and requires a completely unreasonable amount of VRAM, I have a solution here as well! I created my own lightweight int4 models, which take up only… 8 GB! What’s more, it turned out that they are fully compatible with turbo LoRAs for Wan, which made it possible to use even regular camera models in just 4 steps. The question of WorldStereo quality is still open, but they do work. Unfortunately, I was not able to create fp8 or bf16 versions, as my hardware is not powerful enough to build the models. The project includes nodes that let you try making them yourself. If you succeed, I’ll be happy to see your contributions to the project! Unfortunately, I still haven’t managed to create a fully working world-generation solution. The extra frames from WorldStereo tend to make the final image worse rather than better. I’m afraid that achieving good quality requires generation at 1024×1024, but I can’t fit that into the VRAM limit even with the int4 models. Again, I’d be very happy to receive contributions to the project if you have better hardware than mine! submitted by /u/AHEKOT [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tt60zw/comfyui_hyworld2_update_quality_improvement_world/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1ttujrl/our_1st_paid_comfyui_builder_contest_is_open_4k/"
       }
     ],
     "usableFor": [
@@ -641,7 +635,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-01T00:03:44.853Z",
+    "publishedAt": "2026-06-01T16:30:13.822Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -670,15 +664,14 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-01T00:03:44.871Z",
+    "publishedAt": "2026-06-01T16:30:14.010Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "Careers Contact Us API Login Sign Up Careers Contact Us API Login Sign Up BLOG For creators , by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+      "Pika blog Careers Contact Us API Login Sign Up Careers Contact Us API Login Sign Up BLOG For creators, by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
       "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
-      "But most importantly, we’ve witnessed just how powerful it is when more people have the ability to tell stories through video.",
-      "That’s why we’re thrilled and humbled to announce that we’ve raised an $80M series B, bringing our total funding to $135M."
+      "Jun 5, 2024 Be the first to hear about Pika updates Get Our Newsletter Company Careers Contact Us Pricing Blog API Connect Discord Instagram X YouTube Facebook TikTok Terms of Service Pika © 2026 ."
     ],
     "claims": [
       {
@@ -699,14 +692,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-01T00:03:45.737Z",
+    "publishedAt": "2026-06-01T16:30:14.622Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Creator Series Product May 5, 2026 Introducing the Uni-1.1 API: Intelligence You Can Direct.",
+      "Subscribe to Press Updates All Company Product Engineering Creator Series Company Jun 1, 2026 Luma Announces The Open Physical AI Lab: An Open Science Effort to Solve Generalization in Physical AI Product May 5, 2026 Introducing the Uni-1.1 API: Intelligence You Can Direct.",
       "Company Apr 16, 2026 Wonder Project and Luma Launch Innovative Dreams: Production Services Company Combining Generative AI and Traditional Filmmaking, Backed and Supported by Amazon Web Services Company Apr 15, 2026 South African Agency Boundless Delivers Mazda’s First AI-Produced Commercial Using Luma Agents Company Apr 9, 2026 Luma Submits 21 AI-Generated Finalists to Cannes Lions After Inspiring 400 Ads in Less Than 8 Weeks Product Apr 1, 2026 Introducing Team Members and Admins on Your Luma Account Company Feb 19, 2026 Serviceplan Group Deploys Creative AI Across Global Operations in Partnership with Luma AI Company Feb 11, 2026 Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe Company Feb 2, 2026 Luma AI Offers $1 Million For Cannes Lions Gold Winner Product Jan 26, 2026 Ray3.14 is here: Native 1080p, 3x cheaper and 4x faster."
     ],
     "claims": [
@@ -781,24 +774,24 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_8db40eff24c2209b",
+    "sourceId": "src_reddit-aivideo_85bff1a8157124db",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tt37as/the_bone_mother_by_jboogxcreative_me/",
-    "title": "The Bone Mother by jboogxcreative (me)",
-    "publishedAt": "2026-05-31T18:26:59.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tttfeq/space_boobs_ii_the_hunt_for_the_algo/",
+    "title": "Space Boobs II: The Hunt for the Algo",
+    "publishedAt": "2026-06-01T14:10:58.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/JBOOGZEE [link] [comments]"
+      "submitted by /u/rad_city [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/JBOOGZEE [link] [comments]",
+        "text": "submitted by /u/rad_city [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tt37as/the_bone_mother_by_jboogxcreative_me/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tttfeq/space_boobs_ii_the_hunt_for_the_algo/"
       }
     ],
     "usableFor": [
@@ -808,24 +801,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_ff01bdb0c9a0c1f3",
+    "sourceId": "src_reddit-aivideo_95f4ba0dd43410ac",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tsvh5h/resident_titanic_4/",
-    "title": "Resident Titanic 4",
-    "publishedAt": "2026-05-31T13:31:48.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tthdi1/im_a_high_flyer/",
+    "title": "I'm a high flyer",
+    "publishedAt": "2026-06-01T04:24:51.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/GormtheOld25 [link] [comments]"
+      "submitted by /u/zhangnan123 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/GormtheOld25 [link] [comments]",
+        "text": "submitted by /u/zhangnan123 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tsvh5h/resident_titanic_4/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tthdi1/im_a_high_flyer/"
       }
     ],
     "usableFor": [
@@ -835,24 +828,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2bb92d8773e6ffee",
+    "sourceId": "src_reddit-aivideo_093a43fc222cb292",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tsx52i/family_crimes/",
-    "title": "Family Crimes",
-    "publishedAt": "2026-05-31T14:39:58.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1ttbsab/slayer_knight/",
+    "title": "Slayer Knight",
+    "publishedAt": "2026-06-01T00:05:39.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/dallascod [link] [comments]"
+      "submitted by /u/16x98 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/dallascod [link] [comments]",
+        "text": "submitted by /u/16x98 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tsx52i/family_crimes/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1ttbsab/slayer_knight/"
       }
     ],
     "usableFor": [
@@ -867,7 +860,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-01T00:03:45.287Z",
+    "publishedAt": "2026-06-01T16:30:14.370Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -896,7 +889,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-01T00:03:44.955Z",
+    "publishedAt": "2026-06-01T16:30:13.926Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -925,7 +918,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-01T00:03:44.970Z",
+    "publishedAt": "2026-06-01T16:30:14.335Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -952,7 +945,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-01T00:03:45.305Z",
+    "publishedAt": "2026-06-01T16:30:14.580Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -981,7 +974,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-06-01T00:03:45.153Z",
+    "publishedAt": "2026-06-01T16:30:14.088Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1066,26 +1059,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_bef8709cabf5a185",
+    "sourceId": "src_reddit-midjourney_12a72eb9a1142990",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tswegy/fantastic_rings/",
-    "title": "Fantastic Rings",
-    "publishedAt": "2026-05-31T14:09:58.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1ttldcx/untitled_59/",
+    "title": "Untitled 59",
+    "publishedAt": "2026-06-01T07:58:58.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "The first 14 are in v8.1, the last 6 are older generations from 6.1, which for some reason I feel almost look better.",
-      "The v8.1 tends to always lay the ring on its side, while 6.1 would give it a more natural 'ring' look.",
-      "submitted by /u/NeoShaolin47 [link] [comments]"
+      "submitted by /u/12washingbeard [link] [comments]"
     ],
     "claims": [
       {
-        "text": "A collection of concept rings. The first 14 are in v8.1, the last 6 are older generations from 6.1, which for some reason I feel almost look better. The v8.1 tends to always lay the ring on its side, while 6.1 would give it a more natural 'ring' look. Anyways, hope you enjoy them! submitted by /u/NeoShaolin47 [link] [comments]",
+        "text": "submitted by /u/12washingbeard [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tswegy/fantastic_rings/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1ttldcx/untitled_59/"
       }
     ],
     "usableFor": [
@@ -1095,12 +1086,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_09768d5393983e1b",
+    "sourceId": "src_reddit-midjourney_fdba94d3e891e5bb",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tsrezk/windtower/",
-    "title": "Windtower",
-    "publishedAt": "2026-05-31T10:17:56.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1ttp677/modern_times/",
+    "title": "Modern times",
+    "publishedAt": "2026-06-01T11:21:44.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1112,7 +1103,7 @@
       {
         "text": "submitted by /u/Zaicab [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tsrezk/windtower/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1ttp677/modern_times/"
       }
     ],
     "usableFor": [
@@ -1122,24 +1113,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_8bc81ff2a322d903",
+    "sourceId": "src_reddit-midjourney_297a68c1bc12e8c0",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tt9rhp/fantasy_landscape/",
-    "title": "Fantasy Landscape",
-    "publishedAt": "2026-05-31T22:38:35.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1ttps6m/the_escape/",
+    "title": "The Escape",
+    "publishedAt": "2026-06-01T11:49:40.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/NaturalCrits [link] [comments]"
+      "submitted by /u/Dropdeadlegs84 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/NaturalCrits [link] [comments]",
+        "text": "submitted by /u/Dropdeadlegs84 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tt9rhp/fantasy_landscape/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1ttps6m/the_escape/"
       }
     ],
     "usableFor": [
@@ -1154,7 +1145,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-01T00:03:46.500Z",
+    "publishedAt": "2026-06-01T16:30:16.052Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1320,7 +1311,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-01T00:03:45.193Z",
+    "publishedAt": "2026-06-01T16:30:14.199Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1328,10 +1319,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Introduction to Trimming ✂ lbourdois • 3 days ago • 25 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 11 days ago • 53 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 6 days ago • 14 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 3 days ago • 9 Relaunching PapersWithCode with new features nielsr • 7 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 342 MONET: Lowering the bar for World-Class Image Generation research.",
-      "jasperai • 4 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 862 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 178 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 26 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 5 days ago • 4 Server is at capacity ml-intern-explorers • 4 days ago • 4 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 125 We're open-sourcing \"The Amazing Hand\", a fully 3D printed robotic hand for less than $200 ✌️✌️✌️ pollen-robotics • Jul 8, 2025 • 53 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 10 Eight Days in China: What I Learned from the AI Labs, Robotics Startups and Academia matthew-d-white • 9 days ago • 3 Should we use genetics instead of system prompts for AI Agents & Personas?",
-      "nyxia • 6 days ago • 3 Agentic RL: Token-In, Token-Out Done Right huggingface • 2 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 319 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 337 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 45 May 29, 2026 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM 12 May 27, 2026 guide robotics audio Reachy Mini goes fully local 45 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +3 33 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 84 May 25, 2026 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models 27 May 23, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 3 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 20 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 50 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 33 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 32 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 56 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 vLLM V0 to V1: Correctness Before Corrections in RL 11 May 6, 2026 Previous 1 2 3 ...",
-      "57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Introduction to Trimming ✂ lbourdois • 4 days ago • 29 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 11 days ago • 53 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models nvidia • 10 days ago • 29 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 7 days ago • 14 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM ibm-research • 5 days ago • 13 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • about 11 hours ago • 12 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 4 days ago • 9 MONET: Lowering the bar for World-Class Image Generation research.",
+      "jasperai • 4 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 342 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 6 days ago • 5 Server is at capacity ml-intern-explorers • 5 days ago • 5 Agentic RL: Token-In, Token-Out Done Right huggingface • 3 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 178 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 26 Relaunching PapersWithCode with new features nielsr • 8 days ago • 9 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 862 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 125 We're open-sourcing \"The Amazing Hand\", a fully 3D printed robotic hand for less than $200 ✌️✌️✌️ pollen-robotics • Jul 8, 2025 • 53 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 10 Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation nvidia • 14 days ago • 21 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 7 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 50 June 1, 2026 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action 36 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 56 May 29, 2026 guide robotics audio Reachy Mini goes fully local 47 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 36 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 88 May 25, 2026 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook 3 May 22, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 21 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 50 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 34 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 32 May 14, 2026 transformers pytorch optimization Unlocking asynchronicity in continuous batching 56 May 14, 2026 Building Blocks for Foundation Model Training and Inference on AWS 23 May 11, 2026 Previous 1 2 3 ...",
+      "57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
+      "Introduction to Trimming ✂ lbourdois • 4 days ago • 29 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 11 days ago • 53 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models nvidia • 10 days ago • 29 Borealis — open data, code, weights recipe for training Audio LLM AlexWortega • 7 days ago • 14 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM ibm-research • 5 days ago • 13 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • about 11 hours ago • 12 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 4 days ago • 9 MONET: Lowering the bar for World-Class Image Generation research."
     ],
     "claims": [
       {
@@ -1345,6 +1336,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_aa06f6faab2938ca",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+    "title": "May 2026 newsletter",
+    "publishedAt": "2026-06-01T04:45:00.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "May 2026 newsletter Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent.",
+      "Try Foundry 1st June 2026 I just sent out the May edition of my sponsors-only monthly newsletter .",
+      "If you are a sponsor (or if you start a sponsorship now) you can access it here .",
+      "This month: Al got expensive, and Anthropic had a really good month The model releases were a little disappointing Conferences and podcasts I launched Datasette Agent and made a lot of progress on Datasette What I'm using, May 2026 edition Miscellaneous extras Here's a copy of the April newsletter as a preview of what you'll get."
+    ],
+    "claims": [
+      {
+        "text": "I just sent out the May edition of my sponsors-only monthly newsletter . If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Al got expensive, and Anthropic had a really good month The model releases were a little disappointing Conferences and podcasts I launched Datasette Agent and made a lot of progress on Datasette What I'm using, May 2026 edition Miscellaneous extras Here's a copy of the April newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_26255d3e6265ee75",
@@ -1467,42 +1488,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_9ab47fa541ac0bef",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
-    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
-    "publishedAt": "2026-05-30T21:02:16.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Research: Running Python ASGI apps in the browser via Pyodide + a service worker Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent.",
-      "Try Foundry 30th May 2026 Research Running Python ASGI apps in the browser via Pyodide + a service worker &mdash; By running Python ASGI web applications entirely in the browser using Pyodide and a dedicated service worker, this project intercepts all same-origin requests under `/app/` and executes them against the Python app via the ASGI protocol—removing the need for a backend server except for static files.",
-      "The mechanism is demonstrated with both a FastAPI demo and the full Datasette app, confirming its generality across ASGI apps.",
-      "Datasette Lite is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly."
-    ],
-    "claims": [
-      {
-        "text": "Research: Running Python ASGI apps in the browser via Pyodide + a service worker Datasette Lite is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly. When I first built it four years ago I used Web Workers and code that intercepts navigation operations and fetches the generated HTML by running the Python app. This worked, but had the disadvantage that any JavaScript in tags would not be executed - breaking some Datasette functionality and a whole lot of Datasette plugins. This morning I set Claude Opus 4.8 the task (in Claude Code for web) of figuring out how to run Python ASGI apps in Pyodide using Service Workers instead, and it seems to work! Here's a basic ASGI FastCGI demo and here's a demo that runs Datasette 1.0a31 . I'm still getting my head around exactly how it works, but once I've done that I plan to upgrade Datasette Lite itself. Tags: javascript , python , datasette , asgi , service-workers , pyodide , datasette-lite , claude-code",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-01T00:03:45.147Z",
+    "publishedAt": "2026-06-01T16:30:14.160Z",
     "categoryHints": [
       "ai-agentic"
     ],

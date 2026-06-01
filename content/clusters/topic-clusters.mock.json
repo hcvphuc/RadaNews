@@ -5,16 +5,18 @@
     "topic": "The solution might be cancelling my AI subscription",
     "sourceIds": [
       "src_simonwillison-blog_e44761e5d02efeea",
-      "src_simonwillison-blog_824d18c235a6a0f8",
       "src_langchain-blog_40ded3f923e3291d",
+      "src_simonwillison-blog_824d18c235a6a0f8",
       "src_luma-blog_c7449029956c34f9",
+      "src_simonwillison-blog_aa06f6faab2938ca",
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_26255d3e6265ee75",
-      "src_simonwillison-blog_cd2b7ecff2c4f192",
+      "src_reddit-stablediffusion_5e25c9d19427e08a",
+      "src_reddit-comfyui_900b9d208eef76de",
       "src_lilianweng-blog_31a2c7baf9b791a5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 10 source item(s), 10 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -25,12 +27,11 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_9ab47fa541ac0bef",
       "src_replit-blog_49899058ba32f8e5",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_reddit-stablediffusion_4e6a019ebd0f5c0d"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Replit Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -42,34 +43,27 @@
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-stablediffusion_a3ceb63c530f3ce5",
-      "src_reddit-stablediffusion_626b89a7cb35e5c4",
-      "src_reddit-stablediffusion_7e806ff4afaca0fe",
-      "src_reddit-comfyui_89b48edf7b142985",
-      "src_reddit-comfyui_eaffaa0e351b7405",
-      "src_reddit-comfyui_5d3a70cc1831389c"
+      "src_reddit-comfyui_09ccc8da5270072e",
+      "src_comfyui-blog_fa3eb47ac5fb52c8",
+      "src_reddit-stablediffusion_6ca3877bf4534b65"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_comfyui-blog-robin-substack_2026-06-01",
-    "category": "ai-image",
-    "topic": "ComfyUI Blog | Robin | Substack",
+    "clusterId": "cluster_ai-vibe-coding_2_i-got-ltx-ic-lora-hdr-to-process-any-number-of-clips-any-length-_2026-06-01",
+    "category": "ai-vibe-coding",
+    "topic": "I got LTX IC-LoRA HDR to process any number of clips, any length, single clic...",
     "sourceIds": [
-      "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-comfyui_15c96f9e5ff4e94c",
-      "src_reddit-stablediffusion_56ca2998a6f87e7a",
-      "src_reddit-midjourney_91c5cf49176c170c",
-      "src_reddit-midjourney_8df2718c2362b144",
-      "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-stablediffusion_b100b0e72816969f",
-      "src_stability-ai-blog_2026-06-01_fallback"
+      "src_reddit-comfyui_fdef6f0e1ddfe1d5",
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-comfyui_f0fcbff5cbf30b57",
+      "src_vercel-ai-blog_2026-06-01_fallback"
     ],
-    "articleWorthinessScore": 0.87,
-    "reasonSelected": "Score 0.87 from 8 source item(s), 7 live crawl(s), strongest sources: ComfyUI Blog, r/comfyui, r/StableDiffusion.",
+    "articleWorthinessScore": 0.92,
+    "reasonSelected": "Score 0.92 from 4 source item(s), 3 live crawl(s), strongest sources: r/comfyui, Cursor Changelog, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -79,54 +73,59 @@
     "topic": "Kling AI",
     "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
+      "src_reddit-aivideo_a7a9a72758720ba6",
       "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-aivideo_a7a9a72758720ba6"
+      "src_reddit-aivideo_85bff1a8157124db"
     ],
-    "articleWorthinessScore": 0.87,
-    "reasonSelected": "Score 0.87 from 3 source item(s), 3 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
+    "articleWorthinessScore": 0.89,
+    "reasonSelected": "Score 0.89 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, r/aivideo, Pika Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-06-01",
-    "category": "ai-vibe-coding",
-    "topic": "An Update on Nodes 2.0 from Comfy Org",
-    "sourceIds": [
-      "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_reddit-midjourney_bef8709cabf5a185",
-      "src_reddit-aivideo_ff01bdb0c9a0c1f3",
-      "src_vercel-ai-blog_2026-06-01_fallback"
-    ],
-    "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 4 source item(s), 3 live crawl(s), strongest sources: r/comfyui, r/midjourney, r/aivideo.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-agentic_2_just-finished-a-full-ai-system-for-an-hvac-company-in-tucson-2-v_2026-06-01",
+    "clusterId": "cluster_ai-agentic_2_quoting-karen-kwok-for-reuters-breakingviews_2026-06-01",
     "category": "ai-agentic",
-    "topic": "just finished a full AI system for an HVAC company in Tucson. 2 voice agents,...",
+    "topic": "Quoting Karen Kwok for Reuters Breakingviews",
     "sourceIds": [
-      "src_reddit-aiagents_97e0c56cd1a3d4a4",
-      "src_reddit-aiagents_5aee5d7923361083",
-      "src_reddit-aiagents_a0aec831a5db09a0",
-      "src_reddit-aiagents_079abcf0d1317db2",
+      "src_simonwillison-blog_cd2b7ecff2c4f192",
+      "src_reddit-aiagents_e4892d84ab6ae496",
+      "src_reddit-aiagents_be29de616df3fc3b",
+      "src_reddit-comfyui_46da5b5f73dedbef",
+      "src_reddit-aiagents_310774ffee7ade54",
+      "src_reddit-aiagents_ce5af76cde1748ff",
       "src_reddit-aiagents_7e0305e7a84c61f3",
       "src_openai-blog_2026-06-01_fallback",
       "src_mcp-blog_2026-06-01_fallback"
     ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.85,
+    "reasonSelected": "Score 0.85 from 9 source item(s), 7 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, r/comfyui.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_the-bone-mother-by-jboogxcreative-me_2026-06-01",
-    "category": "ai-video",
-    "topic": "The Bone Mother by jboogxcreative (me)",
+    "clusterId": "cluster_ai-image_2_anima-with-dark-style-anime-lora-is-pretty-good-tried-with-some-_2026-06-01",
+    "category": "ai-image",
+    "topic": "Anima with dark style anime lora is pretty good. Tried with some Sailor girls.",
     "sourceIds": [
-      "src_reddit-aivideo_8db40eff24c2209b",
-      "src_reddit-aivideo_2bb92d8773e6ffee",
+      "src_reddit-stablediffusion_493abe54ca6c5a15",
+      "src_reddit-midjourney_91c5cf49176c170c",
+      "src_reddit-midjourney_8df2718c2362b144",
+      "src_reddit-mediasynthesis_459f419f1f6e36c2",
+      "src_reddit-stablediffusion_db4a736c16b3fb87",
+      "src_stability-ai-blog_2026-06-01_fallback"
+    ],
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 6 source item(s), 5 live crawl(s), strongest sources: r/StableDiffusion, r/midjourney, r/MediaSynthesis.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_2_i-m-a-high-flyer_2026-06-01",
+    "category": "ai-video",
+    "topic": "I'm a high flyer",
+    "sourceIds": [
+      "src_reddit-aivideo_95f4ba0dd43410ac",
+      "src_reddit-aivideo_093a43fc222cb292",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.68,
@@ -135,23 +134,24 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_windtower_2026-06-01",
+    "clusterId": "cluster_prompt-image_1_untitled-59_2026-06-01",
     "category": "prompt-image",
-    "topic": "Windtower",
+    "topic": "Untitled 59",
     "sourceIds": [
-      "src_reddit-midjourney_09768d5393983e1b"
+      "src_reddit-midjourney_12a72eb9a1142990",
+      "src_reddit-midjourney_fdba94d3e891e5bb"
     ],
-    "articleWorthinessScore": 0.54,
-    "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
+    "articleWorthinessScore": 0.61,
+    "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_fantasy-landscape_2026-06-01",
+    "clusterId": "cluster_prompt-image_2_the-escape_2026-06-01",
     "category": "prompt-image",
-    "topic": "Fantasy Landscape",
+    "topic": "The Escape",
     "sourceIds": [
-      "src_reddit-midjourney_8bc81ff2a322d903"
+      "src_reddit-midjourney_297a68c1bc12e8c0"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
