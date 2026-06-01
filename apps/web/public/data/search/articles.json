@@ -320,171 +320,170 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_anthropic-s-run-rate-revenue-hits-47-billion_2026-05-30_vi",
+    "id": "cluster_ai-agentic_1_the-solution-might-be-cancelling-my-ai-subscription_2026-06-01_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Anthropic's run-rate revenue hits $47 billion: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "The solution might be cancelling my AI subscription: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "Anthropic",
-      "AI-Agents",
-      "LLMOps",
-      "Enterprise-AI",
-      "Revenue-Growth"
+      "ai-agent",
+      "productivity",
+      "developer-experience",
+      "mental-health",
+      "software-engineering"
     ],
-    "publishedAt": "2026-05-30T12:00:18.984Z",
+    "publishedAt": "2026-06-01T00:04:41.952Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/anthropic-s-run-rate-revenue-hits-47-billion-goc-nhin-cho-2026-05-30"
+    "url": "/vi/ai-agentic/the-solution-might-be-cancelling-my-ai-subscription-goc-nhi-2026-06-01"
   },
   {
-    "id": "cluster_ai-agentic_1_anthropic-s-run-rate-revenue-hits-47-billion_2026-05-30_en",
+    "id": "cluster_ai-agentic_1_the-solution-might-be-cancelling-my-ai-subscription_2026-06-01_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Anthropic's run-rate revenue hits $47 billion: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "title": "The solution might be cancelling my AI subscription: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "Anthropic",
-      "AI-Agents",
-      "LLMOps",
-      "Enterprise AI",
-      "Revenue Scaling"
+      "ai-agentic",
+      "productivity",
+      "vibe-coding",
+      "cognitive-load",
+      "developer-experience"
     ],
-    "publishedAt": "2026-05-30T12:00:38.029Z",
+    "publishedAt": "2026-06-01T00:05:03.287Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/anthropic-s-run-rate-revenue-hits-47-billion-creator-and-b-2026-05-30"
+    "url": "/en/ai-agentic/the-solution-might-be-cancelling-my-ai-subscription-creator-2026-06-01"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-30_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-01_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
-      "anthropic",
-      "claude-opus-4.8",
       "ai-agents",
-      "developer-experience"
+      "anthropic",
+      "software-engineering",
+      "cursor-ai"
     ],
-    "publishedAt": "2026-05-30T12:00:37.794Z",
-    "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-05-30"
+    "publishedAt": "2026-06-01T00:04:44.322Z",
+    "readingTime": 5,
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-01"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-30_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-01_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, Cursor Changelog, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
       "vibe-coding",
+      "ai-agents",
+      "software-engineering",
       "anthropic",
-      "llm-orchestration",
-      "software-engineering"
+      "cursor-ai"
     ],
-    "publishedAt": "2026-05-30T12:01:05.108Z",
+    "publishedAt": "2026-06-01T00:05:00.918Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-05-30"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-06-01"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-30_vi",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-01_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
       "Runway-AI",
-      "World-Models",
       "ComfyUI",
+      "FLUX",
       "Generative-AI",
-      "Pipeline-Production"
+      "Workflow-Optimization"
     ],
-    "publishedAt": "2026-05-30T12:01:02.957Z",
-    "readingTime": 5,
-    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-05-30"
+    "publishedAt": "2026-06-01T00:04:27.710Z",
+    "readingTime": 4,
+    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-01"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-30_en",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-01_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "World-Models",
+      "AI Video",
+      "World Models",
       "ComfyUI",
-      "Runway-AI",
-      "FLUX",
-      "Cinematic-AI"
+      "Latent Upscaling",
+      "Vibe-Coding"
     ],
-    "publishedAt": "2026-05-30T12:01:37.653Z",
+    "publishedAt": "2026-06-01T00:04:52.813Z",
     "readingTime": 4,
-    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-05-30"
+    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-01"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-30_vi",
+    "id": "cluster_ai-image_2_comfyui-blog-robin-substack_2026-06-01_vi",
     "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "ComfyUI Blog | Robin | Substack: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, ComfyUI Blog, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "cursor-ai",
-      "vibe-coding",
-      "ai-agents",
-      "software-engineering",
-      "productivity"
+      "ComfyUI",
+      "MidjourneyV8",
+      "AI-Workflow",
+      "GPU-Cost",
+      "Generative-Art"
     ],
-    "publishedAt": "2026-05-30T12:00:36.103Z",
+    "publishedAt": "2026-06-01T00:04:25.399Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-05-30"
+    "url": "/vi/ai-image/comfyui-blog-robin-substack-goc-nhin-cho-creator-va-bui-2026-06-01"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-30_en",
+    "id": "cluster_ai-image_2_comfyui-blog-robin-substack_2026-06-01_en",
     "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "ComfyUI Blog | Robin | Substack: creator and builder analysis",
+    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, ComfyUI Blog, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "cursor",
-      "ai-agents",
-      "vibe-coding",
-      "software-engineering",
-      "productivity"
+      "ComfyUI",
+      "MidjourneyV8",
+      "GPU-Economics",
+      "AI-Workflows",
+      "Generative-Art"
     ],
-    "publishedAt": "2026-05-30T12:00:57.944Z",
+    "publishedAt": "2026-06-01T00:05:41.504Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-05-30"
+    "url": "/en/ai-image/comfyui-blog-robin-substack-creator-and-builder-analysi-2026-06-01"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-30_vi",
+    "id": "cluster_ai-video_1_kling-ai_2026-06-01_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "Kling AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Video",
-      "Kling-AI",
-      "Pika-Labs",
-      "Native-4K",
-      "Generative-AI"
+      "Kling AI",
+      "AI Video",
+      "Native 4K",
+      "Content Creation",
+      "Generative AI"
     ],
-    "publishedAt": "2026-05-30T12:00:13.615Z",
-    "readingTime": 4,
-    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-05-30"
+    "publishedAt": "2026-06-01T00:04:37.013Z",
+    "readingTime": 5,
+    "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-06-01"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-05-30_en",
+    "id": "cluster_ai-video_1_kling-ai_2026-06-01_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
@@ -492,50 +491,49 @@
     "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
       "Kling AI",
-      "AI Video",
       "Native 4K",
-      "Generative Cinema",
+      "AI Cinematography",
+      "Generative Video",
       "AI Production"
     ],
-    "publishedAt": "2026-05-30T12:00:31.376Z",
+    "publishedAt": "2026-06-01T00:04:52.945Z",
     "readingTime": 4,
-    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-05-30"
+    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-06-01"
   },
   {
-    "id": "cluster_ai-image_2_anima-ip-adapter-is-comming_2026-05-30_vi",
+    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-06-01_vi",
     "lang": "vi",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "Anima Ip Adapter is comming.: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "An Update on Nodes 2.0 from Comfy Org: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, r/aivideo, Vercel AI Blog, r/midjourney, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Image",
-      "Stable-Diffusion",
-      "IP-Adapter",
       "ComfyUI",
-      "Character-Consistency"
+      "Nodes2.0",
+      "AI-Workflow",
+      "Frontend-Development",
+      "GenerativeAI"
     ],
-    "publishedAt": "2026-05-30T12:00:43.433Z",
+    "publishedAt": "2026-06-01T00:04:04.264Z",
     "readingTime": 4,
-    "url": "/vi/ai-image/anima-ip-adapter-is-comming-goc-nhin-cho-creator-va-builde-2026-05-30"
+    "url": "/vi/ai-vibe-coding/an-update-on-nodes-2-0-from-comfy-org-goc-nhin-cho-creator-2026-06-01"
   },
   {
-    "id": "cluster_ai-image_2_anima-ip-adapter-is-comming_2026-05-30_en",
+    "id": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-06-01_en",
     "lang": "en",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "Anima Ip Adapter is comming.: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "An Update on Nodes 2.0 from Comfy Org: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/comfyui, r/aivideo, Vercel AI Blog, r/midjourney, scored by recency, content depth, and source reliability.",
     "tags": [
-      "Anima",
-      "IP-Adapter",
       "ComfyUI",
-      "StableDiffusion",
-      "CharacterConsistency",
-      "AI-Image-Generation"
+      "FrontendEngineering",
+      "GenerativeAI",
+      "UXDesign",
+      "NodeBasedWorkflows"
     ],
-    "publishedAt": "2026-05-30T12:01:37.870Z",
+    "publishedAt": "2026-06-01T00:04:42.255Z",
     "readingTime": 4,
-    "url": "/en/ai-image/anima-ip-adapter-is-comming-creator-and-builder-analysis-2026-05-30"
+    "url": "/en/ai-vibe-coding/an-update-on-nodes-2-0-from-comfy-org-creator-and-builder-a-2026-06-01"
   }
 ]

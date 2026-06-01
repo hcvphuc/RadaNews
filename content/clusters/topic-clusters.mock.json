@@ -1,17 +1,17 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_anthropic-s-run-rate-revenue-hits-47-billion_2026-05-30",
+    "clusterId": "cluster_ai-agentic_1_the-solution-might-be-cancelling-my-ai-subscription_2026-06-01",
     "category": "ai-agentic",
-    "topic": "Anthropic's run-rate revenue hits $47 billion",
+    "topic": "The solution might be cancelling my AI subscription",
     "sourceIds": [
-      "src_simonwillison-blog_dbbf553cb4cb7b7d",
+      "src_simonwillison-blog_e44761e5d02efeea",
+      "src_simonwillison-blog_824d18c235a6a0f8",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_611e728a5caee857",
       "src_luma-blog_c7449029956c34f9",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_691738d0ced1967f",
-      "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_reddit-aiagents_8b426c4c4d89ac2a"
+      "src_simonwillison-blog_26255d3e6265ee75",
+      "src_simonwillison-blog_cd2b7ecff2c4f192",
+      "src_lilianweng-blog_31a2c7baf9b791a5"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
@@ -19,15 +19,15 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-05-30",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-01",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_0ca91bc420d9a913",
+      "src_simonwillison-blog_9ab47fa541ac0bef",
       "src_replit-blog_49899058ba32f8e5",
-      "src_simonwillison-blog_95940ceb8f74d076"
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
@@ -35,97 +35,98 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-05-30",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-01",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-stablediffusion_b98db0a507cae015",
-      "src_reddit-comfyui_5604148117d6075f",
-      "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-comfyui_0c54ed829094fbc5",
-      "src_reddit-stablediffusion_dafd282be91224f8"
+      "src_reddit-stablediffusion_a3ceb63c530f3ce5",
+      "src_reddit-stablediffusion_626b89a7cb35e5c4",
+      "src_reddit-stablediffusion_7e806ff4afaca0fe",
+      "src_reddit-comfyui_89b48edf7b142985",
+      "src_reddit-comfyui_eaffaa0e351b7405",
+      "src_reddit-comfyui_5d3a70cc1831389c"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-05-30",
-    "category": "ai-vibe-coding",
-    "topic": "What's New in Cursor — Latest Updates & Release Notes",
+    "clusterId": "cluster_ai-image_2_comfyui-blog-robin-substack_2026-06-01",
+    "category": "ai-image",
+    "topic": "ComfyUI Blog | Robin | Substack",
     "sourceIds": [
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_e2cc7459153b1d5e",
-      "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_vercel-ai-blog_2026-05-30_fallback"
+      "src_comfyui-blog_fa3eb47ac5fb52c8",
+      "src_reddit-comfyui_15c96f9e5ff4e94c",
+      "src_reddit-stablediffusion_56ca2998a6f87e7a",
+      "src_reddit-midjourney_91c5cf49176c170c",
+      "src_reddit-midjourney_8df2718c2362b144",
+      "src_reddit-mediasynthesis_459f419f1f6e36c2",
+      "src_reddit-stablediffusion_b100b0e72816969f",
+      "src_stability-ai-blog_2026-06-01_fallback"
     ],
-    "articleWorthinessScore": 0.91,
-    "reasonSelected": "Score 0.91 from 4 source item(s), 3 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, r/comfyui.",
+    "articleWorthinessScore": 0.87,
+    "reasonSelected": "Score 0.87 from 8 source item(s), 7 live crawl(s), strongest sources: ComfyUI Blog, r/comfyui, r/StableDiffusion.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_kling-ai_2026-05-30",
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-01",
     "category": "ai-video",
     "topic": "Kling AI",
     "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
       "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-aivideo_a7a9a72758720ba6",
-      "src_reddit-aivideo_8afd5acd5d77a6bd"
+      "src_reddit-aivideo_a7a9a72758720ba6"
     ],
-    "articleWorthinessScore": 0.89,
-    "reasonSelected": "Score 0.89 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
+    "articleWorthinessScore": 0.87,
+    "reasonSelected": "Score 0.87 from 3 source item(s), 3 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_anima-ip-adapter-is-comming_2026-05-30",
-    "category": "ai-image",
-    "topic": "Anima Ip Adapter is comming.",
+    "clusterId": "cluster_ai-vibe-coding_2_an-update-on-nodes-2-0-from-comfy-org_2026-06-01",
+    "category": "ai-vibe-coding",
+    "topic": "An Update on Nodes 2.0 from Comfy Org",
     "sourceIds": [
-      "src_reddit-stablediffusion_09aef44dd0c244ab",
-      "src_reddit-comfyui_ddc6fdfab9382ae9",
-      "src_reddit-midjourney_91c5cf49176c170c",
-      "src_reddit-midjourney_8df2718c2362b144",
-      "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-stablediffusion_6646cc44ebeda2f5",
-      "src_stability-ai-blog_2026-05-30_fallback"
-    ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 7 source item(s), 6 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-agentic_2_trying-to-create-sketch-animations-from-sd-1-5-frame-sequences_2026-05-30",
-    "category": "ai-agentic",
-    "topic": "Trying to create sketch animations from SD 1.5 frame sequences",
-    "sourceIds": [
-      "src_reddit-comfyui_51d0fedeae345a27",
-      "src_reddit-stablediffusion_2982d3ef3b574edc",
-      "src_reddit-aiagents_7ad5d435e7e092b1",
-      "src_reddit-aiagents_7e0305e7a84c61f3",
-      "src_reddit-aiagents_079abcf0d1317db2",
-      "src_openai-blog_2026-05-30_fallback",
-      "src_mcp-blog_2026-05-30_fallback"
+      "src_reddit-comfyui_f0fcbff5cbf30b57",
+      "src_reddit-midjourney_bef8709cabf5a185",
+      "src_reddit-aivideo_ff01bdb0c9a0c1f3",
+      "src_vercel-ai-blog_2026-06-01_fallback"
     ],
     "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 7 source item(s), 5 live crawl(s), strongest sources: r/comfyui, r/StableDiffusion, r/AI_Agents.",
+    "reasonSelected": "Score 0.81 from 4 source item(s), 3 live crawl(s), strongest sources: r/comfyui, r/midjourney, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_the-bottle-never-broke_2026-05-30",
-    "category": "ai-video",
-    "topic": "The Bottle Never Broke",
+    "clusterId": "cluster_ai-agentic_2_just-finished-a-full-ai-system-for-an-hvac-company-in-tucson-2-v_2026-06-01",
+    "category": "ai-agentic",
+    "topic": "just finished a full AI system for an HVAC company in Tucson. 2 voice agents,...",
     "sourceIds": [
-      "src_reddit-aivideo_0677a92675515fae",
-      "src_reddit-aivideo_d7e4648c768e9094",
+      "src_reddit-aiagents_97e0c56cd1a3d4a4",
+      "src_reddit-aiagents_5aee5d7923361083",
+      "src_reddit-aiagents_a0aec831a5db09a0",
+      "src_reddit-aiagents_079abcf0d1317db2",
+      "src_reddit-aiagents_7e0305e7a84c61f3",
+      "src_openai-blog_2026-06-01_fallback",
+      "src_mcp-blog_2026-06-01_fallback"
+    ],
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_2_the-bone-mother-by-jboogxcreative-me_2026-06-01",
+    "category": "ai-video",
+    "topic": "The Bone Mother by jboogxcreative (me)",
+    "sourceIds": [
+      "src_reddit-aivideo_8db40eff24c2209b",
+      "src_reddit-aivideo_2bb92d8773e6ffee",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.68,
@@ -134,24 +135,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_the-blue-dragon-of-kilmarnock_2026-05-30",
+    "clusterId": "cluster_prompt-image_1_windtower_2026-06-01",
     "category": "prompt-image",
-    "topic": "The Blue Dragon of Kilmarnock.",
+    "topic": "Windtower",
     "sourceIds": [
-      "src_reddit-midjourney_adebe8caafc8adc5",
-      "src_reddit-midjourney_31abea62d41872a4"
-    ],
-    "articleWorthinessScore": 0.61,
-    "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
-    "confidence": "medium",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_prompt-image_2_sci-fi-scenery_2026-05-30",
-    "category": "prompt-image",
-    "topic": "Sci-Fi Scenery",
-    "sourceIds": [
-      "src_reddit-midjourney_767ebf0671acefca"
+      "src_reddit-midjourney_09768d5393983e1b"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
@@ -159,7 +147,19 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-05-30",
+    "clusterId": "cluster_prompt-image_2_fantasy-landscape_2026-06-01",
+    "category": "prompt-image",
+    "topic": "Fantasy Landscape",
+    "sourceIds": [
+      "src_reddit-midjourney_8bc81ff2a322d903"
+    ],
+    "articleWorthinessScore": 0.54,
+    "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
+    "confidence": "medium",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-06-01",
     "category": "prompt-video",
     "topic": "AI won the 2025 Commonwealth Short Story Prize competition",
     "sourceIds": [
@@ -172,7 +172,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_2_extensive-list-of-generative-tools-curated-by-eyal-gruss_2026-05-30",
+    "clusterId": "cluster_prompt-video_2_extensive-list-of-generative-tools-curated-by-eyal-gruss_2026-06-01",
     "category": "prompt-video",
     "topic": "Extensive list of generative tools curated by Eyal Gruss",
     "sourceIds": [
