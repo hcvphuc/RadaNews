@@ -320,43 +320,43 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_langchain-blog_2026-06-02_vi",
+    "id": "cluster_ai-agentic_1_microsoft-s-new-mai-models_2026-06-03_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "LangChain Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Microsoft's new MAI models: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Luma Labs Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "microsoft-mai",
+      "small-llms",
       "ai-agents",
-      "langchain",
-      "observability",
-      "productivity",
-      "physical-ai"
+      "data-ethics",
+      "github-copilot"
     ],
-    "publishedAt": "2026-06-02T14:41:26.734Z",
+    "publishedAt": "2026-06-03T00:26:28.105Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-06-02"
+    "url": "/vi/ai-agentic/microsoft-s-new-mai-models-goc-nhin-cho-creator-va-builder-2026-06-03"
   },
   {
-    "id": "cluster_ai-agentic_1_langchain-blog_2026-06-02_en",
+    "id": "cluster_ai-agentic_1_microsoft-s-new-mai-models_2026-06-03_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "LangChain Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, r/comfyui, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "title": "Microsoft's new MAI models: creator and builder analysis",
+    "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Luma Labs Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
+      "microsoft-mai",
       "ai-agents",
-      "observability",
-      "langchain",
-      "software-engineering",
-      "productivity"
+      "small-language-models",
+      "ai-infrastructure",
+      "vibe-coding"
     ],
-    "publishedAt": "2026-06-02T14:42:21.828Z",
+    "publishedAt": "2026-06-03T00:26:46.184Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-06-02"
+    "url": "/en/ai-agentic/microsoft-s-new-mai-models-creator-and-builder-analysis-2026-06-03"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-02_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-03_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
@@ -367,14 +367,14 @@
       "ai-agents",
       "anthropic",
       "replit",
-      "software-development"
+      "software-engineering"
     ],
-    "publishedAt": "2026-06-02T14:41:28.335Z",
-    "readingTime": 5,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-02"
+    "publishedAt": "2026-06-03T00:26:38.462Z",
+    "readingTime": 4,
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-03"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-02_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-03_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
@@ -387,156 +387,154 @@
       "anthropic",
       "replit"
     ],
-    "publishedAt": "2026-06-02T14:41:59.747Z",
+    "publishedAt": "2026-06-03T00:27:34.389Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-06-02"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-06-03"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-02_vi",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-03_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "World-Models",
-      "Omnimodal",
-      "3D-Gaussian-Splatting",
       "Runway-AI",
-      "Blender-AI"
+      "ComfyUI",
+      "Generative-AI",
+      "World-Models",
+      "PixelDiT"
     ],
-    "publishedAt": "2026-06-02T14:42:13.090Z",
-    "readingTime": 5,
-    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-02"
+    "publishedAt": "2026-06-03T00:26:21.912Z",
+    "readingTime": 4,
+    "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-03"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-02_en",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-03_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Video",
-      "Runway AI",
       "World Models",
+      "Diffusion Transformers",
+      "Runway AI",
+      "FLUX",
       "ComfyUI",
-      "Omnimodal Production",
-      "3D Gaussian Splatting"
+      "PixelDiT"
     ],
-    "publishedAt": "2026-06-02T14:42:51.237Z",
+    "publishedAt": "2026-06-03T00:26:42.367Z",
     "readingTime": 4,
-    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-02"
+    "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-03"
   },
   {
-    "id": "cluster_ai-video_1_hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile_2026-06-02_vi",
+    "id": "cluster_ai-video_1_anima-testing-for-complex-scene_2026-06-03_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
-    "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Ac...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Anima testing for complex scene: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Security",
+      "ai-video",
+      "prompt-engineering",
+      "digital-art",
+      "kling-ai",
+      "creative-workflow"
+    ],
+    "publishedAt": "2026-06-03T00:26:17.675Z",
+    "readingTime": 3,
+    "url": "/vi/ai-video/anima-testing-for-complex-scene-goc-nhin-cho-creator-va-bui-2026-06-03"
+  },
+  {
+    "id": "cluster_ai-video_1_anima-testing-for-complex-scene_2026-06-03_en",
+    "lang": "en",
+    "category": "ai-video",
+    "categoryLabel": "AI Video",
+    "title": "Anima testing for complex scene: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "tags": [
       "AI-Video",
       "Prompt-Engineering",
-      "Meta-AI",
-      "LTX-2.3",
-      "AI-Agents"
+      "Kling-AI",
+      "Cinematography",
+      "Generative-AI"
     ],
-    "publishedAt": "2026-06-02T14:42:10.328Z",
+    "publishedAt": "2026-06-03T00:26:39.625Z",
     "readingTime": 4,
-    "url": "/vi/ai-video/hackers-simply-asked-meta-ai-to-give-them-access-to-high-pro-2026-06-02"
+    "url": "/en/ai-video/anima-testing-for-complex-scene-creator-and-builder-analysi-2026-06-03"
   },
   {
-    "id": "cluster_ai-video_1_hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile_2026-06-02_en",
-    "lang": "en",
-    "category": "ai-video",
-    "categoryLabel": "AI Video",
-    "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Ac...: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "AI Security",
-      "Prompt Injection",
-      "Meta AI",
-      "AI Agents",
-      "Cybersecurity"
-    ],
-    "publishedAt": "2026-06-02T14:42:29.185Z",
-    "readingTime": 3,
-    "url": "/en/ai-video/hackers-simply-asked-meta-ai-to-give-them-access-to-high-pro-2026-06-02"
-  },
-  {
-    "id": "cluster_ai-image_2_civitai-adult-content-models-for-comfyui_2026-06-02_vi",
+    "id": "cluster_ai-image_2_i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-and-r_2026-06-03_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "CivitAI Adult Content Models for ComfyUI: góc nhìn cho creator và builder",
+    "title": "I compared 62 samplers and 16 schedulers for Z-Image Turbo and rated the imag...: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ComfyUI",
-      "CivitAI",
-      "StableDiffusion",
       "AI-Image",
-      "NSFW-AI",
-      "CustomNodes"
+      "StableDiffusion",
+      "MidjourneyV8",
+      "ComfyUI",
+      "Optimization"
     ],
-    "publishedAt": "2026-06-02T14:42:31.282Z",
-    "readingTime": 4,
-    "url": "/vi/ai-image/civitai-adult-content-models-for-comfyui-goc-nhin-cho-creat-2026-06-02"
+    "publishedAt": "2026-06-03T00:26:21.184Z",
+    "readingTime": 5,
+    "url": "/vi/ai-image/i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-a-2026-06-03"
   },
   {
-    "id": "cluster_ai-image_2_civitai-adult-content-models-for-comfyui_2026-06-02_en",
+    "id": "cluster_ai-image_2_i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-and-r_2026-06-03_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "CivitAI Adult Content Models for ComfyUI: creator and builder analysis",
+    "title": "I compared 62 samplers and 16 schedulers for Z-Image Turbo and rated the imag...: creator and builder analysis",
     "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
+      "Z-Image Turbo",
       "ComfyUI",
-      "CivitAI",
-      "StableDiffusion",
-      "MidjourneyV8",
-      "Quantization",
-      "AI-Image-Generation"
+      "Midjourney V8.1",
+      "Model Optimization",
+      "Vibe Coding"
     ],
-    "publishedAt": "2026-06-02T14:43:17.402Z",
-    "readingTime": 3,
-    "url": "/en/ai-image/civitai-adult-content-models-for-comfyui-creator-and-builde-2026-06-02"
+    "publishedAt": "2026-06-03T00:26:40.533Z",
+    "readingTime": 4,
+    "url": "/en/ai-image/i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-a-2026-06-03"
   },
   {
-    "id": "cluster_ai-agentic_2_used-paperclip-for-a-bit-couldn-t-get-used-to-the-ticket-system-_2026-06-02_vi",
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-06-03_vi",
     "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "Used Paperclip for a bit, couldn't get used to the ticket system, trying some...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, r/comfyui, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agents",
-      "Autonomous-Workflows",
-      "Agent-Coordination",
-      "Productivity-AI"
+      "cursor-ai",
+      "vibe-coding",
+      "ai-agents",
+      "developer-experience",
+      "productivity"
     ],
-    "publishedAt": "2026-06-02T14:41:29.001Z",
+    "publishedAt": "2026-06-03T00:26:12.353Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/used-paperclip-for-a-bit-couldn-t-get-used-to-the-ticket-sy-2026-06-02"
+    "url": "/vi/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-06-03"
   },
   {
-    "id": "cluster_ai-agentic_2_used-paperclip-for-a-bit-couldn-t-get-used-to-the-ticket-system-_2026-06-02_en",
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-06-03_en",
     "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "Used Paperclip for a bit, couldn't get used to the ticket system, trying some...: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, r/comfyui, scored by recency, content depth, and source reliability.",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
-      "agentic-workflows",
-      "ux-design",
-      "multi-agent-systems",
-      "automation"
+      "AI-Vibe-Coding",
+      "CursorIDE",
+      "AgenticAI",
+      "DeveloperExperience",
+      "ComfyUI"
     ],
-    "publishedAt": "2026-06-02T14:42:27.045Z",
+    "publishedAt": "2026-06-03T00:26:46.544Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/used-paperclip-for-a-bit-couldn-t-get-used-to-the-ticket-sy-2026-06-02"
+    "url": "/en/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-06-03"
   }
 ]

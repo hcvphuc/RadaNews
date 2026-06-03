@@ -1,25 +1,25 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-02",
+    "clusterId": "cluster_ai-agentic_1_microsoft-s-new-mai-models_2026-06-03",
     "category": "ai-agentic",
-    "topic": "LangChain Blog",
+    "topic": "Microsoft's new MAI models",
     "sourceIds": [
+      "src_simonwillison-blog_ba09b866960a80a4",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_e44761e5d02efeea",
       "src_luma-blog_c7449029956c34f9",
-      "src_simonwillison-blog_aa06f6faab2938ca",
-      "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_simonwillison-blog_824445246153c18b",
+      "src_simonwillison-blog_b0f9095679d21c3b",
+      "src_simonwillison-blog_3843807b4771ed07",
       "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_simonwillison-blog_26255d3e6265ee75",
-      "src_reddit-comfyui_92909f9efd864714"
+      "src_reddit-aiagents_ff583e4ac770bdff"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-02",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-03",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
@@ -34,84 +34,66 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-02",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-03",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-stablediffusion_af66f1ad43b2624c",
-      "src_reddit-comfyui_f6d2862a1cd544bb",
+      "src_reddit-comfyui_9c51ce08cb855ad1",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-aiagents_62f92e1b3d9041b7"
+      "src_reddit-stablediffusion_304ed1a1685e479a",
+      "src_reddit-comfyui_10f5f90a2dcd8efd",
+      "src_reddit-stablediffusion_39e051c95160db96"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile_2026-06-02",
+    "clusterId": "cluster_ai-video_1_anima-testing-for-complex-scene_2026-06-03",
     "category": "ai-video",
-    "topic": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Ac...",
+    "topic": "Anima testing for complex scene",
     "sourceIds": [
-      "src_simonwillison-blog_11aeff84088578c1",
-      "src_reddit-stablediffusion_3357ed285a1c7476",
+      "src_reddit-stablediffusion_c7425040d8e0806c",
       "src_kling-blog_93b43a5f7aed1c98",
       "src_reddit-aivideo_a7a9a72758720ba6",
       "src_pika-blog_80e55ecea6acd04d"
     ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, r/StableDiffusion, Kling AI Blog.",
+    "articleWorthinessScore": 0.95,
+    "reasonSelected": "Score 0.95 from 4 source item(s), 4 live crawl(s), strongest sources: r/StableDiffusion, Kling AI Blog, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_civitai-adult-content-models-for-comfyui_2026-06-02",
+    "clusterId": "cluster_ai-image_2_i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-and-r_2026-06-03",
     "category": "ai-image",
-    "topic": "CivitAI Adult Content Models for ComfyUI",
+    "topic": "I compared 62 samplers and 16 schedulers for Z-Image Turbo and rated the imag...",
     "sourceIds": [
-      "src_reddit-stablediffusion_6f71bde10722fe74",
+      "src_reddit-stablediffusion_e2034c535a0f89df",
+      "src_reddit-stablediffusion_79706e632310f3df",
       "src_reddit-comfyui_943bc76bc907a6cb",
-      "src_reddit-stablediffusion_45757717e47ae9a9",
       "src_reddit-midjourney_91c5cf49176c170c",
       "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_stability-ai-blog_2026-06-02_fallback"
+      "src_reddit-comfyui_8120d3a4f395a1dc",
+      "src_stability-ai-blog_2026-06-03_fallback"
     ],
-    "articleWorthinessScore": 0.86,
-    "reasonSelected": "Score 0.86 from 7 source item(s), 6 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
+    "articleWorthinessScore": 0.85,
+    "reasonSelected": "Score 0.85 from 8 source item(s), 7 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_used-paperclip-for-a-bit-couldn-t-get-used-to-the-ticket-system-_2026-06-02",
-    "category": "ai-agentic",
-    "topic": "Used Paperclip for a bit, couldn't get used to the ticket system, trying some...",
-    "sourceIds": [
-      "src_reddit-aiagents_a2ddd20f24a27d7e",
-      "src_reddit-stablediffusion_787f5338a1f9bd29",
-      "src_reddit-aiagents_ee7f64df828bab53",
-      "src_reddit-comfyui_46da5b5f73dedbef",
-      "src_reddit-aiagents_ce5af76cde1748ff",
-      "src_reddit-aiagents_7e0305e7a84c61f3",
-      "src_openai-blog_2026-06-02_fallback",
-      "src_mcp-blog_2026-06-02_fallback"
-    ],
-    "articleWorthinessScore": 0.82,
-    "reasonSelected": "Score 0.82 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, r/StableDiffusion, r/comfyui.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-06-02",
+    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-06-03",
     "category": "ai-vibe-coding",
     "topic": "What's New in Cursor — Latest Updates & Release Notes",
     "sourceIds": [
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_vercel-ai-blog_2026-06-02_fallback"
+      "src_vercel-ai-blog_2026-06-03_fallback"
     ],
     "articleWorthinessScore": 0.8,
     "reasonSelected": "Score 0.80 from 3 source item(s), 2 live crawl(s), strongest sources: Cursor Changelog, r/comfyui, Vercel AI Blog.",
@@ -119,13 +101,31 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_olympic-training_2026-06-02",
-    "category": "ai-video",
-    "topic": "Olympic Training",
+    "clusterId": "cluster_ai-agentic_2_building-a-self-healing-agent-with-mcp-and-observability_2026-06-03",
+    "category": "ai-agentic",
+    "topic": "Building a Self-Healing Agent with MCP and Observability",
     "sourceIds": [
-      "src_reddit-aivideo_7a7f69cefaeae3e5",
-      "src_reddit-aivideo_1b2294540afcfd6b",
-      "src_reddit-aivideo_466c25d550f7a47b",
+      "src_reddit-aiagents_4df3863229defee8",
+      "src_reddit-aiagents_2814d4ec9ded195b",
+      "src_reddit-aiagents_ce5af76cde1748ff",
+      "src_reddit-aiagents_7e0305e7a84c61f3",
+      "src_openai-blog_2026-06-03_fallback",
+      "src_mcp-blog_2026-06-03_fallback",
+      "src_huggingface-blog_2026-06-03_fallback"
+    ],
+    "articleWorthinessScore": 0.79,
+    "reasonSelected": "Score 0.79 from 7 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_2_daddy-drinks_2026-06-03",
+    "category": "ai-video",
+    "topic": "Daddy Drinks",
+    "sourceIds": [
+      "src_reddit-aivideo_bb04124baa6dead5",
+      "src_reddit-aivideo_265cf1de6dc14af4",
+      "src_reddit-aivideo_23c32a41b4ae97cc",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.75,
@@ -134,12 +134,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_the-warriors-139_2026-06-02",
+    "clusterId": "cluster_prompt-image_1_the-warriors-139_2026-06-03",
     "category": "prompt-image",
     "topic": "The Warriors #139",
     "sourceIds": [
       "src_reddit-midjourney_5f4e4435b112efe0",
-      "src_reddit-midjourney_df19bc45ef57468b"
+      "src_reddit-midjourney_be5bbf6f8192b893"
     ],
     "articleWorthinessScore": 0.61,
     "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
@@ -147,11 +147,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_soviet-era-underground-punk-magazine_2026-06-02",
+    "clusterId": "cluster_prompt-image_2_exotic-cake_2026-06-03",
     "category": "prompt-image",
-    "topic": "Soviet era underground punk magazine",
+    "topic": "Exotic Cake",
     "sourceIds": [
-      "src_reddit-midjourney_9a704e6825da7e66"
+      "src_reddit-midjourney_0cc0f3633e85dcf0"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
@@ -159,20 +159,20 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-06-02",
+    "clusterId": "cluster_prompt-video_1_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-06-03",
     "category": "prompt-video",
     "topic": "AI won the 2025 Commonwealth Short Story Prize competition",
     "sourceIds": [
       "src_reddit-mediasynthesis_196d9065129257ad",
       "src_reddit-mediasynthesis_98111c99496f6ea1"
     ],
-    "articleWorthinessScore": 0.49,
-    "reasonSelected": "Score 0.49 from 2 source item(s), 2 live crawl(s), strongest sources: r/MediaSynthesis.",
+    "articleWorthinessScore": 0.47,
+    "reasonSelected": "Score 0.47 from 2 source item(s), 2 live crawl(s), strongest sources: r/MediaSynthesis.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_2_extensive-list-of-generative-tools-curated-by-eyal-gruss_2026-06-02",
+    "clusterId": "cluster_prompt-video_2_extensive-list-of-generative-tools-curated-by-eyal-gruss_2026-06-03",
     "category": "prompt-video",
     "topic": "Extensive list of generative tools curated by Eyal Gruss",
     "sourceIds": [
