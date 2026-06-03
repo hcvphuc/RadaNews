@@ -7,11 +7,11 @@
       "src_simonwillison-blog_ba09b866960a80a4",
       "src_langchain-blog_40ded3f923e3291d",
       "src_luma-blog_c7449029956c34f9",
+      "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_824445246153c18b",
       "src_simonwillison-blog_b0f9095679d21c3b",
       "src_simonwillison-blog_3843807b4771ed07",
-      "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_reddit-aiagents_ff583e4ac770bdff"
+      "src_lilianweng-blog_31a2c7baf9b791a5"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
@@ -24,12 +24,12 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
+      "src_simonwillison-blog_4382a3e2d4a126cc",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_a97ae22843923642",
       "src_replit-blog_49899058ba32f8e5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -41,14 +41,13 @@
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-comfyui_9c51ce08cb855ad1",
+      "src_reddit-comfyui_210f625c9672c439",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-stablediffusion_304ed1a1685e479a",
-      "src_reddit-comfyui_10f5f90a2dcd8efd",
-      "src_reddit-stablediffusion_39e051c95160db96"
+      "src_reddit-comfyui_97996d9a08d687d7",
+      "src_reddit-stablediffusion_e2034c535a0f89df"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -59,30 +58,12 @@
     "sourceIds": [
       "src_reddit-stablediffusion_c7425040d8e0806c",
       "src_kling-blog_93b43a5f7aed1c98",
+      "src_reddit-stablediffusion_57ad3fdd9a74c5de",
       "src_reddit-aivideo_a7a9a72758720ba6",
       "src_pika-blog_80e55ecea6acd04d"
     ],
-    "articleWorthinessScore": 0.95,
-    "reasonSelected": "Score 0.95 from 4 source item(s), 4 live crawl(s), strongest sources: r/StableDiffusion, Kling AI Blog, r/aivideo.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_2_i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-and-r_2026-06-03",
-    "category": "ai-image",
-    "topic": "I compared 62 samplers and 16 schedulers for Z-Image Turbo and rated the imag...",
-    "sourceIds": [
-      "src_reddit-stablediffusion_e2034c535a0f89df",
-      "src_reddit-stablediffusion_79706e632310f3df",
-      "src_reddit-comfyui_943bc76bc907a6cb",
-      "src_reddit-midjourney_91c5cf49176c170c",
-      "src_reddit-midjourney_8df2718c2362b144",
-      "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-comfyui_8120d3a4f395a1dc",
-      "src_stability-ai-blog_2026-06-03_fallback"
-    ],
-    "articleWorthinessScore": 0.85,
-    "reasonSelected": "Score 0.85 from 8 source item(s), 7 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
+    "articleWorthinessScore": 0.97,
+    "reasonSelected": "Score 0.97 from 5 source item(s), 5 live crawl(s), strongest sources: r/StableDiffusion, Kling AI Blog, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -92,40 +73,59 @@
     "topic": "What's New in Cursor — Latest Updates & Release Notes",
     "sourceIds": [
       "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_efc2a0924b6ee194",
       "src_reddit-comfyui_f0fcbff5cbf30b57",
       "src_vercel-ai-blog_2026-06-03_fallback"
     ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 3 source item(s), 2 live crawl(s), strongest sources: Cursor Changelog, r/comfyui, Vercel AI Blog.",
+    "articleWorthinessScore": 0.91,
+    "reasonSelected": "Score 0.91 from 4 source item(s), 3 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, r/comfyui.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_building-a-self-healing-agent-with-mcp-and-observability_2026-06-03",
-    "category": "ai-agentic",
-    "topic": "Building a Self-Healing Agent with MCP and Observability",
+    "clusterId": "cluster_ai-image_2_new-t2i-open-weight-model-from-nvidia_2026-06-03",
+    "category": "ai-image",
+    "topic": "New t2i open weight model from Nvidia",
     "sourceIds": [
-      "src_reddit-aiagents_4df3863229defee8",
-      "src_reddit-aiagents_2814d4ec9ded195b",
+      "src_reddit-comfyui_051ce509403f3c52",
+      "src_reddit-stablediffusion_78fd3f7ecf6a5916",
+      "src_reddit-midjourney_91c5cf49176c170c",
+      "src_reddit-midjourney_8df2718c2362b144",
+      "src_reddit-mediasynthesis_459f419f1f6e36c2",
+      "src_stability-ai-blog_2026-06-03_fallback"
+    ],
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 6 source item(s), 5 live crawl(s), strongest sources: r/comfyui, r/StableDiffusion, r/midjourney.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-agentic_2_question-about-making-series-of-images_2026-06-03",
+    "category": "ai-agentic",
+    "topic": "Question about making series of images",
+    "sourceIds": [
+      "src_reddit-comfyui_211fcdb4554ed9d0",
+      "src_reddit-aiagents_a77a8cfd871b5b08",
+      "src_reddit-aiagents_7e294d13bbd6db00",
       "src_reddit-aiagents_ce5af76cde1748ff",
+      "src_reddit-stablediffusion_79f2634e00af327c",
       "src_reddit-aiagents_7e0305e7a84c61f3",
       "src_openai-blog_2026-06-03_fallback",
-      "src_mcp-blog_2026-06-03_fallback",
-      "src_huggingface-blog_2026-06-03_fallback"
+      "src_mcp-blog_2026-06-03_fallback"
     ],
     "articleWorthinessScore": 0.79,
-    "reasonSelected": "Score 0.79 from 7 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "reasonSelected": "Score 0.79 from 8 source item(s), 6 live crawl(s), strongest sources: r/comfyui, r/AI_Agents, r/StableDiffusion.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_daddy-drinks_2026-06-03",
+    "clusterId": "cluster_ai-video_2_poseidon-s-petting-zoo-deepwater-preserve_2026-06-03",
     "category": "ai-video",
-    "topic": "Daddy Drinks",
+    "topic": "Poseidon's Petting Zoo Deepwater Preserve",
     "sourceIds": [
-      "src_reddit-aivideo_bb04124baa6dead5",
+      "src_reddit-aivideo_c697a28ff6fad11b",
+      "src_reddit-aivideo_be1d924a5cb8ebd9",
       "src_reddit-aivideo_265cf1de6dc14af4",
-      "src_reddit-aivideo_23c32a41b4ae97cc",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.75,
@@ -134,12 +134,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_the-warriors-139_2026-06-03",
+    "clusterId": "cluster_prompt-image_1_dandy_2026-06-03",
     "category": "prompt-image",
-    "topic": "The Warriors #139",
+    "topic": "Dandy",
     "sourceIds": [
-      "src_reddit-midjourney_5f4e4435b112efe0",
-      "src_reddit-midjourney_be5bbf6f8192b893"
+      "src_reddit-midjourney_ef703d01e0592092",
+      "src_reddit-midjourney_b05544aa91752664"
     ],
     "articleWorthinessScore": 0.61,
     "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
@@ -147,11 +147,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_exotic-cake_2026-06-03",
+    "clusterId": "cluster_prompt-image_2_animal-and-dead-tree_2026-06-03",
     "category": "prompt-image",
-    "topic": "Exotic Cake",
+    "topic": "Animal and Dead Tree",
     "sourceIds": [
-      "src_reddit-midjourney_0cc0f3633e85dcf0"
+      "src_reddit-midjourney_2c9031c749d0a630"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",

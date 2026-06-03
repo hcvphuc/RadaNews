@@ -325,15 +325,15 @@
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "Microsoft's new MAI models: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Luma Labs Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "microsoft-mai",
-      "small-llms",
+      "moe-architecture",
       "ai-agents",
-      "data-ethics",
-      "github-copilot"
+      "github-copilot",
+      "llm-efficiency"
     ],
-    "publishedAt": "2026-06-03T00:26:28.105Z",
+    "publishedAt": "2026-06-03T15:24:06.947Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/microsoft-s-new-mai-models-goc-nhin-cho-creator-va-builder-2026-06-03"
   },
@@ -343,15 +343,15 @@
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "Microsoft's new MAI models: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Luma Labs Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from LangChain Blog, Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "microsoft-mai",
+      "moe-architecture",
       "ai-agents",
-      "small-language-models",
-      "ai-infrastructure",
-      "vibe-coding"
+      "github-copilot",
+      "llm-efficiency"
     ],
-    "publishedAt": "2026-06-03T00:26:46.184Z",
+    "publishedAt": "2026-06-03T15:24:29.121Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/microsoft-s-new-mai-models-creator-and-builder-analysis-2026-06-03"
   },
@@ -366,10 +366,10 @@
       "vibe-coding",
       "ai-agents",
       "anthropic",
-      "replit",
-      "software-engineering"
+      "software-engineering",
+      "token-economics"
     ],
-    "publishedAt": "2026-06-03T00:26:38.462Z",
+    "publishedAt": "2026-06-03T15:24:35.698Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-03"
   },
@@ -383,11 +383,11 @@
     "tags": [
       "vibe-coding",
       "ai-agents",
-      "software-development",
+      "token-economics",
       "anthropic",
       "replit"
     ],
-    "publishedAt": "2026-06-03T00:27:34.389Z",
+    "publishedAt": "2026-06-03T15:26:47.727Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-06-03"
   },
@@ -399,14 +399,14 @@
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Video",
-      "Runway-AI",
-      "ComfyUI",
-      "Generative-AI",
-      "World-Models",
-      "PixelDiT"
+      "AI Video",
+      "Runway AI",
+      "FLUX",
+      "LoRA Training",
+      "World Models",
+      "Generative AI"
     ],
-    "publishedAt": "2026-06-03T00:26:21.912Z",
+    "publishedAt": "2026-06-03T15:24:00.430Z",
     "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-03"
   },
@@ -418,14 +418,14 @@
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "World Models",
-      "Diffusion Transformers",
+      "AI Video",
       "Runway AI",
       "FLUX",
-      "ComfyUI",
-      "PixelDiT"
+      "LoRA Training",
+      "Multimodal AI",
+      "World Models"
     ],
-    "publishedAt": "2026-06-03T00:26:42.367Z",
+    "publishedAt": "2026-06-03T15:24:30.278Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-03"
   },
@@ -439,12 +439,12 @@
     "tags": [
       "ai-video",
       "prompt-engineering",
-      "digital-art",
       "kling-ai",
+      "director-agent",
       "creative-workflow"
     ],
-    "publishedAt": "2026-06-03T00:26:17.675Z",
-    "readingTime": 3,
+    "publishedAt": "2026-06-03T15:24:04.616Z",
+    "readingTime": 4,
     "url": "/vi/ai-video/anima-testing-for-complex-scene-goc-nhin-cho-creator-va-bui-2026-06-03"
   },
   {
@@ -455,51 +455,15 @@
     "title": "Anima testing for complex scene: creator and builder analysis",
     "subtitle": "Signal synthesized from r/StableDiffusion, Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "Prompt-Engineering",
-      "Kling-AI",
-      "Cinematography",
-      "Generative-AI"
+      "ai-video",
+      "prompt-engineering",
+      "long-form-generation",
+      "director-agents",
+      "cinematic-ai"
     ],
-    "publishedAt": "2026-06-03T00:26:39.625Z",
-    "readingTime": 4,
+    "publishedAt": "2026-06-03T15:24:21.416Z",
+    "readingTime": 3,
     "url": "/en/ai-video/anima-testing-for-complex-scene-creator-and-builder-analysi-2026-06-03"
-  },
-  {
-    "id": "cluster_ai-image_2_i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-and-r_2026-06-03_vi",
-    "lang": "vi",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "I compared 62 samplers and 16 schedulers for Z-Image Turbo and rated the imag...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "AI-Image",
-      "StableDiffusion",
-      "MidjourneyV8",
-      "ComfyUI",
-      "Optimization"
-    ],
-    "publishedAt": "2026-06-03T00:26:21.184Z",
-    "readingTime": 5,
-    "url": "/vi/ai-image/i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-a-2026-06-03"
-  },
-  {
-    "id": "cluster_ai-image_2_i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-and-r_2026-06-03_en",
-    "lang": "en",
-    "category": "ai-image",
-    "categoryLabel": "AI Image",
-    "title": "I compared 62 samplers and 16 schedulers for Z-Image Turbo and rated the imag...: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "Z-Image Turbo",
-      "ComfyUI",
-      "Midjourney V8.1",
-      "Model Optimization",
-      "Vibe Coding"
-    ],
-    "publishedAt": "2026-06-03T00:26:40.533Z",
-    "readingTime": 4,
-    "url": "/en/ai-image/i-compared-62-samplers-and-16-schedulers-for-z-image-turbo-a-2026-06-03"
   },
   {
     "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-06-03_vi",
@@ -507,15 +471,15 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "cursor-ai",
-      "vibe-coding",
       "ai-agents",
-      "developer-experience",
-      "productivity"
+      "vibe-coding",
+      "skill-md",
+      "software-engineering"
     ],
-    "publishedAt": "2026-06-03T00:26:12.353Z",
+    "publishedAt": "2026-06-03T15:23:59.539Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-06-03"
   },
@@ -525,16 +489,54 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from r/AI_Agents, r/comfyui, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Vibe-Coding",
-      "CursorIDE",
-      "AgenticAI",
-      "DeveloperExperience",
-      "ComfyUI"
+      "cursor",
+      "vibe-coding",
+      "ai-agents",
+      "skill-md",
+      "developer-experience"
     ],
-    "publishedAt": "2026-06-03T00:26:46.544Z",
+    "publishedAt": "2026-06-03T15:28:12.308Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-06-03"
+  },
+  {
+    "id": "cluster_ai-image_2_new-t2i-open-weight-model-from-nvidia_2026-06-03_vi",
+    "lang": "vi",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "New t2i open weight model from Nvidia: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "Nvidia",
+      "Cosmos3",
+      "OpenWeight",
+      "AI-Image",
+      "Midjourney",
+      "ComfyUI"
+    ],
+    "publishedAt": "2026-06-03T15:24:10.879Z",
+    "readingTime": 4,
+    "url": "/vi/ai-image/new-t2i-open-weight-model-from-nvidia-goc-nhin-cho-creator-2026-06-03"
+  },
+  {
+    "id": "cluster_ai-image_2_new-t2i-open-weight-model-from-nvidia_2026-06-03_en",
+    "lang": "en",
+    "category": "ai-image",
+    "categoryLabel": "AI Image",
+    "title": "New t2i open weight model from Nvidia: creator and builder analysis",
+    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "Nvidia",
+      "Cosmos3",
+      "OpenWeights",
+      "MidjourneyV8",
+      "T2I",
+      "HuggingFace"
+    ],
+    "publishedAt": "2026-06-03T15:25:06.601Z",
+    "readingTime": 4,
+    "url": "/en/ai-image/new-t2i-open-weight-model-from-nvidia-creator-and-builder-a-2026-06-03"
   }
 ]

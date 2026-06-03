@@ -7,8 +7,8 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-06-03T00:25:51.533Z",
-    "crawledAt": "2026-06-03T00:25:51.533Z",
+    "publishedAt": "2026-06-03T15:23:26.295Z",
+    "crawledAt": "2026-06-03T15:23:26.295Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -25,15 +25,15 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-06-03T00:25:54.534Z",
-    "crawledAt": "2026-06-03T00:25:54.534Z",
+    "publishedAt": "2026-06-03T15:23:31.246Z",
+    "crawledAt": "2026-06-03T15:23:31.246Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.92,
     "crawlStatus": "live",
-    "extractedText": "Research \\ Anthropic Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes. Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world. Frontier Red Team The Frontier Red Team analyzes the implications of frontier AI models for cybersecurity, biosecurity, and autonomous systems. Natural Language Autoencoders: Turning Claude’s thoughts into text Interpretability May 7, 2026 AI models like Claude talk in words but think in numbers. In this study, we train Claude to translate its thoughts into human-readable text. Alignment May 8, 2026 Teaching Claude why New research on how we've reduced agentic misalignment. Research Apr 24, 2026 Project Deal We created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf. Societal Impacts Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Policy Dec 18, 2025 Project Vend: Phase two In June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote? Publications Search Date Category Title May 27, 2026 Economic Research Coding agents in the social sciences May 22, 2026 Announcements Project Glasswing: An initial update May 14, 2026 Policy 2028: Two scenarios for global AI leadership May 8, 2026 Alignment Teaching Claude why May 7, 2026 Interpretability Natural Language Autoencoders: Turning Claude’s thoughts into text May 7, 2026 Alignment Donating our open-source alignment tool May 7, 2026 Policy Focus areas for The Anthropic Institute Apr 30, 2026 Societal Impacts How people ask Claude for personal guidance Apr 29, 2026 Science Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench Apr 22, 2026 Economic Research Announcing the Anthropic Economic Index Survey See more Join the Research team See open roles Products Claude Claude Code Claude Code Enterprise Claude Cowork Claude Security Claude for Chrome Claude for Slack Claude for Microsoft 365 Skills Max plan Team plan Enterprise plan Download app Pricing Log in to Claude Models Mythos Preview Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Education Financial services Government Healthcare Legal Life sciences Nonprofits Security Small business Claude Platform Overview Developer docs Pricing Marketplace Regional compliance Claude on AWS Google Cloud’s Vertex AI Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Inside Claude Code Inside Claude Cowork Inside Claude Enterprise Inside Claude Security Plugins Powered by Claude Service partners Startups program Tutorials Use cases Help and security Availability Status Support center Company Anthropic Careers Economic Futures Research News Claude’s Constitution Responsible Scaling Policy Security and compliance Transparency Terms and policies Privacy policy Consumer health data privacy policy Responsible disclosure policy Terms of service: Commercial Terms of service: Consumer Usage policy © 2026 Anthropic PBC",
+    "extractedText": "Research \\ Anthropic Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes. Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world. Frontier Red Team The Frontier Red Team analyzes the implications of frontier AI models for cybersecurity, biosecurity, and autonomous systems. Natural Language Autoencoders: Turning Claude’s thoughts into text Interpretability May 7, 2026 AI models like Claude talk in words but think in numbers. In this study, we train Claude to translate its thoughts into human-readable text. Alignment May 8, 2026 Teaching Claude why New research on how we've reduced agentic misalignment. Research Apr 24, 2026 Project Deal We created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf. Societal Impacts Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Policy Dec 18, 2025 Project Vend: Phase two In June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote? Publications Search Date Category Title Jun 3, 2026 Policy What we learned mapping a year’s worth of AI-enabled cyber threats May 27, 2026 Economic Research Coding agents in the social sciences May 22, 2026 Announcements Project Glasswing: An initial update May 14, 2026 Policy 2028: Two scenarios for global AI leadership May 8, 2026 Alignment Teaching Claude why May 7, 2026 Interpretability Natural Language Autoencoders: Turning Claude’s thoughts into text May 7, 2026 Alignment Donating our open-source alignment tool May 7, 2026 Policy Focus areas for The Anthropic Institute Apr 30, 2026 Societal Impacts How people ask Claude for personal guidance Apr 29, 2026 Science Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench See more Join the Research team See open roles Products Claude Claude Code Claude Code Enterprise Claude Cowork Claude Security Claude for Chrome Claude for Slack Claude for Microsoft 365 Skills Max plan Team plan Enterprise plan Download app Pricing Log in to Claude Models Mythos Preview Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Education Financial services Government Healthcare Legal Life sciences Nonprofits Security Small business Claude Platform Overview Developer docs Pricing Marketplace Regional compliance Claude on AWS Google Cloud’s Vertex AI Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Inside Claude Code Inside Claude Cowork Inside Claude Enterprise Inside Claude Security Plugins Powered by Claude Service partners Startups program Tutorials Use cases Help and security Availability Status Support center Company Anthropic Careers Economic Futures Research News Claude’s Constitution Responsible Scaling Policy Security and compliance Transparency Terms and policies Privacy policy Consumer health data privacy policy Responsible disclosure policy Terms of service: Commercial Terms of service: Consumer Usage policy © 2026 Anthropic PBC",
     "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
   },
   {
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-06-03T00:25:51.061Z",
-    "crawledAt": "2026-06-03T00:25:51.061Z",
+    "publishedAt": "2026-06-03T15:23:25.568Z",
+    "crawledAt": "2026-06-03T15:23:25.568Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-06-03T00:25:51.593Z",
-    "crawledAt": "2026-06-03T00:25:51.593Z",
+    "publishedAt": "2026-06-03T15:23:25.923Z",
+    "crawledAt": "2026-06-03T15:23:25.923Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-05-27T16:00:19.000Z",
-    "crawledAt": "2026-06-03T00:25:51.854Z",
+    "crawledAt": "2026-06-03T15:23:26.236Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -100,7 +100,7 @@
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-06-01T16:01:43.000Z",
-    "crawledAt": "2026-06-03T00:25:51.854Z",
+    "crawledAt": "2026-06-03T15:23:26.236Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -109,55 +109,55 @@
     "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_ff583e4ac770bdff",
+    "id": "src_reddit-aiagents_7e294d13bbd6db00",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tv669s/how_to_add_usagebased_billing_to_your_ai_agent/",
-    "title": "How to add usage-based billing to your AI agent, and why you need it to make money",
-    "rawSummary": "You built an AI agent without writing code. Here's the part no-code didn't prepare you for: billing. Hey, I'm a co-founder of Credyt. We build billing infrastructure for AI products, and I want to talk about something most no-code builders hit way too late. You shipped an agent. It works. Someone wants to pay for it. Great problem to have. So you do the obvious thing: add Stripe, charge $29/month, done. Here's why that quietly breaks. Your agent costs you money every time it runs. Every time a customer triggers it, you're paying OpenAI or Anthropic in the background. A flat $29/month subscription assumes your cost per customer is stable. It isn't. One customer who barely uses the agent costs you almost nothing. One power user running it in a loop can cost you more than $29 in a week. You're now subsidizing your heaviest users with everyone else's money. It gets worse when you change models. Swap the model your agent uses and your cost per run can drop 10x or jump 3x overnight. Your $29 price was set against the old number. Nobody re-prices a subscription every time a model gets cheaper or more expensive. So your margin just drifts, and you don't find out until you look at the invoice. The scenario that actually hurts: you add a free tier to get signups. One person points your agent at a big job, walks away, and lets it run. End of the month, your OpenAI bill is bigger than your revenue. You didn't see it happen, because nothing was checking the cost while it ran. The bill was the first time you found out. This is not a \"you should have written rate-limiting code\" problem. Teams with full engineering departments get this wrong. Products you've used have rebuilt their billing and annoyed all their customers doing it. The fix isn't learning to code. The fix is not building the billing yourself in the first place. What actually solves it: check the customer's balance before the agent runs, not after. Each customer gets a wallet. The agent run gets authorized against that wallet, or it gets blocked. You never front a cost you can't cover. That's the whole idea, and you don't need to understand the code to use it. Why not just Stipe: it meters usage and invoices at month-end, which is too late when one runaway run burns $200 before the cycle closes. Keep Stripe for payments; the missing piece is authorizing the spend before it happens. That's what Credyt does, and here's how you use it without touching code: Every customer gets a wallet. Usage gets checked against it in real time, so a runaway user gets stopped, not silently absorbed. A ready-made billing portal you drop into your app. Customers see their balance, top up, manage their plan. No frontend work. Six pricing models you can mix: prepaid credits, usage-based, subscription, hybrid, seat-based, free tier. The free tier is hard-capped, so trial users can't run up your inference bill. You describe your pricing in plain English (\"Free tier: 50 runs/month. Pro $29 with 1000 runs. Extra runs $0.05 each. Deep-research runs cost 5 credits.\") and the integration sets up the plans, prices, and credit grants for you. Stripe still handles the actual card payments. Credyt sits on top and handles the usage layer. If you're building something with AI in it and there's a real chance people will pay for it, the billing layer is worth getting right before you have customers, not after. submitted by /u/o9dev [link] [comments]",
-    "publishedAt": "2026-06-02T22:20:21.000Z",
-    "crawledAt": "2026-06-03T00:25:51.854Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tvl8ea/advice_on_building_good_multiagents/",
+    "title": "Advice on building good multi-agents",
+    "rawSummary": "Hey everyone, I have been building agents since quiet time now. But many a times agent hallucinates, gives undesired results or whatever. I have seen many videos on YouTube and got general advices like write good guardials, do this do that. But still having problem in building. I wanna know how to improvise fr. Can you share your workflows with me how you design one or point me to some good blogs/articles to learn from someone else's experience. Would be of great help. submitted by /u/iit_aim [link] [comments]",
+    "publishedAt": "2026-06-03T10:26:30.000Z",
+    "crawledAt": "2026-06-03T15:23:26.236Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "You built an AI agent without writing code. Here's the part no-code didn't prepare you for: billing. Hey, I'm a co-founder of Credyt. We build billing infrastructure for AI products, and I want to talk about something most no-code builders hit way too late. You shipped an agent. It works. Someone wants to pay for it. Great problem to have. So you do the obvious thing: add Stripe, charge $29/month, done. Here's why that quietly breaks. Your agent costs you money every time it runs. Every time a customer triggers it, you're paying OpenAI or Anthropic in the background. A flat $29/month subscription assumes your cost per customer is stable. It isn't. One customer who barely uses the agent costs you almost nothing. One power user running it in a loop can cost you more than $29 in a week. You're now subsidizing your heaviest users with everyone else's money. It gets worse when you change models. Swap the model your agent uses and your cost per run can drop 10x or jump 3x overnight. Your $29 price was set against the old number. Nobody re-prices a subscription every time a model gets cheaper or more expensive. So your margin just drifts, and you don't find out until you look at the invoice. The scenario that actually hurts: you add a free tier to get signups. One person points your agent at a big job, walks away, and lets it run. End of the month, your OpenAI bill is bigger than your revenue. You didn't see it happen, because nothing was checking the cost while it ran. The bill was the first time you found out. This is not a \"you should have written rate-limiting code\" problem. Teams with full engineering departments get this wrong. Products you've used have rebuilt their billing and annoyed all their customers doing it. The fix isn't learning to code. The fix is not building the billing yourself in the first place. What actually solves it: check the customer's balance before the agent runs, not after. Each customer gets a wallet. The agent run gets authorized against that wallet, or it gets blocked. You never front a cost you can't cover. That's the whole idea, and you don't need to understand the code to use it. Why not just Stipe: it meters usage and invoices at month-end, which is too late when one runaway run burns $200 before the cycle closes. Keep Stripe for payments; the missing piece is authorizing the spend before it happens. That's what Credyt does, and here's how you use it without touching code: Every customer gets a wallet. Usage gets checked against it in real time, so a runaway user gets stopped, not silently absorbed. A ready-made billing portal you drop into your app. Customers see their balance, top up, manage their plan. No frontend work. Six pricing models you can mix: prepaid credits, usage-based, subscription, hybrid, seat-based, free tier. The free tier is hard-capped, so trial users can't run up your inference bill. You describe your pricing in plain English (\"Free tier: 50 runs/month. Pro $29 with 1000 runs. Extra runs $0.05 each. Deep-research runs cost 5 credits.\") and the integration sets up the plans, prices, and credit grants for you. Stripe still handles the actual card payments. Credyt sits on top and handles the usage layer. If you're building something with AI in it and there's a real chance people will pay for it, the billing layer is worth getting right before you have customers, not after. submitted by /u/o9dev [link] [comments]"
+    "extractedText": "Hey everyone, I have been building agents since quiet time now. But many a times agent hallucinates, gives undesired results or whatever. I have seen many videos on YouTube and got general advices like write good guardials, do this do that. But still having problem in building. I wanna know how to improvise fr. Can you share your workflows with me how you design one or point me to some good blogs/articles to learn from someone else's experience. Would be of great help. submitted by /u/iit_aim [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_4df3863229defee8",
+    "id": "src_reddit-aiagents_a77a8cfd871b5b08",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tv3h8v/building_a_selfhealing_agent_with_mcp_and/",
-    "title": "Building a Self-Healing Agent with MCP and Observability",
-    "rawSummary": "Most agents can generate code or do the work it is designed to do. What I'm starting to find more interesting is whether they can debug themselves. One of my friend's built a small demo around this idea using Monocle and OpenCode. Instead of asking the agent to build an application from scratch, I gave it a deliberately broken Text-to-SQL service and a failing test suite. The rule was simple: no reading local logs and no guessing fixes. The agent had to run the tests, inspect traces through MCP, identify the root cause from telemetry data, patch the code, and repeat until everything passed. What made this interesting wasn't the bugs themselves. The application only had a few issues: an invalid model configuration, incorrect response parsing, and a schema mismatch between prompts and the database. The interesting part was treating observability as part of the agent loop. Normally traces are something humans look at after a failure. Here the traces became the agent's source of truth. Every failure generated telemetry through Monocle, the agent queried those traces through MCP, and the next action was based on what actually happened rather than what the model guessed happened. It feels like an important shift for agent systems. A lot of agent workflows today stop at code generation. Production systems spend much more time debugging, monitoring, recovering from failures, and handling unexpected behavior. If agents are going to become useful engineering tools, they probably need access to the same observability layer engineers use. This demo was a small experiment in that direction, using Monocle for instrumentation and MCP as the interface between telemetry and the agent. submitted by /u/codes_astro [link] [comments]",
-    "publishedAt": "2026-06-02T20:40:22.000Z",
-    "crawledAt": "2026-06-03T00:25:51.854Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tvooyc/anyone_else_struggling_with_monitoring_a_multi/",
+    "title": "Anyone else struggling with monitoring a multi agent system at scale?",
+    "rawSummary": "Been at this long enough to know that monitoring is the thing everyone deprioritizes and then regrets. With a few agents it's fine. Standard logging covers it. Past that, things get messy fast. Logs don't connect across agents automatically. You end up correlating timestamps by hand and guessing which output came from where. The tooling built for single systems doesn't map well here. I've spent more time than I'd like building observability infrastructure that should have been a solved problem. what others are actually using at scale, not vendor pitches, real setups that work in production. submitted by /u/Kitchen_West_3482 [link] [comments]",
+    "publishedAt": "2026-06-03T13:02:09.000Z",
+    "crawledAt": "2026-06-03T15:23:26.236Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "Most agents can generate code or do the work it is designed to do. What I'm starting to find more interesting is whether they can debug themselves. One of my friend's built a small demo around this idea using Monocle and OpenCode. Instead of asking the agent to build an application from scratch, I gave it a deliberately broken Text-to-SQL service and a failing test suite. The rule was simple: no reading local logs and no guessing fixes. The agent had to run the tests, inspect traces through MCP, identify the root cause from telemetry data, patch the code, and repeat until everything passed. What made this interesting wasn't the bugs themselves. The application only had a few issues: an invalid model configuration, incorrect response parsing, and a schema mismatch between prompts and the database. The interesting part was treating observability as part of the agent loop. Normally traces are something humans look at after a failure. Here the traces became the agent's source of truth. Every failure generated telemetry through Monocle, the agent queried those traces through MCP, and the next action was based on what actually happened rather than what the model guessed happened. It feels like an important shift for agent systems. A lot of agent workflows today stop at code generation. Production systems spend much more time debugging, monitoring, recovering from failures, and handling unexpected behavior. If agents are going to become useful engineering tools, they probably need access to the same observability layer engineers use. This demo was a small experiment in that direction, using Monocle for instrumentation and MCP as the interface between telemetry and the agent. submitted by /u/codes_astro [link] [comments]"
+    "extractedText": "Been at this long enough to know that monitoring is the thing everyone deprioritizes and then regrets. With a few agents it's fine. Standard logging covers it. Past that, things get messy fast. Logs don't connect across agents automatically. You end up correlating timestamps by hand and guessing which output came from where. The tooling built for single systems doesn't map well here. I've spent more time than I'd like building observability infrastructure that should have been a solved problem. what others are actually using at scale, not vendor pitches, real setups that work in production. submitted by /u/Kitchen_West_3482 [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_2814d4ec9ded195b",
+    "id": "src_reddit-aiagents_efc2a0924b6ee194",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tv786i/we_stopped_letting_agents_plan_3_steps_ahead/",
-    "title": "we stopped letting agents plan 3 steps ahead, reliability got better fast",
-    "rawSummary": "Curious if anyone else has seen this. We were giving agents too much room to \"think ahead\" and it honestly made them worse. Not always in obvious ways either, they looked smart in traces, but reliability kept dipping once the task touched real tools, CRM Automation, or any kind of Workflow Automation with messy state. What helped was making the agent plan exactly one next action, do it, re-read the new state, then decide again. Way less elegant on paper. But AI Agents started failing less, especially around Lead qualification flows, tool routing, and handoffs between steps. My guess is long plans get brittle fast because the world changes underneath them. A tool returns something weird, a field is blank, a user replies off-script, a Voice AI call goes slightly sideways, and now steps 2 and 3 are based on assumptions that arent true anymore. We still use Multi-agent Systems in some places, but even there, smaller bounded decisions seem more stable than one agent making a grand master-plan and and trying to stick to it. Not saying planning is bad. Just that in actual AI Automation work, especially when agents touch external systems, less foresight weirdly seems to work better. Has anyone benchmarked this more formally, or seen the opposite? idk if this is just an eval artifact on our side or a real pattern. submitted by /u/Cnye36 [link] [comments]",
-    "publishedAt": "2026-06-02T23:01:34.000Z",
-    "crawledAt": "2026-06-03T00:25:51.854Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1tvo738/half_of_github_trending_ai_repos_are_skills_packs/",
+    "title": "Half of GitHub trending AI repos are \"skills\" packs but the shape varies 1000x. The actual primitive is doing something real.",
+    "rawSummary": "Three of the trending \"skills\" repos, read for what's inside: karpathy-skills: 1 markdown file, 4 rules, ~70k stars mattpocock/skills: ~10 SKILL.md files, ~115k stars everything-claude-code: 182 SKILL.md files + 48 agents + 68 commands + hooks + rules + MCP configs + npm packages, ~178k stars (plus a second repo by the same author also in the top 10) Three orders of magnitude in scope, same label. What's underneath all of them is Anthropic's SKILL.md format. Markdown with YAML frontmatter, auto-loaded by Claude Code (and via shims by Cursor, Codex, OpenCode, Gemini, Antigravity) at session start. It's prompt-with-conventions. That's the actually interesting part. For two years, the answer to \"how do I make this agent better at X\" was prompt engineering, manual context, glue code. SKILL .md is the first widely-adopted attempt to make a unit of agent capability publishable, forkable, and installable, with a defined invocation pattern (file gets auto-loaded, frontmatter declares when it fires). That's a real primitive even if the trending list around it is noisy. Four implications I keep coming back to as a builder: The packaging is the primitive, not the content. mattpocock's tdd skill and ECC's tdd-workflow skill solve the same problem with similar prose. The differentiation is whether you ship it in a format other people can compose with, not whether your wording is cleverer. Cross-harness portability is leaky. ECC ships into .claude/, .cursor/, .codex/, .opencode/, .gemini/, .agent/, six paths, each with its own quirks (Cursor has 20 hook events vs Claude Code's 8, plugin distribution can't carry rules, OpenCode has a different plugin system). Write-once-run-anywhere is real-ish but you pay for it. Workflow enforcement vs capability extension is a real split. Most of the agent-skills discussion in 2024-2025 was capability (tool use, browser, APIs). What's actually trending in mid-2026 is mostly workflow (TDD, triage, code review, planning). Different bet about where value lives. The bear case. If your \"skill\" is a markdown file derived from a tweet and it has 70k stars, the moat is roughly zero. A startup whose differentiation is a skills pack should assume that pack gets copied, forked, or absorbed into the base model within 12 months. Karpathy's four rules will be in the default behavior of the next Claude release. For people shipping production agents, are you treating skills as a real distribution primitive (publishing, versioning, dep-managing), or as personal scratch that occasionally gets pushed to GitHub? And does the cross-harness story hold up for you or do you end up forking per setup? submitted by /u/gvij [link] [comments]",
+    "publishedAt": "2026-06-03T12:42:41.000Z",
+    "crawledAt": "2026-06-03T15:23:26.236Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "Curious if anyone else has seen this. We were giving agents too much room to \"think ahead\" and it honestly made them worse. Not always in obvious ways either, they looked smart in traces, but reliability kept dipping once the task touched real tools, CRM Automation, or any kind of Workflow Automation with messy state. What helped was making the agent plan exactly one next action, do it, re-read the new state, then decide again. Way less elegant on paper. But AI Agents started failing less, especially around Lead qualification flows, tool routing, and handoffs between steps. My guess is long plans get brittle fast because the world changes underneath them. A tool returns something weird, a field is blank, a user replies off-script, a Voice AI call goes slightly sideways, and now steps 2 and 3 are based on assumptions that arent true anymore. We still use Multi-agent Systems in some places, but even there, smaller bounded decisions seem more stable than one agent making a grand master-plan and and trying to stick to it. Not saying planning is bad. Just that in actual AI Automation work, especially when agents touch external systems, less foresight weirdly seems to work better. Has anyone benchmarked this more formally, or seen the opposite? idk if this is just an eval artifact on our side or a real pattern. submitted by /u/Cnye36 [link] [comments]"
+    "extractedText": "Three of the trending \"skills\" repos, read for what's inside: karpathy-skills: 1 markdown file, 4 rules, ~70k stars mattpocock/skills: ~10 SKILL.md files, ~115k stars everything-claude-code: 182 SKILL.md files + 48 agents + 68 commands + hooks + rules + MCP configs + npm packages, ~178k stars (plus a second repo by the same author also in the top 10) Three orders of magnitude in scope, same label. What's underneath all of them is Anthropic's SKILL.md format. Markdown with YAML frontmatter, auto-loaded by Claude Code (and via shims by Cursor, Codex, OpenCode, Gemini, Antigravity) at session start. It's prompt-with-conventions. That's the actually interesting part. For two years, the answer to \"how do I make this agent better at X\" was prompt engineering, manual context, glue code. SKILL .md is the first widely-adopted attempt to make a unit of agent capability publishable, forkable, and installable, with a defined invocation pattern (file gets auto-loaded, frontmatter declares when it fires). That's a real primitive even if the trending list around it is noisy. Four implications I keep coming back to as a builder: The packaging is the primitive, not the content. mattpocock's tdd skill and ECC's tdd-workflow skill solve the same problem with similar prose. The differentiation is whether you ship it in a format other people can compose with, not whether your wording is cleverer. Cross-harness portability is leaky. ECC ships into .claude/, .cursor/, .codex/, .opencode/, .gemini/, .agent/, six paths, each with its own quirks (Cursor has 20 hook events vs Claude Code's 8, plugin distribution can't carry rules, OpenCode has a different plugin system). Write-once-run-anywhere is real-ish but you pay for it. Workflow enforcement vs capability extension is a real split. Most of the agent-skills discussion in 2024-2025 was capability (tool use, browser, APIs). What's actually trending in mid-2026 is mostly workflow (TDD, triage, code review, planning). Different bet about where value lives. The bear case. If your \"skill\" is a markdown file derived from a tweet and it has 70k stars, the moat is roughly zero. A startup whose differentiation is a skills pack should assume that pack gets copied, forked, or absorbed into the base model within 12 months. Karpathy's four rules will be in the default behavior of the next Claude release. For people shipping production agents, are you treating skills as a real distribution primitive (publishing, versioning, dep-managing), or as personal scratch that occasionally gets pushed to GitHub? And does the cross-harness story hold up for you or do you end up forking per setup? submitted by /u/gvij [link] [comments]"
   },
   {
     "id": "src_stability-ai-blog_2026-06-03_fallback",
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-06-03T00:25:51.395Z",
-    "crawledAt": "2026-06-03T00:25:51.395Z",
+    "publishedAt": "2026-06-03T15:23:25.830Z",
+    "crawledAt": "2026-06-03T15:23:25.830Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
-    "publishedAt": "2026-06-03T00:25:51.650Z",
-    "crawledAt": "2026-06-03T00:25:51.650Z",
+    "publishedAt": "2026-06-03T15:23:26.369Z",
+    "crawledAt": "2026-06-03T15:23:26.369Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-06-03T00:25:51.677Z",
-    "crawledAt": "2026-06-03T00:25:51.677Z",
+    "publishedAt": "2026-06-03T15:23:26.094Z",
+    "crawledAt": "2026-06-03T15:23:26.094Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -216,22 +216,22 @@
     "imageUrl": "https://replicate.com/_content/assets/og-image.y_bpW3_2.png"
   },
   {
-    "id": "src_reddit-stablediffusion_c7425040d8e0806c",
+    "id": "src_reddit-stablediffusion_78fd3f7ecf6a5916",
     "sourceConfigId": "reddit-stablediffusion",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tuy3ye/anima_testing_for_complex_scene/",
-    "title": "Anima testing for complex scene",
-    "rawSummary": "I'm always working with claude to fined the best way to write prompts and this is where I'm at right now, prompt : highres, sensitive, A wide shot from slightly below frames an adult woman seated on a mossy fallen tree trunk deep in an ancient forest at night. She has very long black hair falling loosely over one shoulder, swept bangs framing her face with hair between her eyes. Her grey eyes catch the pale moonlight, long lashes casting faint shadows, lips slightly parted, light eyeliner defining her gaze. She is slim with a toned figure, pale skin, and long legs, wearing a white slip dress. Her thighs press naturally against the rough damp moss, one hand resting beside her hip with fingertips touching the bark. Her bare feet rest in a shallow puddle of rainwater that reflects the moonlight faintly. Moonlight filters through the canopy, casting silver light across her left side while her right fades into deep shadow. Ancient trees rise around her, fireflies drifting between distant ferns. The scene is rendered in a loose expressive sketch style, with rough dry brushwork, raw monochrome ink tones, and energetic unfinished linework that prioritizes movement over detail. submitted by /u/Lost_Personality [link] [comments]",
-    "publishedAt": "2026-06-02T17:34:54.000Z",
-    "crawledAt": "2026-06-03T00:25:52.484Z",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tvn7if/krea_2_will_be_open_sourced_soon/",
+    "title": "Krea 2 will be open sourced soon",
+    "rawSummary": "Source - Miguel (@angrypenguinPNG on X) https://x.com/i/status/2061860965847851011 submitted by /u/Queasy-Carrot-7314 [link] [comments]",
+    "publishedAt": "2026-06-03T12:00:52.000Z",
+    "crawledAt": "2026-06-03T15:23:26.747Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "score": 0.62,
     "crawlStatus": "live",
-    "extractedText": "I'm always working with claude to fined the best way to write prompts and this is where I'm at right now, prompt : highres, sensitive, A wide shot from slightly below frames an adult woman seated on a mossy fallen tree trunk deep in an ancient forest at night. She has very long black hair falling loosely over one shoulder, swept bangs framing her face with hair between her eyes. Her grey eyes catch the pale moonlight, long lashes casting faint shadows, lips slightly parted, light eyeliner defining her gaze. She is slim with a toned figure, pale skin, and long legs, wearing a white slip dress. Her thighs press naturally against the rough damp moss, one hand resting beside her hip with fingertips touching the bark. Her bare feet rest in a shallow puddle of rainwater that reflects the moonlight faintly. Moonlight filters through the canopy, casting silver light across her left side while her right fades into deep shadow. Ancient trees rise around her, fireflies drifting between distant ferns. The scene is rendered in a loose expressive sketch style, with rough dry brushwork, raw monochrome ink tones, and energetic unfinished linework that prioritizes movement over detail. submitted by /u/Lost_Personality [link] [comments]"
+    "extractedText": "Source - Miguel (@angrypenguinPNG on X) https://x.com/i/status/2061860965847851011 submitted by /u/Queasy-Carrot-7314 [link] [comments]"
   },
   {
     "id": "src_reddit-stablediffusion_e2034c535a0f89df",
@@ -242,7 +242,7 @@
     "title": "I compared 62 samplers and 16 schedulers for Z-Image Turbo and rated the image quality so you don't have to 😉",
     "rawSummary": "https://preview.redd.it/vvu48gf14y4h1.png?width=616&format=png&auto=webp&s=5ea23d0687e6d27682afc399f7c3f577ed15aa40 Here's a sampler/scheduler comparison table for image generation with Z-Image Turbo. Obviously it reads like Red < Orange < Yellow < Green. You're welcome! PS. If you don't like it, don't appreciate it or think I'm wasting my time... Then... Don't waste your time, just move along 😉 submitted by /u/VirusCharacter [link] [comments]",
     "publishedAt": "2026-06-02T22:29:21.000Z",
-    "crawledAt": "2026-06-03T00:25:52.484Z",
+    "crawledAt": "2026-06-03T15:23:26.747Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -252,58 +252,58 @@
     "extractedText": "https://preview.redd.it/vvu48gf14y4h1.png?width=616&format=png&auto=webp&s=5ea23d0687e6d27682afc399f7c3f577ed15aa40 Here's a sampler/scheduler comparison table for image generation with Z-Image Turbo. Obviously it reads like Red < Orange < Yellow < Green. You're welcome! PS. If you don't like it, don't appreciate it or think I'm wasting my time... Then... Don't waste your time, just move along 😉 submitted by /u/VirusCharacter [link] [comments]"
   },
   {
-    "id": "src_reddit-stablediffusion_304ed1a1685e479a",
+    "id": "src_reddit-stablediffusion_c7425040d8e0806c",
     "sourceConfigId": "reddit-stablediffusion",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tv7fii/update_nexusbta_v0222_is_out_ui_with_pre_made/",
-    "title": "UPDATE NexusBTA v0.2.22 is out Ui with pre made Comfy Workflows",
-    "rawSummary": "NexusBTA v0.2.22 is out MY WEB UI USING COMFY UI BACK WITH PRE MADE WORKFLOWS Compatible with ANIMA, WAN 2.2, LTX 2.3, SD 1.5, SDXL, ILLUSTRIOUS, PONY, FLUX, FLUX 2 KLEIN, FLUX DEV, QWEN IMAGE EDIT, Z IMAGE, Z IMAGE TURBO, LUMINA, AND TRELLIS 2 (3D MODEL) AND MORE https://github.com/JpAndreBTA/Nexus-BTA Just run.bat and start cocking This update brings a large round of workflow and runtime improvements across NexusBTA. Highlights include better Qwen/Flux inpaint and multiview routing, WAN 2.2 and LTX 2.3 start/end frame and loop workflow updates, improved motion transfer handling, Civitai modal fixes, model path scanning improvements, and several runtime/bootstrap fixes for startup, custom nodes, RunPod/Docker, LAN, and tunnel usage. Extras also received updates for RTX Super Resolution, PiD upscale, FlashVSR, SeedVR2, and dependency/model-path handling. Full notes are available here: https://github.com/JpAndreBTA/Nexus-BTA/blob/v0.2.22/docs/releases/v0.2.22.md submitted by /u/Jp_Andre [link] [comments]",
-    "publishedAt": "2026-06-02T23:09:50.000Z",
-    "crawledAt": "2026-06-03T00:25:52.484Z",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tuy3ye/anima_testing_for_complex_scene/",
+    "title": "Anima testing for complex scene",
+    "rawSummary": "I'm always working with claude to fined the best way to write prompts and this is where I'm at right now, prompt : highres, sensitive, A wide shot from slightly below frames an adult woman seated on a mossy fallen tree trunk deep in an ancient forest at night. She has very long black hair falling loosely over one shoulder, swept bangs framing her face with hair between her eyes. Her grey eyes catch the pale moonlight, long lashes casting faint shadows, lips slightly parted, light eyeliner defining her gaze. She is slim with a toned figure, pale skin, and long legs, wearing a white slip dress. Her thighs press naturally against the rough damp moss, one hand resting beside her hip with fingertips touching the bark. Her bare feet rest in a shallow puddle of rainwater that reflects the moonlight faintly. Moonlight filters through the canopy, casting silver light across her left side while her right fades into deep shadow. Ancient trees rise around her, fireflies drifting between distant ferns. The scene is rendered in a loose expressive sketch style, with rough dry brushwork, raw monochrome ink tones, and energetic unfinished linework that prioritizes movement over detail. submitted by /u/Lost_Personality [link] [comments]",
+    "publishedAt": "2026-06-02T17:34:54.000Z",
+    "crawledAt": "2026-06-03T15:23:26.747Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "score": 0.62,
     "crawlStatus": "live",
-    "extractedText": "NexusBTA v0.2.22 is out MY WEB UI USING COMFY UI BACK WITH PRE MADE WORKFLOWS Compatible with ANIMA, WAN 2.2, LTX 2.3, SD 1.5, SDXL, ILLUSTRIOUS, PONY, FLUX, FLUX 2 KLEIN, FLUX DEV, QWEN IMAGE EDIT, Z IMAGE, Z IMAGE TURBO, LUMINA, AND TRELLIS 2 (3D MODEL) AND MORE https://github.com/JpAndreBTA/Nexus-BTA Just run.bat and start cocking This update brings a large round of workflow and runtime improvements across NexusBTA. Highlights include better Qwen/Flux inpaint and multiview routing, WAN 2.2 and LTX 2.3 start/end frame and loop workflow updates, improved motion transfer handling, Civitai modal fixes, model path scanning improvements, and several runtime/bootstrap fixes for startup, custom nodes, RunPod/Docker, LAN, and tunnel usage. Extras also received updates for RTX Super Resolution, PiD upscale, FlashVSR, SeedVR2, and dependency/model-path handling. Full notes are available here: https://github.com/JpAndreBTA/Nexus-BTA/blob/v0.2.22/docs/releases/v0.2.22.md submitted by /u/Jp_Andre [link] [comments]"
+    "extractedText": "I'm always working with claude to fined the best way to write prompts and this is where I'm at right now, prompt : highres, sensitive, A wide shot from slightly below frames an adult woman seated on a mossy fallen tree trunk deep in an ancient forest at night. She has very long black hair falling loosely over one shoulder, swept bangs framing her face with hair between her eyes. Her grey eyes catch the pale moonlight, long lashes casting faint shadows, lips slightly parted, light eyeliner defining her gaze. She is slim with a toned figure, pale skin, and long legs, wearing a white slip dress. Her thighs press naturally against the rough damp moss, one hand resting beside her hip with fingertips touching the bark. Her bare feet rest in a shallow puddle of rainwater that reflects the moonlight faintly. Moonlight filters through the canopy, casting silver light across her left side while her right fades into deep shadow. Ancient trees rise around her, fireflies drifting between distant ferns. The scene is rendered in a loose expressive sketch style, with rough dry brushwork, raw monochrome ink tones, and energetic unfinished linework that prioritizes movement over detail. submitted by /u/Lost_Personality [link] [comments]"
   },
   {
-    "id": "src_reddit-stablediffusion_39e051c95160db96",
+    "id": "src_reddit-stablediffusion_79f2634e00af327c",
     "sourceConfigId": "reddit-stablediffusion",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tuujjg/pixeldit_pixel_diffusion_transformers_for_image/",
-    "title": "PixelDiT: Pixel Diffusion Transformers for Image Generation Pixel Diffusion Transformers for Image Generation, 1.3B, no VAE",
-    "rawSummary": "PixelDiT is a 1.3B parameter text-to-image model by NVidia with image editing capabilities. Key features: VAE-free Dual-level architecture: Patch-level DiT + Pixel-level DiT MM-DiT text-image fusion: Joint attention between text and image tokens Text encoder: Gemma-2-2B-IT Multi-aspect-ratio: Supports various aspect ratios at 1024px Relevant links: Project page Paper Github page HuggingFace page (diffusers) ComfyUI version Workflow (There was an earlier post about this model with a few upvotes. That post was removed by a moderator as the author didn't add a link or include any information about it, so I made a new post.) submitted by /u/CornyShed [link] [comments]",
-    "publishedAt": "2026-06-02T15:34:27.000Z",
-    "crawledAt": "2026-06-03T00:25:52.484Z",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tvq3gv/this_is_pleasant_sdxldmd2_images_seedvr2_ltx23/",
+    "title": "This is pleasant. SDXL/DMD-2 images, SEEDVR2, LTX-2.3, pieced together with Shotcut. Overall the whole thing took a couple days, just tweaking moments in Comfy, getting about 90 images together, cutting it down, ended up running 30 through LTX on a 3060 12GB/64GB - might get some vocals~",
+    "rawSummary": "Can get some or all of the workflow if anyone is interested. submitted by /u/New_Physics_2741 [link] [comments]",
+    "publishedAt": "2026-06-03T13:55:31.000Z",
+    "crawledAt": "2026-06-03T15:23:26.747Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "score": 0.62,
     "crawlStatus": "live",
-    "extractedText": "PixelDiT is a 1.3B parameter text-to-image model by NVidia with image editing capabilities. Key features: VAE-free Dual-level architecture: Patch-level DiT + Pixel-level DiT MM-DiT text-image fusion: Joint attention between text and image tokens Text encoder: Gemma-2-2B-IT Multi-aspect-ratio: Supports various aspect ratios at 1024px Relevant links: Project page Paper Github page HuggingFace page (diffusers) ComfyUI version Workflow (There was an earlier post about this model with a few upvotes. That post was removed by a moderator as the author didn't add a link or include any information about it, so I made a new post.) submitted by /u/CornyShed [link] [comments]"
+    "extractedText": "Can get some or all of the workflow if anyone is interested. submitted by /u/New_Physics_2741 [link] [comments]"
   },
   {
-    "id": "src_reddit-stablediffusion_79706e632310f3df",
+    "id": "src_reddit-stablediffusion_57ad3fdd9a74c5de",
     "sourceConfigId": "reddit-stablediffusion",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tux5qx/misotts_8_billion_text2speech_model_released/",
-    "title": "MISO-TTS . 8 Billion text2speech model released.",
-    "rawSummary": "Model: https://huggingface.co/MisoLabs/MisoTTS TTS 8B is a text-to-speech model based on the Sesame CSM architecture. It generates Mimi audio codes from text and optional audio context, using a large Llama 3.2-style backbone and a smaller autoregressive audio decoder. Miso The model is designed for high-quality conversational speech generation and voice continuation from prompt audio. submitted by /u/AgeNo5351 [link] [comments]",
-    "publishedAt": "2026-06-02T17:03:14.000Z",
-    "crawledAt": "2026-06-03T00:25:52.484Z",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1tvi8vx/joyaiecho_large_scale_ltx23_finetune_for_long/",
+    "title": "JoyAI-Echo - Large Scale LTX-2.3 finetune for long form (5min) coherent stories.",
+    "rawSummary": "Project: https://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/ Model: https://huggingface.co/jdopensource/JoyAI-Echo Paper: https://www.researchgate.net/publication/405770309_JoyAI-Echo_Pushing_the_Frontier_of_Long_Audio-Visual_Generation Also includes a Director Agent. JoyAI-Echo is trained with explicit and structured shot-level text conditions, while real user inputs ar usually much less structured. To bridge this gap, we introduce a Director Agent on top of the generator The agent converts incomplete or under-specified user inputs into shot conditions aligned with the trainin distribution, manages long-range references through our agent-level memory mechanism, and supports local revision without regenerating the full video. submitted by /u/AgeNo5351 [link] [comments]",
+    "publishedAt": "2026-06-03T07:39:10.000Z",
+    "crawledAt": "2026-06-03T15:23:26.747Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "score": 0.62,
     "crawlStatus": "live",
-    "extractedText": "Model: https://huggingface.co/MisoLabs/MisoTTS TTS 8B is a text-to-speech model based on the Sesame CSM architecture. It generates Mimi audio codes from text and optional audio context, using a large Llama 3.2-style backbone and a smaller autoregressive audio decoder. Miso The model is designed for high-quality conversational speech generation and voice continuation from prompt audio. submitted by /u/AgeNo5351 [link] [comments]"
+    "extractedText": "Project: https://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/ Model: https://huggingface.co/jdopensource/JoyAI-Echo Paper: https://www.researchgate.net/publication/405770309_JoyAI-Echo_Pushing_the_Frontier_of_Long_Audio-Visual_Generation Also includes a Director Agent. JoyAI-Echo is trained with explicit and structured shot-level text conditions, while real user inputs ar usually much less structured. To bridge this gap, we introduce a Director Agent on top of the generator The agent converts incomplete or under-specified user inputs into shot conditions aligned with the trainin distribution, manages long-range references through our agent-level memory mechanism, and supports local revision without regenerating the full video. submitted by /u/AgeNo5351 [link] [comments]"
   },
   {
     "id": "src_reddit-comfyui_f0fcbff5cbf30b57",
@@ -314,7 +314,7 @@
     "title": "An Update on Nodes 2.0 from Comfy Org",
     "rawSummary": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed. Over time, we plan to gradually make the new interface the default experience in ComfyUI. We know the reception has been mixed. There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them. We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short. The Problem With Canvas Canvas rendering worked, but it cut us off from everything the modern web has built over the last two decades: component libraries, design systems, accessibility tooling, the entire ecosystem developers rely on to ship fast. Every widget had to be drawn pixel by pixel. Generative AI doesn't sit still. New models, new modalities, new techniques, new ways of combining them. The workflows that made sense six months ago get rethought constantly. Our users are doing professional creative work, and they expect the controls that professional tools have had for years: curve editors, color grading, histograms, timeline scrubbing. We can't keep rebuilding those from scratch. What a Modern Frontend Unlocks With a modern frontend framework, a curve editor that would have taken weeks now takes days. A gradient slider with live preview, hours. Since the Nodes 2.0 beta launched, we’ve already shipped: Curve editors Histogram displays Live cropping UI Before/after comparison sliders Image processing nodes for color correction, film grain, chromatic aberration, sharpening, and levels Realtime shader nodes with subgraph blueprints Inline error displays and status badges directly on nodes This foundation also unlocks things that were previously impractical or impossible: Live execution previews on subgraphs Parallel node execution with realtime feedback Richer interfaces for future modalities and workflows Custom Nodes Most custom nodes work unchanged. For nodes that require updates, we’re investing heavily in migration support: A new public frontend API Documentation and migration guides Reference implementations Direct collaboration with node authors to identify gaps We understand this creates additional work for maintainers. For many popular custom nodes, we’re happy to directly help submit PRs and assist with migration work ourselves. Recent advances in coding agents have also made these frontend migrations significantly easier than they would have been even a year ago. Thank you for your patience as we work through this transition together. Timeline There is no fixed cutoff timeline yet. Right now, the priority is being transparent early and giving the ecosystem time to adapt. Current plan: Nodes 2.0 remains opt-in for now ( Settings > Rendering > Nodes 2.0 ) It later becomes the default while legacy mode remains available Eventually, legacy mode will become unmaintained and will likely break over time Going forward, new frontend-focused ComfyUI features will ship exclusively on Nodes 2.0. Feedback Please let us know what you think and the problems you run into. We need testing on complex workflows, large graphs, and custom nodes with unusual rendering. Report issues on GitHub or #bug-reports on Discord 🙏 Once again, thank you all for supporting Comfy. And most importantly, thank you to all the custom node authors who continue making this ecosystem incredibly vibrant, creative, and powerful. submitted by /u/crystal_alpine [link] [comments]",
     "publishedAt": "2026-05-22T18:00:50.000Z",
-    "crawledAt": "2026-06-03T00:25:51.845Z",
+    "crawledAt": "2026-06-03T15:23:27.115Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -324,76 +324,76 @@
     "extractedText": "Hi r/comfyui , Nodes 2.0 has been in beta since last July, and we want to be transparent with the community about where we’re headed. Over time, we plan to gradually make the new interface the default experience in ComfyUI. We know the reception has been mixed. There are many things we handled ineffectively early on, and the team has been working hard over the past months to address them. We appreciate everyone who has continued testing, giving feedback, and pushing us on where the experience falls short. The Problem With Canvas Canvas rendering worked, but it cut us off from everything the modern web has built over the last two decades: component libraries, design systems, accessibility tooling, the entire ecosystem developers rely on to ship fast. Every widget had to be drawn pixel by pixel. Generative AI doesn't sit still. New models, new modalities, new techniques, new ways of combining them. The workflows that made sense six months ago get rethought constantly. Our users are doing professional creative work, and they expect the controls that professional tools have had for years: curve editors, color grading, histograms, timeline scrubbing. We can't keep rebuilding those from scratch. What a Modern Frontend Unlocks With a modern frontend framework, a curve editor that would have taken weeks now takes days. A gradient slider with live preview, hours. Since the Nodes 2.0 beta launched, we’ve already shipped: Curve editors Histogram displays Live cropping UI Before/after comparison sliders Image processing nodes for color correction, film grain, chromatic aberration, sharpening, and levels Realtime shader nodes with subgraph blueprints Inline error displays and status badges directly on nodes This foundation also unlocks things that were previously impractical or impossible: Live execution previews on subgraphs Parallel node execution with realtime feedback Richer interfaces for future modalities and workflows Custom Nodes Most custom nodes work unchanged. For nodes that require updates, we’re investing heavily in migration support: A new public frontend API Documentation and migration guides Reference implementations Direct collaboration with node authors to identify gaps We understand this creates additional work for maintainers. For many popular custom nodes, we’re happy to directly help submit PRs and assist with migration work ourselves. Recent advances in coding agents have also made these frontend migrations significantly easier than they would have been even a year ago. Thank you for your patience as we work through this transition together. Timeline There is no fixed cutoff timeline yet. Right now, the priority is being transparent early and giving the ecosystem time to adapt. Current plan: Nodes 2.0 remains opt-in for now ( Settings > Rendering > Nodes 2.0 ) It later becomes the default while legacy mode remains available Eventually, legacy mode will become unmaintained and will likely break over time Going forward, new frontend-focused ComfyUI features will ship exclusively on Nodes 2.0. Feedback Please let us know what you think and the problems you run into. We need testing on complex workflows, large graphs, and custom nodes with unusual rendering. Report issues on GitHub or #bug-reports on Discord 🙏 Once again, thank you all for supporting Comfy. And most importantly, thank you to all the custom node authors who continue making this ecosystem incredibly vibrant, creative, and powerful. submitted by /u/crystal_alpine [link] [comments]"
   },
   {
-    "id": "src_reddit-comfyui_8120d3a4f395a1dc",
+    "id": "src_reddit-comfyui_97996d9a08d687d7",
     "sourceConfigId": "reddit-comfyui",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tv0yss/i_used_ltx_23_to_make_a_full_characterdriven/",
-    "title": "I used LTX 2.3 to make a full character-driven fantasy story. Info about my experience / process in comments.",
-    "rawSummary": "submitted by /u/foxdit [link] [comments]",
-    "publishedAt": "2026-06-02T19:11:27.000Z",
-    "crawledAt": "2026-06-03T00:25:51.845Z",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tvgrg2/flux2_smartcharacterswap_lora_perfect_lighting/",
+    "title": "[FLUX.2] SmartCharacterSwap LoRA: Perfect lighting sync, handles complex occlusions (hands/veils)",
+    "rawSummary": "Hey r/comfyui ! 👋 Updated example workflow. two custom nodes in workflow: https://github.com/jetthuangai/NH-Nodes.git https://github.com/jetthuangai/ComfyUI-JH-PixelPro.git I just released SmartCharacterSwap , a specialized LoRA adapter for FLUX.2 Klein 9B designed specifically for commercial imaging workflows. Standard swap methods often fail by pasting faces over foreground objects or introducing an uncanny, plastic look. I will soon update a sample workflow for LoRa. p/s: I asked Chat GPT to title this post, and I apologize if your experience doesn't live up to its title. But anyway, please explore this lora. Example Example Workflow 🔗 Download Here 🔗 Workflow here submitted by /u/NHAT-90 [link] [comments]",
+    "publishedAt": "2026-06-03T06:16:19.000Z",
+    "crawledAt": "2026-06-03T15:23:27.115Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "submitted by /u/foxdit [link] [comments]"
+    "extractedText": "Hey r/comfyui ! 👋 Updated example workflow. two custom nodes in workflow: https://github.com/jetthuangai/NH-Nodes.git https://github.com/jetthuangai/ComfyUI-JH-PixelPro.git I just released SmartCharacterSwap , a specialized LoRA adapter for FLUX.2 Klein 9B designed specifically for commercial imaging workflows. Standard swap methods often fail by pasting faces over foreground objects or introducing an uncanny, plastic look. I will soon update a sample workflow for LoRa. p/s: I asked Chat GPT to title this post, and I apologize if your experience doesn't live up to its title. But anyway, please explore this lora. Example Example Workflow 🔗 Download Here 🔗 Workflow here submitted by /u/NHAT-90 [link] [comments]"
   },
   {
-    "id": "src_reddit-comfyui_943bc76bc907a6cb",
+    "id": "src_reddit-comfyui_051ce509403f3c52",
     "sourceConfigId": "reddit-comfyui",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1turnna/i_made_a_bonsaiimage4b2bit_custom_node_for_comfyui/",
-    "title": "I Made a Bonsai-image-4b-2Bit Custom node for ComfyUI..",
-    "rawSummary": "I Made a Bonsai-image-4b-2Bit Custom node for ComfyUI.. Any one interested check the link.. https://github.com/solai25/ComfyUI-Bonsai-4B-2Bit/tree/main I vibe coded the whole node using Gemini-AI... A custom ComfyUI node to run the Bonsai 4B (2-bit Ternary) image generation model locally. This node utilizes optimized Gemlite and HQQ kernels for high-speed inference on Windows/Linux GPU environments. submitted by /u/Solai25 [link] [comments]",
-    "publishedAt": "2026-06-02T13:53:37.000Z",
-    "crawledAt": "2026-06-03T00:25:51.845Z",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tvo5qg/new_t2i_open_weight_model_from_nvidia/",
+    "title": "New t2i open weight model from Nvidia",
+    "rawSummary": "https://preview.redd.it/p4xl474zb25h1.png?width=2304&format=png&auto=webp&s=5cd124fe073b3c9b59800265e6e8617e7cc2fb08 https://huggingface.co/nvidia/Cosmos3-Super-Text2Image if its really better than nano banana pro then this would be huge update submitted by /u/Choice_Celery9481 [link] [comments]",
+    "publishedAt": "2026-06-03T12:41:07.000Z",
+    "crawledAt": "2026-06-03T15:23:27.115Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "I Made a Bonsai-image-4b-2Bit Custom node for ComfyUI.. Any one interested check the link.. https://github.com/solai25/ComfyUI-Bonsai-4B-2Bit/tree/main I vibe coded the whole node using Gemini-AI... A custom ComfyUI node to run the Bonsai 4B (2-bit Ternary) image generation model locally. This node utilizes optimized Gemlite and HQQ kernels for high-speed inference on Windows/Linux GPU environments. submitted by /u/Solai25 [link] [comments]"
+    "extractedText": "https://preview.redd.it/p4xl474zb25h1.png?width=2304&format=png&auto=webp&s=5cd124fe073b3c9b59800265e6e8617e7cc2fb08 https://huggingface.co/nvidia/Cosmos3-Super-Text2Image if its really better than nano banana pro then this would be huge update submitted by /u/Choice_Celery9481 [link] [comments]"
   },
   {
-    "id": "src_reddit-comfyui_9c51ce08cb855ad1",
+    "id": "src_reddit-comfyui_210f625c9672c439",
     "sourceConfigId": "reddit-comfyui",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tv7dah/new_updates_to_my_comfyui_client_android_app_v108/",
-    "title": "New updates to my ComfyUI Client android app! v1.0.8 beta! 🎨📱",
-    "rawSummary": "New updates to my ComfyUI Client android app! v1.0.8 beta! 🎨📱 Hey everyone, I wanted to share my project: **ComfyUI Client**, a native Android app to run your ComfyUI workflows directly from your phone or tablet. Let's be real: trying to use ComfyUI's web interface on a mobile browser is a total nightmare. Dragging connection noodles on a tiny screen or manually configuring Node 2.0 apps for every workflow is just too much work. I wanted a simple, touch-friendly \"prompt and go\" setup, so I built this. I'm not a professional developer, so I actually co-created this app with Google DeepMind’s **Antigravity** coding assistant using **Gemini 3.5 Flash** on high settings. It was a fun \"vibe-coded\" effort driven by pure laziness and a need to generate images from the couch. ### What's new since v1.0.1: * **Run on Serverless GPUs**: Directly connect to **ComfyDeploy**, **RunPod**, or **Fal.ai** if your local GPU is struggling. * **Gemini Vision Refiner**: An in-app vision chat assistant. Dictate changes, upload reference photos, and get prompt suggestions. * **Queue Controls**: Float queue button with clear options to \"Clear Queue\" (clears waiting jobs) or \"Stop All\" (aborts current execution immediately). * **Auto API Converter**: We parse standard UI workflows (nodes and links) and convert them to server-ready API JSON formats on the fly. * **Encrypted Storage**: All sensitive API keys are encrypted on your device. No plaintext keys, ever. --- ### Try it out! 🚀 If you want to check it out: 👉 **[comfyui-client-android on GitHub]( https://github.com/williamcboehmjr/comfyui-client-android)\\*\\* Grab the **debug APK** from the GitHub releases page, give it a spin, and let me know what you think! I'd love to hear your feedback. submitted by /u/giantcandy2001 [link] [comments]",
-    "publishedAt": "2026-06-02T23:07:16.000Z",
-    "crawledAt": "2026-06-03T00:25:51.845Z",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tvp7ra/i_built_a_zerosetup_zeroparameter_windows_lora/",
+    "title": "I built a zero-setup, zero-parameter Windows LoRA trainer",
+    "rawSummary": "I’m building TutuTrainer, a standalone Windows LoRA training tool for AI creators. https://preview.redd.it/7ulyvswcj25h1.png?width=3470&format=png&auto=webp&s=6ba0fc74017961443a795f39512ab3eca5bfcb48 It is not a ComfyUI node and it is not meant to replace ComfyUI. The goal is to make LoRA training easier for creators who want a simpler desktop workflow before using the trained LoRA in their image generation pipeline. A few things I focused on: Custom timestep optimization For many model types, TutuTrainer uses a custom training strategy I call Tutu Timesteps. It is based on testing different model behaviors and timestep ranges, then applying settings that are better matched to the model being trained. In my own tests, this often produced more stable or better-looking results compared with more generic training settings. Automatic parameter setup The trainer is designed so users do not need to manually tune most training parameters. It automatically adjusts settings based on the selected model, training task, and hardware environment, including VRAM-related optimization. Simple Windows installation The installation process is basically next-next-finish. The installer may appear in Chinese depending on the build, but the application itself supports both English and Chinese. Built-in update system TutuTrainer includes its own update system, so users can continue receiving improvements without manually reinstalling everything each time. During development, I learned a lot from excellent projects and authors, including AI Toolkit / AITK, kohya-ss / sd-scripts, and many other LoRA training tools and scripts. TutuTrainer would not exist without the work shared by these builders. installer: https://zhaotutu.xyz/downloads/tututrainer/ I’d really appreciate feedback from people who train LoRAs or use ComfyUI regularly, especially around where the training workflow still feels confusing, fragile, or too technical. submitted by /u/Dorisl_Scott [link] [comments]",
+    "publishedAt": "2026-06-03T13:22:04.000Z",
+    "crawledAt": "2026-06-03T15:23:27.115Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "New updates to my ComfyUI Client android app! v1.0.8 beta! 🎨📱 Hey everyone, I wanted to share my project: **ComfyUI Client**, a native Android app to run your ComfyUI workflows directly from your phone or tablet. Let's be real: trying to use ComfyUI's web interface on a mobile browser is a total nightmare. Dragging connection noodles on a tiny screen or manually configuring Node 2.0 apps for every workflow is just too much work. I wanted a simple, touch-friendly \"prompt and go\" setup, so I built this. I'm not a professional developer, so I actually co-created this app with Google DeepMind’s **Antigravity** coding assistant using **Gemini 3.5 Flash** on high settings. It was a fun \"vibe-coded\" effort driven by pure laziness and a need to generate images from the couch. ### What's new since v1.0.1: * **Run on Serverless GPUs**: Directly connect to **ComfyDeploy**, **RunPod**, or **Fal.ai** if your local GPU is struggling. * **Gemini Vision Refiner**: An in-app vision chat assistant. Dictate changes, upload reference photos, and get prompt suggestions. * **Queue Controls**: Float queue button with clear options to \"Clear Queue\" (clears waiting jobs) or \"Stop All\" (aborts current execution immediately). * **Auto API Converter**: We parse standard UI workflows (nodes and links) and convert them to server-ready API JSON formats on the fly. * **Encrypted Storage**: All sensitive API keys are encrypted on your device. No plaintext keys, ever. --- ### Try it out! 🚀 If you want to check it out: 👉 **[comfyui-client-android on GitHub]( https://github.com/williamcboehmjr/comfyui-client-android)\\*\\* Grab the **debug APK** from the GitHub releases page, give it a spin, and let me know what you think! I'd love to hear your feedback. submitted by /u/giantcandy2001 [link] [comments]"
+    "extractedText": "I’m building TutuTrainer, a standalone Windows LoRA training tool for AI creators. https://preview.redd.it/7ulyvswcj25h1.png?width=3470&format=png&auto=webp&s=6ba0fc74017961443a795f39512ab3eca5bfcb48 It is not a ComfyUI node and it is not meant to replace ComfyUI. The goal is to make LoRA training easier for creators who want a simpler desktop workflow before using the trained LoRA in their image generation pipeline. A few things I focused on: Custom timestep optimization For many model types, TutuTrainer uses a custom training strategy I call Tutu Timesteps. It is based on testing different model behaviors and timestep ranges, then applying settings that are better matched to the model being trained. In my own tests, this often produced more stable or better-looking results compared with more generic training settings. Automatic parameter setup The trainer is designed so users do not need to manually tune most training parameters. It automatically adjusts settings based on the selected model, training task, and hardware environment, including VRAM-related optimization. Simple Windows installation The installation process is basically next-next-finish. The installer may appear in Chinese depending on the build, but the application itself supports both English and Chinese. Built-in update system TutuTrainer includes its own update system, so users can continue receiving improvements without manually reinstalling everything each time. During development, I learned a lot from excellent projects and authors, including AI Toolkit / AITK, kohya-ss / sd-scripts, and many other LoRA training tools and scripts. TutuTrainer would not exist without the work shared by these builders. installer: https://zhaotutu.xyz/downloads/tututrainer/ I’d really appreciate feedback from people who train LoRAs or use ComfyUI regularly, especially around where the training workflow still feels confusing, fragile, or too technical. submitted by /u/Dorisl_Scott [link] [comments]"
   },
   {
-    "id": "src_reddit-comfyui_10f5f90a2dcd8efd",
+    "id": "src_reddit-comfyui_211fcdb4554ed9d0",
     "sourceConfigId": "reddit-comfyui",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tv58g0/z_image_turbo_character_bodytype_lora/",
-    "title": "Z Image Turbo. Character bodytype LoRA.",
-    "rawSummary": "So I'm not an expert but not unitiated into making character LoRA for ZIT. However, I'm experimenting with something and it's kicking my butt. I have a full-figured character, and I want to train a LoRA of her. I have images including a small set (12) of facial closeups, a small set (20) of studio turnaround (like a full body character sheet) and then a larger (60) collection of curated images of the character in various candid scenarios, various outfits, positions, lighting, etc. I've tried captioning with mentioning the body type and without mentioning it, since I keep finding conflicting information on whats best. Both methods result in a character with exactly the right face and hair, but a rail thin body. I'm using the latest ai-toolkit, and I've let it go for 3000-4000 steps and it didn't seem to be getting any closer to the body type of the character. Any tips? submitted by /u/arthropal [link] [comments]",
-    "publishedAt": "2026-06-02T21:45:02.000Z",
-    "crawledAt": "2026-06-03T00:25:51.845Z",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/comments/1tvm3yi/question_about_making_series_of_images/",
+    "title": "Question about making series of images",
+    "rawSummary": "I'm new to ai image generation, and I'm looking for some advice. I want to make a set of images that all have the same character. I'm using anima to make the first image. From there I want to make a series of images with the same original character. I'm not sure what would be the easiest way to go about this. I was thinking that making an image to image workflow would be my best bet over training a custom lora for every single OC I make. But I'm not sure where to start. Any recommendations would be greatly appreciated. Like what models to try or other tips. submitted by /u/UncompassionateTime [link] [comments]",
+    "publishedAt": "2026-06-03T11:09:58.000Z",
+    "crawledAt": "2026-06-03T15:23:27.115Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "So I'm not an expert but not unitiated into making character LoRA for ZIT. However, I'm experimenting with something and it's kicking my butt. I have a full-figured character, and I want to train a LoRA of her. I have images including a small set (12) of facial closeups, a small set (20) of studio turnaround (like a full body character sheet) and then a larger (60) collection of curated images of the character in various candid scenarios, various outfits, positions, lighting, etc. I've tried captioning with mentioning the body type and without mentioning it, since I keep finding conflicting information on whats best. Both methods result in a character with exactly the right face and hair, but a rail thin body. I'm using the latest ai-toolkit, and I've let it go for 3000-4000 steps and it didn't seem to be getting any closer to the body type of the character. Any tips? submitted by /u/arthropal [link] [comments]"
+    "extractedText": "I'm new to ai image generation, and I'm looking for some advice. I want to make a set of images that all have the same character. I'm using anima to make the first image. From there I want to make a series of images with the same original character. I'm not sure what would be the easiest way to go about this. I was thinking that making an image to image workflow would be my best bet over training a custom lora for every single OC I make. But I'm not sure where to start. Any recommendations would be greatly appreciated. Like what models to try or other tips. submitted by /u/UncompassionateTime [link] [comments]"
   },
   {
     "id": "src_runway-research_4c72ae34dd32cd2b",
@@ -403,8 +403,8 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-06-03T00:25:51.226Z",
-    "crawledAt": "2026-06-03T00:25:51.226Z",
+    "publishedAt": "2026-06-03T15:23:25.691Z",
+    "crawledAt": "2026-06-03T15:23:25.691Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -421,15 +421,15 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Pika blog",
     "rawSummary": "Discover stories, experiments, and insights from the Pika community",
-    "publishedAt": "2026-06-03T00:25:51.373Z",
-    "crawledAt": "2026-06-03T00:25:51.373Z",
+    "publishedAt": "2026-06-03T15:23:26.037Z",
+    "crawledAt": "2026-06-03T15:23:26.037Z",
     "categoryHints": [
       "ai-video"
     ],
     "score": 0.82,
     "crawlStatus": "live",
     "extractedText": "Pika blog Careers Contact Us API Login Sign Up Careers Contact Us API Login Sign Up BLOG For creators, by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us. It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen. Jun 5, 2024 Be the first to hear about Pika updates Get Our Newsletter Company Careers Contact Us Pricing Blog API Connect Discord Instagram X YouTube Facebook TikTok Terms of Service Pika © 2026 . All rights reserved. Acceptable Use Policy Privacy Policy",
-    "imageUrl": "https://pika-51u932byy-pika-labs.vercel.app/images/og.jpeg"
+    "imageUrl": "https://pika-g327rgcjf-pika-labs.vercel.app/images/og.jpeg"
   },
   {
     "id": "src_luma-blog_c7449029956c34f9",
@@ -439,8 +439,8 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-06-03T00:25:52.288Z",
-    "crawledAt": "2026-06-03T00:25:52.288Z",
+    "publishedAt": "2026-06-03T15:23:26.243Z",
+    "crawledAt": "2026-06-03T15:23:26.243Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -458,7 +458,7 @@
     "title": "Featured Titles + Latest Releases",
     "rawSummary": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/browsecarousel [link] [comments]",
     "publishedAt": "2026-05-13T06:38:36.000Z",
-    "crawledAt": "2026-06-03T00:25:51.872Z",
+    "crawledAt": "2026-06-03T15:23:26.301Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -476,7 +476,7 @@
     "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
     "rawSummary": ". AI VIDEO AWARDS 2026 🏆🤩 . UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R . 🎸 LIVE APPEARANCES BY: . WHISKERS THE CAT MIND OVER IMAGES ANDY RIFFETH WACKY TUBE MAN FALLING KNIFE FILMS BOTS IN THE HALL SELENA LOPEZ KNGMKR TONYA & TRISHA CODE AMBER IRWIN M J . 🏆 CURRENT 2026 AWARD NOMINEES ( LIST MAY CHANGE DUE TO VOTING AND NEW CONTENT SUBMITTED ): . 🤯 MINDBLOWING VIDEO OF THE YEAR Category Includes: CRAZY / MINDBLOWING + HORROR + MEME + VIDEOGAME . HeroHusky \"AI Chiropractor\" 🔥 https://www.reddit.com/r/aivideo/comments/1omdf0l/ai_chiropractor/ . NekoChan \"Fast Food Worker From the Feline Community\" 🔥 https://www.reddit.com/r/aivideo/comments/1j4l2hd/fast_food_worker_from_the_feline_community/ . Unknown \"No More Concerts\" 🔥 https://www.reddit.com/r/aivideo/comments/1oxezic/the_didgeridoo/ . Eslop \"Tube Man Exposed\" 🔥 https://www.reddit.com/r/aivideo/comments/1p67r1r/tube_man_exposed/ . Unknown \"Bong Smoking Olympics\" 🔥 https://www.reddit.com/r/aivideo/comments/1o2bvi9/bong_smoking_olympics/ . 📀 MUSIC VIDEO OF THE YEAR . Synthetic Collective \"Take More Dr*gs\" 🔥 https://www.reddit.com/r/aivideo/comments/1ohk6xx/take_more_drugs/ . Promise AI \"Is This AI or Not?\" 🔥 https://www.reddit.com/r/aivideo/comments/1nn80vf/is_this_ai_or_not/ . Andy Riffeth \"Boys In Blue\" 🔥 https://www.reddit.com/r/aivideo/comments/1j3kpsa/half_naked_women_get_thousands_of_views_how_many/ . Mind Over Images \"F*ck It, I’m the Problem\" 🔥 https://www.reddit.com/r/aivideo/comments/1pdwl3p/fuck_it_im_the_problem/ . Neural Hours \"Wash The Snorp\" 🔥 https://www.reddit.com/r/aivideo/comments/1lrwpu5/wash_the_snorp/ . 🍔 TV AD OF THE YEAR . Nimrod Animations \"The Future of Intimacy\" 🔥 https://www.reddit.com/r/aivideo/comments/1oi8sd8/the_future_of_intimacy/ . PJ Accetturo \"Puppramin\" 🔥 https://www.reddit.com/r/aivideo/comments/1kslhy3/i_used_to_make_500k_in_pharmaceutical_commercial/ . Ok Injury \"Beer Tree\" 🔥 https://www.reddit.com/r/aivideo/comments/1ofk04l/beer_tree/ . Jhonny Darrell \"Geriatric Meltdown 2000\" 🔥 https://www.reddit.com/r/aivideo/comments/1k3q62k/geriatric_meltdown_2000/ . Perfectly Unreal AI \"Maid Service\" 🔥 https://www.reddit.com/r/aivideo/comments/1or34al/bikini_babes_maids_service_mostly_used_klingai/ . 🍟 TV SHOW OF THE YEAR Category Includes: TV SHOW + DOCUMENTARY + ANIME . Qemmish \"How Toothpaste Is Made\" 🔥 https://www.reddit.com/r/aivideo/comments/1jujzh2/how_toothpaste_is_made/ . Code Samurai \"Interdimensional Cable\" 🔥 https://www.reddit.com/r/aivideo/comments/1ks2jp9/interdimensional_cable_veo_3/ . Darri 3D \"America’s Funniest AI Home Videos – Episode 1\" 🔥 https://www.reddit.com/r/aivideo/comments/1kjp3is/americas_funniest_ai_home_videos_episode_1/ . Gorm The Old \"Mr. Rogers at the Battle of Agincourt\" 🔥 https://www.reddit.com/r/aivideo/comments/1nwzxfq/mr_rogers_at_the_battle_of_agincourt/ . I Only Like Giraffes \"ADHtv\" 🔥 https://www.reddit.com/r/aivideo/comments/1oqae7p/channel_surfing_through_alternate_dimensions_full/ . 😂 COMEDY OF THE YEAR Category Includes: COMEDY SKETCH / PARODY + COMEDY STAND UP . DOTM Society \"Hood Tours\" 🔥 https://www.reddit.com/r/aivideo/comments/1ojkdal/hood_tours/ . Middle Detective \"Boomers Selling Their Home\" 🔥 https://www.reddit.com/r/aivideo/comments/1mnxltw/boomers_selling_their_home_in_2025/ . Barely Standing Up \"Babies Doing Stand Up\" 🔥 https://www.reddit.com/r/aivideo/comments/1omwute/babies_doing_standup/ . Solopops \"Fast Food Wars\" 🔥 https://www.reddit.com/r/aivideo/comments/1pfuclp/mcdo_vs_kfc_a_fast_food_war_film/ . Krogg Rage \"Oh Yeah, That’s Powerful\" 🔥 https://www.reddit.com/r/aivideo/comments/1pghs10/with_great_power_comes_great_accountability/ . 🍿 MOVIE TRAILER OF THE YEAR . Jurassic Smoothie \"Collect and Liquify\" 🔥 https://www.reddit.com/r/aivideo/comments/1luxcv5/collect_and_liquify/ . Neuro Dreams Exe \"The Awakening\" 🔥 https://www.reddit.com/r/aivideo/comments/1nsrjax/the_awakening/ . Eat The Ethos \"Seraphys\" 🔥 https://www.reddit.com/r/aivideo/comments/1l9wgr7/trailer_for_the_ai_show_seraphys/ . Neilchacho \"Dick Gun\" 🔥 https://www.reddit.com/r/aivideo/comments/1m0uopa/dick_gun_official_trailer_one_mans_junk_is/ . Daryl Wein \"Beer A Geddon\" 🔥 https://www.reddit.com/r/aivideo/comments/1kw33sh/insane_memorial_day_movie_trailer/ . 🎬 MOVIE OF THE YEAR . Eat The Ethos \"The Internet Is Dead\" 🔥 https://www.reddit.com/r/aivideo/comments/1kwt2cv/the_internet_is_dead/ . Gossip Goblin \"The Thirteenth Cycle of Humanity\" 🔥 https://www.reddit.com/r/aivideo/comments/1lkax2e/the_thirteenth_cycle_of_humanity/ . Darri 3D \"Cardboarding\" 🔥 https://www.reddit.com/r/aivideo/comments/1mt8v39/carboarding/ . Solopops \"Egg Protein\" 🔥 https://www.reddit.com/r/aivideo/comments/1q6mmpg/egg_protein_my_weirdest_ai_film/ . 1pcity Studios \"AI Blockbusters — Theme Park Collapse\" 🔥 https://www.reddit.com/r/aivideo/comments/1mjw7hm/theme_park_collapse/ . WATCH THE AI VIDEO AWARDS 2026 SUNDAY MARCH 15th — AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) . 🥳 OFFICIAL AI VIDEO AWARDS 2026 AFTERPARTY . OFFICIAL AI VIDEO AWARDS AFTERPARTY will be held at the Ghost Bar in the Palms Casino in Las Vegas the night of the awards, this is an invite-only ai video industry event for AI creators who are NOMINATED, PRESENTING or PERFORMING at the ceremony along with their production teams. Please get in touch with the mod team for details. . submitted by /u/ZashManson [link] [comments]",
     "publishedAt": "2026-01-15T08:28:02.000Z",
-    "crawledAt": "2026-06-03T00:25:51.872Z",
+    "crawledAt": "2026-06-03T15:23:26.301Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -486,22 +486,40 @@
     "extractedText": ". AI VIDEO AWARDS 2026 🏆🤩 . UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R . 🎸 LIVE APPEARANCES BY: . WHISKERS THE CAT MIND OVER IMAGES ANDY RIFFETH WACKY TUBE MAN FALLING KNIFE FILMS BOTS IN THE HALL SELENA LOPEZ KNGMKR TONYA & TRISHA CODE AMBER IRWIN M J . 🏆 CURRENT 2026 AWARD NOMINEES ( LIST MAY CHANGE DUE TO VOTING AND NEW CONTENT SUBMITTED ): . 🤯 MINDBLOWING VIDEO OF THE YEAR Category Includes: CRAZY / MINDBLOWING + HORROR + MEME + VIDEOGAME . HeroHusky \"AI Chiropractor\" 🔥 https://www.reddit.com/r/aivideo/comments/1omdf0l/ai_chiropractor/ . NekoChan \"Fast Food Worker From the Feline Community\" 🔥 https://www.reddit.com/r/aivideo/comments/1j4l2hd/fast_food_worker_from_the_feline_community/ . Unknown \"No More Concerts\" 🔥 https://www.reddit.com/r/aivideo/comments/1oxezic/the_didgeridoo/ . Eslop \"Tube Man Exposed\" 🔥 https://www.reddit.com/r/aivideo/comments/1p67r1r/tube_man_exposed/ . Unknown \"Bong Smoking Olympics\" 🔥 https://www.reddit.com/r/aivideo/comments/1o2bvi9/bong_smoking_olympics/ . 📀 MUSIC VIDEO OF THE YEAR . Synthetic Collective \"Take More Dr*gs\" 🔥 https://www.reddit.com/r/aivideo/comments/1ohk6xx/take_more_drugs/ . Promise AI \"Is This AI or Not?\" 🔥 https://www.reddit.com/r/aivideo/comments/1nn80vf/is_this_ai_or_not/ . Andy Riffeth \"Boys In Blue\" 🔥 https://www.reddit.com/r/aivideo/comments/1j3kpsa/half_naked_women_get_thousands_of_views_how_many/ . Mind Over Images \"F*ck It, I’m the Problem\" 🔥 https://www.reddit.com/r/aivideo/comments/1pdwl3p/fuck_it_im_the_problem/ . Neural Hours \"Wash The Snorp\" 🔥 https://www.reddit.com/r/aivideo/comments/1lrwpu5/wash_the_snorp/ . 🍔 TV AD OF THE YEAR . Nimrod Animations \"The Future of Intimacy\" 🔥 https://www.reddit.com/r/aivideo/comments/1oi8sd8/the_future_of_intimacy/ . PJ Accetturo \"Puppramin\" 🔥 https://www.reddit.com/r/aivideo/comments/1kslhy3/i_used_to_make_500k_in_pharmaceutical_commercial/ . Ok Injury \"Beer Tree\" 🔥 https://www.reddit.com/r/aivideo/comments/1ofk04l/beer_tree/ . Jhonny Darrell \"Geriatric Meltdown 2000\" 🔥 https://www.reddit.com/r/aivideo/comments/1k3q62k/geriatric_meltdown_2000/ . Perfectly Unreal AI \"Maid Service\" 🔥 https://www.reddit.com/r/aivideo/comments/1or34al/bikini_babes_maids_service_mostly_used_klingai/ . 🍟 TV SHOW OF THE YEAR Category Includes: TV SHOW + DOCUMENTARY + ANIME . Qemmish \"How Toothpaste Is Made\" 🔥 https://www.reddit.com/r/aivideo/comments/1jujzh2/how_toothpaste_is_made/ . Code Samurai \"Interdimensional Cable\" 🔥 https://www.reddit.com/r/aivideo/comments/1ks2jp9/interdimensional_cable_veo_3/ . Darri 3D \"America’s Funniest AI Home Videos – Episode 1\" 🔥 https://www.reddit.com/r/aivideo/comments/1kjp3is/americas_funniest_ai_home_videos_episode_1/ . Gorm The Old \"Mr. Rogers at the Battle of Agincourt\" 🔥 https://www.reddit.com/r/aivideo/comments/1nwzxfq/mr_rogers_at_the_battle_of_agincourt/ . I Only Like Giraffes \"ADHtv\" 🔥 https://www.reddit.com/r/aivideo/comments/1oqae7p/channel_surfing_through_alternate_dimensions_full/ . 😂 COMEDY OF THE YEAR Category Includes: COMEDY SKETCH / PARODY + COMEDY STAND UP . DOTM Society \"Hood Tours\" 🔥 https://www.reddit.com/r/aivideo/comments/1ojkdal/hood_tours/ . Middle Detective \"Boomers Selling Their Home\" 🔥 https://www.reddit.com/r/aivideo/comments/1mnxltw/boomers_selling_their_home_in_2025/ . Barely Standing Up \"Babies Doing Stand Up\" 🔥 https://www.reddit.com/r/aivideo/comments/1omwute/babies_doing_standup/ . Solopops \"Fast Food Wars\" 🔥 https://www.reddit.com/r/aivideo/comments/1pfuclp/mcdo_vs_kfc_a_fast_food_war_film/ . Krogg Rage \"Oh Yeah, That’s Powerful\" 🔥 https://www.reddit.com/r/aivideo/comments/1pghs10/with_great_power_comes_great_accountability/ . 🍿 MOVIE TRAILER OF THE YEAR . Jurassic Smoothie \"Collect and Liquify\" 🔥 https://www.reddit.com/r/aivideo/comments/1luxcv5/collect_and_liquify/ . Neuro Dreams Exe \"The Awakening\" 🔥 https://www.reddit.com/r/aivideo/comments/1nsrjax/the_awakening/ . Eat The Ethos \"Seraphys\" 🔥 https://www.reddit.com/r/aivideo/comments/1l9wgr7/trailer_for_the_ai_show_seraphys/ . Neilchacho \"Dick Gun\" 🔥 https://www.reddit.com/r/aivideo/comments/1m0uopa/dick_gun_official_trailer_one_mans_junk_is/ . Daryl Wein \"Beer A Geddon\" 🔥 https://www.reddit.com/r/aivideo/comments/1kw33sh/insane_memorial_day_movie_trailer/ . 🎬 MOVIE OF THE YEAR . Eat The Ethos \"The Internet Is Dead\" 🔥 https://www.reddit.com/r/aivideo/comments/1kwt2cv/the_internet_is_dead/ . Gossip Goblin \"The Thirteenth Cycle of Humanity\" 🔥 https://www.reddit.com/r/aivideo/comments/1lkax2e/the_thirteenth_cycle_of_humanity/ . Darri 3D \"Cardboarding\" 🔥 https://www.reddit.com/r/aivideo/comments/1mt8v39/carboarding/ . Solopops \"Egg Protein\" 🔥 https://www.reddit.com/r/aivideo/comments/1q6mmpg/egg_protein_my_weirdest_ai_film/ . 1pcity Studios \"AI Blockbusters — Theme Park Collapse\" 🔥 https://www.reddit.com/r/aivideo/comments/1mjw7hm/theme_park_collapse/ . WATCH THE AI VIDEO AWARDS 2026 SUNDAY MARCH 15th — AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) . 🥳 OFFICIAL AI VIDEO AWARDS 2026 AFTERPARTY . OFFICIAL AI VIDEO AWARDS AFTERPARTY will be held at the Ghost Bar in the Palms Casino in Las Vegas the night of the awards, this is an invite-only ai video industry event for AI creators who are NOMINATED, PRESENTING or PERFORMING at the ceremony along with their production teams. Please get in touch with the mod team for details. . submitted by /u/ZashManson [link] [comments]"
   },
   {
-    "id": "src_reddit-aivideo_bb04124baa6dead5",
+    "id": "src_reddit-aivideo_c697a28ff6fad11b",
     "sourceConfigId": "reddit-aivideo",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tuse8b/daddy_drinks/",
-    "title": "Daddy Drinks",
-    "rawSummary": "submitted by /u/dallascod [link] [comments]",
-    "publishedAt": "2026-06-02T14:20:03.000Z",
-    "crawledAt": "2026-06-03T00:25:51.872Z",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tvggv3/poseidons_petting_zoo_deepwater_preserve/",
+    "title": "Poseidon's Petting Zoo Deepwater Preserve",
+    "rawSummary": "submitted by /u/DobbyTheJedi [link] [comments]",
+    "publishedAt": "2026-06-03T06:00:45.000Z",
+    "crawledAt": "2026-06-03T15:23:26.301Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "submitted by /u/dallascod [link] [comments]"
+    "extractedText": "submitted by /u/DobbyTheJedi [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aivideo_be1d924a5cb8ebd9",
+    "sourceConfigId": "reddit-aivideo",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tvnegb/knd_hell_ai_music_video/",
+    "title": "KND - HELL [AI MUSIC VIDEO]",
+    "rawSummary": "submitted by /u/GameLounge [link] [comments]",
+    "publishedAt": "2026-06-03T12:09:17.000Z",
+    "crawledAt": "2026-06-03T15:23:26.301Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "submitted by /u/GameLounge [link] [comments]"
   },
   {
     "id": "src_reddit-aivideo_265cf1de6dc14af4",
@@ -512,7 +530,7 @@
     "title": "Anomaly Archive 034",
     "rawSummary": "submitted by /u/misterXCV [link] [comments]",
     "publishedAt": "2026-06-02T17:03:53.000Z",
-    "crawledAt": "2026-06-03T00:25:51.872Z",
+    "crawledAt": "2026-06-03T15:23:26.301Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -522,24 +540,6 @@
     "extractedText": "submitted by /u/misterXCV [link] [comments]"
   },
   {
-    "id": "src_reddit-aivideo_23c32a41b4ae97cc",
-    "sourceConfigId": "reddit-aivideo",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "sourceUrl": "https://www.reddit.com/r/aivideo/comments/1tv4wrn/galactana/",
-    "title": "Galactana",
-    "rawSummary": "submitted by /u/Orichalchem [link] [comments]",
-    "publishedAt": "2026-06-02T21:33:01.000Z",
-    "crawledAt": "2026-06-03T00:25:51.872Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "score": 0.6,
-    "crawlStatus": "live",
-    "extractedText": "submitted by /u/Orichalchem [link] [comments]"
-  },
-  {
     "id": "src_cursor-changelog_99cdbb7e2d70df11",
     "sourceConfigId": "cursor-changelog",
     "sourceType": "blog",
@@ -547,8 +547,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-06-03T00:25:51.427Z",
-    "crawledAt": "2026-06-03T00:25:51.427Z",
+    "publishedAt": "2026-06-03T15:23:26.164Z",
+    "crawledAt": "2026-06-03T15:23:26.164Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,8 +565,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs.",
-    "publishedAt": "2026-06-03T00:25:51.622Z",
-    "crawledAt": "2026-06-03T00:25:51.622Z",
+    "publishedAt": "2026-06-03T15:23:25.738Z",
+    "crawledAt": "2026-06-03T15:23:25.738Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -582,8 +582,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-06-03T00:25:51.652Z",
-    "crawledAt": "2026-06-03T00:25:51.652Z",
+    "publishedAt": "2026-06-03T15:23:26.048Z",
+    "crawledAt": "2026-06-03T15:23:26.048Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -601,8 +601,8 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
     "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
-    "publishedAt": "2026-06-03T00:25:51.652Z",
-    "crawledAt": "2026-06-03T00:25:51.652Z",
+    "publishedAt": "2026-06-03T15:23:26.344Z",
+    "crawledAt": "2026-06-03T15:23:26.344Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -619,8 +619,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
     "rawSummary": "News and updates from the Comfy team. Click to read ComfyUI Blog, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-06-03T00:25:51.241Z",
-    "crawledAt": "2026-06-03T00:25:51.241Z",
+    "publishedAt": "2026-06-03T15:23:26.024Z",
+    "crawledAt": "2026-06-03T15:23:26.024Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -639,7 +639,7 @@
     "title": "V8.1 Alpha is out!",
     "rawSummary": "Thanks for testing our V8.0 model over the last month! Today we're releasing our next version of V8 - V8.1 What’s new in V8.1? V8.1 has a consistent and familiar aesthetic in the spirit of V7 . Moodboards and srefs are now super stable and will be everything you love. HD mode is now 3x faster and 3x cheaper . It’s so cheap we’re making it default for V8.1 Standard resolution is now 50% faster and 25% cheaper . Standard resolution in V8.1 at full quality is as fast as V7 draft mode! It’s great for exploring and iterating *fast*. We’ve also added a button called “Run as HD” which will rerun any SD job as HD. We’ve also brought back some community favorite features Image prompts and even image weights are now available in V8.1 New Prompt Shortener , which will kick in anytime you go over the prompt length limits Updated Describe that gives longer more detailed prompts and matches the prompting style of V8 Please Note: Our V8 series of models are still only available on alpha.midjourney.com and are in an early testing phase. Things will change! Perhaps without notice! But good stuff is on the way. It is likely that we will decommission our V8.0 model after V8.1 has been out for a few weeks. If you find something the old model did better than the new one please let us know on our discord server! What’s next? We’re going to try to give a quick shot for some V8 upscalers and then we’re moving onto our V8 edit, inpainting, and outpainting model upgrades. Have fun everyone! And thank you for being a part of our community submitted by /u/Fnuckle [link] [comments]",
     "publishedAt": "2026-04-14T21:44:04.000Z",
-    "crawledAt": "2026-06-03T00:25:52.554Z",
+    "crawledAt": "2026-06-03T15:23:27.202Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -657,7 +657,7 @@
     "title": "V8 alpha is here!",
     "rawSummary": "Hey y'all! Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com . We want your feedback and your help. Let’s explore what this new model can do! V8 is an incredible model. It’s much better at following detailed directions and will still surprise you when you ask. Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing. Images are more coherent and detailed. Text rendering works better than ever (when specified in “quotes”). And image generation is ~5x faster than before. We’ve upgraded our web interfaces to support this speed. And more is coming. We have an improved conversation mode so you can just ‘talk’ in flow, a “Grid Mode” so you can focus on a single big set of images, and we’ve moved our settings into ‘sidebars’ so you can tweak settings without blocking your view. V8 launches with support for multiple aspect ratios, --chaos, --weird, --exp, --raw . We support backwards compatibility with your V7 personalization profiles, moodboards, and srefs. V8 brings a new --hd mode which natively renders images at 2K resolution and a --q 4 mode if you need a little bit of extra coherence. Modes and Pricing: Presently, Relax is not yet supported. We are working on a new server cluster for Relax plus cheaper render modes. --HD, --Q4, SREF, and Moodboard jobs are 4x as slow as regular jobs and each costs 4x (for now). The best way to help us improve V8 is to rate images in the lightbox. Click an image in create then click “I like this image” “I don't like this image” on as many of your V8 images as possible. You can use 1/2/3 hotkeys and arrow keys to rate images quickly. Other Tips and Tricks: If you’re going for photos or a more ‘plain’ or ‘in control’ look we’d recommend switching to --raw right away or using moodboards or srefs to control your style. We’re still working on the ‘default’ aesthetics of V8, but we strongly encourage you to use your personalization and even crank it to –stylize 1000 asap. V8 is going to shine most right now when you rely heavily on our stylization systems and when you trend towards longer more specific prompting. Please Note : This is an entirely new model with unique strengths and weaknesses, we want to learn from you what it's good and bad at but keep in mind it may require totally new prompting styles. So play around a bit! It’s time to play! Show off what you’re making by using the V8 alpha flair. As the model becomes more mature, we’ll do a community-wide roadmap ranking session to help us figure out what to prioritize next. Thanks again for everyone’s help with the V8 pre-release rating parties, and thank you so much for being a part of Midjourney! Let’s have fun out there and find new wonders on this vast and shared sea of imagination. submitted by /u/Fnuckle [link] [comments]",
     "publishedAt": "2026-03-17T21:39:40.000Z",
-    "crawledAt": "2026-06-03T00:25:52.554Z",
+    "crawledAt": "2026-06-03T15:23:27.202Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -667,51 +667,51 @@
     "extractedText": "Hey y'all! Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com . We want your feedback and your help. Let’s explore what this new model can do! V8 is an incredible model. It’s much better at following detailed directions and will still surprise you when you ask. Its ability to understand your aesthetics through personalization, style references (srefs) and moodboards is amazing. Images are more coherent and detailed. Text rendering works better than ever (when specified in “quotes”). And image generation is ~5x faster than before. We’ve upgraded our web interfaces to support this speed. And more is coming. We have an improved conversation mode so you can just ‘talk’ in flow, a “Grid Mode” so you can focus on a single big set of images, and we’ve moved our settings into ‘sidebars’ so you can tweak settings without blocking your view. V8 launches with support for multiple aspect ratios, --chaos, --weird, --exp, --raw . We support backwards compatibility with your V7 personalization profiles, moodboards, and srefs. V8 brings a new --hd mode which natively renders images at 2K resolution and a --q 4 mode if you need a little bit of extra coherence. Modes and Pricing: Presently, Relax is not yet supported. We are working on a new server cluster for Relax plus cheaper render modes. --HD, --Q4, SREF, and Moodboard jobs are 4x as slow as regular jobs and each costs 4x (for now). The best way to help us improve V8 is to rate images in the lightbox. Click an image in create then click “I like this image” “I don't like this image” on as many of your V8 images as possible. You can use 1/2/3 hotkeys and arrow keys to rate images quickly. Other Tips and Tricks: If you’re going for photos or a more ‘plain’ or ‘in control’ look we’d recommend switching to --raw right away or using moodboards or srefs to control your style. We’re still working on the ‘default’ aesthetics of V8, but we strongly encourage you to use your personalization and even crank it to –stylize 1000 asap. V8 is going to shine most right now when you rely heavily on our stylization systems and when you trend towards longer more specific prompting. Please Note : This is an entirely new model with unique strengths and weaknesses, we want to learn from you what it's good and bad at but keep in mind it may require totally new prompting styles. So play around a bit! It’s time to play! Show off what you’re making by using the V8 alpha flair. As the model becomes more mature, we’ll do a community-wide roadmap ranking session to help us figure out what to prioritize next. Thanks again for everyone’s help with the V8 pre-release rating parties, and thank you so much for being a part of Midjourney! Let’s have fun out there and find new wonders on this vast and shared sea of imagination. submitted by /u/Fnuckle [link] [comments]"
   },
   {
-    "id": "src_reddit-midjourney_5f4e4435b112efe0",
+    "id": "src_reddit-midjourney_ef703d01e0592092",
     "sourceConfigId": "reddit-midjourney",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tun9p8/the_warriors_139/",
-    "title": "The Warriors #139",
-    "rawSummary": "submitted by /u/Slave_Human [link] [comments]",
-    "publishedAt": "2026-06-02T10:48:28.000Z",
-    "crawledAt": "2026-06-03T00:25:52.554Z",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tvk1hr/dandy/",
+    "title": "Dandy",
+    "rawSummary": "submitted by /u/Zaicab [link] [comments]",
+    "publishedAt": "2026-06-03T09:22:56.000Z",
+    "crawledAt": "2026-06-03T15:23:27.202Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "score": 0.58,
     "crawlStatus": "live",
-    "extractedText": "submitted by /u/Slave_Human [link] [comments]"
+    "extractedText": "submitted by /u/Zaicab [link] [comments]"
   },
   {
-    "id": "src_reddit-midjourney_be5bbf6f8192b893",
+    "id": "src_reddit-midjourney_b05544aa91752664",
     "sourceConfigId": "reddit-midjourney",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tv2ygp/just_being_a_little_weird/",
-    "title": "Just being a little weird",
-    "rawSummary": "submitted by /u/InsertWittySaying [link] [comments]",
-    "publishedAt": "2026-06-02T20:21:19.000Z",
-    "crawledAt": "2026-06-03T00:25:52.554Z",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tvrg1f/scifi_scenery/",
+    "title": "Sci-Fi Scenery",
+    "rawSummary": "submitted by /u/Zenchilada [link] [comments]",
+    "publishedAt": "2026-06-03T14:42:33.000Z",
+    "crawledAt": "2026-06-03T15:23:27.202Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "score": 0.58,
     "crawlStatus": "live",
-    "extractedText": "submitted by /u/InsertWittySaying [link] [comments]"
+    "extractedText": "submitted by /u/Zenchilada [link] [comments]"
   },
   {
-    "id": "src_reddit-midjourney_0cc0f3633e85dcf0",
+    "id": "src_reddit-midjourney_2c9031c749d0a630",
     "sourceConfigId": "reddit-midjourney",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1turdjr/exotic_cake/",
-    "title": "Exotic Cake",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/comments/1tvqw3i/animal_and_dead_tree/",
+    "title": "Animal and Dead Tree",
     "rawSummary": "submitted by /u/Sharp_Alternative845 [link] [comments]",
-    "publishedAt": "2026-06-02T13:43:07.000Z",
-    "crawledAt": "2026-06-03T00:25:52.554Z",
+    "publishedAt": "2026-06-03T14:23:38.000Z",
+    "crawledAt": "2026-06-03T15:23:27.202Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -728,8 +728,8 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "Kling AI",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-06-03T00:25:53.112Z",
-    "crawledAt": "2026-06-03T00:25:53.112Z",
+    "publishedAt": "2026-06-03T15:23:27.184Z",
+    "crawledAt": "2026-06-03T15:23:27.184Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -747,7 +747,7 @@
     "title": "Extensive list of generative tools curated by Eyal Gruss",
     "rawSummary": "submitted by /u/Wiskkey [link] [comments]",
     "publishedAt": "2021-01-22T08:37:47.000Z",
-    "crawledAt": "2026-06-03T00:25:52.074Z",
+    "crawledAt": "2026-06-03T15:23:26.738Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -765,7 +765,7 @@
     "title": "Probable changes to the subreddit",
     "rawSummary": "In order to make the sub more focused on news and developments rather than any random generation, there's a good chance submissions will be restricted and manually approved in coming days, with only the highest quality or most novel AI generations being approved. Basically, individual images or albums you created in Midjourney/Stable Diffusion/DALL-E 2 would not be enough to get approved. For those, the dedicated subreddits are more fitting I.e. /r/midjourney /r/StableDiffusion /r/dalle2 /r/deepdream \"But that will kill this forum's traffic!\" Almost certainly, but it'd be for the purpose of reorienting it. Admittedly when I first created /r/MediaSynthesis , I did so with the intent that any AI generated media would be allowed. But that was 2018, when AI generated media was much rarer and harder to create. Now that synthetic media is beginning to grow out of infancy into toddlerhood, I would like to instead help build subs more dedicated to the methodologies grow and keep this one more or less research-based. submitted by /u/Yuli-Ban [link] [comments]",
     "publishedAt": "2022-09-26T20:55:02.000Z",
-    "crawledAt": "2026-06-03T00:25:52.074Z",
+    "crawledAt": "2026-06-03T15:23:26.738Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -783,7 +783,7 @@
     "title": "AI won the 2025 Commonwealth Short Story Prize competition",
     "rawSummary": "submitted by /u/gwern [link] [comments]",
     "publishedAt": "2026-05-21T23:17:53.000Z",
-    "crawledAt": "2026-06-03T00:25:52.074Z",
+    "crawledAt": "2026-06-03T15:23:26.738Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -801,7 +801,7 @@
     "title": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative that isn’t dreck\", Katha Pollitt 2026-05-14",
     "rawSummary": "submitted by /u/gwern [link] [comments]",
     "publishedAt": "2026-05-19T23:53:07.000Z",
-    "crawledAt": "2026-06-03T00:25:52.074Z",
+    "crawledAt": "2026-06-03T15:23:26.738Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -819,7 +819,7 @@
     "title": "\"REVIEW: _50 Years of Text Games_, by Aaron Reed\"",
     "rawSummary": "submitted by /u/gwern [link] [comments]",
     "publishedAt": "2026-05-13T23:03:13.000Z",
-    "crawledAt": "2026-06-03T00:25:52.074Z",
+    "crawledAt": "2026-06-03T15:23:26.738Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -829,25 +829,43 @@
     "extractedText": "submitted by /u/gwern [link] [comments]"
   },
   {
-    "id": "src_huggingface-blog_2026-06-03_fallback",
+    "id": "src_huggingface-blog_af185e1e7e4dfbac",
     "sourceConfigId": "huggingface-blog",
     "sourceType": "blog",
     "sourceName": "Hugging Face Blog",
     "sourceUrl": "https://huggingface.co/blog",
-    "title": "Hugging Face Blog signal for ai-agentic",
-    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-06-03T00:25:51.228Z",
-    "crawledAt": "2026-06-03T00:25:51.228Z",
+    "title": "Hugging Face – Blog",
+    "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "publishedAt": "2026-06-03T15:23:26.086Z",
+    "crawledAt": "2026-06-03T15:23:26.086Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
       "ai-video",
       "ai-vibe-coding"
     ],
-    "score": 0.5525,
-    "crawlStatus": "fallback",
-    "crawlError": "Fetch failed 429 Too Many Requests",
-    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+    "score": 0.85,
+    "crawlStatus": "live",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Introduction to Trimming ✂ lbourdois • 6 days ago • 36 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 2 days ago • 15 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM ibm-research • 7 days ago • 14 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 13 days ago • 54 Agentic RL: Token-In, Token-Out Done Right huggingface • 5 days ago • 11 MONET: Lowering the bar for World-Class Image Generation research. jasperai • 6 days ago • 10 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 5 days ago • 9 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 2 days ago • 8 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models nvidia • 12 days ago • 29 Server is at capacity ml-intern-explorers • 7 days ago • 6 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 8 days ago • 6 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 5 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 179 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 12 A Deep Neural Network that turns Any Image into a Playable Game! All on consumer GPUs, NOT DATACENTER lucidml • 2 days ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 338 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 126 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 2 days ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 228 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 862 Direct Preference Optimization Beyond Chatbots June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 3 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 24 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 20 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 78 June 1, 2026 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action 61 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 71 May 29, 2026 guide robotics audio Reachy Mini goes fully local 50 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 37 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 96 May 25, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 22 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 50 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 34 May 18, 2026 Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 32 May 14, 2026 Previous 1 2 3 ... 57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Introduction to Trimming ✂ lbourdois • 6 days ago • 36 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 2 days ago • 15 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM ibm-research • 7 days ago • 14 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 13 days ago • 54 Agentic RL: Token-In, Token-Out Done Right huggingface • 5 days ago • 11 MONET: Lowering the bar for World-Class Image Generation research. jasperai • 6 days ago • 10 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 5 days ago • 9 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 2 days ago • 8 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models nvidia • 12 days ago • 29 Server is at capacity ml-intern-explorers • 7 days ago • 6 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 8 days ago • 6 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 5 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 179 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 12 A Deep Neural Network that turns Any Image into a Playable Game! All on consumer GPUs, NOT DATACENTER lucidml • 2 days ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 338 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 126 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 2 days ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 228 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 862 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
+  },
+  {
+    "id": "src_simonwillison-blog_4382a3e2d4a126cc",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+    "rawSummary": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become. Natalie Lung for Bloomberg: The rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a Bloomberg News inquiry. That means spending on one tool doesn’t have a bearing on the budget for another. The limits, which have been instituted in recent months, only apply to agentic coding software such as Cursor or Anthropic PBC’s Claude Code. A $1,500 monthly limit per tool strikes me as a rational policy response to over-spending, and much more sensible than those tokenmaxxing leaderboards encouraging employees to compete for as much AI usage as possible. It's also interesting in that it hints at a real dollar value for what Uber is getting out of these tools. If we assume two actively used tools per engineer that's $3,000 * 12 = $36,000 cap per engineer per year. Levels.fyi lists the median yearly compensation package for Uber software engineers in the USA at $330,000. That means each employee's AI spending cap is ~11% of that median compensation package. I noted that my own token usage comes to about $1,000/month against each of Anthropic and OpenAI - which currently costs me just $100 per provider thanks to their generous subsidized plans for individual subscribers. Those plans are no longer available to larger companies like Uber. Their new policy means if I were working at Uber I'd still have ~$500/month of tokens to spare for each of those tools, given my current usage patterns. Tags: ai , generative-ai , llms , llm-pricing , coding-agents , uber",
+    "publishedAt": "2026-06-03T12:01:27.000Z",
+    "crawledAt": "2026-06-03T15:23:26.046Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent. Try Foundry 3rd June 2026 - Link Blog Uber Caps Usage of AI Tools Like Claude Code to Manage Costs . I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become. Natalie Lung for Bloomberg: The rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a Bloomberg News inquiry. That means spending on one tool doesn’t have a bearing on the budget for another. The limits, which have been instituted in recent months, only apply to agentic coding software such as Cursor or Anthropic PBC’s Claude Code. A $1,500 monthly limit per tool strikes me as a rational policy response to over-spending, and much more sensible than those tokenmaxxing leaderboards encouraging employees to compete for as much AI usage as possible. It's also interesting in that it hints at a real dollar value for what Uber is getting out of these tools. If we assume two actively used tools per engineer that's $3,000 * 12 = $36,000 cap per engineer per year. Levels.fyi lists the median yearly compensation package for Uber software engineers in the USA at $330,000. That means each employee's AI spending cap is ~11% of that median compensation package. I noted that my own token usage comes to about $1,000/month against each of Anthropic and OpenAI - which currently costs me just $100 per provider thanks to their generous subsidized plans for individual subscribers. Those plans are no longer available to larger companies like Uber. Their new policy means if I were working at Uber I'd still have ~$500/month of tokens to spare for each of those tools, given my current usage patterns. Posted 3rd June 2026 at 12:01 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a link post by Simon Willison, posted on 3rd June 2026 . ai 2,051 generative-ai 1,812 llms 1,779 llm-pricing 75 coding-agents 209 uber 6 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_ba09b866960a80a4",
@@ -856,16 +874,16 @@
     "sourceName": "Simon Willison's Weblog",
     "sourceUrl": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
     "title": "Microsoft's new MAI models",
-    "rawSummary": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 35B parameters, available to \"select early partners\") and MAI-Code-1-Flash (5B parameters, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet. It's very interesting to see Microsoft releasing models with such low parameter counts, especially given how expensive larger models are to access right now. They claim MAI-Thinking-1 \"is preferred to Sonnet 4.6 in our blind human side-by-side evaluations\", which is impressive for a 35B model seeing as I frequently run models larger than that on my own laptop. Also of note : We trained [MAI-Thinking-1] from the ground up on enterprise grade, clean and commercially licensed data, without distillation from third-party models. And for MAI-Code-1-Flash as well: It is built end-to-end by Microsoft using clean and appropriately licensed data. I would very much like to learn more about this \"appropriately licensed\" data! Could these be the first generally useful code-specialist models that didn't train on an unlicensed dump of the web? Tags: llm-release , generative-ai , ai , microsoft , llms",
+    "rawSummary": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet. It's very interesting to see Microsoft releasing models with such low parameter counts, especially given how expensive larger models are to access right now. They claim MAI-Thinking-1 \"is preferred to Sonnet 4.6 in our blind human side-by-side evaluations\", which is impressive for a 35B model seeing as I frequently run models larger than that on my own laptop. (UPDATE: I got this entirely wrong, see note below.) Also of note : We trained [MAI-Thinking-1] from the ground up on enterprise grade, clean and commercially licensed data, without distillation from third-party models. And for MAI-Code-1-Flash as well: It is built end-to-end by Microsoft using clean and appropriately licensed data. I would very much like to learn more about this \"appropriately licensed\" data! Could these be the first generally useful code-specialist models that didn't train on an unlicensed dump of the web? ( Update : the answer is no, see note below.) Update : My initial published notes got the size of the models wrong. I misread Microsoft's announcements and interpreted the MoE active parameter count as the total parameter count, but the model card for MAI-Code-1-Flash lists it as 137B with 5B active and the MAI-Thinking-1 technical paper reveals it to be a 1T model with 35B active. I deeply regret this error. Update 2 : That technical paper describes the training data in some detail from page 80 onwards. It has the same licensing problems as all of the other major LLMs: it's trained on a crawl of the public web: The majority of our web HTML corpus comes from a proprietary crawl. After initial page discovery and selection, approximately 1.2 trillion pages are crawled and parsed. [...] In addition to Microsoft standard policy Sec. 2.4, we apply UT1 block list (Prigent, 2026) to remove adult content and piracy-related domains. In all, this filtering reduces the corpus from 1.2 trillion pages to 794 billion pages. Given the prevalence of AI-generated content on the web, we also score pages with a proprietary AI-content detection model and use manual inspection to identify domains with extensive AI-generated content; those domains are filtered out of the training corpus. [...] We process Common Crawl with the same pipeline. [...] After filtering, deduplication, merging with the proprietary web corpus, and a final round of exact-URL and content-level fuzzy deduplication, the Common Crawl portion contains 24.2 billion pages. I did not cover this one at all well, which is somewhat ironic since I was at the Microsoft Build conference when I wrote this up! I'm sorry for not digging deeper before publishing my initial notes. Tags: llm-release , generative-ai , ai , microsoft , llms , training-data",
     "publishedAt": "2026-06-02T22:21:52.000Z",
-    "crawledAt": "2026-06-03T00:25:51.265Z",
+    "crawledAt": "2026-06-03T15:23:26.047Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Microsoft's new MAI models Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent. Try Foundry 2nd June 2026 Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 35B parameters, available to \"select early partners\") and MAI-Code-1-Flash (5B parameters, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet. It's very interesting to see Microsoft releasing models with such low parameter counts, especially given how expensive larger models are to access right now. They claim MAI-Thinking-1 \"is preferred to Sonnet 4.6 in our blind human side-by-side evaluations\", which is impressive for a 35B model seeing as I frequently run models larger than that on my own laptop. Also of note : We trained [MAI-Thinking-1] from the ground up on enterprise grade, clean and commercially licensed data, without distillation from third-party models. And for MAI-Code-1-Flash as well: It is built end-to-end by Microsoft using clean and appropriately licensed data. I would very much like to learn more about this \"appropriately licensed\" data! Could these be the first generally useful code-specialist models that didn't train on an unlicensed dump of the web? Posted 2nd June 2026 at 10:21 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a note by Simon Willison, posted on 2nd June 2026 . microsoft 132 ai 2,050 generative-ai 1,811 llms 1,778 llm-release 203 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Microsoft's new MAI models Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent. Try Foundry 2nd June 2026 Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet. It's very interesting to see Microsoft releasing models with such low parameter counts, especially given how expensive larger models are to access right now. They claim MAI-Thinking-1 \"is preferred to Sonnet 4.6 in our blind human side-by-side evaluations\", which is impressive for a 35B model seeing as I frequently run models larger than that on my own laptop. (UPDATE: I got this entirely wrong, see note below.) Also of note : We trained [MAI-Thinking-1] from the ground up on enterprise grade, clean and commercially licensed data, without distillation from third-party models. And for MAI-Code-1-Flash as well: It is built end-to-end by Microsoft using clean and appropriately licensed data. I would very much like to learn more about this \"appropriately licensed\" data! Could these be the first generally useful code-specialist models that didn't train on an unlicensed dump of the web? ( Update : the answer is no, see note below.) Update : My initial published notes got the size of the models wrong. I misread Microsoft's announcements and interpreted the MoE active parameter count as the total parameter count, but the model card for MAI-Code-1-Flash lists it as 137B with 5B active and the MAI-Thinking-1 technical paper reveals it to be a 1T model with 35B active. I deeply regret this error. Update 2 : That technical paper describes the training data in some detail from page 80 onwards. It has the same licensing problems as all of the other major LLMs: it's trained on a crawl of the public web: The majority of our web HTML corpus comes from a proprietary crawl. After initial page discovery and selection, approximately 1.2 trillion pages are crawled and parsed. [...] In addition to Microsoft standard policy Sec. 2.4, we apply UT1 block list (Prigent, 2026) to remove adult content and piracy-related domains. In all, this filtering reduces the corpus from 1.2 trillion pages to 794 billion pages. Given the prevalence of AI-generated content on the web, we also score pages with a proprietary AI-content detection model and use manual inspection to identify domains with extensive AI-generated content; those domains are filtered out of the training corpus. [...] We process Common Crawl with the same pipeline. [...] After filtering, deduplication, merging with the proprietary web corpus, and a final round of exact-URL and content-level fuzzy deduplication, the Common Crawl portion contains 24.2 billion pages. I did not cover this one at all well, which is somewhat ironic since I was at the Microsoft Build conference when I wrote this up! I'm sorry for not digging deeper before publishing my initial notes. Posted 2nd June 2026 at 10:21 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a note by Simon Willison, posted on 2nd June 2026 . microsoft 132 ai 2,051 generative-ai 1,812 llms 1,779 training-data 64 llm-release 203 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_824445246153c18b",
@@ -874,16 +892,16 @@
     "sourceName": "Simon Willison's Weblog",
     "sourceUrl": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
     "title": "datasette-agent-micropython 0.1a0",
-    "rawSummary": "Release: datasette-agent-micropython 0.1a0 I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking very promising so far. GPT-5.5 has so far failed to break out of the sandbox! Tags: python , sandboxing , datasette , webassembly , datasette-agent",
+    "rawSummary": "Release: datasette-agent-micropython 0.1a0 I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed to break out of the sandbox! Tags: python , sandboxing , datasette , webassembly , datasette-agent",
     "publishedAt": "2026-06-02T19:28:36.000Z",
-    "crawledAt": "2026-06-03T00:25:51.265Z",
+    "crawledAt": "2026-06-03T15:23:26.047Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Release: datasette-agent-micropython 0.1a0 Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent. Try Foundry 2nd June 2026 Release datasette-agent-micropython 0.1a0 &mdash; MicroPython in a WASM sandbox as a tool for Datasette Agent I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking very promising so far. GPT-5.5 has so far failed to break out of the sandbox! Posted 2nd June 2026 at 7:28 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a beat by Simon Willison, posted on 2nd June 2026 . python 1,255 sandboxing 43 datasette 1,505 webassembly 95 datasette-agent 13 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Release: datasette-agent-micropython 0.1a0 Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent. Try Foundry 2nd June 2026 Release datasette-agent-micropython 0.1a0 &mdash; MicroPython in a WASM sandbox as a tool for Datasette Agent I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed to break out of the sandbox! Posted 2nd June 2026 at 7:28 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a beat by Simon Willison, posted on 2nd June 2026 . python 1,255 sandboxing 43 datasette 1,505 webassembly 95 datasette-agent 13 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_3843807b4771ed07",
@@ -894,7 +912,7 @@
     "title": "micropython-wasm 0.1a1",
     "rawSummary": "Release: micropython-wasm 0.1a1 Fixes for some limitations that emerged while I was trying to use this to build datasette-agent-micropython . Tags: python , sandboxing , webassembly",
     "publishedAt": "2026-06-02T19:20:47.000Z",
-    "crawledAt": "2026-06-03T00:25:51.265Z",
+    "crawledAt": "2026-06-03T15:23:26.047Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -912,32 +930,14 @@
     "title": "California Brown Pelican",
     "rawSummary": "California Brown Pelican, in Fort Mason, CA, US I'm at the Microsoft Build conference today, held at Fort Mason in San Francisco. There are California Brown Pelicans diving into the water directly behind venue! Tags: microsoft , ai , generative-ai , llms , llm-release",
     "publishedAt": "2026-06-02T18:17:03.000Z",
-    "crawledAt": "2026-06-03T00:25:51.266Z",
+    "crawledAt": "2026-06-03T15:23:26.047Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Sighting: California Brown Pelican Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent. Try Foundry 2nd June 2026 Sighting 11:17 AM &mdash; California Brown Pelican, in Fort Mason, CA, US California Brown Pelican I'm at the Microsoft Build conference today, held at Fort Mason in San Francisco. There are California Brown Pelicans diving into the water directly behind venue! Posted 2nd June 2026 at 6:17 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a beat by Simon Willison, posted on 2nd June 2026 . microsoft 132 ai 2,050 generative-ai 1,811 llms 1,778 llm-release 203 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
-  },
-  {
-    "id": "src_simonwillison-blog_a97ae22843923642",
-    "sourceConfigId": "simonwillison-blog",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "sourceUrl": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
-    "title": "Pasted File Editor",
-    "rawSummary": "Tool: Pasted File Editor I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead. I decided to have Codex desktop build me a version of that as a prototype. You can also open files directly - including images which will be shown as thumbnails - or drag files onto the textarea. Tags: javascript , tools , ai-assisted-programming , claude , codex",
-    "publishedAt": "2026-06-02T04:13:36.000Z",
-    "crawledAt": "2026-06-03T00:25:51.266Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "score": 0.82,
-    "crawlStatus": "live",
-    "extractedText": "Tool: Pasted File Editor Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent. Try Foundry 2nd June 2026 Tool Pasted File Editor &mdash; Create and manage a text editor with automatic file attachment capabilities. Paste files or text content of 1,000 characters or more to attach them below the editor, while keeping the editor text unchanged. View attached files as previews or in full, and remove files as needed using drag-and-drop, file selection, or clipboard paste functionality. I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead. I decided to have Codex desktop build me a version of that as a prototype. You can also open files directly - including images which will be shown as thumbnails - or drag files onto the textarea. Posted 2nd June 2026 at 4:13 am Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a beat by Simon Willison, posted on 2nd June 2026 . javascript 757 tools 66 ai-assisted-programming 384 claude 278 codex 50 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Sighting: California Brown Pelican Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent. Try Foundry 2nd June 2026 Sighting 11:17 AM &mdash; California Brown Pelican, in Fort Mason, CA, US California Brown Pelican I'm at the Microsoft Build conference today, held at Fort Mason in San Francisco. There are California Brown Pelicans diving into the water directly behind venue! Posted 2nd June 2026 at 6:17 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a beat by Simon Willison, posted on 2nd June 2026 . microsoft 132 ai 2,051 generative-ai 1,812 llms 1,779 llm-release 203 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_lilianweng-blog_31a2c7baf9b791a5",
@@ -947,8 +947,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-06-03T00:25:51.351Z",
-    "crawledAt": "2026-06-03T00:25:51.351Z",
+    "publishedAt": "2026-06-03T15:23:26.082Z",
+    "crawledAt": "2026-06-03T15:23:26.082Z",
     "categoryHints": [
       "ai-agentic"
     ],
