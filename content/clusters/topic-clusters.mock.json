@@ -1,21 +1,20 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_microsoft-s-new-mai-models_2026-06-04",
+    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-04",
     "category": "ai-agentic",
-    "topic": "Microsoft's new MAI models",
+    "topic": "LangChain Blog",
     "sourceIds": [
-      "src_simonwillison-blog_ba09b866960a80a4",
       "src_langchain-blog_40ded3f923e3291d",
+      "src_simonwillison-blog_ba09b866960a80a4",
       "src_luma-blog_c7449029956c34f9",
+      "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_lilianweng-blog_31a2c7baf9b791a5",
       "src_simonwillison-blog_824445246153c18b",
       "src_simonwillison-blog_b0f9095679d21c3b",
-      "src_simonwillison-blog_3843807b4771ed07",
-      "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_reddit-aiagents_7d7ebff37848c2f7",
-      "src_reddit-stablediffusion_ebb0fc88b4d31c80"
+      "src_simonwillison-blog_3843807b4771ed07"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -42,13 +41,33 @@
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-stablediffusion_a8b19ce5ef59ea25",
       "src_reddit-comfyui_f4f210edfd02adc0",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-aiagents_2108a19698930f8f"
+      "src_reddit-comfyui_3f8ca6b7d45fd84f",
+      "src_reddit-stablediffusion_07e8bfb400728077",
+      "src_reddit-comfyui_af5682f40dea9291"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_2_you-just-cant-hate-ideogram4_2026-06-04",
+    "category": "ai-image",
+    "topic": "You just cant hate ideogram4",
+    "sourceIds": [
+      "src_reddit-stablediffusion_7cdadbc8a18122fb",
+      "src_reddit-stablediffusion_712a04ce8fe627fc",
+      "src_reddit-comfyui_60ddf6600c86f844",
+      "src_reddit-midjourney_91c5cf49176c170c",
+      "src_reddit-midjourney_8df2718c2362b144",
+      "src_reddit-mediasynthesis_459f419f1f6e36c2",
+      "src_reddit-stablediffusion_8ee5b26c5e58313e",
+      "src_stability-ai-blog_2026-06-04_fallback"
+    ],
+    "articleWorthinessScore": 0.85,
+    "reasonSelected": "Score 0.85 from 8 source item(s), 7 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -59,11 +78,30 @@
     "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
       "src_reddit-aivideo_a7a9a72758720ba6",
-      "src_pika-blog_80e55ecea6acd04d",
+      "src_reddit-aivideo_afd406b316b9dfff",
       "src_reddit-aivideo_426904d25fb1bb87"
     ],
-    "articleWorthinessScore": 0.89,
-    "reasonSelected": "Score 0.89 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, r/aivideo, Pika Labs Blog.",
+    "articleWorthinessScore": 0.85,
+    "reasonSelected": "Score 0.85 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, r/aivideo.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-agentic_2_adhd-how-i-m-using-ai-agents-to-help-me-be-productive_2026-06-04",
+    "category": "ai-agentic",
+    "topic": "[ADHD] How I'm using AI agents to help me be productive",
+    "sourceIds": [
+      "src_reddit-aiagents_996706777ec42402",
+      "src_reddit-stablediffusion_31204d321bed1736",
+      "src_reddit-aiagents_e39f0ae0997c48e9",
+      "src_reddit-aiagents_2868e781d32f8907",
+      "src_reddit-aiagents_bfc588e0191c755b",
+      "src_reddit-aiagents_ce5af76cde1748ff",
+      "src_openai-blog_2026-06-04_fallback",
+      "src_mcp-blog_2026-06-04_fallback"
+    ],
+    "articleWorthinessScore": 0.83,
+    "reasonSelected": "Score 0.83 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, r/StableDiffusion, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -74,84 +112,46 @@
     "sourceIds": [
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_reddit-stablediffusion_bac687054f4fd8a4",
       "src_vercel-ai-blog_2026-06-04_fallback"
     ],
-    "articleWorthinessScore": 0.85,
-    "reasonSelected": "Score 0.85 from 4 source item(s), 3 live crawl(s), strongest sources: Cursor Changelog, r/comfyui, r/StableDiffusion.",
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 3 source item(s), 2 live crawl(s), strongest sources: Cursor Changelog, r/comfyui, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ltx-2-3-union-control-lora-8gb-vram_2026-06-04",
-    "category": "ai-image",
-    "topic": "LTX-2.3 + Union Control LoRA (8GB VRAM)",
+    "clusterId": "cluster_prompt-image_1_the-people-of-the-distant-moon_2026-06-04",
+    "category": "prompt-image",
+    "topic": "The People of The Distant Moon",
     "sourceIds": [
-      "src_reddit-comfyui_60ddf6600c86f844",
-      "src_reddit-midjourney_91c5cf49176c170c",
-      "src_reddit-midjourney_8df2718c2362b144",
-      "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-comfyui_abecac05931d90cd",
-      "src_reddit-comfyui_d183523d078ff39d",
-      "src_stability-ai-blog_2026-06-04_fallback"
+      "src_reddit-midjourney_37ef6ba1e574fbca",
+      "src_reddit-midjourney_e3feb5e5ee3c7098"
     ],
-    "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 7 source item(s), 6 live crawl(s), strongest sources: r/comfyui, r/midjourney, r/MediaSynthesis.",
-    "confidence": "high",
+    "articleWorthinessScore": 0.67,
+    "reasonSelected": "Score 0.67 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
+    "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_multiple-characters-anima-generations-are-so-good-there-is-some-_2026-06-04",
-    "category": "ai-agentic",
-    "topic": "Multiple characters Anima generations are so good. There is some bleeding but...",
-    "sourceIds": [
-      "src_reddit-stablediffusion_31204d321bed1736",
-      "src_reddit-aiagents_68c5c5e6b896d942",
-      "src_reddit-aiagents_bfc588e0191c755b",
-      "src_reddit-aiagents_ce5af76cde1748ff",
-      "src_reddit-stablediffusion_c77ff93fa3fdbe37",
-      "src_openai-blog_2026-06-04_fallback",
-      "src_mcp-blog_2026-06-04_fallback",
-      "src_huggingface-blog_2026-06-04_fallback"
-    ],
-    "articleWorthinessScore": 0.77,
-    "reasonSelected": "Score 0.77 from 8 source item(s), 5 live crawl(s), strongest sources: r/StableDiffusion, r/AI_Agents, OpenAI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-video_2_baki-2027-ai-short-film-part-i_2026-06-04",
+    "clusterId": "cluster_ai-video_2_a-dog-s-life-a-1-minute-animated-story-of-a-boy-and-his-dog-thro_2026-06-04",
     "category": "ai-video",
-    "topic": "💥BAKI [2027] AI short film 🍷PART I",
+    "topic": "\"A dog's life\" - a 1 minute animated story of a boy and his dog through the y...",
     "sourceIds": [
-      "src_reddit-aivideo_fc9dc54c1cbd2ad2",
-      "src_reddit-aivideo_c697a28ff6fad11b",
-      "src_reddit-aivideo_5a163fe980d106d8"
+      "src_reddit-aivideo_b3aa50177c5757a7",
+      "src_reddit-aivideo_5a163fe980d106d8",
+      "src_pika-blog_2026-06-04_fallback"
     ],
-    "articleWorthinessScore": 0.68,
-    "reasonSelected": "Score 0.68 from 3 source item(s), 3 live crawl(s), strongest sources: r/aivideo.",
+    "articleWorthinessScore": 0.61,
+    "reasonSelected": "Score 0.61 from 3 source item(s), 2 live crawl(s), strongest sources: r/aivideo, Pika Labs Blog.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_saints-of-the-forgotten-order_2026-06-04",
+    "clusterId": "cluster_prompt-image_2_tardigrade-steel-balloon-sculpture_2026-06-04",
     "category": "prompt-image",
-    "topic": "Saints of the Forgotten Order",
+    "topic": "Tardigrade steel balloon sculpture",
     "sourceIds": [
-      "src_reddit-midjourney_fb01af926dc21cc0",
-      "src_reddit-midjourney_b05544aa91752664"
-    ],
-    "articleWorthinessScore": 0.68,
-    "reasonSelected": "Score 0.68 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
-    "confidence": "medium",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_prompt-image_2_summer-breeze_2026-06-04",
-    "category": "prompt-image",
-    "topic": "Summer Breeze",
-    "sourceIds": [
-      "src_reddit-midjourney_a01c0b58a83f6718"
+      "src_reddit-midjourney_659717c8e2b741e6"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
