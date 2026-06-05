@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-04T13:51:29.202Z",
+    "publishedAt": "2026-06-05T00:04:00.035Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Newsletter Observability & Evals Open Source Partner Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min Recent stories Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Open Source LangChain Agent Architecture Deep Agents How to Build a Custom Agent Harness Sydney Runkle June 3, 2026 6 min Case Studies How Harmonic Rebuilt Scout on Deep Agents and 4x'd Retention with LangSmith Sofia Sulikowski June 3, 2026 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min Deep Agents Open Source Agent Architecture Introducing Rubrics: Build Agents that Evaluate and Correct Their Work Shrikar Seshadri Sydney Runkle June 2, 2026 4 min Case Studies How Rippling Went AI-Native Across Every Product in 6 Months with Deep Agents and LangSmith Sofia Sulikowski June 1, 2026 6 min Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Partner Deep Agents LangSmith EU macroeconomic analysis with Deep Agents, LangSmith, and the You.com Finance Research API Srimanth Tangedipalli Karan Singh Saurabh Sharma Akhil Pothana May 20, 2026 18 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min LangSmith Agent Architecture Deep Agents Tutorials & How-Tos How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min Company Announcements LangSmith Everything we shipped at Interrupt Jacob Talbot May 14, 2026 11 min 1 ...",
+      "Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Company Announcements Introducing LangChain Labs Harrison Chase May 14, 2026 3 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min Recent stories Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Open Source Agent Architecture LangGraph Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers Quanzheng Long Sydney Runkle June 4, 2026 7 min Open Source LangChain Agent Architecture Deep Agents How to Build a Custom Agent Harness Sydney Runkle June 3, 2026 6 min Case Studies How Harmonic Rebuilt Scout on Deep Agents and 4x'd Retention with LangSmith Sofia Sulikowski June 3, 2026 8 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min Deep Agents Open Source Agent Architecture Introducing Rubrics: Build Agents that Evaluate and Correct Their Work Shrikar Seshadri Sydney Runkle June 2, 2026 4 min Case Studies How Rippling Went AI-Native Across Every Product in 6 Months with Deep Agents and LangSmith Sofia Sulikowski June 1, 2026 6 min Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min LangSmith How Auth Proxy secures network access for LangSmith agent sandboxes Mukil Loganathan May 21, 2026 9 min Partner Deep Agents LangSmith EU macroeconomic analysis with Deep Agents, LangSmith, and the You.com Finance Research API Srimanth Tangedipalli Karan Singh Saurabh Sharma Akhil Pothana May 20, 2026 18 min Deep Agents Agent Architecture Open Source Give Your Agents an Interpreter Hunter Lovell May 20, 2026 11 min LangSmith Agent Architecture Deep Agents Tutorials & How-Tos How We Built LangSmith Engine, Our Agent for Improving Agents Palash Shah May 19, 2026 17 min 1 ...",
       "1 / 28 We couldn't find anything matching that."
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-04T13:51:30.132Z",
+    "publishedAt": "2026-06-05T00:03:59.702Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-06-04_fallback",
+    "sourceId": "src_openai-blog_2026-06-05_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-04T13:51:28.259Z",
+    "publishedAt": "2026-06-05T00:03:59.214Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-06-04_fallback",
+    "sourceId": "src_mcp-blog_2026-06-05_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-04T13:51:28.718Z",
+    "publishedAt": "2026-06-05T00:03:59.499Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_996706777ec42402",
+    "sourceId": "src_reddit-aiagents_f30c1462de689c46",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tw7te9/adhd_how_im_using_ai_agents_to_help_me_be/",
-    "title": "[ADHD] How I'm using AI agents to help me be productive",
-    "publishedAt": "2026-06-04T00:28:08.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tx24s8/i_keep_abandoning_multiagent_setups_because_i/",
+    "title": "I keep abandoning multi-agent setups because I can't verify the code they ship. How are you handling this?",
+    "publishedAt": "2026-06-04T22:06:29.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Hey all, I’m a person with combined type ADHD, and I've struggled my entire life with both doing tasks I don’t want to do and remembering that I must do them.",
-      "I've tried it all: checklists, calendar settings, behavioral changes, pomodoro technique.",
-      "I just forget they exist when I hyperfocus on something else.",
-      "For more \"proactive\" things such as setting up calendar reminders, my brain always rejected the hassle of doing it."
+      "I've tried agent orchestrators like Conductor but I've never really stuck to it long term because I have no way of verifying the huge amount of work they've done with basically no validation.",
+      "I always end up going to my one-agent Claude Code workflow and always feel like I'm missing out.",
+      "What kept happening to me: 3-5 agents fan out, each opens a PR CIs pass, diffs look reasonable I can't possibly click through every preview by morning I merge based on the diff and CI signal Something breaks in prod the next day because the agent did what I asked literally, but the feature doesn't REALLY work CI passing doesn't tell you whether clicking the button does anything.",
+      "The more agents I run in parallel, the more PRs I'm merging without verifying."
     ],
     "claims": [
       {
-        "text": "Hey all, I’m a person with combined type ADHD, and I've struggled my entire life with both doing tasks I don’t want to do and remembering that I must do them. I've tried it all: checklists, calendar settings, behavioral changes, pomodoro technique. Nothing worked. I just forget they exist when I hyperfocus on something else. For more \"proactive\" things such as setting up calendar reminders, my brain always rejected the hassle of doing it. For years, my strategy has always been to rely on things popping into my memory. I coped by telling myself that if I forgot something, it must have not been that important anyways, and called it a doctrine of spontaneity and chaos. Imagine remembering, while you're not even home, that you have to file taxes. You tell yourself: I'll do it when I get home. Your mind is already lamenting the ridiculous tedium that a day will have to be. You get home, and something else steals your focus. Five days later, at the gym, you remember that you still have to do the taxes, and you have even less time. But there's nothing to break the cycle of forgetting, unless there's some deadline or some hanging sword over your head. A relaxed, leisurely pace is made impossible by your own brain's actions There also are what I call \"papercuts\", or small things that I know in the back of my mind, are making my life worse. Like the 37,003 unread emails sitting in my personal account. I know that half my credit cards having outdated addresses is a bad thing, or that not using the 30% discount coupons means a lot of wasted money. The reality is that the mental effort needed to do any of these has always been insane. Deep down, I felt miserable for a very long time. It took me an equally long time and maturation to also realize that it had an impact on my loved ones, who would try to chase me to get things done. A few months ago, I started using AI to help me manage my life. I was skeptical at first. Any new tool that required me to take the first step to engage with it meant changing habits… tough sell. In retrospect, I should've started exploring options earlier. I am hoping that other folks with ADHD will give this a try, because it has been a monumental life changer for me, even if there are some kinks to work out. As of today, I can say that a ton of my email, calendaring, and to-do management are handled by a swarm of AI agents and that I'm better off for it. I no longer have to rely on myself to remember to do things. Instead, I can focus on finishing micro tasks or making mini decisions, as opposed to needed to plan and execute the chore. The result is that I feel a lot less dread. Waking up without the fear of some calamity falling upon me because I missed 50 reminder emails about some bill is liberating. I am very optimistic about where this trend and the technology are headed. Especially when it comes to learn about my preferences and helping me run things on the background. There are a few names out there. You can't go wrong with any, to be honest. For those curious, I've been pleasantly surprised with praxos, poke, and martin. For me, just the fact of knowing I can send it a random voice note before bed or when a glimpse of prescience comes through, and having AI message me through the day to remind, massively reduces the constant weight and tension. I hope that this helps you too. PS: case in point, I used AI to help me organize my thoughts and get this done. This would've been a mess if not. submitted by /u/honestPolemic [link] [comments]",
+        "text": "I've tried agent orchestrators like Conductor but I've never really stuck to it long term because I have no way of verifying the huge amount of work they've done with basically no validation. I always end up going to my one-agent Claude Code workflow and always feel like I'm missing out. What kept happening to me: 3-5 agents fan out, each opens a PR CIs pass, diffs look reasonable I can't possibly click through every preview by morning I merge based on the diff and CI signal Something breaks in prod the next day because the agent did what I asked literally, but the feature doesn't REALLY work CI passing doesn't tell you whether clicking the button does anything. The more agents I run in parallel, the more PRs I'm merging without verifying. How are people handling this? - Click through every preview manually? (took 2-3 hours of my mornings) - Some kind of QA agent that drives the preview deploy? - Pre-merge integration tests covering every UI flow? (lol) - Just merge and roll back when prod breaks? I've been building in this space. It's a second AI agent that takes each PR's preview deploy, opens it in a real browser via Browserbase, clicks through the feature, and fails the PR if it doesn't work. The verification runs on its own so I don't have to be the QA step. If it fails, the build agent gets the report back and iterates up to 3x. For me this was the missing piece. Without it I'd run 5 agents and be too scared to merge any of their PRs. With it I just review the QA reports and merge the ones that passed. Anyone else solved this, or are we all merging without checking? submitted by /u/FormExtension7920 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tw7te9/adhd_how_im_using_ai_agents_to_help_me_be/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tx24s8/i_keep_abandoning_multiagent_setups_because_i/"
       }
     ],
     "usableFor": [
@@ -196,25 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_e39f0ae0997c48e9",
+    "sourceId": "src_reddit-aiagents_adda82d4432a0a35",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1twk8vl/i_gave_my_ai_agent_a_50_budget_and_a_task_to_find/",
-    "title": "I gave my AI agent a $50 budget and a task to \"find the best value\" for a new office chair. It’s been three days.",
-    "publishedAt": "2026-06-04T10:58:29.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1twz8f2/discussion/",
+    "title": "Discussion",
+    "publishedAt": "2026-06-04T20:17:08.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "It stopped looking for chairs after ten minutes.",
-      "It realized that \"the best value is not purchasing a chair at all, but rather improving your posture through core-strengthening exercises.\" It has spent the last 72 hours researching local yoga studios and sending me links to 14-part video series on \"The Science of Ergonomics.\" It’s currently in a loop debating with a bot from Amazon whether a floor cushion counts as a \"chair\" or \"home décor.\" I’m still sitting on a plastic bucket, but I am now highly educated on spinal alignment.",
-      "submitted by /u/ailovershoyab [link] [comments]"
+      "Finance major here something that's been bugging me.",
+      "Companies are hiring AI agents as basically digital workers now.",
+      "But all the other kinds of workers or costs are under controls around them.",
+      "Who’s actually watching if the agents are worth it from an ROI perspective and what happens when they aren’t?"
     ],
     "claims": [
       {
-        "text": "It stopped looking for chairs after ten minutes. It realized that \"the best value is not purchasing a chair at all, but rather improving your posture through core-strengthening exercises.\" It has spent the last 72 hours researching local yoga studios and sending me links to 14-part video series on \"The Science of Ergonomics.\" It’s currently in a loop debating with a bot from Amazon whether a floor cushion counts as a \"chair\" or \"home décor.\" I’m still sitting on a plastic bucket, but I am now highly educated on spinal alignment. submitted by /u/ailovershoyab [link] [comments]",
+        "text": "Finance major here something that's been bugging me. Companies are hiring AI agents as basically digital workers now. Real work. Real expenses. But all the other kinds of workers or costs are under controls around them. Payroll is approved. Procurement's SaaS. Cloud has FinOps. Who’s actually watching if the agents are worth it from an ROI perspective and what happens when they aren’t? Really curious to hear how finance teams are thinking about this, because I haven’t seen a good answer yet. submitted by /u/Clean_Improvement_59 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1twk8vl/i_gave_my_ai_agent_a_50_budget_and_a_task_to_find/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1twz8f2/discussion/"
       }
     ],
     "usableFor": [
@@ -224,25 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_2868e781d32f8907",
+    "sourceId": "src_reddit-aiagents_cdf00a85415bc2e2",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1twixwr/which_framework_feels_most_productionready_today/",
-    "title": "Which framework feels most production-ready today: LangGraph, CrewAI, AutoGen, or OpenAI Agents?",
-    "publishedAt": "2026-06-04T09:50:58.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1twzd8e/latency_matters_more_than_model_selection_when/",
+    "title": "Latency matters more than model selection when building AI tutoring systems",
+    "publishedAt": "2026-06-04T20:22:09.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I'm curious what people are actually deploying in production today.",
-      "If you've used LangGraph, CrewAI, AutoGen, OpenAI Agents, or something else, what held up well at scale and what became a maintenance headache over time?",
-      "submitted by /u/Michael_Anderson_8 [link] [comments]"
+      "Everyone has an opinion on which LLM to use for AI tutoring.",
+      "GPT-4o vs Claude vs fine-tuned open-source.",
+      "What actually keeps students engaged is response latency.",
+      "Specifically, speech start latency - how fast the voice response kicks in after a student finishes talking."
     ],
     "claims": [
       {
-        "text": "I'm curious what people are actually deploying in production today. If you've used LangGraph, CrewAI, AutoGen, OpenAI Agents, or something else, what held up well at scale and what became a maintenance headache over time? submitted by /u/Michael_Anderson_8 [link] [comments]",
+        "text": "Everyone has an opinion on which LLM to use for AI tutoring. GPT-4o vs Claude vs fine-tuned open-source. It's the wrong question to start with. What actually keeps students engaged is response latency. Specifically, speech start latency - how fast the voice response kicks in after a student finishes talking. Past roughly 1.5 seconds, they check out. They assume the system froze. No amount of model quality recovers that tutoring rhythm once it's broken. The pipeline goes: ASR → context lookup → LLM call → TTS → avatar sync → output. Every step costs time, and they compound. Most teams obsess over the LLM step. In practice, ASR and the TTS-to-avatar-sync handoff are where things go sideways. Whisper handles ASR accuracy well, but its latency behavior needs real attention in streaming contexts. Add a 3D avatar with lip sync and you've got a rendering layer on top of everything else - let that slip past a certain threshold and the uncanny valley effect kills the experience faster than a slow response would. For production systems, the targets I'd aim for: speech start latency under 1 second, full response under 2 seconds, whiteboard or shared context sync under 500ms. Reachable, but not without deliberate work at each layer. Streaming TTS is probably the highest-leverage thing you can do. Don't wait for the full LLM response before starting audio. Play audio while tokens are still coming in - in practice, that alone can shave a full second off how fast the response feels. Get the architecture right for latency first. Then worry about what the model says. submitted by /u/Virtual_Armadillo126 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1twixwr/which_framework_feels_most_productionready_today/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1twzd8e/latency_matters_more_than_model_selection_when/"
       }
     ],
     "usableFor": [
@@ -252,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-06-04_fallback",
+    "sourceId": "src_stability-ai-blog_2026-06-05_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-04T13:51:28.514Z",
+    "publishedAt": "2026-06-05T00:03:59.303Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -283,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-04T13:51:29.373Z",
+    "publishedAt": "2026-06-05T00:04:00.061Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -312,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-04T13:51:28.620Z",
+    "publishedAt": "2026-06-05T00:03:59.443Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -336,6 +338,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_9d52c717b5f67fc9",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1twv7ec/ok_ideogram_40_is_pretty_fun_actually/",
+    "title": "OK Ideogram 4.0 is Pretty Fun Actually!",
+    "publishedAt": "2026-06-04T17:54:31.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Ideogram 4 Prompt Builder KJ node rocks.",
+      "you can make boxes on the canvas and 100 percent control the compotation.",
+      "It converts you text prompt into .json for you.",
+      "https://pastebin.com/xpYezwZp submitted by /u/Jolly-Rip5973 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "Ideogram 4 Prompt Builder KJ node rocks. you can make boxes on the canvas and 100 percent control the compotation. Here is a link to the workflow. This workflow removes the censorship. It converts you text prompt into .json for you. https://pastebin.com/xpYezwZp submitted by /u/Jolly-Rip5973 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1twv7ec/ok_ideogram_40_is_pretty_fun_actually/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_0ae7f08dc19a29fd",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1twvlja/zimage_is_unbelievably_good_at_anime_prompts_given/",
+    "title": "Z-Image is unbelievably good at anime (Prompts Given)",
+    "publishedAt": "2026-06-04T18:07:59.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "We already know Z-image is the best go to model for realistic images, but on the other side it is dexter at Anime too.",
+      "I tried a bunch of Anime prompts with Z-image turbo, these are the best ones: 1.",
+      "Digital illustration of a woman in silhouette sitting on a small wooden boat facing away from the viewer at sunset Subject: A young woman with long dark hair tied in a ponytail, gazing forward toward the horizon with a calm expression Clothing: She wears loose-fitting traditional robes resembling Japanese kimono or gi, layered and draped naturally over her form Action: Seated cross-legged inside the boat, hands resting gently on her lap, body turned slightly to face the setting sun Environment: Calm water reflects fiery orange hues from the sky, distant rocky shores frame the scene under a vast open horizon Objects: A katana rests beside her in the boat, its handle visible and blade sheathed against the hull Lighting: Intense warm glow emanates from an enormous red sun dominating the upper half of the composition, casting dramatic reflections on water and silhouetting foreground elements Style Details: Anime-inspired art style with bold color contrasts, stylized cloud formations around the sun, bird silhouettes flying across its edge, and painterly brushwork suggesting motion in ripples and atmosphere.",
+      "Digital anime illustration of a woman standing on a rooftop balcony at sunset Subject: young woman with long dark hair and purple highlights wearing dangling earrings Clothing: pink jacket over black bodysuit, gold cross necklace Action: leaning against railing holding Yebisu beer can in one hand while smiling gently toward viewer Environment: Tokyo cityscape featuring multiple television towers under twilight sky filled with stars Lighting: warm sunset glow casting soft shadows across figure and background buildings illuminated by neon signs Camera: medium shot capturing upper body against expansive urban horizon."
+    ],
+    "claims": [
+      {
+        "text": "We already know Z-image is the best go to model for realistic images, but on the other side it is dexter at Anime too. I tried a bunch of Anime prompts with Z-image turbo, these are the best ones: 1. Digital illustration of a woman in silhouette sitting on a small wooden boat facing away from the viewer at sunset Subject: A young woman with long dark hair tied in a ponytail, gazing forward toward the horizon with a calm expression Clothing: She wears loose-fitting traditional robes resembling Japanese kimono or gi, layered and draped naturally over her form Action: Seated cross-legged inside the boat, hands resting gently on her lap, body turned slightly to face the setting sun Environment: Calm water reflects fiery orange hues from the sky, distant rocky shores frame the scene under a vast open horizon Objects: A katana rests beside her in the boat, its handle visible and blade sheathed against the hull Lighting: Intense warm glow emanates from an enormous red sun dominating the upper half of the composition, casting dramatic reflections on water and silhouetting foreground elements Style Details: Anime-inspired art style with bold color contrasts, stylized cloud formations around the sun, bird silhouettes flying across its edge, and painterly brushwork suggesting motion in ripples and atmosphere. 2. Digital anime illustration of a woman standing on a rooftop balcony at sunset Subject: young woman with long dark hair and purple highlights wearing dangling earrings Clothing: pink jacket over black bodysuit, gold cross necklace Action: leaning against railing holding Yebisu beer can in one hand while smiling gently toward viewer Environment: Tokyo cityscape featuring multiple television towers under twilight sky filled with stars Lighting: warm sunset glow casting soft shadows across figure and background buildings illuminated by neon signs Camera: medium shot capturing upper body against expansive urban horizon. 3. A dark anime-style illustration of a tall girl with long grey hair and cat ears Subject: her face is completely black save for two glowing red eyes matching the glow on her hoodie graphic. Clothing: She wears an oversized loose-fitting black sweatshirt featuring a large red rectangular patch centered on the chest that shows a stalking black cat in profile, surrounded by jagged lines suggesting energy or heat. Environment: The background consists of utility poles and power wires against a dim sky with some clouds; tall grass silhouettes line the bottom left edge where another small black cat sits looking up at her. Lighting:Lighting is low-key and moody coming from behind creating strong contrast between shadows and highlights emphasizing depth around edges like hair strands. Camera: Camera angle looks slightly upward framing subject prominently while capturing full torso length down to knees suggesting imposing presence despite youthful appearance; composition centers figure vertically with diagonal lines of wires adding dynamic tension across frame boundaries including lower right corner where second cat appears in silhouette form reinforcing theme throughout scene. For remaining prompts check out my free website: Anime Prompts submitted by /u/aimasterguru [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1twvlja/zimage_is_unbelievably_good_at_anime_prompts_given/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_reddit-stablediffusion_7cdadbc8a18122fb",
@@ -368,25 +430,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_712a04ce8fe627fc",
+    "sourceId": "src_reddit-stablediffusion_39b134565d614030",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1twlu8c/anima_edit_with_turbo_lora_and_proper_masking/",
-    "title": "Anima edit with turbo lora and proper masking",
-    "publishedAt": "2026-06-04T12:12:44.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1twqyrf/ideogram_4_is_pretty_good_you_just_really_have/",
+    "title": "Ideogram 4 is pretty good. You just really have use their JSON format.",
+    "publishedAt": "2026-06-04T15:27:31.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "download here (free): https://civitai.com/models/2675426/anima-edit-inpainting-mask it using anime edit lora and use proper masking so it's very usable if you want to create avatar for your visual novel game or 2d avatar ai chatbot.",
-      "i'm using this to creating my animated ai chatbot avatar."
+      "I found that Ideogram4’s JSON format is definitely a must, you get terrible results and random censorship when not using it.",
+      "It’s just a real pain to type out, and figuring out bounding boxes coordinates is just about impossible.",
+      "So I threw together a quick tool to help build ideogram prompts.",
+      "You can set image size, drag bounding boxes and set their prompts and color palettes."
     ],
     "claims": [
       {
-        "text": "download here (free): https://civitai.com/models/2675426/anima-edit-inpainting-mask it using anime edit lora and use proper masking so it's very usable if you want to create avatar for your visual novel game or 2d avatar ai chatbot. i'm using this to creating my animated ai chatbot avatar. submitted by /u/aziib [link] [comments]",
+        "text": "I found that Ideogram4’s JSON format is definitely a must, you get terrible results and random censorship when not using it. It’s just a real pain to type out, and figuring out bounding boxes coordinates is just about impossible. So I threw together a quick tool to help build ideogram prompts. You can set image size, drag bounding boxes and set their prompts and color palettes. When you’re done you can generate the JSON prompts to copy-paste into Comfy, or have it call comfy’s API to generate. The tool is pretty crap, but it’s still way easier than trying to build bounding boxes. Hopefully it’s useful to some people. It’s available as a webpage here: https://d-daley.github.io/ideogram4-editor/ Git repo is here if anyone wants this locally. Pull requests welcome too! https://github.com/d-daley/ideogram4-editor submitted by /u/DsDman [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1twlu8c/anima_edit_with_turbo_lora_and_proper_masking/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1twqyrf/ideogram_4_is_pretty_good_you_just_really_have/"
       }
     ],
     "usableFor": [
@@ -396,84 +460,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_07e8bfb400728077",
+    "sourceId": "src_reddit-stablediffusion_1954f9c34823675d",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1twjl1k/comfyui_node_to_compare_multiple_samplers_and/",
-    "title": "ComfyUI node to compare multiple samplers and schedulers at once",
-    "publishedAt": "2026-06-04T10:24:41.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1twov06/i_apologise_in_advance_for_what_im_about_to_ask/",
+    "title": "I apologise in advance for what I’m about to ask",
+    "publishedAt": "2026-06-04T14:12:00.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Hey, I made a small ComfyUI custom node called KSampler Matrix Lab.",
-      "It lets you test multiple samplers and schedulers at once and outputs everything as one labeled comparison grid.",
-      "Rows are samplers, columns are schedulers, and each cell shows the generated result for that combination.",
-      "I mainly made it because I wanted a faster way to compare sampler/scheduler behavior without manually duplicating KSamplers or changing settings one by one."
+      "I’m sure everyone is sick and tired of hearing beginners asking questions with no research but the field of ai is so vast that now it’s impossible to keep up with everything.",
+      "Is stable diffusion the best AI for image generation?",
+      "I’m interested in creating a Visual Novel so drawn type is what I’m interested in and not realistic.",
+      "It would also be a bonus if it could depict scenes of intercourse."
     ],
     "claims": [
       {
-        "text": "Hey, I made a small ComfyUI custom node called KSampler Matrix Lab. It lets you test multiple samplers and schedulers at once and outputs everything as one labeled comparison grid. Rows are samplers, columns are schedulers, and each cell shows the generated result for that combination. I mainly made it because I wanted a faster way to compare sampler/scheduler behavior without manually duplicating KSamplers or changing settings one by one. It supports: - sampler and scheduler dropdown slots - same seed for all cells - increment seed per cell - labeled output grid - per-cell labels - model / VAE / CLIP / steps / CFG / denoise header - error cells if one combo fails If anyone wants to try it, feel free to grab it here: https://github.com/btitkin/ComfyUI-KSampler-Matrix-Lab Feedback is welcome. If something breaks or you have ideas for improvements, let me know. submitted by /u/Wonderful_Wrangler_1 [link] [comments]",
+        "text": "I’m sure everyone is sick and tired of hearing beginners asking questions with no research but the field of ai is so vast that now it’s impossible to keep up with everything. I’m going to keep it short. Is stable diffusion the best AI for image generation? I’m interested in creating a Visual Novel so drawn type is what I’m interested in and not realistic. It would also be a bonus if it could depict scenes of intercourse. Sorry again if I’m asking things that have already been asked before numerous times. submitted by /u/FitnessFanatic133 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1twjl1k/comfyui_node_to_compare_multiple_samplers_and/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_31204d321bed1736",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tvv4j1/multiple_characters_anima_generations_are_so_good/",
-    "title": "Multiple characters Anima generations are so good. There is some bleeding but its only gonna get better",
-    "publishedAt": "2026-06-03T16:46:55.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "I have attached my civitai profile it has all the workflows.",
-      "I am still learning to prompt better so there will be some prompting, bleeding, anatomy issues.",
-      "For the 4th image after I generated the image I used Grok to add \"Blair Witch\" stick figures into the image, rest all were done using Anima.",
-      "https://civitai.red/user/Smexlo submitted by /u/Asphyxiem [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "I have attached my civitai profile it has all the workflows. I am still learning to prompt better so there will be some prompting, bleeding, anatomy issues. For the 4th image after I generated the image I used Grok to add \"Blair Witch\" stick figures into the image, rest all were done using Anima. I am excited for WAI Anima coming soon. https://civitai.red/user/Smexlo submitted by /u/Asphyxiem [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tvv4j1/multiple_characters_anima_generations_are_so_good/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_8ee5b26c5e58313e",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1twgfn7/apparently_martin_scorsese_uses_flux/",
-    "title": "Apparently Martin Scorsese uses Flux",
-    "publishedAt": "2026-06-04T07:26:44.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "To read the article without the paywall blocking: https://archive.md/aC7ho submitted by /u/CQDSN [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "To read the article without the paywall blocking: https://archive.md/aC7ho submitted by /u/CQDSN [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1twgfn7/apparently_martin_scorsese_uses_flux/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1twov06/i_apologise_in_advance_for_what_im_about_to_ask/"
       }
     ],
     "usableFor": [
@@ -543,36 +550,6 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_60ddf6600c86f844",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tw6zsc/ltx23_union_control_lora_8gb_vram/",
-    "title": "LTX-2.3 + Union Control LoRA (8GB VRAM)",
-    "publishedAt": "2026-06-03T23:53:29.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Reference image was generated with Nano Banana.",
-      "Animated with LTX-2.3 + Union Control LoRA (DW-Pose blended with depth map) Original workflow can be found under https://huggingface.co/RuneXX/LTX-2.3-Workflows/tree/main/Control-reference Tutorial https://youtu.be/Q1PXfeRSlr0 Note: I know...",
-      "But it takes ~900s to run on my RTX 4070 (8GB).",
-      "submitted by /u/big-boss_97 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "Reference image was generated with Nano Banana. Animated with LTX-2.3 + Union Control LoRA (DW-Pose blended with depth map) Original workflow can be found under https://huggingface.co/RuneXX/LTX-2.3-Workflows/tree/main/Control-reference Tutorial https://youtu.be/Q1PXfeRSlr0 Note: I know... his left hand is not quite right 😊. But it takes ~900s to run on my RTX 4070 (8GB). So I leave it. submitted by /u/big-boss_97 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tw6zsc/ltx23_union_control_lora_8gb_vram/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_reddit-comfyui_3f8ca6b7d45fd84f",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
@@ -594,6 +571,33 @@
         "text": "I've been using ComfyUI and WAN Animate workflow I originally got from hearmeman. I shared my own version before here as well. It's been very manual where I used to bypass/unbypass nodes, copy last frames and use nodes to increment my video sequences. Fast forward, I got tired of it and vibe coded a UI using Gradio lol. I'm sharing the flow here and will share in the future once I polish it. Btw, this works for both local and runpod! High-level: Reference workflow -> build custom workflow -> call comfyui api -> poll results from comfy -> video output Flow: Set URL, modes and FPS Input ref image, ref video Set sequence and length in seconds Toggle auto-generate (optional) - this is the magic! This loops through the calculated number of sequences as shown in the video. Toggle stitch (optional) - this is also the magic! Uses ffmpeg to stitch everything, uses reference video's audio so it eliminates the audio lapses from the generated sequences. Just click generate and it will do everything. It also shows the generated videos and last frames per sequence and finally if done, it's going to be stitching those into one video. Feedback are much appreciated! submitted by /u/peejay0812 [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/comfyui/comments/1twjx3c/wan_animate_ui/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-comfyui_87b9ab24c6d5daa9",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tx2vlu/ltx_23_youre_using_it_wrong_the_power_of_seed/",
+    "title": "LTX 2.3: You're using it wrong | The Power of Seed Hunting | Workflow in comments",
+    "publishedAt": "2026-06-04T22:36:12.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "submitted by /u/foxdit [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/foxdit [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tx2vlu/ltx_23_youre_using_it_wrong_the_power_of_seed/"
       }
     ],
     "usableFor": [
@@ -638,7 +642,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-04T13:51:28.488Z",
+    "publishedAt": "2026-06-05T00:03:59.476Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -662,22 +666,24 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_pika-blog_2026-06-04_fallback",
+    "sourceId": "src_pika-blog_80e55ecea6acd04d",
     "sourceType": "blog",
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
-    "title": "Pika Labs Blog signal for ai-video",
-    "publishedAt": "2026-06-04T13:51:28.495Z",
+    "title": "Pika blog",
+    "publishedAt": "2026-06-05T00:03:59.694Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      "Pika blog Careers Contact Us API Login Sign Up Careers Contact Us API Login Sign Up BLOG For creators, by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us.",
+      "It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen.",
+      "Jun 5, 2024 Be the first to hear about Pika updates Get Our Newsletter Company Careers Contact Us Pricing Blog API Connect Discord Instagram X YouTube Facebook TikTok Terms of Service Pika © 2026 ."
     ],
     "claims": [
       {
-        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-        "confidence": "low",
+        "text": "Discover stories, experiments, and insights from the Pika community",
+        "confidence": "medium",
         "evidence": "https://pika.art/blog"
       }
     ],
@@ -693,7 +699,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-04T13:51:29.194Z",
+    "publishedAt": "2026-06-05T00:04:00.253Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -775,24 +781,24 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_afd406b316b9dfff",
+    "sourceId": "src_reddit-aivideo_dc47a37a5bcc144a",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1twjq2d/shartmaxxing_is_he_hubby_material/",
-    "title": "ShartMaxxing: Is He Hubby Material?",
-    "publishedAt": "2026-06-04T10:31:54.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1twnvka/the_price_is_wrong/",
+    "title": "The Price is Wrong",
+    "publishedAt": "2026-06-04T13:35:06.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/misicle [link] [comments]"
+      "submitted by /u/Prudent-Exchange-557 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/misicle [link] [comments]",
+        "text": "submitted by /u/Prudent-Exchange-557 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1twjq2d/shartmaxxing_is_he_hubby_material/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1twnvka/the_price_is_wrong/"
       }
     ],
     "usableFor": [
@@ -802,24 +808,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_426904d25fb1bb87",
+    "sourceId": "src_reddit-aivideo_dacad880cf760349",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tvy7l4/catfishing_at_the_golden_spire_by_gossip_goblin/",
-    "title": "Catfishing at the Golden Spire by Gossip Goblin",
-    "publishedAt": "2026-06-03T18:28:32.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1twses7/humanbug_skirmish_my_longawaited_passion_project/",
+    "title": "Human-Bug Skirmish: My long-awaited passion project finished | AI Short Film [Free to Share]",
+    "publishedAt": "2026-06-04T16:17:31.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/8bitcollective [link] [comments]"
+      "submitted by /u/Real-Direction-1901 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/8bitcollective [link] [comments]",
+        "text": "submitted by /u/Real-Direction-1901 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tvy7l4/catfishing_at_the_golden_spire_by_gossip_goblin/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1twses7/humanbug_skirmish_my_longawaited_passion_project/"
       }
     ],
     "usableFor": [
@@ -861,15 +867,15 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-04T13:51:29.050Z",
+    "publishedAt": "2026-06-05T00:04:00.045Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Jun 3, 2026 · Changelog Organizations for Cursor Enterprise Enterprise customers can now manage multiple Cursor teams from one place, with different security, governance, budget, and feature controls for each.",
-      "These capabilities are now generally available to all Enterprise customers.",
-      "# Organizations An organization is the top-level container for your company's identity, administration, and membership.",
-      "It gives admins one place to view and manage their entire Cursor setup, including a rollup of spend and token usage across every team."
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.7 Jun 4, 2026 · Changelog Canvas Design Mode and Context Usage Report With canvases , agents can create interactive artifacts like dashboards, reports, and internal tools that you can share with your team .",
+      "This release introduces Design Mode for faster canvas editing, new ways to understand context usage, and other quality-of-life improvements.",
+      "# Design Mode in canvases Design Mode is now available in canvases.",
+      "Select and annotate UI elements directly in a canvas to guide Cursor's edits, just as you would in the browser."
     ],
     "claims": [
       {
@@ -890,7 +896,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-04T13:51:28.537Z",
+    "publishedAt": "2026-06-05T00:03:59.471Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -914,12 +920,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-06-04_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-06-05_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-04T13:51:29.352Z",
+    "publishedAt": "2026-06-05T00:03:59.799Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -946,15 +952,15 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-04T13:51:29.187Z",
+    "publishedAt": "2026-06-05T00:04:00.023Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
       "Replit — Replit Blog – Product updates from the team Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Wed, Mar 11, 2026 • Featured Introducing Replit Agent 4: Built for Creativity Introducing Agent 4—Replit's fastest, most versatile Agent yet.",
       "Push the boundaries of what's possible in vibe coding and build production-ready apps faster.",
-      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Wed, Jun 3, 2026 Meet Replit SEO Agent You shipped your app.",
-      "Your app may look great, but if no one can find it, it stays invisible."
+      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Thu, Jun 4, 2026 Build a custom Shopify storefront on Replit Starting today, anyone can design and launch a custom Shopify storefront by chatting with the Replit Agent.",
+      "Describe the store you want, and Agent generates a custom front end, creates a new Shopify store, and adds your products from the same conversation."
     ],
     "claims": [
       {
@@ -975,7 +981,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-06-04T13:51:28.664Z",
+    "publishedAt": "2026-06-05T00:03:59.792Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1087,25 +1093,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_37ef6ba1e574fbca",
+    "sourceId": "src_reddit-midjourney_b43bf83745161726",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1twmr6r/the_people_of_the_distant_moon/",
-    "title": "The People of The Distant Moon",
-    "publishedAt": "2026-06-04T12:51:42.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tx0qgq/various_corporate_experiments/",
+    "title": "Various Corporate Experiments",
+    "publishedAt": "2026-06-04T21:12:50.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "Part of a world I’m building for my Alternate Universe 🥰💘 Been super happy with the outcome of V8 so much!",
-      "submitted by /u/Pleasant_Parfait6050 [link] [comments]"
+      "I prompted these based on a future where corporate dominance over the scientific field has effectively allowed for experiments to take place to create superweapons / engage in biological warfare.",
+      "Many of these experiments are failures, and some had to be aborted.",
+      "submitted by /u/cieldemiel [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Part of a world I’m building for my Alternate Universe 🥰💘 Been super happy with the outcome of V8 so much! submitted by /u/Pleasant_Parfait6050 [link] [comments]",
+        "text": "I prompted these based on a future where corporate dominance over the scientific field has effectively allowed for experiments to take place to create superweapons / engage in biological warfare. Many of these experiments are failures, and some had to be aborted. submitted by /u/cieldemiel [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1twmr6r/the_people_of_the_distant_moon/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tx0qgq/various_corporate_experiments/"
       }
     ],
     "usableFor": [
@@ -1115,24 +1122,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_659717c8e2b741e6",
+    "sourceId": "src_reddit-midjourney_7bc0efd66286791f",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1twjjum/tardigrade_steel_balloon_sculpture/",
-    "title": "Tardigrade steel balloon sculpture",
-    "publishedAt": "2026-06-04T10:22:51.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1twu7n4/the_beauty_is_outside/",
+    "title": "The Beauty is Outside.",
+    "publishedAt": "2026-06-04T17:20:18.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Zaicab [link] [comments]"
+      "submitted by /u/Mordrat_The_Grey [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Zaicab [link] [comments]",
+        "text": "submitted by /u/Mordrat_The_Grey [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1twjjum/tardigrade_steel_balloon_sculpture/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1twu7n4/the_beauty_is_outside/"
       }
     ],
     "usableFor": [
@@ -1147,7 +1154,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-04T13:51:30.734Z",
+    "publishedAt": "2026-06-05T00:04:01.433Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1308,12 +1315,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_huggingface-blog_af185e1e7e4dfbac",
+    "sourceId": "src_huggingface-blog_2026-06-05_fallback",
     "sourceType": "blog",
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
-    "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-04T13:51:28.814Z",
+    "title": "Hugging Face Blog signal for ai-agentic",
+    "publishedAt": "2026-06-05T00:03:59.695Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1321,15 +1328,12 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 3 days ago • 65 Introduction to Trimming ✂ lbourdois • 7 days ago • 37 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 3 days ago • 15 Agentic RL: Token-In, Token-Out Done Right huggingface • 6 days ago • 11 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 6 days ago • 9 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 3 days ago • 9 MONET: Lowering the bar for World-Class Image Generation research.",
-      "jasperai • 7 days ago • 10 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 14 days ago • 55 Server is at capacity ml-intern-explorers • 8 days ago • 6 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 6 days ago • 5 A Deep Neural Network that turns Any Image into a Playable Game!",
-      "All on consumer GPUs, NOT DATACENTER lucidml • 3 days ago • 5 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 12 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models nvidia • 13 days ago • 29 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 9 days ago • 6 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • about 2 hours ago • 4 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 179 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 3 days ago • 3 ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM ibm-research • 8 days ago • 14 AutoResearch on Diffusers' Pipeline for 10 Rounds on JarvisLabs chansung • 1 day ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 228 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent 3 June 4, 2026 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios 3 June 4, 2026 Direct Preference Optimization Beyond Chatbots 5 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 10 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 26 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 27 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 80 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 73 May 29, 2026 guide robotics audio Reachy Mini goes fully local 50 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 39 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 97 May 25, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 22 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 51 May 19, 2026 PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 35 May 18, 2026 Previous 1 2 3 ...",
-      "57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
     ],
     "claims": [
       {
-        "text": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-        "confidence": "medium",
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
         "evidence": "https://huggingface.co/blog"
       }
     ],
@@ -1337,7 +1341,37 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_729e4754e320bf42",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+    "title": "Quoting Emanuel Maiberg, 404 Media",
+    "publishedAt": "2026-06-04T16:38:29.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Emanuel Maiberg, 404 Media Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent.",
+      "Try Foundry 4th June 2026 After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement.",
+      "The new statement no longer stated that \"it's critical that we maintain humans in the loop.\" &mdash; Emanuel Maiberg, 404 Media , Google Employees Internally Share Memes About How Its AI Sucks Posted 4th June 2026 at 4:38 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a quotation collected by Simon Willison, posted on 4th June 2026 .",
+      "google 410 journalism 50 ai 2,052 ai-ethics 310 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    ],
+    "claims": [
+      {
+        "text": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\" &mdash; Emanuel Maiberg, 404 Media , Google Employees Internally Share Memes About How Its AI Sucks Tags: ai-ethics , journalism , ai , google",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_4382a3e2d4a126cc",
@@ -1460,42 +1494,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_b0f9095679d21c3b",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
-    "title": "California Brown Pelican",
-    "publishedAt": "2026-06-02T18:17:03.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Sighting: California Brown Pelican Simon Willison’s Weblog Subscribe Sponsored by: The AI App and Agent Factory &mdash; Microsoft Foundry is the enterprise Al platform where intelligence and trust ship with every agent.",
-      "Try Foundry 2nd June 2026 Sighting 11:17 AM &mdash; California Brown Pelican, in Fort Mason, CA, US California Brown Pelican I'm at the Microsoft Build conference today, held at Fort Mason in San Francisco.",
-      "There are California Brown Pelicans diving into the water directly behind venue!",
-      "Posted 2nd June 2026 at 6:17 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a beat by Simon Willison, posted on 2nd June 2026 ."
-    ],
-    "claims": [
-      {
-        "text": "California Brown Pelican, in Fort Mason, CA, US I'm at the Microsoft Build conference today, held at Fort Mason in San Francisco. There are California Brown Pelicans diving into the water directly behind venue! Tags: microsoft , ai , generative-ai , llms , llm-release",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-04T13:51:28.822Z",
+    "publishedAt": "2026-06-05T00:03:59.802Z",
     "categoryHints": [
       "ai-agentic"
     ],
