@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-06T00:04:04.736Z",
+    "publishedAt": "2026-06-06T12:02:46.232Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-06T00:04:05.024Z",
+    "publishedAt": "2026-06-06T12:02:52.404Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-06T00:04:04.026Z",
+    "publishedAt": "2026-06-06T12:02:45.361Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-06T00:04:04.799Z",
+    "publishedAt": "2026-06-06T12:02:45.915Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,6 +167,35 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aiagents_e61a058457a2608b",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tye5lt/what_are_the_best_resources_to_learn_ai_agents_in/",
+    "title": "What are the best resources to learn AI Agents in 2026?",
+    "publishedAt": "2026-06-06T10:56:59.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "The context is that I am a software engineering final year student.",
+      "I also have experience working in ML, DL, NLP i.e I have the basics nailed.",
+      "What I am looking for is something that will help me understand the technical side of AI Agents in full details because I want to do my Final Year Project in Agentic AI, and I want to start now.",
+      "I am NOT looking for blogs, articles etc but a full tutorial or guide or whatever else may help me go in-depth."
+    ],
+    "claims": [
+      {
+        "text": "The context is that I am a software engineering final year student. I also have experience working in ML, DL, NLP i.e I have the basics nailed. What I am looking for is something that will help me understand the technical side of AI Agents in full details because I want to do my Final Year Project in Agentic AI, and I want to start now. I am NOT looking for blogs, articles etc but a full tutorial or guide or whatever else may help me go in-depth. I would not prefer raw documentation because when I don't have guidance, I get stuck. Also, free options are more preferred as compared to paid options. Thanks in advance submitted by /u/profile_removed [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tye5lt/what_are_the_best_resources_to_learn_ai_agents_in/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aiagents_f6da2ee6b0a6243c",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -196,55 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_eb7a83a983d16193",
+    "sourceId": "src_reddit-aiagents_8e9a53e8100a5072",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1txtm2n/what_do_you_think_software_looks_like_when_agents/",
-    "title": "What do you think software looks like when agents become normal users of apps?",
-    "publishedAt": "2026-06-05T18:42:25.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tye06v/what_actually_belongs_in_a_codingagent_inbox/",
+    "title": "What actually belongs in a coding-agent inbox?",
+    "publishedAt": "2026-06-06T10:48:27.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’ve been thinking about this a lot lately.",
-      "Most software today is still designed around humans clicking through screens: dashboards, forms, permissions, notifications, workflows, etc.",
-      "AI agents are usually added as a copilot or automation layer on top of that.",
-      "But what happens when agents become normal users of software too?"
+      "A lot of tools are converging on session dashboards now.",
+      "For people running 3+ agents, is the useful view status/blockers/artifacts, or do you actually want cross-agent chat and routing too?",
+      "I am mostly asking about what survives daily use once the demo novelty wears off.",
+      "submitted by /u/sahanpk [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I’ve been thinking about this a lot lately. Most software today is still designed around humans clicking through screens: dashboards, forms, permissions, notifications, workflows, etc. AI agents are usually added as a copilot or automation layer on top of that. But what happens when agents become normal users of software too? For example, if an agent is working across tasks over time, it probably needs some kind of durable state, not just chat history. If agents collaborate with each other, they need clear rules for what they can read, write, share, or hand off. And if they make decisions or take actions, we probably need better audit trails than “the AI did it.” I’m curious how people here think this plays out. Do existing apps just add agent features over time? Or do we get a new category of software that is designed from the start for agents as first-class actors? What would you want to see in that kind of software? Memory, permissions, identity, human approval flows, audit logs, better APIs, something else? submitted by /u/sean_mu [link] [comments]",
+        "text": "A lot of tools are converging on session dashboards now. For people running 3+ agents, is the useful view status/blockers/artifacts, or do you actually want cross-agent chat and routing too? I am mostly asking about what survives daily use once the demo novelty wears off. submitted by /u/sahanpk [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1txtm2n/what_do_you_think_software_looks_like_when_agents/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_9dc7417fa1c835ee",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1txzeow/pulling_my_hair_out_all_i_want_is_to_get_a/",
-    "title": "Pulling my hair out. All I want is to get a summary of my Slack messages and with a list of action items every morning. Employer is too cheap to pay for the AI enterprise plan and they disabled the Claude connector. Why is this so hard?",
-    "publishedAt": "2026-06-05T22:22:39.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "The goal is dead simple: every morning, I want a digest of my Slack messages plus a clean list of action items pulled out of them.",
-      "The problem is my employer won't spring for the enterprise AI plan, and on top of that they've disabled the Claude connector for Slack, so the easy path is just gone.",
-      "So now I'm stuck trying to duct-tape something together myself.",
-      "What I'm trying to figure out: Is the Slack API the move here?"
-    ],
-    "claims": [
-      {
-        "text": "Genuinely losing my mind over this. The goal is dead simple: every morning, I want a digest of my Slack messages plus a clean list of action items pulled out of them. That's it. Not asking for anything fancy. The problem is my employer won't spring for the enterprise AI plan, and on top of that they've disabled the Claude connector for Slack, so the easy path is just gone. So now I'm stuck trying to duct-tape something together myself. What I'm trying to figure out: Is the Slack API the move here? I think I'd need a bot token with the right scopes to read channel history and DMs, but I'm fuzzy on whether IT restrictions will block me from even creating an app in the workspace. Has anyone built something that pulls messages on a schedule (cron job, n8n, Make, whatever) and pipes them to an LLM for summarization + action item extraction? If the workspace is locked down hard, are there any approaches that work from the client side without admin approval, or am I dreaming? I'd rather not pay out of pocket for something my company should just enable, but at this point I want the workflow more than I care about the principle. If you've solved this exact thing, I'd love to hear your stack and where the gotchas were. What's worked for you? submitted by /u/Inevitable_Ad_711 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1txzeow/pulling_my_hair_out_all_i_want_is_to_get_a/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tye06v/what_actually_belongs_in_a_codingagent_inbox/"
       }
     ],
     "usableFor": [
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-06T00:04:04.152Z",
+    "publishedAt": "2026-06-06T12:02:45.703Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,14 +285,14 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-06T00:04:04.798Z",
+    "publishedAt": "2026-06-06T12:02:46.288Z",
     "categoryHints": [
       "ai-image"
     ],
     "keyFacts": [
       "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new June 4, 2026 FLUX.2 is now on device: ASUS ProArt laptops now support Klein models For the first time a FLUX model will ship on consumer hardware.",
       "In partnership with ASUS and NVIDIA, creators picking up a new ASUS ProArt laptop will find FLUX.2 [klein] optimized for the device.",
-      "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein Flux Tools API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001 Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.",
+      "Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein Flux Tools API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001:2022 SOC 2 Type II Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.",
       "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Models News Research May 28, 2026 FLUX VTO: Virtual Try-On at scale FLUX Virtual Try-On allows users to seem themselves in outfits before they buy with high accuracy and garment consistency."
     ],
     "claims": [
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-06T00:04:04.190Z",
+    "publishedAt": "2026-06-06T12:02:45.643Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -370,27 +370,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_25cb8a2061fa52ac",
+    "sourceId": "src_reddit-stablediffusion_71dd4a0aa02e3ef8",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1txt582/ideogram_40_comics_test/",
-    "title": "[Ideogram 4.0] Comics test",
-    "publishedAt": "2026-06-05T18:25:10.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ty9uzs/ideogram_40_examples_with_prompt_assist/",
+    "title": "Ideogram 4.0 Examples with prompt assist",
+    "publishedAt": "2026-06-06T06:45:34.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "I created a comics some months ago : https://www.reddit.com/r/StableDiffusion/comments/1pcgqdm Now tried it using Ideogram 4.0 .",
-      "I just copy pasted the prompts from that source reddit post.",
-      "AI image models are getting better day by day.",
-      "submitted by /u/RageshAntony [link] [comments]"
+      "These examples are using vision from my old images.",
+      "It is for sure my new favorite image model.",
+      "I had no time to test more with the parameters but I think the quality is outstanding.",
+      "submitted by /u/juanpablogc [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I created a comics some months ago : https://www.reddit.com/r/StableDiffusion/comments/1pcgqdm Now tried it using Ideogram 4.0 . I just copy pasted the prompts from that source reddit post. Output is good. AI image models are getting better day by day. submitted by /u/RageshAntony [link] [comments]",
+        "text": "These examples are using vision from my old images. These are the results. It is for sure my new favorite image model. I had no time to test more with the parameters but I think the quality is outstanding. TD;LR ES LA LECHE. submitted by /u/juanpablogc [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1txt582/ideogram_40_comics_test/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ty9uzs/ideogram_40_examples_with_prompt_assist/"
       }
     ],
     "usableFor": [
@@ -400,24 +400,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_8ac633366f115d55",
+    "sourceId": "src_reddit-stablediffusion_2a9e2b90083e2cf2",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1txtrtr/ltx_23_youre_using_it_wrong_the_power_of_seed/",
-    "title": "LTX 2.3: You're using it wrong | The Power of Seed Hunting | Workflow in comments",
-    "publishedAt": "2026-06-05T18:48:17.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ty7cjj/old_man_yells_at_node/",
+    "title": "Old Man Yells at Node",
+    "publishedAt": "2026-06-06T04:30:20.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "submitted by /u/foxdit [link] [comments]"
+      "https://preview.redd.it/efx0wi6mal5h1.png?width=1200&format=png&auto=webp&s=07ef216a5e02f0e2af89a9e1b1e6325a86a7923f There are a lot of new custom nodes appearing lately.",
+      "Non-developers, legitimately and rightfully excited about the new superpowers that vibe coding grants them, have begun exploring what they can accomplish.",
+      "It turns out they can accomplish a lot, because in mid-2026, agentic coding is pretty damn amazing.",
+      "People who couldn't write a line of code are shipping functional tools."
     ],
     "claims": [
       {
-        "text": "submitted by /u/foxdit [link] [comments]",
+        "text": "https://preview.redd.it/efx0wi6mal5h1.png?width=1200&format=png&auto=webp&s=07ef216a5e02f0e2af89a9e1b1e6325a86a7923f There are a lot of new custom nodes appearing lately. Non-developers, legitimately and rightfully excited about the new superpowers that vibe coding grants them, have begun exploring what they can accomplish. It turns out they can accomplish a lot, because in mid-2026, agentic coding is pretty damn amazing. People who couldn't write a line of code are shipping functional tools. The thing is, since they're not experienced developers, they aren't thinking about things like maintainability, brittleness, composability, or finding the simplest solution for the task. They just tell Claude to make a thing for them, and Claude does, and it is large and smooth and wonderful, a vibe-coded Jenga tower that sprung fully formed from their mind. And that's fine. The thing works, and the maker is happy and gets some karma and maybe some github stars, and in two weeks nobody ever thinks about the wonderful vibe-coded Jenga tower again. It is large and smooth and complete. But you're meant to be able to put your hands into a workflow, to stir it up, to affect it . Working the knobs on a sealed box is a legitimate interaction model, but that's what you do with an app . In a workflow, it's kind of a category error. The vibe-coded Jenga tower is magnificent, but it's also yours , solving your problem your way. Sharing it with me is beside the point because I have the same vibe-coding superpowers as you. I can make my own. submitted by /u/goddess_peeler [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1txtrtr/ltx_23_youre_using_it_wrong_the_power_of_seed/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ty7cjj/old_man_yells_at_node/"
       }
     ],
     "usableFor": [
@@ -427,27 +430,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_03a42ae62aef310b",
+    "sourceId": "src_reddit-stablediffusion_4f545dc851ff9f4a",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1txs49n/character_creation_design_manipulation_with_zit/",
-    "title": "Character creation/ design/ manipulation with ZIT and Klein 9B.",
-    "publishedAt": "2026-06-05T17:48:12.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ty4kg1/comfyui_support_or_bytedance_lance3b_unified/",
+    "title": "ComfyUI support or ByteDance Lance-3B (unified image/video generation, editing, and understanding), with dynamic VRAM for low-VRAM GPUs",
+    "publishedAt": "2026-06-06T02:13:17.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Just wanted to share a basic process os this character creation.",
-      "Generated the base body and face with ZIT.",
-      "The shirt was extracted with Klein, textures refined with it too.",
-      "The other changes were made using Klein Inpaint and reference images with the Lanpaint node."
+      "A bit late to the party for this model, but I haven't found good support for Lance in ComfyUI.",
+      "Running the model as is requires 40GB VRAM (as per official doc) because it loads the whole model directly in GPU.",
+      "ComfyUI added feature for dynamic VRAM which essentially allows model to be parts of the model to be loaded and offloaded dynamically on-the-fly.",
+      "I implemented ComfyUI custom node port of the original Lance codebase to support this."
     ],
     "claims": [
       {
-        "text": "Just wanted to share a basic process os this character creation. Generated the base body and face with ZIT. The shirt was extracted with Klein, textures refined with it too. The other changes were made using Klein Inpaint and reference images with the Lanpaint node. I got it from here: https://github.com/scraed/LanPaint/blob/master/example_workflows/Flux2_Klein_inpainting.json A little bit of photoshop here and there to fix a thing or two. Like making her chest/torax smaller. I found a hobby for the whole life, and it's free. submitted by /u/aniki_kun [link] [comments]",
+        "text": "A bit late to the party for this model, but I haven't found good support for Lance in ComfyUI. Running the model as is requires 40GB VRAM (as per official doc) because it loads the whole model directly in GPU. ComfyUI added feature for dynamic VRAM which essentially allows model to be parts of the model to be loaded and offloaded dynamically on-the-fly. I implemented ComfyUI custom node port of the original Lance codebase to support this. This model supports image/video generation, editing, and understanding all in one. I have tested running all of them in my GPU with 12GB VRAM and confirmed all works well. Generating 10 seconds video takes about 15 minute on RTX 5070. It's installable via ComfyUI manager under name \"Lance-3B AIO\", or you can also install from the source in github.com/SteveImmanuel/comfyui-lance-aio Would love get feedbacks from community to see if it can be run on even smaller VRAM! submitted by /u/HuskyTheSniffer [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1txs49n/character_creation_design_manipulation_with_zit/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ty4kg1/comfyui_support_or_bytedance_lance3b_unified/"
       }
     ],
     "usableFor": [
@@ -457,25 +460,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_27e246f978de566f",
+    "sourceId": "src_reddit-stablediffusion_dcff62d175144d21",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1txu340/thoughts/",
-    "title": "Thoughts?",
-    "publishedAt": "2026-06-05T18:59:37.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tydmd5/random_pics_ive_made_with_anima/",
+    "title": "Random pics I've made with Anima.",
+    "publishedAt": "2026-06-06T10:26:26.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Do you think this is good or bad for AI ?",
-      "submitted by /u/thisiztrash02 [link] [comments]"
+      "submitted by /u/kayai_art [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Do you think this is good or bad for AI ? submitted by /u/thisiztrash02 [link] [comments]",
+        "text": "submitted by /u/kayai_art [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1txu340/thoughts/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tydmd5/random_pics_ive_made_with_anima/"
       }
     ],
     "usableFor": [
@@ -545,24 +547,57 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_7299b41f7178f771",
+    "sourceId": "src_reddit-comfyui_6a6c8bd64f79e29f",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1txjowi/fasten_your_seatbelts_this_is_the_raw_power_of/",
-    "title": "Fasten your seatbelts, this is the raw power of RTX PRO 6000. From scratch to 4K (images + video + upscale + final render) in under an hour for a 6-minute epic journey.",
-    "publishedAt": "2026-06-05T12:34:54.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tye5n6/local_uncensored_img2img_qwen3vl_abliterated_8b/",
+    "title": "Local & Uncensored Img2Img: Qwen3-VL Abliterated 8B Analyzes Your Image → Generates a Structured JSON Prompt for Ideogram 4 in ComfyUI",
+    "publishedAt": "2026-06-06T10:57:03.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "submitted by /u/AxonkaiLab [link] [comments]"
+      "Today I'd like to share a ComfyUI workflow I built around a fully local and uncensored pipeline that combines LLM-based vision analysis with Ideogram 4 image generation.",
+      "The concept is simple: you provide an input image, a local multimodal LLM performs an in-depth analysis, generates an ultra-structured JSON prompt using Ideogram 4's native format, and the generation starts automatically.",
+      "🔍 Workflow Overview The pipeline is divided into three main phases : Phase 1 — Visual Analysis of the Source Image (Qwen3-VL Vision) The input image is loaded through a LoadImage node and then resized to 75% ( ImageScaleBy ) to optimize LLM memory usage.",
+      "It is then sent to a first OllamaChat node connected to huihui_ai/qwen3-vl-abliterated:8b-instruct via OllamaConnectivityV2 ."
     ],
     "claims": [
       {
-        "text": "submitted by /u/AxonkaiLab [link] [comments]",
+        "text": "Hello everyone! Today I'd like to share a ComfyUI workflow I built around a fully local and uncensored pipeline that combines LLM-based vision analysis with Ideogram 4 image generation. The concept is simple: you provide an input image, a local multimodal LLM performs an in-depth analysis, generates an ultra-structured JSON prompt using Ideogram 4's native format, and the generation starts automatically. No cloud services. No external APIs. 🔍 Workflow Overview The pipeline is divided into three main phases : Phase 1 — Visual Analysis of the Source Image (Qwen3-VL Vision) The input image is loaded through a LoadImage node and then resized to 75% ( ImageScaleBy ) to optimize LLM memory usage. It is then sent to a first OllamaChat node connected to huihui_ai/qwen3-vl-abliterated:8b-instruct via OllamaConnectivityV2 . This model is an abliterated (uncensored) version of Qwen3-VL 8B, enabling complete visual analysis without content restrictions. The system prompt of this first OllamaChat acts as an Ideogram 4 caption architect specialized in photographic analysis . It breaks the image down into: Scene type and visual hierarchy Environment and depth of field Subjects and figures present (pose, clothing, expression) Architecture and materials Lighting (source, direction, quality, color temperature) Color palette (8 to 16 hex values) Composition and framing Atmosphere and mood Visible text within the scene The output is a raw JSON structured according to Ideogram 4's native schema ( high_level_description , style_description , and compositional_deconstruction with back-to-front elements and bounding boxes using 0–1000 coordinates). Phase 2 — JSON Refinement and Optimization (Qwen3-VL Text) The JSON generated in Phase 1 is displayed via ShowText|pysssss and passed as a text prompt to a second OllamaChat , still using qwen3-vl-abliterated:8b-instruct . This second pass uses a system prompt acting as a caption architect focused on reformulation. It receives the raw analysis JSON and refines it to maximize Ideogram 4 generation quality while strictly respecting the expected JSON schema (key ordering, photo vs. art_style constraints, bbox rules, uppercase hex palettes, etc.). The result is displayed in a second ShowText|pysssss . Phase 3 — Ideogram 4 Generation (DualModelGuider) The final JSON is encoded through CLIPTextEncode (Positive Prompt) using Ideogram 4's dedicated CLIP encoder ( qwen3vl_8b_fp8_scaled.safetensors , type ideogram4 ). Generation uses a DualModelGuider architecture: Positive model: ideogram4_fp8_scaled.safetensors via UNETLoader → ModelSamplingAuraFlow (shift=5) → CFGOverride (CFG=3, distilled_cfg=0.9) Negative model: ideogram4_unconditional_fp8_scaled.safetensors with zeroed conditioning ( ConditioningZeroOut ) The sampler configuration: Sampler: Euler Scheduler: BasicScheduler (simple, 28 steps) Seed: managed through Seed (rgthree) for precise control Resolution: managed by FluxResolutionNode (configurable format, e.g., 16:9 Panorama → 1328×752) Latent: EmptyFlux2LatentImage VAE: flux2-vae.safetensors The output is decoded ( VAEDecode ), previewed ( PreviewImage ), and saved as an 8-bit sRGB PNG ( SaveImageAdvanced ). 🛠️ Technical Stack Component Details Vision LLM huihui_ai/qwen3-vl-abliterated:8b-instruct LLM Interface comfyui-ollama v2.0.7 CLIP Encoder qwen3vl_8b_fp8_scaled.safetensors (Ideogram 4 type) Diffusion Model ideogram4_fp8_scaled.safetensors Negative Model ideogram4_unconditional_fp8_scaled.safetensors VAE flux2-vae.safetensors Custom Nodes comfyui-ollama, rgthree-comfy, comfyui-easy-use, comfyui-custom-scripts, controlaltai-nodes, RES4LYF 📦 Installation 1. Install Ollama and the Model # Install Ollama: https://ollama.com ollama pull huihui_ai/qwen3-vl-abliterated:8b-instruct # or ollama run huihui_ai/qwen3-vl-abliterated:8b-instruct 2. Install the comfyui-ollama Custom Node Using ComfyUI Manager or manually: cd ComfyUI/custom_nodes git clone https://github.com/stavsap/comfyui-ollama 3. Download Ideogram 4 Models From Hugging Face (Comfy-Org): ideogram4_fp8_scaled.safetensors → diffusion_models/ ideogram4_unconditional_fp8_scaled.safetensors → diffusion_models/ qwen3vl_8b_fp8_scaled.safetensors → text_encoders/ flux2-vae.safetensors → vae/ 4. Load the Workflow Import the JSON into ComfyUI, verify that Ollama is running at http://127.0.0.1:11434 , connect a source image, and launch the workflow. ⚙️ Ollama Parameters Both OllamaOptionsV2 nodes are configured with: Temperature: 0.1 (highly deterministic outputs) Repeat penalty: 1.1 Top-k: 40 / Top-p: 0.9 Num ctx: 16384 tokens (extended context for large JSON outputs) Repeat last n: 64 Seed: randomized for each run Num predict: -1 (full generation without truncation) 💡 What Makes This Workflow Interesting Double-Pass LLM Architecture Phase 1 extracts raw visual facts directly from the image. Phase 2 reformulates and optimizes the JSON specifically for Ideogram 4's expected schema. This approach is more robust than a single pass because the second LLM can correct structural inconsistencies and improve prompt quality. Native Ideogram 4 JSON Format Unlike traditional text prompts, Ideogram 4 is trained on a structured JSON format containing: high_level_description style_description (hex palette, lighting, photo/art_style) compositional_deconstruction (elements with 0–1000 bounding boxes using y_min/x_min/y_max/x_max ordering) The system prompts are designed to match this distribution as closely as possible. Abliterated = No Refusals The huihui_ai/qwen3-vl-abliterated model analyzes and describes content without restrictions, preventing pipeline interruptions on artistic or sensitive imagery. Fully Local and Free No external APIs. No per-request costs. Everything runs locally. 📝 Example JSON Output (Excerpt) { \"high_level_description\": \"A serene, luxurious spa scene featuring a female therapist performing a gentle back massage on a male client...\", \"style_description\": { \"aesthetics\": \"luxury spa photography, cinematic warm lighting, ambient glow\", \"lighting\": \"Primary source: multiple candle flames casting soft, diffused light. Color temperature: amber-gold.\", \"photo\": \"Medium shot framing subjects at eye level. Shallow depth of field on therapist and client.\", \"medium\": \"photograph\", \"color_palette\": [\"#2C0F0A\", \"#6B4731\", \"#8D5E49\", \"#B47E61\", \"#DBAD99\", \"#EFAA8D\", \"#FFCAAE\", \"#FFFACD\"] }, \"compositional_deconstruction\": { \"background\": \"Deep, dark wood walls and floorboards with rich grain textures...\", \"elements\": [ { \"type\": \"obj\", \"bbox\": [0, 0, 1000, 800], \"desc\": \"BACKGROUND — dark wood walls...\", \"color_palette\": [\"#2C0F0A\", \"#5B4132\"] } ] } } 🔗 Resources Ollama Model: https://ollama.com/huihui_ai/qwen3-vl-abliterated:8b-instruct Ollama Custom Nodes: https://github.com/stavsap/comfyui-ollama Ideogram 4 Models: https://huggingface.co/Comfy-Org/Ideogram-4 Workflow JSON (Pastebin): https://pastebin.com/9rSK1rAP Share your results with this workflow! I'd be curious to see what people create with it across other image categories such as architecture, portraits, landscapes, and beyond. submitted by /u/Ssm5969 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1txjowi/fasten_your_seatbelts_this_is_the_raw_power_of/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tye5n6/local_uncensored_img2img_qwen3vl_abliterated_8b/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-comfyui_639ea8493e915036",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tydt9d/sharing_my_upscale_models/",
+    "title": "Sharing my upscale models",
+    "publishedAt": "2026-06-06T10:37:28.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Hi everyone, I want to share my custom-trained CNN models on various architectures, you can find them here: https://github.com/limitlesslab/AI-upscaling-models I already made a post yesterday but deleted it by mistake (the other post should have been deleted, not this one), so I'm posting again.",
+      "These models can be used either in Chainner of ComfyUI.",
+      "I hope you truly like these models just like I do - I lot of work and dedication has been put to make them look great.",
+      "Here are some visual examples of what these models can do."
+    ],
+    "claims": [
+      {
+        "text": "Hi everyone, I want to share my custom-trained CNN models on various architectures, you can find them here: https://github.com/limitlesslab/AI-upscaling-models I already made a post yesterday but deleted it by mistake (the other post should have been deleted, not this one), so I'm posting again. These models can be used either in Chainner of ComfyUI. I hope you truly like these models just like I do - I lot of work and dedication has been put to make them look great. Here are some visual examples of what these models can do. Enjoy! https://slow.pics/s/UX5FyEwS?canvas-mode=fit-height&image-fit=cover https://slow.pics/s/k7Yie3Et?canvas-mode=fit-width&image-fit=cover https://slow.pics/s/c2vBrumd?canvas-mode=fit-width&image-fit=contain submitted by /u/elitegenes [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tydt9d/sharing_my_upscale_models/"
       }
     ],
     "usableFor": [
@@ -584,43 +619,15 @@
     ],
     "keyFacts": [
       "Since the safety filter seems to apply on the early steps only, the idea is to use a duo of Advanced Ksamplers : run the first 2 steps on the 1st ksampler using a clean prompt, and then run the the remaining steps with your full prompt on the 2nd ksampler.",
-      "https://preview.redd.it/r89l53etli5h1.png?width=840&format=png&auto=webp&s=b6e7edd8d6fe3689c2a53260be1c320170899283 submitted by /u/qdr1en [link] [comments]"
+      "https://preview.redd.it/r89l53etli5h1.png?width=840&format=png&auto=webp&s=b6e7edd8d6fe3689c2a53260be1c320170899283 Edit : to preserve quality, use both models, along with two distinct Dual Model CFG Guider nodes, and a SplitSigmas node.",
+      "Thanks to u/Hoodfu for suggesting this solution.",
+      "https://preview.redd.it/n6v064wkgk5h1.png?width=931&format=png&auto=webp&s=480c1bc72c6c2c434049c08f3b53053502158ffa Working workflow example here: https://pastes.io/t1aw64As Note : if it does not work with a split after step 1, try with steps 2, 3, or 4."
     ],
     "claims": [
       {
-        "text": "Since the safety filter seems to apply on the early steps only, the idea is to use a duo of Advanced Ksamplers : run the first 2 steps on the 1st ksampler using a clean prompt, and then run the the remaining steps with your full prompt on the 2nd ksampler. That's all. https://preview.redd.it/r89l53etli5h1.png?width=840&format=png&auto=webp&s=b6e7edd8d6fe3689c2a53260be1c320170899283 submitted by /u/qdr1en [link] [comments]",
+        "text": "Since the safety filter seems to apply on the early steps only, the idea is to use a duo of Advanced Ksamplers : run the first 2 steps on the 1st ksampler using a clean prompt, and then run the the remaining steps with your full prompt on the 2nd ksampler. That's all. https://preview.redd.it/r89l53etli5h1.png?width=840&format=png&auto=webp&s=b6e7edd8d6fe3689c2a53260be1c320170899283 Edit : to preserve quality, use both models, along with two distinct Dual Model CFG Guider nodes, and a SplitSigmas node. Thanks to u/Hoodfu for suggesting this solution. https://preview.redd.it/n6v064wkgk5h1.png?width=931&format=png&auto=webp&s=480c1bc72c6c2c434049c08f3b53053502158ffa Working workflow example here: https://pastes.io/t1aw64As Note : if it does not work with a split after step 1, try with steps 2, 3, or 4. submitted by /u/qdr1en [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/comfyui/comments/1txurpt/ideogram4_get_through_the_safety_filter/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_2a326a8aa4fcb31c",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1txopz0/how_to_train_a_consistent_character_lora_in/",
-    "title": "How to train a consistent character LoRA in ComfyUI — the Z-Image Turbo settings that finally stopped my face drift",
-    "publishedAt": "2026-06-05T15:47:20.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Been teaching this to my community for a while and the consistency question comes up every single day, so here's the full breakdown.",
-      "Dataset: 60 images, ~70% face crops, ~30% wider.",
-      "Cut any slightly-off image — the LoRA learns the average.",
-      "Z-Image Turbo training: 12 epochs, lr 1e-4, dim 32, alpha 16."
-    ],
-    "claims": [
-      {
-        "text": "Been teaching this to my community for a while and the consistency question comes up every single day, so here's the full breakdown. Dataset: 60 images, ~70% face crops, ~30% wider. Vary lighting hard. Cut any slightly-off image — the LoRA learns the average. Z-Image Turbo training: 12 epochs, lr 1e-4, dim 32, alpha 16. ~1hr on a rented GPU. Faster than Flux, smaller files, but punishes messy data harder. Inference: weight 0.75–0.85 + face detailer pass after. Been running this exact setup with a few thousand people now and it holds. Happy to answer anything in the comments. submitted by /u/PoleTV [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1txopz0/how_to_train_a_consistent_character_lora_in/"
       }
     ],
     "usableFor": [
@@ -635,7 +642,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-06T00:04:04.186Z",
+    "publishedAt": "2026-06-06T12:02:45.631Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -664,7 +671,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-06T00:04:04.242Z",
+    "publishedAt": "2026-06-06T12:02:45.674Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -692,7 +699,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-06T00:04:05.029Z",
+    "publishedAt": "2026-06-06T12:02:46.556Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -828,24 +835,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_ae8d25aee04e5495",
+    "sourceId": "src_reddit-aivideo_df5df38d0c73ee3a",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1txlsn3/checking_out_unusual_planets_around_the_galaxy/",
-    "title": "Checking out unusual planets around the galaxy",
-    "publishedAt": "2026-06-05T14:00:02.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1ty5xrs/big_bones/",
+    "title": "Big Bones",
+    "publishedAt": "2026-06-06T03:20:04.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/makarovredstone [link] [comments]"
+      "submitted by /u/RobZomboyd [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/makarovredstone [link] [comments]",
+        "text": "submitted by /u/RobZomboyd [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1txlsn3/checking_out_unusual_planets_around_the_galaxy/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1ty5xrs/big_bones/"
       }
     ],
     "usableFor": [
@@ -860,7 +867,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-06T00:04:04.763Z",
+    "publishedAt": "2026-06-06T12:02:46.146Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -889,7 +896,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-06T00:04:04.208Z",
+    "publishedAt": "2026-06-06T12:02:45.804Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -918,7 +925,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-06T00:04:04.345Z",
+    "publishedAt": "2026-06-06T12:02:45.909Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -945,7 +952,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-06T00:04:04.700Z",
+    "publishedAt": "2026-06-06T12:02:46.160Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -974,7 +981,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-06-06T00:04:04.533Z",
+    "publishedAt": "2026-06-06T12:02:45.932Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1059,24 +1066,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_729e6a9d9582bfd8",
+    "sourceId": "src_reddit-midjourney_984b5be4e950ae73",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1txtqia/life_finds_a_way/",
-    "title": "Life finds a way.",
-    "publishedAt": "2026-06-05T18:46:52.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1ty0buq/googie_scifi_city/",
+    "title": "Googie Sci-Fi City",
+    "publishedAt": "2026-06-05T23:01:03.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Mordrat_The_Grey [link] [comments]"
+      "Prompt: googie sci-fi city --ar 16:9 --v 8.1 --no cars submitted by /u/Zenchilada [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Mordrat_The_Grey [link] [comments]",
+        "text": "Prompt: googie sci-fi city --ar 16:9 --v 8.1 --no cars submitted by /u/Zenchilada [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1txtqia/life_finds_a_way/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1ty0buq/googie_scifi_city/"
       }
     ],
     "usableFor": [
@@ -1086,24 +1093,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_d57571a3fb5780b1",
+    "sourceId": "src_reddit-midjourney_beb1f0f819b45db2",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1txjayz/bleak_fair/",
-    "title": "Bleak Fair",
-    "publishedAt": "2026-06-05T12:18:05.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tyaeaw/abandoned_planet_somewhere/",
+    "title": "Abandoned planet somewhere",
+    "publishedAt": "2026-06-06T07:15:38.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/Zaicab [link] [comments]"
+      "submitted by /u/itsanwarraza [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Zaicab [link] [comments]",
+        "text": "submitted by /u/itsanwarraza [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1txjayz/bleak_fair/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tyaeaw/abandoned_planet_somewhere/"
       }
     ],
     "usableFor": [
@@ -1113,27 +1120,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_1872d82ada5c2d60",
+    "sourceId": "src_reddit-midjourney_dbb9df96a659d4e8",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1txx4sv/how_do_you_keep_one_art_style_consistent_across_a/",
-    "title": "How do you keep ONE art style consistent across a series of different scenes?",
-    "publishedAt": "2026-06-05T20:52:33.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1ty47xu/springdale_archive_1994/",
+    "title": "Springdale Archive, 1994",
+    "publishedAt": "2026-06-06T01:56:55.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "I'm building a small point-and-click game with my partner, you click between connected scenes like an old hidden-object/adventure game.",
-      "I need about six locations that all read as the same place : an entrance gate, a fairground \"hub\" you walk into, then individual tents you click into (a market, a fortune teller, etc.).",
-      "The style I'm after is that retro, grainy, vintage-70s-fantasy-paperback look, smooth painted, warm, mystical, heavy film grain (refs attached).",
-      "I've nailed the entrance gate (really happy with it), It's the first image attached."
+      "submitted by /u/metr0punk [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I'm building a small point-and-click game with my partner, you click between connected scenes like an old hidden-object/adventure game. I need about six locations that all read as the same place : an entrance gate, a fairground \"hub\" you walk into, then individual tents you click into (a market, a fortune teller, etc.). The style I'm after is that retro, grainy, vintage-70s-fantasy-paperback look, smooth painted, warm, mystical, heavy film grain (refs attached). I've nailed the entrance gate (really happy with it), It's the first image attached. Trying to match this style is the problem. Right now I'm trying to make the hub, a wide view down a carnival midway, tents either side, a path leading in and I an't get it to match the gates style consistently. I've tried all sorts, referencing the image, editing the majority of the image. submitted by /u/SirBridge [link] [comments]",
+        "text": "submitted by /u/metr0punk [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1txx4sv/how_do_you_keep_one_art_style_consistent_across_a/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1ty47xu/springdale_archive_1994/"
       }
     ],
     "usableFor": [
@@ -1148,7 +1152,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-06T00:04:05.701Z",
+    "publishedAt": "2026-06-06T12:02:46.790Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1314,7 +1318,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-06T00:04:04.558Z",
+    "publishedAt": "2026-06-06T12:02:46.022Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1322,10 +1326,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 5 days ago • 70 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 1 day ago • 35 Introduction to Trimming ✂ lbourdois • 8 days ago • 39 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 5 days ago • 15 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 1 day ago • 12 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 4 days ago • 11 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 1 day ago • 11 Agentic RL: Token-In, Token-Out Done Right huggingface • 7 days ago • 11 A Deep Neural Network that turns Any Image into a Playable Game!",
-      "All on consumer GPUs, NOT DATACENTER lucidml • 4 days ago • 7 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 16 days ago • 55 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 8 days ago • 6 MONET: Lowering the bar for World-Class Image Generation research.",
-      "jasperai • 9 days ago • 10 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 10 days ago • 6 Server is at capacity ml-intern-explorers • 9 days ago • 6 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 8 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 340 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 4 days ago • 3 Does Depth Actually Help Reasoning?",
-      "A Tiny Experiment on 2× T4 wop • 7 days ago • 3 AutoResearch on Diffusers' Pipeline for 10 Rounds on JarvisLabs chansung • 2 days ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 228 Thousand Token Wood: shipping a multi-agent economy on a 3B model June 5, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 2 June 4, 2026 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios 34 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 17 June 4, 2026 Direct Preference Optimization Beyond Chatbots 8 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 14 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 28 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 29 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 83 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 82 May 29, 2026 guide robotics audio Reachy Mini goes fully local 50 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 39 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 99 May 25, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 22 May 19, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 5 days ago • 70 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 2 days ago • 36 Introduction to Trimming ✂ lbourdois • 9 days ago • 39 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 5 days ago • 15 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 2 days ago • 13 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 2 days ago • 12 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 5 days ago • 11 Agentic RL: Token-In, Token-Out Done Right huggingface • 8 days ago • 11 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 8 days ago • 7 A Deep Neural Network that turns Any Image into a Playable Game!",
+      "All on consumer GPUs, NOT DATACENTER lucidml • 5 days ago • 7 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 16 days ago • 55 MONET: Lowering the bar for World-Class Image Generation research.",
+      "jasperai • 9 days ago • 10 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 11 days ago • 6 Server is at capacity ml-intern-explorers • 10 days ago • 6 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 8 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 340 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 5 days ago • 3 Does Depth Actually Help Reasoning?",
+      "A Tiny Experiment on 2× T4 wop • 7 days ago • 3 AutoResearch on Diffusers' Pipeline for 10 Rounds on JarvisLabs chansung • 3 days ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 228 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 3 June 4, 2026 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios 34 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 17 June 4, 2026 Direct Preference Optimization Beyond Chatbots 8 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 15 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 28 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 29 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 83 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 83 May 29, 2026 guide robotics audio Reachy Mini goes fully local 50 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 39 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 100 May 25, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 22 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 51 May 19, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -1339,6 +1343,96 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_2003026eef2ad2e7",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+    "title": "micropython-wasm 0.1a2",
+    "publishedAt": "2026-06-06T04:26:06.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Release: micropython-wasm 0.1a2 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; If you're building with AI, AWS Summit NYC on June 17 is the room you want to be in.",
+      "Register here 6th June 2026 Release micropython-wasm 0.1a2 &mdash; Python library for running a MicroPython sandbox using WebAssembly I added a CLI to micropython-wasm ( issue #7 ), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section.",
+      "Posted 6th June 2026 at 4:26 am Recent articles Running Python code in a sandbox with MicroPython and WASM - 6th June 2026 Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 This is a beat by Simon Willison, posted on 6th June 2026 .",
+      "python 1,257 sandboxing 45 webassembly 124 micropython 9 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
+    ],
+    "claims": [
+      {
+        "text": "Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm ( issue #7 ), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section. Tags: python , sandboxing , webassembly , micropython",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_246bf415b15f1fde",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "publishedAt": "2026-06-06T03:53:34.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for.",
+      "I've released it as an alpha package called micropython-wasm , and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython .",
+      "What I want from a sandbox WebAssembly looks really promising here MicroPython in WebAssembly Building the first version Try it yourself Should you trust my vibe-coded sandbox?",
+      "My key open source projects - Datasette , LLM , even sqlite-utils - all support plugins."
+    ],
+    "claims": [
+      {
+        "text": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm , and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython . Why do I want a sandbox? What I want from a sandbox WebAssembly looks really promising here MicroPython in WebAssembly Building the first version Try it yourself Should you trust my vibe-coded sandbox? Why do I want a sandbox? My key open source projects - Datasette , LLM , even sqlite-utils - all support plugins. I absolutely love plugins as a mechanism for extending software. A carefully designed plugin system reduces the risk involved in trying new things to almost nothing - even the wildest ideas won't leave a lasting influence on the core application itself. My software can grow a new feature overnight and I don't even have to review a pull request! There's one major drawback: my plugin systems all use Python and Pluggy , and plugin code executes with full privileges within my applications. A buggy or malicious plugin could break everything or leak private data. I'd love to be able to run plugin-style code in an environment where it is unable to read unapproved files, connect to a network, or generally operate in a way that's risky or harmful to the rest of the application or the user's computer. My interest covers more than just plugins. For Datasette in particular there are many features I'd like to support where arbitrary code execution would be useful. I've already experimented with this for Datasette Enrichments , where code can be used to transform values stored in a table. I'd love to build a mechanism where you can run code on a schedule that fetches JSON from an approved location, runs a tiny bit of code to reformat it into a list of dictionaries, then inserts those as rows in a SQLite database table. What I want from a sandbox My goal is to execute code safely within my own Python applications. Here's what I need: Dependencies that cleanly install from PyPI , including binary wheels across multiple platforms if necessary. I don't want people using my software to have to take any extra steps beyond directly installing my Python package. Executed code must be subject to both memory and CPU limits. I don't want while True: s += \"longer string\" to crash my application or the user's computer. File access must be strictly controlled . Either no filesystem access at all or I get to define exactly which files can be read and which files can be written to. Network access is controlled as well . Sandboxed code should not be able to communicate with anything without going through a layer I fully control. Support for interaction with host functions . A sandbox isn't much use if I can't carefully expose selected platform features to the code that it's running. It has to be robust, supported, and clearly documented . I've lost count of the number of sandbox projects I've seen in repos with warnings that they aren't actively maintained! WebAssembly looks really promising here Web browsers operate in the most hostile environment imaginable when it comes to malicious code. Their job is to download and execute untrusted code from the web on almost every page load. Given this, JavaScript engines should be excellent candidates for sandboxes. Sadly those engines are also extremely complicated, and are not designed for easy embedding in other projects. Most of the v8-in-Python projects I've seen are infrequently maintained and come with warnings not to use them with completely untrusted code. WebAssembly is a much better candidate. It was designed from the start to support all of the characteristics I care about and has been tested in browsers for nearly a decade. The wasmtime Python library is actively maintained and has binary wheels. MicroPython in WebAssembly WebAssembly engines like wasmtime run WebAssembly binaries. Some programming languages like Rust are easy to compile directly to WebAssembly. Dynamic languages like JavaScript and Python are harder - they support language primitives like eval() , which means they need a full interpreter available at runtime. To run Python we need a full Python interpreter compiled to WebAssembly, wired up in a way that makes it easy to feed it code, hook up host functions and access the results. Pyodide offers an outstanding package for running Python using WebAssembly in the browser, but using Pyodide in server-side Python isn't supported. The most recent advice I could find was from October 2024 stating \"Pyodide is built by the Emscripten toolchain and can only run in a browser or Node.js\". The other day I decided to take a look at MicroPython as an option for this. The MicroPython site says: MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. WebAssembly sure feels like a constrained environment to me! Building the first version I had GPT-5.5 Pro do some research for me , which turned up this PR against MicroPython by Yamamoto Takahashi titled \"Experimental WASI support for ports/unix\". It then produced this research.md document , so I let Codex Desktop and GPT-5.5 high loose on it to see what would happen: read the research.md document and build this. You will probably need to write a script that compiles a custom WASM version of MicroPython as part of this project - fetch the MicroPython code to a /tmp directory for this as part of that script. It worked. I now had a prototype Python library that could execute Python code inside a WebAssembly sandbox! The trickiest piece to solve was persistent interpreter state. The WASM build we are using here exposes a single entry point which starts the interpreter, runs the code and then stops the interpreter at the end. This works fine for one-off scripts, but for Datasette Agent I want variables and functions to stay resident in memory so I can reuse them across multiple code execution calls. A neat thing about working with coding agents is that you can get from an idea to a proof of concept quickly. I prompted: For keeping variables resident: what if we ran code inside micropython itself which called a host function get_next_python_code() and then passed that to eval() - and that host function blocked until new code was available, maybe by running in a thread with a queue? Could that or a similar idea help here? After some iteration we got to a version of this that works! In Python code you can now do this: from micropython_wasm import MicroPythonSession with MicroPythonSession () as session : print ( session . run ( \"x = 10 \\n print(x)\" ). stdout ) print ( session . run ( \"x += 5 \\n print(x)\" ). stdout ) print ( session . run ( \"print(x * 2)\" ). stdout ) Under the hood this starts a thread, sets up a request queue and then sends messages to that queue for the session.run() command, each time waiting on a reply queue for the result of that execution. Inside WASM the MicroPython interpreter blocks waiting for a __session_next__() host function to return the next line of code, which it runs eval() on before calling __session_result__({\"id\": request_id, \"ok\": True}) when each block has been successfully executed. The other piece of complexity was supporting host functions, so my Python library could selectively expose functions that could then be called by code running in MicroPython. Codex ended up solving this with 78 lines of C , which ends up compiled into the 362KB WebAssembly blob I'm distributing with the package. I am by no means a C programmer, but I've read the C and had two different models explain it to me (here's Claude's explanation ) and I've subjected it to a barrage of tests. The great thing about working with WebAssembly is that if the C turns out to be fatally flawed the worst that can happen is the WebAssembly execution will fail with an exception. I can live with that risk. Memory limits are directly supported by wasmtime. CPU limits are a little harder: wasmtime offers a \"fuel\" concept to limit how many operations a WebAssembly call can execute, and that's the correct fit for this problem, but the units are hard to reason about. I'm experimenting with a 20 million default \"fuel\" setting now but I'm not confident that it's the most appropriate value. Try it yourself The micropython-wasm alpha is now live on PyPI . You can try it from your own Python code as described in the README . I've also added a simple CLI mode in version 0.1a2 which means you can try it using uvx without first installing it like so: uvx micropython-wasm -c ' print(\"Hello world\") ' # To see it run out of fuel: uvx micropython-wasm -c ' s = \"\"; while True: s += \"longer\" ' # Outputs: micropython-wasm: guest exited with code 1 You can also try it in Datasette Agent like this: uvx llm keys set openai # Paste in an OpenAI key, then: uvx --with datasette-agent \\ --with datasette-agent-micropython \\ --prerelease allow \\ datasette --internal internal.db \\ -s plugins.datasette-llm.default_model gpt-5.5 \\ --root -o Then navigate to http://127.0.0.1:8001/-/agent and run the prompt: show me some micropython Should you trust my vibe-coded sandbox? Having complained about immature, loosely-maintained sandboxing libraries, it's deeply ironic that I've now built my own! I deliberately slapped an alpha release version on it, and I'm not ready to recommend it to anyone who isn't willing to take a significant risk. I've put it through enough testing that I'm OK using it myself. I've shipped my first plugin that uses it, datasette-agent-micropython . I've also locked GPT-5.5 xhigh in that Datasette Agent plugin and challenged it to break out of the sandbox and so far it has not managed to. I'm hoping this implementation can convince some companies with professional security teams and high-stakes problems to commit to using Python in WebAssembly as a sandboxing approach and open source their own solutions. Tags: python , sandboxing , ai , datasette , webassembly , generative-ai , llms , ai-assisted-programming , codex , datasette-agent , micropython",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_e7b96ccdc1f26b2a",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+    "title": "OpenAI Help: Lockdown Mode",
+    "publishedAt": "2026-06-05T23:56:40.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "OpenAI Help: Lockdown Mode Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; If you're building with AI, AWS Summit NYC on June 17 is the room you want to be in.",
+      "Register here 5th June 2026 - Link Blog OpenAI Help: Lockdown Mode .",
+      "OpenAI first teased this in February , but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker.",
+      "Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes."
+    ],
+    "claims": [
+      {
+        "text": "OpenAI Help: Lockdown Mode OpenAI first teased this in February , but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response. This looks really good to me. The Lethal Trifecta occurs when an LLM system has access to all three of access to private data, exposure to untrusted content and a way to steal data and transmit it back to the attacker. The only way to solve the trifecta is to cut off one of the three legs, and by far the easiest leg to restrict without making your LLM systems far less useful is the exfiltration vectors to steal data. It looks to me like lockdown mode directly attacks that leg, using mechanisms that are deterministic and, crucially, are not evaluated by AI systems that themselves can be subverted by sufficiently devious attacks. The existence of lockdown mode does however imply that ChatGPT, in its default settings, does not provide robust protection against sufficiently determined data exfiltration attacks! Tags: security , ai , openai , prompt-injection , llms , lethal-trifecta",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_0cbdcbeed6daa6ae",
@@ -1401,102 +1495,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_729e4754e320bf42",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
-    "title": "Quoting Emanuel Maiberg, 404 Media",
-    "publishedAt": "2026-06-04T16:38:29.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Emanuel Maiberg, 404 Media Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; If you're building with AI, AWS Summit NYC on June 17 is the room you want to be in.",
-      "Register here 4th June 2026 After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement.",
-      "The new statement no longer stated that \"it's critical that we maintain humans in the loop.\" &mdash; Emanuel Maiberg, 404 Media , Google Employees Internally Share Memes About How Its AI Sucks Posted 4th June 2026 at 4:38 pm Recent articles Claude Opus 4.8: \"a modest but tangible improvement\" - 28th May 2026 I think Anthropic and OpenAI have found product-market fit - 27th May 2026 Notes on Pope Leo XIV's encyclical on AI - 25th May 2026 This is a quotation collected by Simon Willison, posted on 4th June 2026 .",
-      "google 410 journalism 50 ai 2,054 ai-ethics 311 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
-    ],
-    "claims": [
-      {
-        "text": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\" &mdash; Emanuel Maiberg, 404 Media , Google Employees Internally Share Memes About How Its AI Sucks Tags: ai-ethics , journalism , ai , google",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_4382a3e2d4a126cc",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
-    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-    "publishedAt": "2026-06-03T12:01:27.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; If you're building with AI, AWS Summit NYC on June 17 is the room you want to be in.",
-      "Register here 3rd June 2026 - Link Blog Uber Caps Usage of AI Tools Like Claude Code to Manage Costs .",
-      "I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become.",
-      "Natalie Lung for Bloomberg: The rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a Bloomberg News inquiry."
-    ],
-    "claims": [
-      {
-        "text": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become. Natalie Lung for Bloomberg: The rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a Bloomberg News inquiry. That means spending on one tool doesn’t have a bearing on the budget for another. The limits, which have been instituted in recent months, only apply to agentic coding software such as Cursor or Anthropic PBC’s Claude Code. A $1,500 monthly limit per tool strikes me as a rational policy response to over-spending, and much more sensible than those tokenmaxxing leaderboards encouraging employees to compete for as much AI usage as possible. It's also interesting in that it hints at a real dollar value for what Uber is getting out of these tools. If we assume two actively used tools per engineer that's $3,000 * 12 = $36,000 cap per engineer per year. Levels.fyi lists the median yearly compensation package for Uber software engineers in the USA at $330,000. That means each employee's AI spending cap is ~11% of that median compensation package. I noted that my own token usage comes to about $1,000/month against each of Anthropic and OpenAI - which currently costs me just $100 per provider thanks to their generous subsidized plans for individual subscribers. Those plans are no longer available to larger companies like Uber. Their new policy means if I were working at Uber I'd still have ~$500/month of tokens to spare for each of those tools, given my current usage patterns. Tags: ai , generative-ai , llms , llm-pricing , coding-agents , uber",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_ba09b866960a80a4",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
-    "title": "Microsoft's new MAI models",
-    "publishedAt": "2026-06-02T22:21:52.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Microsoft's new MAI models Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; If you're building with AI, AWS Summit NYC on June 17 is the room you want to be in.",
-      "Register here 2nd June 2026 Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\").",
-      "I've not been able to try either of them just yet.",
-      "It's very interesting to see Microsoft releasing models with such low parameter counts, especially given how expensive larger models are to access right now."
-    ],
-    "claims": [
-      {
-        "text": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet. It's very interesting to see Microsoft releasing models with such low parameter counts, especially given how expensive larger models are to access right now. They claim MAI-Thinking-1 \"is preferred to Sonnet 4.6 in our blind human side-by-side evaluations\", which is impressive for a 35B model seeing as I frequently run models larger than that on my own laptop. (UPDATE: I got this entirely wrong, see note below.) Also of note : We trained [MAI-Thinking-1] from the ground up on enterprise grade, clean and commercially licensed data, without distillation from third-party models. And for MAI-Code-1-Flash as well: It is built end-to-end by Microsoft using clean and appropriately licensed data. I would very much like to learn more about this \"appropriately licensed\" data! Could these be the first generally useful code-specialist models that didn't train on an unlicensed dump of the web? ( Update : the answer is no, see note below.) Update : My initial published notes got the size of the models wrong. I misread Microsoft's announcements and interpreted the MoE active parameter count as the total parameter count, but the model card for MAI-Code-1-Flash lists it as 137B with 5B active and the MAI-Thinking-1 technical paper reveals it to be a 1T model with 35B active. I deeply regret this error. Update 2 : That technical paper describes the training data in some detail from page 80 onwards. It has the same licensing problems as all of the other major LLMs: it's trained on a crawl of the public web: The majority of our web HTML corpus comes from a proprietary crawl. After initial page discovery and selection, approximately 1.2 trillion pages are crawled and parsed. [...] In addition to Microsoft standard policy Sec. 2.4, we apply UT1 block list (Prigent, 2026) to remove adult content and piracy-related domains. In all, this filtering reduces the corpus from 1.2 trillion pages to 794 billion pages. Given the prevalence of AI-generated content on the web, we also score pages with a proprietary AI-content detection model and use manual inspection to identify domains with extensive AI-generated content; those domains are filtered out of the training corpus. [...] We process Common Crawl with the same pipeline. [...] After filtering, deduplication, merging with the proprietary web corpus, and a final round of exact-URL and content-level fuzzy deduplication, the Common Crawl portion contains 24.2 billion pages. I did not cover this one at all well, which is somewhat ironic since I was at the Microsoft Build conference when I wrote this up! I'm sorry for not digging deeper before publishing my initial notes. Tags: llm-release , generative-ai , ai , microsoft , llms , training-data",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-06T00:04:04.601Z",
+    "publishedAt": "2026-06-06T12:02:45.952Z",
     "categoryHints": [
       "ai-agentic"
     ],

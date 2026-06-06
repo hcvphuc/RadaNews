@@ -1,20 +1,21 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-r_2026-06-06",
+    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-06",
     "category": "ai-agentic",
-    "topic": "AI enthusiasts are in a race against time, AI skeptics are in a race against ...",
+    "topic": "LangChain Blog",
     "sourceIds": [
-      "src_simonwillison-blog_36ee640233a50923",
       "src_langchain-blog_40ded3f923e3291d",
+      "src_simonwillison-blog_36ee640233a50923",
       "src_luma-blog_c7449029956c34f9",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_729e4754e320bf42",
+      "src_simonwillison-blog_2003026eef2ad2e7",
+      "src_reddit-stablediffusion_2a9e2b90083e2cf2",
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_lilianweng-blog_31a2c7baf9b791a5",
       "src_reddit-stablediffusion_34918f10cd05e278"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -24,13 +25,12 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_4382a3e2d4a126cc",
-      "src_simonwillison-blog_ba09b866960a80a4",
-      "src_simonwillison-blog_0cbdcbeed6daa6ae"
+      "src_simonwillison-blog_246bf415b15f1fde",
+      "src_simonwillison-blog_e7b96ccdc1f26b2a",
+      "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -42,29 +42,28 @@
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
+      "src_reddit-comfyui_6a6c8bd64f79e29f",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
       "src_reddit-comfyui_f4f210edfd02adc0",
-      "src_reddit-midjourney_1872d82ada5c2d60",
-      "src_reddit-stablediffusion_03a42ae62aef310b",
-      "src_reddit-comfyui_2a326a8aa4fcb31c"
+      "src_reddit-stablediffusion_4f545dc851ff9f4a"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-06",
+    "clusterId": "cluster_ai-vibe-coding_2_quoting-andreas-kling_2026-06-06",
     "category": "ai-vibe-coding",
-    "topic": "Replit — Replit Blog – Product updates from the team",
+    "topic": "Quoting Andreas Kling",
     "sourceIds": [
+      "src_simonwillison-blog_0cbdcbeed6daa6ae",
       "src_replit-blog_49899058ba32f8e5",
-      "src_reddit-comfyui_ec4192c3ac1f913a",
       "src_reddit-comfyui_f0fcbff5cbf30b57",
       "src_vercel-ai-blog_2026-06-06_fallback"
     ],
-    "articleWorthinessScore": 0.89,
-    "reasonSelected": "Score 0.89 from 4 source item(s), 3 live crawl(s), strongest sources: Replit Blog, r/comfyui, Vercel AI Blog.",
+    "articleWorthinessScore": 0.94,
+    "reasonSelected": "Score 0.94 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Replit Blog, r/comfyui.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -84,39 +83,39 @@
     "selectedForGeneration": true
   },
   {
+    "clusterId": "cluster_ai-image_2_sharing-my-upscale-models_2026-06-06",
+    "category": "ai-image",
+    "topic": "Sharing my upscale models",
+    "sourceIds": [
+      "src_reddit-comfyui_639ea8493e915036",
+      "src_reddit-stablediffusion_71dd4a0aa02e3ef8",
+      "src_reddit-midjourney_91c5cf49176c170c",
+      "src_reddit-midjourney_8df2718c2362b144",
+      "src_reddit-mediasynthesis_459f419f1f6e36c2",
+      "src_reddit-stablediffusion_dcff62d175144d21",
+      "src_stability-ai-blog_2026-06-06_fallback"
+    ],
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 7 source item(s), 6 live crawl(s), strongest sources: r/comfyui, r/StableDiffusion, r/midjourney.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
     "clusterId": "cluster_ai-agentic_2_the-agent-worked-perfectly-the-team-quietly-killed-it-anyway_2026-06-06",
     "category": "ai-agentic",
     "topic": "The agent worked perfectly. The team quietly killed it anyway.",
     "sourceIds": [
       "src_reddit-aiagents_f6da2ee6b0a6243c",
-      "src_reddit-aiagents_9dc7417fa1c835ee",
-      "src_reddit-aiagents_eb7a83a983d16193",
+      "src_reddit-comfyui_ec4192c3ac1f913a",
+      "src_reddit-aiagents_e61a058457a2608b",
+      "src_reddit-aiagents_8e9a53e8100a5072",
       "src_reddit-aiagents_bfc588e0191c755b",
-      "src_reddit-stablediffusion_8ac633366f115d55",
       "src_reddit-aiagents_ce5af76cde1748ff",
       "src_openai-blog_2026-06-06_fallback",
       "src_mcp-blog_2026-06-06_fallback"
     ],
-    "articleWorthinessScore": 0.82,
-    "reasonSelected": "Score 0.82 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, r/StableDiffusion, OpenAI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_2_ideogram-4-0-comics-test_2026-06-06",
-    "category": "ai-image",
-    "topic": "[Ideogram 4.0] Comics test",
-    "sourceIds": [
-      "src_reddit-stablediffusion_25cb8a2061fa52ac",
-      "src_reddit-midjourney_91c5cf49176c170c",
-      "src_reddit-midjourney_8df2718c2362b144",
-      "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-stablediffusion_27e246f978de566f",
-      "src_reddit-comfyui_7299b41f7178f771",
-      "src_stability-ai-blog_2026-06-06_fallback"
-    ],
-    "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 7 source item(s), 6 live crawl(s), strongest sources: r/StableDiffusion, r/midjourney, r/MediaSynthesis.",
+    "articleWorthinessScore": 0.83,
+    "reasonSelected": "Score 0.83 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, r/comfyui, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -126,7 +125,7 @@
     "topic": "We're getting a multi-million dollar greenlight to turn this into a hybrid mo...",
     "sourceIds": [
       "src_reddit-aivideo_6153affbc9824fff",
-      "src_reddit-aivideo_ae8d25aee04e5495",
+      "src_reddit-aivideo_df5df38d0c73ee3a",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.68,
@@ -135,23 +134,24 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_life-finds-a-way_2026-06-06",
+    "clusterId": "cluster_prompt-image_1_googie-sci-fi-city_2026-06-06",
     "category": "prompt-image",
-    "topic": "Life finds a way.",
+    "topic": "Googie Sci-Fi City",
     "sourceIds": [
-      "src_reddit-midjourney_729e6a9d9582bfd8"
+      "src_reddit-midjourney_984b5be4e950ae73",
+      "src_reddit-midjourney_beb1f0f819b45db2"
     ],
-    "articleWorthinessScore": 0.54,
-    "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
+    "articleWorthinessScore": 0.61,
+    "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_bleak-fair_2026-06-06",
+    "clusterId": "cluster_prompt-image_2_springdale-archive-1994_2026-06-06",
     "category": "prompt-image",
-    "topic": "Bleak Fair",
+    "topic": "Springdale Archive, 1994",
     "sourceIds": [
-      "src_reddit-midjourney_d57571a3fb5780b1"
+      "src_reddit-midjourney_dbb9df96a659d4e8"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
