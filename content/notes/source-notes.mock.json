@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-06T12:02:46.232Z",
+    "publishedAt": "2026-06-07T00:02:04.391Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-06T12:02:52.404Z",
+    "publishedAt": "2026-06-07T00:02:09.426Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-06-06_fallback",
+    "sourceId": "src_openai-blog_2026-06-07_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-06T12:02:45.361Z",
+    "publishedAt": "2026-06-07T00:02:03.492Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-06-06_fallback",
+    "sourceId": "src_mcp-blog_2026-06-07_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-06T12:02:45.915Z",
+    "publishedAt": "2026-06-07T00:02:04.101Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_f6da2ee6b0a6243c",
+    "sourceId": "src_reddit-aiagents_fa32b6abbfc9e9d9",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1txpn81/the_agent_worked_perfectly_the_team_quietly/",
-    "title": "The agent worked perfectly. The team quietly killed it anyway.",
-    "publishedAt": "2026-06-05T16:19:51.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tyunfy/genuine_question_about_how_you_all_handle_agent/",
+    "title": "Genuine question about how you all handle agent memory",
+    "publishedAt": "2026-06-06T22:23:26.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Built a reporting agent for a client back in March.",
-      "It pulled data from HubSpot and two internal sheets, ran it through a summary chain, flagged anything that looked off, and dropped a formatted report into their Slack every Monday morning.",
-      "Took me about two weeks to get it solid.",
-      "Output was clean, the client's ops lead loved it during review, accuracy was better than what they'd been doing manually."
+      "I keep running into the same wall and I want to know if it's just me.",
+      "Every memory setup I've tried basically embeds everything and pulls back whatever's closest, then shoves it into context.",
+      "The problem is the agent ends up remembering stuff that just sounds related to what I'm asking.",
+      "Not the stuff that actually worked last time."
     ],
     "claims": [
       {
-        "text": "Built a reporting agent for a client back in March. Nothing fancy. It pulled data from HubSpot and two internal sheets, ran it through a summary chain, flagged anything that looked off, and dropped a formatted report into their Slack every Monday morning. Took me about two weeks to get it solid. Output was clean, the client's ops lead loved it during review, accuracy was better than what they'd been doing manually. Everyone signed off. Three weeks later I'm looking at the usage logs for a completely unrelated reason and the thing hadn't run in nine days. Nobody mentioned it. No error tickets, no complaints, nothing. I asked the ops lead what happened. Got the corporate dodge. \"We're still figuring out the rollout.\" \"Some folks on the team had questions.\" \"Probably revisit it next quarter.\" You know the script. Took me another two weeks to piece together what actually went on. The woman who had been building that report by hand every single week for close to two years had basically made it her thing. She'd walk into the Monday standup with the numbers, walk the VP through what mattered, add her read on what was happening, flag what she thought they should pay attention to. It was her twenty minutes with leadership. It was how she stayed visible. I didn't automate a report. I took away someone's seat at the table. And she wasn't wrong to protect it. That manual process was how she'd gotten promoted once already. It mattered to her career and nobody was going to say any of that out loud in a requirements meeting. So what happened is what always happens. She didn't fight the agent. She just started finding things it \"got wrong.\" Minor formatting stuff, a number that was technically right but \"lacked context.\" Added a manual review step. Then another one. Eventually the team just stopped using it and went back to the old way. The agent died and nobody sent me a cancellation email. I found out when the invoice conversation got awkward. The thing I missed, and I think most of us building agents for clients are missing it too, is that we scope the technical problem and skip the human one. Who does this task today. What does doing it give them that isn't in the job description. What happens to their week, their standing, their leverage when the task disappears. If the honest answer is \"they hate it and it's pure busywork,\" go build. But if the answer is anything close to status or access or face time with someone who matters, you're not automating a process. You're making someone's position weaker. And people don't file bug reports for that. They just let your agent die and wait for the contract to expire. I've started asking this stuff before I even write a scope doc and it's already saved me from building at least two things that would've ended the exact same way. submitted by /u/Warm-Reaction-456 [link] [comments]",
+        "text": "I keep running into the same wall and I want to know if it's just me. Every memory setup I've tried basically embeds everything and pulls back whatever's closest, then shoves it into context. The problem is the agent ends up remembering stuff that just sounds related to what I'm asking. Not the stuff that actually worked last time. So it'll happily go down a path it already failed three sessions ago because nothing ever told it that path was a dead end. For people who've pushed agents past the demo phase, where does this actually hurt for you? Is it the long running ones, the multi session stuff, coding agents, support, voice? And honestly what are you even doing about it right now. Bigger context windows? Hand tuning what gets retrieved? Curating memory by hand? Or just living with it because there's nothing better. The other thing I keep wondering: if there was something that actually paid attention to whether an outcome was good or bad and kept memory based on that instead of just what looks similar, would that be worth paying for, or is it a nice to have you'd never actually buy. I'm building something in this area so take that for what it's worth. Mostly I just want to know if other people feel this pain or if I've talked myself into a problem nobody else has. submitted by /u/Technical_Plant_6109 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1txpn81/the_agent_worked_perfectly_the_team_quietly/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tyunfy/genuine_question_about_how_you_all_handle_agent/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_8e9a53e8100a5072",
+    "sourceId": "src_reddit-aiagents_94907d33243a5cd0",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tye06v/what_actually_belongs_in_a_codingagent_inbox/",
-    "title": "What actually belongs in a coding-agent inbox?",
-    "publishedAt": "2026-06-06T10:48:27.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1typppi/i_made_ai_detective_agents_interrogate_ai_suspect/",
+    "title": "I made AI detective agents interrogate AI suspect agents to balance my interrogation game",
+    "publishedAt": "2026-06-06T18:59:53.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "A lot of tools are converging on session dashboards now.",
-      "For people running 3+ agents, is the useful view status/blockers/artifacts, or do you actually want cross-agent chat and routing too?",
-      "I am mostly asking about what survives daily use once the demo novelty wears off.",
-      "submitted by /u/sahanpk [link] [comments]"
+      "While building my AI interrogation game, I ran into a problem: Balancing suspects manually was taking forever.",
+      "My friends and I had to repeatedly interrogate every suspect to figure out: how difficult they were average messages before confession which interrogation tactics were too overpowered when suspects started contradicting themselves So eventually I thought: Why not make AI agents do the interrogations too?",
+      "I started running AI detective vs AI suspect simulations to automatically generate balancing statistics at scale.",
+      "It’s honestly been pretty amazing watching hundreds of interrogations happen automatically and being able to tune suspects based on actual data instead of pure gut feel."
     ],
     "claims": [
       {
-        "text": "A lot of tools are converging on session dashboards now. For people running 3+ agents, is the useful view status/blockers/artifacts, or do you actually want cross-agent chat and routing too? I am mostly asking about what survives daily use once the demo novelty wears off. submitted by /u/sahanpk [link] [comments]",
+        "text": "While building my AI interrogation game, I ran into a problem: Balancing suspects manually was taking forever. My friends and I had to repeatedly interrogate every suspect to figure out: how difficult they were average messages before confession which interrogation tactics were too overpowered when suspects started contradicting themselves So eventually I thought: Why not make AI agents do the interrogations too? I started running AI detective vs AI suspect simulations to automatically generate balancing statistics at scale. It’s honestly been pretty amazing watching hundreds of interrogations happen automatically and being able to tune suspects based on actual data instead of pure gut feel. Still experimenting with it, but this has probably become the most interesting part of building the project so far. Curious if anyone else building AI agents has tried getting them to talk to each other and not sure if there is any biases or issues to be aware of. submitted by /u/Birthday_Euphoric [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tye06v/what_actually_belongs_in_a_codingagent_inbox/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1typppi/i_made_ai_detective_agents_interrogate_ai_suspect/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-06-06_fallback",
+    "sourceId": "src_stability-ai-blog_2026-06-07_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-06T12:02:45.703Z",
+    "publishedAt": "2026-06-07T00:02:03.676Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-06T12:02:46.288Z",
+    "publishedAt": "2026-06-07T00:02:04.461Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-06T12:02:45.643Z",
+    "publishedAt": "2026-06-07T00:02:04.094Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -370,27 +370,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_71dd4a0aa02e3ef8",
+    "sourceId": "src_reddit-stablediffusion_e687f0550df36853",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ty9uzs/ideogram_40_examples_with_prompt_assist/",
-    "title": "Ideogram 4.0 Examples with prompt assist",
-    "publishedAt": "2026-06-06T06:45:34.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tyufqz/ideogram_4_testing_some_existing_ips/",
+    "title": "Ideogram 4 - Testing some existing IPs.",
+    "publishedAt": "2026-06-06T22:14:23.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "These examples are using vision from my old images.",
-      "It is for sure my new favorite image model.",
-      "I had no time to test more with the parameters but I think the quality is outstanding.",
-      "submitted by /u/juanpablogc [link] [comments]"
+      "Happy to share prompts and workflow if anyone wants.",
+      "EDIT: Workflow EDIT 2: Pics in better quality.",
+      "submitted by /u/Outrageous_Still9335 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "These examples are using vision from my old images. These are the results. It is for sure my new favorite image model. I had no time to test more with the parameters but I think the quality is outstanding. TD;LR ES LA LECHE. submitted by /u/juanpablogc [link] [comments]",
+        "text": "Happy to share prompts and workflow if anyone wants. EDIT: Workflow EDIT 2: Pics in better quality. submitted by /u/Outrageous_Still9335 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ty9uzs/ideogram_40_examples_with_prompt_assist/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tyufqz/ideogram_4_testing_some_existing_ips/"
       }
     ],
     "usableFor": [
@@ -400,27 +399,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2a9e2b90083e2cf2",
+    "sourceId": "src_reddit-stablediffusion_30252869bacedbcd",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ty7cjj/old_man_yells_at_node/",
-    "title": "Old Man Yells at Node",
-    "publishedAt": "2026-06-06T04:30:20.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tyfvo0/ideogram_4_can_product_great_stuff_sometimes/",
+    "title": "Ideogram 4 can product great stuff sometimes",
+    "publishedAt": "2026-06-06T12:23:20.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "https://preview.redd.it/efx0wi6mal5h1.png?width=1200&format=png&auto=webp&s=07ef216a5e02f0e2af89a9e1b1e6325a86a7923f There are a lot of new custom nodes appearing lately.",
-      "Non-developers, legitimately and rightfully excited about the new superpowers that vibe coding grants them, have begun exploring what they can accomplish.",
-      "It turns out they can accomplish a lot, because in mid-2026, agentic coding is pretty damn amazing.",
-      "People who couldn't write a line of code are shipping functional tools."
+      "I've been experimenting with Ideogram 4 for the last couple of days, and I use qwen 3.6 27B to convert my natural writing and even images into JSON text.",
+      "These are my favorite cherry-picked examples so far.",
+      "Sorry for all of the random childish stuff lol.",
+      "It still makes junk a lot of time, but its top stuff, I think, is the best I've seen from a local open-weights model."
     ],
     "claims": [
       {
-        "text": "https://preview.redd.it/efx0wi6mal5h1.png?width=1200&format=png&auto=webp&s=07ef216a5e02f0e2af89a9e1b1e6325a86a7923f There are a lot of new custom nodes appearing lately. Non-developers, legitimately and rightfully excited about the new superpowers that vibe coding grants them, have begun exploring what they can accomplish. It turns out they can accomplish a lot, because in mid-2026, agentic coding is pretty damn amazing. People who couldn't write a line of code are shipping functional tools. The thing is, since they're not experienced developers, they aren't thinking about things like maintainability, brittleness, composability, or finding the simplest solution for the task. They just tell Claude to make a thing for them, and Claude does, and it is large and smooth and wonderful, a vibe-coded Jenga tower that sprung fully formed from their mind. And that's fine. The thing works, and the maker is happy and gets some karma and maybe some github stars, and in two weeks nobody ever thinks about the wonderful vibe-coded Jenga tower again. It is large and smooth and complete. But you're meant to be able to put your hands into a workflow, to stir it up, to affect it . Working the knobs on a sealed box is a legitimate interaction model, but that's what you do with an app . In a workflow, it's kind of a category error. The vibe-coded Jenga tower is magnificent, but it's also yours , solving your problem your way. Sharing it with me is beside the point because I have the same vibe-coding superpowers as you. I can make my own. submitted by /u/goddess_peeler [link] [comments]",
+        "text": "I've been experimenting with Ideogram 4 for the last couple of days, and I use qwen 3.6 27B to convert my natural writing and even images into JSON text. These are my favorite cherry-picked examples so far. Sorry for all of the random childish stuff lol. It still makes junk a lot of time, but its top stuff, I think, is the best I've seen from a local open-weights model. Lmk if anyone wants this workflow that could be better organized XD Edit: Here is the link to the workflow . It's rough with the organizing here and there. submitted by /u/Producing_It [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ty7cjj/old_man_yells_at_node/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tyfvo0/ideogram_4_can_product_great_stuff_sometimes/"
       }
     ],
     "usableFor": [
@@ -430,27 +429,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_4f545dc851ff9f4a",
+    "sourceId": "src_reddit-stablediffusion_56c0d549ed2e0387",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1ty4kg1/comfyui_support_or_bytedance_lance3b_unified/",
-    "title": "ComfyUI support or ByteDance Lance-3B (unified image/video generation, editing, and understanding), with dynamic VRAM for low-VRAM GPUs",
-    "publishedAt": "2026-06-06T02:13:17.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tyoyzk/ideogram_40_feels_good/",
+    "title": "Ideogram 4.0 feels good",
+    "publishedAt": "2026-06-06T18:30:55.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "A bit late to the party for this model, but I haven't found good support for Lance in ComfyUI.",
-      "Running the model as is requires 40GB VRAM (as per official doc) because it loads the whole model directly in GPU.",
-      "ComfyUI added feature for dynamic VRAM which essentially allows model to be parts of the model to be loaded and offloaded dynamically on-the-fly.",
-      "I implemented ComfyUI custom node port of the original Lance codebase to support this."
+      "I just tried Ideogram 4.0, and the generated outputs are, in my opinion, really good right out of the box.",
+      "seems to be very strong at photorealism and a wide variety of artistic styles, including mixing multiple styles within a single image.",
+      "For the prompts, I used an LLM to generate structured JSON-formatted prompts based on my instructions.",
+      "I also noticed that the \"Image blocked by safety filter\" message only appeared when I used simple text or natural-language prompts."
     ],
     "claims": [
       {
-        "text": "A bit late to the party for this model, but I haven't found good support for Lance in ComfyUI. Running the model as is requires 40GB VRAM (as per official doc) because it loads the whole model directly in GPU. ComfyUI added feature for dynamic VRAM which essentially allows model to be parts of the model to be loaded and offloaded dynamically on-the-fly. I implemented ComfyUI custom node port of the original Lance codebase to support this. This model supports image/video generation, editing, and understanding all in one. I have tested running all of them in my GPU with 12GB VRAM and confirmed all works well. Generating 10 seconds video takes about 15 minute on RTX 5070. It's installable via ComfyUI manager under name \"Lance-3B AIO\", or you can also install from the source in github.com/SteveImmanuel/comfyui-lance-aio Would love get feedbacks from community to see if it can be run on even smaller VRAM! submitted by /u/HuskyTheSniffer [link] [comments]",
+        "text": "I just tried Ideogram 4.0, and the generated outputs are, in my opinion, really good right out of the box. seems to be very strong at photorealism and a wide variety of artistic styles, including mixing multiple styles within a single image. For the prompts, I used an LLM to generate structured JSON-formatted prompts based on my instructions. I also noticed that the \"Image blocked by safety filter\" message only appeared when I used simple text or natural-language prompts. After converting the prompts into a structured JSON format, the safety filter didnt show up anymore. I ran this on a RTX 3090 + 64gb ram A 1376x768 image took around 110 sec on AVG workflow link: https://www.comfy-flow.com/workflow/bbe9a7d3-7294-4f5d-9b88-6db9cf5c4146 submitted by /u/brocolongo [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1ty4kg1/comfyui_support_or_bytedance_lance3b_unified/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tyoyzk/ideogram_40_feels_good/"
       }
     ],
     "usableFor": [
@@ -460,24 +459,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_dcff62d175144d21",
+    "sourceId": "src_reddit-stablediffusion_cfa6e662d7fceddc",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tydmd5/random_pics_ive_made_with_anima/",
-    "title": "Random pics I've made with Anima.",
-    "publishedAt": "2026-06-06T10:26:26.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tytpy2/some_posters_i_generated_with_ideogram_4/",
+    "title": "Some posters I generated with Ideogram 4.",
+    "publishedAt": "2026-06-06T21:43:32.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "submitted by /u/kayai_art [link] [comments]"
+      "All done with ideogram 4 + SeedVR2 upscaling (nothing else).",
+      "submitted by /u/Square-Foundation-87 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/kayai_art [link] [comments]",
+        "text": "All done with ideogram 4 + SeedVR2 upscaling (nothing else). submitted by /u/Square-Foundation-87 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tydmd5/random_pics_ive_made_with_anima/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tytpy2/some_posters_i_generated_with_ideogram_4/"
       }
     ],
     "usableFor": [
@@ -589,13 +589,13 @@
     ],
     "keyFacts": [
       "Hi everyone, I want to share my custom-trained CNN models on various architectures, you can find them here: https://github.com/limitlesslab/AI-upscaling-models I already made a post yesterday but deleted it by mistake (the other post should have been deleted, not this one), so I'm posting again.",
-      "These models can be used either in Chainner of ComfyUI.",
+      "These models can be used either in Chainner or ComfyUI.",
       "I hope you truly like these models just like I do - I lot of work and dedication has been put to make them look great.",
       "Here are some visual examples of what these models can do."
     ],
     "claims": [
       {
-        "text": "Hi everyone, I want to share my custom-trained CNN models on various architectures, you can find them here: https://github.com/limitlesslab/AI-upscaling-models I already made a post yesterday but deleted it by mistake (the other post should have been deleted, not this one), so I'm posting again. These models can be used either in Chainner of ComfyUI. I hope you truly like these models just like I do - I lot of work and dedication has been put to make them look great. Here are some visual examples of what these models can do. Enjoy! https://slow.pics/s/UX5FyEwS?canvas-mode=fit-height&image-fit=cover https://slow.pics/s/k7Yie3Et?canvas-mode=fit-width&image-fit=cover https://slow.pics/s/c2vBrumd?canvas-mode=fit-width&image-fit=contain submitted by /u/elitegenes [link] [comments]",
+        "text": "Hi everyone, I want to share my custom-trained CNN models on various architectures, you can find them here: https://github.com/limitlesslab/AI-upscaling-models I already made a post yesterday but deleted it by mistake (the other post should have been deleted, not this one), so I'm posting again. These models can be used either in Chainner or ComfyUI. I hope you truly like these models just like I do - I lot of work and dedication has been put to make them look great. Here are some visual examples of what these models can do. Enjoy! https://slow.pics/s/UX5FyEwS?canvas-mode=fit-height&image-fit=cover https://slow.pics/s/k7Yie3Et?canvas-mode=fit-width&image-fit=cover https://slow.pics/s/c2vBrumd?canvas-mode=fit-width&image-fit=cover submitted by /u/elitegenes [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/comfyui/comments/1tydt9d/sharing_my_upscale_models/"
       }
@@ -607,27 +607,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_ec4192c3ac1f913a",
+    "sourceId": "src_reddit-comfyui_f17529ddd9fd79aa",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1txurpt/ideogram4_get_through_the_safety_filter/",
-    "title": "Ideogram4 - Get through the safety filter",
-    "publishedAt": "2026-06-05T19:24:09.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tyl3cc/do_you_all_plan_on_getting_a_rtx_spark_dgx_or/",
+    "title": "Do you all plan on getting a RTX Spark, DGX, or staying with your current hardware for ComfyUI?",
+    "publishedAt": "2026-06-06T16:01:32.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Since the safety filter seems to apply on the early steps only, the idea is to use a duo of Advanced Ksamplers : run the first 2 steps on the 1st ksampler using a clean prompt, and then run the the remaining steps with your full prompt on the 2nd ksampler.",
-      "https://preview.redd.it/r89l53etli5h1.png?width=840&format=png&auto=webp&s=b6e7edd8d6fe3689c2a53260be1c320170899283 Edit : to preserve quality, use both models, along with two distinct Dual Model CFG Guider nodes, and a SplitSigmas node.",
-      "Thanks to u/Hoodfu for suggesting this solution.",
-      "https://preview.redd.it/n6v064wkgk5h1.png?width=931&format=png&auto=webp&s=480c1bc72c6c2c434049c08f3b53053502158ffa Working workflow example here: https://pastes.io/t1aw64As Note : if it does not work with a split after step 1, try with steps 2, 3, or 4."
+      "Saw the promotional video for the hardware.",
+      "Very impressed and seems perfect for speeding up inference.",
+      "Every Open-weight provider's bet aged super well.",
+      "But back to main question, what do you all think for ComfyUi?"
     ],
     "claims": [
       {
-        "text": "Since the safety filter seems to apply on the early steps only, the idea is to use a duo of Advanced Ksamplers : run the first 2 steps on the 1st ksampler using a clean prompt, and then run the the remaining steps with your full prompt on the 2nd ksampler. That's all. https://preview.redd.it/r89l53etli5h1.png?width=840&format=png&auto=webp&s=b6e7edd8d6fe3689c2a53260be1c320170899283 Edit : to preserve quality, use both models, along with two distinct Dual Model CFG Guider nodes, and a SplitSigmas node. Thanks to u/Hoodfu for suggesting this solution. https://preview.redd.it/n6v064wkgk5h1.png?width=931&format=png&auto=webp&s=480c1bc72c6c2c434049c08f3b53053502158ffa Working workflow example here: https://pastes.io/t1aw64As Note : if it does not work with a split after step 1, try with steps 2, 3, or 4. submitted by /u/qdr1en [link] [comments]",
+        "text": "Saw the promotional video for the hardware. Very impressed and seems perfect for speeding up inference. Every Open-weight provider's bet aged super well. But back to main question, what do you all think for ComfyUi? I am curious since I was originally thinking of getting a 5090, but this seems like fitting the entire stack in VRam might be more worth while. submitted by /u/I_will_delete_myself [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1txurpt/ideogram4_get_through_the_safety_filter/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tyl3cc/do_you_all_plan_on_getting_a_rtx_spark_dgx_or/"
       }
     ],
     "usableFor": [
@@ -642,7 +642,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-06T12:02:45.631Z",
+    "publishedAt": "2026-06-07T00:02:03.785Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -671,7 +671,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-06T12:02:45.674Z",
+    "publishedAt": "2026-06-07T00:02:03.942Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -699,7 +699,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-06T12:02:46.556Z",
+    "publishedAt": "2026-06-07T00:02:04.367Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -781,24 +781,24 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_aa4c871855cff92c",
+    "sourceId": "src_reddit-aivideo_6401f08bbe94e727",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1txw23p/harry_potter_by_balenciaga_2_2026/",
-    "title": "Harry Potter by Balenciaga 2 (2026)",
-    "publishedAt": "2026-06-05T20:11:45.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tymey2/whats_in_the_hatch/",
+    "title": "What's in the Hatch",
+    "publishedAt": "2026-06-06T16:52:47.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/Exciting-Ladder-30 [link] [comments]"
+      "submitted by /u/rad_city [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/Exciting-Ladder-30 [link] [comments]",
+        "text": "submitted by /u/rad_city [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1txw23p/harry_potter_by_balenciaga_2_2026/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tymey2/whats_in_the_hatch/"
       }
     ],
     "usableFor": [
@@ -808,24 +808,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_6153affbc9824fff",
+    "sourceId": "src_reddit-aivideo_3e9a5b50678cb288",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1txpkvn/were_getting_a_multimillion_dollar_greenlight_to/",
-    "title": "We're getting a multi-million dollar greenlight to turn this into a hybrid movie! Nexus Teaser",
-    "publishedAt": "2026-06-05T16:17:30.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tyv36x/attack_of_the_treeplanter_showa_emergency/",
+    "title": "Attack of the Treeplanter! (Showa Emergency)",
+    "publishedAt": "2026-06-06T22:42:24.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/NightsRadiant [link] [comments]"
+      "submitted by /u/ShowaEmergency [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/NightsRadiant [link] [comments]",
+        "text": "submitted by /u/ShowaEmergency [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1txpkvn/were_getting_a_multimillion_dollar_greenlight_to/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tyv36x/attack_of_the_treeplanter_showa_emergency/"
       }
     ],
     "usableFor": [
@@ -835,24 +835,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_df5df38d0c73ee3a",
+    "sourceId": "src_reddit-aivideo_58cb67be7ba23a2b",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1ty5xrs/big_bones/",
-    "title": "Big Bones",
-    "publishedAt": "2026-06-06T03:20:04.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tyoei1/i_made_a_sliceoflife_characterdriven_fantasy/",
+    "title": "I made a slice-of-life character-driven Fantasy short, local model only, $0 budget, hows it hold up?",
+    "publishedAt": "2026-06-06T18:08:50.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/RobZomboyd [link] [comments]"
+      "submitted by /u/foxdit [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/RobZomboyd [link] [comments]",
+        "text": "submitted by /u/foxdit [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1ty5xrs/big_bones/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tyoei1/i_made_a_sliceoflife_characterdriven_fantasy/"
       }
     ],
     "usableFor": [
@@ -867,7 +867,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-06T12:02:46.146Z",
+    "publishedAt": "2026-06-07T00:02:04.288Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -896,7 +896,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-06T12:02:45.804Z",
+    "publishedAt": "2026-06-07T00:02:03.773Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -920,12 +920,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-06-06_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-06-07_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-06T12:02:45.909Z",
+    "publishedAt": "2026-06-07T00:02:03.917Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -952,7 +952,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-06T12:02:46.160Z",
+    "publishedAt": "2026-06-07T00:02:04.486Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -981,7 +981,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-06-06T12:02:45.932Z",
+    "publishedAt": "2026-06-07T00:02:04.038Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1066,24 +1066,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_984b5be4e950ae73",
+    "sourceId": "src_reddit-midjourney_bf3436d6f7c9822d",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1ty0buq/googie_scifi_city/",
-    "title": "Googie Sci-Fi City",
-    "publishedAt": "2026-06-05T23:01:03.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tyqirz/manuscript_knight_character_concept/",
+    "title": "Manuscript Knight character concept",
+    "publishedAt": "2026-06-06T19:31:30.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "Prompt: googie sci-fi city --ar 16:9 --v 8.1 --no cars submitted by /u/Zenchilada [link] [comments]"
+      "submitted by /u/danielwrbg [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Prompt: googie sci-fi city --ar 16:9 --v 8.1 --no cars submitted by /u/Zenchilada [link] [comments]",
+        "text": "submitted by /u/danielwrbg [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1ty0buq/googie_scifi_city/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tyqirz/manuscript_knight_character_concept/"
       }
     ],
     "usableFor": [
@@ -1093,24 +1093,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_beb1f0f819b45db2",
+    "sourceId": "src_reddit-midjourney_46396caf2c74eb84",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tyaeaw/abandoned_planet_somewhere/",
-    "title": "Abandoned planet somewhere",
-    "publishedAt": "2026-06-06T07:15:38.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tygox0/rebooting_setis_server/",
+    "title": "Rebooting Seti's Server",
+    "publishedAt": "2026-06-06T13:01:13.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/itsanwarraza [link] [comments]"
+      "submitted by /u/Zaicab [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/itsanwarraza [link] [comments]",
+        "text": "submitted by /u/Zaicab [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tyaeaw/abandoned_planet_somewhere/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tygox0/rebooting_setis_server/"
       }
     ],
     "usableFor": [
@@ -1120,24 +1120,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_dbb9df96a659d4e8",
+    "sourceId": "src_reddit-midjourney_b5c124c9d9336fe1",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1ty47xu/springdale_archive_1994/",
-    "title": "Springdale Archive, 1994",
-    "publishedAt": "2026-06-06T01:56:55.000Z",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tyj9jd/the_mystics/",
+    "title": "The Mystics",
+    "publishedAt": "2026-06-06T14:49:34.000Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
     ],
     "keyFacts": [
-      "submitted by /u/metr0punk [link] [comments]"
+      "submitted by /u/PatDubonnet [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/metr0punk [link] [comments]",
+        "text": "submitted by /u/PatDubonnet [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1ty47xu/springdale_archive_1994/"
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tyj9jd/the_mystics/"
       }
     ],
     "usableFor": [
@@ -1152,7 +1152,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-06T12:02:46.790Z",
+    "publishedAt": "2026-06-07T00:02:05.905Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1318,7 +1318,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-06T12:02:46.022Z",
+    "publishedAt": "2026-06-07T00:02:04.035Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1326,10 +1326,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 5 days ago • 70 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 2 days ago • 36 Introduction to Trimming ✂ lbourdois • 9 days ago • 39 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 5 days ago • 15 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 2 days ago • 13 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 2 days ago • 12 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 5 days ago • 11 Agentic RL: Token-In, Token-Out Done Right huggingface • 8 days ago • 11 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 8 days ago • 7 A Deep Neural Network that turns Any Image into a Playable Game!",
-      "All on consumer GPUs, NOT DATACENTER lucidml • 5 days ago • 7 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 16 days ago • 55 MONET: Lowering the bar for World-Class Image Generation research.",
-      "jasperai • 9 days ago • 10 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 11 days ago • 6 Server is at capacity ml-intern-explorers • 10 days ago • 6 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 8 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 340 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 5 days ago • 3 Does Depth Actually Help Reasoning?",
-      "A Tiny Experiment on 2× T4 wop • 7 days ago • 3 AutoResearch on Diffusers' Pipeline for 10 Rounds on JarvisLabs chansung • 3 days ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 228 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 3 June 4, 2026 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios 34 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 17 June 4, 2026 Direct Preference Optimization Beyond Chatbots 8 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 15 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 28 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 29 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 83 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 83 May 29, 2026 guide robotics audio Reachy Mini goes fully local 50 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 39 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 100 May 25, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 22 May 19, 2026 nlp community research Introducing the Ettin Reranker Family 51 May 19, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 6 days ago • 70 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 2 days ago • 36 Introduction to Trimming ✂ lbourdois • 9 days ago • 39 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 6 days ago • 15 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 2 days ago • 14 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 3 days ago • 12 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 5 days ago • 11 Agentic RL: Token-In, Token-Out Done Right huggingface • 8 days ago • 11 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 9 days ago • 8 A Deep Neural Network that turns Any Image into a Playable Game!",
+      "All on consumer GPUs, NOT DATACENTER lucidml • 5 days ago • 7 MONET: Lowering the bar for World-Class Image Generation research.",
+      "jasperai • 10 days ago • 10 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 11 days ago • 6 Server is at capacity ml-intern-explorers • 10 days ago • 6 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 9 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 340 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 5 days ago • 3 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 17 days ago • 55 AutoResearch on Diffusers' Pipeline for 10 Rounds on JarvisLabs chansung • 3 days ago • 3 Thousand Token Wood: shipping a multi-agent economy on a 3B model build-small-hackathon • 1 day ago • 3 Job Searcher build-small-hackathon • about 8 hours ago • 3 Five labs, five minds: building a multi-model finance drama on small models June 6, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 3 June 4, 2026 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios 34 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 19 June 4, 2026 Direct Preference Optimization Beyond Chatbots 8 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 15 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 28 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 29 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 83 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 83 May 29, 2026 guide robotics audio Reachy Mini goes fully local 52 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 39 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 101 May 25, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 22 May 19, 2026 Previous 1 2 3 ...",
+      "57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
       {
@@ -1393,7 +1393,7 @@
     ],
     "claims": [
       {
-        "text": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm , and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython . Why do I want a sandbox? What I want from a sandbox WebAssembly looks really promising here MicroPython in WebAssembly Building the first version Try it yourself Should you trust my vibe-coded sandbox? Why do I want a sandbox? My key open source projects - Datasette , LLM , even sqlite-utils - all support plugins. I absolutely love plugins as a mechanism for extending software. A carefully designed plugin system reduces the risk involved in trying new things to almost nothing - even the wildest ideas won't leave a lasting influence on the core application itself. My software can grow a new feature overnight and I don't even have to review a pull request! There's one major drawback: my plugin systems all use Python and Pluggy , and plugin code executes with full privileges within my applications. A buggy or malicious plugin could break everything or leak private data. I'd love to be able to run plugin-style code in an environment where it is unable to read unapproved files, connect to a network, or generally operate in a way that's risky or harmful to the rest of the application or the user's computer. My interest covers more than just plugins. For Datasette in particular there are many features I'd like to support where arbitrary code execution would be useful. I've already experimented with this for Datasette Enrichments , where code can be used to transform values stored in a table. I'd love to build a mechanism where you can run code on a schedule that fetches JSON from an approved location, runs a tiny bit of code to reformat it into a list of dictionaries, then inserts those as rows in a SQLite database table. What I want from a sandbox My goal is to execute code safely within my own Python applications. Here's what I need: Dependencies that cleanly install from PyPI , including binary wheels across multiple platforms if necessary. I don't want people using my software to have to take any extra steps beyond directly installing my Python package. Executed code must be subject to both memory and CPU limits. I don't want while True: s += \"longer string\" to crash my application or the user's computer. File access must be strictly controlled . Either no filesystem access at all or I get to define exactly which files can be read and which files can be written to. Network access is controlled as well . Sandboxed code should not be able to communicate with anything without going through a layer I fully control. Support for interaction with host functions . A sandbox isn't much use if I can't carefully expose selected platform features to the code that it's running. It has to be robust, supported, and clearly documented . I've lost count of the number of sandbox projects I've seen in repos with warnings that they aren't actively maintained! WebAssembly looks really promising here Web browsers operate in the most hostile environment imaginable when it comes to malicious code. Their job is to download and execute untrusted code from the web on almost every page load. Given this, JavaScript engines should be excellent candidates for sandboxes. Sadly those engines are also extremely complicated, and are not designed for easy embedding in other projects. Most of the v8-in-Python projects I've seen are infrequently maintained and come with warnings not to use them with completely untrusted code. WebAssembly is a much better candidate. It was designed from the start to support all of the characteristics I care about and has been tested in browsers for nearly a decade. The wasmtime Python library is actively maintained and has binary wheels. MicroPython in WebAssembly WebAssembly engines like wasmtime run WebAssembly binaries. Some programming languages like Rust are easy to compile directly to WebAssembly. Dynamic languages like JavaScript and Python are harder - they support language primitives like eval() , which means they need a full interpreter available at runtime. To run Python we need a full Python interpreter compiled to WebAssembly, wired up in a way that makes it easy to feed it code, hook up host functions and access the results. Pyodide offers an outstanding package for running Python using WebAssembly in the browser, but using Pyodide in server-side Python isn't supported. The most recent advice I could find was from October 2024 stating \"Pyodide is built by the Emscripten toolchain and can only run in a browser or Node.js\". The other day I decided to take a look at MicroPython as an option for this. The MicroPython site says: MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. WebAssembly sure feels like a constrained environment to me! Building the first version I had GPT-5.5 Pro do some research for me , which turned up this PR against MicroPython by Yamamoto Takahashi titled \"Experimental WASI support for ports/unix\". It then produced this research.md document , so I let Codex Desktop and GPT-5.5 high loose on it to see what would happen: read the research.md document and build this. You will probably need to write a script that compiles a custom WASM version of MicroPython as part of this project - fetch the MicroPython code to a /tmp directory for this as part of that script. It worked. I now had a prototype Python library that could execute Python code inside a WebAssembly sandbox! The trickiest piece to solve was persistent interpreter state. The WASM build we are using here exposes a single entry point which starts the interpreter, runs the code and then stops the interpreter at the end. This works fine for one-off scripts, but for Datasette Agent I want variables and functions to stay resident in memory so I can reuse them across multiple code execution calls. A neat thing about working with coding agents is that you can get from an idea to a proof of concept quickly. I prompted: For keeping variables resident: what if we ran code inside micropython itself which called a host function get_next_python_code() and then passed that to eval() - and that host function blocked until new code was available, maybe by running in a thread with a queue? Could that or a similar idea help here? After some iteration we got to a version of this that works! In Python code you can now do this: from micropython_wasm import MicroPythonSession with MicroPythonSession () as session : print ( session . run ( \"x = 10 \\n print(x)\" ). stdout ) print ( session . run ( \"x += 5 \\n print(x)\" ). stdout ) print ( session . run ( \"print(x * 2)\" ). stdout ) Under the hood this starts a thread, sets up a request queue and then sends messages to that queue for the session.run() command, each time waiting on a reply queue for the result of that execution. Inside WASM the MicroPython interpreter blocks waiting for a __session_next__() host function to return the next line of code, which it runs eval() on before calling __session_result__({\"id\": request_id, \"ok\": True}) when each block has been successfully executed. The other piece of complexity was supporting host functions, so my Python library could selectively expose functions that could then be called by code running in MicroPython. Codex ended up solving this with 78 lines of C , which ends up compiled into the 362KB WebAssembly blob I'm distributing with the package. I am by no means a C programmer, but I've read the C and had two different models explain it to me (here's Claude's explanation ) and I've subjected it to a barrage of tests. The great thing about working with WebAssembly is that if the C turns out to be fatally flawed the worst that can happen is the WebAssembly execution will fail with an exception. I can live with that risk. Memory limits are directly supported by wasmtime. CPU limits are a little harder: wasmtime offers a \"fuel\" concept to limit how many operations a WebAssembly call can execute, and that's the correct fit for this problem, but the units are hard to reason about. I'm experimenting with a 20 million default \"fuel\" setting now but I'm not confident that it's the most appropriate value. Try it yourself The micropython-wasm alpha is now live on PyPI . You can try it from your own Python code as described in the README . I've also added a simple CLI mode in version 0.1a2 which means you can try it using uvx without first installing it like so: uvx micropython-wasm -c ' print(\"Hello world\") ' # To see it run out of fuel: uvx micropython-wasm -c ' s = \"\"; while True: s += \"longer\" ' # Outputs: micropython-wasm: guest exited with code 1 You can also try it in Datasette Agent like this: uvx llm keys set openai # Paste in an OpenAI key, then: uvx --with datasette-agent \\ --with datasette-agent-micropython \\ --prerelease allow \\ datasette --internal internal.db \\ -s plugins.datasette-llm.default_model gpt-5.5 \\ --root -o Then navigate to http://127.0.0.1:8001/-/agent and run the prompt: show me some micropython Should you trust my vibe-coded sandbox? Having complained about immature, loosely-maintained sandboxing libraries, it's deeply ironic that I've now built my own! I deliberately slapped an alpha release version on it, and I'm not ready to recommend it to anyone who isn't willing to take a significant risk. I've put it through enough testing that I'm OK using it myself. I've shipped my first plugin that uses it, datasette-agent-micropython . I've also locked GPT-5.5 xhigh in that Datasette Agent plugin and challenged it to break out of the sandbox and so far it has not managed to. I'm hoping this implementation can convince some companies with professional security teams and high-stakes problems to commit to using Python in WebAssembly as a sandboxing approach and open source their own solutions. Tags: python , sandboxing , ai , datasette , webassembly , generative-ai , llms , ai-assisted-programming , codex , datasette-agent , micropython",
+        "text": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm , and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython . Why do I want a sandbox? What I want from a sandbox WebAssembly looks really promising here MicroPython in WebAssembly Building the first version Try it yourself Should you trust my vibe-coded sandbox? Why do I want a sandbox? My key open source projects - Datasette , LLM , even sqlite-utils - all support plugins. I absolutely love plugins as a mechanism for extending software. A carefully designed plugin system reduces the risk involved in trying new things to almost nothing - even the wildest ideas won't leave a lasting influence on the core application itself. My software can grow a new feature overnight and I don't even have to review a pull request! There's one major drawback: my plugin systems all use Python and Pluggy , and plugin code executes with full privileges within my applications. A buggy or malicious plugin could break everything or leak private data. I'd love to be able to run plugin-style code in an environment where it is unable to read unapproved files, connect to a network, or generally operate in a way that's risky or harmful to the rest of the application or the user's computer. My interest covers more than just plugins. For Datasette in particular there are many features I'd like to support where arbitrary code execution would be useful. I've already experimented with this for Datasette Enrichments , where code can be used to transform values stored in a table. I'd love to build a mechanism where you can run code on a schedule that fetches JSON from an approved location, runs a tiny bit of code to reformat it into a list of dictionaries, then inserts those as rows in a SQLite database table. What I want from a sandbox My goal is to execute code safely within my own Python applications. Here's what I need: Dependencies that cleanly install from PyPI , including binary wheels across multiple platforms if necessary. I don't want people using my software to have to take any extra steps beyond directly installing my Python package. Executed code must be subject to both memory and CPU limits. I don't want while True: s += \"longer string\" to crash my application or the user's computer. File access must be strictly controlled . Either no filesystem access at all or I get to define exactly which files can be read and which files can be written to. Network access is controlled as well . Sandboxed code should not be able to communicate with anything without going through a layer I fully control. Support for interaction with host functions . A sandbox isn't much use if I can't carefully expose selected platform features to the code that it's running. It has to be robust, supported, and clearly documented . I've lost count of the number of sandbox projects I've seen in repos with warnings that they aren't actively maintained! WebAssembly looks really promising here Web browsers operate in the most hostile environment imaginable when it comes to malicious code. Their job is to download and execute untrusted code from the web on almost every page load. Given this, JavaScript engines should be excellent candidates for sandboxes. Sadly those engines are also extremely complicated, and are not designed for easy embedding in other projects. Most of the V8-in-Python projects I've seen are infrequently maintained and come with warnings not to use them with completely untrusted code. WebAssembly is a much better candidate. It was designed from the start to support all of the characteristics I care about and has been tested in browsers for nearly a decade. The wasmtime Python library brings WASM to Python, is actively maintained, and has binary wheels. MicroPython in WebAssembly WebAssembly engines like wasmtime run WebAssembly binaries. Some programming languages like Rust are easy to compile directly to WebAssembly. Dynamic languages like JavaScript and Python are harder - they support language primitives like eval() , which means they need a full interpreter available at runtime. To run Python we need a full Python interpreter compiled to WebAssembly, wired up in a way that makes it easy to feed it code, hook up host functions and access the results. Pyodide offers an outstanding package for running Python using WebAssembly in the browser, but using Pyodide in server-side Python isn't supported. The most recent advice I could find was from October 2024 stating \"Pyodide is built by the Emscripten toolchain and can only run in a browser or Node.js\". The other day I decided to take a look at MicroPython as an option for this. The MicroPython site says: MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. WebAssembly sure feels like a constrained environment to me! Building the first version I had GPT-5.5 Pro do some research for me , which turned up this PR against MicroPython by Yamamoto Takahashi titled \"Experimental WASI support for ports/unix\". It then produced this research.md document , so I let Codex Desktop and GPT-5.5 high loose on it to see what would happen: read the research.md document and build this. You will probably need to write a script that compiles a custom WASM version of MicroPython as part of this project - fetch the MicroPython code to a /tmp directory for this as part of that script. It worked. I now had a prototype Python library that could execute Python code inside a WebAssembly sandbox! The trickiest piece to solve was persistent interpreter state. The WASM build we are using here exposes a single entry point which starts the interpreter, runs the code and then stops the interpreter at the end. This works fine for one-off scripts, but for Datasette Agent I want variables and functions to stay resident in memory so I can reuse them across multiple code execution calls. A neat thing about working with coding agents is that you can get from an idea to a proof of concept quickly. I prompted: For keeping variables resident: what if we ran code inside micropython itself which called a host function get_next_python_code() and then passed that to eval() - and that host function blocked until new code was available, maybe by running in a thread with a queue? Could that or a similar idea help here? After some iteration we got to a version of this that works! In Python code you can now do this: from micropython_wasm import MicroPythonSession with MicroPythonSession () as session : print ( session . run ( \"x = 10 \\n print(x)\" ). stdout ) print ( session . run ( \"x += 5 \\n print(x)\" ). stdout ) print ( session . run ( \"print(x * 2)\" ). stdout ) Under the hood this starts a thread, sets up a request queue and then sends messages to that queue for the session.run() command, each time waiting on a reply queue for the result of that execution. Inside WASM the MicroPython interpreter blocks waiting for a __session_next__() host function to return the next line of code, which it runs eval() on before calling __session_result__({\"id\": request_id, \"ok\": True}) when each block has been successfully executed. The other piece of complexity was supporting host functions, so my Python library could selectively expose functions that could then be called by code running in MicroPython. Codex ended up solving this with 78 lines of C , which ends up compiled into the 362KB WebAssembly blob I'm distributing with the package. I am by no means a C programmer, but I've read the C and had two different models explain it to me (here's Claude's explanation ) and I've subjected it to a barrage of tests. The great thing about working with WebAssembly is that if the C turns out to be fatally flawed the worst that can happen is the WebAssembly execution will fail with an exception. I can live with that risk. Memory limits are directly supported by wasmtime. CPU limits are a little harder: wasmtime offers a \"fuel\" concept to limit how many operations a WebAssembly call can execute, and that's the correct fit for this problem, but the units are hard to reason about. I'm experimenting with a 20 million default \"fuel\" setting now but I'm not confident that it's the most appropriate value. Try it yourself The micropython-wasm alpha is now live on PyPI . You can try it from your own Python code as described in the README . I've also added a simple CLI mode in version 0.1a2 which means you can try it using uvx without first installing it like so: uvx micropython-wasm -c ' print(\"Hello world\") ' # To see it run out of fuel: uvx micropython-wasm -c ' s = \"\"; while True: s += \"longer\" ' # Outputs: micropython-wasm: guest exited with code 1 You can also try it in Datasette Agent like this: uvx llm keys set openai # Paste in an OpenAI key, then: uvx --with datasette-agent \\ --with datasette-agent-micropython \\ --prerelease allow \\ datasette --internal internal.db \\ -s plugins.datasette-llm.default_model gpt-5.5 \\ --root -o Then navigate to http://127.0.0.1:8001/-/agent and run the prompt: show me some micropython You can try a live demo of that plugin running in Datasette Agent by signing into agent.datasette.io with your GitHub account. Should you trust my vibe-coded sandbox? Having complained about immature, loosely-maintained sandboxing libraries, it's deeply ironic that I've now built my own! I deliberately slapped an alpha release version on it, and I'm not ready to recommend it to anyone who isn't willing to take a significant risk. I've put it through enough testing that I'm OK using it myself. I've shipped my first plugin that uses it, datasette-agent-micropython . I've also locked GPT-5.5 xhigh in that Datasette Agent plugin and challenged it to break out of the sandbox and so far it has not managed to. I'm hoping this implementation can convince some companies with professional security teams and high-stakes problems to commit to using Python in WebAssembly as a sandboxing approach and open source their own solutions. Tags: python , sandboxing , ai , datasette , webassembly , generative-ai , llms , ai-assisted-programming , codex , datasette-agent , micropython",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything"
       }
@@ -1423,7 +1423,7 @@
     ],
     "claims": [
       {
-        "text": "OpenAI Help: Lockdown Mode OpenAI first teased this in February , but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response. This looks really good to me. The Lethal Trifecta occurs when an LLM system has access to all three of access to private data, exposure to untrusted content and a way to steal data and transmit it back to the attacker. The only way to solve the trifecta is to cut off one of the three legs, and by far the easiest leg to restrict without making your LLM systems far less useful is the exfiltration vectors to steal data. It looks to me like lockdown mode directly attacks that leg, using mechanisms that are deterministic and, crucially, are not evaluated by AI systems that themselves can be subverted by sufficiently devious attacks. The existence of lockdown mode does however imply that ChatGPT, in its default settings, does not provide robust protection against sufficiently determined data exfiltration attacks! Tags: security , ai , openai , prompt-injection , llms , lethal-trifecta",
+        "text": "OpenAI Help: Lockdown Mode OpenAI first teased this in February , but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response. This looks really good to me. The Lethal Trifecta occurs when an LLM system has access to all three of access to private data, exposure to untrusted content and a way to steal data and transmit it back to the attacker. The only way to solve the trifecta is to cut off one of the three legs, and by far the easiest leg to restrict without making your LLM systems far less useful is the exfiltration vectors to steal data. It looks to me like lockdown mode directly attacks that leg, using mechanisms that are deterministic and, crucially, are not evaluated by AI systems that themselves can be subverted by sufficiently devious attacks. The existence of lockdown mode does however imply that ChatGPT, in its default settings, does not provide robust protection against sufficiently determined data exfiltration attacks! Update : This tweet OpenAI CISO Dane Stuckey: Lockdown mode is not meant for everyone. However, for folks who have an elevated risk profile - due to who they are, what they work on, or the types of data they work with - it's an excellent tool for further securing themselves. This has some tradeoffs on functionality and utility, but for these users, the tradeoff is worthwhile. Tags: security , ai , openai , prompt-injection , llms , lethal-trifecta",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything"
       }
@@ -1500,7 +1500,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-06T12:02:45.952Z",
+    "publishedAt": "2026-06-07T00:02:04.085Z",
     "categoryHints": [
       "ai-agentic"
     ],

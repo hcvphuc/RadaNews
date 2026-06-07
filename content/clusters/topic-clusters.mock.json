@@ -1,6 +1,6 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-06",
+    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-07",
     "category": "ai-agentic",
     "topic": "LangChain Blog",
     "sourceIds": [
@@ -9,10 +9,10 @@
       "src_luma-blog_c7449029956c34f9",
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_2003026eef2ad2e7",
-      "src_reddit-stablediffusion_2a9e2b90083e2cf2",
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_reddit-stablediffusion_34918f10cd05e278"
+      "src_reddit-stablediffusion_34918f10cd05e278",
+      "src_reddit-aiagents_fa32b6abbfc9e9d9"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
@@ -20,22 +20,23 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-06",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-07",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_246bf415b15f1fde",
       "src_simonwillison-blog_e7b96ccdc1f26b2a",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_replit-blog_49899058ba32f8e5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-06",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-07",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -44,38 +45,22 @@
       "src_replicate-blog_572c1f4ac9c0ea5c",
       "src_reddit-comfyui_6a6c8bd64f79e29f",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-comfyui_f4f210edfd02adc0",
-      "src_reddit-stablediffusion_4f545dc851ff9f4a"
+      "src_reddit-comfyui_f4f210edfd02adc0"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_quoting-andreas-kling_2026-06-06",
-    "category": "ai-vibe-coding",
-    "topic": "Quoting Andreas Kling",
-    "sourceIds": [
-      "src_simonwillison-blog_0cbdcbeed6daa6ae",
-      "src_replit-blog_49899058ba32f8e5",
-      "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_vercel-ai-blog_2026-06-06_fallback"
-    ],
-    "articleWorthinessScore": 0.94,
-    "reasonSelected": "Score 0.94 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Replit Blog, r/comfyui.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-06",
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-07",
     "category": "ai-video",
     "topic": "Kling AI",
     "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
       "src_reddit-aivideo_a7a9a72758720ba6",
       "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-aivideo_aa4c871855cff92c"
+      "src_reddit-aivideo_6401f08bbe94e727"
     ],
     "articleWorthinessScore": 0.89,
     "reasonSelected": "Score 0.89 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, r/aivideo, Pika Labs Blog.",
@@ -83,49 +68,64 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_sharing-my-upscale-models_2026-06-06",
+    "clusterId": "cluster_ai-image_2_sharing-my-upscale-models_2026-06-07",
     "category": "ai-image",
     "topic": "Sharing my upscale models",
     "sourceIds": [
       "src_reddit-comfyui_639ea8493e915036",
-      "src_reddit-stablediffusion_71dd4a0aa02e3ef8",
+      "src_reddit-comfyui_f17529ddd9fd79aa",
       "src_reddit-midjourney_91c5cf49176c170c",
       "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
-      "src_reddit-stablediffusion_dcff62d175144d21",
-      "src_stability-ai-blog_2026-06-06_fallback"
+      "src_stability-ai-blog_2026-06-07_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 7 source item(s), 6 live crawl(s), strongest sources: r/comfyui, r/StableDiffusion, r/midjourney.",
+    "articleWorthinessScore": 0.85,
+    "reasonSelected": "Score 0.85 from 6 source item(s), 5 live crawl(s), strongest sources: r/comfyui, r/midjourney, r/MediaSynthesis.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_the-agent-worked-perfectly-the-team-quietly-killed-it-anyway_2026-06-06",
+    "clusterId": "cluster_ai-agentic_2_ideogram-4-0-feels-good_2026-06-07",
     "category": "ai-agentic",
-    "topic": "The agent worked perfectly. The team quietly killed it anyway.",
+    "topic": "Ideogram 4.0 feels good",
     "sourceIds": [
-      "src_reddit-aiagents_f6da2ee6b0a6243c",
-      "src_reddit-comfyui_ec4192c3ac1f913a",
+      "src_reddit-stablediffusion_56c0d549ed2e0387",
+      "src_reddit-stablediffusion_30252869bacedbcd",
+      "src_reddit-aiagents_94907d33243a5cd0",
       "src_reddit-aiagents_e61a058457a2608b",
-      "src_reddit-aiagents_8e9a53e8100a5072",
+      "src_reddit-stablediffusion_e687f0550df36853",
       "src_reddit-aiagents_bfc588e0191c755b",
       "src_reddit-aiagents_ce5af76cde1748ff",
-      "src_openai-blog_2026-06-06_fallback",
-      "src_mcp-blog_2026-06-06_fallback"
+      "src_openai-blog_2026-06-07_fallback",
+      "src_mcp-blog_2026-06-07_fallback"
     ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, r/comfyui, OpenAI Blog.",
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 9 source item(s), 7 live crawl(s), strongest sources: r/StableDiffusion, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_we-re-getting-a-multi-million-dollar-greenlight-to-turn-this-int_2026-06-06",
-    "category": "ai-video",
-    "topic": "We're getting a multi-million dollar greenlight to turn this into a hybrid mo...",
+    "clusterId": "cluster_ai-vibe-coding_2_quoting-andreas-kling_2026-06-07",
+    "category": "ai-vibe-coding",
+    "topic": "Quoting Andreas Kling",
     "sourceIds": [
-      "src_reddit-aivideo_6153affbc9824fff",
-      "src_reddit-aivideo_df5df38d0c73ee3a",
+      "src_simonwillison-blog_0cbdcbeed6daa6ae",
+      "src_reddit-comfyui_f0fcbff5cbf30b57",
+      "src_reddit-stablediffusion_cfa6e662d7fceddc",
+      "src_vercel-ai-blog_2026-06-07_fallback"
+    ],
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, r/comfyui, r/StableDiffusion.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_2_attack-of-the-treeplanter-showa-emergency_2026-06-07",
+    "category": "ai-video",
+    "topic": "Attack of the Treeplanter! (Showa Emergency)",
+    "sourceIds": [
+      "src_reddit-aivideo_3e9a5b50678cb288",
+      "src_reddit-aivideo_58cb67be7ba23a2b",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.68,
@@ -134,12 +134,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_googie-sci-fi-city_2026-06-06",
+    "clusterId": "cluster_prompt-image_1_manuscript-knight-character-concept_2026-06-07",
     "category": "prompt-image",
-    "topic": "Googie Sci-Fi City",
+    "topic": "Manuscript Knight character concept",
     "sourceIds": [
-      "src_reddit-midjourney_984b5be4e950ae73",
-      "src_reddit-midjourney_beb1f0f819b45db2"
+      "src_reddit-midjourney_bf3436d6f7c9822d",
+      "src_reddit-midjourney_46396caf2c74eb84"
     ],
     "articleWorthinessScore": 0.61,
     "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
@@ -147,11 +147,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_springdale-archive-1994_2026-06-06",
+    "clusterId": "cluster_prompt-image_2_the-mystics_2026-06-07",
     "category": "prompt-image",
-    "topic": "Springdale Archive, 1994",
+    "topic": "The Mystics",
     "sourceIds": [
-      "src_reddit-midjourney_dbb9df96a659d4e8"
+      "src_reddit-midjourney_b5c124c9d9336fe1"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
@@ -159,7 +159,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-06-06",
+    "clusterId": "cluster_prompt-video_1_ai-is-incapable-of-poetry-it-s-incapable-of-producing-anything-c_2026-06-07",
     "category": "prompt-video",
     "topic": "\"AI Is Incapable of Poetry: It’s incapable of producing anything creative tha...",
     "sourceIds": [
@@ -172,7 +172,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_2_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-06-06",
+    "clusterId": "cluster_prompt-video_2_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-06-07",
     "category": "prompt-video",
     "topic": "AI won the 2025 Commonwealth Short Story Prize competition",
     "sourceIds": [
