@@ -325,15 +325,15 @@
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "LangChain Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/StableDiffusion, r/comfyui, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agents",
-      "langgraph",
-      "agentic-workflow",
-      "software-engineering",
-      "sandboxing"
+      "ai-agentic",
+      "langchain",
+      "vibe-coding",
+      "sandboxing",
+      "deep-agents"
     ],
-    "publishedAt": "2026-06-07T00:02:32.626Z",
+    "publishedAt": "2026-06-07T12:15:54.008Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-06-07"
   },
@@ -343,15 +343,15 @@
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "LangChain Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from LangChain Blog, r/StableDiffusion, r/comfyui, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-agents",
       "langchain",
-      "software-engineering",
-      "llm-memory",
-      "observability"
+      "agentic-engineering",
+      "sandboxing",
+      "llm-ops"
     ],
-    "publishedAt": "2026-06-07T00:02:51.080Z",
+    "publishedAt": "2026-06-07T12:16:12.231Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-06-07"
   },
@@ -369,7 +369,7 @@
       "ai-security",
       "anthropic"
     ],
-    "publishedAt": "2026-06-07T00:02:37.661Z",
+    "publishedAt": "2026-06-07T12:15:42.467Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-07"
   },
@@ -382,12 +382,12 @@
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
-      "ai-agents",
-      "wasm",
-      "cybersecurity",
-      "llm-development"
+      "webassembly",
+      "ai-security",
+      "llm-agents",
+      "sandboxing"
     ],
-    "publishedAt": "2026-06-07T00:02:57.288Z",
+    "publishedAt": "2026-06-07T12:16:06.285Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-06-07"
   },
@@ -397,17 +397,17 @@
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
+      "Generative-AI",
+      "Runway-AI",
       "Ideogram-4",
-      "ComfyUI",
-      "World-Models",
-      "Open-Source-AI",
-      "Local-AI"
+      "FLUX-AI",
+      "ComfyUI"
     ],
-    "publishedAt": "2026-06-07T00:02:27.918Z",
-    "readingTime": 3,
+    "publishedAt": "2026-06-07T12:15:38.779Z",
+    "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-07"
   },
   {
@@ -416,16 +416,16 @@
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "Generative AI",
-      "Open Source",
-      "ComfyUI",
-      "AI Video",
-      "Computer Vision"
+      "World Models",
+      "Bbox Prompting",
+      "Edge AI",
+      "Multimodal AI",
+      "Runway AI"
     ],
-    "publishedAt": "2026-06-07T00:02:46.417Z",
-    "readingTime": 4,
+    "publishedAt": "2026-06-07T12:15:54.632Z",
+    "readingTime": 3,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-07"
   },
   {
@@ -437,13 +437,13 @@
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "KlingAI",
-      "AIVideo",
       "Native4K",
-      "AIProduction",
-      "CreativeTech"
+      "AIVideo",
+      "ContentCreation",
+      "AIProduction"
     ],
-    "publishedAt": "2026-06-07T00:02:47.855Z",
-    "readingTime": 5,
+    "publishedAt": "2026-06-07T12:16:25.745Z",
+    "readingTime": 4,
     "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-06-07"
   },
   {
@@ -456,84 +456,84 @@
     "tags": [
       "Kling AI",
       "Native 4K",
-      "AI Cinematography",
-      "AI Video Production"
+      "AI Video Production",
+      "Generative AI",
+      "Cinematography"
     ],
-    "publishedAt": "2026-06-07T00:03:06.210Z",
-    "readingTime": 3,
+    "publishedAt": "2026-06-07T12:17:10.909Z",
+    "readingTime": 4,
     "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-06-07"
   },
   {
-    "id": "cluster_ai-image_2_sharing-my-upscale-models_2026-06-07_vi",
+    "id": "cluster_ai-image_2_ideogram-4-0-just-open-sourced_2026-06-07_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "Sharing my upscale models: góc nhìn cho creator và builder",
+    "title": "Ideogram 4.0 Just Open Sourced!: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-image",
-      "upscaling",
-      "comfyui",
-      "midjourney-v8",
-      "cnn-models",
-      "workflow-optimization"
+      "Ideogram 4.0",
+      "Open Source",
+      "ComfyUI",
+      "AI Design",
+      "Text-to-Image"
     ],
-    "publishedAt": "2026-06-07T00:02:44.624Z",
-    "readingTime": 5,
-    "url": "/vi/ai-image/sharing-my-upscale-models-goc-nhin-cho-creator-va-builder-2026-06-07"
+    "publishedAt": "2026-06-07T12:15:58.446Z",
+    "readingTime": 4,
+    "url": "/vi/ai-image/ideogram-4-0-just-open-sourced-goc-nhin-cho-creator-va-bui-2026-06-07"
   },
   {
-    "id": "cluster_ai-image_2_sharing-my-upscale-models_2026-06-07_en",
+    "id": "cluster_ai-image_2_ideogram-4-0-just-open-sourced_2026-06-07_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
-    "title": "Sharing my upscale models: creator and builder analysis",
+    "title": "Ideogram 4.0 Just Open Sourced!: creator and builder analysis",
     "subtitle": "Signal synthesized from Stability AI Blog, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Upscaling",
-      "ComfyUI",
-      "Midjourney-V8",
-      "CNN-Models",
-      "Generative-Art-Workflow"
+      "open-source",
+      "ideogram",
+      "comfyui",
+      "typography",
+      "generative-ai"
     ],
-    "publishedAt": "2026-06-07T00:03:12.536Z",
+    "publishedAt": "2026-06-07T12:17:15.740Z",
     "readingTime": 4,
-    "url": "/en/ai-image/sharing-my-upscale-models-creator-and-builder-analysis-2026-06-07"
+    "url": "/en/ai-image/ideogram-4-0-just-open-sourced-creator-and-builder-analysi-2026-06-07"
   },
   {
-    "id": "cluster_ai-agentic_2_ideogram-4-0-feels-good_2026-06-07_vi",
+    "id": "cluster_ai-agentic_2_i-built-comfyui-nodes-that-use-riemannian-geometry-to-guide-wan2_2026-06-07_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Ideogram 4.0 feels good: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "I built ComfyUI nodes that use Riemannian geometry to guide WAN2.2 latent int...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, r/comfyui, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "Ideogram4",
-      "AI-Image-Generation",
-      "PromptEngineering",
-      "JSON-Prompting",
-      "Photorealism"
+      "ComfyUI",
+      "WAN2.2",
+      "Riemannian Geometry",
+      "Latent Interpolation",
+      "AI Video"
     ],
-    "publishedAt": "2026-06-07T00:04:16.064Z",
+    "publishedAt": "2026-06-07T12:15:39.642Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/ideogram-4-0-feels-good-goc-nhin-cho-creator-va-builder-2026-06-07"
+    "url": "/vi/ai-agentic/i-built-comfyui-nodes-that-use-riemannian-geometry-to-guide-2026-06-07"
   },
   {
-    "id": "cluster_ai-agentic_2_ideogram-4-0-feels-good_2026-06-07_en",
+    "id": "cluster_ai-agentic_2_i-built-comfyui-nodes-that-use-riemannian-geometry-to-guide-wan2_2026-06-07_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Ideogram 4.0 feels good: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, scored by recency, content depth, and source reliability.",
+    "title": "I built ComfyUI nodes that use Riemannian geometry to guide WAN2.2 latent int...: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, r/comfyui, scored by recency, content depth, and source reliability.",
     "tags": [
-      "Ideogram 4.0",
-      "Agentic AI",
-      "JSON Prompting",
-      "Generative Art",
-      "AI Workflows"
+      "ComfyUI",
+      "WAN2.2",
+      "RiemannianGeometry",
+      "AIAgents",
+      "LatentSpace"
     ],
-    "publishedAt": "2026-06-07T00:05:24.313Z",
+    "publishedAt": "2026-06-07T12:16:10.803Z",
     "readingTime": 3,
-    "url": "/en/ai-agentic/ideogram-4-0-feels-good-creator-and-builder-analysis-2026-06-07"
+    "url": "/en/ai-agentic/i-built-comfyui-nodes-that-use-riemannian-geometry-to-guide-2026-06-07"
   }
 ]

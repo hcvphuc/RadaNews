@@ -9,10 +9,10 @@
       "src_luma-blog_c7449029956c34f9",
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_2003026eef2ad2e7",
+      "src_reddit-stablediffusion_8f10458c1c6ff8f7",
+      "src_reddit-comfyui_f487f460f500c44e",
       "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_reddit-stablediffusion_34918f10cd05e278",
-      "src_reddit-aiagents_fa32b6abbfc9e9d9"
+      "src_lilianweng-blog_31a2c7baf9b791a5"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
@@ -26,8 +26,8 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_246bf415b15f1fde",
-      "src_simonwillison-blog_e7b96ccdc1f26b2a",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_simonwillison-blog_e7b96ccdc1f26b2a",
       "src_replit-blog_49899058ba32f8e5"
     ],
     "articleWorthinessScore": 1,
@@ -43,9 +43,9 @@
       "src_runway-research_4c72ae34dd32cd2b",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-comfyui_6a6c8bd64f79e29f",
+      "src_reddit-stablediffusion_13901e712128d7b2",
       "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-comfyui_f4f210edfd02adc0"
+      "src_reddit-stablediffusion_27d28fd2069f161b"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
@@ -60,7 +60,7 @@
       "src_kling-blog_93b43a5f7aed1c98",
       "src_reddit-aivideo_a7a9a72758720ba6",
       "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-aivideo_6401f08bbe94e727"
+      "src_reddit-aivideo_8850c09e0eec49a8"
     ],
     "articleWorthinessScore": 0.89,
     "reasonSelected": "Score 0.89 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, r/aivideo, Pika Labs Blog.",
@@ -68,31 +68,30 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_sharing-my-upscale-models_2026-06-07",
+    "clusterId": "cluster_ai-image_2_ideogram-4-0-just-open-sourced_2026-06-07",
     "category": "ai-image",
-    "topic": "Sharing my upscale models",
+    "topic": "Ideogram 4.0 Just Open Sourced!",
     "sourceIds": [
-      "src_reddit-comfyui_639ea8493e915036",
-      "src_reddit-comfyui_f17529ddd9fd79aa",
+      "src_reddit-comfyui_f4f210edfd02adc0",
       "src_reddit-midjourney_91c5cf49176c170c",
       "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
       "src_stability-ai-blog_2026-06-07_fallback"
     ],
     "articleWorthinessScore": 0.85,
-    "reasonSelected": "Score 0.85 from 6 source item(s), 5 live crawl(s), strongest sources: r/comfyui, r/midjourney, r/MediaSynthesis.",
+    "reasonSelected": "Score 0.85 from 5 source item(s), 4 live crawl(s), strongest sources: r/comfyui, r/midjourney, r/MediaSynthesis.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_ideogram-4-0-feels-good_2026-06-07",
+    "clusterId": "cluster_ai-agentic_2_i-built-comfyui-nodes-that-use-riemannian-geometry-to-guide-wan2_2026-06-07",
     "category": "ai-agentic",
-    "topic": "Ideogram 4.0 feels good",
+    "topic": "I built ComfyUI nodes that use Riemannian geometry to guide WAN2.2 latent int...",
     "sourceIds": [
-      "src_reddit-stablediffusion_56c0d549ed2e0387",
-      "src_reddit-stablediffusion_30252869bacedbcd",
-      "src_reddit-aiagents_94907d33243a5cd0",
-      "src_reddit-aiagents_e61a058457a2608b",
+      "src_reddit-comfyui_d62843d49e172c64",
+      "src_reddit-aiagents_694b7062478ee1c3",
+      "src_reddit-aiagents_b8e4876cfcaaedcb",
+      "src_reddit-aiagents_acb5b72263d91f28",
       "src_reddit-stablediffusion_e687f0550df36853",
       "src_reddit-aiagents_bfc588e0191c755b",
       "src_reddit-aiagents_ce5af76cde1748ff",
@@ -100,7 +99,7 @@
       "src_mcp-blog_2026-06-07_fallback"
     ],
     "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 9 source item(s), 7 live crawl(s), strongest sources: r/StableDiffusion, r/AI_Agents, OpenAI Blog.",
+    "reasonSelected": "Score 0.84 from 9 source item(s), 7 live crawl(s), strongest sources: r/comfyui, r/AI_Agents, r/StableDiffusion.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -111,11 +110,12 @@
     "sourceIds": [
       "src_simonwillison-blog_0cbdcbeed6daa6ae",
       "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_reddit-stablediffusion_cfa6e662d7fceddc",
+      "src_reddit-stablediffusion_d8de99cd5c3cfb7a",
+      "src_reddit-comfyui_fe0540122ae72d5a",
       "src_vercel-ai-blog_2026-06-07_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, r/comfyui, r/StableDiffusion.",
+    "articleWorthinessScore": 0.83,
+    "reasonSelected": "Score 0.83 from 5 source item(s), 4 live crawl(s), strongest sources: Simon Willison's Weblog, r/comfyui, r/StableDiffusion.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -125,7 +125,7 @@
     "topic": "Attack of the Treeplanter! (Showa Emergency)",
     "sourceIds": [
       "src_reddit-aivideo_3e9a5b50678cb288",
-      "src_reddit-aivideo_58cb67be7ba23a2b",
+      "src_reddit-aivideo_6401f08bbe94e727",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.68,
@@ -134,12 +134,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_manuscript-knight-character-concept_2026-06-07",
+    "clusterId": "cluster_prompt-image_1_templar-drip_2026-06-07",
     "category": "prompt-image",
-    "topic": "Manuscript Knight character concept",
+    "topic": "templar drip",
     "sourceIds": [
-      "src_reddit-midjourney_bf3436d6f7c9822d",
-      "src_reddit-midjourney_46396caf2c74eb84"
+      "src_reddit-midjourney_8c7c0433f9bf6f3e",
+      "src_reddit-midjourney_5ea5c641722726a7"
     ],
     "articleWorthinessScore": 0.61,
     "reasonSelected": "Score 0.61 from 2 source item(s), 2 live crawl(s), strongest sources: r/midjourney.",
@@ -147,11 +147,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_the-mystics_2026-06-07",
+    "clusterId": "cluster_prompt-image_2_manuscript-knight-character-concept_2026-06-07",
     "category": "prompt-image",
-    "topic": "The Mystics",
+    "topic": "Manuscript Knight character concept",
     "sourceIds": [
-      "src_reddit-midjourney_b5c124c9d9336fe1"
+      "src_reddit-midjourney_bf3436d6f7c9822d"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",

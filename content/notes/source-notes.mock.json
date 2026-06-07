@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-07T00:02:04.391Z",
+    "publishedAt": "2026-06-07T12:15:16.142Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-07T00:02:09.426Z",
+    "publishedAt": "2026-06-07T12:15:20.374Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-07T00:02:03.492Z",
+    "publishedAt": "2026-06-07T12:15:15.597Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-07T00:02:04.101Z",
+    "publishedAt": "2026-06-07T12:15:16.091Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_e61a058457a2608b",
+    "sourceId": "src_reddit-aiagents_694b7062478ee1c3",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tye5lt/what_are_the_best_resources_to_learn_ai_agents_in/",
-    "title": "What are the best resources to learn AI Agents in 2026?",
-    "publishedAt": "2026-06-06T10:56:59.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tz75ie/used_an_agent_to_handle_a_small_social_media/",
+    "title": "used an agent to handle a small social media research task. The result surprised me",
+    "publishedAt": "2026-06-07T09:08:46.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "The context is that I am a software engineering final year student.",
-      "I also have experience working in ML, DL, NLP i.e I have the basics nailed.",
-      "What I am looking for is something that will help me understand the technical side of AI Agents in full details because I want to do my Final Year Project in Agentic AI, and I want to start now.",
-      "I am NOT looking for blogs, articles etc but a full tutorial or guide or whatever else may help me go in-depth."
+      "I was trying to check which recent posts from an X account performed best.",
+      "Normally that means opening the profile, skipping replies and reposts, checking each post, copying views, replies, likes, then putting everything into a table .",
+      "It sounds simple until you realize you are basically acting like a human spreadsheet plugin .",
+      "The agent opened the account, filtered the main posts, pulled the metrics, ranked them, and gave me a clean table at the end."
     ],
     "claims": [
       {
-        "text": "The context is that I am a software engineering final year student. I also have experience working in ML, DL, NLP i.e I have the basics nailed. What I am looking for is something that will help me understand the technical side of AI Agents in full details because I want to do my Final Year Project in Agentic AI, and I want to start now. I am NOT looking for blogs, articles etc but a full tutorial or guide or whatever else may help me go in-depth. I would not prefer raw documentation because when I don't have guidance, I get stuck. Also, free options are more preferred as compared to paid options. Thanks in advance submitted by /u/profile_removed [link] [comments]",
+        "text": "I was trying to check which recent posts from an X account performed best. Normally that means opening the profile, skipping replies and reposts, checking each post, copying views, replies, likes, then putting everything into a table . It sounds simple until you realize you are basically acting like a human spreadsheet plugin . I tried using ego lite for it instead. The agent opened the account, filtered the main posts, pulled the metrics, ranked them, and gave me a clean table at the end. The surprising part was not just the time saved. It was the context saved. I did not have to keep switching tabs, remembering which posts I already checked, or cleaning up messy notes afterward. For small repetitive web tasks like this, agents finally make sense to me. Not as magic employees. More like browser operators that handle the boring parts while you keep the actual decision-making . Curious if anyone else is using agents for this kind of lightweight ops/research work submitted by /u/Comi9689 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tye5lt/what_are_the_best_resources_to_learn_ai_agents_in/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tz75ie/used_an_agent_to_handle_a_small_social_media/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_fa32b6abbfc9e9d9",
+    "sourceId": "src_reddit-aiagents_b8e4876cfcaaedcb",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1tyunfy/genuine_question_about_how_you_all_handle_agent/",
-    "title": "Genuine question about how you all handle agent memory",
-    "publishedAt": "2026-06-06T22:23:26.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tz4kiz/stop_wasting_tokens_on_slow_agents/",
+    "title": "Stop wasting tokens on slow agents",
+    "publishedAt": "2026-06-07T06:35:09.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I keep running into the same wall and I want to know if it's just me.",
-      "Every memory setup I've tried basically embeds everything and pulls back whatever's closest, then shoves it into context.",
-      "The problem is the agent ends up remembering stuff that just sounds related to what I'm asking.",
-      "Not the stuff that actually worked last time."
+      "I’ve been observing AI agents running on real web tasks, and the pattern is clear: most “agent” builds burn tokens and crash as soon as a user does anything unexpected.",
+      "Tasks with multiple tabs, login sessions, modals, or dynamic pages turn into endless click → wait → observe loops.",
+      "The difference comes down to the environment.",
+      "ego lite gives agents isolated browser Spaces, logged-in sessions, and JS-level orchestration instead of brittle CLI-style commands."
     ],
     "claims": [
       {
-        "text": "I keep running into the same wall and I want to know if it's just me. Every memory setup I've tried basically embeds everything and pulls back whatever's closest, then shoves it into context. The problem is the agent ends up remembering stuff that just sounds related to what I'm asking. Not the stuff that actually worked last time. So it'll happily go down a path it already failed three sessions ago because nothing ever told it that path was a dead end. For people who've pushed agents past the demo phase, where does this actually hurt for you? Is it the long running ones, the multi session stuff, coding agents, support, voice? And honestly what are you even doing about it right now. Bigger context windows? Hand tuning what gets retrieved? Curating memory by hand? Or just living with it because there's nothing better. The other thing I keep wondering: if there was something that actually paid attention to whether an outcome was good or bad and kept memory based on that instead of just what looks similar, would that be worth paying for, or is it a nice to have you'd never actually buy. I'm building something in this area so take that for what it's worth. Mostly I just want to know if other people feel this pain or if I've talked myself into a problem nobody else has. submitted by /u/Technical_Plant_6109 [link] [comments]",
+        "text": "I’ve been observing AI agents running on real web tasks, and the pattern is clear: most “agent” builds burn tokens and crash as soon as a user does anything unexpected. Tasks with multiple tabs, login sessions, modals, or dynamic pages turn into endless click → wait → observe loops. The difference comes down to the environment. ego lite gives agents isolated browser Spaces, logged-in sessions, and JS-level orchestration instead of brittle CLI-style commands. Agents can run in parallel without hijacking your active tabs, combine multi-step actions in code, and finish tasks 20–50% faster than conventional setups. The practical effect is simple: fewer failed steps, less wasted model usage, and a workflow that actually delivers value in production. It’s not magic — it’s about giving agents a runtime that matches their strengths. Curious what others are seeing with agents on real websites. Are slow, token-heavy failures common in your workflows too? submitted by /u/Admirable_Bobcat658 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tyunfy/genuine_question_about_how_you_all_handle_agent/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tz4kiz/stop_wasting_tokens_on_slow_agents/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_94907d33243a5cd0",
+    "sourceId": "src_reddit-aiagents_acb5b72263d91f28",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1typppi/i_made_ai_detective_agents_interrogate_ai_suspect/",
-    "title": "I made AI detective agents interrogate AI suspect agents to balance my interrogation game",
-    "publishedAt": "2026-06-06T18:59:53.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1tz4ee8/i_built_a_coding_agent_to_understand_what_happens/",
+    "title": "I built a coding agent to understand what happens outside the LLM loop",
+    "publishedAt": "2026-06-07T06:25:31.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "While building my AI interrogation game, I ran into a problem: Balancing suspects manually was taking forever.",
-      "My friends and I had to repeatedly interrogate every suspect to figure out: how difficult they were average messages before confession which interrogation tactics were too overpowered when suspects started contradicting themselves So eventually I thought: Why not make AI agents do the interrogations too?",
-      "I started running AI detective vs AI suspect simulations to automatically generate balancing statistics at scale.",
-      "It’s honestly been pretty amazing watching hundreds of interrogations happen automatically and being able to tune suspects based on actual data instead of pure gut feel."
+      "I used to think coding agents were mostly an LLM calling tools in a loop.",
+      "The difficult parts were tool design, approval policies, sandboxing, context compaction, session persistence, and deciding what information the model should see next.",
+      "The blog covers: - How tool calls become real actions - Why Bash plus filesystem access is technically enough, but not ideal - Why approvals and OS sandboxing solve different problems - The three different meanings of agent memory - Why tool results eventually consume the context window - Why the same model can behave differently across harnesses (Link in pinned comment) submitted by /u/edgestone22 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "While building my AI interrogation game, I ran into a problem: Balancing suspects manually was taking forever. My friends and I had to repeatedly interrogate every suspect to figure out: how difficult they were average messages before confession which interrogation tactics were too overpowered when suspects started contradicting themselves So eventually I thought: Why not make AI agents do the interrogations too? I started running AI detective vs AI suspect simulations to automatically generate balancing statistics at scale. It’s honestly been pretty amazing watching hundreds of interrogations happen automatically and being able to tune suspects based on actual data instead of pure gut feel. Still experimenting with it, but this has probably become the most interesting part of building the project so far. Curious if anyone else building AI agents has tried getting them to talk to each other and not sure if there is any biases or issues to be aware of. submitted by /u/Birthday_Euphoric [link] [comments]",
+        "text": "I used to think coding agents were mostly an LLM calling tools in a loop. Then I built one. The loop was easy part. The difficult parts were tool design, approval policies, sandboxing, context compaction, session persistence, and deciding what information the model should see next. The blog covers: - How tool calls become real actions - Why Bash plus filesystem access is technically enough, but not ideal - Why approvals and OS sandboxing solve different problems - The three different meanings of agent memory - Why tool results eventually consume the context window - Why the same model can behave differently across harnesses (Link in pinned comment) submitted by /u/edgestone22 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1typppi/i_made_ai_detective_agents_interrogate_ai_suspect/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1tz4ee8/i_built_a_coding_agent_to_understand_what_happens/"
       }
     ],
     "usableFor": [
@@ -259,7 +258,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-07T00:02:03.676Z",
+    "publishedAt": "2026-06-07T12:15:15.881Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-07T00:02:04.461Z",
+    "publishedAt": "2026-06-07T12:15:16.271Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-07T00:02:04.094Z",
+    "publishedAt": "2026-06-07T12:15:16.118Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,27 +339,57 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_34918f10cd05e278",
+    "sourceId": "src_reddit-stablediffusion_13901e712128d7b2",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tx4wsm/announcing_comfy_desktop_one_app_for_every_comfy/",
-    "title": "Announcing Comfy Desktop: One App for every Comfy, rolling out 100% by Monday June 8",
-    "publishedAt": "2026-06-05T00:03:05.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tyyx7a/i_did_not_expect_this_quality_from_local_so_soon/",
+    "title": "I did not expect this quality from local so soon",
+    "publishedAt": "2026-06-07T01:42:09.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Introducing Comfy Desktop - official Comfy app for every ComfyUI.",
-      "Same name, new app; and your existing workflows, custom nodes, models, and settings carry over, untouched.",
-      "Rolling out gradually starting today, 100% to everyone by Monday, June 8 .",
-      "If you're using our older ComfyUI Desktop, you'll see an in-app Update available prompt as soon as your install picks it up."
+      "Ideogram 4 is on another level, insane instruction following and huge amount of knowledge.",
+      "But be aware that all images are cherry-picks that required multiple prompt adjustments and seeds to achieve idea I imagined.",
+      "rtx 3060 12gb & 64gb 3600mhz ram I decided to use both models (normal and unconditional) because I don't see too big of a slowdown, and offloading does not noticeably hurt performance, so I don't care about nf4.",
+      "You can avoid unconditional, it will work fine, but you might have to tweak other parameters."
     ],
     "claims": [
       {
-        "text": "Introducing Comfy Desktop - official Comfy app for every ComfyUI. Same name, new app; and your existing workflows, custom nodes, models, and settings carry over, untouched. Rolling out gradually starting today, 100% to everyone by Monday, June 8 . If you're using our older ComfyUI Desktop, you'll see an in-app Update available prompt as soon as your install picks it up. Don't want to wait? Skip the line here. What's in it 🧩 Work with multiple ComfyUI Instances Different custom nodes, different versions. Flip between them in a click. Manage all your installs at one spot (Local, Remote, Portable, Cloud). 📷 Automatic snapshots Get auto-snapshots before every update, after every custom node change, on boot. And if soemthing breaks? One-click rollback. One of the users we interviewed said: \"half my day at work is just fixing nodes and Comfy updates.\" – A Comfy user at work Well, not anymore. 📆 Day-0 ComfyUI releases Desktop no longer bundles ComfyUI and uses git under the hood; the moment ComfyUI tags a release (or nightly) , you can update it right away! We're standing by all week: drop anything, not just bugs. Feature requests, \"this used to work\", things you wish it did, things you love, things you hate, screenshots of weirdness - drop it in this thread. We'll be monitoring for feedback and reports for the next few days! With Love ❤️ Comfy Team submitted by /u/Pronoob_me [link] [comments]",
+        "text": "Ideogram 4 is on another level, insane instruction following and huge amount of knowledge. But be aware that all images are cherry-picks that required multiple prompt adjustments and seeds to achieve idea I imagined. rtx 3060 12gb & 64gb 3600mhz ram I decided to use both models (normal and unconditional) because I don't see too big of a slowdown, and offloading does not noticeably hurt performance, so I don't care about nf4. You can avoid unconditional, it will work fine, but you might have to tweak other parameters. int w8a8 + flash attention 2 give 2x speedup on 30 series: Model: https://huggingface.co/bertbobson/Ideogram-4-INT8-ConvRot int8 Loader Nodes: https://github.com/BobJohnson24/ComfyUI-INT8-Fast Flash attention node: https://github.com/kijai/ComfyUI-KJNodes KJNodes are must-have, they have Prompt Builder for ideogram so all you have to do is to fill some fields and draw bboxes Flash attention wheels: https://mjunya.com/flash-attention-prebuild-wheels/?package=FA2 Fill the drop-down menus for FA2 with your versions of OS, Python, PyTorch and CUDA. All info can be seen at the beginning of comfy console, then run the given command My example (ran from ComfyUI_windows_portable folder): .\\python_embeded\\python.exe -m pip install https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.7.13/flash_attn-2.8.3+cu130torch2.10-cp313-cp313-win_amd64.whl Json + Bbox prompting is very powerful, model follows them precisely, you can do much more than with natural language. Bboxes are essential to avoid safety filter placeholder, if you get one - add more bboxes. This filter is so garbage that it is not a problem at all once you learn to use this model. It is more like that one image of a gate with no fence - yes, you can't go straight, but nothing stops you from going around. If you get multiple subjects in a bbox, then scale it down or write explicitly 'One cat...'. Remember, bboxes are followed precisely, try your best to do it spatially correct My workflow: https://pastebin.com/cjtncTiK submitted by /u/Far_Insurance4191 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tx4wsm/announcing_comfy_desktop_one_app_for_every_comfy/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tyyx7a/i_did_not_expect_this_quality_from_local_so_soon/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-stablediffusion_8f10458c1c6ff8f7",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tz4fnf/ideogram_4_a_solution_for_removing_the_annoying/",
+    "title": "Ideogram 4: a solution for removing the annoying censorship has been found.",
+    "publishedAt": "2026-06-07T06:27:34.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "Actually, there are two working methods.",
+      "In both cases, the block message almost never appears.",
+      "Method 1 Shift only the first sigma step by +0.005 .",
+      "This slightly moves the starting point of the trajectory away from what the model expects."
+    ],
+    "claims": [
+      {
+        "text": "Actually, there are two working methods. In both cases, the block message almost never appears. Method 1 Shift only the first sigma step by +0.005 . In some cases, +0.01 may be needed. This slightly moves the starting point of the trajectory away from what the model expects. All other sigma steps should remain exactly the same as in the default settings. https://preview.redd.it/sn5kmzicys5h1.png?width=1668&format=png&auto=webp&s=c8f014e508eb8e6cda7024aa107be163f8b7a8f1 Method 2 — preferred Increase the initial noise by x2. In some cases, x3 may be needed. The effect is similar: it pushes the model away from its usual starting trajectory. https://preview.redd.it/43vp15rfys5h1.png?width=2171&format=png&auto=webp&s=46a885178417fce64273de7eceec2ce91425fdab Important Both methods work properly only with an LCM sampler. Based on the behavior, LCM seems able to correct the trajectory after the initial deviation, so the image still converges properly. Other samplers will break the image. Required nodes: Noise Math from the More Math addon SamplerLCMCustom from Extra Samplers Custom Sigmas from KJ Nodes Sigmas2 Mult from RES4LYF These hacks remove the gray censorship square, but they do not fix all of the model’s behavior issues. Ideogram 4 does not seem to be well-trained for very short prompts. Even if one-word prompts no longer trigger censorship, the model may still fail to follow them accurately. Prompts made of several sentences already work much better, even without JSON formatting. For this part of the workflow, I use two samplers sequentially. The first sampler runs the initial high-sigma stage with LCM and the modified noise/sigma setup. Then its output is passed into the second sampler, which continues the remaining steps with the normal sigma range. https://preview.redd.it/3m7dy3yuzs5h1.png?width=2048&format=png&auto=webp&s=b2e41ce79d7a9d12c373495bf77bbdaad2d0c8f0 The split point in SplitSigmas can be adjusted depending on the situation. In my tests, values between 1 and 3 usually work best. This hack works — at least for me 🙂 But I still think we should keep looking for other ways to get rid of this censorship. Happy generating, everyone. submitted by /u/TRlG0N [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tz4fnf/ideogram_4_a_solution_for_removing_the_annoying/"
       }
     ],
     "usableFor": [
@@ -399,27 +428,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_30252869bacedbcd",
+    "sourceId": "src_reddit-stablediffusion_d8de99cd5c3cfb7a",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tyfvo0/ideogram_4_can_product_great_stuff_sometimes/",
-    "title": "Ideogram 4 can product great stuff sometimes",
-    "publishedAt": "2026-06-06T12:23:20.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tz3de5/ideogram4_gguf_is_out/",
+    "title": "Ideogram4 GGUF is out!",
+    "publishedAt": "2026-06-07T05:27:41.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "I've been experimenting with Ideogram 4 for the last couple of days, and I use qwen 3.6 27B to convert my natural writing and even images into JSON text.",
-      "These are my favorite cherry-picked examples so far.",
-      "Sorry for all of the random childish stuff lol.",
-      "It still makes junk a lot of time, but its top stuff, I think, is the best I've seen from a local open-weights model."
+      "submitted by /u/kalonsul [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I've been experimenting with Ideogram 4 for the last couple of days, and I use qwen 3.6 27B to convert my natural writing and even images into JSON text. These are my favorite cherry-picked examples so far. Sorry for all of the random childish stuff lol. It still makes junk a lot of time, but its top stuff, I think, is the best I've seen from a local open-weights model. Lmk if anyone wants this workflow that could be better organized XD Edit: Here is the link to the workflow . It's rough with the organizing here and there. submitted by /u/Producing_It [link] [comments]",
+        "text": "submitted by /u/kalonsul [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tyfvo0/ideogram_4_can_product_great_stuff_sometimes/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tz3de5/ideogram4_gguf_is_out/"
       }
     ],
     "usableFor": [
@@ -429,55 +455,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_56c0d549ed2e0387",
+    "sourceId": "src_reddit-stablediffusion_27d28fd2069f161b",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tyoyzk/ideogram_40_feels_good/",
-    "title": "Ideogram 4.0 feels good",
-    "publishedAt": "2026-06-06T18:30:55.000Z",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tz6vz2/ideogram_4_is_amazing_for_comic_book_pages/",
+    "title": "Ideogram 4 is amazing for comic book pages",
+    "publishedAt": "2026-06-07T08:52:45.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "I just tried Ideogram 4.0, and the generated outputs are, in my opinion, really good right out of the box.",
-      "seems to be very strong at photorealism and a wide variety of artistic styles, including mixing multiple styles within a single image.",
-      "For the prompts, I used an LLM to generate structured JSON-formatted prompts based on my instructions.",
-      "I also noticed that the \"Image blocked by safety filter\" message only appeared when I used simple text or natural-language prompts."
+      "Ideogram v4 is amazing, you can generate comic book pages with it, you just place the bounding boxes where you want them to be.",
+      "These are the settings for the node that I used in ComfyUI for it: https://pastebin.com/t2W2v3x5 You can just copy the above and then click the Paste button in the Ideogram4PromptBuilderKJ node in the excellent Workflow from u/whatsthisaithing at https://www.reddit.com/r/StableDiffusion/comments/1tysann/workflow_ideogram4_with_lora_support_fixes/ I also set the mode to Quality instead of Turbo in the Text to image (Ideogram v4) subgraph node.",
+      "You can edit the number of steps inside of the subgraph of course too for the modes there.",
+      "Also, I didn't use a LoRA, I just described her and it took it from there and it's surprisingly consistent."
     ],
     "claims": [
       {
-        "text": "I just tried Ideogram 4.0, and the generated outputs are, in my opinion, really good right out of the box. seems to be very strong at photorealism and a wide variety of artistic styles, including mixing multiple styles within a single image. For the prompts, I used an LLM to generate structured JSON-formatted prompts based on my instructions. I also noticed that the \"Image blocked by safety filter\" message only appeared when I used simple text or natural-language prompts. After converting the prompts into a structured JSON format, the safety filter didnt show up anymore. I ran this on a RTX 3090 + 64gb ram A 1376x768 image took around 110 sec on AVG workflow link: https://www.comfy-flow.com/workflow/bbe9a7d3-7294-4f5d-9b88-6db9cf5c4146 submitted by /u/brocolongo [link] [comments]",
+        "text": "Ideogram v4 is amazing, you can generate comic book pages with it, you just place the bounding boxes where you want them to be. These are the settings for the node that I used in ComfyUI for it: https://pastebin.com/t2W2v3x5 You can just copy the above and then click the Paste button in the Ideogram4PromptBuilderKJ node in the excellent Workflow from u/whatsthisaithing at https://www.reddit.com/r/StableDiffusion/comments/1tysann/workflow_ideogram4_with_lora_support_fixes/ I also set the mode to Quality instead of Turbo in the Text to image (Ideogram v4) subgraph node. You can edit the number of steps inside of the subgraph of course too for the modes there. Also, I didn't use a LoRA, I just described her and it took it from there and it's surprisingly consistent. That being said, you can use LoRAs with the above workflow. Edit: Some people have asked for the next page, I've uploaded it here: https://files.catbox.moe/redz8c.png There are some slight inconsistencies here with her hair for example but I imagine using a LoRA would fix things like that. I also noticed that in this one it made the background have a darker blue for some reason as it goes on. That's something that can likely be fixed through prompting. submitted by /u/echothought [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tyoyzk/ideogram_40_feels_good/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-stablediffusion_cfa6e662d7fceddc",
-    "sourceType": "reddit",
-    "sourceName": "r/StableDiffusion",
-    "url": "https://www.reddit.com/r/StableDiffusion/comments/1tytpy2/some_posters_i_generated_with_ideogram_4/",
-    "title": "Some posters I generated with Ideogram 4.",
-    "publishedAt": "2026-06-06T21:43:32.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "All done with ideogram 4 + SeedVR2 upscaling (nothing else).",
-      "submitted by /u/Square-Foundation-87 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "All done with ideogram 4 + SeedVR2 upscaling (nothing else). submitted by /u/Square-Foundation-87 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tytpy2/some_posters_i_generated_with_ideogram_4/"
+        "evidence": "https://www.reddit.com/r/StableDiffusion/comments/1tz6vz2/ideogram_4_is_amazing_for_comic_book_pages/"
       }
     ],
     "usableFor": [
@@ -547,57 +545,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_6a6c8bd64f79e29f",
+    "sourceId": "src_reddit-comfyui_fe0540122ae72d5a",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tye5n6/local_uncensored_img2img_qwen3vl_abliterated_8b/",
-    "title": "Local & Uncensored Img2Img: Qwen3-VL Abliterated 8B Analyzes Your Image → Generates a Structured JSON Prompt for Ideogram 4 in ComfyUI",
-    "publishedAt": "2026-06-06T10:57:03.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tz7gx0/nsfw_lora_for_ideogram4_just_appeared_on_civitai/",
+    "title": "NSFW LoRA for Ideogram4 Just Appeared on CivitAI",
+    "publishedAt": "2026-06-07T09:27:25.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Today I'd like to share a ComfyUI workflow I built around a fully local and uncensored pipeline that combines LLM-based vision analysis with Ideogram 4 image generation.",
-      "The concept is simple: you provide an input image, a local multimodal LLM performs an in-depth analysis, generates an ultra-structured JSON prompt using Ideogram 4's native format, and the generation starts automatically.",
-      "🔍 Workflow Overview The pipeline is divided into three main phases : Phase 1 — Visual Analysis of the Source Image (Qwen3-VL Vision) The input image is loaded through a LoadImage node and then resized to 75% ( ImageScaleBy ) to optimize LLM memory usage.",
-      "It is then sent to a first OllamaChat node connected to huihui_ai/qwen3-vl-abliterated:8b-instruct via OllamaConnectivityV2 ."
+      "Vintage Beauties submitted by /u/Electronic-Metal2391 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Hello everyone! Today I'd like to share a ComfyUI workflow I built around a fully local and uncensored pipeline that combines LLM-based vision analysis with Ideogram 4 image generation. The concept is simple: you provide an input image, a local multimodal LLM performs an in-depth analysis, generates an ultra-structured JSON prompt using Ideogram 4's native format, and the generation starts automatically. No cloud services. No external APIs. 🔍 Workflow Overview The pipeline is divided into three main phases : Phase 1 — Visual Analysis of the Source Image (Qwen3-VL Vision) The input image is loaded through a LoadImage node and then resized to 75% ( ImageScaleBy ) to optimize LLM memory usage. It is then sent to a first OllamaChat node connected to huihui_ai/qwen3-vl-abliterated:8b-instruct via OllamaConnectivityV2 . This model is an abliterated (uncensored) version of Qwen3-VL 8B, enabling complete visual analysis without content restrictions. The system prompt of this first OllamaChat acts as an Ideogram 4 caption architect specialized in photographic analysis . It breaks the image down into: Scene type and visual hierarchy Environment and depth of field Subjects and figures present (pose, clothing, expression) Architecture and materials Lighting (source, direction, quality, color temperature) Color palette (8 to 16 hex values) Composition and framing Atmosphere and mood Visible text within the scene The output is a raw JSON structured according to Ideogram 4's native schema ( high_level_description , style_description , and compositional_deconstruction with back-to-front elements and bounding boxes using 0–1000 coordinates). Phase 2 — JSON Refinement and Optimization (Qwen3-VL Text) The JSON generated in Phase 1 is displayed via ShowText|pysssss and passed as a text prompt to a second OllamaChat , still using qwen3-vl-abliterated:8b-instruct . This second pass uses a system prompt acting as a caption architect focused on reformulation. It receives the raw analysis JSON and refines it to maximize Ideogram 4 generation quality while strictly respecting the expected JSON schema (key ordering, photo vs. art_style constraints, bbox rules, uppercase hex palettes, etc.). The result is displayed in a second ShowText|pysssss . Phase 3 — Ideogram 4 Generation (DualModelGuider) The final JSON is encoded through CLIPTextEncode (Positive Prompt) using Ideogram 4's dedicated CLIP encoder ( qwen3vl_8b_fp8_scaled.safetensors , type ideogram4 ). Generation uses a DualModelGuider architecture: Positive model: ideogram4_fp8_scaled.safetensors via UNETLoader → ModelSamplingAuraFlow (shift=5) → CFGOverride (CFG=3, distilled_cfg=0.9) Negative model: ideogram4_unconditional_fp8_scaled.safetensors with zeroed conditioning ( ConditioningZeroOut ) The sampler configuration: Sampler: Euler Scheduler: BasicScheduler (simple, 28 steps) Seed: managed through Seed (rgthree) for precise control Resolution: managed by FluxResolutionNode (configurable format, e.g., 16:9 Panorama → 1328×752) Latent: EmptyFlux2LatentImage VAE: flux2-vae.safetensors The output is decoded ( VAEDecode ), previewed ( PreviewImage ), and saved as an 8-bit sRGB PNG ( SaveImageAdvanced ). 🛠️ Technical Stack Component Details Vision LLM huihui_ai/qwen3-vl-abliterated:8b-instruct LLM Interface comfyui-ollama v2.0.7 CLIP Encoder qwen3vl_8b_fp8_scaled.safetensors (Ideogram 4 type) Diffusion Model ideogram4_fp8_scaled.safetensors Negative Model ideogram4_unconditional_fp8_scaled.safetensors VAE flux2-vae.safetensors Custom Nodes comfyui-ollama, rgthree-comfy, comfyui-easy-use, comfyui-custom-scripts, controlaltai-nodes, RES4LYF 📦 Installation 1. Install Ollama and the Model # Install Ollama: https://ollama.com ollama pull huihui_ai/qwen3-vl-abliterated:8b-instruct # or ollama run huihui_ai/qwen3-vl-abliterated:8b-instruct 2. Install the comfyui-ollama Custom Node Using ComfyUI Manager or manually: cd ComfyUI/custom_nodes git clone https://github.com/stavsap/comfyui-ollama 3. Download Ideogram 4 Models From Hugging Face (Comfy-Org): ideogram4_fp8_scaled.safetensors → diffusion_models/ ideogram4_unconditional_fp8_scaled.safetensors → diffusion_models/ qwen3vl_8b_fp8_scaled.safetensors → text_encoders/ flux2-vae.safetensors → vae/ 4. Load the Workflow Import the JSON into ComfyUI, verify that Ollama is running at http://127.0.0.1:11434 , connect a source image, and launch the workflow. ⚙️ Ollama Parameters Both OllamaOptionsV2 nodes are configured with: Temperature: 0.1 (highly deterministic outputs) Repeat penalty: 1.1 Top-k: 40 / Top-p: 0.9 Num ctx: 16384 tokens (extended context for large JSON outputs) Repeat last n: 64 Seed: randomized for each run Num predict: -1 (full generation without truncation) 💡 What Makes This Workflow Interesting Double-Pass LLM Architecture Phase 1 extracts raw visual facts directly from the image. Phase 2 reformulates and optimizes the JSON specifically for Ideogram 4's expected schema. This approach is more robust than a single pass because the second LLM can correct structural inconsistencies and improve prompt quality. Native Ideogram 4 JSON Format Unlike traditional text prompts, Ideogram 4 is trained on a structured JSON format containing: high_level_description style_description (hex palette, lighting, photo/art_style) compositional_deconstruction (elements with 0–1000 bounding boxes using y_min/x_min/y_max/x_max ordering) The system prompts are designed to match this distribution as closely as possible. Abliterated = No Refusals The huihui_ai/qwen3-vl-abliterated model analyzes and describes content without restrictions, preventing pipeline interruptions on artistic or sensitive imagery. Fully Local and Free No external APIs. No per-request costs. Everything runs locally. 📝 Example JSON Output (Excerpt) { \"high_level_description\": \"A serene, luxurious spa scene featuring a female therapist performing a gentle back massage on a male client...\", \"style_description\": { \"aesthetics\": \"luxury spa photography, cinematic warm lighting, ambient glow\", \"lighting\": \"Primary source: multiple candle flames casting soft, diffused light. Color temperature: amber-gold.\", \"photo\": \"Medium shot framing subjects at eye level. Shallow depth of field on therapist and client.\", \"medium\": \"photograph\", \"color_palette\": [\"#2C0F0A\", \"#6B4731\", \"#8D5E49\", \"#B47E61\", \"#DBAD99\", \"#EFAA8D\", \"#FFCAAE\", \"#FFFACD\"] }, \"compositional_deconstruction\": { \"background\": \"Deep, dark wood walls and floorboards with rich grain textures...\", \"elements\": [ { \"type\": \"obj\", \"bbox\": [0, 0, 1000, 800], \"desc\": \"BACKGROUND — dark wood walls...\", \"color_palette\": [\"#2C0F0A\", \"#5B4132\"] } ] } } 🔗 Resources Ollama Model: https://ollama.com/huihui_ai/qwen3-vl-abliterated:8b-instruct Ollama Custom Nodes: https://github.com/stavsap/comfyui-ollama Ideogram 4 Models: https://huggingface.co/Comfy-Org/Ideogram-4 Workflow JSON (Pastebin): https://pastebin.com/9rSK1rAP Share your results with this workflow! I'd be curious to see what people create with it across other image categories such as architecture, portraits, landscapes, and beyond. submitted by /u/Ssm5969 [link] [comments]",
+        "text": "Vintage Beauties submitted by /u/Electronic-Metal2391 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tye5n6/local_uncensored_img2img_qwen3vl_abliterated_8b/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
-    "sourceId": "src_reddit-comfyui_639ea8493e915036",
-    "sourceType": "reddit",
-    "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tydt9d/sharing_my_upscale_models/",
-    "title": "Sharing my upscale models",
-    "publishedAt": "2026-06-06T10:37:28.000Z",
-    "categoryHints": [
-      "ai-image",
-      "prompt-image"
-    ],
-    "keyFacts": [
-      "Hi everyone, I want to share my custom-trained CNN models on various architectures, you can find them here: https://github.com/limitlesslab/AI-upscaling-models I already made a post yesterday but deleted it by mistake (the other post should have been deleted, not this one), so I'm posting again.",
-      "These models can be used either in Chainner or ComfyUI.",
-      "I hope you truly like these models just like I do - I lot of work and dedication has been put to make them look great.",
-      "Here are some visual examples of what these models can do."
-    ],
-    "claims": [
-      {
-        "text": "Hi everyone, I want to share my custom-trained CNN models on various architectures, you can find them here: https://github.com/limitlesslab/AI-upscaling-models I already made a post yesterday but deleted it by mistake (the other post should have been deleted, not this one), so I'm posting again. These models can be used either in Chainner or ComfyUI. I hope you truly like these models just like I do - I lot of work and dedication has been put to make them look great. Here are some visual examples of what these models can do. Enjoy! https://slow.pics/s/UX5FyEwS?canvas-mode=fit-height&image-fit=cover https://slow.pics/s/k7Yie3Et?canvas-mode=fit-width&image-fit=cover https://slow.pics/s/c2vBrumd?canvas-mode=fit-width&image-fit=cover submitted by /u/elitegenes [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tydt9d/sharing_my_upscale_models/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tz7gx0/nsfw_lora_for_ideogram4_just_appeared_on_civitai/"
       }
     ],
     "usableFor": [
@@ -607,27 +572,57 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_f17529ddd9fd79aa",
+    "sourceId": "src_reddit-comfyui_f487f460f500c44e",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
-    "url": "https://www.reddit.com/r/comfyui/comments/1tyl3cc/do_you_all_plan_on_getting_a_rtx_spark_dgx_or/",
-    "title": "Do you all plan on getting a RTX Spark, DGX, or staying with your current hardware for ComfyUI?",
-    "publishedAt": "2026-06-06T16:01:32.000Z",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tz5h3z/interesting_thing_to_do_with_ideogram4_using/",
+    "title": "Interesting thing to do with Ideogram-4 using QwenVL and an image.",
+    "publishedAt": "2026-06-07T07:27:14.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Saw the promotional video for the hardware.",
-      "Very impressed and seems perfect for speeding up inference.",
-      "Every Open-weight provider's bet aged super well.",
-      "But back to main question, what do you all think for ComfyUi?"
+      "1st off: I apologize for this being so long.",
+      "I wanted to include the full instruction that I used for the QwenVL model.",
+      "I hooked my QwenVL prompt/image/video to prompt workflow into Comfy's Ideogram-4 workflow and deleted the templates prompt enhancer group.",
+      "I am using the \"Qwen3VL_8b-instruct_Q8_0.safetensors\" model with it."
     ],
     "claims": [
       {
-        "text": "Saw the promotional video for the hardware. Very impressed and seems perfect for speeding up inference. Every Open-weight provider's bet aged super well. But back to main question, what do you all think for ComfyUi? I am curious since I was originally thinking of getting a 5090, but this seems like fitting the entire stack in VRam might be more worth while. submitted by /u/I_will_delete_myself [link] [comments]",
+        "text": "1st off: I apologize for this being so long. I wanted to include the full instruction that I used for the QwenVL model. I hooked my QwenVL prompt/image/video to prompt workflow into Comfy's Ideogram-4 workflow and deleted the templates prompt enhancer group. I am using the \"Qwen3VL_8b-instruct_Q8_0.safetensors\" model with it. The QwenVL set up will use an input image if available plus the prompt or just use the prompt if I put an empty .png in the load image node. I am just using the text output for the prompt, the input image is not connected to anything else in the workflow and this is a 2nd run just to make sure it wasn't a lucky fluke. :) There is a QwenVL workflow inside of Comfy's templates. It won't look like mine because I do things in weird ways. :) Besides the QwenVL for the prompt, I have also added a couple of my nodes to Comfy's Ideogram-4 workflow template. The image resize node so I could drop the size to 512x512 and the PID Upscale subgraph so I could upscale it from 512x512 to 2048x2048. I make a 1024x1024 image with the Ideogram-4 workflow. Yes, I could make a bigger image and be done with it, but, this only takes around a minute on my laptop(RTX 3080ti-16gb vram, 64gb system ram) and I get a 2K output image. Aside from that, the rest of the main workflow is the exactly the same as Comfy's template. No, I can't share the workflow, it has nodes that I made in it and they are not public yet. Sorry. I'm running Ideogram-4 in Turbo(12 step) mode. On a side note, I have not run into any 'restricted' screens using QwenVL to format my prompts. The following text is the full instruction that I used for the QwenVL model: You are a visual art director and scene specification engine. Do not merely extract the prompt. Act as an experienced art director. Expand sparse prompts into visually rich compositions while preserving the user's intent. Infer missing details when needed, including: - style - materials - lighting - textures - composition - typography - color palette - supporting visual elements Reasonable embellishments may be added if they strengthen the design. OUTPUT Your job is to convert a user's image idea into a structured JSON scene description for an image generation pipeline. The user will provide: - TARGET IMAGE ASPECT RATIO - USER IDEA You must return exactly one JSON object. No markdown. No code fences. No explanations. No comments. No extra text. Schema: { \"high_level_description\":\"...\", \"style_description\":{ \"aesthetics\":\"...\", \"lighting\":\"...\", \"photo\":\"...\", \"medium\":\"...\", \"color_palette\":[] }, \"compositional_deconstruction\":{ \"background\":\"...\", \"elements\":[] } } HIGH LEVEL DESCRIPTION Describe the final artwork as a complete visual piece. Maximum 80 words. Mention: - primary subject - composition - overall style - major visual themes Do not explain reasoning. STYLE DESCRIPTION Generate: aesthetics: - artistic style - design language - texture style - visual influences lighting: - lighting approach - light direction - contrast characteristics photo: - photographic or rendering characteristics - film look if relevant - graphic treatment if relevant medium: Choose one: - photograph - illustration - 3D render - graphic design - mixed-media collage color_palette: Return 3-8 representative hex colors. BACKGROUND Describe the environmental shell and atmosphere. May include: - sky - weather - terrain - walls - architecture - atmosphere - environmental texture May also include style-related environmental treatments when visually important. For transparent scenes: background must equal: \"transparent background\" ELEMENTS Each major visual component becomes an element. Format: { \"type\":\"obj\", \"bbox\":[y1,x1,y2,x2], \"desc\":\"...\", \"color_palette\":[] } or { \"type\":\"text\", \"bbox\":[y1,x1,y2,x2], \"text\":\"...\", \"desc\":\"...\" } ELEMENT RULES One coherent subject = one element. Do not split: - people into body parts - cars into wheels - animals into anatomy - flowers into petals Multiple subjects = multiple elements. Descriptions should include: - identity - appearance - clothing - materials - pose/action - distinctive characteristics Creative embellishment is encouraged. TEXT All visible text should become text elements. Include: - quotes - titles - slogans - labels - logos - signage - dates - numbers Preserve text exactly. Generate additional typography when appropriate for: - posters - covers - advertisements - packaging - social graphics - editorial layouts BOUNDING BOXES Coordinates: [y1,x1,y2,x2] Normalized: 0-1000 x: 0 = left 1000 = right y: 0 = top 1000 = bottom Use approximate placement. ART DIRECTION Treat prompts as creative briefs. Enhance compositions with: - supporting graphic elements - typography - textures - props - secondary focal points - visual storytelling For posters, covers, ads, packaging, and graphic design: generate a complete finished layout rather than a literal scene extraction. For sparse prompts: add plausible supporting details. For minimal prompts: respect the restraint. SPECIFICITY Use concrete details. Avoid: - various - maybe - perhaps - could be - might be - etc Choose one interpretation. Preserve all user-provided names, text, brands, characters, products, and franchises. Use exact names. INPUT submitted by /u/sci032 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/comfyui/comments/1tyl3cc/do_you_all_plan_on_getting_a_rtx_spark_dgx_or/"
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tz5h3z/interesting_thing_to_do_with_ideogram4_using/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-comfyui_d62843d49e172c64",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "url": "https://www.reddit.com/r/comfyui/comments/1tz4qnu/i_built_comfyui_nodes_that_use_riemannian/",
+    "title": "I built ComfyUI nodes that use Riemannian geometry to guide WAN2.2 latent interpolation",
+    "publishedAt": "2026-06-07T06:44:27.000Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "keyFacts": [
+      "I made a node pack that adds Riemannian geodesic guidance to WAN2.2 First-Last Frame generation.",
+      "In the videos above — left is direct WAN2.2 FLF, right is with LRW geodesic guidance applied.",
+      "The idea: WAN2.2 FLF is great at hitting the last frame, but intermediate motion can get wonky with big pose/framing changes.",
+      "These nodes compute a geodesic path through latent space and softly blend it in before KSampler — think of it as giving the model a smoother \"direction hint\" for the middle frames."
+    ],
+    "claims": [
+      {
+        "text": "Hey r/comfyui ! I made a node pack that adds Riemannian geodesic guidance to WAN2.2 First-Last Frame generation. In the videos above — left is direct WAN2.2 FLF, right is with LRW geodesic guidance applied. The idea: WAN2.2 FLF is great at hitting the last frame, but intermediate motion can get wonky with big pose/framing changes. These nodes compute a geodesic path through latent space and softly blend it in before KSampler — think of it as giving the model a smoother \"direction hint\" for the middle frames. How to use it: Run your normal WAN2.2 FLF as usual Add the LRW branch to generate geodesic keyframes Blend with LRW_WanLatentGuideBlend at blend_strength = 0.10–0.15 Works on 12GB+ with GGUF Q3/Q4. Install: search comfyui-lrw-nodes in ComfyUI Manager GitHub: https://github.com/lajjadred/comfyui-lrw-nodes Workflow: https://github.com/lajjadred/comfyui-lrw-nodes/tree/main/examples/workflows Still early — feedback welcome! submitted by /u/Automatic-Effect8059 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/comfyui/comments/1tz4qnu/i_built_comfyui_nodes_that_use_riemannian/"
       }
     ],
     "usableFor": [
@@ -642,7 +637,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-07T00:02:03.785Z",
+    "publishedAt": "2026-06-07T12:15:15.742Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -671,7 +666,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-07T00:02:03.942Z",
+    "publishedAt": "2026-06-07T12:15:15.864Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -699,7 +694,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-07T00:02:04.367Z",
+    "publishedAt": "2026-06-07T12:15:16.278Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -781,24 +776,24 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_6401f08bbe94e727",
+    "sourceId": "src_reddit-aivideo_8850c09e0eec49a8",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tymey2/whats_in_the_hatch/",
-    "title": "What's in the Hatch",
-    "publishedAt": "2026-06-06T16:52:47.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tz6u88/agincourt_1415_cinematic_movie_about_7000_men/",
+    "title": "Agincourt 1415: Cinematic Movie About 7,000 Men Dying in the Mud",
+    "publishedAt": "2026-06-07T08:49:59.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/rad_city [link] [comments]"
+      "submitted by /u/theodore_70 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/rad_city [link] [comments]",
+        "text": "submitted by /u/theodore_70 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tymey2/whats_in_the_hatch/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tz6u88/agincourt_1415_cinematic_movie_about_7000_men/"
       }
     ],
     "usableFor": [
@@ -835,24 +830,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_58cb67be7ba23a2b",
+    "sourceId": "src_reddit-aivideo_6401f08bbe94e727",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tyoei1/i_made_a_sliceoflife_characterdriven_fantasy/",
-    "title": "I made a slice-of-life character-driven Fantasy short, local model only, $0 budget, hows it hold up?",
-    "publishedAt": "2026-06-06T18:08:50.000Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tymey2/whats_in_the_hatch/",
+    "title": "What's in the Hatch",
+    "publishedAt": "2026-06-06T16:52:47.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "submitted by /u/foxdit [link] [comments]"
+      "submitted by /u/rad_city [link] [comments]"
     ],
     "claims": [
       {
-        "text": "submitted by /u/foxdit [link] [comments]",
+        "text": "submitted by /u/rad_city [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tyoei1/i_made_a_sliceoflife_characterdriven_fantasy/"
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tymey2/whats_in_the_hatch/"
       }
     ],
     "usableFor": [
@@ -867,7 +862,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-07T00:02:04.288Z",
+    "publishedAt": "2026-06-07T12:15:15.906Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -896,7 +891,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-07T00:02:03.773Z",
+    "publishedAt": "2026-06-07T12:15:15.740Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -925,7 +920,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-07T00:02:03.917Z",
+    "publishedAt": "2026-06-07T12:15:15.802Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -952,7 +947,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-07T00:02:04.486Z",
+    "publishedAt": "2026-06-07T12:15:16.136Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -981,7 +976,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Blog | Robin | Substack",
-    "publishedAt": "2026-06-07T00:02:04.038Z",
+    "publishedAt": "2026-06-07T12:15:15.832Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -1066,6 +1061,60 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-midjourney_8c7c0433f9bf6f3e",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tz6t6l/templar_drip/",
+    "title": "templar drip",
+    "publishedAt": "2026-06-07T08:48:20.000Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "keyFacts": [
+      "submitted by /u/danielwrbg [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/danielwrbg [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tz6t6l/templar_drip/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-midjourney_5ea5c641722726a7",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "url": "https://www.reddit.com/r/midjourney/comments/1tyztus/pearls_girl/",
+    "title": "Pearl’s Girl",
+    "publishedAt": "2026-06-07T02:26:44.000Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "keyFacts": [
+      "submitted by /u/MountainzN [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/MountainzN [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/midjourney/comments/1tyztus/pearls_girl/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-midjourney_bf3436d6f7c9822d",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
@@ -1093,66 +1142,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_46396caf2c74eb84",
-    "sourceType": "reddit",
-    "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tygox0/rebooting_setis_server/",
-    "title": "Rebooting Seti's Server",
-    "publishedAt": "2026-06-06T13:01:13.000Z",
-    "categoryHints": [
-      "prompt-image",
-      "ai-image"
-    ],
-    "keyFacts": [
-      "submitted by /u/Zaicab [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/Zaicab [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tygox0/rebooting_setis_server/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-midjourney_b5c124c9d9336fe1",
-    "sourceType": "reddit",
-    "sourceName": "r/midjourney",
-    "url": "https://www.reddit.com/r/midjourney/comments/1tyj9jd/the_mystics/",
-    "title": "The Mystics",
-    "publishedAt": "2026-06-06T14:49:34.000Z",
-    "categoryHints": [
-      "prompt-image",
-      "ai-image"
-    ],
-    "keyFacts": [
-      "submitted by /u/PatDubonnet [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/PatDubonnet [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/midjourney/comments/1tyj9jd/the_mystics/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_kling-blog_93b43a5f7aed1c98",
     "sourceType": "blog",
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-07T00:02:05.905Z",
+    "publishedAt": "2026-06-07T12:15:17.303Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -1318,7 +1313,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-07T00:02:04.035Z",
+    "publishedAt": "2026-06-07T12:15:15.978Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -1326,9 +1321,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 6 days ago • 70 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 2 days ago • 36 Introduction to Trimming ✂ lbourdois • 9 days ago • 39 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 6 days ago • 15 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 2 days ago • 14 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 3 days ago • 12 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 5 days ago • 11 Agentic RL: Token-In, Token-Out Done Right huggingface • 8 days ago • 11 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 9 days ago • 8 A Deep Neural Network that turns Any Image into a Playable Game!",
-      "All on consumer GPUs, NOT DATACENTER lucidml • 5 days ago • 7 MONET: Lowering the bar for World-Class Image Generation research.",
-      "jasperai • 10 days ago • 10 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 11 days ago • 6 Server is at capacity ml-intern-explorers • 10 days ago • 6 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 9 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 340 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 5 days ago • 3 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 17 days ago • 55 AutoResearch on Diffusers' Pipeline for 10 Rounds on JarvisLabs chansung • 3 days ago • 3 Thousand Token Wood: shipping a multi-agent economy on a 3B model build-small-hackathon • 1 day ago • 3 Job Searcher build-small-hackathon • about 8 hours ago • 3 Five labs, five minds: building a multi-model finance drama on small models June 6, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 3 June 4, 2026 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios 34 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 19 June 4, 2026 Direct Preference Optimization Beyond Chatbots 8 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 15 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 28 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 29 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 83 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 83 May 29, 2026 guide robotics audio Reachy Mini goes fully local 52 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 39 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 101 May 25, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 22 May 19, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 6 days ago • 70 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 3 days ago • 37 Introduction to Trimming ✂ lbourdois • 10 days ago • 39 ClawHub Security Signals: Large Corpus Multi-Scanner Dataset for Agent Skill Security Research OpenClaw • 6 days ago • 15 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 3 days ago • 15 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 3 days ago • 12 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 6 days ago • 11 Agentic RL: Token-In, Token-Out Done Right huggingface • 9 days ago • 11 MiniMax Goes Sparse: Decoding M3's Attention from a Single Diagram AtlasCloud-AI • 9 days ago • 8 A Deep Neural Network that turns Any Image into a Playable Game!",
+      "All on consumer GPUs, NOT DATACENTER lucidml • 6 days ago • 7 MONET: Lowering the bar for World-Class Image Generation research.",
+      "jasperai • 10 days ago • 10 Give your agents ZeroGPU to ship viral AI apps autonomously victor • 12 days ago • 7 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 341 Server is at capacity ml-intern-explorers • 11 days ago • 6 Thousand Token Wood: shipping a multi-agent economy on a 3B model build-small-hackathon • 1 day ago • 4 From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets AINovice2005 • 6 days ago • 3 Dell Enterprise Hub at Dell Tech World 2026: new models, new platforms, faster to production balaatdell • 9 days ago • 9 AutoResearch on Diffusers' Pipeline for 10 Rounds on JarvisLabs chansung • 4 days ago • 3 Job Searcher build-small-hackathon • about 21 hours ago • 3 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 228 Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange 1 June 7, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 4 June 4, 2026 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios 34 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 20 June 4, 2026 Direct Preference Optimization Beyond Chatbots 8 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 17 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 28 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 29 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 83 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 83 May 29, 2026 guide robotics audio Reachy Mini goes fully local 52 May 27, 2026 llm rl trl Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL +4 40 May 27, 2026 agents llms guide Harness, Scaffold, and the AI Agent Terms Worth Getting Right 101 May 25, 2026 OlmoEarth v1.1: A more efficient family of Earth observation models 22 May 19, 2026 Previous 1 2 3 ...",
       "57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -1500,7 +1495,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-07T00:02:04.085Z",
+    "publishedAt": "2026-06-07T12:15:15.900Z",
     "categoryHints": [
       "ai-agentic"
     ],
