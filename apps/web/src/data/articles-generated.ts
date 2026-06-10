@@ -1,52 +1,52 @@
 // Auto-generated from pipeline output — do not edit manually
-// Generated at: 2026-06-09T13:37:33.688Z
+// Generated at: 2026-06-10T00:11:57.302Z
 import type { Article } from "@/lib/schema";
 
 export const generatedArticles: Article[] = [
   {
-    "id": "cluster_ai-agentic_1_langchain-blog_2026-06-09_vi",
-    "slug": "langchain-blog-goc-nhin-cho-creator-va-builder-2026-06-09",
+    "id": "cluster_ai-agentic_1_langchain-blog_2026-06-10_vi",
+    "slug": "langchain-blog-goc-nhin-cho-creator-va-builder-2026-06-10",
     "lang": "vi",
     "category": "ai-agentic",
     "title": "LangChain Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Anthropic Research, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-06-09T13:36:03.384Z",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-06-10T00:11:18.389Z",
     "readingTime": 4,
     "sourceCount": 4,
     "tags": [
       "ai-agentic",
+      "vibe-coding",
       "langchain",
-      "software-engineering",
-      "llm-ops",
-      "vibe-coding"
+      "deep-agents",
+      "software-engineering"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
       "alt": "LangChain Blog: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ LangChain Blog, Anthropic Research, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
+      "caption": "Tín hiệu được tổng hợp từ LangChain Blog, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
     },
     "highlights": [
       {
-        "text": "Sự chuyển dịch từ 'Chatbot' sang 'Deep Agents': Tập trung vào khả năng tự vận hành, tự sửa lỗi và thực thi tác vụ dài hạn."
+        "text": "Sự trỗi dậy của 'Deep Agents': Chuyển dịch từ workflow đơn giản sang các tác vụ dài hạn, tự sửa lỗi và có khả năng vận hành máy tính độc lập."
       },
       {
-        "text": "Kiến trúc Agentic hiện đại: Ưu tiên tính trung lập về mô hình (Model Neutrality) hơn là trung lập về đám mây."
+        "text": "Kỷ nguyên 'Vibe Coding': Phần mềm đang trở thành một loại 'vòi nước' (on a tap), nơi AI tạo ra các ứng dụng tùy chỉnh tức thì cho mọi nhu cầu nhỏ nhất."
       },
       {
-        "text": "Vòng lặp phản hồi (Feedback Loop): Tích hợp Rubrics và Verifiers để Agent tự đánh giá và hiệu chỉnh kết quả."
+        "text": "Kiểm soát mức thấp (Low-level control): Xu hướng sử dụng LangGraph và các công cụ như AgentsView để quan sát, đánh giá và tối ưu hóa chi phí token."
       },
       {
-        "text": "Xu hướng 'Vibe Coding' và Agent-driven UI: Cursor và các công cụ lập trình AI đang cho phép chỉnh sửa giao diện trực tiếp qua Agent."
+        "text": "Sự giao thoa giữa Physical AI và Agentic Logic: Tích hợp mô hình ngôn ngữ vào robot học và điều khiển vật lý thông qua các dự án như NVIDIA Cosmos 3."
       }
     ],
     "sections": [
       {
-        "heading": "Bối cảnh: Kỷ nguyên của Deep Agents",
+        "heading": "Bối cảnh: Khi AI không còn chỉ là 'Chatbot'",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Chúng ta đang chứng kiến một bước ngoặt trong phát triển AI: sự chuyển dịch từ các ứng dụng RAG đơn giản sang 'Deep Agents' — những tác nhân AI có khả năng thực hiện các quy trình phức tạp, kéo dài và tự chủ. Theo các cập nhật mới nhất từ LangChain Blog, trọng tâm hiện nay không còn là việc 'hỏi-đáp' mà là xây dựng các hệ thống có khả năng tự vận hành. Việc ra mắt LangGraph cho thấy nhu cầu về kiểm soát mức thấp (low-level control) để đảm bảo tính tin cậy của Agent trong môi trường sản xuất là cực kỳ quan trọng."
+            "text": "Chúng ta đang chứng kiến một bước ngoặt quan trọng trong kiến trúc AI. Nếu năm 2023-2024 là thời đại của Prompt Engineering và RAG, thì năm 2026 đánh dấu sự thống trị của 'Agentic Workflow'. Không còn là những câu trả lời tĩnh, các hệ thống hiện nay như LangGraph hay Deep Agents của LangChain đang hướng tới khả năng tự trị cao hơn. Điểm mấu chốt nằm ở việc cho phép AI 'sở hữu máy tính riêng' (give your agent its own computer) và khả năng tự đánh giá, sửa lỗi thông qua các cơ chế Rubrics, giúp AI không chỉ thực hiện mà còn kiểm chứng kết quả công việc của chính mình."
           },
           {
             "type": "media",
@@ -57,19 +57,15 @@ export const generatedArticles: Article[] = [
             "credit": "Luma Labs Blog",
             "sourceUrl": "https://lumalabs.ai/blog",
             "placement": "after-paragraph"
-          },
-          {
-            "type": "paragraph",
-            "text": "Điểm đáng chú ý là sự xuất hiện của các khái niệm như 'Agent Harness' và 'Skills/Interpreters'. Thay vì để LLM tự do suy diễn, các nhà phát triển đang xây dựng những 'khung xương' chặt chẽ hơn, nơi Agent được cung cấp các bộ công cụ cụ thể và một môi trường thực thi an toàn (Sandboxes) để chạy mã nguồn do AI tạo ra mà không gây rủi ro cho hệ thống."
           }
         ]
       },
       {
-        "heading": "Phân tích chi tiết: Từ Khả năng thực thi đến Khả năng tự hiệu chỉnh",
+        "heading": "Phân tích chi tiết: Từ 'Vibe Coding' đến 'Deep Agents'",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Một trong những rào cản lớn nhất của AI Agent là hiện tượng 'hallucination' trong chuỗi suy nghĩ. Giải pháp mà LangChain và các nghiên cứu gần đây đề xuất là triển khai 'Rubrics' — các bộ tiêu chí đánh giá để Agent tự kiểm tra và sửa lỗi công việc của chính mình. Điều này biến Agent từ một thực thể 'thử và sai' thành một hệ thống có khả năng tự phê bình (self-critique)."
+            "text": "Một khái niệm đáng chú ý được Andrej Karpathy đề cập là sự xuất hiện của phần mềm 'on a tap'. Điều này tạo ra một nghịch lý Jevons: khi chi phí tạo ra phần mềm giảm xuống gần bằng không, nhu cầu về phần mềm lại tăng vọt. Thay vì dùng một ứng dụng tổng quát, người dùng giờ đây yêu cầu những 'bespoke single-use apps' — những ứng dụng siêu đặc thù chỉ dùng một lần cho một dự án cụ thể. Điều này thúc đẩy sự phát triển của các công cụ như Cursor với Design Mode, cho phép developer thay đổi UI bằng giọng nói hoặc vẽ trực tiếp, biến quá trình lập trình thành một trải nghiệm 'vibe' hơn là viết code thuần túy."
           },
           {
             "type": "media",
@@ -83,20 +79,20 @@ export const generatedArticles: Article[] = [
           },
           {
             "type": "paragraph",
-            "text": "Bên cạnh đó, khái niệm 'Model Neutrality' (Trung lập về mô hình) được nhấn mạnh. Trong một thế giới mà các mô hình như Claude, GPT-4o hay Llama 3 thay đổi hiệu suất theo từng tuần, việc xây dựng kiến trúc Agent không bị ràng buộc vào một nhà cung cấp duy nhất là chiến lược sinh tồn cho doanh nghiệp. Điều này cho phép các Builder linh hoạt thay đổi 'não bộ' của Agent tùy theo tác vụ: dùng mô hình nhỏ cho các bước kiểm tra đơn giản và mô hình lớn cho các bước lập luận phức tạp."
+            "text": "Ở tầng kỹ thuật sâu hơn, LangChain đang thúc đẩy khái niệm 'Deep Agents' — những agent có khả năng chạy tác vụ dài hạn (long-running tasks). Việc triển khai các hệ thống này đòi hỏi khả năng quan sát (Observability) cực cao. LangSmith Engine không chỉ là công cụ debug mà đã trở thành một nền tảng vận hành, cho phép theo dõi chính xác agent đang làm gì, đánh giá hiệu suất thông qua điểm số (scoring) và triển khai quy mô lớn trong môi trường production."
           }
         ]
       },
       {
-        "heading": "Góc nhìn phản biện: Sự đánh đổi giữa Tự do và Kiểm soát",
+        "heading": "Góc nhìn phản biện: Rào cản từ 'Safety Filter' và Chi phí",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Mặc dù xu hướng 'Agentic' mang lại sức mạnh to lớn, nhưng nó cũng mở ra những rủi ro về an toàn và chi phí. Việc cho phép Agent 'có máy tính riêng' (give your agent its own computer) như LangSmith đề xuất là một bước tiến về năng suất nhưng là một cơn ác mộng về bảo mật nếu không có các lớp Auth Proxy và Sandbox nghiêm ngặt."
+            "text": "Tuy nhiên, sự tự trị của AI vẫn vấp phải những rào cản cứng nhắc từ các bộ lọc an toàn (safety filters). Minh chứng rõ nhất là trường hợp của Ideogram 4, nơi bộ lọc không phân tích pixel mà phản ứng cực đoan với các 'từ khóa kích hoạt' (trigger words). Điều này cho thấy một sự mâu thuẫn: trong khi chúng ta muốn AI thông minh và linh hoạt hơn, các lớp bảo mật lại đang hoạt động theo cơ chế từ điển cứng nhắc, gây ra nhiều trường hợp 'false-positive' (chặn nhầm). Điều này buộc các creator phải tìm cách 'lách' bằng cách mô tả tình huống thay vì gọi tên đối tượng, cho thấy một cuộc chiến không hồi kết giữa sự sáng tạo và kiểm soát."
           },
           {
             "type": "paragraph",
-            "text": "Hơn nữa, việc quá phụ thuộc vào các framework phức tạp như LangGraph có thể khiến các developer rơi vào cái bẫy 'over-engineering'. Khi một prompt tốt hoặc một luồng logic đơn giản có thể giải quyết vấn đề, việc xây dựng một hệ thống đa Agent với Rubrics và Verifiers có thể làm tăng độ trễ (latency) và chi phí token một cách không cần thiết."
+            "text": "Bên cạnh đó, vấn đề chi phí token vẫn là một 'hố đen' đối với nhiều developer. Việc Simon Willison phải sử dụng AgentsView để tự thiết lập giá tùy chỉnh cho các model mới như Claude Fable 5 cho thấy các công cụ quản lý chi phí hiện nay vẫn chưa theo kịp tốc độ ra mắt model. Khi Agent chạy vòng lặp tự sửa lỗi, lượng token tiêu thụ có thể tăng theo cấp số nhân, khiến việc tối ưu hóa chi phí trở thành bài toán sống còn."
           }
         ]
       },
@@ -105,11 +101,11 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Đối với các Builder, cơ hội hiện nay nằm ở việc xây dựng các 'Agent-specific Tools'. Ví dụ như cách Simon Willison phát triển `datasette-agent-edit` để giải quyết bài toán chỉnh sửa văn bản chính xác cho Agent. Thay vì tạo ra một Agent tổng quát, hãy tạo ra những công cụ chuyên biệt (như khả năng view/replace/insert chính xác) để Agent có thể tương tác với dữ liệu thực tế một cách tin cậy."
+            "text": "Đối với các Builder, cơ hội hiện nay không nằm ở việc tạo ra một LLM mới, mà là xây dựng 'Agent Harness' — khung vận hành cho Agent. Việc kết hợp các công cụ như LangGraph (để kiểm soát luồng) với các khả năng như 'Computer Use' sẽ mở ra những sản phẩm đột phá. Đặc biệt, xu hướng Physical AI (như NVIDIA Cosmos 3 hay LeRobot của Hugging Face) cho thấy tiềm năng đưa Agentic Logic ra khỏi màn hình máy tính để điều khiển robot thực tế."
           },
           {
             "type": "paragraph",
-            "text": "Một hướng đi tiềm năng khác là 'Vibe Coding' — tận dụng các công cụ như Cursor để xây dựng sản phẩm nhanh chóng thông qua việc mô tả giao diện và logic cho Agent. Khi rào cản về cú pháp lập trình giảm dần, giá trị của Creator sẽ chuyển dịch từ 'viết code' sang 'thiết kế luồng vận hành' (workflow design) và 'định nghĩa tiêu chí chất lượng' (rubric definition)."
+            "text": "Các Creator có thể tận dụng 'Vibe Coding' để nhanh chóng prototype các công cụ hỗ trợ chuyên biệt. Thay vì xây dựng một SaaS đồ sộ, hãy tập trung vào các 'micro-tools' giải quyết một nỗi đau cực kỳ cụ thể, tận dụng khả năng tạo code tức thì của các model thế hệ mới."
           }
         ]
       },
@@ -118,7 +114,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "AI Agent không còn là những kịch bản demo hào nhoáng mà đang tiến sâu vào vận hành doanh nghiệp. Từ việc Rippling triển khai AI-native cho mọi sản phẩm trong 6 tháng đến việc Lyft xây dựng nền tảng Agent tự phục vụ, minh chứng cho thấy: khả năng quan sát (Observability) và đánh giá (Evaluation) thông qua các công cụ như LangSmith chính là chìa khóa để đưa Agent từ phòng thí nghiệm ra thực tế."
+            "text": "Chúng ta đang tiến tới một tương lai nơi ranh giới giữa 'người viết code' và 'người điều phối AI' bị xóa nhòa. Sự chuyển dịch từ chatbot sang Agent tự trị không chỉ là nâng cấp về công nghệ, mà là thay đổi tư duy về cách xây dựng phần mềm. Chìa khóa thành công cho các developer lúc này là làm chủ khả năng quan sát, thiết kế hệ thống tự sửa lỗi và không ngừng thử nghiệm với các framework agentic mới nhất."
           }
         ]
       }
@@ -126,22 +122,21 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Vì sao đáng chú ý",
-        "text": "Sự hội tụ giữa khả năng lập luận của LLM và khả năng thực thi công cụ (tool-use) đang tạo ra một lớp phần mềm mới: Phần mềm tự vận hành. Điều này thay đổi hoàn toàn cách chúng ta tương tác với máy tính, từ việc 'điều khiển' sang 'giao phó' (delegation).",
+        "text": "Sự xuất hiện của 'Deep Agents' và 'Vibe Coding' cho thấy AI đang chuyển từ vai trò 'trợ lý trả lời' sang 'nhân viên thực thi'. Việc AI có thể tự vận hành máy tính và tự sửa lỗi là bước nhảy vọt về năng suất.",
         "variant": "analysis"
       },
       {
         "title": "Tác động",
-        "text": "Chu kỳ phát triển phần mềm sẽ ngắn lại đáng kể. Các khái niệm như 'Design Mode' trong Cursor cho thấy ranh giới giữa thiết kế UI/UX và triển khai code đang bị xóa nhòa bởi Agent.",
+        "text": "Chi phí phát triển phần mềm sẽ giảm mạnh, dẫn đến sự bùng nổ của các ứng dụng đơn mục tiêu (single-use apps). Đồng thời, yêu cầu về kỹ năng quản trị Agent (Agent Ops) sẽ quan trọng hơn kỹ năng viết code thuần túy.",
         "variant": "impact"
       }
     ],
     "takeaway": {
       "title": "Creator / Builder Takeaway",
       "items": [
-        "Ngừng xây dựng Chatbot đơn thuần, hãy bắt đầu thiết kế 'Deep Agents' với luồng công việc có khả năng tự sửa lỗi (Self-correction loop).",
-        "Đầu tư vào Observability: Sử dụng các công cụ như LangSmith để theo dõi chính xác Agent đang làm gì, thay vì phỏng đoán qua kết quả cuối cùng.",
-        "Xây dựng bộ Rubrics cụ thể cho tác vụ của bạn: Định nghĩa rõ thế nào là một kết quả 'đúng' để Agent có thể tự đánh giá.",
-        "Áp dụng tư duy Model Neutrality: Thiết kế hệ thống sao cho có thể thay thế LLM dễ dàng khi có mô hình tốt hơn xuất hiện."
+        "Triển khai LangGraph hoặc các framework tương đương để xây dựng workflow có khả năng tự sửa lỗi (self-correction) thay vì chuỗi prompt tuyến tính.",
+        "Sử dụng các công cụ quan sát như LangSmith hoặc AgentsView để theo dõi token và hiệu suất agent, tránh việc 'đốt' ngân sách vô ích.",
+        "Thử nghiệm tư duy 'Vibe Coding': Tập trung vào mô tả kết quả cuối cùng và sử dụng AI để generate UI/UX tức thì thay vì xây dựng framework cứng nhắc."
       ]
     },
     "sources": [
@@ -151,74 +146,74 @@ export const generatedArticles: Article[] = [
         "url": "https://blog.langchain.dev/rss/"
       },
       {
-        "title": "What's New in Cursor",
-        "publisher": "Cursor",
-        "url": "https://www.cursor.com/changelog"
-      },
-      {
-        "title": "datasette-agent-edit 0.1a0",
+        "title": "Quoting Andrej Karpathy",
         "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/"
+        "url": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/"
       },
       {
         "title": "Hugging Face Blog",
         "publisher": "Hugging Face",
         "url": "https://huggingface.co/blog"
+      },
+      {
+        "title": "Cursor Changelog",
+        "publisher": "Cursor",
+        "url": "https://www.cursor.com/changelog"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-06-09T13:36:03.384Z",
-      "sourceClusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-09",
+      "generatedAt": "2026-06-10T00:11:18.389Z",
+      "sourceClusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-10",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-agentic_1_langchain-blog_2026-06-09_en",
-    "slug": "langchain-blog-creator-and-builder-analysis-2026-06-09",
+    "id": "cluster_ai-agentic_1_langchain-blog_2026-06-10_en",
+    "slug": "langchain-blog-creator-and-builder-analysis-2026-06-10",
     "lang": "en",
     "category": "ai-agentic",
     "title": "LangChain Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, Anthropic Research, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-06-09T13:37:16.393Z",
+    "subtitle": "Signal synthesized from LangChain Blog, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-06-10T00:11:38.975Z",
     "readingTime": 4,
-    "sourceCount": 5,
+    "sourceCount": 7,
     "tags": [
       "ai-agents",
-      "langchain",
       "observability",
       "vibe-coding",
-      "agentic-workflows"
+      "langchain",
+      "developer-experience"
     ],
     "heroMedia": {
       "type": "image",
       "src": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png",
       "alt": "LangChain Blog: creator and builder analysis",
-      "caption": "Signal synthesized from LangChain Blog, Anthropic Research, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability."
+      "caption": "Signal synthesized from LangChain Blog, r/StableDiffusion, Luma Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability."
     },
     "highlights": [
       {
-        "text": "The shift from 'chains' to 'agents' is accelerating, with a new focus on 'Deep Agents' capable of long-running, complex tasks."
+        "text": "The emergence of 'Deep Agents' marks a transition from simple chatbots to long-running, autonomous systems capable of complex task execution."
       },
       {
-        "text": "Observability and evaluation (via LangSmith) have become the primary bottlenecks and priorities for scaling agents in production."
+        "text": "Observability is becoming the primary bottleneck; tools like LangSmith Engine and AgentsView are critical for auditing agent token usage and behavior."
       },
       {
-        "text": "The emergence of 'Computer Use' and 'Interpreter' capabilities is giving agents a tangible way to interact with OS-level environments."
+        "text": "The 'Vibe Coding' era is accelerating, with tools like Cursor's Design Mode allowing developers to iterate on UI via voice and visual selection."
       },
       {
-        "text": "A growing trend toward 'model neutrality,' prioritizing the orchestration framework over the specific underlying LLM."
+        "text": "A critical shift toward 'Model Neutrality' is emerging as developers seek to avoid cloud lock-in while maximizing agent performance."
       }
     ],
     "sections": [
       {
-        "heading": "Context: The Transition to Agentic Architectures",
+        "heading": "Context: The Rise of the Agentic Layer",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The AI landscape is currently undergoing a fundamental pivot. We are moving away from the era of 'prompt engineering' and simple sequential chains toward 'agentic workflows.' As evidenced by recent updates from the LangChain Blog, the industry is now prioritizing 'Deep Agents'—systems designed for long-running tasks that require high levels of autonomy and reliability. This shift is not just about better models, but about the infrastructure surrounding them. The introduction of LangGraph allows developers to build agents with low-level control, moving beyond the 'black box' of autonomous agents into structured, cyclic graphs that can handle retries, timeouts, and complex error handling."
+            "text": "The AI landscape is rapidly shifting from static LLM prompts to dynamic 'agentic' workflows. Recent updates from the LangChain ecosystem highlight a strategic pivot toward 'Deep Agents'—systems designed for long-running, complex tasks that require more than a single turn of conversation. This evolution is supported by a new architectural stack: LangGraph for low-level control and fault tolerance (including retries and error handlers), and LangSmith for the essential observability needed to debug autonomous behavior. As noted in the LangChain Blog, the focus has moved toward providing agents with their own 'computers' and interpreters, allowing them to execute code safely in sandboxes to solve real-world problems."
           },
           {
             "type": "media",
@@ -232,16 +227,16 @@ export const generatedArticles: Article[] = [
           },
           {
             "type": "paragraph",
-            "text": "This evolution is mirrored across the ecosystem. From Cursor's 'Design Mode' allowing agents to update UIs via voice and visual selection, to Simon Willison's work on 'datasette-agent-edit' for agentic text manipulation, the goal is the same: giving AI the ability to act upon the world, not just describe it. We are seeing a convergence where the LLM is treated as the 'reasoning engine,' while the framework (like LangGraph or the Hugging Face CLI) provides the 'body' and 'tools' necessary for execution."
+            "text": "Simultaneously, the developer experience is being rewritten. Andrej Karpathy recently noted the 'Jevon's paradox' in software: as working software becomes available 'on a tap' via AI, the demand for bespoke, single-use apps and hyper-specific dashboards is exploding. This is no longer about writing code, but about directing agents to generate the exact tool needed for a specific moment."
           }
         ]
       },
       {
-        "heading": "Deep Analysis: The Infrastructure of Autonomy",
+        "heading": "Deep Analysis: From Prompting to Orchestration",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The most critical realization for developers in 2026 is that an agent is only as good as its observability. LangChain's push for 'LangSmith Engine' and 'Mission Control' highlights a systemic problem: when agents operate autonomously, they fail in unpredictable ways. The industry is moving toward a 'Verifier' model—where agents are built to evaluate and correct their own work using rubrics. This creates a recursive loop of improvement: the agent proposes a solution, a verifier checks it against a rubric, and the agent iterates until the criteria are met."
+            "text": "The current trajectory suggests that the 'prompt' is becoming a secondary artifact. We are seeing the rise of 'canonical structured JSON' as the primary interface for high-reliability AI. A telling example comes from the community's discovery regarding Ideogram 4's safety filters: prose prompts often trigger false-positive blocks, whereas structured JSON descriptions of scenes bypass these triggers by avoiding 'flagged' nouns while still achieving the desired visual output. This indicates that models are increasingly sensitive to the *format* of the instruction, not just the content."
           },
           {
             "type": "media",
@@ -255,20 +250,20 @@ export const generatedArticles: Article[] = [
           },
           {
             "type": "paragraph",
-            "text": "Furthermore, the concept of 'Model Neutrality' is becoming a strategic imperative. As Neil Dahlke notes in the LangChain architecture discussions, being neutral toward the model provider is more important than being neutral toward the cloud provider. Because frontier models (Claude, GPT, Nemotron) are evolving so rapidly, the value resides in the 'Agent Harness'—the set of tools, memory systems, and interpreters that allow any high-reasoning model to execute a business process. If the orchestration layer is portable, the developer can swap the 'brain' of the agent as soon as a more efficient or capable model emerges."
+            "text": "In the realm of coding, 'Vibe Coding' is manifesting through tools like Cursor. The introduction of Design Mode allows developers to click, draw, or use voice to describe UI changes. This removes the friction of translating a visual desire into a code change, effectively turning the agent into a real-time bridge between intent and implementation. When combined with Simon Willison's work on 'datasette-agent-edit,' which implements precise tools like `str_replace` and `insert` for agentic text editing, we see a move toward 'surgical' AI intervention rather than 'regenerate the whole file' approaches."
           }
         ]
       },
       {
-        "heading": "Critical Perspective: The 'Vibe Coding' Trap",
+        "heading": "Critical Perspective: The Observability Gap",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Despite the progress, there is a dangerous trend toward what some call 'vibe coding'—relying on the emergent capabilities of a model to 'figure it out' rather than designing rigorous logic. We see this in the struggle with safety filters, as highlighted in the r/StableDiffusion community's analysis of Ideogram 4. When developers rely on 'vibes' or loose prose, they often hit invisible walls (like safety attractors) that are baked into the model's weights. The solution, as discovered by power users, is a return to 'Canonical Structured JSON'—forcing the model into a rigid, predictable format to bypass the unpredictability of natural language processing."
+            "text": "As agents gain more autonomy—running in loops, using interpreters, and managing their own state—the 'black box' problem intensifies. The industry is currently scrambling to build the 'Mission Control' for these systems. The release of LangSmith Engine and the adoption of tools like AgentsView (used to track token usage across local projects) highlight a desperate need for granular auditing. If an agent spends $50 in tokens on a recursive loop that fails, the developer needs to know exactly where the logic diverged."
           },
           {
             "type": "paragraph",
-            "text": "This tension exists in agentic workflows too. There is a temptation to give an agent a 'computer' and a general-purpose interpreter and hope for the best. However, the most successful deployments—like Rippling's AI-native transition or Lyft's customer support platform—rely on 'Skills' and 'Interpreters' that are tightly scoped. The 'magic' of an autonomous agent is a liability in production; the 'reliability' of a constrained graph is the actual product."
+            "text": "Furthermore, the push for 'Model Neutrality' over 'Cloud Neutrality' is a strategic admission: the underlying model is the primary lever for performance. Developers are no longer concerned with which cloud hosts the model, but rather how easily they can swap a Claude Fable 5 for a Nemotron 3.5 or a Cohere North Mini Code model without rebuilding their entire agentic harness."
           }
         ]
       },
@@ -277,11 +272,11 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "For developers, the biggest opportunity lies in the 'Last Mile' of agentic execution. There is a massive gap in tools that allow agents to edit existing complex files without destroying them. Simon Willison's approach to 'view', 'str_replace', and 'insert' tools provides a blueprint for creating 'surgical' editing capabilities. Builders should focus on creating these high-precision tools rather than general-purpose wrappers."
+            "text": "For developers, the biggest opportunity lies in the 'Agentic Tooling' layer. There is a massive gap in tools that help agents interact with the physical or digital world with precision. The 'Open Physical AI Lab' by Luma and the 'LeRobot' humanoid project by Hugging Face suggest that the next frontier is bridging the gap between digital reasoning and physical action. Builders should focus on creating 'Skills' and 'Interpreters'—modular capabilities that agents can call upon, rather than trying to build one monolithic agent that does everything."
           },
           {
             "type": "paragraph",
-            "text": "Additionally, the rise of 'Physical AI' (as seen in NVIDIA Cosmos 3 and Luma's Open Physical AI Lab) suggests that the next frontier is the bridge between digital agents and physical action. Developers who can integrate LLM reasoning with real-world robotics or 3D environment manipulation will be at the forefront of the next wave. The transition from 'Chatbot' to 'Agent' to 'Physical Actor' is the trajectory of the decade."
+            "text": "Creators should also explore the 'Bespoke App' economy. As Karpathy suggested, the ability to generate a 'single-use app' for a specific research project or data visualization is a superpower. The opportunity is to build platforms that allow non-technical users to orchestrate these ephemeral tools without needing to manage the underlying infrastructure."
           }
         ]
       },
@@ -290,7 +285,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The era of the simple LLM wrapper is dead. We have entered the era of the Agentic System. Success in this new paradigm requires a shift in mindset: from writing prompts to designing architectures. By focusing on observability, implementing rigorous verification rubrics, and maintaining model neutrality, creators can build systems that are not just 'impressive' in a demo, but reliable in production. The goal is no longer to make the AI 'smart,' but to make the system 'steerable.'"
+            "text": "We are exiting the era of the 'Chatbot' and entering the era of the 'Agentic OS.' The transition is characterized by a shift from prose to structure (JSON), from conversation to orchestration (LangGraph), and from blind trust to rigorous observability (LangSmith). For the builder, the goal is no longer to write the perfect prompt, but to design the perfect harness—a system of constraints, verifiers, and tools that allows an AI to operate autonomously while remaining entirely transparent and steerable."
           }
         ]
       }
@@ -298,22 +293,21 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Why This Matters",
-        "text": "The shift toward 'Deep Agents' and structured graphs (LangGraph) means that AI is moving from a tool we *use* to a teammate we *manage*. This requires a completely different set of engineering skills—moving from NLP to systems design and observability.",
+        "text": "The shift toward 'Deep Agents' means AI is moving from a 'consultant' (giving advice) to an 'employee' (executing work). This changes the risk profile of AI deployment, making fault tolerance and sandboxing non-negotiable requirements for production.",
         "variant": "analysis"
       },
       {
         "title": "Impact",
-        "text": "Companies that successfully implement 'AI-native' workflows (like Rippling) are seeing drastic improvements in retention and operational efficiency, proving that the value is in the workflow orchestration, not the model itself.",
+        "text": "The 'Vibe Coding' trend will likely collapse the barrier between product design and engineering. When UI can be updated via voice and visual selection in real-time, the bottleneck shifts from 'how to build it' to 'what is actually worth building.'",
         "variant": "impact"
       }
     ],
     "takeaway": {
       "title": "Creator / Builder Takeaway",
       "items": [
-        "Stop building linear chains; start building cyclic graphs with explicit error-handling and retry logic using frameworks like LangGraph.",
-        "Implement 'Verifier' agents that use a rubric to grade the output of 'Worker' agents before any result is delivered to the user.",
-        "Prioritize 'Surgical Tools' (e.g., specific str_replace functions) over general-purpose 'edit this file' prompts to increase reliability.",
-        "Adopt a model-neutral architecture to ensure you can swap LLM providers as the frontier moves without rewriting your entire agent harness."
+        "Adopt structured JSON for agent prompts to reduce 'safety filter' false positives and increase reliability.",
+        "Implement a granular observability layer (like LangSmith or AgentsView) before scaling agents to production to avoid 'token hemorrhaging' in recursive loops.",
+        "Build 'Surgical' tools (view/replace/insert) for agents rather than allowing them to overwrite entire files, reducing the risk of catastrophic regressions."
       ]
     },
     "sources": [
@@ -321,25 +315,37 @@ export const generatedArticles: Article[] = [
         "title": "LangChain Blog",
         "publisher": "LangChain",
         "url": "https://blog.langchain.dev/rss/",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "title": "Setting a custom price for a model in AgentsView",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "title": "Quoting Andrej Karpathy",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/",
         "publishedAt": "2026-06-09"
       },
       {
         "title": "datasette-agent-edit 0.1a0",
         "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+        "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/",
         "publishedAt": "2026-06-07"
       },
       {
         "title": "Hugging Face Blog",
         "publisher": "Hugging Face",
         "url": "https://huggingface.co/blog",
-        "publishedAt": "2026-06-09"
+        "publishedAt": "2026-06-10"
       },
       {
         "title": "Luma Labs Blog",
         "publisher": "Luma Labs",
         "url": "https://lumalabs.ai/blog",
-        "publishedAt": "2026-06-09"
+        "publishedAt": "2026-06-10"
       },
       {
         "title": "Cursor Changelog",
@@ -351,29 +357,375 @@ export const generatedArticles: Article[] = [
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-06-09T13:37:16.393Z",
-      "sourceClusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-09",
+      "generatedAt": "2026-06-10T00:11:38.975Z",
+      "sourceClusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-10",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-09_vi",
-    "slug": "ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-09",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-10_vi",
+    "slug": "research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-10",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-06-10T00:10:36.430Z",
+    "readingTime": 4,
+    "sourceCount": 4,
+    "tags": [
+      "vibe-coding",
+      "claude-fable-5",
+      "ai-agents",
+      "anthropic",
+      "replit"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "alt": "Research \\ Anthropic: góc nhìn cho creator và builder",
+      "caption": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
+    },
+    "highlights": [
+      {
+        "text": "Claude Fable 5 ra mắt với khả năng lập trình 'quái vật', xử lý các tác vụ phức tạp mà các model trước đó thường bỏ cuộc."
+      },
+      {
+        "text": "Xu hướng 'Vibe Coding' lên ngôi khi Replit Agent 4 cho phép xây dựng ứng dụng production-ready chỉ qua hội thoại."
+      },
+      {
+        "text": "Chi phí vận hành các model frontier tăng cao (gấp đôi Opus 4.5), đặt ra bài toán tối ưu hóa cho các builder."
+      },
+      {
+        "text": "Sự dịch chuyển từ việc 'viết code' sang 'điều phối agent' thông qua khả năng tự sửa lỗi và thiết kế API tự động."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Kỷ nguyên của 'Vibe Coding' và sự trỗi dậy của Agentic AI",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Chúng ta đang chứng kiến một sự chuyển dịch quan trọng trong cách phần mềm được tạo ra. Thuật ngữ 'Vibe Coding' không còn là một trò đùa mà đang trở thành một phương thức phát triển thực thụ. Với sự ra đời của Replit Agent 4, ranh giới giữa ý tưởng và sản phẩm thực tế được thu hẹp tối đa. Người dùng hiện có thể thiết kế và triển khai một storefront Shopify tùy chỉnh chỉ bằng cách mô tả mong muốn qua chat; Agent sẽ tự động tạo frontend, thiết lập cửa hàng và thêm sản phẩm."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png",
+            "alt": "Replit — Replit Blog – Product updates from the team",
+            "caption": "Replit — Replit Blog – Product updates from the team — Replit Blog",
+            "credit": "Replit Blog",
+            "sourceUrl": "https://blog.replit.com/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Đây không đơn thuần là việc sinh code (code generation) mà là vận hành agent (agentic workflow). Các công cụ như GitHub Copilot và Replit đang chuyển từ vai trò 'trợ lý gợi ý' sang 'kỹ sư thực thi', nơi AI không chỉ viết một đoạn hàm mà quản lý toàn bộ vòng đời phát triển từ thiết kế đến deploy."
+          }
+        ]
+      },
+      {
+        "heading": "Claude Fable 5: Khi 'Kích thước' tạo nên sự khác biệt",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Sự xuất hiện của Claude Fable 5 từ Anthropic đánh dấu một bước tiến về khả năng xử lý tri thức sâu. Theo phân tích từ Simon Willison, Fable 5 mang lại cảm giác về một model 'khổng lồ' không chỉ ở tốc độ chậm hơn hay chi phí cao hơn, mà ở khả năng truy xuất chi tiết chính xác về các dự án mã nguồn mở phức tạp mà các model nhỏ hơn thường nhầm lẫn hoặc từ chối trả lời."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+            "alt": "Research \\ Anthropic",
+            "caption": "Research \\ Anthropic — Anthropic Research",
+            "credit": "Anthropic Research",
+            "sourceUrl": "https://www.anthropic.com/research",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Điểm đáng kinh ngạc nhất là khả năng tự chủ trong lập trình. Fable 5 không chỉ giải quyết các yêu cầu đơn lẻ mà có thể tự nhận diện các thiếu sót trong thư viện cơ sở để đề xuất và thực thi các bản cập nhật. Ví dụ điển hình là việc tự viết lại gần như toàn bộ phiên bản LLM 0.32a3 để hỗ trợ cơ chế 'pause-resume' trong tool calls — một tác vụ đòi hỏi tư duy kiến trúc phần mềm thay vì chỉ là copy-paste code."
+          }
+        ]
+      },
+      {
+        "heading": "Góc nhìn phản biện: Cái giá của sức mạnh",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tuy nhiên, sức mạnh của Fable 5 đi kèm với một mức giá đắt đỏ: $10/triệu input tokens và $50/triệu output tokens, gấp đôi so với dòng Opus 4.5. Việc một lập trình viên chi tiêu hơn 110 USD trong một ngày chỉ để thử nghiệm các tính năng mới cho thấy một rủi ro về kinh tế cho các startup nhỏ nếu quá phụ thuộc vào các model frontier."
+          },
+          {
+            "type": "paragraph",
+            "text": "Hơn nữa, việc Apple tích hợp Gemini thông qua Private Cloud Compute (PCC) với phần cứng NVIDIA cho thấy một xu hướng: để đạt được khả năng agentic thực thụ, chúng ta cần một hạ tầng tính toán cực lớn. Điều này tạo ra một sự phân cực giữa những 'builder' có nguồn lực tài chính mạnh và những người phát triển độc lập."
+          }
+        ]
+      },
+      {
+        "heading": "Cơ hội cho Creator và Builder",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đối với các developer, cơ hội hiện nay không nằm ở việc học cú pháp ngôn ngữ mà là học cách 'điều phối' (orchestrate) các AI Agent. Khả năng xây dựng các hệ thống 'Human-in-the-loop' (con người can thiệp vào quy trình) như tính năng ask_user() trong Datasette Agent sẽ là chìa khóa để kiểm soát AI trong các dự án thực tế."
+          },
+          {
+            "type": "paragraph",
+            "text": "Các creator có thể tận dụng khả năng sandbox của Claude.ai (cho phép chạy code, cài package, clone repo trực tiếp) để biến AI thành một môi trường R&D nhanh. Thay vì dành hàng giờ cấu hình môi trường, builder giờ đây có thể yêu cầu AI tự xây dựng PoC (Proof of Concept) và tinh chỉnh cho đến khi đạt yêu cầu."
+          }
+        ]
+      },
+      {
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Sự giao thoa giữa khả năng suy luận sâu của Claude Fable 5 và tính thực thi nhanh của Replit Agent đang định nghĩa lại khái niệm 'lập trình'. Chúng ta đang tiến gần hơn đến một tương lai nơi ngôn ngữ tự nhiên chính là ngôn ngữ lập trình cấp cao nhất, và vai trò của developer sẽ chuyển dịch từ 'người viết' sang 'người phê duyệt' và 'kiến trúc sư hệ thống'."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Vì sao đáng chú ý",
+        "text": "Sự chuyển dịch từ 'Code Generation' sang 'Agentic Engineering'. AI không còn chỉ gợi ý dòng code tiếp theo mà đã có thể tự tìm bug, tự thiết kế API và tự triển khai sản phẩm hoàn chỉnh.",
+        "variant": "analysis"
+      },
+      {
+        "title": "Tác động",
+        "text": "Chi phí phát triển phần mềm giai đoạn prototype sẽ giảm mạnh, nhưng chi phí vận hành (inference cost) cho các model cao cấp sẽ trở thành gánh nặng mới cho các doanh nghiệp.",
+        "variant": "impact"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Chuyển trọng tâm từ học cú pháp sang học thiết kế hệ thống và điều phối Agent.",
+        "Xây dựng cơ chế 'Human-in-the-loop' để kiểm soát và phê duyệt các thay đổi do AI thực hiện trong production.",
+        "Tận dụng các môi trường sandbox tích hợp (như Claude.ai container) để tăng tốc độ thử nghiệm PoC."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Research \\ Anthropic",
+        "publisher": "Anthropic Research",
+        "url": "https://www.anthropic.com/research"
+      },
+      {
+        "title": "Initial impressions of Claude Fable 5",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/"
+      },
+      {
+        "title": "Replit — Replit Blog",
+        "publisher": "Replit Blog",
+        "url": "https://blog.replit.com/"
+      },
+      {
+        "title": "GitHub Copilot Archives",
+        "publisher": "GitHub Copilot Blog",
+        "url": "https://github.blog/tag/github-copilot/"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-06-10T00:10:36.430Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-10",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-10_en",
+    "slug": "research-anthropic-creator-and-builder-analysis-2026-06-10",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "title": "Research \\ Anthropic: creator and builder analysis",
+    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-06-10T00:10:58.101Z",
+    "readingTime": 4,
+    "sourceCount": 4,
+    "tags": [
+      "vibe-coding",
+      "anthropic",
+      "claude-fable-5",
+      "ai-agents",
+      "software-engineering"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "alt": "Research \\ Anthropic: creator and builder analysis",
+      "caption": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability."
+    },
+    "highlights": [
+      {
+        "text": "The rise of 'Vibe Coding' is shifting development from manual syntax to high-level intent and iterative prompting."
+      },
+      {
+        "text": "Anthropic's Claude Fable 5 demonstrates massive leaps in world knowledge and complex API design capabilities."
+      },
+      {
+        "text": "Replit Agent 4 is enabling non-developers to build production-ready apps, including full Shopify storefronts, via chat."
+      },
+      {
+        "text": "Frontier models are moving toward 'beast' status—slow and expensive, but capable of multi-day engineering tasks in hours."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Context: The Era of the 'Beast' Model",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The landscape of AI-assisted development has shifted from simple autocomplete to what developers are calling 'Vibe Coding.' This paradigm shift is exemplified by the release of Claude Fable 5, a model described by practitioners like Simon Willison as a 'beast' due to its immense knowledge base and reasoning capabilities. Unlike previous iterations, Fable 5 (and its unrestricted counterpart, Mythos 5) operates with a massive 1-million token context window and a knowledge cutoff of January 2026, allowing it to handle complex, multi-file architectural changes that were previously impossible for LLMs."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png",
+            "alt": "Replit — Replit Blog – Product updates from the team",
+            "caption": "Replit — Replit Blog – Product updates from the team — Replit Blog",
+            "credit": "Replit Blog",
+            "sourceUrl": "https://blog.replit.com/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "This evolution is not happening in a vacuum. While Anthropic focuses on the 'inner workings' and safety of these models to ensure they remain steerable, platforms like Replit and GitHub Copilot are operationalizing this power. Replit's Agent 4, for instance, has pushed the boundaries of vibe coding by allowing users to describe a business need—such as a custom Shopify storefront—and having the agent generate the frontend, create the store, and populate products within a single conversation."
+          }
+        ]
+      },
+      {
+        "heading": "Deep Analysis: From Code Completion to System Architecture",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The true signal in recent releases is the transition from 'snippet generation' to 'system engineering.' In a recent stress test, Claude Fable 5 was tasked with upgrading a MicroPython-WASM library to support full Python. The model didn't just suggest code; it researched existing builds (CPython-WASI), identified environment restrictions, and eventually produced a 13.9MB functional wheel file. This represents a move toward autonomous agentic behavior where the AI manages the build pipeline, not just the logic."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+            "alt": "Research \\ Anthropic",
+            "caption": "Research \\ Anthropic — Anthropic Research",
+            "credit": "Anthropic Research",
+            "sourceUrl": "https://www.anthropic.com/research",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Furthermore, the ability of these models to perform 'refactoring as a side effect' is becoming a core feature. When tasked with adding a 'pause-and-request-approval' feature to the Datasette Agent, Fable 5 didn't just implement the feature; it identified six underlying issues in the supporting LLM library and rewrote them to support the new mechanism. This indicates that frontier models are now capable of understanding the ripple effects of a feature request across an entire codebase, effectively acting as a senior architect rather than a junior coder."
+          }
+        ]
+      },
+      {
+        "heading": "Critical Perspective: The Cost of Capability",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Despite the awe-inspiring capabilities, there is a stark economic reality to this 'beast' class of models. Claude Fable 5 is priced at twice the rate of its predecessors ($10/million input, $50/million output tokens). For power users, this can lead to staggering daily costs; one developer reported spending over $110 in a single day of intensive agentic coding. This creates a 'performance-cost paradox' where the most capable tools are too expensive for casual use, potentially limiting the democratization of vibe coding to those with high-tier subscriptions or corporate backing."
+          },
+          {
+            "type": "paragraph",
+            "text": "There is also the issue of 'guardrail friction.' Anthropic's strict safety classifiers in Fable 5 can trigger frequently, occasionally hindering productivity. While Anthropic has introduced fallback mechanisms to other models when a request is rejected, the tension between 'safety' and 'utility' remains a primary friction point for developers who need the model to handle raw, sometimes unconventional, system-level code."
+          }
+        ]
+      },
+      {
+        "heading": "Opportunities for Creators / Builders",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For developers, the opportunity lies in building 'Agent-First' architectures. Instead of writing code that is easy for humans to read, builders should focus on creating tools that are easy for LLMs to manipulate. This includes providing clear tool-call IDs, implementing robust pause-and-resume mechanisms (like the llm.PauseChain exception), and creating modular libraries that agents can independently upgrade."
+          },
+          {
+            "type": "paragraph",
+            "text": "Creators who are not traditionally 'technical' can now leverage tools like Replit Agent 4 to move from idea to production-ready MVP in hours. The barrier to entry is no longer the ability to write Python or JavaScript, but the ability to clearly articulate a product vision and iteratively 'vibe' the output into a polished product. The competitive advantage has shifted from 'coding skill' to 'product orchestration skill.'"
+          }
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The convergence of massive context windows, agentic tool-use, and integrated container environments (as seen in Claude.ai) is fundamentally altering the software development lifecycle. We are entering an era where the 'developer' is increasingly a curator of AI-generated systems. While the costs remain high and the safety guardrails can be intrusive, the ability of models like Fable 5 to autonomously solve complex engineering problems suggests that the 'vibe coding' trend is not a fad, but a precursor to a fully agentic software economy."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Why This Matters",
+        "text": "The transition to 'Vibe Coding' means that the primary bottleneck in software creation is no longer technical implementation, but conceptual clarity. When an AI can rewrite six library issues to support one new feature, the value of a developer shifts from 'how to build' to 'what to build.'",
+        "variant": "analysis"
+      },
+      {
+        "title": "Impact",
+        "text": "We are seeing the emergence of 'Beast Models' that can compress days of human engineering into minutes of compute. This will likely lead to a massive acceleration in MVP launches and a total restructuring of how technical debt is managed, as agents can now refactor entire systems on the fly.",
+        "variant": "impact"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Adopt 'Agent-First' design: Build your internal tools with explicit IDs and state-management that allows an LLM to pause and resume tasks.",
+        "Shift focus from syntax to orchestration: Invest in learning how to prompt for architectural changes rather than individual functions.",
+        "Monitor token spend aggressively: Use tools like AgentsView to track the cost-benefit ratio of using frontier 'beast' models versus smaller, faster alternatives."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Research \\ Anthropic",
+        "publisher": "Anthropic Research",
+        "url": "https://www.anthropic.com/research",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "title": "Initial impressions of Claude Fable 5",
+        "publisher": "Simon Willison's Weblog",
+        "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "title": "Replit — Replit Blog",
+        "publisher": "Replit Blog",
+        "url": "https://blog.replit.com/",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "title": "GitHub Copilot Archives",
+        "publisher": "GitHub Copilot Blog",
+        "url": "https://github.blog/tag/github-copilot/",
+        "publishedAt": "2026-06-10"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-06-10T00:10:58.101Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-10",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-10_vi",
+    "slug": "ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-10",
     "lang": "vi",
     "category": "ai-image",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-06-09T13:35:49.774Z",
-    "readingTime": 4,
-    "sourceCount": 4,
+    "publishedAt": "2026-06-10T00:10:42.266Z",
+    "readingTime": 5,
+    "sourceCount": 5,
     "tags": [
       "AI-Video",
-      "Open-Source",
+      "RunwayAI",
+      "FLUX",
       "ComfyUI",
-      "Runway-AI",
-      "Ideogram-4",
-      "FLUX"
+      "WorldModels",
+      "OnDeviceAI"
     ],
     "heroMedia": {
       "type": "image",
@@ -383,25 +735,25 @@ export const generatedArticles: Article[] = [
     },
     "highlights": [
       {
-        "text": "Sự trỗi dậy của 'World Models': Runway AI định nghĩa lại video AI không chỉ là tạo hình ảnh mà là mô phỏng vật lý thế giới."
+        "text": "Runway định hướng xây dựng 'mô phỏng thế giới' (world simulators) đa phương thức, coi video là modality chính thay vì chỉ là công cụ tạo clip."
       },
       {
-        "text": "Ideogram 4.0 gây sốc khi open-source với khả năng kiểm soát layout qua JSON và hiểu biết sâu về IP/Character."
+        "text": "Black Forest Labs đưa FLUX.2 [klein] lên phần cứng tiêu dùng (ASUS ProArt), đánh dấu bước chuyển từ Cloud-only sang On-device AI."
       },
       {
-        "text": "FLUX.2 chính thức tiến lên thiết bị đầu cuối thông qua hợp tác với ASUS và NVIDIA, giảm phụ thuộc vào Cloud."
+        "text": "Xu hướng 'Kiểm soát tuyệt đối' trong kiến trúc và thiết kế thông qua ComfyUI, kết hợp ControlNet và inpainting để loại bỏ tính ngẫu nhiên của AI."
       },
       {
-        "text": "Xu hướng chuyên biệt hóa: ComfyUI trở thành 'tiêu chuẩn vàng' cho các quy trình làm việc khắt khe như kiến trúc và thiết kế."
+        "text": "Sự trỗi dậy của các workflow tự động hóa hậu kỳ như 'Face Likeness Gate' để lọc kết quả dựa trên độ tương đồng khuôn mặt."
       }
     ],
     "sections": [
       {
-        "heading": "Cuộc đua mô phỏng thế giới: Tầm nhìn của Runway AI",
+        "heading": "Từ 'Công cụ tạo video' đến 'Mô phỏng thế giới'",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Trong khi phần lớn các công cụ AI video hiện nay tập trung vào việc tạo ra những clip ngắn bắt mắt, Runway AI đang tiến xa hơn với tham vọng xây dựng các 'general-purpose multimodal simulators of the world' (mô hình mô phỏng thế giới đa phương thức tổng quát). Theo các công bố mới nhất từ Runway Research, họ tin rằng video không chỉ là đầu ra, mà phải là phương thức nhập/xuất chính, kết hợp cùng văn bản và âm thanh để tạo nên một paradigm tính toán mới."
+            "text": "Runway AI không còn nhìn nhận AI Video đơn thuần là việc tạo ra những đoạn clip ngắn từ văn bản. Trong các báo cáo nghiên cứu mới nhất, Runway khẳng định mục tiêu xây dựng các bộ mô phỏng đa phương thức tổng quát (general-purpose multimodal simulators). Quan điểm cốt lõi của họ là: khi video trở thành modality đầu vào và đầu ra chính, kết hợp với văn bản và âm thanh, nó sẽ tạo ra một paradigm tính toán hoàn toàn mới. Điều này có nghĩa là AI không chỉ 'vẽ' ra video, mà thực sự 'hiểu' các quy luật vật lý và logic của thế giới thực để mô phỏng lại."
           },
           {
             "type": "media",
@@ -415,16 +767,16 @@ export const generatedArticles: Article[] = [
           },
           {
             "type": "paragraph",
-            "text": "Điểm nhấn kỹ thuật đáng chú ý là mô hình Autoregressive-to-Diffusion (A2D). Bằng cách thích ứng các mô hình ngôn ngữ thị giác tự hồi quy hiện có cho việc giải mã khuếch tán song song, Runway đã tìm ra cách tối ưu hóa sự đánh đổi giữa tốc độ và chất lượng mà không cần huấn luyện lại từ đầu. Điều này cho thấy một xu hướng chuyển dịch: từ việc 'vẽ' video sang việc 'mô phỏng' hành vi vật lý và logic không gian trong video."
+            "text": "Một đột phá kỹ thuật đáng chú ý là mô hình Autoregressive-to-Diffusion (A2D). Bằng cách thích ứng các mô hình ngôn ngữ thị giác tự hồi quy hiện có cho giải mã khuếch tán song song, Runway đã tìm ra cách tối ưu hóa sự đánh đổi giữa tốc độ và chất lượng mà không cần huấn luyện lại từ đầu. Đây là bước tiến quan trọng để đưa AI Video từ những bản demo chậm chạp sang các ứng dụng thời gian thực."
           }
         ]
       },
       {
-        "heading": "Ideogram 4.0 và bước ngoặt Open-Source cho Graphic Design",
+        "heading": "Cuộc chiến On-device: Khi FLUX rời khỏi đám mây",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Sự xuất hiện của Ideogram 4.0 dưới dạng open-weight (9.3B parameters) là một cú hích lớn cho cộng đồng builder. Không còn là những lời hứa hẹn về API đóng, Ideogram 4.0 hiện đã được hỗ trợ native trong ComfyUI, cho phép chạy cục bộ trên các GPU 24GB (phiên bản nf4). Điều khiến model này trở nên 'điên rồ' chính là khả năng hiểu biết về nhân vật (Character) và sở hữu trí tuệ (IP) mà không cần đến LoRA."
+            "text": "Trong khi nhiều mô hình AI mạnh mẽ vẫn bị 'nhốt' trong các API trả phí, Black Forest Labs đang đi một hướng khác. Việc hợp tác với ASUS và NVIDIA để tích hợp FLUX.2 [klein] trực tiếp vào dòng laptop ProArt là một tín hiệu mạnh mẽ. Việc đưa một mô hình chất lượng cao như FLUX lên phần cứng tiêu dùng không chỉ giải quyết bài toán chi phí mà còn đảm bảo quyền riêng tư và tốc độ phản hồi cho creator."
           },
           {
             "type": "media",
@@ -438,33 +790,46 @@ export const generatedArticles: Article[] = [
           },
           {
             "type": "paragraph",
-            "text": "Điểm khác biệt cốt lõi nằm ở việc huấn luyện độc quyền trên các chú thích JSON cấu trúc. Điều này cho phép creator điều khiển chính xác mã màu hex, tọa độ bounding-box [y_min, x_min, y_max, x_max] và định dạng văn bản đa dòng. Đây là bước tiến khổng lồ cho những ai làm poster, thiết kế đồ họa chuyên nghiệp, nơi mà sự ngẫu nhiên của AI thường là kẻ thù."
+            "text": "Song song với đó, khả năng ứng dụng thực tế của FLUX ngày càng mở rộng với tính năng Virtual Try-On (VTO), cho phép thử đồ ảo với độ chính xác cao về chất liệu và hình dáng trang phục. Điều này cho thấy AI Image đang chuyển dịch từ 'nghệ thuật trừu tượng' sang 'công cụ thương mại chính xác'."
           }
         ]
       },
       {
-        "heading": "Khi AI thoát ly khỏi Cloud: FLUX.2 on-device",
+        "heading": "Kỷ nguyên của 'Sự chính xác': ComfyUI và Workflow chuyên sâu",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Black Forest Labs đang hiện thực hóa giấc mơ 'AI cục bộ' khi đưa FLUX.2 [klein] lên các dòng laptop ASUS ProArt thông qua sự hợp tác với NVIDIA. Việc tối ưu hóa model để chạy trực tiếp trên phần cứng tiêu dùng không chỉ giải quyết bài toán chi phí API mà còn đảm bảo quyền riêng tư tuyệt đối cho các studio sáng tạo."
+            "text": "Một xu hướng nổi bật trong cộng đồng developer và creator hiện nay là nỗ lực tiêu diệt tính 'ngẫu nhiên' của AI. Trong lĩnh vực kiến trúc, nơi tỷ lệ và hình học là tuyệt đối, việc chỉ dùng prompt là không đủ. Các workshop gần đây cho thấy sự kết hợp giữa ComfyUI, ControlNet và quy trình 3 bước (Generation $\rightarrow$ Inpainting $\rightarrow$ Upscaling) cho phép kiến trúc sư kiểm soát chính xác vật liệu và không gian từ những bản phác thảo wireframe đơn giản."
           },
           {
             "type": "paragraph",
-            "text": "Song song với đó, việc ra mắt FLUX VTO (Virtual Try-On) cho thấy hướng đi thương mại hóa cực kỳ sắc bén: giải quyết bài toán thực tế trong thương mại điện tử với độ chính xác cao về trang phục và sự nhất quán của quần áo, biến AI từ công cụ 'vẽ chơi' thành công cụ tăng tỷ lệ chuyển đổi doanh số."
+            "text": "Không dừng lại ở hình ảnh, việc quản lý đầu ra (output management) cũng đang được tự động hóa. Sự xuất hiện của 'Face Likeness Gate' trong ComfyUI là một ví dụ điển hình. Thay vì phải lọc thủ công hàng nghìn ảnh để tìm ra tấm hình giống nhân vật nhất, các builder hiện nay sử dụng các node tự động so sánh ngưỡng tương đồng (likeness threshold) để phân loại ảnh 'đạt' và 'loại'. Đây chính là tư duy chuyển đổi từ 'Prompt Engineering' sang 'Workflow Engineering'."
           }
         ]
       },
       {
-        "heading": "Sự chuyên biệt hóa quy trình: Case study từ Kiến trúc",
+        "heading": "Góc nhìn phản biện: Sự đánh đổi giữa linh hoạt và chính xác",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Một hiện tượng thú vị đang diễn ra trong cộng đồng ComfyUI là việc áp dụng AI vào các ngành yêu cầu độ chính xác hình học tuyệt đối như kiến trúc. Thay vì dựa vào prompt ngẫu nhiên, các kiến trúc sư đang xây dựng workflow đa tầng: (1) Điều kiện hóa bằng ControlNet từ wireframe/SketchUp, (2) Tinh chỉnh cục bộ bằng inpainting, và (3) Nâng cấp toàn cục bằng image-to-image."
+            "text": "Dù các mô hình như Ideogram 4 được đánh giá cao về khả năng giữ cấu trúc cơ thể và chi tiết, nhưng thực tế thử nghiệm cho thấy chúng vẫn gặp khó khăn với các yêu cầu kỹ thuật khắt khe như thông số ống kính nhiếp ảnh chính xác — nơi mà FLUX Klein vẫn chiếm ưu thế. Điều này đặt ra câu hỏi: Liệu chúng ta có nên tìm kiếm một 'mô hình vạn năng' hay nên chấp nhận một hệ sinh thái đa mô hình, nơi mỗi model đảm nhận một khâu trong workflow?"
           },
           {
             "type": "paragraph",
-            "text": "Sự kết hợp giữa SDXL, Flux và ZImage trong một pipeline chặt chẽ đã chứng minh rằng AI có thể loại bỏ tính 'random' nếu người dùng làm chủ được workflow. Điều này khẳng định ComfyUI không còn là một công cụ thử nghiệm mà đã trở thành một phần của quy trình sản xuất công nghiệp."
+            "text": "Hơn nữa, việc đưa AI xuống thiết bị (on-device) dù mang lại sự tự do nhưng cũng tạo ra rào cản về phần cứng. Khi AI yêu cầu những chiếc laptop chuyên dụng đắt đỏ, khoảng cách giữa creator chuyên nghiệp và người dùng phổ thông có thể sẽ bị nới rộng."
+          }
+        ]
+      },
+      {
+        "heading": "Cơ hội cho Creator và Builder",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đối với các Developer, cơ hội nằm ở việc xây dựng các 'công cụ trung gian' (middleware) như PixlStash hay các custom node cho ComfyUI. Khi các mô hình nền tảng (Foundation Models) đã quá mạnh, giá trị sẽ chuyển sang những công cụ giúp kiểm soát, lọc và tinh chỉnh đầu ra."
+          },
+          {
+            "type": "paragraph",
+            "text": "Đối với Creator, thay vì học cách viết prompt dài dằng dặc, hãy học cách xây dựng workflow. Việc kết hợp nhiều mô hình (ví dụ: dùng Ideogram để lấy bố cục, FLUX để lấy chi tiết và ComfyUI để tinh chỉnh) sẽ tạo ra lợi thế cạnh tranh tuyệt đối về chất lượng sản phẩm."
           }
         ]
       },
@@ -473,7 +838,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Chúng ta đang chứng kiến sự phân cực rõ rệt nhưng bổ trợ cho nhau: Một bên là các 'World Models' khổng lồ như Runway hướng tới sự mô phỏng toàn diện, và một bên là các model open-weight như Ideogram 4.0 hay FLUX tập trung vào khả năng kiểm soát chi tiết và triển khai cục bộ. Đối với creator và developer, ranh giới giữa 'nghệ thuật' và 'kỹ thuật' đang mờ dần; khả năng xây dựng workflow (pipeline) giờ đây quan trọng hơn khả năng viết prompt."
+            "text": "Ngành AI tạo hình ảnh và video đang bước vào giai đoạn 'trưởng thành'. Chúng ta đang rời xa thời kỳ ngạc nhiên trước những tấm ảnh ngẫu nhiên đẹp mắt để tiến tới kỷ nguyên của sự kiểm soát, chính xác và tích hợp sâu vào phần cứng. Từ những mô phỏng thế giới của Runway đến những workflow nghiêm ngặt của ComfyUI, mục tiêu cuối cùng là biến AI thành một cây bút vẽ thực thụ trong tay nghệ sĩ, chứ không phải một chiếc hộp đen may rủi."
           }
         ]
       }
@@ -481,74 +846,76 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Vì sao đáng chú ý",
-        "text": "Việc Ideogram 4.0 open-source và FLUX.2 lên on-device đánh dấu sự kết thúc của kỷ nguyên 'phụ thuộc hoàn toàn vào API'. Quyền lực đang quay trở lại với local builder, cho phép tùy chỉnh sâu và tối ưu hóa chi phí vận hành.",
+        "text": "Sự chuyển dịch từ 'Prompting' sang 'Workflow' cho thấy AI không còn là một món đồ chơi thử nghiệm mà đang trở thành một phần của pipeline sản xuất chuyên nghiệp. Việc kiểm soát tính ngẫu nhiên là chìa khóa để AI thâm nhập vào các ngành công nghiệp khắt khe như kiến trúc và điện ảnh.",
         "variant": "analysis"
       },
       {
         "title": "Tác động",
-        "text": "Khả năng điều khiển layout bằng JSON và tọa độ chính xác sẽ biến AI thành một công cụ thiết kế thực thụ (Design Tool) thay vì chỉ là công cụ tạo ảnh (Image Generator). Điều này sẽ thay đổi cách các agency quảng cáo vận hành.",
+        "text": "Việc triển khai on-device AI (như FLUX trên ASUS) sẽ thúc đẩy một làn sóng phần cứng mới và cho phép các ứng dụng AI chạy offline, tăng tốc độ iterate cho creator lên gấp nhiều lần.",
         "variant": "impact"
       }
     ],
     "takeaway": {
       "title": "Creator / Builder Takeaway",
       "items": [
-        "Hãy chuyển từ Prompting sang Workflow Engineering: Học cách sử dụng ComfyUI để xây dựng pipeline nhiều bước thay vì kỳ vọng một prompt duy nhất ra kết quả hoàn hảo.",
-        "Tận dụng Ideogram 4.0 cho các dự án yêu cầu text chính xác và layout chặt chẽ bằng cách sử dụng cấu trúc JSON.",
-        "Theo dõi sát sao các mô hình 'World Model' của Runway để chuẩn bị cho kỷ nguyên video AI có tính vật lý và logic không gian."
+        "Ngừng tập trung vào prompt đơn lẻ, hãy bắt đầu xây dựng workflow đa tầng (Multi-stage workflow) với ComfyUI.",
+        "Theo dõi các mô hình 'World Simulator' của Runway để chuẩn bị cho kỷ nguyên video tương tác thay vì video tĩnh.",
+        "Xây dựng các công cụ hỗ trợ lọc và quản lý asset AI (như Face Likeness Gate) để tối ưu hóa quy trình sản xuất số lượng lớn."
       ]
     },
     "sources": [
       {
         "title": "AI Video Research & Innovation | Runway AI",
         "publisher": "Runway Research",
-        "url": "https://runwayml.com/research",
-        "publishedAt": "2026-06-09"
+        "url": "https://runwayml.com/research"
       },
       {
         "title": "Blog | Black Forest Labs",
         "publisher": "Black Forest Labs",
-        "url": "https://blackforestlabs.ai/blog/",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "title": "Ideogram 4.0 Just Open Sourced!",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tvttzv/ideogram_40_just_open_sourced/",
-        "publishedAt": "2026-06-03"
+        "url": "https://blackforestlabs.ai/blog/"
       },
       {
         "title": "Blog – Replicate",
         "publisher": "Replicate Blog",
-        "url": "https://replicate.com/blog",
-        "publishedAt": "2026-06-09"
+        "url": "https://replicate.com/blog"
+      },
+      {
+        "title": "ConfyUI in architectural visualization",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1u13ayk/confyui_in_architectural_visualization/"
+      },
+      {
+        "title": "Face Likeness Gate",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1u160r3/face_likeness_gate_split_generations_into/"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-06-09T13:35:49.774Z",
-      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-09",
+      "generatedAt": "2026-06-10T00:10:42.266Z",
+      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-10",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-09_en",
-    "slug": "ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-09",
+    "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-10_en",
+    "slug": "ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-10",
     "lang": "en",
     "category": "ai-image",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, r/StableDiffusion, r/comfyui, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-06-09T13:36:17.196Z",
-    "readingTime": 3,
+    "publishedAt": "2026-06-10T00:11:57.266Z",
+    "readingTime": 4,
     "sourceCount": 5,
     "tags": [
-      "AI-Video",
-      "Open-Weights",
+      "World Models",
+      "On-Device AI",
       "ComfyUI",
-      "World-Simulators",
-      "On-Device-AI"
+      "Runway AI",
+      "FLUX.2",
+      "AI-Video"
     ],
     "heroMedia": {
       "type": "image",
@@ -558,25 +925,25 @@ export const generatedArticles: Article[] = [
     },
     "highlights": [
       {
-        "text": "Ideogram 4.0 enters the open-weights arena with a 9.3B parameter model, offering unmatched text and layout control."
+        "text": "Runway AI is shifting focus toward 'World Models,' treating video as the primary modality for a new computing paradigm."
       },
       {
-        "text": "Runway AI is shifting focus toward 'world simulators,' treating video as the primary computing modality."
+        "text": "Black Forest Labs is pushing FLUX.2 onto consumer hardware via ASUS ProArt laptops, signaling a move toward on-device AI."
       },
       {
-        "text": "Black Forest Labs is pushing FLUX.2 into consumer hardware via ASUS ProArt laptops, signaling a move toward on-device AI."
+        "text": "The 'Prosumer' workflow is evolving with ComfyUI nodes that automate quality control, such as the Face Likeness Gate."
       },
       {
-        "text": "Architectural visualization is evolving from 'random' prompting to precise, multi-stage ControlNet and inpainting workflows in ComfyUI."
+        "text": "Architectural visualization is moving beyond 'prompt gambling' toward precise, iterative ControlNet-based pipelines."
       }
     ],
     "sections": [
       {
-        "heading": "Context: The Shift Toward Precision and Localism",
+        "heading": "Context: The Shift from Generation to Simulation",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The generative AI landscape is currently undergoing a critical transition from 'stochastic magic' to 'deterministic precision.' For years, creators struggled with the randomness of diffusion models, but recent releases from Black Forest Labs and Ideogram indicate a strategic pivot. Ideogram 4.0, now an open-weight 9.3B parameter model, has introduced a level of layout control previously reserved for closed APIs, utilizing structured JSON prompting for hex codes and bounding-box layouts (src_reddit-comfyui_f4f210edfd02adc0). Simultaneously, the industry is moving the compute closer to the creator. Black Forest Labs' partnership with ASUS and NVIDIA to ship FLUX.2 [klein] on ProArt laptops marks a significant milestone: the transition of high-fidelity visual intelligence from the cloud to consumer hardware (src_black-forest-labs_db0e6d09e99dbd6f)."
+            "text": "The current landscape of generative AI is transitioning from simple content creation—generating a clip or an image—to the development of complex world simulators. Runway Research has explicitly stated their goal is to build 'general-purpose multimodal simulators of the world,' suggesting that video, supplemented by text and audio, will form the next paradigm of computing. This is evidenced by their work on Autoregressive-to-Diffusion (A2D) Vision Language Models, which aim to optimize the speed-quality trade-off by adapting existing pretrained models for parallel diffusion decoding. Meanwhile, xAI's Grok Imagine Video 1.5 is pushing the boundaries of synchronized audio and complex motion, further blurring the line between a 'video generator' and a 'scene simulator' (Replicate Blog)."
           },
           {
             "type": "media",
@@ -591,11 +958,11 @@ export const generatedArticles: Article[] = [
         ]
       },
       {
-        "heading": "Deep Analysis: From Image Generators to World Simulators",
+        "heading": "Deep Analysis: The Democratization of High-End Weights",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Runway AI's latest research trajectory suggests that the goal is no longer just 'video generation' but the creation of 'general-purpose multimodal simulators of the world' (src_runway-research_4c72ae34dd32cd2b). This is a fundamental shift in philosophy. While traditional models treat video as a sequence of frames, a world simulator understands physics, spatial consistency, and temporal logic. Runway's development of Autoregressive-to-Diffusion (A2D) models aims to bridge the gap between the speed of autoregressive models and the quality of diffusion, creating a more fluid interface between text, audio, and video."
+            "text": "A critical trend emerging in mid-2026 is the movement of heavyweight models from the cloud to the edge. Black Forest Labs' partnership with ASUS and NVIDIA to ship FLUX.2 [klein] optimized for ProArt laptops marks a pivotal moment. For creators, this removes the latency and cost barriers of API-based generation and introduces a level of privacy and local control previously reserved for smaller, less capable models. This 'on-device' shift allows for more aggressive experimentation and iterative workflows that would be prohibitively expensive or slow via cloud endpoints."
           },
           {
             "type": "media",
@@ -609,16 +976,20 @@ export const generatedArticles: Article[] = [
           },
           {
             "type": "paragraph",
-            "text": "This trend is mirrored in the open-source community's adoption of ComfyUI. The ability to chain specific nodes—such as Kijai's Prompt Builder or SilverOxide's workflows—allows creators to treat AI as a pipeline rather than a slot machine. In architectural visualization, this is manifesting as a three-stage iterative process: ControlNet conditioning for geometry, inpainting for local refinement, and image-to-image upscaling for global enhancement (src_reddit-comfyui_5f0009fd3c5c222e). The result is a workflow where the architect, not the model, maintains agency over the final output."
+            "text": "However, the transition to local hardware creates a performance gap. User reports from r/StableDiffusion indicate that while models like Ideogram 4 deliver consistent anatomy and detail, they may struggle with the precise photographic lens replication that specialized models like Flux Klein and Zib handle with ease. This suggests that the future of the industry isn't a 'one model to rule them all' scenario, but rather a modular ecosystem where creators swap models based on the specific technical requirements of the shot."
           }
         ]
       },
       {
-        "heading": "Critical Perspective: The 'Open' Weight Paradox",
+        "heading": "Critical Perspective: Solving the 'Randomness' Problem",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The release of Ideogram 4.0 as an open-weight model is a disruptive event, but it highlights a growing tension in the AI ecosystem. By providing nf4 checkpoints that fit on a single 24GB GPU, Ideogram is democratizing high-end graphic design capabilities (src_reddit-comfyui_f4f210edfd02adc0). However, the reliance on complex JSON prompting and specialized ComfyUI nodes suggests that while the *weights* are open, the *expertise* required to use them is becoming more specialized. We are seeing the emergence of a 'technical creative' class—users who are as comfortable with JSON and node-based logic as they are with composition and color theory."
+            "text": "The most significant friction point for professional creators has always been the 'slot machine' nature of AI: prompting and hoping for a usable result. We are seeing a systemic effort to replace randomness with precision. In architectural visualization, practitioners are now utilizing a three-stage iterative process in ComfyUI: initial ControlNet conditioning, local inpainting for refinement, and global image-to-image upscaling. This workflow transforms AI from a 'concept generator' into a 'production tool' capable of adhering to strict project programs and geometric proportions."
+          },
+          {
+            "type": "paragraph",
+            "text": "Furthermore, the emergence of 'automated culling' tools, such as the Face Likeness Gate for ComfyUI, addresses the scalability of character consistency. By using a likeness threshold to automatically split generations into 'accepted' and 'rejected' streams, developers are effectively building a quality-assurance layer into the generative pipeline. This reduces the cognitive load on the artist, shifting their role from 'manual sorter' to 'creative director.'"
           }
         ]
       },
@@ -627,11 +998,11 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "For developers and creators, the current signal is clear: build for precision and local integration. The success of FLUX.2 on ASUS hardware suggests a massive opportunity for apps that leverage local NPU/GPU power to avoid API latency and costs. Furthermore, the move toward structured JSON prompting in Ideogram 4.0 opens the door for 'Prompt Engineering' to evolve into 'Prompt Programming.' Builders can now create tools that programmatically generate bounding boxes and color palettes, effectively turning text-to-image models into layout engines for professional graphic design."
+            "text": "For developers, the opportunity lies in the 'glue' between models. The success of I2T2I (Image-to-Text-to-Image) workflows—where hyper-detailed prompts are extracted from images to blend with new ideas—shows a demand for sophisticated prompt-engineering middleware. There is a massive gap in the market for tools that can translate visual intent into the precise technical language required by high-end models like FLUX or Ideogram."
           },
           {
             "type": "paragraph",
-            "text": "In the video space, the emergence of models like Grok Imagine Video 1.5, which synchronizes audio and video in a single pass (src_replicate-blog_572c1f4ac9c0ea5c), suggests that the next wave of content will be 'holistic.' Creators should stop thinking in terms of 'video first, audio second' and start experimenting with multimodal prompts that define the sonic and visual atmosphere simultaneously."
+            "text": "For creators, the opportunity is in 'Hybrid Pipelines.' The ability to combine the spatial control of ControlNet, the aesthetic consistency of LoRAs, and the automated filtering of nodes like PixlStash allows for the creation of professional-grade assets (like virtual try-ons at scale, as seen with FLUX VTO) that were impossible six months ago."
           }
         ]
       },
@@ -640,7 +1011,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The convergence of open-weight power (Ideogram 4.0), on-device optimization (FLUX.2), and world-simulation research (Runway) is stripping away the 'randomness' of AI. We are entering an era of professional-grade generative tools where the barrier is no longer the model's capability, but the creator's ability to architect a precise workflow. Whether it is an architect using ComfyUI to preserve geometric proportions or a designer using JSON to lock a layout, the future of AI creativity is deterministic, local, and deeply integrated."
+            "text": "The trajectory of AI video and image research is moving away from the 'magic' of the first generation and toward the 'utility' of a professional workstation. Whether it is Runway's vision of world simulators or Black Forest Labs' push for on-device execution, the goal is the same: predictability, precision, and performance. The winners in this next phase will not be those with the largest models, but those who build the most efficient workflows to tame them."
           }
         ]
       }
@@ -648,22 +1019,21 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Why This Matters",
-        "text": "The shift from cloud-only APIs to on-device models (like FLUX.2 on ASUS) and open weights (Ideogram 4.0) removes the 'gatekeeper' from the creative process. This allows for iterative, private, and high-speed workflows that are essential for professional industries like architecture and advertising.",
+        "text": "The shift toward 'World Models' means AI is no longer just predicting pixels, but understanding the underlying physics and logic of a scene. This is the prerequisite for true interactive media and high-fidelity cinema.",
         "variant": "analysis"
       },
       {
         "title": "Impact",
-        "text": "The introduction of structured JSON prompting and bounding-box control transforms AI from a 'suggestion engine' into a 'production tool.' This reduces the time spent on 'prompt gambling' and increases the viability of AI in commercial pipelines where precision is non-negotiable.",
+        "text": "On-device AI (FLUX.2 on ASUS) eliminates the 'API tax' and enables a new class of local-first creative software that can operate with zero latency and total privacy.",
         "variant": "impact"
       }
     ],
     "takeaway": {
       "title": "Creator / Builder Takeaway",
       "items": [
-        "Adopt node-based workflows (ComfyUI) to move from single-prompt generation to multi-stage iterative pipelines.",
-        "Experiment with structured JSON prompting and bounding-box layouts in Ideogram 4.0 for precise graphic design.",
-        "Prioritize local hardware optimization (NVIDIA/ASUS) to leverage on-device models for faster, private iteration.",
-        "Explore multimodal video tools that handle audio and visual synchronization in a single pass to increase production speed."
+        "Move beyond simple prompting: Implement iterative pipelines (ControlNet → Inpainting → Upscaling) to achieve professional precision.",
+        "Invest in local hardware: The shift toward on-device models like FLUX.2 Klein makes high-VRAM laptops a critical production asset.",
+        "Automate the 'Cull': Integrate likeness gates and automated sorting nodes to handle large batch generations without manual fatigue."
       ]
     },
     "sources": [
@@ -671,388 +1041,58 @@ export const generatedArticles: Article[] = [
         "title": "AI Video Research & Innovation | Runway AI",
         "publisher": "Runway Research",
         "url": "https://runwayml.com/research",
-        "publishedAt": "2026-06-09"
+        "publishedAt": "2026-06-10"
       },
       {
         "title": "Blog | Black Forest Labs",
         "publisher": "Black Forest Labs",
         "url": "https://blackforestlabs.ai/blog/",
-        "publishedAt": "2026-06-09"
+        "publishedAt": "2026-06-10"
       },
       {
         "title": "Blog – Replicate",
         "publisher": "Replicate Blog",
         "url": "https://replicate.com/blog",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "title": "Ideogram 4.0 Just Open Sourced!",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1tvttzv/ideogram_40_just_open_sourced/",
-        "publishedAt": "2026-06-03"
+        "publishedAt": "2026-06-10"
       },
       {
         "title": "ConfyUI in architectural visualization",
         "publisher": "r/comfyui",
         "url": "https://www.reddit.com/r/comfyui/comments/1u13ayk/confyui_in_architectural_visualization/",
         "publishedAt": "2026-06-09"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-06-09T13:36:17.196Z",
-      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-09",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_1_siri-ai-at-wwdc-2026_2026-06-09_vi",
-    "slug": "siri-ai-at-wwdc-2026-goc-nhin-cho-creator-va-builder-2026-06-09",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "title": "Siri AI at WWDC 2026: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-06-09T13:35:49.457Z",
-    "readingTime": 4,
-    "sourceCount": 4,
-    "tags": [
-      "SiriAI",
-      "VibeCoding",
-      "VisionLLM",
-      "WebAssembly",
-      "AppleIntelligence"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png",
-      "alt": "Siri AI at WWDC 2026: góc nhìn cho creator và builder",
-      "caption": "Tín hiệu được tổng hợp từ r/comfyui, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn."
-    },
-    "highlights": [
-      {
-        "text": "Siri AI 2026 chuyển dịch sang mô hình agentic, sử dụng Vision LLMs để đọc màn hình thay vì yêu cầu API tùy chỉnh từ mọi ứng dụng."
       },
       {
-        "text": "Apple hợp tác với Google và NVIDIA để mở rộng Private Cloud Compute (PCC) sang Google Cloud, tối ưu cho các tác vụ suy luận phức tạp."
-      },
-      {
-        "text": "Xu hướng 'Vibe Coding' lên ngôi với sự hỗ trợ của các agent như Replit Agent 4, cho phép xây dựng app từ ngôn ngữ tự nhiên."
-      },
-      {
-        "text": "Sự trỗi dậy của các giải pháp sandbox an toàn (như MicroPython-WASM) để thực thi mã do AI tạo ra mà không rủi ro bảo mật."
-      }
-    ],
-    "sections": [
-      {
-        "heading": "Bối cảnh: Bước ngoặt của Siri và Apple Intelligence",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Tại WWDC 2026, Apple đã trình làng một phiên bản Siri AI không còn là những câu trả lời rập khuôn. Thay vì dựa vào các tích hợp thủ công từ nhà phát triển, Siri giờ đây tận dụng Vision LLMs để trích xuất thông tin trực tiếp từ màn hình người dùng. Điều này giải quyết bài toán hóc búa về khả năng tương thích: Siri có thể hiểu và tương tác với bất kỳ ứng dụng nào mà không cần ứng dụng đó phải viết code tích hợp riêng biệt."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png",
-            "alt": "Replit — Replit Blog – Product updates from the team",
-            "caption": "Replit — Replit Blog – Product updates from the team — Replit Blog",
-            "credit": "Replit Blog",
-            "sourceUrl": "https://blog.replit.com/",
-            "placement": "after-paragraph"
-          },
-          {
-            "type": "paragraph",
-            "text": "Điểm đáng chú ý là Apple không tự làm tất cả. Họ đã cấp phép một mô hình tùy chỉnh dựa trên Gemini, chạy trên hạ tầng Private Cloud Compute (PCC). Để đáp ứng các tác vụ agentic và suy luận phức tạp, Apple thậm chí đã mở rộng PCC sang Google Cloud, sử dụng GPU của NVIDIA nhưng vẫn duy trì các lớp bảo mật nghiêm ngặt của Apple."
-          }
-        ]
-      },
-      {
-        "heading": "Phân tích chi tiết: Từ 'Coding' sang 'Vibe Coding'",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Chúng ta đang chứng kiến sự chuyển dịch từ việc viết code truyền thống sang 'Vibe Coding'—nơi ý tưởng và cảm xúc (vibe) dẫn dắt quá trình tạo ra sản phẩm. Replit Agent 4 là một minh chứng điển hình, cho phép người dùng thiết kế và triển khai toàn bộ storefront Shopify chỉ thông qua hội thoại. AI không chỉ gợi ý dòng code, nó thực hiện toàn bộ quy trình từ frontend, tạo store đến thêm sản phẩm."
-          },
-          {
-            "type": "paragraph",
-            "text": "Tuy nhiên, quyền năng này đi kèm với rủi ro. Khi AI có thể tự viết và thực thi code, vấn đề bảo mật trở nên sống còn. Simon Willison đã chỉ ra giải pháp thông qua việc sử dụng WebAssembly (WASM) với MicroPython. Bằng cách chạy code trong một sandbox WASM, các developer có thể cho phép AI thực thi tác vụ mà không lo lắng về việc rò rỉ dữ liệu hay crash hệ thống, vì mọi tài nguyên CPU và bộ nhớ đều được kiểm soát chặt chẽ."
-          }
-        ]
-      },
-      {
-        "heading": "Góc nhìn phản biện: Niềm tin và Sự thực thi",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Dù những demo tại WWDC trông rất hứa hẹn, cộng đồng developer vẫn giữ thái độ thận trọng. Bài học từ WWDC 2024 cho thấy khoảng cách giữa 'demo' và 'thực tế' của Apple thường rất lớn. Việc phụ thuộc vào mô hình Gemini của Google và hạ tầng NVIDIA cho các tác vụ nặng đặt ra câu hỏi về tính độc lập và quyền riêng tư tuyệt đối mà Apple luôn quảng bá."
-          },
-          {
-            "type": "paragraph",
-            "text": "Ngoài ra, việc OpenAI ra mắt 'Lockdown Mode' để ngăn chặn exfiltration (rò rỉ dữ liệu) từ prompt injection cho thấy một thực tế phũ phàng: các hệ thống LLM mặc định hiện nay vẫn chưa đủ an toàn để xử lý dữ liệu nhạy cảm mà không có các lớp bảo vệ deterministic (định sẵn), thay vì tin tưởng hoàn toàn vào AI."
-          }
-        ]
-      },
-      {
-        "heading": "Cơ hội cho Creator / Builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Đối với các builder, kỷ nguyên Siri AI 2026 mở ra cơ hội xây dựng các 'Agentic Workflows'. Thay vì xây dựng app tĩnh, hãy tập trung vào việc tạo ra các giá trị mà Vision LLM có thể dễ dàng nhận diện và tương tác. Việc tích hợp Core AI PyTorch Extensions cũng cho phép các developer tận dụng tối đa phần cứng Apple để chạy mô hình riêng."
-          },
-          {
-            "type": "paragraph",
-            "text": "Đồng thời, việc áp dụng các kiến trúc sandbox như WASM sẽ là lợi thế cạnh tranh. Khi bạn xây dựng một công cụ cho phép người dùng cuối 'vibe code', khả năng đảm bảo an toàn cho hệ thống thông qua sandbox sẽ là yếu tố quyết định để sản phẩm có thể scale lên mức enterprise."
-          }
-        ]
-      },
-      {
-        "heading": "Kết luận",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Sự giao thoa giữa Vision AI, Agentic LLMs và hạ tầng Cloud hiện đại đang xóa nhòa ranh giới giữa người dùng và lập trình viên. Siri AI không chỉ là một trợ lý, nó là một lớp điều phối (orchestration layer) mới cho hệ sinh thái ứng dụng. Để tồn tại và phát triển, các creator cần chuyển dịch tư duy từ 'xây dựng tính năng' sang 'thiết kế trải nghiệm cho AI Agent'."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Việc Apple sử dụng Vision LLM để 'đọc' màn hình là một bước đi chiến lược. Nó loại bỏ rào cản gia nhập của các app nhỏ lẻ vào hệ sinh thái AI, đồng thời biến toàn bộ UI của ứng dụng thành một API mà AI có thể hiểu được.",
-        "variant": "analysis"
-      },
-      {
-        "title": "Tác động",
-        "text": "Vibe Coding sẽ dân chủ hóa việc tạo phần mềm, nhưng đồng thời tạo ra áp lực khổng lồ lên các tiêu chuẩn bảo mật. Sandbox (WASM) sẽ trở thành tiêu chuẩn bắt buộc cho mọi ứng dụng cho phép AI thực thi code.",
-        "variant": "impact"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Thử nghiệm Core AI PyTorch Extensions để tối ưu hóa mô hình trên phần cứng Apple.",
-        "Triển khai cơ chế Sandbox (như micropython-wasm) nếu ứng dụng có tính năng AI-generated code.",
-        "Thiết kế UI/UX theo hướng 'AI-readable' để tối ưu hóa khả năng tương tác với Vision LLMs của Siri."
-      ]
-    },
-    "sources": [
-      {
-        "title": "Siri AI at WWDC 2026",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "title": "Running Python code in a sandbox with MicroPython and WASM",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
-        "publishedAt": "2026-06-06"
-      },
-      {
-        "title": "OpenAI Help: Lockdown Mode",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
-        "publishedAt": "2026-06-05"
-      },
-      {
-        "title": "Replit Blog",
-        "publisher": "Replit",
-        "url": "https://blog.replit.com/",
-        "publishedAt": "2026-06-09"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-06-09T13:35:49.457Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_1_siri-ai-at-wwdc-2026_2026-06-09",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_1_siri-ai-at-wwdc-2026_2026-06-09_en",
-    "slug": "siri-ai-at-wwdc-2026-creator-and-builder-analysis-2026-06-09",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "title": "Siri AI at WWDC 2026: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/comfyui, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-06-09T13:36:39.376Z",
-    "readingTime": 3,
-    "sourceCount": 4,
-    "tags": [
-      "apple-intelligence",
-      "vision-llms",
-      "vibe-coding",
-      "core-ai",
-      "ai-agents"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png",
-      "alt": "Siri AI at WWDC 2026: creator and builder analysis",
-      "caption": "Signal synthesized from r/comfyui, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability."
-    },
-    "highlights": [
-      {
-        "text": "Apple leverages vision LLMs to extract screen data, bypassing the need for individual app developers to write custom integration code."
-      },
-      {
-        "text": "Siri AI utilizes a custom Gemini-derived model running on a hybrid infrastructure of Apple's Private Cloud Compute and Google Cloud/NVIDIA GPUs."
-      },
-      {
-        "text": "The new Core AI library bridges PyTorch and Apple hardware, enabling developers to deploy open-source models more efficiently."
-      },
-      {
-        "text": "The rise of 'vibe coding' is accelerating, with tools like Replit Agent 4 and micropython-wasm allowing rapid, agent-led prototyping."
-      }
-    ],
-    "sections": [
-      {
-        "heading": "Context: The New Siri Architecture",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "At WWDC 2026, Apple unveiled a fundamental shift in how Siri interacts with the OS. Rather than relying on a fragmented ecosystem of app-specific APIs, the new Siri AI utilizes vision LLMs to 'see' and extract information directly from the user's screen. As noted by Simon Willison, this approach neatly sidesteps the requirement for every third-party application to ship custom code for Apple Intelligence integration, effectively treating the UI as the primary API."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png",
-            "alt": "Replit — Replit Blog – Product updates from the team",
-            "caption": "Replit — Replit Blog – Product updates from the team — Replit Blog",
-            "credit": "Replit Blog",
-            "sourceUrl": "https://blog.replit.com/",
-            "placement": "after-paragraph"
-          },
-          {
-            "type": "paragraph",
-            "text": "Under the hood, Apple has moved toward a hybrid model. While maintaining their commitment to privacy via Private Cloud Compute (PCC), they have partnered with Google and NVIDIA to extend this infrastructure. For complex reasoning and agentic tool-use, Apple is licensing a custom Gemini-derived model that runs on NVIDIA GPUs within Google Cloud, while utilizing architectural security patterns—such as dedicated namespaces and attested keys—to maintain privacy protections."
-          }
-        ]
-      },
-      {
-        "heading": "Deep Analysis: The Shift to Vision-Based Integration",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The decision to use vision LLMs for screen understanding is a strategic pivot. In previous iterations of 'intelligent' assistants, the bottleneck was always the developer: for Siri to perform a complex action in a third-party app, that app needed to expose a specific intent or API. By shifting the intelligence to the 'vision' layer, Apple is decoupling the AI's capability from the app's willingness to cooperate."
-          },
-          {
-            "type": "paragraph",
-            "text": "This creates a 'universal interface' where the AI interprets the visual state of the application to determine the next action. While this reduces friction for the user and the developer, it places an immense burden on the model's accuracy. However, the maturity of vision LLMs in 2026 far exceeds that of 2024, making this a feasible path toward true agentic behavior on the desktop and mobile."
-          }
-        ]
-      },
-      {
-        "heading": "Critical Perspective: The 'Vibe Coding' Paradox",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Parallel to Apple's infrastructure shifts is the rise of 'vibe coding'—a style of development where high-level intent is translated into functional code by agents. Replit's Agent 4 and the emergence of tools like micropython-wasm illustrate a trend where the 'barrier to entry' for building production-ready apps is collapsing. Developers are now acting more as curators and architects than line-by-line coders."
-          },
-          {
-            "type": "paragraph",
-            "text": "However, this speed introduces significant security risks. Simon Willison's experiment with a 'vibe-coded' sandbox using MicroPython and WebAssembly highlights the tension: we can now build complex security infrastructure (like a code execution sandbox) using AI in a fraction of the time, but the resulting code is often 'alpha' and requires rigorous testing to ensure it doesn't leak data or crash. The reliance on AI to build the very tools that secure AI is a recursive risk that developers must manage."
-          }
-        ]
-      },
-      {
-        "heading": "Opportunities for Creators / Builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "For developers, the introduction of the Core AI library is a major win. By bridging the PyTorch ecosystem with Apple's hardware through the `coreai-torch` package, builders can now bring existing PyTorch models into an `AIProgram` ready for Apple silicon. This lowers the friction for shipping local, high-performance AI features without needing to rewrite models from scratch."
-          },
-          {
-            "type": "paragraph",
-            "text": "Furthermore, the shift toward vision-based AI means creators should focus less on 'API surface area' and more on 'UI clarity.' If the primary way an AI interacts with your app is by seeing the screen, a clean, predictable, and logically structured UI becomes a functional requirement for AI compatibility."
-          }
-        ]
-      },
-      {
-        "heading": "Conclusion",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The announcements from WWDC 2026 and the surrounding ecosystem of agentic tools signal a move toward a more fluid, visual, and agent-driven computing environment. Apple's willingness to partner with Google and NVIDIA for the heavy lifting of LLM reasoning, combined with a vision-first approach to app integration, suggests a future where the OS is no longer just a launcher for apps, but an intelligent layer that orchestrates them."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "Apple's move to vision-based screen extraction fundamentally changes the 'contract' between app developers and the OS. It moves the power of integration from the app developer to the OS provider, potentially accelerating the adoption of AI agents across millions of legacy apps.",
-        "variant": "analysis"
-      },
-      {
-        "title": "Impact",
-        "text": "The convergence of 'vibe coding' (Replit Agent 4) and hardware-accelerated local AI (Core AI) means the cycle from 'idea' to 'deployed AI app' has shrunk from months to hours, drastically increasing the volume of experimental software entering the market.",
-        "variant": "impact"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Optimize your app's UI for visual clarity; vision LLMs are becoming the primary way AI agents interact with software.",
-        "Experiment with the Core AI PyTorch extensions to port existing models to Apple hardware for lower latency and better privacy.",
-        "When using agent-generated code for security-critical tasks (like sandboxing), implement deterministic checks and 'fuel' limits to prevent resource exhaustion."
-      ]
-    },
-    "sources": [
-      {
-        "title": "Siri AI at WWDC 2026",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "title": "Running Python code in a sandbox with MicroPython and WASM",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
-        "publishedAt": "2026-06-06"
-      },
-      {
-        "title": "Replit Blog",
-        "publisher": "Replit",
-        "url": "https://blog.replit.com/",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "title": "GitHub Copilot Archives",
-        "publisher": "GitHub",
-        "url": "https://github.blog/tag/github-copilot/",
+        "title": "Face Likeness Gate",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1u160r3/face_likeness_gate_split_generations_into/",
         "publishedAt": "2026-06-09"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-06-09T13:36:39.376Z",
-      "sourceClusterId": "cluster_ai-vibe-coding_1_siri-ai-at-wwdc-2026_2026-06-09",
+      "generatedAt": "2026-06-10T00:11:57.266Z",
+      "sourceClusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-10",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-video_1_kling-ai_2026-06-09_vi",
-    "slug": "kling-ai-goc-nhin-cho-creator-va-builder-2026-06-09",
+    "id": "cluster_ai-video_1_kling-ai_2026-06-10_vi",
+    "slug": "kling-ai-goc-nhin-cho-creator-va-builder-2026-06-10",
     "lang": "vi",
     "category": "ai-video",
     "title": "Kling AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, r/aivideo, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-06-09T13:35:57.769Z",
+    "publishedAt": "2026-06-10T00:10:39.914Z",
     "readingTime": 5,
     "sourceCount": 3,
     "tags": [
       "Kling AI",
       "AI Video",
       "Native 4K",
-      "Cinematic AI",
-      "Content Creation"
+      "AI Direction",
+      "Generative AI"
     ],
     "heroMedia": {
       "type": "image",
@@ -1062,25 +1102,25 @@ export const generatedArticles: Article[] = [
     },
     "highlights": [
       {
-        "text": "Kling AI ra mắt mô hình video 4K native đầu tiên trên thế giới, xóa bỏ ranh giới giữa AI video và sản xuất công nghiệp."
+        "text": "Kling AI ra mắt mô hình video 4K bản địa (Native 4K) đầu tiên trên thế giới, xóa bỏ ranh giới giữa AI video và sản xuất điện ảnh chuyên nghiệp."
       },
       {
-        "text": "Hệ thống điều khiển camera (Push, Pull, Pan, Tilt) cho phép creator can thiệp sâu vào ngôn ngữ điện ảnh."
+        "text": "Sự dịch chuyển từ 'Upscaling' sang 'Native Generation' giúp cải thiện độ chi tiết và tính nhất quán của hình ảnh trong các video thương mại và quảng cáo."
       },
       {
-        "text": "Sự trỗi dậy của các giải thưởng cộng đồng như AI Video Awards 2026 cho thấy sự trưởng thành của hệ sinh thái sáng tạo AI."
+        "text": "Hệ sinh thái AI Video đang trưởng thành với sự xuất hiện của AI Video Awards 2026, thu hút hơn 56.000 tác phẩm tham dự."
       },
       {
-        "text": "Xu hướng dịch chuyển từ 'video ngắn ngẫu nhiên' sang 'sản xuất nội dung có cấu trúc' (phim ngắn, quảng cáo, TV show)."
+        "text": "Kiểm soát camera (Push, Pull, Pan, Tilt) và trọng số prompt (Prompt Weighting) trở thành những kỹ năng then chốt cho AI Director."
       }
     ],
     "sections": [
       {
-        "heading": "Cuộc cách mạng Native 4K và Tiêu chuẩn Công nghiệp",
+        "heading": "Cuộc cách mạng Native 4K: Khi AI chạm ngưỡng công nghiệp",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Trong một thời gian dài, video AI thường bị giới hạn ở độ phân giải thấp và phải dựa vào các công cụ upscaling (nâng cấp ảnh) bên thứ ba để đạt được chất lượng HD. Tuy nhiên, Kling AI đã tạo ra một bước ngoặt khi giới thiệu mô hình video 4K native đầu tiên. Điểm khác biệt cốt lõi nằm ở chỗ video được tạo ra trực tiếp ở độ phân giải cao thay vì nội suy điểm ảnh, giúp duy trì độ chi tiết sắc nét và giảm thiểu các artifact (lỗi hình ảnh) thường thấy khi upscale."
+            "text": "Trong một thời gian dài, khái niệm '4K' trong AI video thực chất chỉ là quá trình Upscaling (phóng đại) từ một độ phân giải thấp hơn, dẫn đến hiện tượng mờ nhòe hoặc mất chi tiết khi soi kỹ. Tuy nhiên, bước đi mới nhất của Kling AI với mô hình Native 4K đã thay đổi cuộc chơi. Việc tạo ra video 4K ngay từ bước khởi tạo (native generation) cho phép các nhà làm phim và agency quảng cáo đạt được chất lượng hình ảnh sắc nét, chuẩn công nghiệp mà không cần qua các bước hậu kỳ phức tạp."
           },
           {
             "type": "media",
@@ -1094,46 +1134,46 @@ export const generatedArticles: Article[] = [
           },
           {
             "type": "paragraph",
-            "text": "Khả năng này không chỉ là một nâng cấp về thông số kỹ thuật mà là một lời tuyên bố về tham vọng tiến vào phân khúc sản xuất công nghiệp. Từ quảng cáo thương mại điện tử cho đến các dự án phim ngắn, việc có native 4K cho phép các studio AI tích hợp sản phẩm của họ vào quy trình hậu kỳ chuyên nghiệp mà không làm giảm chất lượng hình ảnh, đáp ứng khắt khe tiêu chuẩn trình chiếu trên các màn hình lớn."
+            "text": "Sự khác biệt này không chỉ nằm ở số lượng pixel, mà là ở khả năng duy trì cấu trúc vật lý và chi tiết bề mặt. Đối với các video thương mại điện tử (E-commerce), việc hiển thị rõ chất liệu sản phẩm ở độ phân giải 4K bản địa giúp tăng tỷ lệ chuyển đổi và niềm tin của khách hàng, điều mà các công cụ upscale truyền thống thường làm hỏng do tạo ra các chi tiết 'giả' hoặc biến dạng."
           }
         ]
       },
       {
-        "heading": "Từ 'Prompting' đến 'Directing': Sự tiến hóa của quyền kiểm soát",
+        "heading": "Từ Prompt đơn giản đến Tư duy Đạo diễn (AI Direction)",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Nếu như giai đoạn đầu của AI video là cuộc chơi của 'xổ số prompt' (viết và hy vọng kết quả ra đúng), thì Kling AI đang chuyển dịch người dùng sang vai trò của một Đạo diễn (Director). Việc ra mắt các tính năng Camera Control (Push, Pull, Pan, Tilt) cho phép creator chỉ định chính xác chuyển động của ống kính. Điều này cực kỳ quan trọng trong kể chuyện bằng hình ảnh, nơi một cú 'Push-in' có thể tạo ra sự kịch tính hoặc một cú 'Pan' có thể mở rộng không gian bối cảnh."
+            "text": "Kling AI không còn chỉ là một 'hộp đen' nhập văn bản và nhận kết quả. Nền tảng này đang cung cấp một bộ công cụ điều khiển chi tiết, biến creator thành một đạo diễn thực thụ. Việc ra mắt các tính năng Camera Control (Push, Pull, Pan, Tilt) cho phép người dùng kiểm soát góc nhìn, tạo ra những cú máy cinematic chuyên nghiệp thay vì phụ thuộc vào sự ngẫu nhiên của AI."
           },
           {
             "type": "paragraph",
-            "text": "Bên cạnh đó, Kling AI còn cung cấp các hướng dẫn chuyên sâu về Prompt Weighting (trọng số từ khóa) và AI Director Style, cho phép tái hiện phong cách của những đạo diễn nổi tiếng như Wes Anderson. Điều này cho thấy AI không còn chỉ tạo ra hình ảnh 'đẹp', mà đang học cách hiểu 'ngôn ngữ điện ảnh' — bao gồm ánh sáng volumetric, giờ vàng (golden hour) và nhịp độ chuyển động."
+            "text": "Đặc biệt, cơ chế 'Prompt Weighting' (Trọng số Prompt) là một bước tiến quan trọng. Nó cho phép người dùng ưu tiên các từ khóa cụ thể, giải quyết bài toán 'quên' chi tiết thường gặp trong các video dài. Khi kết hợp với khả năng tạo video lên đến 10 giây (Long Video Prompts), các creator giờ đây có thể xây dựng những phân cảnh có cốt truyện rõ ràng, từ phong cách đối xứng của Wes Anderson đến không khí u ám của phim kinh dị với sự điều phối ánh sáng volumetric và golden hour."
           }
         ]
       },
       {
-        "heading": "Hệ sinh thái cộng đồng và Sự công nhận chuyên môn",
+        "heading": "Sự trỗi dậy của cộng đồng và 'Nền kinh tế AI Video'",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Sự phát triển của công cụ luôn đi đôi với sự phát triển của văn hóa sử dụng. Sự kiện AI Video Awards 2026 trên r/aivideo với hơn 56.000 bài dự thi là một minh chứng cho quy mô khổng lồ của cộng đồng này. Đáng chú ý, các hạng mục giải thưởng không còn dừng lại ở 'Video ấn tượng nhất' mà đã phân hóa rõ rệt thành: Music Video, TV Ad, TV Show, Movie Trailer và Movie of the Year."
+            "text": "Sự phát triển của công nghệ luôn đi kèm với sự hình thành của văn hóa. AI Video Awards 2026 với hơn 56.000 bài dự thi là minh chứng cho thấy AI video đã thoát ly khỏi những clip ngắn 'vui mắt' để tiến tới những tác phẩm nghệ thuật có cấu trúc. Sự hợp tác giữa các nền tảng như Kling AI, Minimax và Domo AI trong việc tổ chức sự kiện này cho thấy một hệ sinh thái đang cộng sinh mạnh mẽ."
           },
           {
             "type": "paragraph",
-            "text": "Việc các nền tảng như Kling AI, Minimax và Domo AI trực tiếp hợp tác trong việc sản xuất lễ trao giải cho thấy một chiến lược cộng sinh: Các công ty cung cấp công cụ (Tool-makers) đang tìm cách gắn kết chặt chẽ với những người tạo ra nội dung viral (Creators) để định hình tiêu chuẩn thẩm mỹ cho thế hệ video tiếp theo."
+            "text": "Nhìn vào danh sách đề cử, chúng ta thấy sự phân hóa rõ rệt trong các thể loại: từ Music Video, TV Ad cho đến Movie Trailer. Điều này cho thấy AI không còn là một công cụ hỗ trợ mà đang trở thành phương tiện sản xuất chính. Việc cộng đồng r/aivideo sử dụng hệ thống upvote để chọn người chiến thắng thay vì một hội đồng giám khảo cho thấy tính dân chủ và tốc độ lan truyền khủng khiếp của nội dung AI."
           }
         ]
       },
       {
-        "heading": "Góc nhìn phản biện: Thách thức của sự hoàn hảo",
+        "heading": "Góc nhìn phản biện: Rào cản giữa 'Viral' và 'Giá trị'",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Mặc dù Native 4K và Camera Control mang lại quyền lực lớn, nhưng nó cũng đặt ra thách thức về 'sự đồng nhất' (consistency). Trong một bộ phim ngắn, việc duy trì nhân vật và bối cảnh giống hệt nhau qua nhiều shot quay 4K vẫn là một bài toán khó. Hơn nữa, khi AI có thể mô phỏng hoàn hảo các phong cách điện ảnh, ranh giới giữa sự sáng tạo thực thụ và việc 'copy-paste' phong cách của các đạo diễn danh tiếng trở nên mong manh hơn bao giờ hết."
+            "text": "Mặc dù Native 4K và các công cụ điều khiển camera mang lại tiềm năng lớn, nhưng một vấn đề nhức nhối vẫn tồn tại: Sự bão hòa của những nội dung 'mind-blowing' nhưng thiếu chiều sâu. Nhiều tác phẩm tại AI Video Awards 2026 dù gây ấn tượng mạnh về thị giác nhưng lại rơi vào cái bẫy của sự kỳ quặc (weirdness) để thu hút lượt xem. Khi công cụ trở nên quá dễ dàng, ranh giới giữa một 'tác phẩm điện ảnh AI' và một 'clip demo công nghệ' trở nên mong manh."
           },
           {
             "type": "paragraph",
-            "text": "Ngoài ra, sự bùng nổ của nội dung AI video dễ dẫn đến tình trạng 'lạm phát thị giác'. Khi bất kỳ ai cũng có thể tạo ra một trailer phim trông như bom tấn Hollywood, giá trị của hình ảnh sẽ giảm xuống và giá trị của 'ý tưởng/kịch bản' sẽ trở thành thước đo duy nhất cho chất lượng tác phẩm."
+            "text": "Hơn nữa, sự phụ thuộc vào các mô hình đóng (closed models) như Kling AI khiến các creator đối mặt với rủi ro về quyền sở hữu trí tuệ và sự thay đổi chính sách giá. Khi AI đạt đến ngưỡng 'Industrial-Grade', câu hỏi về bản quyền và sự công nhận cho nghệ sĩ truyền thống sẽ càng trở nên gay gắt."
           }
         ]
       },
@@ -1142,11 +1182,11 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Đối với các Creator, đây là thời điểm vàng để chuyển dịch từ việc làm 'clip ngắn' sang xây dựng 'IP' (tài sản trí tuệ). Với khả năng xuất 4K và điều khiển camera, bạn có thể sản xuất các series phim ngắn hoặc quảng cáo thương mại cho doanh nghiệp với chi phí cực thấp nhưng chất lượng tiệm cận studio chuyên nghiệp."
+            "text": "Đối với các Builder, cơ hội nằm ở việc xây dựng các lớp 'middleware' giúp quản lý workflow sản xuất AI video. Việc tích hợp API của các mô hình 4K vào các quy trình tự động hóa cho thương mại điện tử là một mỏ vàng chưa được khai thác hết. Những công cụ giúp tối ưu hóa prompt weighting hoặc quản lý versioning cho AI video sẽ cực kỳ giá trị."
           },
           {
             "type": "paragraph",
-            "text": "Đối với các Developer/Builder, cơ hội nằm ở việc xây dựng các lớp 'middleware' — những công cụ hỗ trợ quản lý kịch bản, storyboard hoặc tự động hóa quy trình kết nối giữa các shot quay AI để tạo ra một bộ phim hoàn chỉnh. Việc tích hợp API của các mô hình như Kling AI vào các quy trình sản xuất video tự động cho e-commerce sẽ là một thị trường ngách đầy tiềm năng."
+            "text": "Với các Creator, chìa khóa không còn là 'biết dùng AI' mà là 'biết điều phối AI'. Việc học tư duy đạo diễn hình ảnh, hiểu về ánh sáng và chuyển động camera sẽ là điểm phân tách giữa một người nhập prompt bình thường và một AI Director chuyên nghiệp. Hãy tập trung vào việc tạo ra những series có tính nhất quán về nhân vật và bối cảnh thay vì những clip đơn lẻ."
           }
         ]
       },
@@ -1155,29 +1195,29 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Kling AI không chỉ cung cấp một công cụ tạo video, mà đang xây dựng một hạ tầng cho nền điện ảnh AI. Từ Native 4K đến khả năng kiểm soát camera chi tiết, họ đang thu hẹp khoảng cách giữa trí tuệ nhân tạo và nghệ thuật điện ảnh truyền thống. Khi cộng đồng sáng tạo ngày càng lớn mạnh và các tiêu chuẩn giải thưởng được thiết lập, chúng ta đang tiến gần hơn đến kỷ nguyên mà một cá nhân có thể vận hành cả một studio phim ngay trên trình duyệt web."
+            "text": "Kling AI đang dẫn dắt cuộc đua về chất lượng hình ảnh với Native 4K, nhưng giá trị thực sự nằm ở cách cộng đồng vận dụng công cụ này để kể chuyện. Khi rào cản kỹ thuật (độ phân giải, chuyển động) dần bị xóa bỏ, cuộc chiến tiếp theo sẽ là cuộc chiến về ý tưởng và tư duy thẩm mỹ. AI Video không còn là tương lai—nó là hiện tại của ngành công nghiệp sáng tạo."
           }
         ]
       }
     ],
     "insightBlocks": [
       {
-        "title": "Vì sao đáng chú ý",
-        "text": "Việc chuyển từ Upscaling sang Native 4K là một bước nhảy vọt về chất lượng. Nó cho phép AI video thoát khỏi mác 'đồ chơi' để trở thành 'công cụ sản xuất' thực thụ, có khả năng ứng dụng trong truyền hình và điện ảnh.",
+        "title": "Vì sao Native 4K đáng chú ý",
+        "text": "Nó thay đổi bản chất của AI video từ 'mô phỏng' sang 'sản xuất'. Việc không cần upscale giúp loại bỏ các artifact (lỗi hình ảnh), cho phép video AI được trình chiếu trên màn hình lớn mà không bị vỡ, mở ra cánh cửa cho phim ngắn và quảng cáo truyền hình.",
         "variant": "analysis"
       },
       {
-        "title": "Tác động",
-        "text": "Chi phí sản xuất nội dung chất lượng cao sẽ giảm mạnh, buộc các agency truyền thống phải thay đổi mô hình vận hành. Ngược lại, giá trị của tư duy biên kịch và đạo diễn sẽ tăng cao vì công cụ không còn là rào cản.",
+        "title": "Tác động đến quy trình làm phim",
+        "text": "Quy trình truyền thống: Quay phim -> Hậu kỳ -> Color Grade. Quy trình AI mới: Prompting -> Camera Control -> Iteration. Thời gian sản xuất giảm từ hàng tháng xuống hàng giờ, nhưng yêu cầu về kỹ năng 'đạo diễn prompt' tăng cao.",
         "variant": "impact"
       }
     ],
     "takeaway": {
       "title": "Creator / Builder Takeaway",
       "items": [
-        "Học cách sử dụng Camera Control (Push, Pull, Pan, Tilt) thay vì chỉ dựa vào text prompt để kiểm soát nhịp phim.",
-        "Tập trung xây dựng Storyboard chi tiết trước khi generate để tận dụng tối đa chất lượng 4K cho các shot quan trọng.",
-        "Xây dựng danh mục sản phẩm (Portfolio) theo các hạng mục chuyên sâu như TV Ad hoặc Movie Trailer để đón đầu xu hướng công nhận của cộng đồng."
+        "Nghiên cứu và áp dụng Camera Control (Pan, Tilt, Zoom) để tạo chuyển động có ý đồ, tránh để AI tự quyết định góc máy.",
+        "Thử nghiệm Prompt Weighting để kiểm soát các chi tiết quan trọng trong video dài, đảm bảo tính nhất quán của nhân vật.",
+        "Xây dựng portfolio theo hướng 'AI Director' thay vì 'AI User', tập trung vào storytelling và chất lượng 4K bản địa cho các dự án thương mại."
       ]
     },
     "sources": [
@@ -1185,166 +1225,7 @@ export const generatedArticles: Article[] = [
         "title": "Kling AI Blog",
         "publisher": "Kling AI",
         "url": "https://klingai.com/blog",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "title": "AI VIDEO AWARDS 2026",
-        "publisher": "r/aivideo",
-        "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
-        "publishedAt": "2026-01-15"
-      },
-      {
-        "title": "Pika blog",
-        "publisher": "Pika Labs",
-        "url": "https://pika.art/blog",
-        "publishedAt": "2026-06-09"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-06-09T13:35:57.769Z",
-      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-06-09",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-video_1_kling-ai_2026-06-09_en",
-    "slug": "kling-ai-creator-and-builder-analysis-2026-06-09",
-    "lang": "en",
-    "category": "ai-video",
-    "title": "Kling AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-06-09T13:37:33.654Z",
-    "readingTime": 4,
-    "sourceCount": 3,
-    "tags": [
-      "Kling AI",
-      "AI Video",
-      "Generative AI",
-      "4K Video",
-      "AI Cinematography"
-    ],
-    "heroMedia": {
-      "type": "image",
-      "src": "https://pika.art/images/og.jpeg",
-      "alt": "Kling AI: creator and builder analysis",
-      "caption": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability."
-    },
-    "highlights": [
-      {
-        "text": "Kling AI has launched the world's first native 4K video model, moving beyond simple upscaling to true high-resolution generation."
-      },
-      {
-        "text": "The platform is shifting toward 'Industrial-Grade' production, targeting professional film, advertising, and e-commerce sectors."
-      },
-      {
-        "text": "Community adoption is surging, with Kling AI becoming a primary tool for viral creators and award-nominated AI cinema."
-      },
-      {
-        "text": "Advanced control features, including native camera movement (Push, Pull, Pan, Tilt) and prompt weighting, are redefining AI cinematography."
-      }
-    ],
-    "sections": [
-      {
-        "heading": "Context: The Shift to Industrial-Grade AI Video",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The AI video landscape is undergoing a critical transition from 'experimental curiosity' to 'production-ready utility.' While early generative video was characterized by surrealism and low resolution, Kling AI is leading a charge toward technical precision. According to the Kling AI Blog, the company has introduced the world's first native 4K video model, specifically designed to empower industrial-grade production across film and advertising. This is a pivotal distinction; unlike previous models that relied on post-generation upscaling, native 4K ensures that detail and texture are baked into the initial latent space, reducing artifacts and increasing visual fidelity for professional displays."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "src": "https://pika.art/images/og.jpeg",
-            "alt": "Pika blog",
-            "caption": "Pika blog — Pika Labs Blog",
-            "credit": "Pika Labs Blog",
-            "sourceUrl": "https://pika.art/blog",
-            "placement": "after-paragraph"
-          },
-          {
-            "type": "paragraph",
-            "text": "This technical leap is coinciding with a massive cultural explosion in AI-generated content. The r/aivideo community recently organized the AI Video Awards 2026, which saw over 56,000 submissions. The scale of this event—collaborating with platforms like Kling AI, Minimax, and Domo AI—demonstrates that the tools are no longer just for hobbyists. They are now the backbone of a new digital cinema ecosystem where 'Mindblowing Video of the Year' and 'Movie of the Year' are categories defined by the capabilities of these underlying models."
-          }
-        ]
-      },
-      {
-        "heading": "Deep Analysis: Control vs. Chaos",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The primary friction point in AI video has always been the 'slot machine' effect—prompting and hoping for a usable result. Kling AI is attacking this through granular control mechanisms. The introduction of native Camera Control (Push, Pull, Pan, and Tilt) allows creators to move from being 'prompt engineers' to 'directors.' By decoupling the subject's motion from the camera's movement, Kling AI provides a level of intentionality that was previously missing in text-to-video workflows."
-          },
-          {
-            "type": "paragraph",
-            "text": "Furthermore, the implementation of 'Prompt Weighting' allows developers and creators to prioritize specific keywords, effectively managing the attention mechanism of the model. When combined with specialized guides for lighting (Volumetric Light, Golden Hour) and motion (Running, Jumping, Gestures), the platform is creating a standardized language for AI cinematography. This systematization is what transforms a viral clip into a coherent scene, enabling the creation of the complex narratives seen in the AI Video Awards 2026 nominees."
-          }
-        ]
-      },
-      {
-        "heading": "Critical Perspective: The Upscaling Illusion",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "It is essential to scrutinize the claim of 'Native 4K' versus 'Upscaling.' In the AI industry, many platforms market '4K' by running a low-res generation through a secondary super-resolution model. Kling AI's claim of a native 4K model suggests a fundamental change in how the diffusion process handles pixel density. If true, this eliminates the 'waxy' look common in upscaled AI video and allows for genuine micro-details—such as skin pores or fabric textures—that are vital for high-end advertising and e-commerce."
-          },
-          {
-            "type": "paragraph",
-            "text": "However, the democratization of these tools brings a new challenge: the saturation of 'AI aesthetics.' As seen in the r/aivideo awards, many entries fall into similar visual tropes (horror, surrealism, cyberpunk). The risk for creators is that as the tools become more powerful, the 'wow factor' shifts from the technology itself to the actual storytelling. The technical barrier is falling, meaning the competitive advantage is shifting back to creative direction and narrative structure."
-          }
-        ]
-      },
-      {
-        "heading": "Opportunities for Creators / Builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "For developers and builders, the opportunity lies in the 'middleware' of AI production. As Kling AI opens its developer platform, there is a massive gap for tools that can orchestrate multiple AI clips into a coherent sequence. We are seeing the rise of 'AI Directors' who use these tools not for single clips, but for full-scale productions like 'The Internet Is Dead' or 'Theme Park Collapse.' Builders who create better version-control, scene-stitching, or AI-driven editing workflows will be the next winners in this stack."
-          },
-          {
-            "type": "paragraph",
-            "text": "For creators, the immediate opportunity is in high-ticket commercial work. The ability to generate 4K e-commerce product videos without a physical studio is a disruptive value proposition. By mastering 'Director Style Prompts' (e.g., recreating a Wes Anderson aesthetic) and utilizing precise camera controls, creators can offer agency-level production quality at a fraction of the traditional cost and time."
-          }
-        ]
-      },
-      {
-        "heading": "Conclusion",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Kling AI is not just releasing a better model; it is building a professional production suite. By focusing on native resolution, cinematic camera controls, and a robust developer ecosystem, it is positioning itself as the 'Adobe Premiere' of the generative era. As the community moves from the novelty of the AI Video Awards toward legitimate industrial application, the winners will be those who treat AI not as a magic wand, but as a precision instrument for storytelling."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "The transition to native 4K and precise camera control marks the end of the 'experimental' phase of AI video. When AI can reliably produce high-resolution, directed footage, it ceases to be a toy and becomes a viable replacement for traditional B-roll and high-end commercial production.",
-        "variant": "analysis"
-      },
-      {
-        "title": "Impact",
-        "text": "We are seeing a collapse in the cost of high-fidelity visual production. This will lead to a surge in 'micro-studios'—single creators producing cinematic quality content that previously required a crew of fifty, fundamentally altering the economics of the advertising and film industries.",
-        "variant": "impact"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Shift from simple prompting to 'Cinematic Directing' by mastering Push, Pull, Pan, and Tilt controls.",
-        "Leverage native 4K capabilities for e-commerce and advertising to capture high-ticket professional clients.",
-        "Build orchestration tools or workflows that connect individual AI clips into narrative sequences to solve the 'coherence' problem."
-      ]
-    },
-    "sources": [
-      {
-        "title": "Kling AI Blog",
-        "publisher": "Kling AI",
-        "url": "https://klingai.com/blog",
-        "publishedAt": "2026-06-09"
+        "publishedAt": "2026-06-10"
       },
       {
         "title": "AI VIDEO AWARDS 2026",
@@ -1356,546 +1237,106 @@ export const generatedArticles: Article[] = [
         "title": "Pika blog",
         "publisher": "Pika Labs Blog",
         "url": "https://pika.art/blog",
-        "publishedAt": "2026-06-09"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-06-09T13:37:33.654Z",
-      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-06-09",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-agentic_2_micropython-wasm-0-1a2_2026-06-09_vi",
-    "slug": "micropython-wasm-0-1a2-goc-nhin-cho-creator-va-builder-2026-06-09",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "title": "micropython-wasm 0.1a2: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-06-09T13:36:38.919Z",
-    "readingTime": 5,
-    "sourceCount": 4,
-    "tags": [
-      "ai-agent",
-      "webassembly",
-      "micropython",
-      "sandboxing",
-      "ai-engineering"
-    ],
-    "highlights": [
-      {
-        "text": "Ra mắt micropython-wasm 0.1a2, cho phép chạy sandbox MicroPython thông qua WebAssembly."
-      },
-      {
-        "text": "Giải quyết bài toán thực thi code không tin cậy (untrusted code) một cách an toàn và hiệu quả."
-      },
-      {
-        "text": "Xu hướng dịch chuyển từ 'phụ thuộc hoàn toàn vào LLM' sang kết hợp 'LLM + Rules-based' để tăng độ tin cậy."
-      },
-      {
-        "text": "Sự trỗi dậy của nhu cầu chia sẻ 'kỹ năng' agent (MCP, rules, configs) trong môi trường làm việc nhóm."
-      }
-    ],
-    "sections": [
-      {
-        "heading": "Sự xuất hiện của micropython-wasm 0.1a2: Bước ngoặt cho Sandboxing",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Trong thế giới của AI Agents, việc cho phép mô hình tự viết và thực thi code (code interpreter) là một tính năng cực kỳ mạnh mẽ nhưng cũng đầy rủi ro. Simon Willison vừa giới thiệu phiên bản 0.1a2 của micropython-wasm, một thư viện Python cho phép chạy một sandbox MicroPython sử dụng WebAssembly (WASM). Điều này có nghĩa là các nhà phát triển có thể thực thi mã Python trong một môi trường bị cô lập hoàn toàn, ngăn chặn các cuộc tấn công vào hệ thống máy chủ hoặc trình duyệt của người dùng."
-          },
-          {
-            "type": "paragraph",
-            "text": "Điểm đáng chú ý là việc tích hợp thêm CLI (Command Line Interface), giúp các developer dễ dàng thử nghiệm và triển khai các kịch bản sandbox nhanh chóng. Việc sử dụng MicroPython thay vì CPython đầy đủ giúp giảm nhẹ tài nguyên, tăng tốc độ khởi động và phù hợp hơn với kiến trúc WASM, tạo ra một lớp bảo mật vật lý giữa mã thực thi và hệ điều hành."
-          },
-          {
-            "type": "media",
-            "mediaType": "image",
-            "alt": "Sơ đồ kiến trúc WASM",
-            "caption": "Mô hình vận hành của MicroPython trên WebAssembly",
-            "credit": "Simon Willison",
-            "sourceUrl": "https://simonwillison.net/2026/Jun/6/micropython-wasm/",
-            "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "heading": "Nghịch lý của AI Agent: Khi 'Thông minh hơn' lại là 'Kém hiệu quả hơn'",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Một tín hiệu thú vị từ cộng đồng r/AI_Agents cho thấy một xu hướng phản trực giác: nhiều doanh nghiệp đang yêu cầu 'loại bỏ AI' khỏi các công cụ họ đã xây dựng. Một trường hợp điển hình là công cụ phân loại ticket hỗ trợ. Ban đầu, một LLM được sử dụng để phân loại ticket với độ chính xác 92%. Tuy nhiên, chính khoảng trống 8% sai sót này đã tạo ra sự mất niềm tin tuyệt đối từ người dùng vì họ không thể truy vết lý do tại sao AI lại phân loại sai (vấn đề 'hộp đen')."
-          },
-          {
-            "type": "paragraph",
-            "text": "Kết quả là, khi thay thế LLM bằng một bộ quy tắc (rules engine) đơn giản với khoảng 30 từ khóa, độ chính xác tăng lên 99% vì mọi thứ đều minh bạch. Latency giảm từ 3 giây xuống tức thì, và chi phí API về 0. Điều này cho thấy một bài học đắt giá cho các Builder: Không phải mọi bài toán đều cần LLM. Đôi khi, sự minh bạch của các quy tắc cứng nhắc lại mang lại giá trị cao hơn sự linh hoạt nhưng mơ hồ của AI."
-          }
-        ]
-      },
-      {
-        "heading": "Thách thức trong vận hành: Từ Demo đến Production",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Có một khoảng cách khổng lồ giữa một bản demo 'wow' trên X (Twitter) và một agent thực sự tạo ra giá trị trong sản xuất. Cộng đồng developer hiện đang loay hoay với việc quản lý và chia sẻ 'kỹ năng' của agent. Việc thiết lập các chỉ dẫn (instructions), file markdown, hay cấu hình MCP (Model Context Protocol) hiện vẫn mang tính cá nhân hóa cao, thiếu một cơ chế chuẩn hóa để chia sẻ trong nội bộ team."
-          },
-          {
-            "type": "paragraph",
-            "text": "Nhu cầu về một 'thư viện kỹ năng' cho agent đang trở nên cấp thiết. Nếu một developer tìm ra cách tối ưu để agent giải quyết một tác vụ cụ thể, làm sao để đồng nghiệp có thể tái sử dụng thiết lập đó mà không phải thử sai từ đầu? Đây chính là cơ hội cho những công cụ quản lý tri thức dành riêng cho AI Agent."
-          }
-        ]
-      },
-      {
-        "heading": "Góc nhìn phản biện: Sự cân bằng giữa Linh hoạt và Kiểm soát",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Việc chạy MicroPython-WASM là một bước tiến về an ninh, nhưng nó cũng đặt ra câu hỏi về hiệu năng. Liệu sự cô lập tuyệt đối có làm chậm tốc độ phản hồi của agent trong các tác vụ phức tạp? Bên cạnh đó, việc quay lại với rules-based engine không có nghĩa là AI thất bại, mà là sự định nghĩa lại vai trò của LLM: LLM nên là kẻ thiết kế quy tắc (Rule Designer) thay vì là kẻ thực thi quy tắc (Rule Executor)."
-          }
-        ]
-      },
-      {
-        "heading": "Cơ hội cho Creator / Builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Hiện nay, có ba hướng đi tiềm năng cho những người xây dựng hệ sinh thái AI: Thứ nhất, phát triển các công cụ 'Deterministic AI' — nơi LLM được dùng để tạo ra code hoặc rules, sau đó chạy trong sandbox như micropython-wasm để đảm bảo tính an toàn và nhất quán. Thứ hai, xây dựng các framework quản lý 'Agent Skills' cho doanh nghiệp, cho phép chia sẻ prompt và MCP configs một cách hệ thống."
-          },
-          {
-            "type": "paragraph",
-            "text": "Thứ ba, tập trung vào 'Explainable AI' (AI có thể giải thích). Thay vì chỉ đưa ra kết quả, hãy xây dựng agent có khả năng trích xuất logic ra dạng bảng hoặc quy tắc để con người có thể kiểm tra và điều chỉnh. Đây chính là chìa khóa để vượt qua rào cản niềm tin của khách hàng doanh nghiệp."
-          }
-        ]
-      },
-      {
-        "heading": "Kết luận",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Sự ra đời của micropython-wasm 0.1a2 cùng những bài học thực tế từ cộng đồng cho thấy kỷ nguyên 'hype' về AI Agent đang nhường chỗ cho kỷ nguyên của sự thực dụng. Sự kết hợp giữa khả năng tính toán an toàn (WASM), sự minh bạch của logic (Rules-based) và khả năng điều phối của LLM sẽ là công thức chiến thắng cho các sản phẩm AI bền vững trong tương lai."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Việc tích hợp MicroPython vào WASM giải quyết được 'điểm yếu chí tử' của các AI Agent có khả năng viết code: nỗi sợ bị tấn công RCE (Remote Code Execution). Khi rào cản an ninh được gỡ bỏ, khả năng tự động hóa của agent sẽ tăng vọt.",
-        "variant": "analysis"
-      },
-      {
-        "title": "Tác động",
-        "text": "Thay đổi tư duy thiết kế từ 'AI-first' sang 'Trust-first'. Các builder sẽ bớt lạm dụng LLM cho những tác vụ có thể giải quyết bằng logic cứng, từ đó giảm chi phí, tăng tốc độ và quan trọng nhất là lấy lại niềm tin từ người dùng cuối.",
-        "variant": "impact"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Thử nghiệm micropython-wasm để xây dựng các tính năng thực thi code an toàn cho agent.",
-        "Rà soát lại các luồng AI hiện tại: Những phần nào có thể thay thế bằng rules-based engine để tăng độ tin cậy và giảm cost?",
-        "Xây dựng quy trình lưu trữ và chia sẻ prompt/config (MCP) cho team để tránh việc mỗi người tự build lại từ đầu."
-      ]
-    },
-    "sources": [
-      {
-        "title": "micropython-wasm 0.1a2",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/"
-      },
-      {
-        "title": "A client paid me to rip the AI out of the tool I built them",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1u067cf/a_client_paid_me_to_rip_the_ai_out_of_the_tool_i/"
-      },
-      {
-        "title": "What's the most useful AI agent you've actually put into production?",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1u11c8m/whats_the_most_useful_ai_agent_youve_actually_put/"
-      },
-      {
-        "title": "Share and reuse agent best practices across the team",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1u138ak/share_and_reuse_agent_best_practices_across_the/"
+        "publishedAt": "2026-06-10"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-06-09T13:36:38.919Z",
-      "sourceClusterId": "cluster_ai-agentic_2_micropython-wasm-0-1a2_2026-06-09",
+      "generatedAt": "2026-06-10T00:10:39.914Z",
+      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-06-10",
       "confidence": "high"
     },
     "status": "published"
   },
   {
-    "id": "cluster_ai-agentic_2_micropython-wasm-0-1a2_2026-06-09_en",
-    "slug": "micropython-wasm-0-1a2-creator-and-builder-analysis-2026-06-09",
+    "id": "cluster_ai-video_1_kling-ai_2026-06-10_en",
+    "slug": "kling-ai-creator-and-builder-analysis-2026-06-10",
     "lang": "en",
-    "category": "ai-agentic",
-    "title": "micropython-wasm 0.1a2: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-06-09T13:37:19.053Z",
-    "readingTime": 4,
-    "sourceCount": 4,
-    "tags": [
-      "AI Agents",
-      "WebAssembly",
-      "MicroPython",
-      "Software Engineering",
-      "AI Trust"
-    ],
-    "highlights": [
-      {
-        "text": "Release of micropython-wasm 0.1a2 enables a secure, lightweight Python sandbox via WebAssembly."
-      },
-      {
-        "text": "A growing tension exists between the 'AI hype' of agentic autonomy and the practical need for deterministic, rule-based logic."
-      },
-      {
-        "text": "Developers are increasingly prioritizing 'traceability' over raw accuracy to build user trust in production agents."
-      },
-      {
-        "text": "The shift toward 'vibe coding' is meeting a hard reality check: users often prefer 'dumber' but transparent systems over 'smart' black boxes."
-      }
-    ],
-    "sections": [
-      {
-        "heading": "Context: The Sandbox and the Agent",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The recent release of micropython-wasm 0.1a2, as detailed by Simon Willison, introduces a Python library designed to run a MicroPython sandbox using WebAssembly (WASM). By adding a CLI to the tool, Willison has streamlined the process of executing Python code in a secure, isolated environment. This technical milestone arrives at a critical juncture for the AI agent ecosystem. As developers move from simple LLM wrappers to complex agentic workflows, the need for a secure 'execution layer'—where an agent can run code without compromising the host system—has become a primary bottleneck."
-          },
-          {
-            "type": "paragraph",
-            "text": "Simultaneously, the broader community is grappling with the 'production gap.' While platforms like r/AI_Agents are filled with prototypes, actual deployments are revealing a stark contrast between a 'cool demo' and a reliable tool. The industry is currently oscillating between the desire for total agentic autonomy and the realization that high-stakes business processes require rigorous constraints."
-          }
-        ]
-      },
-      {
-        "heading": "Deep Analysis: The Trust Paradox",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "A recurring theme in recent developer discourse is the 'Trust Paradox': as LLM accuracy increases, the lack of interpretability becomes a greater liability. A poignant example from the r/AI_Agents community describes a developer who was paid to 'rip the AI out' of a ticket routing tool. Despite a 92% accuracy rate, the client rejected the system because it functioned as a black box. The human operators could not trace the logic of a misrouted ticket, leading them to double-check every single action—effectively nullifying the efficiency gains of the AI."
-          },
-          {
-            "type": "paragraph",
-            "text": "This highlights a fundamental shift in the definition of 'performance.' In a production environment, 99% accuracy achieved through 30 transparent rules is infinitely more valuable than 92% accuracy achieved through a sophisticated but opaque neural network. The 'cost' of an AI error isn't just the mistake itself, but the cognitive load placed on the human supervisor who must audit a system they don't understand."
-          }
-        ]
-      },
-      {
-        "heading": "Critical Perspective: Beyond the 'Vibe'",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "We are seeing the first real collisions between 'vibe coding'—the act of iterating rapidly via natural language prompts—and the requirements of enterprise software engineering. The enthusiasm for Model Context Protocol (MCP) and shared agent skills suggests a desire for standardization, yet the actual utility of these agents is often hampered by the same lack of determinism. If an agent's 'skill' is just a well-crafted prompt, it remains susceptible to the same stochastic failures that make users distrustful."
-          },
-          {
-            "type": "paragraph",
-            "text": "The true evolution of agentic AI will not come from larger models, but from the integration of these models with deterministic sandboxes like micropython-wasm. The goal should not be to replace the rule engine, but to use the LLM as a high-level orchestrator that generates and executes explicit, auditable code within a WASM sandbox. This transforms the agent's output from a 'guess' into a 'program' that can be logged, debugged, and verified."
-          }
-        ]
-      },
-      {
-        "heading": "Opportunities for Creators / Builders",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "For developers, the opportunity lies in building 'Hybrid Agentic Systems.' Instead of pushing for 100% LLM autonomy, builders should focus on creating 'Human-in-the-Loop' interfaces where the AI proposes a rule or a snippet of MicroPython code, and the human approves the logic. This leverages the creative power of LLMs while maintaining the transparency of traditional software."
-          },
-          {
-            "type": "paragraph",
-            "text": "Furthermore, the ability to share 'agent skills' and configurations across teams is a massive untapped market. As developers find the right balance of rules and prompts, the infrastructure to version-control and distribute these 'agentic recipes' will become as essential as GitHub is for source code. Builders who create tools for the 'governance' of agents—rather than just the 'creation' of agents—will find the most sustainable product-market fit."
-          }
-        ]
-      },
-      {
-        "heading": "Conclusion",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The release of micropython-wasm 0.1a2 is a small but significant step toward a future where AI agents can safely execute code. However, the technical ability to run code is secondary to the psychological requirement for trust. The industry is learning that 'less AI' is sometimes the correct answer. The winners of the agentic era will be those who treat the LLM not as the engine, but as the interface to a deterministic, secure, and transparent execution layer."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Why This Matters",
-        "text": "The shift from 'black box' LLMs to 'transparent' rule-based systems in production proves that reliability and auditability are more valuable than raw intelligence in B2B contexts.",
-        "variant": "analysis"
-      },
-      {
-        "title": "Impact",
-        "text": "The integration of WASM-based sandboxing (like micropython-wasm) allows agents to move from 'talking' to 'doing' without creating catastrophic security risks for the host.",
-        "variant": "impact"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Prioritize 'Traceability' over 'Accuracy': Build systems where users can see exactly why a decision was made.",
-        "Implement a 'Hybrid Logic' approach: Use LLMs for classification and orchestration, but use a deterministic rules engine or sandboxed code for execution.",
-        "Experiment with micropython-wasm to create secure, isolated environments for agent-generated code, reducing the risk of prompt-injection-led system compromise."
-      ]
-    },
-    "sources": [
-      {
-        "title": "micropython-wasm 0.1a2",
-        "publisher": "Simon Willison's Weblog",
-        "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
-        "publishedAt": "2026-06-06"
-      },
-      {
-        "title": "A client paid me to rip the AI out of the tool I built them.",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1u067cf/a_client_paid_me_to_rip_the_ai_out_of_the_tool_i/",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "title": "What's the most useful AI agent you've actually put into production?",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1u11c8m/whats_the_most_useful_ai_agent_youve_actually_put/",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "title": "Share and reuse agent best practices across the team",
-        "publisher": "r/AI_Agents",
-        "url": "https://www.reddit.com/r/AI_Agents/comments/1u138ak/share_and_reuse_agent_best_practices_across_the/",
-        "publishedAt": "2026-06-09"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-en-v2",
-      "generatedAt": "2026-06-09T13:37:19.053Z",
-      "sourceClusterId": "cluster_ai-agentic_2_micropython-wasm-0-1a2_2026-06-09",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-image_2_some-cinematic-ideogram-4-tests_2026-06-09_vi",
-    "slug": "some-cinematic-ideogram-4-tests-goc-nhin-cho-creator-va-bui-2026-06-09",
-    "lang": "vi",
-    "category": "ai-image",
-    "title": "Some cinematic Ideogram 4 tests: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "publishedAt": "2026-06-09T13:35:37.963Z",
+    "category": "ai-video",
+    "title": "Kling AI: creator and builder analysis",
+    "subtitle": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-06-10T00:10:57.124Z",
     "readingTime": 4,
     "sourceCount": 3,
     "tags": [
-      "Ideogram 4",
-      "Midjourney V8.1",
-      "AI Image Generation",
-      "Cinematic AI",
-      "Prompt Engineering"
+      "Kling AI",
+      "AI Video",
+      "4K Generation",
+      "Cinematography",
+      "Generative AI"
     ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://pika.art/images/og.jpeg",
+      "alt": "Kling AI: creator and builder analysis",
+      "caption": "Signal synthesized from Pika Labs Blog, r/aivideo, Kling AI Blog, scored by recency, content depth, and source reliability."
+    },
     "highlights": [
       {
-        "text": "Ideogram 4 gây ấn tượng mạnh với khả năng duy trì giải phẫu (anatomy) ổn định và độ chi tiết hình ảnh cao."
+        "text": "Kling AI has launched the world's first native 4K video model, moving beyond simple upscaling to true industrial-grade resolution."
       },
       {
-        "text": "Điểm yếu hiện tại nằm ở khả năng mô phỏng chính xác các thông số kỹ thuật của ống kính nhiếp ảnh so với Flux Klein hoặc Zib."
+        "text": "The platform is introducing advanced 'Camera Control' features, allowing creators to master push, pull, pan, and tilt movements."
       },
       {
-        "text": "Xu hướng chuyển dịch từ 'cuộc đua pixel' sang tìm kiếm chất lượng 'organic' (hữu cơ) và đặc trưng riêng của hình ảnh."
+        "text": "Kling AI is now a central collaborator in the AI Video Awards 2026, signaling its transition from a tool to an industry pillar."
       },
       {
-        "text": "Sự cạnh tranh khốc liệt từ Midjourney V8.1 với tốc độ render HD nhanh gấp 3 lần và khả năng ổn định srefs/moodboards."
+        "text": "New prompt engineering capabilities include 'AI Prompt Weighting' and specific 'Director Style' presets (e.g., Wes Anderson)."
       }
     ],
     "sections": [
       {
-        "heading": "Bối cảnh: Sự trỗi dậy của Ideogram 4 trong hệ sinh thái AI Image",
+        "heading": "Context: The Shift to Industrial-Grade AI Video",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Trong bối cảnh các mô hình tạo ảnh AI đang tiến dần đến ngưỡng bão hòa về độ phân giải, Ideogram 4 xuất hiện như một đối thủ đáng gờm, tập trung vào sự kết hợp giữa tính thẩm mỹ cinematic và độ chính xác về cấu trúc. Qua các bài test thực tế từ cộng đồng r/StableDiffusion, Ideogram 4 cho thấy khả năng xử lý các prompt phức tạp một cách ấn tượng, đặc biệt là việc giảm thiểu các lỗi biến dạng giải phẫu vốn là 'nỗi ám ảnh' của nhiều model thế hệ trước. Việc sử dụng các workflow bổ trợ như Ideogram4Prompt BuilderKJ cho thấy cộng đồng developer đang nỗ lực tối ưu hóa khả năng điều khiển (control) đối với mô hình này để đạt được kết quả chuyên nghiệp hơn."
+            "text": "For the past year, the AI video landscape was dominated by a 'good enough' aesthetic—grainy textures and surreal morphing that worked for memes but failed in professional pipelines. However, the tide is shifting. Kling AI has recently positioned itself as a leader in this transition by introducing the world's first native 4K video model. Unlike previous iterations where 4K was achieved through post-process upscaling, Kling's native approach empowers industrial-grade production across film, advertising, and creative industries, as detailed in their May 2026 technical updates."
           },
           {
             "type": "media",
             "mediaType": "image",
-            "alt": "So sánh độ chi tiết của Ideogram 4",
-            "caption": "Khả năng duy trì chi tiết và giải phẫu của Ideogram 4 trong các khung hình cinematic",
-            "credit": "r/StableDiffusion",
-            "sourceUrl": "https://www.reddit.com/r/StableDiffusion/comments/1u13gqu/some_cinematic_ideogram_4_tests/",
+            "src": "https://pika.art/images/og.jpeg",
+            "alt": "Pika blog",
+            "caption": "Pika blog — Pika Labs Blog",
+            "credit": "Pika Labs Blog",
+            "sourceUrl": "https://pika.art/blog",
             "placement": "after-paragraph"
-          }
-        ]
-      },
-      {
-        "heading": "Phân tích chi tiết: Độ chính xác kỹ thuật vs. Thẩm mỹ tổng thể",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Một điểm đáng lưu ý khi phân tích Ideogram 4 là sự đánh đổi giữa 'vẻ đẹp tổng thể' và 'độ chính xác kỹ thuật'. Theo các thử nghiệm chuyên sâu, khi yêu cầu mô hình mô phỏng chính xác các đặc tính của các loại ống kính nhiếp ảnh cụ thể (photographic lenses), Ideogram 4 tỏ ra hụt hơi trước các đối thủ như Flux Klein hay Zib. Điều này cho thấy mô hình có xu hướng 'lý tưởng hóa' hình ảnh theo hướng cinematic hơn là tuân thủ nghiêm ngặt các quy tắc vật lý của quang học."
           },
           {
             "type": "paragraph",
-            "text": "Tuy nhiên, thế mạnh của Ideogram 4 lại nằm ở sự ổn định. Việc 'anatomy rarely breaks' (giải phẫu hiếm khi bị lỗi) là một bước tiến lớn, giúp các creator giảm bớt thời gian hậu kỳ hoặc inpainting. Điều này tạo ra một luồng công việc (workflow) mượt mà hơn cho những ai cần sản xuất số lượng lớn hình ảnh chất lượng cao mà không muốn can thiệp quá sâu vào từng pixel."
+            "text": "This technical leap is not happening in a vacuum. The broader ecosystem is maturing rapidly. The AI Video Awards 2026, an original r/aivideo production, has seen over 56,000 submissions, with Kling AI serving as a primary collaborator alongside Minimax and Domo AI. This partnership highlights a critical inflection point: AI video is moving from a novelty 'prompt-and-pray' experiment to a structured medium with its own awards, categories (such as 'TV Ad of the Year' and 'Movie Trailer of the Year'), and recognized professional standards."
           }
         ]
       },
       {
-        "heading": "Góc nhìn phản biện: Cạm bẫy của 'Hyper-realism' và sự mất mát bản sắc",
+        "heading": "Deep Analysis: Precision Over Randomness",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Một cuộc tranh luận thú vị đang diễn ra trong cộng đồng r/comfyui về việc các mô hình AI mới đang quá tập trung vào 'raw pixel count' (số lượng pixel thô) và sự siêu thực (hyper-realism). Nhiều artist cảm thấy các model mới đang dần mất đi 'organic quality' (chất lượng hữu cơ) — thứ mà Flux1-dev từng làm rất tốt. Khi mọi hình ảnh đều trở nên quá hoàn hảo, chúng vô tình trở nên vô hồn và thiếu đi đặc trưng nghệ thuật."
+            "text": "The most significant evolution in Kling AI's current trajectory is the move toward granular control. Early generative video was characterized by a lack of agency; the user provided a prompt and the AI decided the cinematography. Kling is dismantling this randomness through two primary vectors: Camera Control and Prompt Weighting."
           },
           {
             "type": "paragraph",
-            "text": "Sự đối lập này cũng thấy rõ ở Midjourney V8.1. Trong khi Midjourney tập trung vào tốc độ (HD mode nhanh gấp 3 lần) và sự ổn định của style references (srefs), họ cũng đang phải đối mặt với thách thức trong việc định nghĩa lại 'thẩm mỹ mặc định'. Việc khuyến khích người dùng sử dụng --raw hoặc đẩy stylize lên 1000 cho thấy ngay cả những gã khổng lồ cũng đang vật lộn để cân bằng giữa sự chính xác của prompt và tính nghệ thuật tự thân của mô hình."
-          }
-        ]
-      },
-      {
-        "heading": "Cơ hội cho Creator / Builder",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "Đối với các Builder, cơ hội hiện nay nằm ở việc xây dựng các 'Prompt Bridge' hoặc Workflow tối ưu hóa cho từng model. Việc Ideogram 4 không mạnh về ống kính nhưng mạnh về giải phẫu mở ra hướng đi cho các pipeline kết hợp: dùng Ideogram 4 để tạo bố cục và nhân vật, sau đó dùng Flux hoặc các công cụ upscale chuyên dụng để tinh chỉnh chi tiết quang học."
+            "text": "The introduction of Push, Pull, Pan, and Tilt controls allows developers and creators to treat the AI as a virtual cinematographer rather than a random image generator. When combined with 'AI Prompt Weighting,' which allows users to prioritize specific keywords, the tool becomes a precision instrument. For developers building wrappers or integrated workflows, this means the ability to programmatically define camera movements, reducing the need for multiple iterative 're-rolls' and significantly lowering the cost of production."
           },
           {
             "type": "paragraph",
-            "text": "Đối với Creator, đây là thời điểm vàng để thử nghiệm 'Multi-model Strategy'. Thay vì trung thành với một công cụ, việc kết hợp khả năng render text của Ideogram, tính ổn định của Midjourney V8.1 và chất lượng texture của Flux1-dev sẽ tạo ra những tác phẩm có chiều sâu và độ độc bản cao hơn, thoát khỏi cái mác 'ảnh AI' đại trà."
+            "text": "Furthermore, the focus on 'Director Style' prompts—such as recreating the symmetrical, pastel-hued aesthetic of Wes Anderson—suggests that Kling is training its models on high-level cinematic language. This is a strategic move to attract professional filmmakers who require consistent visual identities across multiple clips, a historical pain point for generative video."
           }
         ]
       },
       {
-        "heading": "Kết luận",
+        "heading": "Critical Perspective: The Upscaling Trap",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Ideogram 4 không phải là một mô hình hoàn hảo về mọi mặt, nhưng nó định nghĩa lại tiêu chuẩn về sự ổn định trong tạo hình cinematic. Cuộc đua AI Image hiện nay không còn là cuộc đua về độ phân giải, mà là cuộc đua về khả năng hiểu ý đồ nghệ thuật (intent) và duy trì bản sắc hình ảnh. Những ai biết tận dụng điểm mạnh của từng model sẽ là những người dẫn đầu trong kỷ nguyên sáng tạo tổng hợp."
-          }
-        ]
-      }
-    ],
-    "insightBlocks": [
-      {
-        "title": "Vì sao đáng chú ý",
-        "text": "Sự xuất hiện của Ideogram 4 và các bản cập nhật V8.1 của Midjourney cho thấy sự phân hóa rõ rệt: một bên tập trung vào hiệu suất/tốc độ, một bên tập trung vào độ chính xác giải phẫu và thẩm mỹ cinematic.",
-        "variant": "analysis"
-      },
-      {
-        "title": "Tác động",
-        "text": "Việc giảm thiểu lỗi giải phẫu và tăng tốc độ render HD sẽ đẩy nhanh tốc độ sản xuất nội dung số, buộc các creator phải nâng cao tư duy thẩm mỹ thay vì chỉ tập trung vào kỹ thuật viết prompt.",
-        "variant": "impact"
-      }
-    ],
-    "takeaway": {
-      "title": "Creator / Builder Takeaway",
-      "items": [
-        "Thử nghiệm workflow kết hợp: Ideogram 4 (Bố cục/Giải phẫu) $\rightarrow$ Flux (Texture/Quang học) $\rightarrow$ Midjourney (Style tinh chỉnh).",
-        "Sử dụng các công cụ như Ideogram4Prompt BuilderKJ để kiểm soát tốt hơn đầu ra của mô hình.",
-        "Đừng quá phụ thuộc vào hyper-realism; hãy tìm kiếm các model có 'organic quality' để tạo ra hình ảnh có hồn hơn."
-      ]
-    },
-    "sources": [
-      {
-        "title": "Some cinematic Ideogram 4 tests",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1u13gqu/some_cinematic_ideogram_4_tests/",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "title": "Just a little bit of Flux1-dev nostalgia",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1u11sav/just_a_little_bit_of_flux1dev_nostalgia_on_a/",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "title": "V8.1 Alpha is out!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "publishedAt": "2026-04-14"
-      }
-    ],
-    "generation": {
-      "model": "gemma4:31b",
-      "promptVersion": "article-vi-v2",
-      "generatedAt": "2026-06-09T13:35:37.963Z",
-      "sourceClusterId": "cluster_ai-image_2_some-cinematic-ideogram-4-tests_2026-06-09",
-      "confidence": "high"
-    },
-    "status": "published"
-  },
-  {
-    "id": "cluster_ai-image_2_some-cinematic-ideogram-4-tests_2026-06-09_en",
-    "slug": "some-cinematic-ideogram-4-tests-creator-and-builder-analysi-2026-06-09",
-    "lang": "en",
-    "category": "ai-image",
-    "title": "Some cinematic Ideogram 4 tests: creator and builder analysis",
-    "subtitle": "Signal synthesized from Stability AI Blog, r/StableDiffusion, r/comfyui, r/midjourney, r/MediaSynthesis, scored by recency, content depth, and source reliability.",
-    "publishedAt": "2026-06-09T13:36:06.688Z",
-    "readingTime": 4,
-    "sourceCount": 4,
-    "tags": [
-      "Ideogram 4",
-      "Midjourney V8",
-      "Flux AI",
-      "Cinematic Rendering",
-      "Prompt Engineering"
-    ],
-    "highlights": [
-      {
-        "text": "Ideogram 4 shows exceptional strength in anatomical consistency and high-detail rendering."
-      },
-      {
-        "text": "Photographic lens precision remains a weak point compared to Flux Klein and Zib models."
-      },
-      {
-        "text": "Midjourney V8.1 Alpha introduces significant speed gains (3x faster HD mode) and stabilized style references."
-      },
-      {
-        "text": "A growing 'nostalgia' for Flux1-dev suggests a tension between raw pixel count and organic artistic character."
-      }
-    ],
-    "sections": [
-      {
-        "heading": "Context: The New Frontier of Cinematic AI",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The AI image generation landscape is currently undergoing a rapid transition from 'general capability' to 'specialized precision.' Recent community tests of Ideogram 4, as highlighted in r/StableDiffusion, reveal a model that excels in the 'cinematic' realm—specifically in maintaining anatomical integrity and delivering dense detail without the common 'breaking' seen in earlier iterations. However, the pursuit of true photorealism is proving to be a nuanced battle. While Ideogram 4 delivers visually stunning results, power users note that it struggles to replicate the exact precision of specific photographic lenses, a domain where Flux Klein and Zib currently hold the edge."
+            "text": "While the claim of 'Native 4K' is a powerful marketing lever, it raises critical questions about the computational overhead and the actual 'information density' of the pixels. In the AI industry, there is a persistent tension between native generation and intelligent upscaling. If a model generates a low-res latent space and then 'fills in' the gaps to reach 4K, it is essentially an advanced upscaler. True native 4K requires the model to understand high-frequency details from the first frame."
           },
           {
             "type": "paragraph",
-            "text": "This evolution is happening alongside massive infrastructure updates from industry leaders. Midjourney has pushed its V8.1 Alpha, focusing on efficiency and stability. The release emphasizes a 'consistent and familiar aesthetic' reminiscent of V7, while drastically reducing the cost and time associated with HD rendering—making high-resolution output the new default standard for the platform."
-          }
-        ]
-      },
-      {
-        "heading": "Deep Analysis: Precision vs. Character",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "There is a burgeoning conflict in the community between 'hyper-realism' and 'organic character.' In r/comfyui, creators are expressing a sense of nostalgia for Flux1-dev, arguing that newer models are prioritizing raw pixel count and clinical sharpness over the organic textures and compositional soul that defined earlier releases. This suggests that as models become 'perfect' at following prompts, they may be losing the serendipitous 'artistic' quality that makes an image feel human-made."
-          },
-          {
-            "type": "paragraph",
-            "text": "Ideogram 4 sits in the middle of this tension. By utilizing specialized workflows like the Ideogram4Prompt BuilderKJ, developers are finding that the model is a powerhouse for detailed, coherent scenes. Yet, the difficulty of use—described as 'not as easy to use as other models'—indicates that the gap between a 'good' image and a 'technically precise' image now requires more complex prompting strategies and external workflows rather than simple natural language."
-          }
-        ]
-      },
-      {
-        "heading": "Critical Perspective: The 'Default' Aesthetic Trap",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The trend toward 'default' high-definition aesthetics, as seen in Midjourney V8.1, risks creating a homogenized 'AI look.' When HD mode becomes the default and the model is tuned for a 'familiar aesthetic,' the diversity of visual output may shrink. Midjourney's push for users to rely on personalization, style references (srefs), and moodboards is a tacit admission that the base model's default output is no longer enough to satisfy professional creators."
-          },
-          {
-            "type": "paragraph",
-            "text": "Furthermore, the shift in community hubs—such as r/MediaSynthesis moving away from random generations toward research-based developments—signals that the 'wow factor' of AI images has peaked. The community is no longer impressed by the fact that an AI can make a pretty picture; they are now focused on the methodology, the control, and the technical reproducibility of the result."
+            "text": "Moreover, the reliance on community-driven awards (like those on r/aivideo) reveals a gap in the industry. While 56,000 submissions prove the tool's accessibility, the categories—often dominated by 'Mindblowing' or 'Meme' content—suggest that the industry is still heavily skewed toward the 'spectacle' rather than narrative coherence. The challenge for Kling AI will be moving from 'impressive clips' to 'coherent stories' without the aid of heavy human editing."
           }
         ]
       },
@@ -1904,11 +1345,11 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "For developers and prompt engineers, the current gap in 'lens precision' in Ideogram 4 represents a significant opportunity. There is a clear demand for models or LoRAs that can bridge the gap between cinematic detail and optical accuracy. Builders who can create workflows that combine the anatomical stability of Ideogram with the optical precision of Flux-based models will dominate the high-end commercial market."
+            "text": "For creators, the opportunity lies in 'Hybrid Production.' By leveraging Kling's native 4K output for B-roll and atmospheric shots, and using the Camera Control features to match existing live-action footage, creators can produce high-budget aesthetics on a micro-budget. The 'AI Director' presets allow for rapid prototyping of mood boards that are actually usable in final cuts."
           },
           {
             "type": "paragraph",
-            "text": "Additionally, the speed increases in Midjourney V8.1 (3x faster HD) open the door for rapid iterative prototyping. Creators should shift their workflow from 'single-prompt gambling' to 'rapid-iteration cycles,' using the lower cost of HD to explore dozens of variations of a moodboard before committing to a final render."
+            "text": "For developers, the opening is in the 'Control Layer.' As Kling opens its developer platform, there is a massive opportunity to build middleware that translates traditional cinematography scripts (e.g., 'Slow zoom on subject, 50mm lens') into the specific prompt weights and camera controls Kling requires. The bridge between traditional filmmaking language and AI prompt engineering is currently underserved."
           }
         ]
       },
@@ -1917,7 +1358,7 @@ export const generatedArticles: Article[] = [
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The current state of AI imagery is moving away from the 'magic' phase and into the 'tooling' phase. Whether it is the anatomical reliability of Ideogram 4, the blistering speed of Midjourney V8.1, or the textural nostalgia for Flux1-dev, the focus has shifted to control. The winners in this space will not be those who can generate the most 'realistic' image, but those who can consistently steer the model to produce a specific, intentional aesthetic without sacrificing the organic quality of the art."
+            "text": "Kling AI is no longer just another player in the AI video race; it is attempting to define the professional standard for the medium. By focusing on native resolution and cinematic control, it is addressing the two biggest hurdles to professional adoption: quality and predictability. As the industry moves toward the 2026 era of AI cinema, the winners will not be those who can generate the most 'random' beauty, but those who can provide the most precise control."
           }
         ]
       }
@@ -1925,54 +1366,666 @@ export const generatedArticles: Article[] = [
     "insightBlocks": [
       {
         "title": "Why This Matters",
-        "text": "The transition from 'generative art' to 'precision tooling' means that prompt engineering is evolving into a technical discipline. The fact that users are comparing specific lens replicates across different models (Ideogram vs. Flux) shows that the bar for 'quality' has moved from 'looks real' to 'optically correct.'",
+        "text": "The transition to native 4K and precise camera control marks the end of the 'experimental' phase of AI video. We are entering the 'utility' phase, where AI video can actually be integrated into professional advertising and film pipelines without needing extensive post-production cleanup.",
         "variant": "analysis"
       },
       {
         "title": "Impact",
-        "text": "As HD rendering becomes cheap and fast, the value of an AI image will no longer be tied to its resolution or surface detail, but to the uniqueness of its style and the precision of its composition.",
+        "text": "This lowers the barrier to entry for high-end visual storytelling. A single creator can now simulate a full camera crew, provided they understand the language of cinematography and can manipulate the AI's weighting and motion controls.",
         "variant": "impact"
       }
     ],
     "takeaway": {
       "title": "Creator / Builder Takeaway",
       "items": [
-        "Integrate Ideogram 4 for projects requiring complex anatomy and high detail, but supplement with Flux-based models for specific optical/lens requirements.",
-        "Adopt Midjourney V8.1's HD mode for rapid prototyping, leveraging the 3x speed increase to iterate on moodboards and srefs more aggressively.",
-        "Avoid the 'hyper-realism trap' by intentionally introducing organic textures or using older model versions (like Flux1-dev) to maintain artistic character."
+        "Stop relying on generic prompts; start using 'AI Prompt Weighting' to prioritize key visual elements and avoid 'prompt drift.'",
+        "Integrate 'Camera Control' (Push/Pull/Pan/Tilt) into your storyboards to create intentional cinematography rather than random movement.",
+        "Developers should focus on building 'Cinematic Translators' that map traditional film terminology to Kling AI's specific control parameters."
       ]
     },
     "sources": [
       {
-        "title": "Some cinematic Ideogram 4 tests",
-        "publisher": "r/StableDiffusion",
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1u13gqu/some_cinematic_ideogram_4_tests/",
-        "publishedAt": "2026-06-09"
+        "title": "Kling AI Blog",
+        "publisher": "Kling AI",
+        "url": "https://klingai.com/blog",
+        "publishedAt": "2026-06-10"
       },
       {
-        "title": "Just a little bit of Flux1-dev nostalgia on a Tuesday",
-        "publisher": "r/comfyui",
-        "url": "https://www.reddit.com/r/comfyui/comments/1u11sav/just_a_little_bit_of_flux1dev_nostalgia_on_a/",
-        "publishedAt": "2026-06-09"
+        "title": "AI VIDEO AWARDS 2026",
+        "publisher": "r/aivideo",
+        "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+        "publishedAt": "2026-01-15"
       },
       {
-        "title": "V8.1 Alpha is out!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-        "publishedAt": "2026-04-14"
-      },
-      {
-        "title": "V8 alpha is here!",
-        "publisher": "r/midjourney",
-        "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-        "publishedAt": "2026-03-17"
+        "title": "Pika blog",
+        "publisher": "Pika Labs Blog",
+        "url": "https://pika.art/blog",
+        "publishedAt": "2026-06-10"
       }
     ],
     "generation": {
       "model": "gemma4:31b",
       "promptVersion": "article-en-v2",
-      "generatedAt": "2026-06-09T13:36:06.688Z",
-      "sourceClusterId": "cluster_ai-image_2_some-cinematic-ideogram-4-tests_2026-06-09",
+      "generatedAt": "2026-06-10T00:10:57.124Z",
+      "sourceClusterId": "cluster_ai-video_1_kling-ai_2026-06-10",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_i-built-a-local-control-system-for-agent-failures-fixes-evals-an_2026-06-10_vi",
+    "slug": "i-built-a-local-control-system-for-agent-failures-fixes-ev-2026-06-10",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "title": "I built a local control system for agent failures, fixes, evals, and gates to...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, r/comfyui, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-06-10T00:11:02.238Z",
+    "readingTime": 5,
+    "sourceCount": 2,
+    "tags": [
+      "ai-agents",
+      "ai-observability",
+      "software-engineering",
+      "self-improvement-loop",
+      "evals"
+    ],
+    "highlights": [
+      {
+        "text": "Sự ảo tưởng về 'demo mượt': Nhiều developer tin rằng AI của họ ổn định cho đến khi gặp những lỗi 'thảm họa' mà hệ thống logging không ghi nhận được."
+      },
+      {
+        "text": "Vòng lặp tự cải thiện (Self-improvement loops): Ý tưởng chạy agent -> tìm lỗi -> sửa lỗi -> lặp lại là khả thi, nhưng thiếu hạ tầng quản lý."
+      },
+      {
+        "text": "Giải pháp Local Control System: Xây dựng hệ thống quản lý tập trung (SQLite, Dashboard) để biến các vết lỗi (traces) thành các issue có bằng chứng."
+      },
+      {
+        "text": "Chiến lược 'Gate' (Cổng kiểm soát): Chỉ cho phép áp dụng fix tự động sau khi vượt qua các bài eval và check định tính/định lượng."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Cái bẫy của sự tự tin trong phát triển AI Agent",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Trong cộng đồng phát triển AI, có một câu nói tương tự như giới biker: 'Có hai loại developer shipping AI: những người đã gặp lỗi thảm họa, và những người sắp gặp'. Thực tế, việc một AI Agent hoạt động mượt mà trong môi trường demo hoặc với một nhóm nhỏ người dùng nội bộ không hề đảm bảo chất lượng khi ra thực tế. Nhiều developer tự tin vào các bài test hiện có, nhưng lại hoàn toàn bị động khi người dùng gửi về những ảnh chụp màn hình với kết quả 'rác' (utter garbage) mà không hề có bất kỳ lỗi hệ thống (error log) nào được ghi nhận."
+          },
+          {
+            "type": "paragraph",
+            "text": "Vấn đề cốt lõi ở đây là khoảng trống giữa 'hệ thống bị hỏng' và 'người dùng phát hiện'. Khi feedback loop duy nhất chỉ dựa vào báo cáo của người dùng, developer đang vận hành AI trong tình trạng mù thông tin. Điều này dẫn đến một nhu cầu cấp thiết: chuyển từ tư duy 'hy vọng AI chạy đúng' sang tư duy 'hoang tưởng về chất lượng' (healthy sense of paranoia)."
+          }
+        ]
+      },
+      {
+        "heading": "Từ 'Vibe Coding' đến Hệ thống Kiểm soát Thực thụ",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hiện nay, các coding agent (như Claude Code hay Codex) đã đủ khả năng đọc trace, tìm pattern lỗi và đề xuất bản vá. Tuy nhiên, việc áp dụng cơ chế 'tự cải thiện' (autoresearch-style loops) vào codebase thực tế thường thất bại vì thiếu một hệ thống quản lý xung quanh vòng lặp đó. Nếu chỉ đơn giản là cho AI tự sửa và tự chạy, bạn sẽ đối mặt với rủi ro regression (lỗi cũ quay trở lại) hoặc tạo ra những lỗi mới tinh vi hơn."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "alt": "Luồng hoạt động của Local Control System",
+            "caption": "Quy trình: Capture Trace -> Find Recurring Failures -> Evidence-backed Issues -> Draft Fix -> Eval Gate -> Apply",
+            "credit": "r/AI_Agents",
+            "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1u1fwru/i_built_a_local_control_system_for_agent_failures/",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Một hệ thống kiểm soát cục bộ (Local Control System) hiệu quả cần giải quyết các câu hỏi: Lỗi nào đang lặp lại nhiều nhất? Bằng chứng nào hỗ trợ cho issue này? Bản vá nào đã được đề xuất? Và quan trọng nhất, kết quả eval sau khi vá có tốt hơn không? Bằng cách sử dụng SQLite làm database và một dashboard quản lý, developer có thể biến các trace vô định hình thành những 'issue' có cấu trúc, cho phép AI draft fix nhưng quyền quyết định cuối cùng nằm ở một 'cổng' (gate) kiểm duyệt."
+          }
+        ]
+      },
+      {
+        "heading": "Chiến lược vận hành: Capture, Eval và Gate",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Để hiện thực hóa vòng lặp tự cải thiện mà không làm sập hệ thống, quy trình vận hành cần chia làm 4 giai đoạn nghiêm ngặt: \n\n1. **Capture**: Ghi lại toàn bộ traces của agent trong môi trường thực tế hoặc test-suite.\n2. **Analysis**: Tìm kiếm các lỗi lặp lại (recurring failures) để biến chúng thành các issue có bằng chứng cụ thể thay vì những mô tả mơ hồ.\n3. **Drafting**: Sử dụng coding agent để đề xuất bản vá dựa trên issue đã xác định.\n4. **Gating**: Chạy lại trace bị lỗi, thực hiện các check định tính (deterministic checks) và so sánh kết quả eval. Bản vá chỉ được merge nếu vượt qua gate, nếu không sẽ bị 'park' lại để con người review."
+          },
+          {
+            "type": "paragraph",
+            "text": "Cách tiếp cận này biến việc phát triển AI từ một quá trình 'thử và sai' (trial and error) thành một quy trình kỹ thuật có thể đo lường được. Nó tận dụng sức mạnh của AI trong việc viết code nhưng giữ quyền kiểm soát chất lượng cho con người thông qua các rào chắn kỹ thuật."
+          }
+        ]
+      },
+      {
+        "heading": "Góc nhìn phản biện: Sự đánh đổi giữa Tự động hóa và Kiểm soát",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Việc xây dựng một hệ thống control system cục bộ là giải pháp an toàn, nhưng nó đặt ra thách thức về chi phí vận hành. Việc duy trì một bộ eval đủ lớn để 'chặn' lỗi tại gate đòi hỏi nỗ lực viết test-case khổng lồ. Nếu các bài eval quá lỏng lẻo, gate sẽ trở nên vô dụng; nếu quá chặt, tốc độ cải thiện của agent sẽ bị chậm lại."
+          },
+          {
+            "type": "paragraph",
+            "text": "Hơn nữa, sự phụ thuộc vào các coding agent để sửa lỗi có thể tạo ra một 'vòng lặp mù quáng' nếu developer không thực sự hiểu sâu về logic mà AI vừa sửa. Sự tự tin quá mức vào khả năng tự sửa lỗi của AI có thể khiến đội ngũ kỹ thuật mất đi khả năng debug thủ công khi gặp những lỗi hệ thống nghiêm trọng."
+          }
+        ]
+      },
+      {
+        "heading": "Cơ hội cho Creator và Builder",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đây là thời điểm vàng để xây dựng các công cụ 'AI Observability' chuyên sâu cho Agent. Thay vì chỉ cung cấp log, các builder có thể tạo ra các framework giúp biến log thành 'actionable issues' và tự động hóa quy trình eval. Việc tích hợp các công cụ như Claude Code hay Codex vào một pipeline có kiểm soát sẽ tạo ra lợi thế cạnh tranh lớn cho các sản phẩm AI Agent."
+          },
+          {
+            "type": "paragraph",
+            "text": "Một hướng đi tiềm năng khác là phát triển các 'Eval-as-a-Service' hoặc các thư viện chuẩn hóa cho việc xây dựng gate cho AI agent, giúp các developer nhỏ lẻ không phải tự xây dựng lại toàn bộ hạ tầng SQLite/Dashboard từ đầu."
+          }
+        ]
+      },
+      {
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "AI Agent không còn là câu chuyện về việc 'prompt sao cho hay', mà đã chuyển sang giai đoạn 'vận hành sao cho bền vững'. Việc xây dựng một hệ thống kiểm soát xung quanh vòng lặp tự cải thiện không chỉ giúp giảm thiểu rủi ro mà còn là cách duy nhất để đưa AI từ mức 'đồ chơi' lên mức 'công cụ sản xuất' chuyên nghiệp. Đừng đợi đến khi người dùng gửi screenshot lỗi mới bắt đầu quan tâm đến chất lượng."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Vì sao đáng chú ý",
+        "text": "Nó đánh dấu sự chuyển dịch từ 'Vibe Coding' (viết code theo cảm giác/vibe) sang 'Agent Engineering' (kỹ thuật agent). Việc thừa nhận rằng AI sẽ tạo ra kết quả rác và xây dựng hệ thống để quản lý cái rác đó là bước tiến trưởng thành của cộng đồng AI developer.",
+        "variant": "analysis"
+      },
+      {
+        "title": "Tác động",
+        "text": "Thay đổi cách tiếp cận CI/CD cho AI: Không chỉ là test code mà là test output/trace. Điều này sẽ thúc đẩy sự phát triển của các công cụ local-first AI tooling để đảm bảo quyền riêng tư và tốc độ lặp lại.",
+        "variant": "impact"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Ngừng tin tưởng tuyệt đối vào demo; hãy xây dựng hệ thống capture trace cho mọi tương tác của agent với người dùng.",
+        "Thiết lập một 'Eval Gate' nghiêm ngặt: AI đề xuất fix -> Chạy trace lỗi -> So sánh kết quả -> Con người phê duyệt.",
+        "Xây dựng database cục bộ (như SQLite) để quản lý lịch sử lỗi và các bản vá, tránh việc sửa lỗi này làm hỏng tính năng kia (regression)."
+      ]
+    },
+    "sources": [
+      {
+        "title": "I built a local control system for agent failures, fixes, evals, and gates",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1u1fwru/i_built_a_local_control_system_for_agent_failures/"
+      },
+      {
+        "title": "There are two types of developers shipping AI features",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1u1eskx/there_are_two_types_of_developers_shipping_ai/"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-06-10T00:11:02.238Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_2_i-built-a-local-control-system-for-agent-failures-fixes-evals-an_2026-06-10",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_i-built-a-local-control-system-for-agent-failures-fixes-evals-an_2026-06-10_en",
+    "slug": "i-built-a-local-control-system-for-agent-failures-fixes-ev-2026-06-10",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "title": "I built a local control system for agent failures, fixes, evals, and gates to...: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/AI_Agents, r/comfyui, Vercel AI Blog, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-06-10T00:11:56.282Z",
+    "readingTime": 4,
+    "sourceCount": 3,
+    "tags": [
+      "ai-agents",
+      "vibe-coding",
+      "software-engineering",
+      "observability",
+      "LLM-ops"
+    ],
+    "highlights": [
+      {
+        "text": "The 'Biker's Paradox' of AI: Every developer shipping agentic features will eventually encounter catastrophic, silent failures."
+      },
+      {
+        "text": "Transitioning from 'vibe-coding' to 'system-coding' via local control loops that capture traces and automate fixes."
+      },
+      {
+        "text": "The critical need for 'Gates'—deterministic checks and human-in-the-loop reviews—to prevent agentic regressions."
+      },
+      {
+        "text": "Frontend evolution in AI tools (e.g., ComfyUI Nodes 2.0) is increasingly powered by coding agents to handle complex migrations."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Context: The Illusion of Stability",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For many developers, the early stages of shipping AI features feel like a victory lap. Internal demos are smooth, initial testing is positive, and the 'vibes' are right. However, as noted by contributors in r/AI_Agents, there is a recurring pattern similar to the 'biker's paradox': there are those who have shipped AI that produces 'utter garbage' outputs, and those who will. The danger lies in the silent failure—scenarios where no error is logged in the backend, but the user experience is catastrophically degraded. This gap between 'it works in demo' and 'it works for 10,000 users' is where most current AI agent implementations fail, relying on user reports as the primary feedback loop rather than proactive observability."
+          }
+        ]
+      },
+      {
+        "heading": "Deep Analysis: The Architecture of Self-Correction",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "To move beyond the fragility of vibe-coding, a new architectural pattern is emerging: the Local Control System for Agent Improvement. Rather than simply prompting an agent and hoping for the best, developers are building infrastructure around the 'autoresearch' loop. This involves a four-stage cycle: Capture, Analyze, Fix, and Gate. First, agent runs are captured as detailed traces. Second, the system identifies recurring failure patterns across these traces, turning them into evidence-backed issues. Third, coding agents (like Claude Code or Codex) draft fixes based on this evidence. Finally, the fix is subjected to a 'Gate'—a series of deterministic checks and evaluation runs—to ensure the fix solves the problem without introducing regressions."
+          },
+          {
+            "type": "paragraph",
+            "text": "Crucially, this system is moving toward a 'local-first' approach. By utilizing SQLite databases and local dashboards for traces and proposals, developers can iterate on agent behavior without the latency or privacy concerns of hosted evaluation platforms. This transforms the development process from a game of prompt-engineering chance into a rigorous engineering discipline where every failure is a data point for a permanent fix."
+          }
+        ]
+      },
+      {
+        "heading": "Critical Perspective: The 'Vibe' vs. The 'Gate'",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The tension in current AI development is between the speed of 'vibe-coding'—where developers rapidly prototype using LLMs—and the necessity of 'system-coding.' The allure of vibe-coding is its immediacy; you can build a feature in hours that would have taken months. But as the ComfyUI Nodes 2.0 transition demonstrates, the technical debt of 'drawing every widget pixel by pixel' or relying on fragile, non-standard frameworks eventually becomes a bottleneck. The transition to modern frontend frameworks in ComfyUI is a metaphor for the broader AI shift: moving from bespoke, fragile implementations to scalable, standardized systems that can leverage existing ecosystems (like component libraries and accessibility tools)."
+          },
+          {
+            "type": "paragraph",
+            "text": "The danger is that developers may mistake the *capability* of a coding agent for the *reliability* of the system. An agent can propose a fix, but without a deterministic gate, the agent is simply swapping one 'vibe' for another. The real innovation isn't the agent's ability to code; it's the developer's ability to build the cage (the control system) that keeps the agent's output within acceptable bounds."
+          }
+        ]
+      },
+      {
+        "heading": "Opportunities for Creators / Builders",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For those building agentic workflows, the opportunity lies in the 'Infrastructure of Trust.' There is a massive gap in the market for tools that provide local-first observability and automated regression testing for LLM outputs. Builders should focus on creating 'evidence-backed' issue trackers—systems that don't just say 'the agent failed,' but link the failure to a specific trace, a specific prompt version, and a specific evaluation metric."
+          },
+          {
+            "type": "paragraph",
+            "text": "Furthermore, the use of coding agents to migrate legacy systems is a high-value play. As seen with ComfyUI, the ability to use agents to handle the 'grunt work' of frontend migration allows human developers to focus on high-level architecture and user experience. Developers who can build 'migration pipelines'—where agents propose changes and humans audit them through a structured gate—will be able to modernize legacy software at a fraction of the traditional cost."
+          }
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The era of shipping AI based on 'good vibes' is ending. As agents move from novelty to production-critical infrastructure, the focus is shifting toward the 'control system.' By implementing local loops of capture, evidence-based fixing, and deterministic gating, developers can move from a state of paranoia to a state of confidence. The goal is no longer just to make the agent 'smart,' but to make the system around the agent 'reliable.' Those who build the gates will be the ones who successfully scale AI in the real world."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Why This Matters",
+        "text": "The transition from 'vibe-coding' to 'system-coding' represents the professionalization of AI development. Relying on user reports for failure detection is a recipe for churn; building local control loops allows for proactive quality assurance.",
+        "variant": "analysis"
+      },
+      {
+        "title": "Impact",
+        "text": "The adoption of 'Gates' and automated eval loops will significantly reduce the time-to-production for complex agents, shifting the bottleneck from 'fixing bugs' to 'defining success metrics.'",
+        "variant": "impact"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Stop relying on manual testing; implement a local SQLite-based trace capture system to identify recurring failure patterns.",
+        "Build a 'Gate' for every agentic fix: a requirement that the new code passes a deterministic test and a comparison eval before deployment.",
+        "Leverage coding agents not just for feature creation, but for the systematic migration of legacy components to modern frameworks."
+      ]
+    },
+    "sources": [
+      {
+        "title": "There are two types of developers shipping AI features",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1u1eskx/there_are_two_types_of_developers_shipping_ai/",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "title": "I built a local control system for agent failures, fixes, evals, and gates",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1u1fwru/i_built_a_local_control_system_for_agent_failures/",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "title": "An Update on Nodes 2.0 from Comfy Org",
+        "publisher": "r/comfyui",
+        "url": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
+        "publishedAt": "2026-05-22"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-06-10T00:11:56.282Z",
+      "sourceClusterId": "cluster_ai-vibe-coding_2_i-built-a-local-control-system-for-agent-failures-fixes-evals-an_2026-06-10",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-agentic_2_lil-log_2026-06-10_vi",
+    "slug": "lil-log-goc-nhin-cho-creator-va-builder-2026-06-10",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "title": "Lil'Log: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "publishedAt": "2026-06-10T00:11:07.570Z",
+    "readingTime": 4,
+    "sourceCount": 4,
+    "tags": [
+      "AI-Agents",
+      "Model-Routing",
+      "Anthropic-Fable5",
+      "Token-Optimization",
+      "AI-Economics"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://lilianweng.github.io/about.jpg",
+      "alt": "Giao diện blog Lil'Log của Lilian Weng",
+      "caption": "Lil'Log là nguồn tài liệu uy tín cho các kỹ sư AI khi tiếp cận kiến trúc Agentic",
+      "credit": "Lil'Log"
+    },
+    "highlights": [
+      {
+        "text": "Sự ra đời của Fable 5 (Anthropic) đánh dấu kỷ nguyên của các mô hình 'Mythos-class' với khả năng tự trị dài hạn."
+      },
+      {
+        "text": "Hiện tượng 'Fan-out' khiến chi phí vận hành AI Agent tăng vọt, biến việc định tuyến mô hình (Model Routing) thành yêu cầu bắt buộc."
+      },
+      {
+        "text": "Chiến lược 'Default-to-the-best-model' chính thức lỗi thời; thay thế bằng kiến trúc phân tầng chi phí."
+      },
+      {
+        "text": "Tầm quan trọng của Prompt Caching và Token Budgeting trong việc duy trì tính bền vững kinh tế cho các sản phẩm AI."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Bối cảnh: Khi 'Sức mạnh' đối đầu với 'Chi phí'",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Trong hệ sinh thái AI Agent, chúng ta đang chứng kiến một sự dịch chuyển mạnh mẽ từ các chatbot đơn giản sang các hệ thống tự trị (autonomous systems). Sự xuất hiện của Fable 5 từ Anthropic — một mô hình phân khúc 'Mythos-class' nằm trên cả Opus — đã mở ra khả năng xử lý các phiên làm việc kéo dài nhiều ngày với khả năng ủy quyền cho các sub-agent. Tuy nhiên, đi kèm với sức mạnh này là một bài toán kinh tế khốc liệt: mức giá $10/M input và $50/M output, gấp đôi so với Opus 4.8."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://lilianweng.github.io/about.jpg",
+            "alt": "Giao diện blog Lil'Log của Lilian Weng",
+            "caption": "Lil'Log là nguồn tài liệu uy tín cho các kỹ sư AI khi tiếp cận kiến trúc Agentic",
+            "credit": "Lil'Log",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "Điểm mấu chốt không nằm ở bảng giá niêm yết, mà nằm ở hiện tượng 'fan-out'. Một câu hỏi duy nhất từ người dùng không còn là một lượt phản hồi đơn lẻ. Nó khởi động một chuỗi quy trình: lập kế hoạch (planning pass), khởi tạo nhiều sub-agent, lặp lại gọi công cụ (tool call loops), thử lại (retries) và tự xác minh (self-verification). Kết quả là một yêu cầu đơn giản có thể tiêu tốn hàng triệu token, biến một tác vụ nhỏ thành một hóa đơn lên đến bốn chữ số."
+          }
+        ]
+      },
+      {
+        "heading": "Phân tích chi tiết: Cái chết của chiến lược 'Model mặc định'",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Trước đây, các developer thường chọn mô hình mạnh nhất (như GPT-4o hay Opus) làm mặc định cho toàn bộ luồng công việc để đảm bảo chất lượng. Nhưng với sự xuất hiện của các mô hình siêu cấp như Fable 5, cách tiếp cận này trở thành 'tự sát' về mặt tài chính. Khi một hệ thống agentic fan-out mạnh mẽ, chi phí sẽ tăng theo cấp số nhân chứ không phải cấp số cộng."
+          },
+          {
+            "type": "paragraph",
+            "text": "Để tồn tại, kiến trúc Agent hiện nay bắt buộc phải tích hợp một lớp Router (Bộ định tuyến) thông minh. Router này đóng vai trò như một 'điều phối viên kinh tế', phân loại tác vụ để chọn mô hình phù hợp: sử dụng Haiku/Sonnet cho các việc phân loại, trích xuất dữ liệu và kết nối (glue work); dùng mô hình tầm trung cho suy luận tiêu chuẩn; và chỉ triệu hồi Fable 5 cho những bước thực sự cần khả năng frontier."
+          }
+        ]
+      },
+      {
+        "heading": "Góc nhìn phản biện: Hiệu năng có bù đắp được chi phí?",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Có một lập luận rằng đối với các bài toán dài hạn (long-horizon problems) cực khó, Fable 5 có thể tự chi trả cho chính nó bằng cách giảm thiểu sai sót và thời gian làm việc của con người. Tuy nhiên, rủi ro nằm ở sự thiếu minh bạch trong quan sát (observability). Nếu developer chỉ theo dõi 'chi phí trên mỗi lần gọi' (cost per call) thay vì 'chi phí trên mỗi tác vụ' (cost per task), họ sẽ không nhận ra ngân sách đang bị 'đốt' cho đến khi quá muộn."
+          },
+          {
+            "type": "paragraph",
+            "text": "Ví dụ điển hình là trường hợp của Uber, được cho là đã tiêu hết ngân sách AI năm chỉ trong 4 tháng. Điều này cho thấy một lỗ hổng lớn trong tư duy thiết kế: coi AI là một chi phí vận hành cố định thay vì một biến số phụ thuộc vào độ phức tạp của luồng suy luận (reasoning chain)."
+          }
+        ]
+      },
+      {
+        "heading": "Cơ hội cho Creator / Builder",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đây là thời điểm vàng cho những ai xây dựng công cụ 'AI Orchestration' (Điều phối AI). Thị trường đang khát các giải pháp quản lý Token Budgeting và giám sát chi phí theo thời gian thực. Việc tích hợp Prompt Caching (với mức giảm giá input lên tới 90%) không còn là một tùy chọn tối ưu mà là một yêu cầu sống còn."
+          },
+          {
+            "type": "paragraph",
+            "text": "Ngoài ra, việc kết hợp các mô hình chuyên biệt (như Lora trong mảng hình ảnh của Ideogram 4.0) cho thấy xu hướng 'chia để trị'. Thay vì một mô hình làm tất cả, việc xây dựng một hệ sinh thái các mô hình nhỏ, chuyên sâu, được điều phối bởi một Agent thông minh sẽ là hướng đi bền vững hơn."
+          }
+        ]
+      },
+      {
+        "heading": "Kết luận",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Cuộc đua AI Agent đang chuyển từ cuộc đua về 'độ thông minh' sang cuộc đua về 'hiệu quả kinh tế'. Fable 5 là một minh chứng cho thấy sức mạnh vô biên của AI, nhưng cũng là lời cảnh báo về cái bẫy chi phí của hiện tượng fan-out. Để xây dựng những ứng dụng AI có khả năng scale, các builder cần ngừng tư duy về 'mô hình nào tốt nhất' và bắt đầu tư duy về 'mô hình nào phù hợp nhất cho bước này'."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Vì sao đáng chú ý",
+        "text": "Sự xuất hiện của phân khúc 'Mythos-class' tạo ra một khoảng cách chi phí khổng lồ. Điều này buộc cộng đồng developer phải thay đổi toàn bộ tư duy thiết kế hệ thống từ 'tĩnh' (config một lần) sang 'động' (quyết định theo bước).",
+        "variant": "analysis"
+      },
+      {
+        "title": "Tác động",
+        "text": "Thúc đẩy sự phát triển của các công cụ Observability cho AI. Các framework như MCP (Model Context Protocol) sẽ trở nên quan trọng hơn để chuẩn hóa cách agent tương tác với công cụ và dữ liệu mà không làm bùng nổ token.",
+        "variant": "impact"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Triển khai Model Router: Xây dựng lớp phân loại tác vụ để điều hướng giữa mô hình rẻ (Haiku/Sonnet) và mô hình cao cấp (Fable 5).",
+        "Thiết lập Token Budget: Đặt trần chi phí (cost ceiling) cho mỗi tác vụ cụ thể để ngăn chặn hiện tượng fan-out gây thâm hụt ngân sách.",
+        "Tối ưu Prompt Caching: Tận dụng tối đa cơ chế cache cho các prompt lặp lại để giảm chi phí input.",
+        "Theo dõi Cost-per-Task: Thay đổi metric giám sát từ 'cost per call' sang 'cost per end-user request'."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Fable 5 just made cost-aware model routing mandatory for agent builders",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1u1cyx1/fable_5_just_made_costaware_model_routing/"
+      },
+      {
+        "title": "Lil'Log",
+        "publisher": "Lil'Log",
+        "url": "https://lilianweng.github.io/"
+      },
+      {
+        "title": "Ideogram 4.0 Realism Engine Lora (Beta)",
+        "publisher": "r/StableDiffusion",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1u1cah3/ideogram_40_realism_engine_lora_beta/"
+      },
+      {
+        "title": "MCP Blog signal for ai-agentic",
+        "publisher": "MCP Blog",
+        "url": "https://modelcontextprotocol.io/blog"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-vi-v2",
+      "generatedAt": "2026-06-10T00:11:07.570Z",
+      "sourceClusterId": "cluster_ai-agentic_2_lil-log_2026-06-10",
+      "confidence": "high"
+    },
+    "status": "published"
+  },
+  {
+    "id": "cluster_ai-agentic_2_lil-log_2026-06-10_en",
+    "slug": "lil-log-creator-and-builder-analysis-2026-06-10",
+    "lang": "en",
+    "category": "ai-agentic",
+    "title": "Lil'Log: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, r/StableDiffusion, Lil'Log, scored by recency, content depth, and source reliability.",
+    "publishedAt": "2026-06-10T00:11:29.946Z",
+    "readingTime": 4,
+    "sourceCount": 3,
+    "tags": [
+      "ai-agents",
+      "llm-orchestration",
+      "cost-optimization",
+      "anthropic-fable",
+      "agentic-workflows"
+    ],
+    "heroMedia": {
+      "type": "image",
+      "src": "https://lilianweng.github.io/static/images/blog-banner.png",
+      "alt": "A conceptual visualization of agentic workflows and cognitive architectures",
+      "caption": "The shift toward complex agentic orchestration requires a fundamental rethink of model routing and cost management.",
+      "credit": "Lil'Log / Conceptual"
+    },
+    "highlights": [
+      {
+        "text": "The arrival of 'Mythos-class' models like Fable 5 shifts the agentic bottleneck from capability to economic sustainability."
+      },
+      {
+        "text": "Agentic 'fan-out'—where one user prompt triggers dozens of sub-tasks—is creating unpredictable, four-figure bills for single requests."
+      },
+      {
+        "text": "Static model configuration is dead; cost-aware routing is now a mandatory architectural requirement for production agents."
+      },
+      {
+        "text": "Prompt caching and per-task cost ceilings are emerging as the primary levers for controlling autonomous agent spend."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Context: The New Frontier of Agentic Costs",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The landscape of AI agents is undergoing a violent transition from 'experimental' to 'industrial.' While the community has long tracked the theoretical frameworks of agentic reasoning—documented extensively by researchers like Lilian Weng in Lil'Log—the practical reality is hitting a financial wall. The recent release of Anthropic's Fable 5, a 'Mythos-class' model positioned above Opus, has highlighted a critical flaw in current agent architectures: the assumption of linear cost. With pricing at $10/M input and $50/M output, Fable 5 is double the cost of its predecessor, but the actual spend is compounding exponentially due to the nature of agentic workflows."
+          },
+          {
+            "type": "media",
+            "mediaType": "image",
+            "src": "https://lilianweng.github.io/static/images/blog-banner.png",
+            "alt": "A conceptual visualization of agentic workflows and cognitive architectures",
+            "caption": "The shift toward complex agentic orchestration requires a fundamental rethink of model routing and cost management.",
+            "credit": "Lil'Log / Conceptual",
+            "placement": "after-paragraph"
+          },
+          {
+            "type": "paragraph",
+            "text": "As discussed in recent developer circles on r/AI_Agents, the primary danger is no longer the base rate card, but 'fan-out.' In an agentic system, a single user query is rarely a single completion. It is a recursive loop of planning passes, sub-agent spawns, tool calls, and self-verification cycles. When these loops are powered by frontier models, a single complex request can fan out into millions of tokens, turning a simple interaction into a high-cost event."
+          }
+        ]
+      },
+      {
+        "heading": "Deep Analysis: The Death of the 'Default-to-Best' Strategy",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For the past year, the prevailing wisdom for developers was to 'default to the best model' to ensure reliability. However, the economic reality of Mythos-class models makes this strategy untenable. When a model thinks longer and writes more per turn—as Fable 5 is designed to do for long-horizon problems—the effective cost per task skyrockets far beyond the 2x price increase on the surface. This creates a 'cost-complexity trap' where the more capable the agent becomes at solving hard problems, the more likely it is to bankrupt the operator."
+          },
+          {
+            "type": "paragraph",
+            "text": "This necessitates a shift toward 'Cost-Aware Model Routing.' The orchestrator can no longer be a simple pass-through; it must act as a financial governor. This involves a tiered routing strategy: using lightweight models (Haiku/Sonnet class) for classification and extraction, mid-tier models for standard reasoning, and reserving the frontier 'Mythos' models only for the critical path steps that genuinely require high-order cognition. Without this, the 'fan-out' effect becomes a liability that can consume annual budgets in months, a phenomenon already whispered about in large-scale enterprise deployments."
+          }
+        ]
+      },
+      {
+        "heading": "Critical Perspective: The Observability Gap",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The industry is currently suffering from a massive observability gap. Most developers track 'cost per call,' but in an agentic world, this metric is useless. The only metric that matters is 'cost per task.' Because a single task can trigger an unpredictable number of calls, the variance in cost is extreme. If an agent enters a retry loop or a self-correction spiral using a $50/M output model, the cost is no longer a predictable operational expense—it is a volatility risk."
+          },
+          {
+            "type": "paragraph",
+            "text": "Furthermore, the marketing of 'multi-day autonomous sessions' by providers like Anthropic encourages a level of autonomy that is economically dangerous without strict guardrails. We are seeing a divergence where the model's capability is outstripping the developer's ability to budget for it. The 'vibe coding' era of just prompting and hoping is being replaced by a rigorous need for token budgets and per-task cost ceilings integrated directly into the orchestration layer."
+          }
+        ]
+      },
+      {
+        "heading": "Opportunities for Creators / Builders",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This economic tension creates a massive opportunity for builders focusing on the 'Agentic Middleware' layer. There is a desperate need for sophisticated routers that can predict the complexity of a sub-task and assign the cheapest possible model capable of solving it. Builders who can implement 'LLM-as-a-Judge' routers—where a small, fast model decides if a task needs a Mythos-class model—will provide immense value to enterprises."
+          },
+          {
+            "type": "paragraph",
+            "text": "Additionally, prompt caching is no longer an optimization; it is a survival strategy. With 90% input discounts available, the ability to cache the 'contextual state' of a long-running agent session is the only way to make autonomous agents viable at scale. Developers who build specialized caching layers for agentic memory will see a significant competitive advantage."
+          }
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The transition to Mythos-class models like Fable 5 marks the end of the 'naive' era of AI agents. We are moving into an era of 'Economic Orchestration,' where the primary challenge is not just making the agent smart, but making it sustainable. The shift from static configurations to dynamic, cost-aware routing is the new baseline for any developer aiming for production-grade agentic systems. Those who ignore the 'fan-out' effect will find their budgets evaporating, while those who master the routing layer will unlock the true power of autonomous, long-horizon AI."
+          }
+        ]
+      }
+    ],
+    "insightBlocks": [
+      {
+        "title": "Why This Matters",
+        "text": "The 'fan-out' effect transforms AI costs from a predictable linear expense into an exponential risk. When a single user single-turn interaction can trigger a recursive chain of high-cost model calls, the financial risk shifts from the provider to the developer's orchestration logic.",
+        "variant": "analysis"
+      },
+      {
+        "title": "Impact",
+        "text": "We are seeing the emergence of 'Model Tiering' as a core architectural pattern. The 'best model' is no longer the default; it is a precision tool used sparingly. This will drive a surge in demand for high-performance, low-cost 'router' models and advanced observability tools that track cost per user-intent rather than cost per API call.",
+        "variant": "impact"
+      }
+    ],
+    "takeaway": {
+      "title": "Creator / Builder Takeaway",
+      "items": [
+        "Implement a multi-tier router: Use Haiku/Sonnet for glue work and Fable/Opus only for final reasoning.",
+        "Shift observability metrics from 'cost per call' to 'cost per task' to identify high-variance fan-out loops.",
+        "Set hard token budgets and cost ceilings at the orchestration layer to prevent recursive loop bankruptcy.",
+        "Prioritize prompt caching for all long-horizon agent sessions to leverage input discounts."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Fable 5 just made cost-aware model routing mandatory for agent builders",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1u1cyx1/fable_5_just_made_costaware_model_routing/",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "title": "Lil'Log",
+        "publisher": "Lil'Log",
+        "url": "https://lilianweng.github.io/",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "title": "Weekly Thread: Project Display",
+        "publisher": "r/AI_Agents",
+        "url": "https://www.reddit.com/r/AI_Agents/comments/1tvtqa7/weekly_thread_project_display/",
+        "publishedAt": "2026-06-03"
+      }
+    ],
+    "generation": {
+      "model": "gemma4:31b",
+      "promptVersion": "article-en-v2",
+      "generatedAt": "2026-06-10T00:11:29.946Z",
+      "sourceClusterId": "cluster_ai-agentic_2_lil-log_2026-06-10",
       "confidence": "high"
     },
     "status": "published"
