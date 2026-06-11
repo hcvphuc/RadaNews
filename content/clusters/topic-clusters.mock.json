@@ -1,26 +1,26 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-10",
+    "clusterId": "cluster_ai-agentic_1_datasette-agent-0-2a0_2026-06-11",
     "category": "ai-agentic",
-    "topic": "LangChain Blog",
+    "topic": "datasette-agent 0.2a0",
     "sourceIds": [
+      "src_simonwillison-blog_855e405c4a9849c0",
       "src_langchain-blog_40ded3f923e3291d",
+      "src_simonwillison-blog_388f677a1da8e66c",
       "src_luma-blog_c7449029956c34f9",
-      "src_simonwillison-blog_66e78f82599cdfe1",
-      "src_simonwillison-blog_4c55ac6155174066",
+      "src_replit-blog_49899058ba32f8e5",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_d004d13a4cf84edc",
+      "src_reddit-comfyui_bc43e104debab997",
       "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_reddit-aiagents_60a17bf4860f5278"
+      "src_lilianweng-blog_31a2c7baf9b791a5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-10",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-11",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
@@ -35,73 +35,74 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-10",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-11",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
+      "src_simonwillison-blog_4335c14870e4867e",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-comfyui_cf6d76de5c0c4946",
-      "src_comfyui-blog_fa3eb47ac5fb52c8",
-      "src_reddit-stablediffusion_02ffc3374f94a50e",
+      "src_comfyui-blog_469b943374a61749",
+      "src_reddit-stablediffusion_464f1976a634cdf4",
       "src_reddit-comfyui_771d5c6c972895ab"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Black Forest Labs.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-10",
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-11",
     "category": "ai-video",
     "topic": "Kling AI",
     "sourceIds": [
       "src_kling-blog_93b43a5f7aed1c98",
+      "src_reddit-aiagents_c931badecb5fa3bf",
       "src_reddit-aivideo_a7a9a72758720ba6",
       "src_pika-blog_80e55ecea6acd04d"
     ],
-    "articleWorthinessScore": 0.86,
-    "reasonSelected": "Score 0.86 from 3 source item(s), 3 live crawl(s), strongest sources: Kling AI Blog, r/aivideo, Pika Labs Blog.",
+    "articleWorthinessScore": 0.92,
+    "reasonSelected": "Score 0.92 from 4 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, r/AI_Agents, r/aivideo.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_should-ai-prompt-human-more_2026-06-10",
-    "category": "ai-agentic",
-    "topic": "Should AI prompt human more?",
-    "sourceIds": [
-      "src_reddit-aiagents_3f1f881377390223",
-      "src_reddit-stablediffusion_a9510eb899465b01",
-      "src_reddit-stablediffusion_66892348ca8222e9",
-      "src_reddit-comfyui_66d16b6345f7e0ae",
-      "src_reddit-aiagents_ee3aadb48deff499",
-      "src_reddit-aiagents_afcefd8b07fa0ebf",
-      "src_reddit-aiagents_bfc588e0191c755b",
-      "src_openai-blog_2026-06-10_fallback",
-      "src_mcp-blog_2026-06-10_fallback"
-    ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 9 source item(s), 7 live crawl(s), strongest sources: r/AI_Agents, r/StableDiffusion, r/comfyui.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-10",
+    "clusterId": "cluster_ai-vibe-coding_2_i-upgraded-the-ideogram-4-prompt-builder-node-kjnodes-using-clau_2026-06-11",
     "category": "ai-vibe-coding",
-    "topic": "Replit — Replit Blog – Product updates from the team",
+    "topic": "I upgraded the Ideogram 4 Prompt Builder node (KJNodes) using Claude Fable 5 ...",
     "sourceIds": [
-      "src_replit-blog_49899058ba32f8e5",
+      "src_reddit-stablediffusion_68ce1f2e5dd92370",
+      "src_reddit-comfyui_4d905553bb6ded39",
       "src_reddit-comfyui_f0fcbff5cbf30b57",
-      "src_vercel-ai-blog_2026-06-10_fallback"
+      "src_vercel-ai-blog_2026-06-11_fallback"
     ],
-    "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/comfyui, Vercel AI Blog.",
+    "articleWorthinessScore": 0.91,
+    "reasonSelected": "Score 0.91 from 4 source item(s), 3 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_v8-alpha-is-here_2026-06-10",
+    "clusterId": "cluster_ai-agentic_2_ideogram-4-character-reference-workflow_2026-06-11",
+    "category": "ai-agentic",
+    "topic": "Ideogram 4 Character Reference Workflow",
+    "sourceIds": [
+      "src_reddit-stablediffusion_8671374226527fa8",
+      "src_reddit-aiagents_20671ee82e95366c",
+      "src_reddit-stablediffusion_75c597c3a3976187",
+      "src_reddit-aiagents_8bffe3bd2d26e472",
+      "src_reddit-aiagents_05820c8575508649",
+      "src_reddit-aiagents_afcefd8b07fa0ebf",
+      "src_openai-blog_2026-06-11_fallback",
+      "src_mcp-blog_2026-06-11_fallback"
+    ],
+    "articleWorthinessScore": 0.86,
+    "reasonSelected": "Score 0.86 from 8 source item(s), 6 live crawl(s), strongest sources: r/StableDiffusion, r/AI_Agents, OpenAI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_2_v8-alpha-is-here_2026-06-11",
     "category": "ai-image",
     "topic": "V8 alpha is here!",
     "sourceIds": [
@@ -109,22 +110,21 @@
       "src_reddit-midjourney_8df2718c2362b144",
       "src_reddit-mediasynthesis_459f419f1f6e36c2",
       "src_reddit-stablediffusion_52c53557a0219836",
-      "src_reddit-stablediffusion_8bf3c3c01ee3daec",
-      "src_reddit-comfyui_464353a2f55ee1ad",
-      "src_stability-ai-blog_2026-06-10_fallback"
+      "src_reddit-comfyui_309af6aa7a587697",
+      "src_stability-ai-blog_2026-06-11_fallback"
     ],
     "articleWorthinessScore": 0.79,
-    "reasonSelected": "Score 0.79 from 7 source item(s), 6 live crawl(s), strongest sources: r/midjourney, r/MediaSynthesis, r/StableDiffusion.",
+    "reasonSelected": "Score 0.79 from 6 source item(s), 5 live crawl(s), strongest sources: r/midjourney, r/MediaSynthesis, r/StableDiffusion.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_very-awkward-situation_2026-06-10",
+    "clusterId": "cluster_ai-video_2_hot-trash_2026-06-11",
     "category": "ai-video",
-    "topic": "very awkward situation",
+    "topic": "Hot Trash",
     "sourceIds": [
-      "src_reddit-aivideo_b97a05c14b49c805",
-      "src_reddit-aivideo_415b3088d6030e71",
+      "src_reddit-aivideo_b862c18bcee1be53",
+      "src_reddit-aivideo_0f302b9f4e3df415",
       "src_reddit-aivideo_5a163fe980d106d8"
     ],
     "articleWorthinessScore": 0.68,
@@ -133,11 +133,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_1_powerfalls_2026-06-10",
+    "clusterId": "cluster_prompt-image_1_templar-drip-v2_2026-06-11",
     "category": "prompt-image",
-    "topic": "Powerfalls",
+    "topic": "templar drip v2",
     "sourceIds": [
-      "src_reddit-midjourney_120c64cb9eb204d8",
+      "src_reddit-midjourney_03128cf7c32708ce",
       "src_reddit-midjourney_91b2adc8759ef075"
     ],
     "articleWorthinessScore": 0.61,
@@ -146,7 +146,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_1_a-sinful-world-40k-concept-trailer_2026-06-10",
+    "clusterId": "cluster_prompt-video_1_a-sinful-world-40k-concept-trailer_2026-06-11",
     "category": "prompt-video",
     "topic": "A Sinful World | 40K Concept Trailer",
     "sourceIds": [
@@ -160,11 +160,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-image_2_at-the-lake_2026-06-10",
+    "clusterId": "cluster_prompt-image_2_more-mystics_2026-06-11",
     "category": "prompt-image",
-    "topic": "At the lake",
+    "topic": "More Mystics",
     "sourceIds": [
-      "src_reddit-midjourney_02f9149b2b9f4549"
+      "src_reddit-midjourney_1ff20eab66e724cb"
     ],
     "articleWorthinessScore": 0.54,
     "reasonSelected": "Score 0.54 from 1 source item(s), 1 live crawl(s), strongest sources: r/midjourney.",
@@ -172,7 +172,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_prompt-video_2_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-06-10",
+    "clusterId": "cluster_prompt-video_2_ai-won-the-2025-commonwealth-short-story-prize-competition_2026-06-11",
     "category": "prompt-video",
     "topic": "AI won the 2025 Commonwealth Short Story Prize competition",
     "sourceIds": [
