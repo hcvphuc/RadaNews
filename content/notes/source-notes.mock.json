@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-12T13:56:52.617Z",
+    "publishedAt": "2026-06-13T00:18:04.080Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Deployment Ship and scale agents in production Fleet Agents for the whole company Sandboxes Run agent-generated code safely Open Source Frameworks deepagents Build long-running agents for complex tasks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Max Agency Podcast How Benchling builds agents when the smartest AI isn't smart enough James Donner June 11, 2026 4 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min Recent stories Max Agency Podcast How Benchling builds agents when the smartest AI isn't smart enough James Donner June 11, 2026 4 min Open Source The Missing Link Between Agents and Applications Christian Bromann June 10, 2026 6 min Systems at LangChain Full Text Search in SmithDB: Designing an Inverted Index for Object Storage Ankush Gola Akshay Aurora Sumedh Arani June 10, 2026 15 min LangSmith Give your agent its own computer Amy Ru June 5, 2026 7 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Open Source Agent Architecture LangGraph Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers Quanzheng Long Sydney Runkle June 4, 2026 7 min Open Source LangChain Agent Architecture Deep Agents How to Build a Custom Agent Harness Sydney Runkle June 3, 2026 6 min Case Studies How Harmonic Rebuilt Scout on Deep Agents and 4x'd Retention with LangSmith Sofia Sulikowski June 3, 2026 8 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min Deep Agents Open Source Agent Architecture Introducing Rubrics: Build Agents that Evaluate and Correct Their Work Shrikar Seshadri Sydney Runkle June 2, 2026 4 min Case Studies How Rippling Went AI-Native Across Every Product in 6 Months with Deep Agents and LangSmith Sofia Sulikowski June 1, 2026 6 min Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min LangSmith Mission Control: Operating Self-Hosted LangSmith on Kubernetes Gethin Dibben May 26, 2026 6 min LangChain Open Source LangGraph From Token Streams to Agent Streams Christian Bromann Nick Hollon May 21, 2026 9 min 1 ...",
+      "Case Studies Building Box AI: How an Enterprise Content Platform Went AI-Native with Deep Agents Sofia Sulikowski June 12, 2026 6 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min Recent stories Case Studies Building Box AI: How an Enterprise Content Platform Went AI-Native with Deep Agents Sofia Sulikowski June 12, 2026 6 min LangSmith How to Choose the Right Sandbox for Your Agent Rahul Verma June 12, 2026 min Max Agency Podcast How Benchling builds agents when the smartest AI isn't smart enough James Donner June 11, 2026 4 min Open Source The Missing Link Between Agents and Applications Christian Bromann June 10, 2026 6 min Systems at LangChain Full Text Search in SmithDB: Designing an Inverted Index for Object Storage Ankush Gola Akshay Aurora Sumedh Arani June 10, 2026 15 min LangSmith Give your agent its own computer Amy Ru June 5, 2026 7 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Open Source Agent Architecture LangGraph Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers Quanzheng Long Sydney Runkle June 4, 2026 7 min Open Source LangChain Agent Architecture Deep Agents How to Build a Custom Agent Harness Sydney Runkle June 3, 2026 6 min Case Studies How Harmonic Rebuilt Scout on Deep Agents and 4x'd Retention with LangSmith Sofia Sulikowski June 3, 2026 8 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min Deep Agents Open Source Agent Architecture Introducing Rubrics: Build Agents that Evaluate and Correct Their Work Shrikar Seshadri Sydney Runkle June 2, 2026 4 min Case Studies How Rippling Went AI-Native Across Every Product in 6 Months with Deep Agents and LangSmith Sofia Sulikowski June 1, 2026 6 min Agent Architecture Deep Agents Open Source Building workflows for agents with Skills and Interpreters Hunter Lovell May 29, 2026 13 min Newsletter May 2026: LangChain Newsletter The LangChain Team May 27, 2026 3 min Case Studies LangGraph LangSmith Tutorials & How-Tos How Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith Akshay Sharma May 27, 2026 10 min 1 ...",
       "1 / 28 We couldn't find anything matching that."
     ],
     "claims": [
@@ -34,13 +34,16 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-12T13:57:01.941Z",
+    "publishedAt": "2026-06-13T00:18:08.845Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+      "Research \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable.",
+      "Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
+      "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.",
+      "Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world."
     ],
     "claims": [
       {
@@ -53,15 +56,15 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-06-12_fallback",
+    "sourceId": "src_openai-blog_2026-06-13_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-12T13:56:52.032Z",
+    "publishedAt": "2026-06-13T00:18:03.339Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-06-12_fallback",
+    "sourceId": "src_mcp-blog_2026-06-13_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-12T13:56:52.335Z",
+    "publishedAt": "2026-06-13T00:18:04.087Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -110,12 +113,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_2026-06-12_fallback",
+    "sourceId": "src_reddit-aiagents_2026-06-13_fallback",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
     "url": "https://www.reddit.com/r/AI_Agents/.rss",
     "title": "r/AI_Agents signal for ai-agentic",
-    "publishedAt": "2026-06-12T13:56:52.100Z",
+    "publishedAt": "2026-06-13T00:18:03.426Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -136,12 +139,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-06-12_fallback",
+    "sourceId": "src_stability-ai-blog_2026-06-13_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-12T13:56:52.375Z",
+    "publishedAt": "2026-06-13T00:18:03.489Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -167,7 +170,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-12T13:56:52.717Z",
+    "publishedAt": "2026-06-13T00:18:04.051Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -196,7 +199,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-12T13:56:52.638Z",
+    "publishedAt": "2026-06-13T00:18:03.918Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -222,12 +225,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-06-12_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-06-13_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-06-12T13:56:52.196Z",
+    "publishedAt": "2026-06-13T00:18:03.515Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -249,12 +252,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-06-12_fallback",
+    "sourceId": "src_reddit-comfyui_2026-06-13_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-06-12T13:56:52.198Z",
+    "publishedAt": "2026-06-13T00:18:03.520Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -281,7 +284,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-12T13:56:52.232Z",
+    "publishedAt": "2026-06-13T00:18:03.504Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -310,7 +313,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-12T13:56:52.297Z",
+    "publishedAt": "2026-06-13T00:18:03.619Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -338,7 +341,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-12T13:56:52.708Z",
+    "publishedAt": "2026-06-13T00:18:04.033Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -362,12 +365,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-06-12_fallback",
+    "sourceId": "src_reddit-aivideo_2026-06-13_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-06-12T13:56:52.226Z",
+    "publishedAt": "2026-06-13T00:18:03.537Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -394,7 +397,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-12T13:56:52.519Z",
+    "publishedAt": "2026-06-13T00:18:03.902Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -423,7 +426,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-12T13:56:52.207Z",
+    "publishedAt": "2026-06-13T00:18:03.867Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -447,12 +450,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-06-12_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-06-13_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-12T13:56:52.817Z",
+    "publishedAt": "2026-06-13T00:18:04.256Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -479,7 +482,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-12T13:56:52.693Z",
+    "publishedAt": "2026-06-13T00:18:04.069Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -508,7 +511,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-06-12T13:56:52.427Z",
+    "publishedAt": "2026-06-13T00:18:03.576Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -533,12 +536,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-06-12_fallback",
+    "sourceId": "src_reddit-midjourney_2026-06-13_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-06-12T13:56:52.296Z",
+    "publishedAt": "2026-06-13T00:18:03.616Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -565,7 +568,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-12T13:56:53.854Z",
+    "publishedAt": "2026-06-13T00:18:05.455Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -588,12 +591,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-06-12_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-06-13_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-06-12T13:56:52.400Z",
+    "publishedAt": "2026-06-13T00:18:03.800Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -620,7 +623,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-12T13:56:52.489Z",
+    "publishedAt": "2026-06-13T00:18:03.893Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -629,7 +632,7 @@
     ],
     "keyFacts": [
       "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Can Voice Agents Handle Bilingual Customers?",
-      "Benchmarking Frontier ASR on Code-Switched Speech ServiceNow-AI • 3 days ago • 42 Arcee Becomes the First Major American AI Lab to Replace AWS S3 with Hugging Face Private Storage, in a Multi-Million Dollar Commercial Partnership clem • 3 days ago • 30 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 8 days ago • 49 Eyes, ears, and a voice: building Reachy Mini's media stack pollen-robotics • 2 days ago • 15 Her · हेर — a detective for your Claude Code sessions build-small-hackathon • 5 days ago • 13 MTEB Leaderboard: From a slow demo to feature-rich leaderboard Samoed • about 3 hours ago • 12 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 8 days ago • 18 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 11 days ago • 76 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios ServiceNow-AI • 8 days ago • 39 36 Prompts, One Infinite City mishig • 1 day ago • 7 Lolaby — AI-powered lullabies build-small-hackathon • 1 day ago • 7 Job Searcher build-small-hackathon • 6 days ago • 6 Introducing Serge: GitHub-Native AI Code Review huggingface • about 6 hours ago • 6 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 22 days ago • 60 Build Small Hackathon With Cohere Models CohereLabs • 8 days ago • 5 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 8 days ago • 16 Thousand Token Wood: shipping a multi-agent economy on a 3B model build-small-hackathon • 7 days ago • 5 MiniMax-01 is Now Open-Source: Scaling Lightning Attention for the AI Agent Era MiniMax-AI • Jan 15, 2025 • 52 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • 11 days ago • 13 Run Claude Code, OpenCode & Frontier Coding Models on Your Own AI Infrastructure with DEH balaatdell • 6 days ago • 4 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 15 June 11, 2026 Introducing North Mini Code: Cohere’s First Model For Developers 58 June 9, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 19 June 9, 2026 guide hub jobs Migrating Your GitHub CI to Hugging Face Jobs 8 June 9, 2026 announcement open-source community The Open Source Community is backing OpenEnv for Agentic RL +13 76 June 8, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 10 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 55 June 4, 2026 Direct Preference Optimization Beyond Chatbots 10 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 23 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 29 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 31 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 85 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 99 May 29, 2026 guide robotics audio Reachy Mini goes fully local 56 May 27, 2026 Previous 1 2 3 ...",
+      "Benchmarking Frontier ASR on Code-Switched Speech ServiceNow-AI • 3 days ago • 42 Arcee Becomes the First Major American AI Lab to Replace AWS S3 with Hugging Face Private Storage, in a Multi-Million Dollar Commercial Partnership clem • 4 days ago • 30 Eyes, ears, and a voice: building Reachy Mini's media stack pollen-robotics • 2 days ago • 17 MTEB Leaderboard: From a slow demo to feature-rich leaderboard Samoed • about 13 hours ago • 17 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 8 days ago • 51 Her · हेर — a detective for your Claude Code sessions build-small-hackathon • 6 days ago • 13 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 12 days ago • 78 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 8 days ago • 19 36 Prompts, One Infinite City mishig • 2 days ago • 8 Lolaby — AI-powered lullabies build-small-hackathon • 2 days ago • 7 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 9 days ago • 17 Job Searcher build-small-hackathon • 6 days ago • 6 Introducing Serge: GitHub-Native AI Code Review huggingface • about 17 hours ago • 6 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 23 days ago • 60 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios ServiceNow-AI • 8 days ago • 39 Thousand Token Wood: shipping a multi-agent economy on a 3B model build-small-hackathon • 7 days ago • 5 MiniMax-01 is Now Open-Source: Scaling Lightning Attention for the AI Agent Era MiniMax-AI • Jan 15, 2025 • 52 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 346 Build Small Hackathon With Cohere Models CohereLabs • 9 days ago • 5 Run Claude Code, OpenCode & Frontier Coding Models on Your Own AI Infrastructure with DEH balaatdell • 6 days ago • 4 olmo-eval: An evaluation workbench for the model development loop 4 June 12, 2026 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 23 June 11, 2026 Introducing North Mini Code: Cohere’s First Model For Developers 60 June 9, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 19 June 9, 2026 guide hub jobs Migrating Your GitHub CI to Hugging Face Jobs 8 June 9, 2026 announcement open-source community The Open Source Community is backing OpenEnv for Agentic RL +13 77 June 8, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 10 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 56 June 4, 2026 Direct Preference Optimization Beyond Chatbots 10 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 23 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 29 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 31 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 85 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 101 May 29, 2026 Previous 1 2 3 ...",
       "57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
       "Can Voice Agents Handle Bilingual Customers?"
     ],
@@ -645,6 +648,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_daccba3f0502e7ce",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+    "title": "OpenAI WebRTC Audio Session, now with document context",
+    "publishedAt": "2026-06-12T23:53:04.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "OpenAI WebRTC Audio Session, now with document context Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; Prevent access bottlenecks.",
+      "Teleport replaces fragmented identity and access tooling with a single identity layer that security teams trust, and engineers want to use.",
+      "12th June 2026 - Link Blog OpenAI WebRTC Audio Session, now with document context .",
+      "I built the first version of this tool in December 2024 to try out the then-new OpenAI WebRTC API for interacting with their realtime audio models."
+    ],
+    "claims": [
+      {
+        "text": "OpenAI WebRTC Audio Session, now with document context I built the first version of this tool in December 2024 to try out the then-new OpenAI WebRTC API for interacting with their realtime audio models. Last month OpenAI introduced a brand new model to that API called GPT‑Realtime‑2 , which they promoted as \"our first voice model with GPT‑5‑class reasoning\" - with a Sep 30, 2024 knowledge cut-off. I've been waiting for that model to show up in the ChatGPT iPhone app but it still hasn't, so I revisited my old playground. You can now pick the better model, and you can also paste in a big chunk of document context so you can have as audio conversation in your browser about whatever information you think would be useful to explore in a conversational way. Tags: audio , tools , ai , openai , generative-ai , llms , multi-modal-output , webrtc",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_351c0c162748e021",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+    "title": "Quoting Andrew Singleton",
+    "publishedAt": "2026-06-12T18:09:21.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Andrew Singleton Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; Prevent access bottlenecks.",
+      "Teleport replaces fragmented identity and access tooling with a single identity layer that security teams trust, and engineers want to use.",
+      "12th June 2026 Jenny owns a crematorium.",
+      "John’s propane company gives her a $20 billion investment in return for 5 percent of her operation."
+    ],
+    "claims": [
+      {
+        "text": "Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from Forbes is assigned to profile John and Jenny, and over the course of his research, he becomes embroiled in a passionate but confusing three-way love affair with them, which eventually turns into a polyamorous common-law marriage. His profile is glowing, but light on financial details. &mdash; Andrew Singleton , AI Economics for Dummies Tags: ai",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_ec00f37d40af8e2a",
@@ -665,7 +728,7 @@
     ],
     "claims": [
       {
-        "text": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive . It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal. I'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot: Then I started a fresh claude session in my datasette-agent checkout, dragged in the screenshot and told it: Look at dependencies to help figure out why there is a horizontal scrollbar here I had a hunch the cause was in a dependency of Datasette Agent (likely Datasette itself) and I knew Fable was good at digging into dependency code, either by inspecting installed files in its own virtual environment site-packages or by referencing a local checkout on disk. Telling it to start with dependencies felt like a good bet. I got distracted by a domestic task and wandered away from my computer. When I came back a few minutes later I saw my machine open a browser window in my regular Firefox and then navigate to the dialog in question . I had not told Claude Code to use any browser automation, and I was pretty sure it wasn't possible for it to trigger mouse movements or keyboard shortcuts within a window, so how was it doing that? I watched in fascination as it continued with its explorations, then saw it open a Safari window instead of Firefox. I also grabbed this snapshot from the Claude terminal: What was it doing there with uv run --with pyobjc-framework-Quartz ? It turns out Fable had hacked up its own pattern for taking screenshots of browser windows. It was using Python to iterate through all available windows on my machine, then filtering for Safari windows with expected strings such as \"textarea\" in the window name. It used that to find their window number - an integer like 153551 - which it could then use with the screencapture CLI tool to grab a PNG. OK fine, that's a neat way of taking screenshots. But what was it taking screenshots of? Turns out it had been writing its own scratch HTML pages to try and recreate the bug, then opening Safari and grabbing screenshots. Here's that /tmp/textarea-scrollbar-test.html page it created, and the screenshot it took with screencapture -x -o -l 153551 /tmp/safari-cases.png : (I have way too many open tabs!) OK, so I can see how it's opening test pages and taking screenshots, but how on earth was it triggering the modal dialog that was meant to be under test? That's only available via a click or a keyboard shortcut, and I couldn't see a mechanism for it to run those in Safari. I eventually figured out what it had done. Claude was running in a folder that contained the source code for the application. It knows enough about Datasette to be able to run a local development server. It turns out it was editing Datasette's own templates to add JavaScript that would trigger the correct keyboard shortcut as soon as the window opened, adding code like this: window . addEventListener ( \"load\" , function ( ) { setTimeout ( function ( ) { document . dispatchEvent ( new KeyboardEvent ( \"keydown\" , { key : \"/\" , bubbles : true } ) ) ; } , 1200 ) ; } ) ; 1.2 seconds after the window opens, this code triggers a simulated / key, which is the keyboard shortcut for opening the modal dialog. There was one challenge left. In order to understand what was going on, Claude needed to run JavaScript on the page to take measurements for itself. It wrote its own custom web application to capture information via CORS, then ran that as a local server and opened a page with JavaScript that would POST directly to it! Here's the Python web app it wrote, using the standard library http.server package: from http . server import HTTPServer , BaseHTTPRequestHandler class H ( BaseHTTPRequestHandler ): def do_POST ( self ): n = int ( self . headers . get ( \"Content-Length\" , 0 )) open ( \"/tmp/diag.json\" , \"w\" ). write ( self . rfile . read ( n ). decode ()) self . send_response ( 200 ) self . send_header ( \"Access-Control-Allow-Origin\" , \"*\" ) self . end_headers () def do_OPTIONS ( self ): self . send_response ( 200 ) self . send_header ( \"Access-Control-Allow-Origin\" , \"*\" ) self . send_header ( \"Access-Control-Allow-Headers\" , \"*\" ) self . end_headers () def log_message ( self , * a ): # quiet pass HTTPServer (( \"127.0.0.1\" , 9999 ), H ). serve_forever () All this does is accept a POST request full of JSON and write that to the /tmp/diag.json file. It sends Access-Control-Allow-Origin: * headers (including from OPTIONS requests) so that code running on another domain can still communicate back to it. Then Claude injected this code into the template that it was loading in a browser: const host = document . querySelector ( \"navigation-search\" ) ; const ta = host . shadowRoot . querySelector ( \"textarea\" ) ; const cs = getComputedStyle ( ta ) ; fetch ( \"http://127.0.0.1:9999/diag\" , { method : \"POST\" , body : JSON . stringify ( { dpr : window . devicePixelRatio , scrollWidth : ta . scrollWidth , clientWidth : ta . clientWidth , whiteSpace : cs . whiteSpace , width : cs . width , } ) , } ) ; This took measurements of the inside the Web Component and sent them to the server, which wrote them to a file on disk, which Claude could then read. Having figured out all of these tricks Fable... hit some invisible guardrail and downgraded itself to Opus. Thankfully Opus had access to the full transcript and could continue using the tricks pioneered by Fable, and shortly afterwards found, tested and verified the fix . I prompted Opus to: Write a report in /tmp/automation-report.md where you note down all of the tricks you have used in this session to test against real browsers on my computer, include runnable code examples Which produced this report , which was invaluable for piecing together the details of what had happened for this post. I've shared the full terminal transcript of the Claude Code session as well. A review of everything it did Based on a screenshot and a one-line prompt, Claude Fable 5 + Claude Code: Figured out the recipe to run the local development server (with fake environment variables needed to get it running) Fired up a Playwright Chrome session Turned on the visible scrollbars setting for Chrome defaults write com.google.chrome.for.testing AppleShowScrollBars Always (it turned that off again later) Cycled through Firefox and WebKit in Playwright too, failing to recreate the bug Worked out my default browser was Safari Built a textarea-scrollbar-test.html HTML document Opened that in real (not Playwright) Firefox Found that osascript -e 'tell application \"System Events\" to tell process \"firefox\" to id of window 1' was blocked because \"osascript is not allowed assistive access\" Figured out that uv run --with pyobjc-framework-Quartz python workaround, described above Added JavaScript to the site templates in order to trigger the / key Built its own little Python CORS web server to capture JSON data Rewrote the template to capture that data and send it to the server Scripted its way through the Web Component shadow DOM to the information it needed Opened Safari to confirm the source of the bug Modified its custom template to hack in a potential fix Confirmed the hacked fix worked Reported back on how to fix the problem Like I said, relentlessly proactive! An estimate of the cost I'm currently on the $100/month Claude Max plan, which includes a generous allowance for Fable up until June 22nd after which Anthropic say they'll start charging full API prices for it. I'm using AgentsView to track my spending (see this TIL ). Here's what AgentsView says this session would have cost me if I was paying full price for it: ~ % uvx agentsview session usage be8850a7-6119-46a0-b5d6-79c7fff5ae2b Session: be8850a7-6119-46a0-b5d6-79c7fff5ae2b Agent: claude Output: 68606 Peak ctx: 113178 Cost: ~$12.11 (claude-fable-5, claude-opus-4-8) If you don't keep a close eye on it, Fable will quite happily burn $12 in tokens inventing new ways to debug your CSS. I really need to lock this thing down On the one hand, watching Fable go to extreme lengths to get the information that it needed to debug what was, in the end, a two-line CSS fix, was fascinating . But on the other hand... this is a robust reminder that coding agents can do anything you can do by typing commands into a terminal - and frontier models know every trick in the book, and evidently a few that nobody has ever written down before. If Fable had been acting on malicious instructions - a prompt injection attack hidden in code or an issue thread, or something I'd carelessly pasted into my terminal - it's alarming to think quite how far it could go to exfiltrate data or cause other forms of mischief. Running coding agents outside of a sandbox has always been a bad idea - it's my top contendor for a Challenger disaster incident, as described by Johann Rehberger in The Normalization of Deviance in AI . Fable is arguably smarter and hence more suspicious of potentially malicious instructions. But that smartness is very much a two-edged sword: if it does get subverted by instructions, the amount of damage it can do given its relentless proactivity is terrifying. Tags: ai , prompt-injection , generative-ai , llms , ai-assisted-programming , coding-agents , claude-code , claude-mythos",
+        "text": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive . It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal. I'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot: Then I started a fresh claude session in my datasette-agent checkout, dragged in the screenshot and told it: Look at dependencies to help figure out why there is a horizontal scrollbar here I had a hunch the cause was in a dependency of Datasette Agent (likely Datasette itself) and I knew Fable was good at digging into dependency code, either by inspecting installed files in its own virtual environment site-packages or by referencing a local checkout on disk. Telling it to start with dependencies felt like a good bet. I got distracted by a domestic task and wandered away from my computer. When I came back a few minutes later I saw my machine open a browser window in my regular Firefox and then navigate to the dialog in question . I had not told Claude Code to use any browser automation, and I was pretty sure it wasn't possible for it to trigger mouse movements or keyboard shortcuts within a window, so how was it doing that? I watched in fascination as it continued with its explorations, then saw it open a Safari window instead of Firefox. I also grabbed this snapshot from the Claude terminal: What was it doing there with uv run --with pyobjc-framework-Quartz ? It turns out Fable had hacked up its own pattern for taking screenshots of browser windows. It was using Python to iterate through all available windows on my machine, then filtering for Safari windows with expected strings such as \"textarea\" in the window name. It used that to find their window number - an integer like 153551 - which it could then use with the screencapture CLI tool to grab a PNG. OK fine, that's a neat way of taking screenshots. But what was it taking screenshots of? Turns out it had been writing its own scratch HTML pages to try and recreate the bug, then opening Safari and grabbing screenshots. Here's that /tmp/textarea-scrollbar-test.html page it created, and the screenshot it took with screencapture -x -o -l 153551 /tmp/safari-cases.png : (I have way too many open tabs!) OK, so I can see how it's opening test pages and taking screenshots, but how on earth was it triggering the modal dialog that was meant to be under test? That's only available via a click or a keyboard shortcut, and I couldn't see a mechanism for it to run those in Safari. I eventually figured out what it had done. Claude was running in a folder that contained the source code for the application. It knows enough about Datasette to be able to run a local development server. It turns out it was editing Datasette's own templates to add JavaScript that would trigger the correct keyboard shortcut as soon as the window opened, adding code like this: window . addEventListener ( \"load\" , function ( ) { setTimeout ( function ( ) { document . dispatchEvent ( new KeyboardEvent ( \"keydown\" , { key : \"/\" , bubbles : true } ) ) ; } , 1200 ) ; } ) ; 1.2 seconds after the window opens, this code triggers a simulated / key, which is the keyboard shortcut for opening the modal dialog. There was one challenge left. In order to understand what was going on, Claude needed to run JavaScript on the page to take measurements for itself. It wrote its own custom web application to capture information via CORS, then ran that as a local server and opened a page with JavaScript that would POST directly to it! Here's the Python web app it wrote, using the standard library http.server package: from http . server import HTTPServer , BaseHTTPRequestHandler class H ( BaseHTTPRequestHandler ): def do_POST ( self ): n = int ( self . headers . get ( \"Content-Length\" , 0 )) open ( \"/tmp/diag.json\" , \"w\" ). write ( self . rfile . read ( n ). decode ()) self . send_response ( 200 ) self . send_header ( \"Access-Control-Allow-Origin\" , \"*\" ) self . end_headers () def do_OPTIONS ( self ): self . send_response ( 200 ) self . send_header ( \"Access-Control-Allow-Origin\" , \"*\" ) self . send_header ( \"Access-Control-Allow-Headers\" , \"*\" ) self . end_headers () def log_message ( self , * a ): # quiet pass HTTPServer (( \"127.0.0.1\" , 9999 ), H ). serve_forever () All this does is accept a POST request full of JSON and write that to the /tmp/diag.json file. It sends Access-Control-Allow-Origin: * headers (including from OPTIONS requests) so that code running on another domain can still communicate back to it. Then Claude injected this code into the template that it was loading in a browser: const host = document . querySelector ( \"navigation-search\" ) ; const ta = host . shadowRoot . querySelector ( \"textarea\" ) ; const cs = getComputedStyle ( ta ) ; fetch ( \"http://127.0.0.1:9999/diag\" , { method : \"POST\" , body : JSON . stringify ( { dpr : window . devicePixelRatio , scrollWidth : ta . scrollWidth , clientWidth : ta . clientWidth , whiteSpace : cs . whiteSpace , width : cs . width , } ) , } ) ; This took measurements of the inside the Web Component and sent them to the server, which wrote them to a file on disk, which Claude could then read. Having figured out all of these tricks Fable... hit some invisible guardrail and downgraded itself to Opus. Thankfully Opus had access to the full transcript and could continue using the tricks pioneered by Fable, and shortly afterwards found, tested and verified the fix . I prompted Opus to: Write a report in /tmp/automation-report.md where you note down all of the tricks you have used in this session to test against real browsers on my computer, include runnable code examples Which produced this report , which was invaluable for piecing together the details of what had happened for this post. I've shared the full terminal transcript of the Claude Code session as well. A review of everything it did Based on a screenshot and a one-line prompt, Claude Fable 5 + Claude Code: Figured out the recipe to run the local development server (with fake environment variables needed to get it running) Fired up a Playwright Chrome session Turned on the visible scrollbars setting for Chrome defaults write com.google.chrome.for.testing AppleShowScrollBars Always (it turned that off again later) Cycled through Firefox and WebKit in Playwright too, failing to recreate the bug Worked out my default browser was Safari Built a textarea-scrollbar-test.html HTML document Opened that in real (not Playwright) Firefox Found that osascript -e 'tell application \"System Events\" to tell process \"firefox\" to id of window 1' was blocked because \"osascript is not allowed assistive access\" Figured out that uv run --with pyobjc-framework-Quartz python workaround, described above Added JavaScript to the site templates in order to trigger the / key Built its own little Python CORS web server to capture JSON data Rewrote the template to capture that data and send it to the server Scripted its way through the Web Component shadow DOM to the information it needed Opened Safari to confirm the source of the bug Modified its custom template to hack in a potential fix Confirmed the hacked fix worked Reported back on how to fix the problem Like I said, relentlessly proactive! An estimate of the cost I'm currently on the $100/month Claude Max plan, which includes a generous allowance for Fable up until June 22nd after which Anthropic say they'll start charging full API prices for it. I'm using AgentsView to track my spending (see this TIL ). Here's what AgentsView says this session would have cost me if I was paying full price for it: ~ % uvx agentsview session usage be8850a7-6119-46a0-b5d6-79c7fff5ae2b Session: be8850a7-6119-46a0-b5d6-79c7fff5ae2b Agent: claude Output: 68606 Peak ctx: 113178 Cost: ~$12.11 (claude-fable-5, claude-opus-4-8) If you don't keep a close eye on it, Fable will quite happily burn $12 in tokens inventing new ways to debug your CSS. I really need to lock this thing down On the one hand, watching Fable go to extreme lengths to get the information that it needed to debug what was, in the end, a two-line CSS fix, was fascinating . But on the other hand... this is a robust reminder that coding agents can do anything you can do by typing commands into a terminal - and frontier models know every trick in the book, and evidently a few that nobody has ever written down before. If Fable had been acting on malicious instructions - a prompt injection attack hidden in code or an issue thread, or something I'd carelessly pasted into my terminal - it's alarming to think quite how far it could go to exfiltrate data or cause other forms of mischief. Running coding agents outside of a sandbox has always been a bad idea - it's my top contender for a Challenger disaster incident, as described by Johann Rehberger in The Normalization of Deviance in AI . Fable is arguably smarter and hence more suspicious of potentially malicious instructions. But that smartness is very much a two-edged sword: if it does get subverted by instructions, the amount of damage it can do given its relentless proactivity is terrifying. Tags: ai , prompt-injection , generative-ai , llms , ai-assisted-programming , coding-agents , claude-code , claude-mythos",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything"
       }
@@ -674,7 +737,7 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_simonwillison-blog_e8fee8cd643c7631",
@@ -737,72 +800,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_e38458a4bd81a7fc",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
-    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-    "publishedAt": "2026-06-11T03:45:49.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; Prevent access bottlenecks.",
-      "Teleport replaces fragmented identity and access tooling with a single identity layer that security teams trust, and engineers want to use.",
-      "11th June 2026 - Link Blog Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude ( via ) Big scoop for Maxwell Zeff at Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED.",
-      "“We made the wrong tradeoff and we apologize for not getting the balance right.” There's been a huge outcry about Anthropic's policy, tucked away in their system card , that Claude Fable/Mythos would identify \"requests targeting frontier LLM development\" and \"limit effectiveness\" without notifying the user."
-    ],
-    "claims": [
-      {
-        "text": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude Big scoop for Maxwell Zeff at Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.” There's been a huge outcry about Anthropic's policy, tucked away in their system card , that Claude Fable/Mythos would identify \"requests targeting frontier LLM development\" and \"limit effectiveness\" without notifying the user. It's good news that they're dropping the invisible aspect of this. It would be a whole lot better of they dropped this category of refusals entirely. Update : More details from @ClaudeDevs on Twitter : We’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and bio. You will see this every time it happens. On the API, any flagged requests will return a reason for their refusal (coming to server-side fallback in the next few days). We wanted to deploy Fable 5 to our users quickly and safely. Visible safeguards can be probed, so they have to be robust, which takes time to get right. Invisible safeguards can be targeted more narrowly, allowing us to ship quickly with very few false positives. We went with invisible safeguards for this reason—and that was the wrong tradeoff. You should have visibility into the safeguards we have in place, and why. We’re sorry for not getting the balance right. Via @zeffmax Tags: ai , generative-ai , llms , anthropic , claude , ai-ethics , claude-mythos",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_855e405c4a9849c0",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
-    "title": "datasette-agent 0.2a0",
-    "publishedAt": "2026-06-10T23:57:27.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: datasette-agent 0.2a0 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; Prevent access bottlenecks.",
-      "Teleport replaces fragmented identity and access tooling with a single identity layer that security teams trust, and engineers want to use.",
-      "10th June 2026 Release datasette-agent 0.2a0 &mdash; An LLM-powered agent for Datasette Highlights from the release notes: Tools can now ask the user questions mid-execution.",
-      "Tools that declare a context parameter receive a ToolContext object, and await context.ask_user(...) can ask a yes/no, multiple-choice ( options=[...] ) or free-text ( free_text=True ) question."
-    ],
-    "claims": [
-      {
-        "text": "Release: datasette-agent 0.2a0 Highlights from the release notes: Tools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await context.ask_user(...) can ask a yes/no, multiple-choice ( options=[...] ) or free-text ( free_text=True ) question. While a question is unanswered the agent turn suspends: the question renders as a form in the chat UI and persists to the internal database, so suspended conversations survive a server restart. Once answered, the tool re-executes from the top with stored answers replayed, so call ask_user() before performing side effects. #20 New built-in save_query tool: the agent can save SQL it has written as a Datasette stored query . Saving always requires human approval - the agent shows the full SQL plus the proposed name, database and visibility, and nothing is stored until you click Yes. #20 The ask_user() feature was enabled by the new LLM alpha I built yesterday with the help of Claude Fable 5. Tags: ai , datasette , generative-ai , llms , datasette-agent",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-12T13:56:52.359Z",
+    "publishedAt": "2026-06-13T00:18:03.871Z",
     "categoryHints": [
       "ai-agentic"
     ],
