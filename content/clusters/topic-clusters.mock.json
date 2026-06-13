@@ -21,12 +21,27 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_ec00f37d40af8e2a",
+      "src_simonwillison-blog_eabd0e6de8c74be4",
       "src_simonwillison-blog_daccba3f0502e7ce",
       "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_2_claude-fable-is-relentlessly-proactive_2026-06-13",
+    "category": "ai-vibe-coding",
+    "topic": "Claude Fable is relentlessly proactive",
+    "sourceIds": [
+      "src_simonwillison-blog_ec00f37d40af8e2a",
+      "src_simonwillison-blog_351c0c162748e021",
+      "src_simonwillison-blog_e8fee8cd643c7631",
+      "src_vercel-ai-blog_2026-06-13_fallback"
+    ],
+    "articleWorthinessScore": 1,
+    "reasonSelected": "Score 1.00 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -42,20 +57,6 @@
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_datasette-1-0a33_2026-06-13",
-    "category": "ai-vibe-coding",
-    "topic": "datasette 1.0a33",
-    "sourceIds": [
-      "src_simonwillison-blog_e8fee8cd643c7631",
-      "src_simonwillison-blog_351c0c162748e021",
-      "src_vercel-ai-blog_2026-06-13_fallback"
-    ],
-    "articleWorthinessScore": 0.89,
-    "reasonSelected": "Score 0.89 from 3 source item(s), 2 live crawl(s), strongest sources: Simon Willison's Weblog, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -78,14 +79,13 @@
     "topic": "Lil'Log",
     "sourceIds": [
       "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_simonwillison-blog_4c29cf597d89bfbd",
       "src_openai-blog_2026-06-13_fallback",
       "src_mcp-blog_2026-06-13_fallback",
       "src_reddit-aiagents_2026-06-13_fallback"
     ],
-    "articleWorthinessScore": 0.77,
-    "reasonSelected": "Score 0.77 from 5 source item(s), 2 live crawl(s), strongest sources: Lil'Log, Simon Willison's Weblog, OpenAI Blog.",
-    "confidence": "high",
+    "articleWorthinessScore": 0.69,
+    "reasonSelected": "Score 0.69 from 4 source item(s), 1 live crawl(s), strongest sources: Lil'Log, OpenAI Blog, MCP Blog.",
+    "confidence": "medium",
     "selectedForGeneration": true
   },
   {

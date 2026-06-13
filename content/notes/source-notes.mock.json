@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-13T00:18:04.080Z",
+    "publishedAt": "2026-06-13T12:19:10.619Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-13T00:18:08.845Z",
+    "publishedAt": "2026-06-13T12:19:10.413Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-13T00:18:03.339Z",
+    "publishedAt": "2026-06-13T12:19:09.808Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-13T00:18:04.087Z",
+    "publishedAt": "2026-06-13T12:19:10.411Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -118,7 +118,7 @@
     "sourceName": "r/AI_Agents",
     "url": "https://www.reddit.com/r/AI_Agents/.rss",
     "title": "r/AI_Agents signal for ai-agentic",
-    "publishedAt": "2026-06-13T00:18:03.426Z",
+    "publishedAt": "2026-06-13T12:19:09.844Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -144,7 +144,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-13T00:18:03.489Z",
+    "publishedAt": "2026-06-13T12:19:09.959Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -170,7 +170,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-13T00:18:04.051Z",
+    "publishedAt": "2026-06-13T12:19:10.783Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -199,7 +199,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-13T00:18:03.918Z",
+    "publishedAt": "2026-06-13T12:19:09.989Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -230,7 +230,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-06-13T00:18:03.515Z",
+    "publishedAt": "2026-06-13T12:19:09.973Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -257,7 +257,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-06-13T00:18:03.520Z",
+    "publishedAt": "2026-06-13T12:19:09.973Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -284,7 +284,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-13T00:18:03.504Z",
+    "publishedAt": "2026-06-13T12:19:10.067Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-13T00:18:03.619Z",
+    "publishedAt": "2026-06-13T12:19:10.154Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -341,7 +341,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-13T00:18:04.033Z",
+    "publishedAt": "2026-06-13T12:19:10.848Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -370,7 +370,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-06-13T00:18:03.537Z",
+    "publishedAt": "2026-06-13T12:19:10.021Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -397,7 +397,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-13T00:18:03.902Z",
+    "publishedAt": "2026-06-13T12:19:10.583Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -426,7 +426,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-13T00:18:03.867Z",
+    "publishedAt": "2026-06-13T12:19:10.102Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -455,7 +455,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-13T00:18:04.256Z",
+    "publishedAt": "2026-06-13T12:19:10.179Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -482,7 +482,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-13T00:18:04.069Z",
+    "publishedAt": "2026-06-13T12:19:10.581Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -511,7 +511,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-06-13T00:18:03.576Z",
+    "publishedAt": "2026-06-13T12:19:10.323Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -541,7 +541,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-06-13T00:18:03.616Z",
+    "publishedAt": "2026-06-13T12:19:10.199Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -568,7 +568,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-13T00:18:05.455Z",
+    "publishedAt": "2026-06-13T12:19:12.534Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -596,7 +596,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-06-13T00:18:03.800Z",
+    "publishedAt": "2026-06-13T12:19:10.318Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -623,7 +623,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-13T00:18:03.893Z",
+    "publishedAt": "2026-06-13T12:19:10.452Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -632,7 +632,7 @@
     ],
     "keyFacts": [
       "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Can Voice Agents Handle Bilingual Customers?",
-      "Benchmarking Frontier ASR on Code-Switched Speech ServiceNow-AI • 3 days ago • 42 Arcee Becomes the First Major American AI Lab to Replace AWS S3 with Hugging Face Private Storage, in a Multi-Million Dollar Commercial Partnership clem • 4 days ago • 30 Eyes, ears, and a voice: building Reachy Mini's media stack pollen-robotics • 2 days ago • 17 MTEB Leaderboard: From a slow demo to feature-rich leaderboard Samoed • about 13 hours ago • 17 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 8 days ago • 51 Her · हेर — a detective for your Claude Code sessions build-small-hackathon • 6 days ago • 13 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 12 days ago • 78 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 8 days ago • 19 36 Prompts, One Infinite City mishig • 2 days ago • 8 Lolaby — AI-powered lullabies build-small-hackathon • 2 days ago • 7 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 9 days ago • 17 Job Searcher build-small-hackathon • 6 days ago • 6 Introducing Serge: GitHub-Native AI Code Review huggingface • about 17 hours ago • 6 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 23 days ago • 60 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios ServiceNow-AI • 8 days ago • 39 Thousand Token Wood: shipping a multi-agent economy on a 3B model build-small-hackathon • 7 days ago • 5 MiniMax-01 is Now Open-Source: Scaling Lightning Attention for the AI Agent Era MiniMax-AI • Jan 15, 2025 • 52 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 346 Build Small Hackathon With Cohere Models CohereLabs • 9 days ago • 5 Run Claude Code, OpenCode & Frontier Coding Models on Your Own AI Infrastructure with DEH balaatdell • 6 days ago • 4 olmo-eval: An evaluation workbench for the model development loop 4 June 12, 2026 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 23 June 11, 2026 Introducing North Mini Code: Cohere’s First Model For Developers 60 June 9, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 19 June 9, 2026 guide hub jobs Migrating Your GitHub CI to Hugging Face Jobs 8 June 9, 2026 announcement open-source community The Open Source Community is backing OpenEnv for Agentic RL +13 77 June 8, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 10 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 56 June 4, 2026 Direct Preference Optimization Beyond Chatbots 10 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 23 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 29 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 31 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 85 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 101 May 29, 2026 Previous 1 2 3 ...",
+      "Benchmarking Frontier ASR on Code-Switched Speech ServiceNow-AI • 4 days ago • 42 Arcee Becomes the First Major American AI Lab to Replace AWS S3 with Hugging Face Private Storage, in a Multi-Million Dollar Commercial Partnership clem • 4 days ago • 30 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 9 days ago • 53 MTEB Leaderboard: From a slow demo to feature-rich leaderboard Samoed • 1 day ago • 18 Eyes, ears, and a voice: building Reachy Mini's media stack pollen-robotics • 3 days ago • 17 Her · हेर — a detective for your Claude Code sessions build-small-hackathon • 6 days ago • 13 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 12 days ago • 79 36 Prompts, One Infinite City mishig • 3 days ago • 8 Fine-tune FLUX.2 [klein] with a LoRA under 60 minutes black-forest-labs • 9 days ago • 20 Lolaby — AI-powered lullabies build-small-hackathon • 2 days ago • 7 Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining nvidia • 9 days ago • 17 Job Searcher build-small-hackathon • 7 days ago • 6 Introducing Serge: GitHub-Native AI Code Review huggingface • 1 day ago • 6 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • 23 days ago • 60 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios ServiceNow-AI • 9 days ago • 39 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 344 MiniMax-01 is Now Open-Source: Scaling Lightning Attention for the AI Agent Era MiniMax-AI • Jan 15, 2025 • 52 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 346 Build Small Hackathon With Cohere Models CohereLabs • 9 days ago • 5 Thousand Token Wood: shipping a multi-agent economy on a 3B model build-small-hackathon • 8 days ago • 5 olmo-eval: An evaluation workbench for the model development loop 4 June 12, 2026 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 24 June 11, 2026 Introducing North Mini Code: Cohere’s First Model For Developers 60 June 9, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 20 June 9, 2026 guide hub jobs Migrating Your GitHub CI to Hugging Face Jobs 8 June 9, 2026 announcement open-source community The Open Source Community is backing OpenEnv for Agentic RL +13 77 June 8, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 10 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 56 June 4, 2026 Direct Preference Optimization Beyond Chatbots 10 June 3, 2026 guide robotics reachy Adding MCP Tools to Reachy Mini 23 June 3, 2026 Holo3.1: Fast & Local Computer Use Agents 29 June 2, 2026 Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 31 June 1, 2026 Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 85 June 1, 2026 torch profile CUDA Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler +1 102 May 29, 2026 Previous 1 2 3 ...",
       "57 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
       "Can Voice Agents Handle Bilingual Customers?"
     ],
@@ -648,6 +648,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_eabd0e6de8c74be4",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "publishedAt": "2026-06-13T01:01:50.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; Prevent access bottlenecks.",
+      "Teleport replaces fragmented identity and access tooling with a single identity layer that security teams trust, and engineers want to use.",
+      "13th June 2026 - Link Blog Statement on the US government directive to suspend access to Fable 5 and Mythos 5 ( via ) Well this is nuts : The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.",
+      "The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance."
+    ],
+    "claims": [
+      {
+        "text": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Well this is nuts : The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected. We received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. Our understanding is that the government believes it has become aware of a method of bypassing, or \"jailbreaking\" Fable 5. We reviewed a demonstration of this specific technique being used to identify a small number of previously known, minor vulnerabilities. These vulnerabilities all appear relatively simple, and we have found that other publicly-available models are able to discover them as well without requiring a bypass. [...] To date, the government has only given us verbal evidence of a potential narrow, non-universal jailbreak, which essentially consists of asking the model to read a specific codebase and fix any software flaws. Our understanding is that one potential jailbreak was shared with the government. We have reviewed the report and validated that the level of capability displayed there is widely available from other models (including OpenAI's GPT-5.5 ), and is used every day by the defenders who keep systems safe. We will share more details over the next 24 hours. I still have access to Fable via claude.ai and Claude Code now, at 9:01pm ET. Update : I ran this script against the Anthropic API to spot when claude-fable-5 would stop working. My access was cut off at 6:59pm Pacific (9:59pm ET): [2026-06-12T18:56:50-07:00] attempt 35: running uv run llm -m claude-fable-5 hi [2026-06-12T18:56:55-07:00] success: Hi there! How can I help you today? [2026-06-12T18:57:55-07:00] attempt 36: running uv run llm -m claude-fable-5 hi [2026-06-12T18:57:59-07:00] success: Hi! How can I help you today? [2026-06-12T18:58:59-07:00] attempt 37: running uv run llm -m claude-fable-5 hi [2026-06-12T18:59:00-07:00] FAILED after attempt 37 with exit code 1 stderr: Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'Claude Fable 5 is not available. Please use Opus 4.8. Learn more: https://www.anthropic.com/news/fable-mythos-access'}, 'request_id': 'req_011CbzRyirV7KZLHYYdBM9od'} Via @AnthropicAI Tags: jailbreaking , ai , generative-ai , llms , anthropic , claude , ai-ethics , claude-mythos",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_daccba3f0502e7ce",
@@ -737,7 +767,7 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_e8fee8cd643c7631",
@@ -770,42 +800,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_4c29cf597d89bfbd",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
-    "title": "asyncinject 0.7",
-    "publishedAt": "2026-06-11T06:28:09.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: asyncinject 0.7 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; Prevent access bottlenecks.",
-      "Teleport replaces fragmented identity and access tooling with a single identity layer that security teams trust, and engineers want to use.",
-      "11th June 2026 Release asyncinject 0.7 &mdash; Run async workflows using pytest-fixtures-style dependency injection I built this utility library to support an asyncio dependency injection pattern a few years ago.",
-      "I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me."
-    ],
-    "claims": [
-      {
-        "text": "Release: asyncinject 0.7 I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very proactive model! Tags: async , projects , python , claude-mythos",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-13T00:18:03.871Z",
+    "publishedAt": "2026-06-13T12:19:10.405Z",
     "categoryHints": [
       "ai-agentic"
     ],
