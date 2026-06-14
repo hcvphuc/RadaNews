@@ -1,6 +1,6 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-13",
+    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-14",
     "category": "ai-agentic",
     "topic": "LangChain Blog",
     "sourceIds": [
@@ -8,45 +8,32 @@
       "src_luma-blog_c7449029956c34f9",
       "src_replit-blog_49899058ba32f8e5",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_lilianweng-blog_31a2c7baf9b791a5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Replit Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Replit Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-13",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-14",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
+      "src_simonwillison-blog_f2a1cb83bc4fae4a",
+      "src_simonwillison-blog_b3969b5061690619",
       "src_simonwillison-blog_eabd0e6de8c74be4",
-      "src_simonwillison-blog_daccba3f0502e7ce",
       "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_claude-fable-is-relentlessly-proactive_2026-06-13",
-    "category": "ai-vibe-coding",
-    "topic": "Claude Fable is relentlessly proactive",
-    "sourceIds": [
-      "src_simonwillison-blog_ec00f37d40af8e2a",
-      "src_simonwillison-blog_351c0c162748e021",
-      "src_simonwillison-blog_e8fee8cd643c7631",
-      "src_vercel-ai-blog_2026-06-13_fallback"
-    ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Vercel AI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-13",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-14",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -61,7 +48,39 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-13",
+    "clusterId": "cluster_ai-vibe-coding_2_openai-webrtc-audio-session-now-with-document-context_2026-06-14",
+    "category": "ai-vibe-coding",
+    "topic": "OpenAI WebRTC Audio Session, now with document context",
+    "sourceIds": [
+      "src_simonwillison-blog_daccba3f0502e7ce",
+      "src_simonwillison-blog_3f439b56d2242ef4",
+      "src_reddit-aiagents_66fc0c9bc89beb16",
+      "src_vercel-ai-blog_2026-06-14_fallback"
+    ],
+    "articleWorthinessScore": 0.93,
+    "reasonSelected": "Score 0.93 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, Vercel AI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-agentic_2_i-made-75k-selling-ai-automations-to-clients-here-s-what-i-d-cha_2026-06-14",
+    "category": "ai-agentic",
+    "topic": "I made $75K selling AI automations to clients. Here's what I'd change if I st...",
+    "sourceIds": [
+      "src_reddit-aiagents_f84a39ab68144805",
+      "src_reddit-aiagents_6d126e4b085b5fa7",
+      "src_reddit-aiagents_05820c8575508649",
+      "src_reddit-aiagents_afcefd8b07fa0ebf",
+      "src_openai-blog_2026-06-14_fallback",
+      "src_mcp-blog_2026-06-14_fallback"
+    ],
+    "articleWorthinessScore": 0.81,
+    "reasonSelected": "Score 0.81 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-14",
     "category": "ai-video",
     "topic": "Kling AI",
     "sourceIds": [
@@ -74,29 +93,14 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_lil-log_2026-06-13",
-    "category": "ai-agentic",
-    "topic": "Lil'Log",
-    "sourceIds": [
-      "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_openai-blog_2026-06-13_fallback",
-      "src_mcp-blog_2026-06-13_fallback",
-      "src_reddit-aiagents_2026-06-13_fallback"
-    ],
-    "articleWorthinessScore": 0.69,
-    "reasonSelected": "Score 0.69 from 4 source item(s), 1 live crawl(s), strongest sources: Lil'Log, OpenAI Blog, MCP Blog.",
-    "confidence": "medium",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-06-13",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-06-14",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-06-13_fallback",
-      "src_reddit-stablediffusion_2026-06-13_fallback",
-      "src_reddit-comfyui_2026-06-13_fallback",
-      "src_reddit-midjourney_2026-06-13_fallback"
+      "src_stability-ai-blog_2026-06-14_fallback",
+      "src_reddit-stablediffusion_2026-06-14_fallback",
+      "src_reddit-comfyui_2026-06-14_fallback",
+      "src_reddit-midjourney_2026-06-14_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -104,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-06-13",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-06-14",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-06-13_fallback",
-      "src_reddit-mediasynthesis_2026-06-13_fallback"
+      "src_reddit-aivideo_2026-06-14_fallback",
+      "src_reddit-mediasynthesis_2026-06-14_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
