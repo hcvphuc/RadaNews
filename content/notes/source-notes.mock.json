@@ -5,12 +5,12 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-22T15:46:33.756Z",
+    "publishedAt": "2026-06-23T00:02:26.915Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely No-Code Agents Fleet Agents for the whole company Open Source Frameworks langchain Quick start agents with any model provider langgraph Build reliable agents with low-level control deepagents Build long-running agents for complex tasks Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
+      "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
       "Deep Agents Open Source Agent Architecture The Art of Loop Engineering Sydney Runkle June 16, 2026 7 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min Recent stories Deep Agents Open Source Agent Architecture The Art of Loop Engineering Sydney Runkle June 16, 2026 7 min No items found.",
       "Why Fleet Has Both General Purpose Chat and Specialized Agents Brace Sproul June 16, 2026 7 min LangChain Labs Building a 100x Cheaper Trace Judge with Fireworks LangChain Labs Fireworks June 15, 2026 7 min LangSmith How We Made Coding Agent Spend Predictable Martha Janicki June 15, 2026 5 min Case Studies Building Box AI: How an Enterprise Content Platform Went AI-Native with Deep Agents Sofia Sulikowski June 12, 2026 6 min LangSmith How to Choose the Right Sandbox for Your Agent Rahul Verma June 12, 2026 6 min Max Agency Podcast How Benchling builds agents when the smartest AI isn't smart enough James Donner June 11, 2026 4 min Open Source The Missing Link Between Agents and Applications Christian Bromann June 10, 2026 6 min Systems at LangChain Full Text Search in SmithDB: Designing an Inverted Index for Object Storage Ankush Gola Akshay Aurora Sumedh Arani June 10, 2026 15 min LangSmith Give your agent its own computer Amy Ru June 5, 2026 7 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min Open Source Agent Architecture LangGraph Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers Quanzheng Long Sydney Runkle June 4, 2026 7 min Open Source LangChain Agent Architecture Deep Agents How to Build a Custom Agent Harness Sydney Runkle June 3, 2026 6 min Case Studies How Harmonic Rebuilt Scout on Deep Agents and 4x'd Retention with LangSmith Sofia Sulikowski June 3, 2026 8 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min Deep Agents Open Source Agent Architecture Introducing Rubrics: Build Agents that Evaluate and Correct Their Work Shrikar Seshadri Sydney Runkle June 2, 2026 4 min 1 ..."
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-22T15:46:33.362Z",
+    "publishedAt": "2026-06-23T00:02:29.969Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-06-22_fallback",
+    "sourceId": "src_openai-blog_2026-06-23_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-22T15:46:33.225Z",
+    "publishedAt": "2026-06-23T00:02:26.088Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-06-22_fallback",
+    "sourceId": "src_mcp-blog_2026-06-23_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-22T15:46:33.865Z",
+    "publishedAt": "2026-06-23T00:02:27.745Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -141,12 +141,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_e662747e1e10e283",
+    "sourceId": "src_reddit-aiagents_2cbe1afd57753127",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1u6kqeq/weekly_hiring_thread/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uconmj/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
-    "publishedAt": "2026-06-15T16:00:54.000Z",
+    "publishedAt": "2026-06-22T16:01:22.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -157,7 +157,7 @@
       {
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1u6kqeq/weekly_hiring_thread/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uconmj/weekly_hiring_thread/"
       }
     ],
     "usableFor": [
@@ -196,6 +196,35 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aiagents_ebfc5e93b1617354",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ucz4p8/most_businesses_dont_need_a_chatbot_they_need_an/",
+    "title": "Most Businesses Don’t Need a Chatbot. They Need an AI Agent",
+    "publishedAt": "2026-06-22T22:27:15.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Many business owners think AI agents are just chatbots.",
+      "After building AI solutions for businesses, I’ve found that the highest ROI usually comes from automating repetitive workflows, not from creating a smarter chatbot.",
+      "A practical AI agent can: • Qualify leads automatically • Answer customer questions using company knowledge • Create tasks in your CRM • Send follow-up emails • Update records across multiple systems • Generate reports from business data The biggest mistake companies make is starting with AI instead of starting with a business problem.",
+      "A simple framework that works: Identify a repetitive process that consumes employee time."
+    ],
+    "claims": [
+      {
+        "text": "Many business owners think AI agents are just chatbots. After building AI solutions for businesses, I’ve found that the highest ROI usually comes from automating repetitive workflows, not from creating a smarter chatbot. A practical AI agent can: • Qualify leads automatically • Answer customer questions using company knowledge • Create tasks in your CRM • Send follow-up emails • Update records across multiple systems • Generate reports from business data The biggest mistake companies make is starting with AI instead of starting with a business problem. A simple framework that works: Identify a repetitive process that consumes employee time. Define a clear business outcome. Connect the agent to the required data sources. Give it only the actions it actually needs. Measure the business impact before expanding the project. For example, a lead qualification agent can respond instantly, collect requirements, score prospects, and create CRM records before a sales representative even gets involved. The result is usually faster response times, lower operational costs, and better customer experience. What business process would you automate first with an AI agent? submitted by /u/Enes-Yusuf [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ucz4p8/most_businesses_dont_need_a_chatbot_they_need_an/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aiagents_7366e8717f115ace",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -225,41 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_f559601822914212",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ucma8p/20_actuallyuseful_agents_im_running_right_now_no/",
-    "title": "20 actually-useful agents I'm running right now (no theory, just working ones)",
-    "publishedAt": "2026-06-22T14:35:14.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Got tired of \"AI agents will change everything\" content with no actual recipes.",
-      "Sharing a quick list of the agents I've wired up that survived past week 1: **Sales / Growth:** - Lead enrichment (Clay + Claude, overnight) — drops enriched leads in my morning inbox - Inbound qualifier reads form submissions, scores fit, drafts personalized response - Cold email personalizer that reads each prospect's recent posts/news before writing the first line **Operations:** - Inbox triage (Gmail + Claude via Make.com) — labels and drafts replies for routine email - Meeting → action items (Otter transcript → Claude → Linear cards) - Document search bot over our Notion / Drive (becomes the most-used tool in 30 days) **Content:** - Newsletter drafter — I provide week's notes, agent drafts in my voice - Podcast show notes generator (transcript in → notes + clips + blog draft out) - Social repurposer (one long-form → 5 LinkedIn posts + 10 tweets) **Dev:** - Code review agent on every PR (Claude Code + GitHub Actions) - Test generator (function in → 3 unit tests with happy path + edge cases) - Doc-sync agent that updates README when API surface changes **Finance:** - Receipt → expense logger (forward email, agent extracts + logs to QBO) - Contract reviewer that flags non-standard terms - Investor update drafter pulling metrics from Stripe + analytics Pattern across all that worked: **one job per agent, approve before action, structured JSON output, spend cap, kill switch in Slack.** Every \"mega-agent\" I tried to build failed within 2 weeks.",
-      "What's the longest-running working agent you've built?",
-      "Curious if my list lines up with what others are seeing."
-    ],
-    "claims": [
-      {
-        "text": "Got tired of \"AI agents will change everything\" content with no actual recipes. Sharing a quick list of the agents I've wired up that survived past week 1: **Sales / Growth:** - Lead enrichment (Clay + Claude, overnight) — drops enriched leads in my morning inbox - Inbound qualifier reads form submissions, scores fit, drafts personalized response - Cold email personalizer that reads each prospect's recent posts/news before writing the first line **Operations:** - Inbox triage (Gmail + Claude via Make.com) — labels and drafts replies for routine email - Meeting → action items (Otter transcript → Claude → Linear cards) - Document search bot over our Notion / Drive (becomes the most-used tool in 30 days) **Content:** - Newsletter drafter — I provide week's notes, agent drafts in my voice - Podcast show notes generator (transcript in → notes + clips + blog draft out) - Social repurposer (one long-form → 5 LinkedIn posts + 10 tweets) **Dev:** - Code review agent on every PR (Claude Code + GitHub Actions) - Test generator (function in → 3 unit tests with happy path + edge cases) - Doc-sync agent that updates README when API surface changes **Finance:** - Receipt → expense logger (forward email, agent extracts + logs to QBO) - Contract reviewer that flags non-standard terms - Investor update drafter pulling metrics from Stripe + analytics Pattern across all that worked: **one job per agent, approve before action, structured JSON output, spend cap, kill switch in Slack.** Every \"mega-agent\" I tried to build failed within 2 weeks. What's the longest-running working agent you've built? Curious if my list lines up with what others are seeing. submitted by /u/Worldly-Self-6270 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ucma8p/20_actuallyuseful_agents_im_running_right_now_no/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_stability-ai-blog_2026-06-22_fallback",
+    "sourceId": "src_stability-ai-blog_2026-06-23_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-22T15:46:33.528Z",
+    "publishedAt": "2026-06-23T00:02:26.146Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-22T15:46:33.957Z",
+    "publishedAt": "2026-06-23T00:02:26.909Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-22T15:46:33.769Z",
+    "publishedAt": "2026-06-23T00:02:26.199Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-06-22_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-06-23_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-06-22T15:46:33.310Z",
+    "publishedAt": "2026-06-23T00:02:26.185Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-06-22_fallback",
+    "sourceId": "src_reddit-comfyui_2026-06-23_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-06-22T15:46:33.320Z",
+    "publishedAt": "2026-06-23T00:02:26.189Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-22T15:46:33.301Z",
+    "publishedAt": "2026-06-23T00:02:26.288Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-22T15:46:33.524Z",
+    "publishedAt": "2026-06-23T00:02:26.526Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-22T15:46:33.791Z",
+    "publishedAt": "2026-06-23T00:02:27.287Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-06-22_fallback",
+    "sourceId": "src_reddit-aivideo_2026-06-23_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-06-22T15:46:33.367Z",
+    "publishedAt": "2026-06-23T00:02:26.304Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-22T15:46:33.637Z",
+    "publishedAt": "2026-06-23T00:02:26.893Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-22T15:46:33.592Z",
+    "publishedAt": "2026-06-23T00:02:26.426Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-06-22_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-06-23_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-22T15:46:33.697Z",
+    "publishedAt": "2026-06-23T00:02:26.786Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,15 +597,15 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-22T15:46:33.953Z",
+    "publishedAt": "2026-06-23T00:02:26.921Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
       "Replit — Replit Blog – Product updates from the team Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Wed, Mar 11, 2026 • Featured Introducing Replit Agent 4: Built for Creativity Introducing Agent 4—Replit's fastest, most versatile Agent yet.",
       "Push the boundaries of what's possible in vibe coding and build production-ready apps faster.",
-      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Wed, Jun 17, 2026 Replit is now available in Claude Replit is now available directly inside Claude, making it easier than ever to go from a conversation to a fully built, shipped product - without losing context, in one seamless workflow.",
-      "Design in Claude, Build in Replit You can now design on-brand, beautiful apps in Claude Design using natural language."
+      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Mon, Jun 22, 2026 Vibe Coding's Coachella Moment Just Happened.",
+      "Powerful energy on New York’s Lower East Side, where the crowd was the one creating, vibe-coding and manifesting ideas into real things all day."
     ],
     "claims": [
       {
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-06-22T15:46:33.477Z",
+    "publishedAt": "2026-06-23T00:02:26.670Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-06-22_fallback",
+    "sourceId": "src_reddit-midjourney_2026-06-23_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-06-22T15:46:33.454Z",
+    "publishedAt": "2026-06-23T00:02:26.580Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-22T15:46:35.353Z",
+    "publishedAt": "2026-06-23T00:02:28.538Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-06-22_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-06-23_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-06-22T15:46:33.542Z",
+    "publishedAt": "2026-06-23T00:02:26.639Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-22T15:46:33.653Z",
+    "publishedAt": "2026-06-23T00:02:26.771Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Party is over: regularizing ColBERT models to fix efficient ANN methods lightonai • 6 days ago • 20 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 13 days ago • 72 Intel XPU Kernel Skill: LLM-driven Triton kernel optimization for the Hugging Face Kernel Hub danf • 5 days ago • 9 olmo-eval: An evaluation workbench for the model development loop allenai • 10 days ago • 16 PitchFight AI: Practice the Pitch Before the Real Room prakhar811 • 8 days ago • 9 QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 7 days ago • 7 The Office Meets Silicon Valley build-small-hackathon • 7 days ago • 6 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 349 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 351 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 18 days ago • 60 Introducing Serge: GitHub-Native AI Code Review huggingface • 10 days ago • 11 Building an AI Interview Coach for the BuildSmall Hackathon 2026 build-small-hackathon • 7 days ago • 5 No Photoshop, No Blender: Multimedia by Agent mishig • 3 days ago • 5 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 30 How We Built OpenMythos: A Cybersecurity LLM Trained from Scratch KingNish • 7 days ago • 4 I fine-tuned a model for free from one prompt, with TRL and the Google Colab CLI sergiopaniego • 7 days ago • 4 Enterprise AI benchmarks: head-to-head comparison of Falconer, Notion, Atlassian Rovo, Claude Code, and Codex maxifalconer • 4 days ago • 4 Let's talk about LLM evaluation clefourrier • May 23, 2024 • 212 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 183 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models nvidia • about 1 month ago • 34 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 7 June 22, 2026 MosaicLeaks: Can your research agent keep a secret?",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Party is over: regularizing ColBERT models to fix efficient ANN methods lightonai • 6 days ago • 21 Intel XPU Kernel Skill: LLM-driven Triton kernel optimization for the Hugging Face Kernel Hub danf • 6 days ago • 9 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 13 days ago • 72 PitchFight AI: Practice the Pitch Before the Real Room prakhar811 • 8 days ago • 9 QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 8 days ago • 7 Building an AI Interview Coach for the BuildSmall Hackathon 2026 build-small-hackathon • 7 days ago • 6 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 349 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 351 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 18 days ago • 61 Introducing Serge: GitHub-Native AI Code Review huggingface • 11 days ago • 11 The Office Meets Silicon Valley build-small-hackathon • 7 days ago • 6 No Photoshop, No Blender: Multimedia by Agent mishig • 3 days ago • 5 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 30 olmo-eval: An evaluation workbench for the model development loop allenai • 10 days ago • 16 How We Built OpenMythos: A Cybersecurity LLM Trained from Scratch KingNish • 7 days ago • 4 Enterprise AI benchmarks: head-to-head comparison of Falconer, Notion, Atlassian Rovo, Claude Code, and Codex maxifalconer • 4 days ago • 4 Let's talk about LLM evaluation clefourrier • May 23, 2024 • 212 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 127 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 22 days ago • 83 Naija Solar: a solar advisor you can talk to, in your own language build-small-hackathon • 13 days ago • 4 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 13 June 22, 2026 MosaicLeaks: Can your research agent keep a secret?",
       "9 June 18, 2026 peft lora guide Beyond LoRA: Can you beat the most popular fine-tuning technique?",
       "45 June 18, 2026 agents transformers evaluation Is it agentic enough?",
-      "Benchmarking open models on your own tooling 19 June 18, 2026 MolmoMotion: Language-guided 3D motion forecasting 9 June 17, 2026 From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot 13 June 17, 2026 GLM-5.2: Built for Long-Horizon Tasks 91 June 17, 2026 announcement agents mcp Agentic Resource Discovery: Let agents search 11 June 17, 2026 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 45 June 11, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 23 June 9, 2026 guide hub jobs Migrating Your GitHub CI to Hugging Face Jobs 9 June 9, 2026 announcement open-source community The Open Source Community is backing OpenEnv for Agentic RL +14 91 June 8, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 12 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 58 June 4, 2026 Previous 1 2 3 ..."
+      "Benchmarking open models on your own tooling 19 June 18, 2026 MolmoMotion: Language-guided 3D motion forecasting 9 June 17, 2026 From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot 14 June 17, 2026 GLM-5.2: Built for Long-Horizon Tasks 93 June 17, 2026 announcement agents mcp Agentic Resource Discovery: Let agents search 13 June 17, 2026 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 45 June 11, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 23 June 9, 2026 guide hub jobs Migrating Your GitHub CI to Hugging Face Jobs 9 June 9, 2026 announcement open-source community The Open Source Community is backing OpenEnv for Agentic RL +14 91 June 8, 2026 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 12 June 4, 2026 cli huggingface_hub agents Designing the hf CLI as an agent-optimized way to work with the Hub 58 June 4, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -763,6 +763,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_b4769c92fe11beff",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+    "publishedAt": "2026-06-22T23:43:51.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance , describing a small but effective inpainting model - a model where you can mark regions of an image to remove and the model imagines what should fill the space.",
+      "The released model required PyTorch and NVIDIA CUDA , but since it described itself as 0.2B I decided to try and get it running using WebGPU in a browser.",
+      "TL;DR: I got it working, and you can try the demo at simonw.github.io/moebius-web/ .",
+      "The finished tool Here's a video demo of the finished tool: You can open any image in it (non-square images get letterboxed), highlight areas to remove, click the \"Run inpaint\" button and wait for the model to do its magic."
+    ],
+    "claims": [
+      {
+        "text": "This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance , describing a small but effective inpainting model - a model where you can mark regions of an image to remove and the model imagines what should fill the space. The released model required PyTorch and NVIDIA CUDA , but since it described itself as 0.2B I decided to try and get it running using WebGPU in a browser. TL;DR: I got it working, and you can try the demo at simonw.github.io/moebius-web/ . Read on for the details. The finished tool Here's a video demo of the finished tool: You can open any image in it (non-square images get letterboxed), highlight areas to remove, click the \"Run inpaint\" button and wait for the model to do its magic. A parallel agent side-project My main project for today was landing a major feature in Datasette: a UI for creating and altering tables, as a follow-up to the insert and edit rows feature I released last week. I was working on that in Codex Desktop (here's the PR ) and often found myself spending 5-10 minutes spinning my fingers waiting for it to complete a mid-sized refactor or add the finishing touches to a change to the UI. (An amusing thing about coding agents is that the harder a problem is the more time you have to get distracted while you wait for them to finish crunching!) So I decided to spin up Claude Code in a terminal window and see how far I could get at porting Moebius to the web. Some agentic research to kick off the project My first step was to ask regular Claude about the feasibility of this project. In Claude.ai , which has the ability to clone repos from GitHub: Clone [https://github.com/hustvl/Moebius/](https://github.com/hustvl/Moebius/) and tell me if they published the code and weights to run this model anywhere (I hadn't spotted the link to the weights yet, that's tucked away in the \"News\" section.) Then: For Moebius what are the options for running it right now - Python and NVIDIA CUDA only or other options too? And: Muse on the feasibility of porting it to Transformers.js or similar and running it in a browser I like telling models to \"muse on X\", it's the shortest way I've found of expressing that I want them to contemplate a problem for me without providing them with a concrete goal. Here's that chat transcript . I copied out the last answer and saved it as research.md for Claude Code to read later. Claude suggested using ONNX Runtime Web on the WebGPU backend - the layer below the Transformers.js library I had suggested. That was enough to convince me it was worth setting Claude Code loose and seeing how far it could get. I usually start projects like this by gathering as much information as the coding agent might need as possible. Since I didn't expect this project to actually work I did everything in my /tmp folder: cd /tmp mkdir Moebius cd Moebius # Grab the Moebius python code git clone https://github.com/hustvl/Moebius # And the model weights (Claude figured this out): GIT_LFS_SKIP_SMUDGE=0 git clone \\ https://huggingface.co/hustvl/Moebius Moebius-weights # Finally a couple of libraries we might use: git clone https://github.com/huggingface/transformers.js git clone https://github.com/microsoft/onnxruntime Setting off Claude Code I created a directory for the rest of the project and ran git init in that so Claude could start committing code notes: mkdir /tmp/Moebius/moebius-web cd /tmp/Moebius/moebius-web git init # Copy in that research.md from earlier git add research.md git commit -m \" Initial research by Claude Opus 4.8 \" I fired up a claude instance in the /tmp/Moebius folder, the level above all of the research materials I had prepared for it. I prompted: Read ./moebius-web/research.md - your goal is to port this model to ONNX and WebGPU so we can run it directly in a browser, with a simple UI As it started to work I dropped in this follow-up (typos included): Bulid this in /tmp/Moebius/moebius-web and commit early and often, also maintain a notes.md file in there with notes about what you figure out along the way - also start by writing out a plan.md in there and update that plan as oy work too I often ask agents to keep notes like this - the end result is often interesting, both for myself and for the next agent session that touches the same project. Here's what that notes.md file looked like at the end of the project. I kicked it off and went back to my main project, checking in occasionally to see how Claude was doing. When it looked like it might have something that worked I prompted: Tell me what URL I can visit in my own browser to try this Then I tried it out in Chrome and pasted some errors (and screenshots of errors) back into Claude Code. After a few rounds of this we had something that appeared to work! Time to put it on the internet so other people could use it. How would we publish this to Hugging Face such that the model weights were on there and the HTML demo would show up in Hugging Face spaces? Claude Code knows how to use the hf CLI tool, so I created a model repo on Hugging Face , then created a token that could write to that repo and dropped it into a /tmp/Moebius/token.txt file so Claude could use it. It published the 1.24GB of converted ONNX weights to huggingface.co/simonw/Moebius-ONNX for me. I'd seen other demos load weights into the browser from Hugging Face before, so I knew it was possible. I decided to host my own frontend code on GitHub Pages, so I said: I want to publish the moebius-web folder to GitHub, minus the large files (so maybe minus the models/ folder), such that when I turn on GitHub Pages for that repo navigating to https://simonw.github.io/moebius-web/ serves the UI Telling it the final URL was important in case it needed to fix the URLs in the demos that it was building so they would work when deployed to production. After a few more rounds of iteration, in between working on my main project, we got to a working, deployed version! Except... each time I reloaded the page it seemed to download ~1.3GB of model weights. Browser caching seemed pretty important for this! anything clever we can do with serviceworkers or similar to help cache this stuff? It seems to reload every time, I am concerned that there might be something weird about the way HF redirects work that mean we don't benefit from browser caching I knew that Transformers.js projects could handle this properly, so I grabbed a copy of the Whisper Web demo, dropped it into /tmp/Moebius/whisper-web and said: look in /tmp/Moebius/whisper-web (with a subagent) and see how they do this That project was entirely obfuscated, built JavaScript files so I figured using a subagent would avoid spending the rest of my top-level token context deciphering those files. Claude figured out that it was using caches.open(\"transformers-cache\") - the CacheStorage API - and added that to our project . I've shared the full Claude Code transcript for this project (published using my claude-code-transcripts tool). What did I learn from all of this? This definitely counts as vibe coding: I didn't look at a single line of code from the project, restricting my input to testing, suggesting small feature improvements (like a progress bar for the large file downloads) and pointing the model in the direction of examples of how I wanted things to work. Since I didn't write any code the amount I learned about the underlying technologies - WebGPU, ONNX, and the Moebius model itself - was very limited. As is usually the case with this kind of project the most important things I learned concerned what was possible : Claude Opus 4.8 is capable of converting a PyTorch model to ONNX, publishing the result to Hugging Face and then building out a web application and interface that can load and execute that model. Chrome, Firefox and Safari are all now capable of running this kind of model - I tried it in all three. The CacheStorage API works with ~1.3GB model files. ... which means we can have inpainting as a feature of a client-only web application! (If our users can tolerate the 1.3GB download.) I felt like I should probably try and learn a little more about my project. I fired up Claude.ai and prompted: Clone [https://github.com/simonw/moebius-web/](https://github.com/simonw/moebius-web/) and use it to teach me all about the model and ONNX and the process of converting a model to ONNX and WebGPU and basically everything I'd need to know in order to fully understand this repo Here's the transcript and the understanding.md Markdown file it created, which I've now added to the GitHub repo. I found the explanation of ONNX particularly enlightening: ONNX (Open Neural Network Exchange) is a portable, framework-neutral file format for neural networks. An .onnx file is essentially two things bundled together: A computation graph — a directed graph of nodes , where each node is an operator ( Conv , MatMul , Add , Einsum , Softmax , Gather , Resize , …) wired together by named tensors flowing between them. This is the \"recipe\" for the forward pass. The weights — the learned parameter tensors (the convolution kernels, the embedding table, etc.), stored as initializers in that same graph. Crucially, ONNX describes what to compute , abstractly, without saying how or on what hardware . The operator set is versioned by an opset number (this repo uses opset 18 ), which pins down exactly which operators exist and what their semantics are. It turns out PyTorch has built in mechanisms for exporting to ONNX, as seen here in export_onnx.py : torch . onnx . export ( dec , ( lat ,), dec_path , opset_version = args . opset , input_names = [ \"latent\" ], output_names = [ \"image\" ], dynamic_axes = { \"latent\" : { 0 : \"B\" }, \"image\" : { 0 : \"B\" }}, ) It also included a handy glossary and an only-slightly-broken ASCII-art diagram showing how the model pipeline fits together. Tags: browsers , transformers-js , webgl , vibe-coding , coding-agents , claude-code , onnx",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_c3bd1cdcf38874ad",
@@ -809,7 +839,7 @@
       "Release: sqlite-utils 4.0rc1 Simon Willison’s Weblog Subscribe Sponsored by: Microsoft &mdash; Agent projects stall between demo and production.",
       "Microsoft's MVP checklist closes that gap.",
       "Try it 21st June 2026 Release sqlite-utils 4.0rc1 &mdash; Python CLI utility and library for manipulating SQLite databases See sqlite-utils 4.0rc1 adds migrations and nested transactions .",
-      "Posted 21st June 2026 at 11:30 pm Recent articles sqlite-utils 4.0rc1 adds migrations and nested transactions - 21st June 2026 Datasette Apps: Host custom HTML applications inside Datasette - 18th June 2026 GLM-5.2 is probably the most powerful text-only open weights LLM - 17th June 2026 This is a beat by Simon Willison, posted on 21st June 2026 ."
+      "Posted 21st June 2026 at 11:30 pm Recent articles Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code - 22nd June 2026 sqlite-utils 4.0rc1 adds migrations and nested transactions - 21st June 2026 Datasette Apps: Host custom HTML applications inside Datasette - 18th June 2026 This is a beat by Simon Willison, posted on 21st June 2026 ."
     ],
     "claims": [
       {
@@ -885,42 +915,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_e45a75f0043b947e",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-    "publishedAt": "2026-06-18T23:58:38.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Today we launched a new plugin for Datasette, datasette-apps , with this launch announcement post on the Datasette project blog.",
-      "That post has the what , but I'm going to expand on that a little bit here to provide the why .",
-      "The TL;DR Datasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained sandbox hosted on your Datasette application.",
-      "They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too if you configure them with some stored queries ."
-    ],
-    "claims": [
-      {
-        "text": "Today we launched a new plugin for Datasette, datasette-apps , with this launch announcement post on the Datasette project blog. That post has the what , but I'm going to expand on that a little bit here to provide the why . The TL;DR Datasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained sandbox hosted on your Datasette application. They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too if you configure them with some stored queries . Here's a very simple example and a more complex custom timeline example - the latter looks like this: Apps are allowed to run JavaScript and render HTML and CSS. They are limited in terms of access - the they run in prevents them from accessing cookies or localStorage and they also have an injected CSP header (thanks to this research ) which prevents them from making HTTP requests to outside hosts, preventing a malicious or buggy app from exfiltrating private data. Datasette Apps started out as my attempt at building a Claude Artifacts mechanism for Datasette Agent , but I quickly realised that the sandboxed pattern is interesting for way more than just adding custom apps in a chat interface and promoted it to its own top-level concept within the Datasette ecosystem. They're also a fun way to turn my multi-year experiment in vibe-coded HTML tools into a core feature of my main project! You can try out Datasette Apps by signing in with GitHub to the agent.datasette.io demo instance. Why build this? Since the very first release, Datasette has offered a flexible backend for creating custom HTML apps via its JSON API. One of my earliest Datasette projects was an internal search engine for documentation when I worked at Eventbrite - it worked by importing documents from different systems into SQLite on a cron and then serving them through a Datasette instance with a custom HTML+JavaScript search interface that directly queried the Datasette API. I had client-side JavaScript constructing SQL queries, which originally was intended as an engineering joke but turned out to be a really productive way of iterating on the app! That project, combined with my experience building my HTML tools collection and my experiments with Claude Artifacts , has convinced me that adding a Datasette-style backend to a self-contained HTML frontend is an astonishingly powerful combination. Imagine how much more useful Claude Artifacts could be if they had access to a persistent relational database. That's what I'm building with Datasette Apps! Neat ideas in Datasette Apps Here are a few of the ideas and patterns I've figured out building this which I think have staying power. + This is the magic combination that makes Datasette Apps feasible in the first place. I need to run untrusted HTML and JavaScript on a highly sensitive domain - an authenticated Datasette instance can contain all sorts of private data. The sandbox= attribute lets me run that untrusted code in a way that cannot interact with the parent application - it can't read the DOM, or access cookies, or steal secrets from localStorage . It can however use fetch() and friends to load content (or exfiltrate data) from other domains. But... it turns out if you start an HTML page with a header you can set additional policies that lock down access to other domains. I was worried that malicious JavaScript would be able to update or remove that header but it turns out that doesn't work - once set, the CSP policy is immutable for the content of that frame. Locked down APIs with postMessage() and MessageChannel() Having locked down those iframes to the point that they couldn't do anything interesting at all, the challenge was to open them back again such that they could run an allow-list of operations, starting with read-only SQL queries against specified databases. I built the first version of this with postMessage() , which allows a child iframe to send messages to the parent window. I created a simple protocol for requesting that the parent run a SQL query - the parent could then verify it was against an allow-listed database before executing it. One of the LLM tools, I think it was GPT-5.5, suggested that postMessage() on its own can be exploited if the iframe somehow loads additional code from an untrusted domain. I don't think that applies to Datasette Apps, but I also believe in defense in depth, so I had GPT-5.5 help me port to a MessageChannel() based transport instead. MessageChannel() has the advantage that if a page navigates to somewhere else the channel closes automatically, removing any chance of executing commands sent from an untrusted external page. Visible logs, for queries and errors If you navigate to the timeline demo and search for the string usercontent you'll pull in some search results that embed images from the user-images.githubusercontent.com domain. This domain is not in the CSP allow-list, so it trips an error. Those errors are captured and transmitted back to the parent frame, where they can be displayed in a useful error log. This is meant to make hacking on apps more productive by surfacing otherwise-invisible problems. I built an experiment demonstrating that you can even turn this into a one-click-to-allow mechanism for building the CSP allow-list based on what breaks, but I haven't integrated that idea into datasette-apps just yet. SQL queries are also visibly logged - scroll to the bottom of the timeline page to see that in action. Stored queries for write operations I want apps to be able to conditionally write to the database, but this is an even more dangerous proposition than SQL reads! My solution involves Datasette's stored queries feature, rebranded from \"canned queries\" and given a major upgrade in the recent Datasette 1.0a31 - work that was directly inspired by Datasette Apps. Users can create a stored write query that performs an insert or update, then allow-list that specific query for an app to use. Usage from code inside an app looks like this: const result = await datasette . storedQuery ( \"todos\" , \"add_todo\" , { title : \"Buy milk\" , due_date : \"2026-06-20\" , priority : \"high\" , completed : false } ) ; I'm only just beginning to explore the possibilities this unlocks myself, but my goal is to support full read-write applications built safely as Datasette Apps. Copy and paste a prompt to build an app The Datasette Apps plugin has no dependency on LLMs at all, but these self-contained apps are the perfect shape to be written by a modern LLM. The create app form includes a copyable prompt at the end. This prompt has everything a model needs to know to build a new app, including the schema of any selected databases. This means you can click \"copy\", paste it into ChatGPT or Claude or Gemini, tell it what you need, and there's a good chance the model will spit out the code necessary to build the app. If you have Datasette Agent installed your AI assistant will also gain tools to both create new apps and edit existing ones, Claude Artifacts style. Built with so much AI assistance Datasette Apps started life back in April as datasette-agent-artifacts , a plugin I have since renamed to datasette-agent-edit keeping only its editing tools . I built that as one of the first plugins for Datasette Agent , to help get the plugin hooks into the right shape. That first prototype was mainly built using Claude Opus 4.6 in Claude Code. When I switched track to Datasette Apps I started with a plan constructed using Codex Desktop and GPT-5.5 xhigh, based on extensive dialog and feeding in both datasette-agent-artifacts and other prototypes I had built. Most of the work that followed stuck with Codex, but in the few short days that we had access to Claude Fable 5 I had it run a security evaluation of the product (an ability that would get it banned by the US government shortly afterwards) and it found a very real problem. I was allowing users to allow-list CSP hosts for their apps, but Fable pointed out the following attack: A less privileged user with create-app permission creates an app that queries SQLite for all available tables and selects and exfiltrates all of the data to a host they had allow-listed via CSP. They then trick an administrator user with access to private data into visiting their app. ... and the app can now run queries as that user and steal their private data! That's clearly unacceptable. I fixed it by restricting the ability to allow-list any domain to a new apps-set-csp permission, which is intended just for trusted staff. Site administrators can also configure Datasette with a list of allowed_csp_origins , which regular users can then select. This means you can do things like allow cdnjs.cloudflare.com and your users will be able to build apps that load extra JavaScript libraries from the cdnjs CDN. I've reviewed Datasette Apps extremely closely, especially the security-adjacent parts of it. The critical sandbox and CSP configuration are based on multiple AI-assisted prototypes and tests. It's looking good so far I'm really pleased with this initial release. Datasette is growing beyond its origins as an application for serving read-only data into a much richer ecosystem of tools for doing useful things with that data once it has been collected. Datasette's roots are in data journalism. I've always been interested in the question of what comes next after a journalist gets their hands on a giant dump of data about the world. Datasette supports exploring and publishing it. Datasette Agent adds interrogating it with AI assistance. Now Datasette Apps expands that to building custom interfaces and visualizations to help unlock the stories that are hidden within. Tags: iframes , javascript , projects , sandboxing , ai , datasette , generative-ai , llms , ai-assisted-programming , content-security-policy",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-22T15:46:33.518Z",
+    "publishedAt": "2026-06-23T00:02:26.698Z",
     "categoryHints": [
       "ai-agentic"
     ],
