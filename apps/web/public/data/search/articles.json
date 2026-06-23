@@ -320,40 +320,40 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_sqlite-utils-4-0rc1-adds-migrations-and-nested-transactions_2026-06-23_vi",
+    "id": "cluster_ai-agentic_1_langchain-blog_2026-06-23_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions: góc nhìn cho creator và builder",
+    "title": "LangChain Blog: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Luma Labs Blog, Cursor Changelog, Replit Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "sqlite-utils",
-      "database-migration",
-      "python",
-      "ai-agents",
-      "backend-development"
+      "AI-Agents",
+      "LangGraph",
+      "Vibe-Coding",
+      "Software-Architecture",
+      "LLMOps"
     ],
-    "publishedAt": "2026-06-23T00:03:01.705Z",
-    "readingTime": 5,
-    "url": "/vi/ai-agentic/sqlite-utils-4-0rc1-adds-migrations-and-nested-transactions-2026-06-23"
+    "publishedAt": "2026-06-23T13:34:26.691Z",
+    "readingTime": 4,
+    "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-06-23"
   },
   {
-    "id": "cluster_ai-agentic_1_sqlite-utils-4-0rc1-adds-migrations-and-nested-transactions_2026-06-23_en",
+    "id": "cluster_ai-agentic_1_langchain-blog_2026-06-23_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions: creator and builder analysis",
+    "title": "LangChain Blog: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Luma Labs Blog, Cursor Changelog, Replit Blog, Simon Willison's Weblog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "sqlite-utils",
       "ai-agents",
-      "database-migrations",
+      "langgraph",
       "vibe-coding",
-      "backend-infrastructure"
+      "agent-architecture",
+      "llm-ops"
     ],
-    "publishedAt": "2026-06-23T00:04:22.625Z",
+    "publishedAt": "2026-06-23T13:35:43.333Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/sqlite-utils-4-0rc1-adds-migrations-and-nested-transactions-2026-06-23"
+    "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-06-23"
   },
   {
     "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-23_vi",
@@ -367,9 +367,10 @@
       "claude-code",
       "webgpu",
       "onnx",
-      "ai-agents"
+      "ai-safety",
+      "agentic-workflow"
     ],
-    "publishedAt": "2026-06-23T00:02:52.272Z",
+    "publishedAt": "2026-06-23T13:35:10.141Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-23"
   },
@@ -382,12 +383,12 @@
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
-      "ai-agents",
       "WebGPU",
-      "ONNX",
-      "Claude-Code"
+      "AI-Agents",
+      "Prompt-Injection",
+      "ONNX"
     ],
-    "publishedAt": "2026-06-23T00:03:52.536Z",
+    "publishedAt": "2026-06-23T13:36:27.431Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-06-23"
   },
@@ -400,13 +401,14 @@
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
+      "Runway-AI",
+      "FLUX",
       "World-Models",
       "Open-Innovation",
-      "Runway-AI",
-      "FLUX"
+      "A2D"
     ],
-    "publishedAt": "2026-06-23T00:03:21.016Z",
-    "readingTime": 4,
+    "publishedAt": "2026-06-23T13:34:48.755Z",
+    "readingTime": 5,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-23"
   },
   {
@@ -417,87 +419,51 @@
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, Runway Research, ComfyUI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "World-Models",
-      "Open-Innovation",
-      "Multimodal-AI",
-      "RunwayML"
+      "AI Video",
+      "World Models",
+      "Open Source AI",
+      "Multimodal AI",
+      "Runway ML"
     ],
-    "publishedAt": "2026-06-23T00:05:02.374Z",
+    "publishedAt": "2026-06-23T13:36:03.072Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-23"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_hugging-face-blog_2026-06-23_vi",
+    "id": "cluster_ai-vibe-coding_2_temporary-cloudflare-accounts-for-ai-agents_2026-06-23_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Hugging Face – Blog: góc nhìn cho creator và builder",
+    "title": "Temporary Cloudflare Accounts for AI agents: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Vercel AI Blog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
       "ai-agents",
-      "mcp",
-      "huggingface",
-      "software-engineering"
+      "cloudflare-workers",
+      "vibe-coding",
+      "ephemeral-infrastructure",
+      "developer-experience"
     ],
-    "publishedAt": "2026-06-23T00:03:11.411Z",
+    "publishedAt": "2026-06-23T13:34:00.174Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/hugging-face-blog-goc-nhin-cho-creator-va-builder-2026-06-23"
+    "url": "/vi/ai-vibe-coding/temporary-cloudflare-accounts-for-ai-agents-goc-nhin-cho-cr-2026-06-23"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_hugging-face-blog_2026-06-23_en",
+    "id": "cluster_ai-vibe-coding_2_temporary-cloudflare-accounts-for-ai-agents_2026-06-23_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Hugging Face – Blog: creator and builder analysis",
+    "title": "Temporary Cloudflare Accounts for AI agents: creator and builder analysis",
     "subtitle": "Signal synthesized from Vercel AI Blog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "vibe-coding",
-      "agentic-ai",
-      "mcp",
-      "developer-experience",
-      "huggingface"
-    ],
-    "publishedAt": "2026-06-23T00:04:09.287Z",
-    "readingTime": 4,
-    "url": "/en/ai-vibe-coding/hugging-face-blog-creator-and-builder-analysis-2026-06-23"
-  },
-  {
-    "id": "cluster_ai-agentic_2_most-businesses-don-t-need-a-chatbot-they-need-an-ai-agent_2026-06-23_vi",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "Most Businesses Don’t Need a Chatbot. They Need an AI Agent: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
+      "cloud-infrastructure",
       "ai-agents",
-      "automation",
-      "roi",
-      "llm-memory",
-      "enterprise-ai"
+      "vibe-coding",
+      "cloudflare-workers",
+      "ephemeral-computing"
     ],
-    "publishedAt": "2026-06-23T00:03:48.995Z",
+    "publishedAt": "2026-06-23T13:35:49.450Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/most-businesses-don-t-need-a-chatbot-they-need-an-ai-agent-2026-06-23"
-  },
-  {
-    "id": "cluster_ai-agentic_2_most-businesses-don-t-need-a-chatbot-they-need-an-ai-agent_2026-06-23_en",
-    "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "Most Businesses Don’t Need a Chatbot. They Need an AI Agent: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "AI Agents",
-      "Workflow Automation",
-      "LLM Memory",
-      "Enterprise AI",
-      "Agentic Workflows"
-    ],
-    "publishedAt": "2026-06-23T00:05:19.375Z",
-    "readingTime": 4,
-    "url": "/en/ai-agentic/most-businesses-don-t-need-a-chatbot-they-need-an-ai-agent-2026-06-23"
+    "url": "/en/ai-vibe-coding/temporary-cloudflare-accounts-for-ai-agents-creator-and-bui-2026-06-23"
   },
   {
     "id": "cluster_ai-video_1_kling-ai_2026-06-23_vi",
@@ -507,13 +473,13 @@
     "title": "Kling AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "KlingAI",
-      "AIVideo",
-      "Native4K",
-      "ContentCreation",
-      "AIProduction"
+      "Kling AI",
+      "AI Video",
+      "Native 4K",
+      "Generative AI",
+      "Content Creation"
     ],
-    "publishedAt": "2026-06-23T00:03:35.852Z",
+    "publishedAt": "2026-06-23T13:34:56.664Z",
     "readingTime": 4,
     "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-06-23"
   },
@@ -525,14 +491,50 @@
     "title": "Kling AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Pika Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "Kling AI",
-      "AI Video",
-      "Native 4K",
+      "AI-Video",
+      "KlingAI",
+      "Native4K",
       "Cinematography",
-      "Generative AI"
+      "GenerativeAI"
     ],
-    "publishedAt": "2026-06-23T00:04:55.645Z",
+    "publishedAt": "2026-06-23T13:36:11.134Z",
     "readingTime": 4,
     "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-06-23"
+  },
+  {
+    "id": "cluster_ai-agentic_2_how-to-create-ai-agents-from-scratch_2026-06-23_vi",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "How to create AI agents from scratch: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "AI-Agents",
+      "Software-Architecture",
+      "Python-vs-TypeScript",
+      "Agentic-Workflow",
+      "Developer-Guide"
+    ],
+    "publishedAt": "2026-06-23T13:33:56.928Z",
+    "readingTime": 4,
+    "url": "/vi/ai-agentic/how-to-create-ai-agents-from-scratch-goc-nhin-cho-creator-v-2026-06-23"
+  },
+  {
+    "id": "cluster_ai-agentic_2_how-to-create-ai-agents-from-scratch_2026-06-23_en",
+    "lang": "en",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "How to create AI agents from scratch: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "ai-agents",
+      "llm-orchestration",
+      "mcp",
+      "software-architecture",
+      "ai-ethics"
+    ],
+    "publishedAt": "2026-06-23T13:35:16.791Z",
+    "readingTime": 3,
+    "url": "/en/ai-agentic/how-to-create-ai-agents-from-scratch-creator-and-builder-an-2026-06-23"
   }
 ]
