@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-23T13:33:18.477Z",
+    "publishedAt": "2026-06-23T23:53:40.440Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-23T13:33:21.292Z",
+    "publishedAt": "2026-06-23T23:53:44.424Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-23T13:33:17.702Z",
+    "publishedAt": "2026-06-23T23:53:39.652Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-23T13:33:18.366Z",
+    "publishedAt": "2026-06-23T23:53:40.130Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,55 +167,55 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_728f79278ee4ae30",
+    "sourceId": "src_reddit-aiagents_66af7cbceba1a6c1",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1udbkke/python_vs_typescript/",
-    "title": "Python VS Typescript",
-    "publishedAt": "2026-06-23T08:43:17.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1udp99l/the_most_reliable_data_agent_ive_shipped_is_90/",
+    "title": "The most reliable data agent I've shipped is ~90% deterministic code. The LLM just parses intent and talks. Change my mind.",
+    "publishedAt": "2026-06-23T18:27:11.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Why do you chose Python for your AI projects backend (in place of Typescript)?",
-      "I get the fact that Python has more libraries, which justify the choice in some context.",
-      "But, as cons for me, I see that: - it is slow, - it forces to use different languages for backend and frontend, as the best FE frameworks are JS based - it is not the language the LLMs use best and, even agentic development platforms such as Claude Code, Pi, etc., are developed in Typescript, So, I'm curious to understand why Python is so popular still...",
-      "submitted by /u/EmoticonGuess [link] [comments]"
+      "I built MIA, a marketing-intelligence agent on top of a BigQuery warehouse + a media-mix-modeling platform.",
+      "The data is gloriously messy: channel spend, model outputs, a planner API whose responses are blobs of nested junk.",
+      "Here's my claim after shipping it: the reliability comes from everything except the LLM.",
+      "The model is a natural-language shell, it parses intent and narrates results."
     ],
     "claims": [
       {
-        "text": "Why do you chose Python for your AI projects backend (in place of Typescript)? I get the fact that Python has more libraries, which justify the choice in some context. But, as cons for me, I see that: - it is slow, - it forces to use different languages for backend and frontend, as the best FE frameworks are JS based - it is not the language the LLMs use best and, even agentic development platforms such as Claude Code, Pi, etc., are developed in Typescript, So, I'm curious to understand why Python is so popular still... submitted by /u/EmoticonGuess [link] [comments]",
+        "text": "I built MIA, a marketing-intelligence agent on top of a BigQuery warehouse + a media-mix-modeling platform. The data is gloriously messy: channel spend, model outputs, a planner API whose responses are blobs of nested junk. Here's my claim after shipping it: the reliability comes from everything except the LLM. The model is a natural-language shell, it parses intent and narrates results. Every part that makes it trustworthy is deterministic, typed, and tested. And I think that's not a confession , it's the correct end state. The thing we were really fighting is the \"agent must be reliable\" problem. On messy real-world data, the agent is great at sounding right and terrible at being right, it'll invent a column, guess a join key, or fabricate a number when a query comes back empty, and hand it to the CMO with total confidence. Here are the 5 things that actually moved the needle. 1. A context graph, not a schema dump. We don't prompt-stuff the schema. There's a graph that maps business concepts → real physical fields, join paths, and enum dictionaries. \"Revenue\" isn't a guess; the graph says outcomeKPI + optimisedBudgetData.response . \"Current spend\" resolves to currentBudgetData.spend , not the spend the model would've guessed (which doesn't exist). The agent retrieves the relevant subgraph for the question. It literally cannot reference a field the graph didn't hand it, and the graph only knows real ones. The graph also encodes the ugly tribal knowledge: which of the three status columns is canonical, that mmmRequestId is camelCase but the other endpoint wants snake_case, that a zero in currentBudgetData.spend means \"locked channel\" not \"missing.\" That stuff is where agents die, and it doesn't belong in a prompt — it belongs in a typed layer you can test. 2. The deterministic steps are CODE, not vibes. Our flows (optimise → forecast → pace) used to live as \"first do X, then Y, then Z\" in the system prompt. The model would skip a step, reorder, or invent one. We moved the spine into actual coded workflow graphs, the order, the gating, the state transitions are deterministic. The LLM only operates at two edges: parse the user's intent into typed params, and narrate the final structured result. It doesn't get to guess the procedure because the procedure isn't its job anymore. Rule of thumb: if a step is deterministic, an LLM doing it is a liability, not a feature. 3. Tools return summaries, never raw data. If a tool hands the model a 19MB nested JSON, the model will navigate it by guessing paths, and it'll guess wrong. We extract/slim at the tool layer — the tool returns {summary, channels:[{channel, current_spend, optimised_spend, delta}]} with the real values pre-computed. The model never touches raw nested data, so there's nothing to guess a path into. Bonus: it also stopped blowing the context window (a \"list models\" call was returning ~1000 full model objects = millions of tokens; capped + slimmed it). 4. Missing context = loud failure, not a guess. Every step validates its inputs. No model selected? Raise \"no model selected\" , don't pick one silently. No budget? Ask. Optimise result missing the field forecasting needs? Hard error with the reason. The agent surfaces \"I can't do this because X\" instead of papering over a gap with a plausible number. Single biggest trust win with stakeholders. 5. We verified the messy parts against reality, not docs. The warehouse/API docs lied constantly. Half our \"agent guessed wrong\" bugs were actually us guessing wrong about field names and feeding the model bad ground truth. We now probe the real responses and pin the actual shapes into the context graph + tests. The agent inherits verified truth, not our assumptions. Net effect: the agent is boring now. It knows, asks, or fails. It almost never confidently-wrongs you. That \"boring\" is the product. So here's the debate I actually want to have: the reliability is 100% in the deterministic layer, and the \"agent\" is a thin NL shell over it. Is that the honest end state for data agents on messy data, or a cop-out that just means we failed to make the model itself reliable? Where do you draw the line between \"grounded agent\" and \"pipeline with a chatbot stapled on,\" and does that line even matter if the CMO gets the right number? submitted by /u/anilkr84 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1udbkke/python_vs_typescript/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1udp99l/the_most_reliable_data_agent_ive_shipped_is_90/"
       }
     ],
     "usableFor": [
       "article",
       "trend"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aiagents_ccbbbdda55697784",
+    "sourceId": "src_reddit-aiagents_03846fbca2c4dd25",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1udbscu/how_to_create_ai_agents_from_scratch/",
-    "title": "How to create AI agents from scratch",
-    "publishedAt": "2026-06-23T08:56:23.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1udet7k/is_whisper_still_the_best_default_for/",
+    "title": "Is Whisper still the best default for speech-to-text if the app needs to be real time?",
+    "publishedAt": "2026-06-23T11:42:56.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I am new to the field of artificial intelligence and would greatly appreciate your guidance.",
-      "My goal is to learn how to create AI agents from scratch, with a particular focus on developing a mental health chatbot.",
-      "I am seeking step‑by‑step instructions, best practices, and resources that can help me understand the fundamentals of building such agents, including the technical setup, ethical considerations, and practical implementation.Kindly guide me through the process so I can begin this journey with a clear roadmap.",
-      "Your support will mean a lot as I take my first steps into AI development.Thank you in advance for your assistance submitted by /u/muzzammilmeer [link] [comments]"
+      "For batch transcription, Whisper / faster-whisper / whisper.cpp still feel like the default starting point.",
+      "But I’m trying to separate two use cases: 1.Batch transcription Upload audio → wait → transcript For this, Whisper is still great.",
+      "2.Realtime voice app / voice agent User speaks → partial transcript → LLM starts reasoning → agent responds Here the requirements feel very different.",
+      "The problems I keep seeing: - chunking delay - VAD / endpointing hacks - no native diarization - timestamps need extra work - mixed-language audio gets messy - GPU cost if you want scale - hard to get low p95 latency - local setup becomes infra work Hosted tools I’m seeing people test: Deepgram, AssemblyAI, Speechmatics, Soniox, Gladia, OpenAI realtime/transcribe, and now Smallest AI Pulse for realtime STT."
     ],
     "claims": [
       {
-        "text": "I am new to the field of artificial intelligence and would greatly appreciate your guidance. My goal is to learn how to create AI agents from scratch, with a particular focus on developing a mental health chatbot. I am seeking step‑by‑step instructions, best practices, and resources that can help me understand the fundamentals of building such agents, including the technical setup, ethical considerations, and practical implementation.Kindly guide me through the process so I can begin this journey with a clear roadmap. Your support will mean a lot as I take my first steps into AI development.Thank you in advance for your assistance submitted by /u/muzzammilmeer [link] [comments]",
+        "text": "For batch transcription, Whisper / faster-whisper / whisper.cpp still feel like the default starting point. But I’m trying to separate two use cases: 1.Batch transcription Upload audio → wait → transcript For this, Whisper is still great. Especially if privacy/local matters. 2.Realtime voice app / voice agent User speaks → partial transcript → LLM starts reasoning → agent responds Here the requirements feel very different. The problems I keep seeing: - chunking delay - VAD / endpointing hacks - no native diarization - timestamps need extra work - mixed-language audio gets messy - GPU cost if you want scale - hard to get low p95 latency - local setup becomes infra work Hosted tools I’m seeing people test: Deepgram, AssemblyAI, Speechmatics, Soniox, Gladia, OpenAI realtime/transcribe, and now Smallest AI Pulse for realtime STT. I’m not trying to dunk on Whisper. It’s still the baseline. But for a live voice agent or realtime captioning product, when do you personally stop self-hosting and move to a streaming STT API? Is the line latency? concurrency? diarization? maintenance? cost? submitted by /u/NowHaraya [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1udbscu/how_to_create_ai_agents_from_scratch/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1udet7k/is_whisper_still_the_best_default_for/"
       }
     ],
     "usableFor": [
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-23T13:33:18.025Z",
+    "publishedAt": "2026-06-23T23:53:39.765Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-23T13:33:18.543Z",
+    "publishedAt": "2026-06-23T23:53:40.397Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-23T13:33:18.048Z",
+    "publishedAt": "2026-06-23T23:53:39.863Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -345,7 +345,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-06-23T13:33:17.814Z",
+    "publishedAt": "2026-06-23T23:53:39.727Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -372,7 +372,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-06-23T13:33:17.827Z",
+    "publishedAt": "2026-06-23T23:53:39.733Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-23T13:33:17.976Z",
+    "publishedAt": "2026-06-23T23:53:39.829Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-23T13:33:17.984Z",
+    "publishedAt": "2026-06-23T23:53:39.847Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-23T13:33:18.863Z",
+    "publishedAt": "2026-06-23T23:53:40.682Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -485,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-06-23T13:33:17.918Z",
+    "publishedAt": "2026-06-23T23:53:39.854Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,15 +512,15 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-23T13:33:18.440Z",
+    "publishedAt": "2026-06-23T23:53:40.385Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.8 Jun 18, 2026 · Changelog Improvements to Cursor Automations Cursor Automations save you time by automating repetitive tasks with always-on agents.",
-      "This release introduces the /automate skill, new triggers for GitHub and Slack, and support for computer use.",
-      "# /automate skill Use /automate to create an automation directly in your local agent session.",
-      "Describe the task you want to automate in plain language and Cursor will configure the triggers, instructions, and tools for you."
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.9 Jun 22, 2026 · Changelog Customize Cursor Plugins, skills, and MCPs let you customize Cursor for your workflows.",
+      "The new Customize page brings them into one place.",
+      "You can now add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks at the user, team, or workspace level, and even bring your own custom MCPs.",
+      "# Marketplace leaderboard Cursor now shows you a leaderboard of the most popular plugins, skills, and MCPs across your team."
     ],
     "claims": [
       {
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-23T13:33:19.077Z",
+    "publishedAt": "2026-06-23T23:53:39.871Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -570,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-23T13:33:18.243Z",
+    "publishedAt": "2026-06-23T23:53:40.285Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-23T13:33:18.577Z",
+    "publishedAt": "2026-06-23T23:53:40.441Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-06-23T13:33:18.217Z",
+    "publishedAt": "2026-06-23T23:53:40.198Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -656,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-06-23T13:33:18.135Z",
+    "publishedAt": "2026-06-23T23:53:39.947Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-23T13:33:19.679Z",
+    "publishedAt": "2026-06-23T23:53:42.098Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -711,7 +711,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-06-23T13:33:18.221Z",
+    "publishedAt": "2026-06-23T23:53:40.103Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-23T13:33:18.327Z",
+    "publishedAt": "2026-06-23T23:53:40.213Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Party is over: regularizing ColBERT models to fix efficient ANN methods lightonai • 7 days ago • 21 Intel XPU Kernel Skill: LLM-driven Triton kernel optimization for the Hugging Face Kernel Hub danf • 6 days ago • 10 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 14 days ago • 74 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 19 days ago • 63 QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 8 days ago • 8 No Photoshop, No Blender: Multimedia by Agent mishig • 4 days ago • 5 V-Zero hao05 • about 24 hours ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 349 Introducing Serge: GitHub-Native AI Code Review huggingface • 11 days ago • 11 The Office Meets Silicon Valley build-small-hackathon • 8 days ago • 6 Enterprise AI benchmarks: head-to-head comparison of Falconer, Notion, Atlassian Rovo, Claude Code, and Codex maxifalconer • 5 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 351 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 127 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 30 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 22 days ago • 83 PitchFight AI: Practice the Pitch Before the Real Room prakhar811 • 9 days ago • 9 Closet Twin: Your AI-Powered Personal Stylist Built for the Build Small Hackathon build-small-hackathon • 9 days ago • 4 How We Built OpenMythos: A Cybersecurity LLM Trained from Scratch KingNish • 8 days ago • 4 🧬 Carbon-VEPor: Efficient Variant Effect Prediction with Carbon build-small-hackathon • 8 days ago • 4 Continuous batching for GRPO, now in TRL sergiopaniego • 4 days ago • 3 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness June 23, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 9 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 17 June 22, 2026 guide open-source-collab We got local models to triage the OpenClaw repo for FREE!* +1 2 June 22, 2026 MosaicLeaks: Can your research agent keep a secret?",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Party is over: regularizing ColBERT models to fix efficient ANN methods lightonai • 7 days ago • 21 Intel XPU Kernel Skill: LLM-driven Triton kernel optimization for the Hugging Face Kernel Hub danf • 7 days ago • 10 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 14 days ago • 74 QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 9 days ago • 9 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 19 days ago • 63 No Photoshop, No Blender: Multimedia by Agent mishig • 4 days ago • 5 V-Zero hao05 • 1 day ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 349 The Office Meets Silicon Valley build-small-hackathon • 8 days ago • 6 Enterprise AI benchmarks: head-to-head comparison of Falconer, Notion, Atlassian Rovo, Claude Code, and Codex maxifalconer • 5 days ago • 4 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 127 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 30 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 23 days ago • 83 How We Built OpenMythos: A Cybersecurity LLM Trained from Scratch KingNish • 8 days ago • 4 🧬 Carbon-VEPor: Efficient Variant Effect Prediction with Carbon build-small-hackathon • 8 days ago • 4 Continuous batching for GRPO, now in TRL sergiopaniego • 4 days ago • 3 Machine learning for alien climates: Introducing the ThousandWorlds benchmark hugging-science • about 10 hours ago • 3 Let's talk about LLM evaluation clefourrier • May 23, 2024 • 212 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 183 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 351 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness 27 June 23, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 16 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 1 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 19 June 22, 2026 guide open-source-collab We got local models to triage the OpenClaw repo for FREE!* +1 4 June 22, 2026 MosaicLeaks: Can your research agent keep a secret?",
       "12 June 18, 2026 peft lora guide Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "49 June 18, 2026 agents transformers evaluation Is it agentic enough?",
-      "Benchmarking open models on your own tooling 19 June 18, 2026 MolmoMotion: Language-guided 3D motion forecasting 9 June 17, 2026 From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot 14 June 17, 2026 GLM-5.2: Built for Long-Horizon Tasks 99 June 17, 2026 announcement agents mcp Agentic Resource Discovery: Let agents search 14 June 17, 2026 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 45 June 11, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 23 June 9, 2026 guide hub jobs Migrating Your GitHub CI to Hugging Face Jobs 10 June 9, 2026 Previous 1 2 3 ..."
+      "53 June 18, 2026 agents transformers evaluation Is it agentic enough?",
+      "Benchmarking open models on your own tooling 19 June 18, 2026 MolmoMotion: Language-guided 3D motion forecasting 9 June 17, 2026 From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot 14 June 17, 2026 GLM-5.2: Built for Long-Horizon Tasks 99 June 17, 2026 announcement agents mcp Agentic Resource Discovery: Let agents search 15 June 17, 2026 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 45 June 11, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 23 June 9, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -763,6 +763,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_af4d320506893f97",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+    "title": "datasette 1.0a35",
+    "publishedAt": "2026-06-23T21:34:37.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Release: datasette 1.0a35 Simon Willison’s Weblog Subscribe Sponsored by: Microsoft &mdash; Agent projects stall between demo and production.",
+      "Microsoft's MVP checklist closes that gap.",
+      "Try it 23rd June 2026 Release datasette 1.0a35 &mdash; An open source multi-tool for exploring and publishing data I'll write more about this one tomorrow, but it's a big release.",
+      "Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed by the / /-/create JSON API ."
+    ],
+    "claims": [
+      {
+        "text": "Release: datasette 1.0a35 I'll write more about this one tomorrow, but it's a big release. Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed by the / /-/create JSON API . It can define columns, primary keys, custom column types, NOT NULL constraints, literal defaults, expression defaults and single-column foreign keys. ( #2787 ) New \"Alter table\" table action and / / /-/alter JSON API for changing existing tables: add, rename, reorder and drop columns; change column types, defaults, NOT NULL constraints, primary keys and foreign keys; and rename the table. The alter table dialog also includes a \"Drop table\" button. ( #2788 ) New Template context documentation listing the variables available to custom templates for Datasette's core pages. Variables documented there are treated as a stable API for custom templates until Datasette 2.0. The documentation is generated from dataclass definitions next to the view code, with tests that compare the documented fields against the actual contexts rendered by the database, table, query and row pages. ( #1510 , #2127 , #1477 , #2803 ) Here's a rough video demo I made of the new create/alter table feature as part of reviewing the PR : Tags: datasette",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_11347d529558da7d",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+    "title": "OPFS + Pyodide test harness",
+    "publishedAt": "2026-06-23T18:58:54.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Tool: OPFS + Pyodide test harness Simon Willison’s Weblog Subscribe Sponsored by: Microsoft &mdash; Agent projects stall between demo and production.",
+      "Microsoft's MVP checklist closes that gap.",
+      "Try it 23rd June 2026 Tool OPFS + Pyodide test harness I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent SQLite files stored on the user's computer.",
+      "That's what OFPS (Origin Private File System) is for, so I had Claude Code for web build me this playground UI to try it out in different browsers."
+    ],
+    "claims": [
+      {
+        "text": "Tool: OPFS + Pyodide test harness I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent SQLite files stored on the user's computer. That's what OFPS (Origin Private File System) is for, so I had Claude Code for web build me this playground UI to try it out in different browsers. Tags: browsers , pyodide , datasette-lite",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_24d0228e220f4c8a",
@@ -855,72 +915,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_simonwillison-blog_79dcaed1c3a35711",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
-    "title": "sqlite-utils 4.0rc1",
-    "publishedAt": "2026-06-21T23:30:04.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: sqlite-utils 4.0rc1 Simon Willison’s Weblog Subscribe Sponsored by: Microsoft &mdash; Agent projects stall between demo and production.",
-      "Microsoft's MVP checklist closes that gap.",
-      "Try it 21st June 2026 Release sqlite-utils 4.0rc1 &mdash; Python CLI utility and library for manipulating SQLite databases See sqlite-utils 4.0rc1 adds migrations and nested transactions .",
-      "Posted 21st June 2026 at 11:30 pm Recent articles Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code - 22nd June 2026 sqlite-utils 4.0rc1 adds migrations and nested transactions - 21st June 2026 Datasette Apps: Host custom HTML applications inside Datasette - 18th June 2026 This is a beat by Simon Willison, posted on 21st June 2026 ."
-    ],
-    "claims": [
-      {
-        "text": "Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions . Tags: sqlite-utils",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_4e7caa0c0f347b17",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-    "title": "Temporary Cloudflare Accounts for AI agents",
-    "publishedAt": "2026-06-21T22:01:04.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Temporary Cloudflare Accounts for AI agents Simon Willison’s Weblog Subscribe Sponsored by: Microsoft &mdash; Agent projects stall between demo and production.",
-      "Microsoft's MVP checklist closes that gap.",
-      "Try it 21st June 2026 - Link Blog Temporary Cloudflare Accounts for AI agents ( via ) The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well.",
-      "Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account: npx wrangler deploy --temporary Cloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes."
-    ],
-    "claims": [
-      {
-        "text": "Temporary Cloudflare Accounts for AI agents The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well. Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account: npx wrangler deploy --temporary Cloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes. I had GPT-5.5 xhigh in Codex Desktop build this test application providing a tool for following HTTP redirects and returning the final destination. The temporary deployment worked as advertised. Running the deployment spits out the URL to a page for claiming the new project, for if you want it to last for more than 60 minutes. Here's what that claim screen looks like: Via Hacker News Tags: cloudflare",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-23T13:33:18.295Z",
+    "publishedAt": "2026-06-23T23:53:40.191Z",
     "categoryHints": [
       "ai-agentic"
     ],

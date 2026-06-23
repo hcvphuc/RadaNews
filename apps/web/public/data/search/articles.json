@@ -327,14 +327,14 @@
     "title": "LangChain Blog: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Luma Labs Blog, Cursor Changelog, Replit Blog, Simon Willison's Weblog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agents",
-      "LangGraph",
-      "Vibe-Coding",
-      "Software-Architecture",
-      "LLMOps"
+      "ai-agents",
+      "loop-engineering",
+      "vibe-coding",
+      "langchain",
+      "deterministic-ai"
     ],
-    "publishedAt": "2026-06-23T13:34:26.691Z",
-    "readingTime": 4,
+    "publishedAt": "2026-06-23T23:54:12.852Z",
+    "readingTime": 5,
     "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-06-23"
   },
   {
@@ -347,12 +347,12 @@
     "tags": [
       "ai-agents",
       "langgraph",
-      "vibe-coding",
+      "deterministic-ai",
       "agent-architecture",
-      "llm-ops"
+      "vibe-coding"
     ],
-    "publishedAt": "2026-06-23T13:35:43.333Z",
-    "readingTime": 4,
+    "publishedAt": "2026-06-23T23:55:38.998Z",
+    "readingTime": 3,
     "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-06-23"
   },
   {
@@ -361,16 +361,16 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
       "claude-code",
       "webgpu",
       "onnx",
-      "ai-safety",
-      "agentic-workflow"
+      "prompt-injection",
+      "ai-agents"
     ],
-    "publishedAt": "2026-06-23T13:35:10.141Z",
+    "publishedAt": "2026-06-23T23:54:06.243Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-23"
   },
@@ -380,17 +380,54 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
       "WebGPU",
+      "ONNX",
       "AI-Agents",
       "Prompt-Injection",
-      "ONNX"
+      "Client-Side-ML"
     ],
-    "publishedAt": "2026-06-23T13:36:27.431Z",
+    "publishedAt": "2026-06-23T23:55:07.005Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-06-23"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-06-23_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "GitHub Copilot Archives - The GitHub Blog: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ GitHub Copilot Blog, Vercel AI Blog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "ai-vibe-coding",
+      "agentic-ai",
+      "github-copilot",
+      "software-engineering",
+      "llm"
+    ],
+    "publishedAt": "2026-06-23T23:54:31.231Z",
+    "readingTime": 4,
+    "url": "/vi/ai-vibe-coding/github-copilot-archives-the-github-blog-goc-nhin-cho-crea-2026-06-23"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-06-23_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "GitHub Copilot Archives - The GitHub Blog: creator and builder analysis",
+    "subtitle": "Signal synthesized from GitHub Copilot Blog, Vercel AI Blog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "github-copilot",
+      "developer-experience",
+      "webassembly"
+    ],
+    "publishedAt": "2026-06-23T23:56:25.662Z",
+    "readingTime": 4,
+    "url": "/en/ai-vibe-coding/github-copilot-archives-the-github-blog-creator-and-build-2026-06-23"
   },
   {
     "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-23_vi",
@@ -401,14 +438,13 @@
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, Runway Research, ComfyUI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "Runway-AI",
-      "FLUX",
       "World-Models",
       "Open-Innovation",
-      "A2D"
+      "Runway-AI",
+      "Diffusion-Models"
     ],
-    "publishedAt": "2026-06-23T13:34:48.755Z",
-    "readingTime": 5,
+    "publishedAt": "2026-06-23T23:54:25.460Z",
+    "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-23"
   },
   {
@@ -421,49 +457,49 @@
     "tags": [
       "AI Video",
       "World Models",
-      "Open Source AI",
-      "Multimodal AI",
-      "Runway ML"
+      "Diffusion",
+      "Open Weights",
+      "Multimodal AI"
     ],
-    "publishedAt": "2026-06-23T13:36:03.072Z",
+    "publishedAt": "2026-06-23T23:55:46.131Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-23"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_temporary-cloudflare-accounts-for-ai-agents_2026-06-23_vi",
+    "id": "cluster_ai-agentic_2_is-whisper-still-the-best-default-for-speech-to-text-if-the-app-_2026-06-23_vi",
     "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Temporary Cloudflare Accounts for AI agents: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Vercel AI Blog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "Is Whisper still the best default for speech-to-text if the app needs to be r...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agents",
-      "cloudflare-workers",
-      "vibe-coding",
-      "ephemeral-infrastructure",
-      "developer-experience"
+      "Speech-to-Text",
+      "AI-Agents",
+      "Whisper",
+      "Real-time-AI",
+      "LLM-Infrastructure"
     ],
-    "publishedAt": "2026-06-23T13:34:00.174Z",
+    "publishedAt": "2026-06-23T23:54:51.841Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/temporary-cloudflare-accounts-for-ai-agents-goc-nhin-cho-cr-2026-06-23"
+    "url": "/vi/ai-agentic/is-whisper-still-the-best-default-for-speech-to-text-if-the-2026-06-23"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_temporary-cloudflare-accounts-for-ai-agents_2026-06-23_en",
+    "id": "cluster_ai-agentic_2_is-whisper-still-the-best-default-for-speech-to-text-if-the-app-_2026-06-23_en",
     "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Temporary Cloudflare Accounts for AI agents: creator and builder analysis",
-    "subtitle": "Signal synthesized from Vercel AI Blog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "Is Whisper still the best default for speech-to-text if the app needs to be r...: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
     "tags": [
-      "cloud-infrastructure",
-      "ai-agents",
-      "vibe-coding",
-      "cloudflare-workers",
-      "ephemeral-computing"
+      "STT",
+      "Whisper",
+      "AI-Agents",
+      "Latency",
+      "Voice-AI"
     ],
-    "publishedAt": "2026-06-23T13:35:49.450Z",
+    "publishedAt": "2026-06-23T23:56:17.523Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/temporary-cloudflare-accounts-for-ai-agents-creator-and-bui-2026-06-23"
+    "url": "/en/ai-agentic/is-whisper-still-the-best-default-for-speech-to-text-if-the-2026-06-23"
   },
   {
     "id": "cluster_ai-video_1_kling-ai_2026-06-23_vi",
@@ -476,10 +512,10 @@
       "Kling AI",
       "AI Video",
       "Native 4K",
-      "Generative AI",
-      "Content Creation"
+      "AI Production",
+      "Generative Video"
     ],
-    "publishedAt": "2026-06-23T13:34:56.664Z",
+    "publishedAt": "2026-06-23T23:54:47.691Z",
     "readingTime": 4,
     "url": "/vi/ai-video/kling-ai-goc-nhin-cho-creator-va-builder-2026-06-23"
   },
@@ -497,44 +533,8 @@
       "Cinematography",
       "GenerativeAI"
     ],
-    "publishedAt": "2026-06-23T13:36:11.134Z",
-    "readingTime": 4,
-    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-06-23"
-  },
-  {
-    "id": "cluster_ai-agentic_2_how-to-create-ai-agents-from-scratch_2026-06-23_vi",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "How to create AI agents from scratch: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "AI-Agents",
-      "Software-Architecture",
-      "Python-vs-TypeScript",
-      "Agentic-Workflow",
-      "Developer-Guide"
-    ],
-    "publishedAt": "2026-06-23T13:33:56.928Z",
-    "readingTime": 4,
-    "url": "/vi/ai-agentic/how-to-create-ai-agents-from-scratch-goc-nhin-cho-creator-v-2026-06-23"
-  },
-  {
-    "id": "cluster_ai-agentic_2_how-to-create-ai-agents-from-scratch_2026-06-23_en",
-    "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "How to create AI agents from scratch: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "ai-agents",
-      "llm-orchestration",
-      "mcp",
-      "software-architecture",
-      "ai-ethics"
-    ],
-    "publishedAt": "2026-06-23T13:35:16.791Z",
+    "publishedAt": "2026-06-23T23:56:00.017Z",
     "readingTime": 3,
-    "url": "/en/ai-agentic/how-to-create-ai-agents-from-scratch-creator-and-builder-an-2026-06-23"
+    "url": "/en/ai-video/kling-ai-creator-and-builder-analysis-2026-06-23"
   }
 ]
