@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-23T23:53:40.440Z",
+    "publishedAt": "2026-06-24T13:09:05.265Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-23T23:53:44.424Z",
+    "publishedAt": "2026-06-24T13:09:06.829Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-06-23_fallback",
+    "sourceId": "src_openai-blog_2026-06-24_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-23T23:53:39.652Z",
+    "publishedAt": "2026-06-24T13:09:04.618Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-06-23_fallback",
+    "sourceId": "src_mcp-blog_2026-06-24_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-23T23:53:40.130Z",
+    "publishedAt": "2026-06-24T13:09:05.060Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,55 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_66af7cbceba1a6c1",
+    "sourceId": "src_reddit-aiagents_709c897435f27aad",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1udp99l/the_most_reliable_data_agent_ive_shipped_is_90/",
-    "title": "The most reliable data agent I've shipped is ~90% deterministic code. The LLM just parses intent and talks. Change my mind.",
-    "publishedAt": "2026-06-23T18:27:11.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ue5nch/whats_the_most_practical_ai_use_case_youve_seen/",
+    "title": "What's the most practical AI use case you've seen in a real business?",
+    "publishedAt": "2026-06-24T06:27:22.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I built MIA, a marketing-intelligence agent on top of a BigQuery warehouse + a media-mix-modeling platform.",
-      "The data is gloriously messy: channel spend, model outputs, a planner API whose responses are blobs of nested junk.",
-      "Here's my claim after shipping it: the reliability comes from everything except the LLM.",
-      "The model is a natural-language shell, it parses intent and narrates results."
+      "Not something that's \"coming soon.\" A use case that's already delivering measurable results today.",
+      "Could be reducing operational costs, improving customer support, speeding up software development, automating repetitive tasks, enhancing decision making, or something completely different.",
+      "There is a lot of discussion around what AI might do in the future, but it's often more interesting to look at what is creating real value right now.",
+      "submitted by /u/SoluLab-Inc [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I built MIA, a marketing-intelligence agent on top of a BigQuery warehouse + a media-mix-modeling platform. The data is gloriously messy: channel spend, model outputs, a planner API whose responses are blobs of nested junk. Here's my claim after shipping it: the reliability comes from everything except the LLM. The model is a natural-language shell, it parses intent and narrates results. Every part that makes it trustworthy is deterministic, typed, and tested. And I think that's not a confession , it's the correct end state. The thing we were really fighting is the \"agent must be reliable\" problem. On messy real-world data, the agent is great at sounding right and terrible at being right, it'll invent a column, guess a join key, or fabricate a number when a query comes back empty, and hand it to the CMO with total confidence. Here are the 5 things that actually moved the needle. 1. A context graph, not a schema dump. We don't prompt-stuff the schema. There's a graph that maps business concepts → real physical fields, join paths, and enum dictionaries. \"Revenue\" isn't a guess; the graph says outcomeKPI + optimisedBudgetData.response . \"Current spend\" resolves to currentBudgetData.spend , not the spend the model would've guessed (which doesn't exist). The agent retrieves the relevant subgraph for the question. It literally cannot reference a field the graph didn't hand it, and the graph only knows real ones. The graph also encodes the ugly tribal knowledge: which of the three status columns is canonical, that mmmRequestId is camelCase but the other endpoint wants snake_case, that a zero in currentBudgetData.spend means \"locked channel\" not \"missing.\" That stuff is where agents die, and it doesn't belong in a prompt — it belongs in a typed layer you can test. 2. The deterministic steps are CODE, not vibes. Our flows (optimise → forecast → pace) used to live as \"first do X, then Y, then Z\" in the system prompt. The model would skip a step, reorder, or invent one. We moved the spine into actual coded workflow graphs, the order, the gating, the state transitions are deterministic. The LLM only operates at two edges: parse the user's intent into typed params, and narrate the final structured result. It doesn't get to guess the procedure because the procedure isn't its job anymore. Rule of thumb: if a step is deterministic, an LLM doing it is a liability, not a feature. 3. Tools return summaries, never raw data. If a tool hands the model a 19MB nested JSON, the model will navigate it by guessing paths, and it'll guess wrong. We extract/slim at the tool layer — the tool returns {summary, channels:[{channel, current_spend, optimised_spend, delta}]} with the real values pre-computed. The model never touches raw nested data, so there's nothing to guess a path into. Bonus: it also stopped blowing the context window (a \"list models\" call was returning ~1000 full model objects = millions of tokens; capped + slimmed it). 4. Missing context = loud failure, not a guess. Every step validates its inputs. No model selected? Raise \"no model selected\" , don't pick one silently. No budget? Ask. Optimise result missing the field forecasting needs? Hard error with the reason. The agent surfaces \"I can't do this because X\" instead of papering over a gap with a plausible number. Single biggest trust win with stakeholders. 5. We verified the messy parts against reality, not docs. The warehouse/API docs lied constantly. Half our \"agent guessed wrong\" bugs were actually us guessing wrong about field names and feeding the model bad ground truth. We now probe the real responses and pin the actual shapes into the context graph + tests. The agent inherits verified truth, not our assumptions. Net effect: the agent is boring now. It knows, asks, or fails. It almost never confidently-wrongs you. That \"boring\" is the product. So here's the debate I actually want to have: the reliability is 100% in the deterministic layer, and the \"agent\" is a thin NL shell over it. Is that the honest end state for data agents on messy data, or a cop-out that just means we failed to make the model itself reliable? Where do you draw the line between \"grounded agent\" and \"pipeline with a chatbot stapled on,\" and does that line even matter if the CMO gets the right number? submitted by /u/anilkr84 [link] [comments]",
+        "text": "Not a demo. Not a proof of concept. Not something that's \"coming soon.\" A use case that's already delivering measurable results today. Could be reducing operational costs, improving customer support, speeding up software development, automating repetitive tasks, enhancing decision making, or something completely different. There is a lot of discussion around what AI might do in the future, but it's often more interesting to look at what is creating real value right now. What example stands out to you? submitted by /u/SoluLab-Inc [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1udp99l/the_most_reliable_data_agent_ive_shipped_is_90/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_03846fbca2c4dd25",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1udet7k/is_whisper_still_the_best_default_for/",
-    "title": "Is Whisper still the best default for speech-to-text if the app needs to be real time?",
-    "publishedAt": "2026-06-23T11:42:56.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "For batch transcription, Whisper / faster-whisper / whisper.cpp still feel like the default starting point.",
-      "But I’m trying to separate two use cases: 1.Batch transcription Upload audio → wait → transcript For this, Whisper is still great.",
-      "2.Realtime voice app / voice agent User speaks → partial transcript → LLM starts reasoning → agent responds Here the requirements feel very different.",
-      "The problems I keep seeing: - chunking delay - VAD / endpointing hacks - no native diarization - timestamps need extra work - mixed-language audio gets messy - GPU cost if you want scale - hard to get low p95 latency - local setup becomes infra work Hosted tools I’m seeing people test: Deepgram, AssemblyAI, Speechmatics, Soniox, Gladia, OpenAI realtime/transcribe, and now Smallest AI Pulse for realtime STT."
-    ],
-    "claims": [
-      {
-        "text": "For batch transcription, Whisper / faster-whisper / whisper.cpp still feel like the default starting point. But I’m trying to separate two use cases: 1.Batch transcription Upload audio → wait → transcript For this, Whisper is still great. Especially if privacy/local matters. 2.Realtime voice app / voice agent User speaks → partial transcript → LLM starts reasoning → agent responds Here the requirements feel very different. The problems I keep seeing: - chunking delay - VAD / endpointing hacks - no native diarization - timestamps need extra work - mixed-language audio gets messy - GPU cost if you want scale - hard to get low p95 latency - local setup becomes infra work Hosted tools I’m seeing people test: Deepgram, AssemblyAI, Speechmatics, Soniox, Gladia, OpenAI realtime/transcribe, and now Smallest AI Pulse for realtime STT. I’m not trying to dunk on Whisper. It’s still the baseline. But for a live voice agent or realtime captioning product, when do you personally stop self-hosting and move to a streaming STT API? Is the line latency? concurrency? diarization? maintenance? cost? submitted by /u/NowHaraya [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1udet7k/is_whisper_still_the_best_default_for/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ue5nch/whats_the_most_practical_ai_use_case_youve_seen/"
       }
     ],
     "usableFor": [
@@ -225,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_34bc82d5d40aa5e0",
+    "sourceId": "src_reddit-aiagents_2badec91e4415e3b",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1udbbe3/most_ai_agents_fail_because_people_build_them/",
-    "title": "Most AI agents fail because people build them like chatbots",
-    "publishedAt": "2026-06-23T08:27:47.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ue2cb0/any_ai_agents_hackathons_worth_joining_right_now/",
+    "title": "Any AI agents hackathons worth joining right now?",
+    "publishedAt": "2026-06-24T03:31:39.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "A pattern I keep seeing: People build “AI agents” as if they are just chatbots with tools.",
-      "It falls apart the moment the workflow takes more than one session.",
-      "Example: A customer onboarding agent should not “remember” that it sent the welcome email because that happened somewhere in the chat history.",
-      "It should know that because there is an explicit state like: LEAD_CAPTURED PLAN_SELECTED CONTRACT_SENT CONTRACT_SIGNED PAYMENT_RECEIVED ONBOARDING_STARTED COMPLETED That state should live in your database, not inside the model’s memory."
+      "I’ve been building with AI agents lately, but I’m trying not to just vibe code in my own bubble.",
+      "Hackathons feel like a good way to build around real themes, get feedback, and see what other developers are actually working on.",
+      "Have you joined any interesting AI agents hackathons recently?",
+      "What did you build, and was it actually useful?"
     ],
     "claims": [
       {
-        "text": "A pattern I keep seeing: People build “AI agents” as if they are just chatbots with tools. That works for demos. It falls apart the moment the workflow takes more than one session. Example: A customer onboarding agent should not “remember” that it sent the welcome email because that happened somewhere in the chat history. It should know that because there is an explicit state like: LEAD_CAPTURED PLAN_SELECTED CONTRACT_SENT CONTRACT_SIGNED PAYMENT_RECEIVED ONBOARDING_STARTED COMPLETED That state should live in your database, not inside the model’s memory. The model can reason, write, summarize, call tools, and decide what to do next. But the business process needs to be deterministic. The practical architecture I like: Use the LLM for reasoning and language. Use tools for actions. Use a state machine for workflow progress. Use webhooks/events to wake the agent back up. Use logs/evals to prove it did not skip steps. Use human approval for expensive or risky actions. A good agent is not “one giant prompt.” It is closer to a small operating system around a model. That is the difference between a cool demo and something a business can actually trust. submitted by /u/Intelligent-Pen4302 [link] [comments]",
+        "text": "I’ve been building with AI agents lately, but I’m trying not to just vibe code in my own bubble. Hackathons feel like a good way to build around real themes, get feedback, and see what other developers are actually working on. Have you joined any interesting AI agents hackathons recently? What did you build, and was it actually useful? submitted by /u/Claireeeee5 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1udbbe3/most_ai_agents_fail_because_people_build_them/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ue2cb0/any_ai_agents_hackathons_worth_joining_right_now/"
       }
     ],
     "usableFor": [
@@ -254,12 +225,41 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-06-23_fallback",
+    "sourceId": "src_reddit-aiagents_7d133a603792f3f0",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ueczcu/how_are_you_testing_your_agents_before_deploying/",
+    "title": "How are you testing your agents before deploying? Or is everyone just vibes-checking in prod?",
+    "publishedAt": "2026-06-24T13:05:35.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "With traditional software you've got unit tests, integration tests, staging environments, CI/CD pipelines.",
+      "But agents are non-deterministic by nature, which makes traditional testing patterns awkward.",
+      "- How do you test that an agent's tool usage is correct when the LLM might call tools in different orders?",
+      "- How do you regression test personality/tone/behaviour?"
+    ],
+    "claims": [
+      {
+        "text": "How are you testing your agents? With traditional software you've got unit tests, integration tests, staging environments, CI/CD pipelines. But agents are non-deterministic by nature, which makes traditional testing patterns awkward. - How do you test that an agent's tool usage is correct when the LLM might call tools in different orders? - How do you regression test personality/tone/behaviour? - How do you test multi-step workflows where each step depends on LLM output? - How do you test agent interactions with external systems without racking up API costs? I've seen people mention eval frameworks, but most seem focused on simple prompt quality rather than full agent behaviour testing. What does your agent testing workflow actually look like? submitted by /u/Groady [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ueczcu/how_are_you_testing_your_agents_before_deploying/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_stability-ai-blog_2026-06-24_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-23T23:53:39.765Z",
+    "publishedAt": "2026-06-24T13:09:04.921Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-23T23:53:40.397Z",
+    "publishedAt": "2026-06-24T13:09:05.443Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-23T23:53:39.863Z",
+    "publishedAt": "2026-06-24T13:09:05.232Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-06-23_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-06-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-06-23T23:53:39.727Z",
+    "publishedAt": "2026-06-24T13:09:04.772Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-06-23_fallback",
+    "sourceId": "src_reddit-comfyui_2026-06-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-06-23T23:53:39.733Z",
+    "publishedAt": "2026-06-24T13:09:04.772Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-23T23:53:39.829Z",
+    "publishedAt": "2026-06-24T13:09:04.770Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-23T23:53:39.847Z",
+    "publishedAt": "2026-06-24T13:09:04.955Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-23T23:53:40.682Z",
+    "publishedAt": "2026-06-24T13:09:05.488Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-06-23_fallback",
+    "sourceId": "src_reddit-aivideo_2026-06-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-06-23T23:53:39.854Z",
+    "publishedAt": "2026-06-24T13:09:04.815Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-23T23:53:40.385Z",
+    "publishedAt": "2026-06-24T13:09:05.055Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-23T23:53:39.871Z",
+    "publishedAt": "2026-06-24T13:09:04.837Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-06-23_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-06-24_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-23T23:53:40.285Z",
+    "publishedAt": "2026-06-24T13:09:04.892Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,15 +597,15 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-23T23:53:40.441Z",
+    "publishedAt": "2026-06-24T13:09:05.283Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
       "Replit — Replit Blog – Product updates from the team Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Wed, Mar 11, 2026 • Featured Introducing Replit Agent 4: Built for Creativity Introducing Agent 4—Replit's fastest, most versatile Agent yet.",
       "Push the boundaries of what's possible in vibe coding and build production-ready apps faster.",
-      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Mon, Jun 22, 2026 Vibe Coding's Coachella Moment Just Happened.",
-      "Powerful energy on New York’s Lower East Side, where the crowd was the one creating, vibe-coding and manifesting ideas into real things all day."
+      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Tue, Jun 23, 2026 Closing the loop: Evaluating and improving Replit Agent at scale Most Replit Agent users start with nothing more than an idea.",
+      "They describe the goal in natural language — without a repo, test suite, or chosen framework — and expect the agent to turn it into a functioning app."
     ],
     "claims": [
       {
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-06-23T23:53:40.198Z",
+    "publishedAt": "2026-06-24T13:09:05.053Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-06-23_fallback",
+    "sourceId": "src_reddit-midjourney_2026-06-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-06-23T23:53:39.947Z",
+    "publishedAt": "2026-06-24T13:09:04.914Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "Kling AI",
-    "publishedAt": "2026-06-23T23:53:42.098Z",
+    "publishedAt": "2026-06-24T13:09:06.264Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-06-23_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-06-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-06-23T23:53:40.103Z",
+    "publishedAt": "2026-06-24T13:09:05.022Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-23T23:53:40.213Z",
+    "publishedAt": "2026-06-24T13:09:05.156Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Party is over: regularizing ColBERT models to fix efficient ANN methods lightonai • 7 days ago • 21 Intel XPU Kernel Skill: LLM-driven Triton kernel optimization for the Hugging Face Kernel Hub danf • 7 days ago • 10 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 14 days ago • 74 QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 9 days ago • 9 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 19 days ago • 63 No Photoshop, No Blender: Multimedia by Agent mishig • 4 days ago • 5 V-Zero hao05 • 1 day ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 349 The Office Meets Silicon Valley build-small-hackathon • 8 days ago • 6 Enterprise AI benchmarks: head-to-head comparison of Falconer, Notion, Atlassian Rovo, Claude Code, and Codex maxifalconer • 5 days ago • 4 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 127 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 30 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 23 days ago • 83 How We Built OpenMythos: A Cybersecurity LLM Trained from Scratch KingNish • 8 days ago • 4 🧬 Carbon-VEPor: Efficient Variant Effect Prediction with Carbon build-small-hackathon • 8 days ago • 4 Continuous batching for GRPO, now in TRL sergiopaniego • 4 days ago • 3 Machine learning for alien climates: Introducing the ThousandWorlds benchmark hugging-science • about 10 hours ago • 3 Let's talk about LLM evaluation clefourrier • May 23, 2024 • 212 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 183 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 351 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness 27 June 23, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 16 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 1 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 19 June 22, 2026 guide open-source-collab We got local models to triage the OpenClaw repo for FREE!* +1 4 June 22, 2026 MosaicLeaks: Can your research agent keep a secret?",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up A Web Data Recipe for Medical Encoder Pretraining\",\"upvotes\":3,\"upvotes7d\":3,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/619cfd1dc7ef4b3b7b6a1e06/pWWWLPbG4pWusVEOX-3Sx.png\",\"authorsData\":[{\"_id\":\"619cfd1dc7ef4b3b7b6a1e06\",\"avatarUrl\":\"/avatars/ea3c8a9f178dfc1df3f75d71ecbe39dd.svg\",\"fullname\":\"bofeng huang\",\"name\":\"bofenghuang\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":99,\"isUserFollowing\":false}],\"url\":\"/blog/bofenghuang/doctobert-fr-release\",\"apiPrefix\":\"/api/blog/bofenghuang/doctobert-fr-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a353501c6178f485a4e74a4\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-19T12:24:33.116Z\",\"editedAt\":\"2026-06-19T12:24:33.116Z\",\"slug\":\"cb-trl-grpo\",\"title\":\"Continuous batching for GRPO, now in TRL\",\"upvotes\":3,\"upvotes7d\":3,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/61929226ded356549e20c5da/y7pjSk6NnmXD0jz9FlvJs.png\",\"authorsData\":[{\"_id\":\"61929226ded356549e20c5da\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/61929226ded356549e20c5da/ONUjP2S5fUWd07BiFXm0i.jpeg\",\"fullname\":\"Sergio Paniego\",\"name\":\"sergiopaniego\",\"type\":\"user\",\"isPro\":true,\"isHf\":true,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":1734,\"isUserFollowing\":false}],\"url\":\"/blog/sergiopaniego/cb-trl-grpo\",\"apiPrefix\":\"/api/blog/sergiopaniego/cb-trl-grpo\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a35ebf614f6a01146258a76\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-23T13:51:00.651Z\",\"editedAt\":\"2026-06-23T13:51:00.651Z\",\"slug\":\"thousandworlds\",\"title\":\"Machine learning for alien climates: Introducing the ThousandWorlds benchmark\",\"upvotes\":3,\"upvotes7d\":3,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/67d466fa35fc7f6d2ab597ed/lH09IRFCGWmGsu1dvS0Hh.png\",\"authorsData\":[{\"_id\":\"68cbc1d0c2bcd87ea68ec5aa\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/680ff4388f704be391757780/-9cmzdDMCol0OfkTYK8jF.png\",\"fullname\":\"Hugging Science\",\"name\":\"hugging-science\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":1452,\"isUserFollowing\":false}],\"url\":\"/blog/hugging-science/thousandworlds\",\"apiPrefix\":\"/api/blog/hugging-science/thousandworlds\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false}],\"canCreateBlog\":false,\"isPro\":false,\"isBlogExplorer\":false,\"query\":{},\"url\":\"/blog\"}\"> Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • about 6 hours ago • 23 Party is over: regularizing ColBERT models to fix efficient ANN methods lightonai • 8 days ago • 23 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 15 days ago • 74 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 20 days ago • 63 QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 9 days ago • 9 Intel XPU Kernel Skill: LLM-driven Triton kernel optimization for the Hugging Face Kernel Hub danf • 7 days ago • 10 No Photoshop, No Blender: Multimedia by Agent mishig • 5 days ago • 5 V-Zero hao05 • 2 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 185 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 128 The Office Meets Silicon Valley build-small-hackathon • 9 days ago • 6 Enterprise AI benchmarks: head-to-head comparison of Falconer, Notion, Atlassian Rovo, Claude Code, and Codex maxifalconer • 6 days ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 349 Diffusion Language Models: The New Paradigm ProCreations • Jun 10, 2025 • 51 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 30 Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action nvidia • 23 days ago • 83 How We Built OpenMythos: A Cybersecurity LLM Trained from Scratch KingNish • 9 days ago • 4 Where Does the Signal Live?",
+      "A Web Data Recipe for Medical Encoder Pretraining bofenghuang • 4 days ago • 3 Continuous batching for GRPO, now in TRL sergiopaniego • 5 days ago • 3 Machine learning for alien climates: Introducing the ThousandWorlds benchmark hugging-science • about 23 hours ago • 3 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness 30 June 23, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 18 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 2 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 20 June 22, 2026 guide open-source-collab We got local models to triage the OpenClaw repo for FREE!* 5 June 22, 2026 MosaicLeaks: Can your research agent keep a secret?",
       "12 June 18, 2026 peft lora guide Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "53 June 18, 2026 agents transformers evaluation Is it agentic enough?",
-      "Benchmarking open models on your own tooling 19 June 18, 2026 MolmoMotion: Language-guided 3D motion forecasting 9 June 17, 2026 From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot 14 June 17, 2026 GLM-5.2: Built for Long-Horizon Tasks 99 June 17, 2026 announcement agents mcp Agentic Resource Discovery: Let agents search 15 June 17, 2026 torch profile CUDA Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP +1 45 June 11, 2026 How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 23 June 9, 2026 Previous 1 2 3 ..."
+      "57 June 18, 2026 agents transformers evaluation Is it agentic enough?"
     ],
     "claims": [
       {
@@ -920,7 +920,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-23T23:53:40.191Z",
+    "publishedAt": "2026-06-24T13:09:04.991Z",
     "categoryHints": [
       "ai-agentic"
     ],

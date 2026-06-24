@@ -1,54 +1,39 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-23",
+    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-06-24",
     "category": "ai-agentic",
     "topic": "LangChain Blog",
     "sourceIds": [
       "src_langchain-blog_40ded3f923e3291d",
       "src_luma-blog_c7449029956c34f9",
       "src_simonwillison-blog_c3bd1cdcf38874ad",
-      "src_replit-blog_49899058ba32f8e5",
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_reddit-aiagents_66af7cbceba1a6c1"
+      "src_reddit-aiagents_7d133a603792f3f0"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-23",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-24",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_af4d320506893f97",
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
       "src_simonwillison-blog_24d0228e220f4c8a",
       "src_simonwillison-blog_b4769c92fe11beff"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-06-23",
-    "category": "ai-vibe-coding",
-    "topic": "GitHub Copilot Archives - The GitHub Blog",
-    "sourceIds": [
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_11347d529558da7d",
-      "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_vercel-ai-blog_2026-06-23_fallback"
-    ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 3 live crawl(s), strongest sources: GitHub Copilot Blog, Simon Willison's Weblog, Hugging Face Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-23",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-24",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -63,24 +48,22 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_is-whisper-still-the-best-default-for-speech-to-text-if-the-app-_2026-06-23",
-    "category": "ai-agentic",
-    "topic": "Is Whisper still the best default for speech-to-text if the app needs to be r...",
+    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-24",
+    "category": "ai-vibe-coding",
+    "topic": "Replit — Replit Blog – Product updates from the team",
     "sourceIds": [
-      "src_reddit-aiagents_03846fbca2c4dd25",
-      "src_reddit-aiagents_34bc82d5d40aa5e0",
-      "src_reddit-aiagents_2cbe1afd57753127",
-      "src_reddit-aiagents_abe30d08eee1c281",
-      "src_openai-blog_2026-06-23_fallback",
-      "src_mcp-blog_2026-06-23_fallback"
+      "src_replit-blog_49899058ba32f8e5",
+      "src_simonwillison-blog_11347d529558da7d",
+      "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_vercel-ai-blog_2026-06-24_fallback"
     ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.99,
+    "reasonSelected": "Score 0.99 from 4 source item(s), 3 live crawl(s), strongest sources: Replit Blog, Simon Willison's Weblog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-23",
+    "clusterId": "cluster_ai-video_1_kling-ai_2026-06-24",
     "category": "ai-video",
     "topic": "Kling AI",
     "sourceIds": [
@@ -93,14 +76,31 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-06-23",
+    "clusterId": "cluster_ai-agentic_2_what-s-the-most-practical-ai-use-case-you-ve-seen-in-a-real-busi_2026-06-24",
+    "category": "ai-agentic",
+    "topic": "What's the most practical AI use case you've seen in a real business?",
+    "sourceIds": [
+      "src_reddit-aiagents_709c897435f27aad",
+      "src_reddit-aiagents_2badec91e4415e3b",
+      "src_reddit-aiagents_2cbe1afd57753127",
+      "src_reddit-aiagents_abe30d08eee1c281",
+      "src_openai-blog_2026-06-24_fallback",
+      "src_mcp-blog_2026-06-24_fallback"
+    ],
+    "articleWorthinessScore": 0.77,
+    "reasonSelected": "Score 0.77 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-06-24",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-06-23_fallback",
-      "src_reddit-stablediffusion_2026-06-23_fallback",
-      "src_reddit-comfyui_2026-06-23_fallback",
-      "src_reddit-midjourney_2026-06-23_fallback"
+      "src_stability-ai-blog_2026-06-24_fallback",
+      "src_reddit-stablediffusion_2026-06-24_fallback",
+      "src_reddit-comfyui_2026-06-24_fallback",
+      "src_reddit-midjourney_2026-06-24_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -108,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-06-23",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-06-24",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-06-23_fallback",
-      "src_reddit-mediasynthesis_2026-06-23_fallback"
+      "src_reddit-aivideo_2026-06-24_fallback",
+      "src_reddit-mediasynthesis_2026-06-24_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
