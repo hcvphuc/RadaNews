@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-27T23:58:54.711Z",
+    "publishedAt": "2026-06-28T12:11:37.277Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-27T23:58:58.551Z",
+    "publishedAt": "2026-06-28T12:11:42.963Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-06-27_fallback",
+    "sourceId": "src_openai-blog_2026-06-28_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-27T23:58:53.889Z",
+    "publishedAt": "2026-06-28T12:11:36.361Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-06-27_fallback",
+    "sourceId": "src_mcp-blog_2026-06-28_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-27T23:58:54.194Z",
+    "publishedAt": "2026-06-28T12:11:37.413Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,6 +167,64 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aiagents_eb019cea7aa01f17",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uhrvo4/gpt_56_sol_meets_the_same_fate_as_claude_mythos/",
+    "title": "GPT 5.6 Sol meets the same fate as Claude Mythos. What is happening??",
+    "publishedAt": "2026-06-28T08:33:44.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "OpenAI just released their newest model, GPT-5.6, but here is the thing.",
+      "They only released it to companies that the US government approved.",
+      "The White House is literally going through customer by customer and deciding who gets access for the first 2 weeks before everyone else can use it.",
+      "Sam Altman himself told his staff this is \"not our preferred long term model.\" So even he is uncomfortable with it."
+    ],
+    "claims": [
+      {
+        "text": "OpenAI just released their newest model, GPT-5.6, but here is the thing. They only released it to companies that the US government approved. The White House is literally going through customer by customer and deciding who gets access for the first 2 weeks before everyone else can use it. Sam Altman himself told his staff this is \"not our preferred long term model.\" So even he is uncomfortable with it. But thats the situation right now. And this is exactly why I keep saying every company need to have their own model. You cannot fully depend on OpenAI or Anthropic anymore. If the government decide tomorrow that only certain companies get access to the newest model, your whole product breaks. You cant ship features. You cant compete. Your roadmap is no longer in your hands. The good news is the cost of running your own model is going down very fast. GPUs are getting cheaper. Companies like Cerebras, Fireworks, Groq, SambaNova are all competing and dropping prices every month. You can rent serious compute now for what one OpenAI API bill used to cost. So the economics already works. And the open source models, Qwen, Llama, Mistral, DeepSeek, they are very close to GPT-4 quality on most real enterprise tasks. The gap is much smaller than people think. Once you fine tune one of these on your own data, for your own use case, it actually beats the closed models on your specific problem. Because the closed models are general purpose. Your fine tuned model is built for your exact thing. I built this for a RAG company recently. We took Qwen, fine tuned it on their domain data, added a negative example dataset to teach the model to say \"I dont know\" instead of hallucinating, and deployed it on a hybrid setup. Local GPUs for normal traffic and rented cloud GPUs when theres a big load. The results were honestly better than I expected. Hallucination rate dropped from around 14% to under 2%. $15,600 a month saved compared to using cloud APIs, for every 1 million queries. Zero data leaving the customer's network. Sub 2 second responses with 60 concurrent users on one H100. And heres the part that matter the most. We have a data flywheel. Every query, every correction, every time someone says \"this answer is wrong, the right answer is X\", all of that flows back into the next round of fine tuning. So the model keeps getting better at their specific use case. Every week. Every month. Their competitors literally cannot copy this because they dont have the customer relationships or the data. This is the real moat. Not the model. The model is becoming a commodity. The data and the flywheel is what nobody can take from you. So when the news this week said \"GPT-5.6 is only for government approved customers\", our customers didnt even notice. Their product works the same on June 24 as it does on June 25. Thats the whole point of owning your stack. If you are building any AI product right now and you are still completely dependent on OpenAI or Anthropic's API, this week was the wakeup call. Build your own. Fine tune it. Set up the flywheel. The vendors will sort themselves out eventually but you cannot bet your company on it. submitted by /u/shanjairaj_2000 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uhrvo4/gpt_56_sol_meets_the_same_fate_as_claude_mythos/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aiagents_94c47b6f5977fb41",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uhjgtf/i_dont_think_openai_and_anthropic_will_survive/",
+    "title": "I don’t think OpenAi and Anthropic will survive long term",
+    "publishedAt": "2026-06-28T01:08:14.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Hello, After studying how Dropbox rose but still lost market dominance the parallels with Ai are the same these Ai Labs long term won’t make it here’s why.",
+      "Just like Dropbox, OpenAi started out with a high consumer adoption, and also they used the classic subscription model.",
+      "The problem with this is the Freemium model most consumers will use it for free and eventually players like Google and Microsoft started having their own cloud storage solution eventually stifling out Dropbox’s market share and why did I think of them?",
+      "The main reason is a large ecosystem, Google and Microsoft already have credibility and a large ecosystem and with this they offered better pricing and better free tiers than Dropbox and because of the ecosystem a lot of people just went with them."
+    ],
+    "claims": [
+      {
+        "text": "Hello, After studying how Dropbox rose but still lost market dominance the parallels with Ai are the same these Ai Labs long term won’t make it here’s why. Just like Dropbox, OpenAi started out with a high consumer adoption, and also they used the classic subscription model. The problem with this is the Freemium model most consumers will use it for free and eventually players like Google and Microsoft started having their own cloud storage solution eventually stifling out Dropbox’s market share and why did I think of them? The main reason is a large ecosystem, Google and Microsoft already have credibility and a large ecosystem and with this they offered better pricing and better free tiers than Dropbox and because of the ecosystem a lot of people just went with them. Companies like OpenAi and Anthropic I see them in the same state, Google and Microsoft and even apple own an ecosystem. Just like Steve Jobs said to the Dropbox founder after the founder rejected apple “You’re a feature not a product” I think the same applies for Ai it’s a feature not a product in itself. I might clown on Google time to time for how dumb Gemini is but look at how they are integrating Gemini into everything from gmail, to google pixel, YouTube and more, Microsoft is the same with copilot and now apple is rolling out its own on device ai(still powered by Gemini) and mind u they didn’t go with openai or anthropic they rather go with google. these big guys have the resources and the infrastructure while anthropic and openai are just burning through things like it’s nothing. Sorry but not every consumer is willing to pay a subscription model if someone has greater free tiers it’s over and an ecosystem is just overkill. The companies are betting on a future and trying to go through the Amazon path not being profitable at first and building infrastructure but betting on the vision. The problem with this is on Amazon you paid for products and got what you paid for, most people use ai for free so that’s a different thing and why I don’t think they’ll succeed long term. I maybe wrong what do you guys think? submitted by /u/Lise_vine23 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uhjgtf/i_dont_think_openai_and_anthropic_will_survive/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aiagents_f9a3fcc5b2cea98f",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -196,70 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_42fa7f1cad59ffdf",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uhem42/ai_didnt_remove_engineering_work_it_moved_the/",
-    "title": "AI didn’t remove engineering work. It moved the hard part somewhere else.",
-    "publishedAt": "2026-06-27T21:33:47.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Everyone keeps talking about AI making developers faster.",
-      "I think that’s true, but also incomplete.",
-      "But it has made the “before and after” work more important: knowing exactly what to ask for giving enough context catching wrong assumptions checking edge cases deciding what should actually ship cleaning up code that “works” but doesn’t belong in the system So the job didn’t disappear.",
-      "It shifted from typing code to steering, reviewing, and integrating work."
-    ],
-    "claims": [
-      {
-        "text": "Everyone keeps talking about AI making developers faster. I think that’s true, but also incomplete. AI has made writing code cheaper. But it has made the “before and after” work more important: knowing exactly what to ask for giving enough context catching wrong assumptions checking edge cases deciding what should actually ship cleaning up code that “works” but doesn’t belong in the system So the job didn’t disappear. It shifted from typing code to steering, reviewing, and integrating work. The weird part is that a lot of teams are treating AI-generated code like finished work, when it is really closer to a very fast first draft. That might be fine for prototypes. But in a real codebase, the expensive part was never only writing the code. It was making sure the change fits the system. Curious how others feel about this: Has AI actually reduced your engineering workload, or has it just moved the workload into review, context-setting, and cleanup? submitted by /u/TruthIsAllYouNeed_ [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uhem42/ai_didnt_remove_engineering_work_it_moved_the/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_1c94cb5641cb5500",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uh0gfa/after_going_through_15_agenticloop_papers_the/",
-    "title": "After going through ~15 agentic-loop papers (the wins and the failures), the thing that predicts success is the verifier, not the model",
-    "publishedAt": "2026-06-27T11:34:48.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "I've built a few agent loops and do consulting with various teams in Berlin and got curious why some teams have agents that work great and others fall apart.",
-      "So I went through a pile of papers, the success stories and the failure ones, and the same thing kept showing up.",
-      "The loops that win all have a real, hard-to-game check on the work, and they're willing to spend compute to hit it: - ComPilot wraps an off-the-shelf LLM around a compiler.",
-      "The compiler reports legality and measured speedup, the model retries."
-    ],
-    "claims": [
-      {
-        "text": "I've built a few agent loops and do consulting with various teams in Berlin and got curious why some teams have agents that work great and others fall apart. So I went through a pile of papers, the success stories and the failure ones, and the same thing kept showing up. The loops that win all have a real, hard-to-game check on the work, and they're willing to spend compute to hit it: - ComPilot wraps an off-the-shelf LLM around a compiler. The compiler reports legality and measured speedup, the model retries. 2.66x speedup on a single run, 3.54x best-of-5, no fine-tuning. - AlphaCodium runs generated code against tests in a loop. GPT-4 went from 19% to 44% on CodeContests just from adding that loop. - DeepSeek-R1 trains on verifiable math/code rewards. The R1-Zero variant climbed from 15.6% to 71.0% on AIME over training, and to 86.7% with majority voting. - o3 hit 87.5% on ARC-AGI... at the high-compute setting, which cost on the order of hundreds of thousands of dollars for the run. The score is real and so is the bill. The failures almost always lack a verifier , or have one the model can game: - The \"AI Scientist\" agent, given control of its own runtime, tried to edit its own timeout instead of making the code faster. - Without external feedback, models asked to self-correct their reasoning often get worse, not better. - On open-ended tasks the gap is still brutal: GAIA, humans 92% vs an agent 15%; WebArena, 14% vs 78%. And single-run scores lie, reliability across repeated trials drops fast. Two things I took away for building: The verifier is the actual product . If you can't check the output cheaply and in a way the model can't talk its way around, you don't have a loop, you have a vibe with extra steps. Tests, a compiler, a metric on a held-out set, a second model grounded in evidence, whatever. Find the best one you have. The wins are bought with compute, so the metric that matters is cost per successful outcome, not per run. And sandbox the thing, because a loop with access to its own constraints will edit them. Curious what everyone's using as their verifier. What's actually worked for you, and what's gotten gamed? Where do you put a human in the loop? submitted by /u/brennhill [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uh0gfa/after_going_through_15_agenticloop_papers_the/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_stability-ai-blog_2026-06-27_fallback",
+    "sourceId": "src_stability-ai-blog_2026-06-28_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-27T23:58:54.162Z",
+    "publishedAt": "2026-06-28T12:11:36.607Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-27T23:58:54.725Z",
+    "publishedAt": "2026-06-28T12:11:37.442Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-27T23:58:54.080Z",
+    "publishedAt": "2026-06-28T12:11:36.548Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-06-27_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-06-28_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-06-27T23:58:53.953Z",
+    "publishedAt": "2026-06-28T12:11:36.553Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-06-27_fallback",
+    "sourceId": "src_reddit-comfyui_2026-06-28_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-06-27T23:58:53.953Z",
+    "publishedAt": "2026-06-28T12:11:36.552Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-27T23:58:54.123Z",
+    "publishedAt": "2026-06-28T12:11:36.642Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-27T23:58:54.203Z",
+    "publishedAt": "2026-06-28T12:11:36.744Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-27T23:58:55.087Z",
+    "publishedAt": "2026-06-28T12:11:37.433Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-06-27_fallback",
+    "sourceId": "src_reddit-aivideo_2026-06-28_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-06-27T23:58:54.087Z",
+    "publishedAt": "2026-06-28T12:11:36.674Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-27T23:58:54.684Z",
+    "publishedAt": "2026-06-28T12:11:37.208Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-27T23:58:54.131Z",
+    "publishedAt": "2026-06-28T12:11:36.730Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-06-27_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-06-28_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-27T23:58:54.376Z",
+    "publishedAt": "2026-06-28T12:11:38.216Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-27T23:58:54.766Z",
+    "publishedAt": "2026-06-28T12:11:37.363Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-06-27T23:58:54.531Z",
+    "publishedAt": "2026-06-28T12:11:36.842Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-06-27_fallback",
+    "sourceId": "src_reddit-midjourney_2026-06-28_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-06-27T23:58:54.259Z",
+    "publishedAt": "2026-06-28T12:11:36.784Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-06-27T23:58:56.017Z",
+    "publishedAt": "2026-06-28T12:11:38.784Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-06-27_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-06-28_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-06-27T23:58:54.426Z",
+    "publishedAt": "2026-06-28T12:11:36.852Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -733,12 +733,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_huggingface-blog_af185e1e7e4dfbac",
+    "sourceId": "src_huggingface-blog_2026-06-28_fallback",
     "sourceType": "blog",
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
-    "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-27T23:58:54.535Z",
+    "title": "Hugging Face Blog signal for ai-agentic",
+    "publishedAt": "2026-06-28T12:11:36.841Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,12 +746,12 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up A Web Data Recipe for Medical Encoder Pretraining\",\"upvotes\":5,\"upvotes7d\":5,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/619cfd1dc7ef4b3b7b6a1e06/pWWWLPbG4pWusVEOX-3Sx.png\",\"authorsData\":[{\"_id\":\"619cfd1dc7ef4b3b7b6a1e06\",\"avatarUrl\":\"/avatars/ea3c8a9f178dfc1df3f75d71ecbe39dd.svg\",\"fullname\":\"bofeng huang\",\"name\":\"bofenghuang\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":100,\"isUserFollowing\":false}],\"url\":\"/blog/bofenghuang/doctobert-fr-release\",\"apiPrefix\":\"/api/blog/bofenghuang/doctobert-fr-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a353501c6178f485a4e74a4\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-19T12:24:33.116Z\",\"editedAt\":\"2026-06-19T12:24:33.116Z\",\"slug\":\"cb-trl-grpo\",\"title\":\"Continuous batching for GRPO, now in TRL\",\"upvotes\":7,\"upvotes7d\":5,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/61929226ded356549e20c5da/y7pjSk6NnmXD0jz9FlvJs.png\",\"authorsData\":[{\"_id\":\"61929226ded356549e20c5da\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/61929226ded356549e20c5da/ONUjP2S5fUWd07BiFXm0i.jpeg\",\"fullname\":\"Sergio Paniego\",\"name\":\"sergiopaniego\",\"type\":\"user\",\"isPro\":true,\"isHf\":true,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":1738,\"isUserFollowing\":false}],\"url\":\"/blog/sergiopaniego/cb-trl-grpo\",\"apiPrefix\":\"/api/blog/sergiopaniego/cb-trl-grpo\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a393b13a4b4181a46bd8f98\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-22T13:53:35.317Z\",\"editedAt\":\"2026-06-22T13:53:35.316Z\",\"slug\":\"v-zero\",\"title\":\"V-Zero\",\"upvotes\":5,\"upvotes7d\":5,\"authorsData\":[{\"_id\":\"68d77af21aa476c3485f7f26\",\"avatarUrl\":\"/avatars/06bc0b24b2a88223843cfd19a0159ff4.svg\",\"fullname\":\"haoxiang sun\",\"name\":\"hao05\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":2,\"isUserFollowing\":false}],\"url\":\"/blog/hao05/v-zero\",\"apiPrefix\":\"/api/blog/hao05/v-zero\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"64f5855a848b0e6e40ab7528\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-07-19T12:43:55.216Z\",\"editedAt\":\"2026-04-03T14:05:27.612Z\",\"slug\":\"get-on-the-ssm-train\",\"title\":\"Introduction to State Space Models (SSM)\",\"upvotes\":232,\"upvotes7d\":4,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/613b0a62a14099d5afed7830/VbLJ1AtN7SW8uJ4vWJdNY.png\",\"authorsData\":[{\"_id\":\"613b0a62a14099d5afed7830\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/613b0a62a14099d5afed7830/pLuqSIYaNYhUqdjxlNrFn.png\",\"fullname\":\"Loïck BOURDOIS\",\"name\":\"lbourdois\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":209,\"isUserFollowing\":false}],\"url\":\"/blog/lbourdois/get-on-the-ssm-train\",\"apiPrefix\":\"/api/blog/lbourdois/get-on-the-ssm-train\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a2a666909bbcd623e66785b\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-16T13:00:30.731Z\",\"editedAt\":\"2026-06-16T13:05:07.378Z\",\"slug\":\"lateon-regularization\",\"title\":\"Party is over: regularizing ColBERT models to fix efficient ANN methods\",\"upvotes\":23,\"upvotes7d\":4,\"authorsData\":[{\"_id\":\"6271618b3623fb51324c461e\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1651597775471-62715572ab9243b5d40cbb1d.png\",\"fullname\":\"LightOn AI\",\"name\":\"lightonai\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":701,\"isUserFollowing\":false}],\"url\":\"/blog/lightonai/lateon-regularization\",\"apiPrefix\":\"/api/blog/lightonai/lateon-regularization\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"665f129041b1979a271d1cb0\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-06-13T11:37:35.745Z\",\"editedAt\":\"2025-12-31T14:49:50.600Z\",\"slug\":\"abliteration\",\"title\":\"Uncensor any LLM with abliteration\",\"upvotes\":869,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"61b8e2ba285851687028d395\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/Rq3xWG7mJ3aCRoBsq340h.jpeg\",\"fullname\":\"Maxime Labonne\",\"name\":\"mlabonne\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":7913,\"isUserFollowing\":false}],\"url\":\"/blog/mlabonne/abliteration\",\"apiPrefix\":\"/api/blog/mlabonne/abliteration\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6720fbb36195f26d3494fec1\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-10-29T15:14:50.899Z\",\"editedAt\":\"2025-03-21T20:58:09.598Z\",\"slug\":\"make-your-own-rag\",\"title\":\"Code a simple RAG from scratch\",\"upvotes\":351,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"63ca214abedad7e2bf1d1517\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1674191139776-noauth.png\",\"fullname\":\"Xuan-Son Nguyen\",\"name\":\"ngxson\",\"type\":\"user\",\"isPro\":false,\"isHf\":true,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":622,\"isUserFollowing\":false}],\"url\":\"/blog/ngxson/make-your-own-rag\",\"apiPrefix\":\"/api/blog/ngxson/make-your-own-rag\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6847c67acdce28069b772178\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2025-06-10T05:45:30.827Z\",\"editedAt\":\"2025-06-10T05:45:30.827Z\",\"slug\":\"diffusion-language-model\",\"title\":\"Diffusion Language Models: The New Paradigm\",\"upvotes\":51,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"658a4c914bb41498f7d5e3ca\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/658a4c914bb41498f7d5e3ca/zMJjxfazi9ePc7GZ1jRAE.jpeg\",\"f"
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
     ],
     "claims": [
       {
-        "text": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-        "confidence": "medium",
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
         "evidence": "https://huggingface.co/blog"
       }
     ],
@@ -759,7 +759,7 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_dd0ce7367f641e5a",
@@ -917,7 +917,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-27T23:58:54.535Z",
+    "publishedAt": "2026-06-28T12:11:36.953Z",
     "categoryHints": [
       "ai-agentic"
     ],
