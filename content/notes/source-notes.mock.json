@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-06-27T12:05:04.254Z",
+    "publishedAt": "2026-06-27T23:58:54.711Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-06-27T12:05:03.482Z",
+    "publishedAt": "2026-06-27T23:58:58.551Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-06-27T12:05:03.371Z",
+    "publishedAt": "2026-06-27T23:58:53.889Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-06-27T12:05:03.907Z",
+    "publishedAt": "2026-06-27T23:58:54.194Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,55 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_c39e32608d468dd9",
+    "sourceId": "src_reddit-aiagents_f9a3fcc5b2cea98f",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ugzoe2/anyone_moved_away_from_togetherai_looking_for/",
-    "title": "Anyone moved away from Together.ai? Looking for alternatives",
-    "publishedAt": "2026-06-27T10:53:19.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uh84cx/i_charge_clients_more_to_not_build_an_ai_agent/",
+    "title": "I charge clients more to NOT build an AI agent.",
+    "publishedAt": "2026-06-27T17:08:38.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Been using Together.ai for inference but the pricing is getting hard to justify as the project scales.",
-      "Latency has also been inconsistent a bit.",
-      "Looking for something with decent model selection.",
-      "submitted by /u/bobbyiliev [link] [comments]"
+      "I build automations and AI agents for companies.",
+      "And the most valuable thing I do on calls now is talk people out of agents.",
+      "A guy running a supplements brand came to me in March.",
+      "Seven people on his team, fourteen products."
     ],
     "claims": [
       {
-        "text": "Been using Together.ai for inference but the pricing is getting hard to justify as the project scales. Latency has also been inconsistent a bit. What are you running instead? Looking for something with decent model selection. submitted by /u/bobbyiliev [link] [comments]",
+        "text": "I build automations and AI agents for companies. About forty clients at this point. And the most valuable thing I do on calls now is talk people out of agents. A guy running a supplements brand came to me in March. Seven people on his team, fourteen products. He wanted an AI system that watches his inventory, figures out when to reorder, and emails his suppliers on its own. He'd seen a demo somewhere and got excited. I looked at his Shopify store. He'd been reordering the same products at the same quantities from the same suppliers for over a year. Protein powder hits 200 units, he orders more. Been doing it that way since 2023. There was nothing for AI to figure out. The decision was already made. I quoted him $5,200 for the AI build. Then I told him I could solve it for $700. I set up a simple automated workflow. Every morning it checks his inventory numbers in Shopify, compares them against his reorder points, and if anything is low it sends a pre-written order email to the right supplier. Runs itself. Costs him $60/month. No AI involved at all. He told me it felt too basic. I get that a lot. His ops person got back forty minutes every morning within the first week. He stopped caring about how boring it was after that. I'm not anti-AI though. I built an AI agent earlier this year for a property management company. Tenants text in stuff like \"my sink is leaking and the hallway light has been out for a week.\" That's two problems in one message. The agent reads it, figures out which vendor handles plumbing and which one handles electrical, checks who's responsible based on the lease, and sends both requests out with the right priority. Handles about two hundred messages a month and saves their ops manager close to fifteen hours a week. That one needs AI because people write messy, unpredictable messages and someone has to interpret each one. You can't set a rule for that the way you can set a reorder point. The supplements guy didn't have messy input. He had fourteen products and a number. That's an alarm clock, not a brain. I've started charging more for the planning phase because the most expensive mistake I see is people spending $5k on an AI agent that does the same job as a $60/month automation. If your process follows the same steps every time with the same kind of inputs, you don't need AI. You need a workflow that runs on autopilot, and those cost a fraction of what agents cost to build and maintain. submitted by /u/Decent-Phrase-4161 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ugzoe2/anyone_moved_away_from_togetherai_looking_for/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uh84cx/i_charge_clients_more_to_not_build_an_ai_agent/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aiagents_42fa7f1cad59ffdf",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uhem42/ai_didnt_remove_engineering_work_it_moved_the/",
+    "title": "AI didn’t remove engineering work. It moved the hard part somewhere else.",
+    "publishedAt": "2026-06-27T21:33:47.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Everyone keeps talking about AI making developers faster.",
+      "I think that’s true, but also incomplete.",
+      "But it has made the “before and after” work more important: knowing exactly what to ask for giving enough context catching wrong assumptions checking edge cases deciding what should actually ship cleaning up code that “works” but doesn’t belong in the system So the job didn’t disappear.",
+      "It shifted from typing code to steering, reviewing, and integrating work."
+    ],
+    "claims": [
+      {
+        "text": "Everyone keeps talking about AI making developers faster. I think that’s true, but also incomplete. AI has made writing code cheaper. But it has made the “before and after” work more important: knowing exactly what to ask for giving enough context catching wrong assumptions checking edge cases deciding what should actually ship cleaning up code that “works” but doesn’t belong in the system So the job didn’t disappear. It shifted from typing code to steering, reviewing, and integrating work. The weird part is that a lot of teams are treating AI-generated code like finished work, when it is really closer to a very fast first draft. That might be fine for prototypes. But in a real codebase, the expensive part was never only writing the code. It was making sure the change fits the system. Curious how others feel about this: Has AI actually reduced your engineering workload, or has it just moved the workload into review, context-setting, and cleanup? submitted by /u/TruthIsAllYouNeed_ [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uhem42/ai_didnt_remove_engineering_work_it_moved_the/"
       }
     ],
     "usableFor": [
@@ -225,41 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_eedbe8644f764016",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ugyedb/best_lowcostfree_tech_stack_to_build_b2b_lead_gen/",
-    "title": "Best low-cost/free tech stack to build B2B Lead Gen AI Agents? (MX Lookup + Company Research)",
-    "publishedAt": "2026-06-27T09:40:28.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Hey everyone, I run an IT consulting & recruitment agency based in Hyderabad.",
-      "We’re also partners for Google, Zoho, Rediff, and Outlook email products.",
-      "I want to build a couple of internal AI agents to automate our outbound prospecting, but I need to keep the running costs as low as possible (ideally free or cheap pay-as-you-go).",
-      "Here is the workflow I'm trying to build: Agent 1 (The Tech Scout): Needs to take a list of company domains, run a reverse DNS/MX record lookup, and identify what email service provider they use (e.g., free Gmail, Yahoo, or legacy hosting)."
-    ],
-    "claims": [
-      {
-        "text": "Hey everyone, I run an IT consulting & recruitment agency based in Hyderabad. We’re also partners for Google, Zoho, Rediff, and Outlook email products. I want to build a couple of internal AI agents to automate our outbound prospecting, but I need to keep the running costs as low as possible (ideally free or cheap pay-as-you-go). Here is the workflow I'm trying to build: Agent 1 (The Tech Scout): Needs to take a list of company domains, run a reverse DNS/MX record lookup, and identify what email service provider they use (e.g., free Gmail, Yahoo, or legacy hosting). If they use a basic setup, flag them as a lead for a Google Workspace or Zoho migration pitch. Agent 2 (The Researcher & Writer): Scrapes the flagged company's website to understand what they do, and writes a short, highly personalized cold email pitching our mail solutions or recruitment services. I'm comfortable with open-source tools, Python, or self-hosted low-code platforms. What is the best, most cost-effective stack to build this right now? Would love any recommendations on how to handle the MX lookup and website scraping at scale without hitting expensive paywalls. Thanks! submitted by /u/hungrybirdjobs [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ugyedb/best_lowcostfree_tech_stack_to_build_b2b_lead_gen/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_stability-ai-blog_2026-06-27_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-06-27T12:05:03.654Z",
+    "publishedAt": "2026-06-27T23:58:54.162Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-06-27T12:05:04.576Z",
+    "publishedAt": "2026-06-27T23:58:54.725Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-06-27T12:05:03.696Z",
+    "publishedAt": "2026-06-27T23:58:54.080Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -345,7 +345,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-06-27T12:05:03.516Z",
+    "publishedAt": "2026-06-27T23:58:53.953Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -372,7 +372,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-06-27T12:05:03.540Z",
+    "publishedAt": "2026-06-27T23:58:53.953Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-06-27T12:05:03.591Z",
+    "publishedAt": "2026-06-27T23:58:54.123Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-06-27T12:05:03.832Z",
+    "publishedAt": "2026-06-27T23:58:54.203Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-06-27T12:05:04.425Z",
+    "publishedAt": "2026-06-27T23:58:55.087Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -485,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-06-27T12:05:03.618Z",
+    "publishedAt": "2026-06-27T23:58:54.087Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-06-27T12:05:04.191Z",
+    "publishedAt": "2026-06-27T23:58:54.684Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-06-27T12:05:03.843Z",
+    "publishedAt": "2026-06-27T23:58:54.131Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -570,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-06-27T12:05:03.879Z",
+    "publishedAt": "2026-06-27T23:58:54.376Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-06-27T12:05:04.402Z",
+    "publishedAt": "2026-06-27T23:58:54.766Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-06-27T12:05:03.879Z",
+    "publishedAt": "2026-06-27T23:58:54.531Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -656,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-06-27T12:05:03.934Z",
+    "publishedAt": "2026-06-27T23:58:54.259Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-06-27T12:05:05.675Z",
+    "publishedAt": "2026-06-27T23:58:56.017Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -711,7 +711,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-06-27T12:05:03.893Z",
+    "publishedAt": "2026-06-27T23:58:54.426Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-06-27T12:05:03.990Z",
+    "publishedAt": "2026-06-27T23:58:54.535Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,7 +746,7 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up A Web Data Recipe for Medical Encoder Pretraining\",\"upvotes\":5,\"upvotes7d\":5,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/619cfd1dc7ef4b3b7b6a1e06/pWWWLPbG4pWusVEOX-3Sx.png\",\"authorsData\":[{\"_id\":\"619cfd1dc7ef4b3b7b6a1e06\",\"avatarUrl\":\"/avatars/ea3c8a9f178dfc1df3f75d71ecbe39dd.svg\",\"fullname\":\"bofeng huang\",\"name\":\"bofenghuang\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":100,\"isUserFollowing\":false}],\"url\":\"/blog/bofenghuang/doctobert-fr-release\",\"apiPrefix\":\"/api/blog/bofenghuang/doctobert-fr-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a353501c6178f485a4e74a4\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-19T12:24:33.116Z\",\"editedAt\":\"2026-06-19T12:24:33.116Z\",\"slug\":\"cb-trl-grpo\",\"title\":\"Continuous batching for GRPO, now in TRL\",\"upvotes\":7,\"upvotes7d\":5,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/61929226ded356549e20c5da/y7pjSk6NnmXD0jz9FlvJs.png\",\"authorsData\":[{\"_id\":\"61929226ded356549e20c5da\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/61929226ded356549e20c5da/ONUjP2S5fUWd07BiFXm0i.jpeg\",\"fullname\":\"Sergio Paniego\",\"name\":\"sergiopaniego\",\"type\":\"user\",\"isPro\":true,\"isHf\":true,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":1738,\"isUserFollowing\":false}],\"url\":\"/blog/sergiopaniego/cb-trl-grpo\",\"apiPrefix\":\"/api/blog/sergiopaniego/cb-trl-grpo\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a393b13a4b4181a46bd8f98\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-22T13:53:35.317Z\",\"editedAt\":\"2026-06-22T13:53:35.316Z\",\"slug\":\"v-zero\",\"title\":\"V-Zero\",\"upvotes\":5,\"upvotes7d\":5,\"authorsData\":[{\"_id\":\"68d77af21aa476c3485f7f26\",\"avatarUrl\":\"/avatars/06bc0b24b2a88223843cfd19a0159ff4.svg\",\"fullname\":\"haoxiang sun\",\"name\":\"hao05\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":2,\"isUserFollowing\":false}],\"url\":\"/blog/hao05/v-zero\",\"apiPrefix\":\"/api/blog/hao05/v-zero\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a2a666909bbcd623e66785b\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-16T13:00:30.731Z\",\"editedAt\":\"2026-06-16T13:05:07.378Z\",\"slug\":\"lateon-regularization\",\"title\":\"Party is over: regularizing ColBERT models to fix efficient ANN methods\",\"upvotes\":23,\"upvotes7d\":4,\"authorsData\":[{\"_id\":\"6271618b3623fb51324c461e\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1651597775471-62715572ab9243b5d40cbb1d.png\",\"fullname\":\"LightOn AI\",\"name\":\"lightonai\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":701,\"isUserFollowing\":false}],\"url\":\"/blog/lightonai/lateon-regularization\",\"apiPrefix\":\"/api/blog/lightonai/lateon-regularization\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a35ad83ca1b086e0d5ccc24\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-19T20:58:43.831Z\",\"editedAt\":\"2026-06-19T20:58:43.831Z\",\"slug\":\"multimedia-by-agent\",\"title\":\"No Photoshop, No Blender: Multimedia by Agent\",\"upvotes\":6,\"upvotes7d\":4,\"authorsData\":[{\"_id\":\"60a551a34ecc5d054c8ad93e\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/60a551a34ecc5d054c8ad93e/dhcBFtwNLcKqqASxniyVw.jpeg\",\"fullname\":\"Mishig Davaadorj\",\"name\":\"mishig\",\"type\":\"user\",\"isPro\":false,\"isHf\":true,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":361,\"isUserFollowing\":false}],\"url\":\"/blog/mishig/multimedia-by-agent\",\"apiPrefix\":\"/api/blog/mishig/multimedia-by-agent\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"64f5855a848b0e6e40ab7528\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-07-19T12:43:55.216Z\",\"editedAt\":\"2026-04-03T14:05:27.612Z\",\"slug\":\"get-on-the-ssm-train\",\"title\":\"Introduction to State Space Models (SSM)\",\"upvotes\":231,\"upvotes7d\":3,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/613b0a62a14099d5afed7830/VbLJ1AtN7SW8uJ4vWJdNY.png\",\"authorsData\":[{\"_id\":\"613b0a62a14099d5afed7830\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/613b0a62a14099d5afed7830/pLuqSIYaNYhUqdjxlNrFn.png\",\"fullname\":\"Loïck BOURDOIS\",\"name\":\"lbourdois\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":209,\"isUserFollowing\":false}],\"url\":\"/blog/lbourdois/get-on-the-ssm-train\",\"apiPrefix\":\"/api/blog/lbourdois/get-on-the-ssm-train\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"665f129041b1979a271d1cb0\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-06-13T11:37:35.745Z\",\"editedAt\":\"2025-12-31T14:49:50.600Z\",\"slug\":\"abliteration\",\"title\":\"Uncensor any LLM with abliteration\",\"upvotes\":869,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"61b8e2ba285851687028d395\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/Rq3xWG7mJ3aCRoBsq340h.jpeg\",\"fullname\":\"Maxime Labonne\",\"name\":\"mlabonne\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":7904,\"isUserFollowing\":false}],\"url\":\"/blog/mlabonne/abliteration\",\"apiPrefix\":\"/api/blog/mlabonne/abliteration\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6720fbb36195f26d3494fec1\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-10-29T15:14:50.899Z\",\"editedAt\":\"2025-03-21T20:58:09.598Z\",\"slug\":\"make-your-own-rag\",\"title\":\"Code a simple RAG from scratch\",\"upvotes\":351,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"63ca214abedad7e2bf1d1517\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1674191139776-noauth.png\",\""
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up A Web Data Recipe for Medical Encoder Pretraining\",\"upvotes\":5,\"upvotes7d\":5,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/619cfd1dc7ef4b3b7b6a1e06/pWWWLPbG4pWusVEOX-3Sx.png\",\"authorsData\":[{\"_id\":\"619cfd1dc7ef4b3b7b6a1e06\",\"avatarUrl\":\"/avatars/ea3c8a9f178dfc1df3f75d71ecbe39dd.svg\",\"fullname\":\"bofeng huang\",\"name\":\"bofenghuang\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":100,\"isUserFollowing\":false}],\"url\":\"/blog/bofenghuang/doctobert-fr-release\",\"apiPrefix\":\"/api/blog/bofenghuang/doctobert-fr-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a353501c6178f485a4e74a4\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-19T12:24:33.116Z\",\"editedAt\":\"2026-06-19T12:24:33.116Z\",\"slug\":\"cb-trl-grpo\",\"title\":\"Continuous batching for GRPO, now in TRL\",\"upvotes\":7,\"upvotes7d\":5,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/61929226ded356549e20c5da/y7pjSk6NnmXD0jz9FlvJs.png\",\"authorsData\":[{\"_id\":\"61929226ded356549e20c5da\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/61929226ded356549e20c5da/ONUjP2S5fUWd07BiFXm0i.jpeg\",\"fullname\":\"Sergio Paniego\",\"name\":\"sergiopaniego\",\"type\":\"user\",\"isPro\":true,\"isHf\":true,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":1738,\"isUserFollowing\":false}],\"url\":\"/blog/sergiopaniego/cb-trl-grpo\",\"apiPrefix\":\"/api/blog/sergiopaniego/cb-trl-grpo\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a393b13a4b4181a46bd8f98\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-22T13:53:35.317Z\",\"editedAt\":\"2026-06-22T13:53:35.316Z\",\"slug\":\"v-zero\",\"title\":\"V-Zero\",\"upvotes\":5,\"upvotes7d\":5,\"authorsData\":[{\"_id\":\"68d77af21aa476c3485f7f26\",\"avatarUrl\":\"/avatars/06bc0b24b2a88223843cfd19a0159ff4.svg\",\"fullname\":\"haoxiang sun\",\"name\":\"hao05\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":2,\"isUserFollowing\":false}],\"url\":\"/blog/hao05/v-zero\",\"apiPrefix\":\"/api/blog/hao05/v-zero\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"64f5855a848b0e6e40ab7528\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-07-19T12:43:55.216Z\",\"editedAt\":\"2026-04-03T14:05:27.612Z\",\"slug\":\"get-on-the-ssm-train\",\"title\":\"Introduction to State Space Models (SSM)\",\"upvotes\":232,\"upvotes7d\":4,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/613b0a62a14099d5afed7830/VbLJ1AtN7SW8uJ4vWJdNY.png\",\"authorsData\":[{\"_id\":\"613b0a62a14099d5afed7830\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/613b0a62a14099d5afed7830/pLuqSIYaNYhUqdjxlNrFn.png\",\"fullname\":\"Loïck BOURDOIS\",\"name\":\"lbourdois\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":209,\"isUserFollowing\":false}],\"url\":\"/blog/lbourdois/get-on-the-ssm-train\",\"apiPrefix\":\"/api/blog/lbourdois/get-on-the-ssm-train\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a2a666909bbcd623e66785b\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-06-16T13:00:30.731Z\",\"editedAt\":\"2026-06-16T13:05:07.378Z\",\"slug\":\"lateon-regularization\",\"title\":\"Party is over: regularizing ColBERT models to fix efficient ANN methods\",\"upvotes\":23,\"upvotes7d\":4,\"authorsData\":[{\"_id\":\"6271618b3623fb51324c461e\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1651597775471-62715572ab9243b5d40cbb1d.png\",\"fullname\":\"LightOn AI\",\"name\":\"lightonai\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":701,\"isUserFollowing\":false}],\"url\":\"/blog/lightonai/lateon-regularization\",\"apiPrefix\":\"/api/blog/lightonai/lateon-regularization\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"665f129041b1979a271d1cb0\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-06-13T11:37:35.745Z\",\"editedAt\":\"2025-12-31T14:49:50.600Z\",\"slug\":\"abliteration\",\"title\":\"Uncensor any LLM with abliteration\",\"upvotes\":869,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"61b8e2ba285851687028d395\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/Rq3xWG7mJ3aCRoBsq340h.jpeg\",\"fullname\":\"Maxime Labonne\",\"name\":\"mlabonne\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":7913,\"isUserFollowing\":false}],\"url\":\"/blog/mlabonne/abliteration\",\"apiPrefix\":\"/api/blog/mlabonne/abliteration\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6720fbb36195f26d3494fec1\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2024-10-29T15:14:50.899Z\",\"editedAt\":\"2025-03-21T20:58:09.598Z\",\"slug\":\"make-your-own-rag\",\"title\":\"Code a simple RAG from scratch\",\"upvotes\":351,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"63ca214abedad7e2bf1d1517\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1674191139776-noauth.png\",\"fullname\":\"Xuan-Son Nguyen\",\"name\":\"ngxson\",\"type\":\"user\",\"isPro\":false,\"isHf\":true,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":622,\"isUserFollowing\":false}],\"url\":\"/blog/ngxson/make-your-own-rag\",\"apiPrefix\":\"/api/blog/ngxson/make-your-own-rag\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6847c67acdce28069b772178\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2025-06-10T05:45:30.827Z\",\"editedAt\":\"2025-06-10T05:45:30.827Z\",\"slug\":\"diffusion-language-model\",\"title\":\"Diffusion Language Models: The New Paradigm\",\"upvotes\":51,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"658a4c914bb41498f7d5e3ca\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/658a4c914bb41498f7d5e3ca/zMJjxfazi9ePc7GZ1jRAE.jpeg\",\"f"
     ],
     "claims": [
       {
@@ -917,7 +917,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-06-27T12:05:04.077Z",
+    "publishedAt": "2026-06-27T23:58:54.535Z",
     "categoryHints": [
       "ai-agentic"
     ],

@@ -9,12 +9,11 @@
       "src_langchain-blog_40ded3f923e3291d",
       "src_luma-blog_c7449029956c34f9",
       "src_simonwillison-blog_dd0ce7367f641e5a",
-      "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_8924e77860bf8e0c",
       "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -38,31 +37,44 @@
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
+      "src_huggingface-blog_af185e1e7e4dfbac",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_comfyui-blog_469b943374a61749"
+      "src_lilianweng-blog_31a2c7baf9b791a5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Runway Research, Hugging Face Blog, Black Forest Labs.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_after-going-through-15-agentic-loop-papers-the-wins-and-the-fail_2026-06-27",
-    "category": "ai-agentic",
-    "topic": "After going through ~15 agentic-loop papers (the wins and the failures), the ...",
+    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-27",
+    "category": "ai-vibe-coding",
+    "topic": "Replit — Replit Blog – Product updates from the team",
     "sourceIds": [
+      "src_replit-blog_49899058ba32f8e5",
+      "src_reddit-aiagents_42fa7f1cad59ffdf",
+      "src_vercel-ai-blog_2026-06-27_fallback"
+    ],
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-agentic_2_i-charge-clients-more-to-not-build-an-ai-agent_2026-06-27",
+    "category": "ai-agentic",
+    "topic": "I charge clients more to NOT build an AI agent.",
+    "sourceIds": [
+      "src_reddit-aiagents_f9a3fcc5b2cea98f",
       "src_reddit-aiagents_1c94cb5641cb5500",
-      "src_reddit-aiagents_eedbe8644f764016",
-      "src_reddit-aiagents_c39e32608d468dd9",
       "src_reddit-aiagents_389b98343deaf984",
       "src_reddit-aiagents_2cbe1afd57753127",
       "src_openai-blog_2026-06-27_fallback",
       "src_mcp-blog_2026-06-27_fallback"
     ],
     "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "reasonSelected": "Score 0.81 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -80,31 +92,19 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-27",
-    "category": "ai-vibe-coding",
-    "topic": "Replit — Replit Blog – Product updates from the team",
-    "sourceIds": [
-      "src_replit-blog_49899058ba32f8e5",
-      "src_vercel-ai-blog_2026-06-27_fallback"
-    ],
-    "articleWorthinessScore": 0.72,
-    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-06-27",
+    "clusterId": "cluster_ai-image_2_comfyui-newsletter-robin-substack_2026-06-27",
     "category": "ai-image",
-    "topic": "AI signal",
+    "topic": "ComfyUI Newsletter | Robin | Substack",
     "sourceIds": [
+      "src_comfyui-blog_469b943374a61749",
       "src_stability-ai-blog_2026-06-27_fallback",
       "src_reddit-stablediffusion_2026-06-27_fallback",
       "src_reddit-comfyui_2026-06-27_fallback",
       "src_reddit-midjourney_2026-06-27_fallback"
     ],
-    "articleWorthinessScore": 0.44,
-    "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
-    "confidence": "low",
+    "articleWorthinessScore": 0.63,
+    "reasonSelected": "Score 0.63 from 5 source item(s), 1 live crawl(s), strongest sources: ComfyUI Blog, Stability AI Blog, r/StableDiffusion.",
+    "confidence": "medium",
     "selectedForGeneration": true
   },
   {
