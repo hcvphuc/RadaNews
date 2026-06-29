@@ -327,14 +327,14 @@
     "title": "LangChain Blog: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Luma Labs Blog, Cursor Changelog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agents",
+      "ai-agentic",
       "langchain",
-      "agentic-engineering",
-      "prompt-injection",
-      "cursor-ai"
+      "vibe-coding",
+      "agent-architecture",
+      "ai-security"
     ],
-    "publishedAt": "2026-06-29T00:06:02.208Z",
-    "readingTime": 5,
+    "publishedAt": "2026-06-29T14:41:29.240Z",
+    "readingTime": 4,
     "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-06-29"
   },
   {
@@ -346,13 +346,13 @@
     "subtitle": "Signal synthesized from LangChain Blog, Luma Labs Blog, Cursor Changelog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-agents",
+      "langchain",
       "agentic-engineering",
       "prompt-injection",
-      "langchain",
-      "developer-experience"
+      "vibe-coding"
     ],
-    "publishedAt": "2026-06-29T00:07:26.035Z",
-    "readingTime": 3,
+    "publishedAt": "2026-06-29T14:43:55.823Z",
+    "readingTime": 4,
     "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-06-29"
   },
   {
@@ -361,16 +361,16 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "anthropic",
-      "replit",
-      "software-development"
+      "Vibe Coding",
+      "Anthropic",
+      "GitHub Copilot",
+      "AI Agents",
+      "Software Engineering"
     ],
-    "publishedAt": "2026-06-29T00:06:08.347Z",
-    "readingTime": 4,
+    "publishedAt": "2026-06-29T14:43:22.516Z",
+    "readingTime": 5,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-06-29"
   },
   {
@@ -379,15 +379,15 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "Vibe Coding",
-      "AI Agents",
-      "Software Engineering",
-      "Anthropic",
-      "Replit"
+      "vibe-coding",
+      "ai-safety",
+      "interpretability",
+      "github-copilot",
+      "anthropic"
     ],
-    "publishedAt": "2026-06-29T00:07:31.537Z",
+    "publishedAt": "2026-06-29T14:45:39.080Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-06-29"
   },
@@ -400,12 +400,12 @@
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, Runway Research, Hugging Face Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "RunwayAI",
-      "WorldModels",
-      "GenerativeAI",
-      "OpenSourceAI"
+      "World-Models",
+      "Open-Innovation",
+      "Runway-AI",
+      "Multimodal-AI"
     ],
-    "publishedAt": "2026-06-29T00:06:30.533Z",
+    "publishedAt": "2026-06-29T14:41:02.082Z",
     "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-06-29"
   },
@@ -419,49 +419,49 @@
     "tags": [
       "AI Video",
       "World Models",
-      "Runway AI",
       "Open Source AI",
-      "Multimodal AI"
+      "Multimodal AI",
+      "Runway AI"
     ],
-    "publishedAt": "2026-06-29T00:07:49.753Z",
+    "publishedAt": "2026-06-29T14:44:24.995Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-06-29"
   },
   {
-    "id": "cluster_ai-agentic_2_quoting-timothy-b-lee_2026-06-29_vi",
+    "id": "cluster_ai-agentic_2_should-coding-agents-be-treated-as-constrained-executors-rather-_2026-06-29_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Quoting Timothy B. Lee: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Should coding agents be treated as constrained executors rather than architec...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agentic",
-      "ai-automation",
-      "llm-skills",
-      "business-strategy",
-      "vibe-coding"
+      "AI-Agents",
+      "Software-Architecture",
+      "AI-Governance",
+      "Coding-Agents",
+      "Developer-Experience"
     ],
-    "publishedAt": "2026-06-29T00:06:38.882Z",
+    "publishedAt": "2026-06-29T14:42:18.598Z",
     "readingTime": 5,
-    "url": "/vi/ai-agentic/quoting-timothy-b-lee-goc-nhin-cho-creator-va-builder-2026-06-29"
+    "url": "/vi/ai-agentic/should-coding-agents-be-treated-as-constrained-executors-rat-2026-06-29"
   },
   {
-    "id": "cluster_ai-agentic_2_quoting-timothy-b-lee_2026-06-29_en",
+    "id": "cluster_ai-agentic_2_should-coding-agents-be-treated-as-constrained-executors-rather-_2026-06-29_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Quoting Timothy B. Lee: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "title": "Should coding agents be treated as constrained executors rather than architec...: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
-      "process-design",
-      "llm-management",
-      "automation-vs-agency",
-      "vibe-coding"
+      "AI Agents",
+      "Software Architecture",
+      "Agentic Governance",
+      "LLM Workflows",
+      "Vibe Coding"
     ],
-    "publishedAt": "2026-06-29T00:07:59.788Z",
+    "publishedAt": "2026-06-29T14:45:34.444Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/quoting-timothy-b-lee-creator-and-builder-analysis-2026-06-29"
+    "url": "/en/ai-agentic/should-coding-agents-be-treated-as-constrained-executors-rat-2026-06-29"
   },
   {
     "id": "cluster_ai-video_1_ai-ai_2026-06-29_vi",
@@ -474,10 +474,10 @@
       "KlingAI",
       "AIVideo",
       "Native4K",
-      "ContentCreation",
-      "AIProduction"
+      "CreativeProduction",
+      "AIFilmmaking"
     ],
-    "publishedAt": "2026-06-29T00:07:13.196Z",
+    "publishedAt": "2026-06-29T14:41:45.557Z",
     "readingTime": 4,
     "url": "/vi/ai-video/ai-ai-goc-nhin-cho-creator-va-builder-2026-06-29"
   },
@@ -489,50 +489,50 @@
     "title": "可灵 AI - 新一代 AI 创意生产力平台: creator and builder analysis",
     "subtitle": "Signal synthesized from Pika Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Video",
-      "Kling AI",
-      "Generative AI",
-      "4K Production",
-      "Creative Workflow"
+      "AI-Video",
+      "Kling-AI",
+      "Native-4K",
+      "Generative-AI",
+      "Content-Creation"
     ],
-    "publishedAt": "2026-06-29T00:08:47.320Z",
-    "readingTime": 4,
+    "publishedAt": "2026-06-29T14:44:40.483Z",
+    "readingTime": 3,
     "url": "/en/ai-video/ai-ai-creator-and-builder-analysis-2026-06-29"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_gpt-5-6-sol-meets-the-same-fate-as-claude-mythos-what-is-happeni_2026-06-29_vi",
+    "id": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-29_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "GPT 5.6 Sol meets the same fate as Claude Mythos. What is happening??: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Replit — Replit Blog – Product updates from the team: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Vercel AI Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "GPT-5.6",
-      "OpenAI",
-      "OpenSourceAI",
-      "AI-Sovereignty",
-      "FineTuning"
+      "vibe-coding",
+      "replit-agent",
+      "ai-agents",
+      "rapid-prototyping",
+      "future-of-coding"
     ],
-    "publishedAt": "2026-06-29T00:07:07.109Z",
+    "publishedAt": "2026-06-29T14:41:06.732Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/gpt-5-6-sol-meets-the-same-fate-as-claude-mythos-what-is-ha-2026-06-29"
+    "url": "/vi/ai-vibe-coding/replit-replit-blog-product-updates-from-the-team-goc-nh-2026-06-29"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_gpt-5-6-sol-meets-the-same-fate-as-claude-mythos-what-is-happeni_2026-06-29_en",
+    "id": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-29_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "GPT 5.6 Sol meets the same fate as Claude Mythos. What is happening??: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Vercel AI Blog, scored by recency, content depth, and source reliability.",
+    "title": "Replit — Replit Blog – Product updates from the team: creator and builder analysis",
+    "subtitle": "Signal synthesized from Vercel AI Blog, Replit Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Sovereignty",
-      "Open-Source-AI",
-      "GPT-5.6",
-      "AI-Regulation",
-      "Fine-Tuning"
+      "vibe-coding",
+      "replit-agent",
+      "ai-agents",
+      "software-engineering",
+      "rapid-prototyping"
     ],
-    "publishedAt": "2026-06-29T00:08:48.130Z",
+    "publishedAt": "2026-06-29T14:43:37.096Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/gpt-5-6-sol-meets-the-same-fate-as-claude-mythos-what-is-ha-2026-06-29"
+    "url": "/en/ai-vibe-coding/replit-replit-blog-product-updates-from-the-team-creato-2026-06-29"
   }
 ]

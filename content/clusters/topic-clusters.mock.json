@@ -10,10 +10,11 @@
       "src_simonwillison-blog_27d6b0ba4464f7d2",
       "src_simonwillison-blog_edd3019a4dd9cd31",
       "src_simonwillison-blog_dd0ce7367f641e5a",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_simonwillison-blog_8924e77860bf8e0c"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -23,11 +24,10 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_replit-blog_49899058ba32f8e5"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Replit Blog.",
+    "reasonSelected": "Score 1.00 from 2 source item(s), 2 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -48,20 +48,20 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_quoting-timothy-b-lee_2026-06-29",
+    "clusterId": "cluster_ai-agentic_2_should-coding-agents-be-treated-as-constrained-executors-rather-_2026-06-29",
     "category": "ai-agentic",
-    "topic": "Quoting Timothy B. Lee",
+    "topic": "Should coding agents be treated as constrained executors rather than architec...",
     "sourceIds": [
-      "src_simonwillison-blog_8924e77860bf8e0c",
-      "src_reddit-aiagents_a4c6af6572244c45",
-      "src_reddit-aiagents_c464f732450583c1",
+      "src_reddit-aiagents_7fc2f8b35c7ab53f",
+      "src_reddit-aiagents_b78e7dcee574d72d",
+      "src_reddit-aiagents_b3e0c0ba30b9fe80",
       "src_reddit-aiagents_2cbe1afd57753127",
       "src_reddit-aiagents_389b98343deaf984",
       "src_openai-blog_2026-06-29_fallback",
       "src_mcp-blog_2026-06-29_fallback"
     ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 7 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.81,
+    "reasonSelected": "Score 0.81 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -79,16 +79,16 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_gpt-5-6-sol-meets-the-same-fate-as-claude-mythos-what-is-happeni_2026-06-29",
+    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-29",
     "category": "ai-vibe-coding",
-    "topic": "GPT 5.6 Sol meets the same fate as Claude Mythos. What is happening??",
+    "topic": "Replit — Replit Blog – Product updates from the team",
     "sourceIds": [
-      "src_reddit-aiagents_eb019cea7aa01f17",
+      "src_replit-blog_49899058ba32f8e5",
       "src_vercel-ai-blog_2026-06-29_fallback"
     ],
-    "articleWorthinessScore": 0.67,
-    "reasonSelected": "Score 0.67 from 2 source item(s), 1 live crawl(s), strongest sources: r/AI_Agents, Vercel AI Blog.",
-    "confidence": "medium",
+    "articleWorthinessScore": 0.72,
+    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
+    "confidence": "high",
     "selectedForGeneration": true
   },
   {
