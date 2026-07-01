@@ -1,119 +1,119 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_ornith-1-0-self-scaffolding-llms-for-agentic-coding_2026-06-30",
+    "clusterId": "cluster_ai-agentic_1_langchain-blog_2026-07-01",
     "category": "ai-agentic",
-    "topic": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+    "topic": "LangChain Blog",
     "sourceIds": [
-      "src_simonwillison-blog_883db8a18f25d8da",
       "src_langchain-blog_40ded3f923e3291d",
       "src_luma-blog_c7449029956c34f9",
-      "src_simonwillison-blog_7467c212a938c971",
-      "src_simonwillison-blog_3e13ddddb5842ee0",
-      "src_simonwillison-blog_edd3019a4dd9cd31",
+      "src_simonwillison-blog_916761293fc9a214",
+      "src_simonwillison-blog_e0cc28fe04940a94",
+      "src_simonwillison-blog_9aba1b937822761c",
       "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: LangChain Blog, Luma Labs Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-06-30",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-01",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_4f6fe66839c01e1d",
+      "src_simonwillison-blog_ac508c7f632c24a2",
+      "src_simonwillison-blog_3e723a39be54664a",
       "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-06-30",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-07-01",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
-      "src_huggingface-blog_af185e1e7e4dfbac",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_lilianweng-blog_31a2c7baf9b791a5"
+      "src_lilianweng-blog_31a2c7baf9b791a5",
+      "src_comfyui-blog_469b943374a61749"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Runway Research, Hugging Face Blog, Black Forest Labs.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_a-ceo-built-his-own-ai-agent-on-netsuite-with-claude-mcp-we-help_2026-06-30",
-    "category": "ai-video",
-    "topic": "A CEO built his own AI agent on NetSuite with Claude MCP. We helped him scale...",
-    "sourceIds": [
-      "src_reddit-aiagents_fdd39aa9bd15cca0",
-      "src_kling-blog_9b8eef2edc427cc1",
-      "src_pika-blog_80e55ecea6acd04d"
-    ],
-    "articleWorthinessScore": 0.9,
-    "reasonSelected": "Score 0.90 from 3 source item(s), 3 live crawl(s), strongest sources: r/AI_Agents, Kling AI Blog, Pika Labs Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-agentic_2_who-gave-your-ai-agent-authority_2026-06-30",
-    "category": "ai-agentic",
-    "topic": "Who gave your AI agent authority?",
-    "sourceIds": [
-      "src_reddit-aiagents_bc75f011b8b8c6cf",
-      "src_reddit-aiagents_234bd1fea8c0b9e8",
-      "src_reddit-aiagents_d5d7fae8362e5797",
-      "src_reddit-aiagents_389b98343deaf984",
-      "src_openai-blog_2026-06-30_fallback",
-      "src_mcp-blog_2026-06-30_fallback"
-    ],
-    "articleWorthinessScore": 0.79,
-    "reasonSelected": "Score 0.79 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-06-30",
+    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-01",
     "category": "ai-vibe-coding",
     "topic": "Replit — Replit Blog – Product updates from the team",
     "sourceIds": [
       "src_replit-blog_49899058ba32f8e5",
-      "src_vercel-ai-blog_2026-06-30_fallback"
+      "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_reddit-aiagents_8d1fec38a39ebd5b",
+      "src_vercel-ai-blog_2026-07-01_fallback"
     ],
-    "articleWorthinessScore": 0.72,
-    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
+    "articleWorthinessScore": 0.95,
+    "reasonSelected": "Score 0.95 from 4 source item(s), 3 live crawl(s), strongest sources: Replit Blog, Hugging Face Blog, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_comfyui-newsletter-robin-substack_2026-06-30",
-    "category": "ai-image",
-    "topic": "ComfyUI Newsletter | Robin | Substack",
+    "clusterId": "cluster_ai-agentic_2_how-to-prevent-ai-agents-from-taking-unintended-or-harmful-actio_2026-07-01",
+    "category": "ai-agentic",
+    "topic": "How to prevent AI agents from taking unintended or harmful actions in production",
     "sourceIds": [
-      "src_comfyui-blog_469b943374a61749",
-      "src_stability-ai-blog_2026-06-30_fallback",
-      "src_reddit-stablediffusion_2026-06-30_fallback",
-      "src_reddit-comfyui_2026-06-30_fallback",
-      "src_reddit-midjourney_2026-06-30_fallback"
+      "src_reddit-aiagents_5fbb75285412d1f4",
+      "src_reddit-aiagents_7d235601fba257f9",
+      "src_reddit-aiagents_d5d7fae8362e5797",
+      "src_reddit-aiagents_389b98343deaf984",
+      "src_openai-blog_2026-07-01_fallback",
+      "src_mcp-blog_2026-07-01_fallback"
     ],
-    "articleWorthinessScore": 0.63,
-    "reasonSelected": "Score 0.63 from 5 source item(s), 1 live crawl(s), strongest sources: ComfyUI Blog, Stability AI Blog, r/StableDiffusion.",
-    "confidence": "medium",
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-06-30",
+    "clusterId": "cluster_ai-video_1_ai-ai_2026-07-01",
+    "category": "ai-video",
+    "topic": "可灵 AI - 新一代 AI 创意生产力平台",
+    "sourceIds": [
+      "src_kling-blog_9b8eef2edc427cc1",
+      "src_pika-blog_80e55ecea6acd04d"
+    ],
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 2 source item(s), 2 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-07-01",
+    "category": "ai-image",
+    "topic": "AI signal",
+    "sourceIds": [
+      "src_stability-ai-blog_2026-07-01_fallback",
+      "src_reddit-stablediffusion_2026-07-01_fallback",
+      "src_reddit-comfyui_2026-07-01_fallback",
+      "src_reddit-midjourney_2026-07-01_fallback"
+    ],
+    "articleWorthinessScore": 0.44,
+    "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
+    "confidence": "low",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-07-01",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-06-30_fallback",
-      "src_reddit-mediasynthesis_2026-06-30_fallback"
+      "src_reddit-aivideo_2026-07-01_fallback",
+      "src_reddit-mediasynthesis_2026-07-01_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
