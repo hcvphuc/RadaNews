@@ -1,0 +1,605 @@
+[
+  {
+    "id": "src_langchain-blog_40ded3f923e3291d",
+    "sourceConfigId": "langchain-blog",
+    "sourceType": "blog",
+    "sourceName": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.dev/rss/",
+    "title": "LangChain Blog",
+    "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
+    "publishedAt": "2026-07-02T00:04:14.883Z",
+    "crawledAt": "2026-07-02T00:04:14.883Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.9,
+    "crawlStatus": "live",
+    "extractedText": "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. No items found. Introducing OpenWiki, an open source agent for repo documentation Brace Sproul July 1, 2026 4 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min LangSmith Introducing LangSmith Engine Ben Tannyhill May 13, 2026 5 min Recent stories No items found. Introducing OpenWiki, an open source agent for repo documentation Brace Sproul July 1, 2026 4 min Deep Agents Agent Architecture Open Source How to Use RLMs in Deep Agents Sydney Runkle July 1, 2026 8 min No items found. How Pendo used LangSmith to trace Novus from user behavior to code fixes Zain Lakhani July 1, 2026 6 min Agent Architecture Deep Agents Open Source Running Untrusted Agent Code Without a Sandbox Hunter Lovell June 30, 2026 6 min Harrison's In the Loop Wiki Memory Harrison Chase June 30, 2026 4 min Observability & Evals Partner Harbor x LangChain: A Unified Stack for Evaluating Agents Nicholas Bohm Nick Hollon June 30, 2026 7 min Open Source Deep Agents Agent Architecture Introducing Dynamic Subagents in Deep Agents Sydney Runkle Colin Francis Hunter Lovell June 29, 2026 9 min No items found. How Candidly Built State-Aware Agent Harnesses with LangSmith Ben Levine Patrick Hendershott June 29, 2026 13 min Deep Agents Open Source Prompt Caching with Deep Agents Alex Olsen June 26, 2026 5 min Newsletter June 2026: LangChain Newsletter The LangChain Team June 25, 2026 4 min Systems at LangChain Full Text Search in SmithDB: Constructing and Querying our Inverted Index (Pt. 2) Ankush Gola Akshay Aurora Sumedh Arani June 25, 2026 11 min Max Agency Podcast Why the best agents are simpler than you think James Donner June 25, 2026 4 min No items found. How To Give Your Agent Memory Jake Broekhuizen June 24, 2026 6 min Deep Agents Open Source Agent Architecture The Art of Loop Engineering Sydney Runkle June 16, 2026 7 min No items found. Why Fleet Has Both General Purpose Chat and Specialized Agents Brace Sproul June 16, 2026 7 min LangChain Labs Building a 100x Cheaper Trace Judge with Fireworks LangChain Labs Fireworks June 15, 2026 7 min 1 ... 1 / 29 We couldn't find anything matching that. Try a broader term, or explore all posts. Sign up for our newsletter to stay up to date Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. See what your agent is really doing LangSmith, our agent engineering platform, helps developers debug every agent decision, eval changes, and deploy in one click. Try LangSmith Get a demo Products LangSmith Platform LangSmith Observability LangSmith Evaluation LangSmith Deployment LangSmith Fleet LangSmith Sandboxes Deep Agents LangChain LangGraph Resources Blog Customer Stories Guides Community Changelog Docs Support LangChain Academy Company About Careers Partners Trust Center Marketing Assets Events Sign up for our newsletter to stay up to date Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. All systems operational Privacy policy Terms of service",
+    "imageUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png"
+  },
+  {
+    "id": "src_anthropic-research_15aa8285dd0354e9",
+    "sourceConfigId": "anthropic-research",
+    "sourceType": "blog",
+    "sourceName": "Anthropic Research",
+    "sourceUrl": "https://www.anthropic.com/research",
+    "title": "Research \\ Anthropic",
+    "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "publishedAt": "2026-07-02T00:04:14.364Z",
+    "crawledAt": "2026-07-02T00:04:14.364Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.92,
+    "crawlStatus": "live",
+    "extractedText": "Research \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models—so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economic Research Interpretability Societal Impacts Frontier Red Team Interpretability The mission of the Interpretability team is to understand how large language models work internally, as a foundation for AI safety and positive outcomes. Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world. Frontier Red Team The Frontier Red Team analyzes the implications of frontier AI models for cybersecurity, biosecurity, and autonomous systems. Natural Language Autoencoders: Turning Claude’s thoughts into text Interpretability May 7, 2026 AI models like Claude talk in words but think in numbers. In this study, we train Claude to translate its thoughts into human-readable text. Economic Research Jun 26, 2026 Anthropic Economic Index report: Cadences In our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work? Alignment May 8, 2026 Teaching Claude why New research on how we've reduced agentic misalignment. Research Apr 24, 2026 Project Deal We created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf. Societal Impacts Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Publications Search Date Category Title Jun 26, 2026 Economic Research Anthropic Economic Index report: Cadences Jun 18, 2026 Frontier Red Team Project Fetch: Phase two Jun 16, 2026 Economic Research Agentic coding and persistent returns to expertise Jun 8, 2026 Science Paving the way for agents in biology Jun 8, 2026 Frontier Red Team Measuring LLMs’ impact on N-day exploits Jun 5, 2026 Science Making Claude a chemist Jun 3, 2026 Frontier Red Team Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator Jun 3, 2026 Policy What we learned mapping a year’s worth of AI-enabled cyber threats May 27, 2026 Economic Research Coding agents in the social sciences May 22, 2026 Announcements Project Glasswing: An initial update See more Join the Research team See open roles Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude for Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Education Enterprise Financial services Government Healthcare Legal Life sciences Nonprofits Security Small business Claude Platform Overview Developer docs Pricing Ecosystem Marketplace Regional compliance Claude on AWS Google Cloud Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Inside Claude Code Inside Claude Cowork Inside Claude Enterprise Plugins Powered by Claude Service partners Tutorials Use cases Programs Startups Research Labs Help and security Availability Status Support center Company Anthropic Careers Policy Economic Futures Research News Claude’s Constitution Claude Corps Policy on the AI Exponential Responsible Scaling Policy Security and compliance Transparency Terms and policies Privacy policy Consumer health data privacy policy Responsible disclosure policy Terms of service: Commercial Terms of service: Consumer Usage policy © 2026 Anthropic PBC",
+    "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+  },
+  {
+    "id": "src_openai-blog_2026-07-02_fallback",
+    "sourceConfigId": "openai-blog",
+    "sourceType": "blog",
+    "sourceName": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/blog",
+    "title": "OpenAI Blog signal for ai-agentic",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:14.237Z",
+    "crawledAt": "2026-07-02T00:04:14.237Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.5850000000000001,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 403 Forbidden",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_mcp-blog_2026-07-02_fallback",
+    "sourceConfigId": "mcp-blog",
+    "sourceType": "blog",
+    "sourceName": "MCP Blog",
+    "sourceUrl": "https://modelcontextprotocol.io/blog",
+    "title": "MCP Blog signal for ai-agentic",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:14.828Z",
+    "crawledAt": "2026-07-02T00:04:14.828Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.5525,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 404 Not Found",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_reddit-aiagents_ce515a76ea64d92d",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ukprfr/weekly_thread_project_display/",
+    "title": "Weekly Thread: Project Display",
+    "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
+    "publishedAt": "2026-07-01T16:00:44.000Z",
+    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_d5d7fae8362e5797",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1uiwlum/weekly_hiring_thread/",
+    "title": "Weekly Hiring Thread",
+    "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
+    "publishedAt": "2026-06-29T16:01:14.000Z",
+    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_44314edbe53ccd73",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ukrxdl/are_we_all_building_ai_agents_nobody_actually/",
+    "title": "Are we all building AI agents nobody actually needs?",
+    "rawSummary": "I've noticed that a lot of AI agents people build are for personal task like email assistants, meeting summaries, travel planners, shopping helpers, etc. They're cool demos, but I rarely see one that becomes something people genuinely use every day. So I'm curious: What's an AI agent you've built (or use) that has actually stuck? Or do you think we're still missing a \"killer app\" for agents that everyone would want? I'd love to hear real examples beyond demos or weekend projects. submitted by /u/starcholar [link] [comments]",
+    "publishedAt": "2026-07-01T17:19:46.000Z",
+    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "I've noticed that a lot of AI agents people build are for personal task like email assistants, meeting summaries, travel planners, shopping helpers, etc. They're cool demos, but I rarely see one that becomes something people genuinely use every day. So I'm curious: What's an AI agent you've built (or use) that has actually stuck? Or do you think we're still missing a \"killer app\" for agents that everyone would want? I'd love to hear real examples beyond demos or weekend projects. submitted by /u/starcholar [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_ed36b1e7b22c9132",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ukxu44/would_you_give_an_ai_agent_a_200_spending_limit/",
+    "title": "Would you give an AI agent a $200 spending limit?",
+    "rawSummary": "I’ve been thinking about this more now that AI agents are starting to touch actual business workflows instead of just docs and code. I don’t think I’d let an agent freely move money around but giving it a small locked down budget feels less insane. Like $200 for software trials, small vendor payments or routine stuff it already knows I need. The part that makes it interesting is the limit and not “AI has access to the company bank account” more like “AI can only spend inside this tiny box and everything else needs approval” Feels similar to giving a junior employee a card with a limit, except the agent is doing the boring repeat admin work. I’m not sure if this becomes normal or if it still feels too weird for most people submitted by /u/Cute-Dig2503 [link] [comments]",
+    "publishedAt": "2026-07-01T20:56:34.000Z",
+    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "I’ve been thinking about this more now that AI agents are starting to touch actual business workflows instead of just docs and code. I don’t think I’d let an agent freely move money around but giving it a small locked down budget feels less insane. Like $200 for software trials, small vendor payments or routine stuff it already knows I need. The part that makes it interesting is the limit and not “AI has access to the company bank account” more like “AI can only spend inside this tiny box and everything else needs approval” Feels similar to giving a junior employee a card with a limit, except the agent is doing the boring repeat admin work. I’m not sure if this becomes normal or if it still feels too weird for most people submitted by /u/Cute-Dig2503 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_794e16778eb3c6a6",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ukqlof/what_are_your_thoughts_on_keeping_coding_agents/",
+    "title": "What are your thoughts on keeping coding agents on 24/7 when building something new?",
+    "rawSummary": "When you’re building a new project, do you usually treat agents as something you run for an individual task (only to stop after the job is finished), or do you keep them running continuously in the background with some sort of cron job (loops, that is)? For example, do you have agents constantly working through issues, testing or even suggesting and implementing new features you didn't specify at first? I’m especially curious about people who do keep agents running for long periods. What makes that worth it both money and process-wise? Is it mainly speed, parallelism, overnight progress, or something else? And where does it break down when it fails; bad context, hallucinated changes, lack of trust, or not knowing what exactly happened in the system? Also, for people who keep agents on 24/7: how are you actually doing it technically? Are you using a spare computer, Mac mini, VPS, GitHub Actions, n8n, or some custom orchestration setup? I’m trying to understand what a practical always-on dev-agent loop looks like in real life. submitted by /u/Fun_Cantaloupe_3099 [link] [comments]",
+    "publishedAt": "2026-07-01T16:31:25.000Z",
+    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "When you’re building a new project, do you usually treat agents as something you run for an individual task (only to stop after the job is finished), or do you keep them running continuously in the background with some sort of cron job (loops, that is)? For example, do you have agents constantly working through issues, testing or even suggesting and implementing new features you didn't specify at first? I’m especially curious about people who do keep agents running for long periods. What makes that worth it both money and process-wise? Is it mainly speed, parallelism, overnight progress, or something else? And where does it break down when it fails; bad context, hallucinated changes, lack of trust, or not knowing what exactly happened in the system? Also, for people who keep agents on 24/7: how are you actually doing it technically? Are you using a spare computer, Mac mini, VPS, GitHub Actions, n8n, or some custom orchestration setup? I’m trying to understand what a practical always-on dev-agent loop looks like in real life. submitted by /u/Fun_Cantaloupe_3099 [link] [comments]"
+  },
+  {
+    "id": "src_stability-ai-blog_2026-07-02_fallback",
+    "sourceConfigId": "stability-ai-blog",
+    "sourceType": "blog",
+    "sourceName": "Stability AI Blog",
+    "sourceUrl": "https://stability.ai/news/rss",
+    "title": "Stability AI Blog signal for ai-image",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:14.582Z",
+    "crawledAt": "2026-07-02T00:04:14.582Z",
+    "categoryHints": [
+      "ai-image"
+    ],
+    "score": 0.5720000000000001,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 404 Not Found",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_black-forest-labs_db0e6d09e99dbd6f",
+    "sourceConfigId": "black-forest-labs",
+    "sourceType": "blog",
+    "sourceName": "Black Forest Labs",
+    "sourceUrl": "https://blackforestlabs.ai/blog/",
+    "title": "Blog | Black Forest Labs",
+    "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
+    "publishedAt": "2026-07-02T00:04:15.036Z",
+    "crawledAt": "2026-07-02T00:04:15.036Z",
+    "categoryHints": [
+      "ai-image"
+    ],
+    "score": 0.9,
+    "crawlStatus": "live",
+    "extractedText": "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new June 18, 2026 Our co-founder and CEO urges G7 leaders to back open innovation At the G7, our co-founder and CEO, Robin Rombach, joined President Trump, President von der Leyen, President Macron, and other world leaders to advocate for open innovation in AI. With openness under pressure around the world, Robin called on governments and industry to make open and responsible AI development the norm, not the exception. Read his speech below. Read More Models FLUX.2 Max FLUX.2 FLUX.2 Klein Flux Tools API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001:2022 SOC 2 Type II Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy Training Data Disclosure All rights reserved. © 2026 BLACK FOREST LABS. All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Customer stories June 17, 2026 How Envato Built Its Creative AI Engine on FLUX How one of the world's largest creative platforms turned a careful evaluation into core infrastructure: 51 million+ images, three creative workflows, and a FLUX.2 launch on day zero. Read more Products June 4, 2026 FLUX.2 is now on device: ASUS ProArt laptops now support Klein models For the first time a FLUX model will ship on consumer hardware. In partnership with ASUS and NVIDIA, creators picking up a new ASUS ProArt laptop will find FLUX.2 [klein] optimized for the device. Read more Models News Research May 28, 2026 FLUX VTO: Virtual Try-On at scale FLUX Virtual Try-On allows users to seem themselves in outfits before they buy with high accuracy and garment consistency. Gives you sub‑4 second generations across thousands of products at low cost and low latency. Read more Products May 21, 2026 FLUX Erase: Remove anything, leave no trace FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image. Read more Products May 14, 2026 FLUX Outpainting: Extend any image, in any direction FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams. Read more Products May 7, 2026 How Our Forward Deployed Engineers Work with Customers Our engineers help partners turn FLUX into real systems: prompts, pipelines, fine-tunes, and infra tuned for real-world use cases. Read more Research February 24, 2026 Capable, Open, and Safe: Combating AI Misuse Today, Black Forest Labs’ FLUX models are among the most popular AI models for visual generation. We are excited to share early results that help validate our efforts to mitigate emerging risks. Read more Models News Research January 15, 2026 FLUX.2 [klein]: Towards Interactive Visual Intelligence Introducing FLUX.2 [klein], our fastest image models. Unified generation and editing in under a second, on hardware you already own. Apache 2.0 on 4B. Read more News December 1, 2025 Laying the Foundations for Visual Intelligence—Our $300M Series B Today, we're excited to announce our Series B of $300M at a $3.25B post-money valuation. Read more News Models Research November 25, 2025 FLUX.2: Frontier Visual Intelligence Today, we release FLUX.2, our most capable model to date. Read more News September 25, 2025 FLUX.1 Kontext now in Adobe Photoshop: Powering Every Pixel By pairing Photoshop’s professional editing environment with FLUX.1 Kontext [Pro]’s accuracy and unmatched speed, creators everywhere gain the freedom to push imagination further. Read more Customer stories August 22, 2025 OpenArt transforms video storytelling with FLUX.1 Kontext: Making video creation accessible beyond traditional creators OpenArt transformed video storytelling with FLUX.1 Kontext integration, enabling creators who couldn't access video production before to create professional-quality content. Read more Customer stories August 6, 2025 Burda transforms Comic Creation with Black Forest Labs' FLUX.1 Models Burda - a major publisher in the DACH region - transformed their comic creation process for the LissyPony series, one of the most recognized children’s magazines in central Europe. Read more News August 5, 2025 FLUX Models Launch on Azure AI Foundry for Enterprise-Ready Image Generation Starting today, Black Forest Labs’ flagship models are available directly from Microsoft on Azure AI Foundry. Read more Research News Models July 31, 2025 FLUX.1 Krea [dev]: An ‘Opinionated’ Text-to-Image Model The BFL model garden just got an exciting update: We are proud to release FLUX.1 Krea [dev], developed in collaboration with Krea AI. Read more News June 26, 2025 FLUX.1 Kontext [dev] - Open Weights for Image Editing Up until today, all capable generative image editing models were only available as proprietary tools. Read more Research News May 29, 2025 Introducing FLUX.1 Kontext and the BFL Playground Today, we are excited to release FLUX.1 Kontext, a suite of generative flow matching models that allows you to generate and edit images. Read more News Research January 16, 2025 Announcing the FLUX Pro Finetuning API Black Forest Labs is excited to announce the launch of the FLUX Pro Finetuning API, bringing unprecedented customization capabilities to our flagship FLUX Pro model line. Read more News January 2, 2025 Bringing Lightning-Fast FLUX Performance to More Creators in Collaboration with NVIDIA Our new collaboration with NVIDIA marks a significant leap forward in making our FLUX models more universally accessible and efficient. Read more Res",
+    "imageUrl": "https://bfl.ai/og-custom-bg.jpg"
+  },
+  {
+    "id": "src_replicate-blog_572c1f4ac9c0ea5c",
+    "sourceConfigId": "replicate-blog",
+    "sourceType": "blog",
+    "sourceName": "Replicate Blog",
+    "sourceUrl": "https://replicate.com/blog",
+    "title": "Blog – Replicate",
+    "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
+    "publishedAt": "2026-07-02T00:04:14.834Z",
+    "crawledAt": "2026-07-02T00:04:14.834Z",
+    "categoryHints": [
+      "ai-image",
+      "ai-video",
+      "ai-vibe-coding"
+    ],
+    "score": 0.78,
+    "crawlStatus": "live",
+    "extractedText": "Blog – Replicate Blog RSS Atom How to prompt Grok Imagine Video 1.5 Grok Imagine Video 1.5 is the most exciting video model release from xAI. You can generate realistic video with synchronized audio in a single pass, capable of juggling complex motion with precise prompt adherence. We pushed it hard across a range of scenes, and came up with the ultimate prompting guide to get the most out of this model. May 21, 2026 How to make remarkable videos with Seedance 2.0 If you have never tried a video model before, now is the time. April 15, 2026 How to prompt Seedream 5.0 Seedream 5.0 brings multi-step reasoning, example-based editing, and deep domain knowledge to image generation. Here's what you should know. February 24, 2026 Recraft V4: image generation with design taste Recraft V4 generates art-directed images — and actual editable SVGs — with strong composition, accurate text rendering, and what the Recraft team calls \"design taste.\" Four models are available on Replicate now. February 18, 2026 Run Isaac 0.1 on Replicate Isaac 0.1 is a lightweight, grounded vision-language model built for real-world perception. November 26, 2025 Run FLUX.2 on Replicate FLUX.2 brings professional-grade image generation and editing with unprecedented detail, multi-reference support, and enterprise efficiency. November 25, 2025 How to prompt Nano Banana Pro Nano Banana Pro brings powerful new capabilities in image generation and editing. Here are the main prompt tricks you should know. November 20, 2025 Retro Diffusion's pixel art models are now on Replicate Generate game assets, sprites, tiles, and pixel art with Retro Diffusion's suite of carefully crafted models. November 19, 2025 Replicate is joining Cloudflare November 17, 2025 Extract text from documents and images with Datalab Marker and OCR Turn whole documents into markdown or grab line-level polygons with two new models from Datalab. October 21, 2025 How to prompt Veo 3.1 Google's Veo 3.1 brings powerful new video generation capabilities including reference images, first/last frame control, and enhanced image-to-video. Here's everything you need to know. October 16, 2025 IBM's Granite 4.0 is now on Replicate October 2, 2025 Which image editing model should I use? Here is the ultimate comparison post on all the latest image editing models. September 23, 2025 Introducing our new search API Find the best models and collections with a single API call. September 16, 2025 Torch compile caching for inference speed Cache your compiled models for faster boot and inference times September 8, 2025 Announcing Replicate's remote MCP server Use our MCP to discover, compare, and run models from apps like Claude, Cursor, and VS Code. August 10, 2025 How to prompt Veo 3 with images You'll be surprised what you can do with AI video now. August 1, 2025 Open source video is back Wan 2.2 is our fastest, cheapest video model. July 31, 2025 Generate consistent characters We compare the best image models for generating consistent characters from a single reference image. July 21, 2025 Bria is now on Replicate We've partnered with Bria to bring a suite of commercial-grade image generation and editing models to Replicate. Built entirely on licensed data, Bria’s tools are designed for enterprises and developers building safely with visual AI. July 17, 2025 How we optimized FLUX.1 Kontext [dev] A deep-dive into the Taylor Seer optimization technique July 15, 2025 Compare AI video models It's hard keeping up with every new video model. In this post we'll help you pick the best one for your needs. July 7, 2025 The FLUX.1 Kontext hackathon We hosted a hackathon with BFL for FLUX.1 Kontext. Here were the winners. July 1, 2025 How to prompt Veo 3 for the best results Learn expert prompting techniques to create stunning videos with Google's Veo 3. June 10, 2025 Get the most from Google Veo 3 We're sharing our experiments and tips on Google's new Veo 3 model. June 5, 2025 FLUX.1 Kontext from the community FLUX.1 Kontext is everywhere - see what folks are cooking. June 2, 2025 Use FLUX.1 Kontext to edit images with words This is how to get the most from Black Forest Labs' new image editing model. May 29, 2025 Generate incredible images with Google's Imagen 4 Google's flagship image generation model, Imagen 4, is now available for you to try on Replicate. Create images with fine detail, versatile styles, and improved typography. May 22, 2025 Run OpenAI’s latest models on Replicate OpenAI's latest models are now available on Replicate, including GPT-4.1, GPT-4o, and the o-series. May 22, 2025 NVIDIA H100 GPUs are here NVIDIA H100 GPUs are here, with better performance and lower cost. May 16, 2025 Run 30,000+ LoRAs on Hugging Face with Replicate We've partnered with Hugging Face to bring Replicate inference to their platform. May 15, 2025 Ideogram 3.0 on Replicate Ideogram 3.0 is packed with powerful design, style transfer, and realism capabilities. May 7, 2025 Run MiniMax Speech-02 models with an API MiniMax's Speech-02 models give you high-quality text-to-speech with voice cloning, emotional expression, and multilingual support. May 6, 2025 Easel AI is now on Replicate Advanced face swap and AI avatars from Easel AI are now on Replicate. April 16, 2025 Stylized video with Wan2.1 One of the most fun ways to use Wan2.1 is video style transfer. Learn how here. April 1, 2025 Creative roundup: avatars, lightsabers, and LoRA tricks We take a quick look at the latest creative models, experiments, and community projects. March 28, 2025 Wan2.1: generate videos with an API Wan2.1 is the most capable open-source video generation model, producing coherent and high-quality outputs. Learn how to run it in the cloud with a single line of code. March 5, 2025 Wan2.1 parameter sweep We've been playing with Alibaba's WAN2.1 text-to-video model lately. What happens when you tweak those mysterious parameters? Let's find out. March 5, 2025 You can now fine-tune open-source video models Train your own vers",
+    "imageUrl": "https://replicate.com/_content/assets/og-image.y_bpW3_2.png"
+  },
+  {
+    "id": "src_reddit-stablediffusion_2026-07-02_fallback",
+    "sourceConfigId": "reddit-stablediffusion",
+    "sourceType": "reddit",
+    "sourceName": "r/StableDiffusion",
+    "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
+    "title": "r/StableDiffusion signal for ai-image",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:14.416Z",
+    "crawledAt": "2026-07-02T00:04:14.416Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.403,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 429 Too Many Requests",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_reddit-comfyui_2026-07-02_fallback",
+    "sourceConfigId": "reddit-comfyui",
+    "sourceType": "reddit",
+    "sourceName": "r/comfyui",
+    "sourceUrl": "https://www.reddit.com/r/comfyui/.rss",
+    "title": "r/comfyui signal for ai-image",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:14.416Z",
+    "crawledAt": "2026-07-02T00:04:14.416Z",
+    "categoryHints": [
+      "ai-image",
+      "prompt-image"
+    ],
+    "score": 0.39,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 429 Too Many Requests",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_runway-research_4c72ae34dd32cd2b",
+    "sourceConfigId": "runway-research",
+    "sourceType": "blog",
+    "sourceName": "Runway Research",
+    "sourceUrl": "https://runwayml.com/research",
+    "title": "AI Video Research & Innovation | Runway AI",
+    "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
+    "publishedAt": "2026-07-02T00:04:14.407Z",
+    "crawledAt": "2026-07-02T00:04:14.407Z",
+    "categoryHints": [
+      "ai-video"
+    ],
+    "score": 0.92,
+    "crawlStatus": "live",
+    "extractedText": "AI Video Research & Innovation | Runway AI Research Product Resources Solutions Company Enterprise Sales Login Try Runway Agent 2.0 is here. Get 30% off any plan with code AGENT Terms Try now Our Research Building general-purpose multimodal simulators of the world. We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing. Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding. Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models.... Read Paper June 2, 2025 Dual-Process Image Generation by Grace Luo, Jonathan Granskog, Aleksander Hołyński, Trevor Darrell Prior methods for controlling image generation are limited in their ability to be taught new tasks. In contrast, vision-language models, or VLMs, can learn tasks in-context and produce the correct outputs for a given input. We propose a dual-process distillation scheme that allows feed-forward image generators to learn new tasks from deliberative VLMs. Our scheme uses a VLM to rate the generated images and backpropagates this gradient to update the weights of the image generator. Our general framework enables a wide variety of new control tasks through the same text-and-image based interface. We showcase a handful of applications of this technique for different types of control signals, such as commonsense inferences and visual prompts. With our method, users can implement multimodal controls for properties such as color palette, line weight, horizon position, and relative depth within a... Read Paper March 31, 2025 StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting by Shakiba Kheradmand, Delio Vicini, George Kopanas, Dmitry Lagun, Kwang Moo Yi, Mark Matthews, Andrea Tagliasacchi 3D Gaussian splatting (3DGS) is a popular radiance field method, with many application-specific extensions. Most variants rely on the same core algorithm: depth-sorting of Gaussian splats then rasterizing in primitive order. This ensures correct alpha compositing, but can cause rendering artifacts due to built-in approximations. Moreover, for a fixed representation, sorted rendering offers little control over render cost and visual fidelity. For example, and counter-intuitively, rendering a lower-resolution image is not necessarily faster. In this work, we address the above limitations by combining 3D Gaussian splatting with stochastic rasterization. Concretely, we leverage an unbiased Monte Carlo estimator of the volume rendering equation. This removes the need for sorting, and allows for accurate 3D blending of overlapping Gaussians. The number of Monte Carlo samples further imbues 3DG... Read Paper View More Publications Runway Research We are building foundational General World Models that will be capable of simulating all possible worlds and experiences. The next frontier of intelligence will come from models that can understand, perceive, generate and act in the world. Learn more GWM-1 ↗ A state-of-the-art General World Model built to interact with the real world. And a major step towards universal simulation. Gen-4.5 ↗ The world's best video model, featuring state-of-the-art motion quality, prompt adherence and visual fidelity. General World Models ↗ Our long-term research effort to build AI systems that understand the visual world and its dynamics. RNA Sessions An ongoing series of talks about frontier research in AI and art, hosted by Runway. Learn more Latest news How Real-Time Video Generation Is Changing Online Interaction Accelerating Robot Policy Evaluation with General World Models The Turing Reel View all research news Product Agent Characters GWM-1 General World Models Robotics Gen-4.5 Aleph 2.0 Act-Two API Initiatives AI Summit 2026 ↗ Studios AI Film Festival ↗ Gen:48 Academy ↗ Resources Creative Partners Program Runway Builders Company Our Research Publications Careers About Us Customer Stories News Talent Network ↗ Safety Get Started For Enterprises For Education Login Pricing Help Center ↗ Data Security Changelog Connect Press Partnerships Brand Guidelines Meetups ↗ Twitter ↗ Instagram ↗ YouTube ↗ Discord ↗ © 2026 Runway AI, Inc. / Terms of Use / Privacy Policy / California Notices / Cookie Settings Code of Conduct / System Status ')\" decoding=\"async\" aria-hidden=\"true\" fetchPriority=\"auto\"/>",
+    "imageUrl": "https://runwayml.com/_next/static/media/og.0uf081nwezzga.jpg?dpl=dpl_2Mm8Cnhjy7H2i8wKAemViqnjxvf3"
+  },
+  {
+    "id": "src_pika-blog_80e55ecea6acd04d",
+    "sourceConfigId": "pika-blog",
+    "sourceType": "blog",
+    "sourceName": "Pika Labs Blog",
+    "sourceUrl": "https://pika.art/blog",
+    "title": "Pika blog",
+    "rawSummary": "Discover stories, experiments, and insights from the Pika community",
+    "publishedAt": "2026-07-02T00:04:14.632Z",
+    "crawledAt": "2026-07-02T00:04:14.632Z",
+    "categoryHints": [
+      "ai-video"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Pika blog Careers Contact Us Pricing API Experiments Login Sign Up Careers Contact Us Pricing API Experiments Login Sign Up BLOG For creators, by creators Discover stories, experiments, and insights from the Pika community Pika raises $80M, so anyone can make video on command Today is a big day for us. It’s been a year since we dropped out of Stanford to build Pika, and in that time, we’ve done a stealth launch on Discord, released our 1.0 model and web app, shipped multiple first-to-market features, and grown our team from three to thirteen. Jun 5, 2024 Be the first to hear about Pika updates Get Our Newsletter Company Careers Contact Us Pricing Blog API Connect Discord Instagram X YouTube Facebook TikTok Terms of Service Pika © 2026 . All rights reserved. Acceptable Use Policy Privacy Policy",
+    "imageUrl": "https://pika.art/images/og.jpeg"
+  },
+  {
+    "id": "src_luma-blog_c7449029956c34f9",
+    "sourceConfigId": "luma-blog",
+    "sourceType": "blog",
+    "sourceName": "Luma Labs Blog",
+    "sourceUrl": "https://lumalabs.ai/blog",
+    "title": "News | Luma",
+    "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
+    "publishedAt": "2026-07-02T00:04:14.977Z",
+    "crawledAt": "2026-07-02T00:04:14.977Z",
+    "categoryHints": [
+      "ai-video"
+    ],
+    "score": 0.8,
+    "crawlStatus": "live",
+    "extractedText": "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates All Company Product Engineering Creator Series Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all. Company Jun 1, 2026 Luma Announces The Open Physical AI Lab: An Open Science Effort to Solve Generalization in Physical AI Product May 5, 2026 Introducing the Uni-1.1 API: Intelligence You Can Direct. Aesthetic You Can Ship. Company Apr 16, 2026 Wonder Project and Luma Launch Innovative Dreams: Production Services Company Combining Generative AI and Traditional Filmmaking, Backed and Supported by Amazon Web Services Company Apr 15, 2026 South African Agency Boundless Delivers Mazda’s First AI-Produced Commercial Using Luma Agents Company Apr 9, 2026 Luma Submits 21 AI-Generated Finalists to Cannes Lions After Inspiring 400 Ads in Less Than 8 Weeks Product Apr 1, 2026 Introducing Team Members and Admins on Your Luma Account Company Feb 19, 2026 Serviceplan Group Deploys Creative AI Across Global Operations in Partnership with Luma AI Company Feb 11, 2026 Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe Company Feb 2, 2026 Luma AI Offers $1 Million For Cannes Lions Gold Winner Product Jan 26, 2026 Ray3.14 is here: Native 1080p, 3x cheaper and 4x faster. Product Dec 18, 2025 Introducing Ray3 Modify Company Dec 2, 2025 Luma AI Opens for International Business With Former WPP Executive Jason Day Leading New London Office Engineering Nov 26, 2025 Pushing the Limit of Efficient Inference-Time Scaling with Terminal Velocity Matching Company Nov 19, 2025 AGI is multimodal and reality is the dataset of AGI Company Oct 15, 2025 Hartbeat and Luma AI Partner on Prompt Side Story — A First-of-Its-Kind Live AI Film Event at LA Tech Week Creator Series Oct 15, 2025 Billy Boman Engineering Oct 14, 2025 Ray3 Evaluation Report – State-of-the-Art Performance for Pro Video Generation Creator Series Sep 24, 2025 Nik Kleverov Product Sep 18, 2025 Luma AI launches Ray3 Company Sep 12, 2025 Clio Awards Product Aug 12, 2025 Introducing Modify with Instructions Company Jul 10, 2025 Introducing Dream Lab LA Product Jun 2, 2025 Introducing Modify Video Company May 15, 2025 Luma is Partnering with HUMAIN to Accelerate the Arrival of Multimodal AGI Product May 9, 2025 Introducing Reframe Company Apr 24, 2025 Ray2 is coming to Adobe Firefly & Firefly Boards Product Apr 18, 2025 Introducing Camera Angle Concepts Product Mar 31, 2025 Introducing Camera Motion Concepts Engineering Mar 11, 2025 Breaking the Algorithmic Ceiling in Pre-Training with Inductive Moment Matching Subscribe to Press Updates Want to receive our latest press releases directly in your inbox? First Name * Last Name * Publication Email * Subscribe Media Inquiries press@lumalabs.ai Luma Product Pricing Ray UNI-1 API AI Video Generator AI Image Generator Enterprise Join Us Creative Partner Program Education Program Learning Center Media kit Terms of Service Privacy Policy Cookie Policy Subprocessors",
+    "imageUrl": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg"
+  },
+  {
+    "id": "src_reddit-aivideo_2026-07-02_fallback",
+    "sourceConfigId": "reddit-aivideo",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
+    "title": "r/aivideo signal for ai-video",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:14.497Z",
+    "crawledAt": "2026-07-02T00:04:14.497Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "score": 0.39,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 429 Too Many Requests",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_cursor-changelog_99cdbb7e2d70df11",
+    "sourceConfigId": "cursor-changelog",
+    "sourceType": "blog",
+    "sourceName": "Cursor Changelog",
+    "sourceUrl": "https://www.cursor.com/changelog",
+    "title": "What's New in Cursor — Latest Updates & Release Notes",
+    "rawSummary": "New updates and improvements.",
+    "publishedAt": "2026-07-02T00:04:14.746Z",
+    "crawledAt": "2026-07-02T00:04:14.746Z",
+    "categoryHints": [
+      "ai-vibe-coding"
+    ],
+    "score": 0.85,
+    "crawlStatus": "live",
+    "extractedText": "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud Automations CLI Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Jun 30, 2026 · Changelog MCPs and Organizations in Team Marketplaces We've expanded team marketplaces to support Team MCPs and organization groups. # Team MCPs in team marketplaces Admins can now configure Team MCP servers once and distribute them across cloud agents, the agents window, IDE, and CLI. When an admin sets up Team MCP servers for cloud agents, they can make those same servers available in a team marketplace from Dashboard -> Integrations & MCP . This allows members of the team to install approved integrations locally without configuring servers themselves. Learn more in the docs on migrating existing Team MCPs . # Marketplace access by organization group Team marketplaces now support organization groups , in addition to team-level SCIM directory groups. Under Dashboard -> Plugins -> Team Marketplaces , restrict marketplace access to specific organization groups. Marketplaces that already use SCIM directory groups keep that configuration. Get started in the Cursor dashboard . 3.9 Jun 29, 2026 · Changelog Cursor Mobile App for iOS Cursor for iOS is now available in public beta on all paid plans. Launch and manage always-on agents from anywhere. # Cloud agents on mobile Open the Cursor mobile app, choose a repo, and launch an agent the same way you would on the desktop app. Pick any frontier model, describe ideas out loud with voice input, and use slash commands to guide Cursor in the right direction. Cloud agents run in isolated virtual machines with full development environments to test, verify, and demo work. Move sessions from local to cloud to keep them running with your laptop closed. # Remote Control Use Remote Control in the Agents Window to take an agent you're running on your computer and keep directing it from your phone. You can also turn on a setting to keep your computer awake, so your machine stays reachable while you're away from your desk. On Teams and Enterprise plans, admins must enable Remote Control from the Cursor Dashboard . # Live Activities and push notifications Track the status of your agents with Live Activities on your lock screen. Get push notifications when an agent finishes, needs input, or is ready for review. # Artifacts and SCM Review demos, screenshots, logs, and diffs from your phone. Leave follow-up instructions, or merge the PR directly from the app. Download Cursor for iOS to start building from your phone. Read our announcement or the docs to learn more. 3.9 Jun 22, 2026 · Changelog Customize Cursor Plugins, skills, and MCPs let you customize Cursor for your workflows. The new Customize page brings them into one place. You can now add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks at the user, team, or workspace level, and even bring your own custom MCPs. # Marketplace leaderboard Cursor now shows you a leaderboard of the most popular plugins, skills, and MCPs across your team. Add any to your setup with one click from the new Customize page and extend Cursor for your workflow. # Plugin canvases Plugins now support prebuilt canvases: shared setup templates your team can open and reuse. Use the Hex Canvas to build data visualizations. Use the Atlassian Canvas to see a realtime view of all our issues, projects, and documents. # New Team Marketplaces Team marketplaces now support imports of plugin repositories from GitLab, BitBucket, or Azure DevOps so you easily add plugins and distribute them to your team. Learn more in our docs . 3.8 Jun 18, 2026 · Changelog Improvements to Cursor Automations Cursor Automations save you time by automating repetitive tasks with always-on agents. This release introduces the /automate skill, new triggers for GitHub and Slack, and support for computer use. # /automate skill Use /automate to create an automation directly in your local agent session. Describe the task you want to automate in plain language and Cursor will configure the triggers, instructions, and tools for you. # An emoji trigger for Slack React to any Slack message with a designated emoji to kick off an automation. At Cursor, we use this to trigger specific automations right from Slack. # New GitHub triggers Automations now support five additional GitHub triggers: Issue comment: when a comment is made on a non-PR issue PR review comment: when an inline comment is left on a pull request diff PR review submitted: when a PR review is submitted Review thread updated: when a review thread on a pull request is marked resolved or unresolved Workflow run completed: when a GitHub Actions workflow run finishes on a pull request or branch We've added new templates for triaging failed GitHub actions and auto-fixing PR review comments to the Cursor Marketplace to help you get started. # Computer use tool for automations Cloud agents kicked off by automations can now use their own computers to produce demos or artifacts of their work. The computer use tool is enabled by default for every automation, just tell the agent to include a demo of its work in your instructions. To get started, update to the latest version of Cursor. Learn more in our docs . Improvements (3) ↓ ↑ Automations can now be saved in an incomplete state, so you can navigate away to set up an MCP auth without losing your progress Automations can now open PRs by default; so you no longer have to specify that tool in the UI You can now delete memory files in the UI, or prompt your automation to delete outdated memories when it runs 3.7 Jun 17, 2026 · Changelog Cloud Environment Setup and Cloud Subagents in Agents Window This release introduces updates to cloud agents in the Agents Window of the Cursor desktop app. # Cloud environment setup Cursor c",
+    "imageUrl": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png"
+  },
+  {
+    "id": "src_github-copilot-blog_1cb7f10cc2e13dc1",
+    "sourceConfigId": "github-copilot-blog",
+    "sourceType": "blog",
+    "sourceName": "GitHub Copilot Blog",
+    "sourceUrl": "https://github.blog/tag/github-copilot/",
+    "title": "GitHub Copilot Archives - The GitHub Blog",
+    "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
+    "publishedAt": "2026-07-02T00:04:14.489Z",
+    "crawledAt": "2026-07-02T00:04:14.489Z",
+    "categoryHints": [
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs. Machine learning Machine learning tips, tricks, and best practices. How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience. Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers. Application development Insights and best practices for building apps. Career growth Tips & tricks to grow as a professional developer. GitHub Improve how you use GitHub at work. GitHub Education Learn how to move into your first professional role. Programming languages & frameworks Stay current on what’s new (or new again). Get started with GitHub documentation Learn how to start building, shipping, and maintaining software with GitHub. Learn more Engineering Engineering Get an inside look at how we’re building the home for all developers. Architecture & optimization Discover how we deliver a performant and highly available experience across the GitHub platform. Engineering principles Explore best practices for building software at scale with a majority remote team. Infrastructure Get a glimpse at the technology underlying the world’s leading AI-powered developer platform. Platform security Learn how we build security into everything we do across the developer lifecycle. User experience Find out what goes into making GitHub the home for all developers. How we use GitHub to be more productive, collaborative, and secure Our engineering and security teams do some incredible work. Let’s take a look at how we use GitHub to be more productive, build collaboratively, and shift security left. Learn more Enterprise software Enterprise software Explore how to write, build, and deploy enterprise software at scale. Automation Automating your way to faster and more secure ships. CI/CD Guides on continuous integration and delivery. Collaboration Tips, tools, and tricks to improve developer collaboration. DevOps DevOps resources for enterprise engineering teams. DevSecOps How to integrate security into the SDLC. Governance & compliance Ensuring your builds stay clean. GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for AI Code Assistants Learn why Gartner positioned GitHub as a Leader for the second year in a row. Learn more News & insights News & insights Keep up with what’s new and notable from inside GitHub. Company news An inside look at news and product updates from GitHub. Product The latest on GitHub’s platform, products, and tools. Octoverse Insights into the state of open source on GitHub. Policy The latest policy and regulatory changes in software. Research Data-driven insights around the developer ecosystem. The library Older news and updates from GitHub. Unlocking the power of unstructured data with RAG Learn how to use retrieval-augmented generation (RAG) to capture more insights. Learn more Open Source Open Source Everything open source on GitHub. Git The latest Git updates. Maintainers Spotlighting open source maintainers. Social impact How open source is driving positive change. Gaming Explore open source games on GitHub. An introduction to innersource Organizations worldwide are incorporating open source methodologies into the way they build and ship their own software. Learn more Security Security Stay up to date on everything security. Application security Application security, explained. Supply chain security Demystifying supply chain security. Vulnerability research Updates from the GitHub Security Lab. Web application security Helpful tips on securing web applications. The enterprise guide to AI-powered DevSecOps Learn about core challenges in DevSecOps, and how you can start addressing them with AI and automation. Learn more Search Categories AI & ML Back AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs. Machine learning Machine learning tips, tricks, and best practices. How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience. Learn more Developer skills Back Developer skills Resources for developers to grow in their skills and careers. Application development Insights and best practices for building apps. Career growth Tips & tricks to grow as a professional developer. GitHub Improve how you use GitHub at work. GitHub Education Learn how to move into your first professional role. Programming languages & frameworks Stay current on what’s new (or new again). Get started with GitHub documentation Learn how to start building, shipping, and maintaining software with GitHub. Learn more Engineering Back Engineering Get an inside look at how we’re building the home for all developers. Architecture & optimization Discover how we deliver a performant and highly available experience across the GitHub platform. Engineering principles Explore best practices for building software at scale with a majority remote team. Infrastructure Get a glimpse at the technology underlying the world’s leading AI-powered developer platform. Platform security Learn how we build security into everything we do across the developer lifecycle. User experience Find out what goes into making GitHub the home for all developers. How we use GitHub to be more productive, collaborative, and secure Our engineering and security teams do some incredible work. Let’s take a look"
+  },
+  {
+    "id": "src_vercel-ai-blog_2026-07-02_fallback",
+    "sourceConfigId": "vercel-ai-blog",
+    "sourceType": "blog",
+    "sourceName": "Vercel AI Blog",
+    "sourceUrl": "https://vercel.com/blog/ai",
+    "title": "Vercel AI Blog signal for ai-vibe-coding",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:15.290Z",
+    "crawledAt": "2026-07-02T00:04:15.290Z",
+    "categoryHints": [
+      "ai-vibe-coding",
+      "ai-agentic"
+    ],
+    "score": 0.507,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 404 Not Found",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_replit-blog_49899058ba32f8e5",
+    "sourceConfigId": "replit-blog",
+    "sourceType": "blog",
+    "sourceName": "Replit Blog",
+    "sourceUrl": "https://blog.replit.com/",
+    "title": "Replit — Replit Blog – Product updates from the team",
+    "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
+    "publishedAt": "2026-07-02T00:04:15.078Z",
+    "crawledAt": "2026-07-02T00:04:15.078Z",
+    "categoryHints": [
+      "ai-vibe-coding"
+    ],
+    "score": 0.72,
+    "crawlStatus": "live",
+    "extractedText": "Replit — Replit Blog – Product updates from the team Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Wed, Mar 11, 2026 • Featured Introducing Replit Agent 4: Built for Creativity Introducing Agent 4—Replit's fastest, most versatile Agent yet. Push the boundaries of what's possible in vibe coding and build production-ready apps faster. All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Tue, Jun 23, 2026 Closing the loop: Evaluating and improving Replit Agent at scale Most Replit Agent users start with an idea. They describe the goal in natural language — without a repo, test suite, or chosen framework — and expect the agent to turn it into a functioning app. The result might be a website, slide deck, mobile app, several connected artifacts, or something else entirely. Vibe coders are not usually checking diffs or test output. Success for Replit Agent is deceptively simple: the app should work when users click around. That changes the job of evaluation. A single score can help with a specific shipping decision, but it cannot tell us, week over week, whether Replit Agent is getting better for users. To answer that question, evaluation must become part of the improvement loop. Evaluation has to do more now Mon, Jun 22, 2026 Vibe Coding's Coachella Moment Just Happened. Inside Replit's Inaugural Vibecon. Powerful energy on New York’s Lower East Side, where the crowd was the one creating, vibe-coding and manifesting ideas into real things all day. Wed, Jun 17, 2026 Replit is now available in Claude Replit is now available directly inside Claude, making it easier than ever to go from a conversation to a fully built, shipped product - without losing context, in one seamless workflow. Design in Claude, Build in Replit You can now design on-brand, beautiful apps in Claude Design using natural language. Once your design is ready, send it directly to Replit to continue building, refining, and shipping your app—all through natural language and in one seamless workflow. No copy-pasting, no context switching, no friction. Delegate Any Task to Replit Wed, Jun 10, 2026 Customize Replit Agent with Skills & Custom Instructions Every team has conventions. How you structure a project. How you handle secrets. Your design system, your testing standards, your code style. The problem: AI Agents don’t know your conventions. So you explain it again on every prompt, paste in your standards doc, or just hope someone remembered to add the context. It is one of those small frictions that compounds quietly until you are spending more time re-teaching the Agent than actually building. Today we're launching Agent Customization: a way to give Replit Agent the context it needs to work the way you or your team actually works, across all projects. It has two parts: Custom Instructions and Skills. Custom Instructions Custom Instructions are always-on guidelines injected automatically into the agent's context on every project, every session, before anyone types a single word. Write them once, and the Agent applies them to every project in the workspace, automatically. If you want the Agent to not commit secrets to version control, always use TypeScript strict mode, or follow your company's data handling policy — that goes in Custom Instructions. You don't ask each time. It just knows. Wed, Jun 10, 2026 Replit | Databricks: Where fast app building meets granular data governance Today, we're excited to announce two significant updates to the Replit and Databricks integration we launched in February: the user-to-machine (U2M) connector feature is now live, and the integration is now open for public preview sign-up. ICYMI: Our February announcement introduced our joint integration for enterprise teams: the ability to build applications in Replit and deploy them directly into Databricks with the inherent governance, security, and compliance controls your organization already has in place, without any extra overhead. That initial release was powered by a machine-to-machine (M2M) connector and today, the addition of user-to-machine (U2M) takes it a level further, unlocking a new class of applications that simply weren't possible before. Sensitive data has always been the hardest problem to solve in enterprise app development. Our newest U2M is how we're solving it. After a Replit application is built and deployed, Databricks is able to govern what each user can access based on Unity Catalog permissions on an individual user level without any separate builds or permission workarounds. This ensures that no users are granted access to data they wouldn’t normally be able to access. From M2M to U2M While M2M is powerful for company-wide tools with publicly sharable information, one of the drawbacks is that every user is granted access to the same view of the data. Tue, Jun 9, 2026 Package Firewall: Blocking 8,000+ malicious packages daily Replit already scans your projects for vulnerable dependencies, and audits your dependencies before you publish. But risk shows up earlier than that, while you are developing, the moment a malicious package gets installed. Today we're launching Package Firewall, in partnership with Socket (a software supply-chain security company) . Package Firewall blocks malicious and compromis",
+    "imageUrl": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png?w=1200&h=630&fit=max&fm=jpg"
+  },
+  {
+    "id": "src_comfyui-blog_469b943374a61749",
+    "sourceConfigId": "comfyui-blog",
+    "sourceType": "blog",
+    "sourceName": "ComfyUI Blog",
+    "sourceUrl": "https://blog.comfy.org/",
+    "title": "ComfyUI Newsletter | Robin | Substack",
+    "rawSummary": "News and updates from the ComfyUI Team. Click to read ComfyUI Newsletter, by Robin, a Substack publication with tens of thousands of subscribers.",
+    "publishedAt": "2026-07-02T00:04:14.734Z",
+    "crawledAt": "2026-07-02T00:04:14.734Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "ComfyUI Newsletter | Robin | Substack ComfyUI Newsletter News and updates from the ComfyUI Team. Over 26,000 subscribers Subscribe By subscribing, you agree Substack's Terms of Use , and acknowledge its Information Collection Notice and Privacy Policy . No thanks This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+    "imageUrl": "https://substackcdn.com/image/fetch/$s_!xYpB!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fcomfyui.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D701899740%26version%3D9"
+  },
+  {
+    "id": "src_reddit-midjourney_2026-07-02_fallback",
+    "sourceConfigId": "reddit-midjourney",
+    "sourceType": "reddit",
+    "sourceName": "r/midjourney",
+    "sourceUrl": "https://www.reddit.com/r/midjourney/.rss",
+    "title": "r/midjourney signal for prompt-image",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:14.559Z",
+    "crawledAt": "2026-07-02T00:04:14.559Z",
+    "categoryHints": [
+      "prompt-image",
+      "ai-image"
+    ],
+    "score": 0.377,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 429 Too Many Requests",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_kling-blog_9b8eef2edc427cc1",
+    "sourceConfigId": "kling-blog",
+    "sourceType": "blog",
+    "sourceName": "Kling AI Blog",
+    "sourceUrl": "https://klingai.com/blog",
+    "title": "可灵 AI - 新一代 AI 创意生产力平台",
+    "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
+    "publishedAt": "2026-07-02T00:04:15.564Z",
+    "crawledAt": "2026-07-02T00:04:15.564Z",
+    "categoryHints": [
+      "prompt-video",
+      "ai-video"
+    ],
+    "score": 0.8,
+    "crawlStatus": "live",
+    "extractedText": "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity Kling AI Turns Two: In Creators’ Own Words Jun 12, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Jun 29, 2026 Kling AI Introduces the World’s First Native 4K Video Model, Empowering Industrial-Grade AI Production Across Film, Advertising, and Creative Industries May 20, 2026 How to Create 4K E-commerce Product Videos with AI: Native 4K Image-to-Video Guide Jun 29, 2026 Native 4K AI Video Output vs Upscaling: What Is the Real Difference? Jun 29, 2026 Photorealistic AI Video: Make Kling AI Footage Look Like Real Life Jun 26, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jun 8, 2026 50 Best Adjectives for Kling AI: Elevate Your AI Video Quality Jun 26, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jun 26, 2026 Kling 3.0 Subject Binding: Lock Character Features Across Shots Jun 26, 2026 Kling Image 3.0 Omni: Native 4K & Series Mode Creation Guide Jun 26, 2026 How to Control Camera Angles and Movements in AI for Dynamic Shot Jun 26, 2026 How to Choose the Best AI Video Generator of 2026 Jun 26, 2026 Everything You Need to Know About Kling VIDEO 3.0 Omni Jun 26, 2026 From Silent to Sound: A Complete Guide to Adding AI Voiceovers and Sound Effects to Your AI Videos Jun 26, 2026 How to Create Personalized Educational Videos with Kling AI Jun 26, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+  },
+  {
+    "id": "src_reddit-mediasynthesis_2026-07-02_fallback",
+    "sourceConfigId": "reddit-mediasynthesis",
+    "sourceType": "reddit",
+    "sourceName": "r/MediaSynthesis",
+    "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/.rss",
+    "title": "r/MediaSynthesis signal for prompt-video",
+    "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+    "publishedAt": "2026-07-02T00:04:14.660Z",
+    "crawledAt": "2026-07-02T00:04:14.660Z",
+    "categoryHints": [
+      "prompt-video",
+      "ai-video"
+    ],
+    "score": 0.35750000000000004,
+    "crawlStatus": "fallback",
+    "crawlError": "Fetch failed 429 Too Many Requests",
+    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+  },
+  {
+    "id": "src_huggingface-blog_af185e1e7e4dfbac",
+    "sourceConfigId": "huggingface-blog",
+    "sourceType": "blog",
+    "sourceName": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog",
+    "title": "Hugging Face – Blog",
+    "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "publishedAt": "2026-07-02T00:04:14.757Z",
+    "crawledAt": "2026-07-02T00:04:14.757Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-image",
+      "ai-video",
+      "ai-vibe-coding"
+    ],
+    "score": 0.85,
+    "crawlStatus": "live",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine kogai • 7 days ago • 32 Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 3 days ago • 19 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16 Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • about 22 hours ago • 16 VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 5 days ago • 13 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 8 days ago • 42 VLX-Seek: Improving VLM Fine-Grained Perception via Region Reference Instead of Coordinate Generation omlab • 4 days ago • 12 VLX-Go: Vision-Language Short-Horizon Waypoint Prediction for Embodied Navigation omlab • 4 days ago • 11 Which tokens does a hybrid model predict better? allenai • 6 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 357 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness ibm-research • 8 days ago • 36 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 22 days ago • 79 Continuous batching for GRPO, now in TRL sergiopaniego • 12 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 870 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • about 9 hours ago • 4 Heretic Grimoire VINAY-UMRETHE • 1 day ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 353 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 33 OlmoLogic: Boosting Reasoning via RLVR with Inductive Logic Programming LukasHug • 5 days ago • 3 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • about 1 month ago • 18 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 13 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 22 June 30, 2026 Why Specialization Is Inevitable 5 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 35 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 7 June 24, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 19 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 6 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 26 June 22, 2026 guide open-source-collab We got local models to triage the OpenClaw repo for FREE!* 7 June 22, 2026 MosaicLeaks: Can your research agent keep a secret? 13 June 18, 2026 peft lora guide Beyond LoRA: Can you beat the most popular fine-tuning technique? 70 June 18, 2026 Previous 1 2 3 ... 59 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine kogai • 7 days ago • 32 Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 3 days ago • 19 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16 Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • about 22 hours ago • 16 VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 5 days ago • 13 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 8 days ago • 42 VLX-Seek: Improving VLM Fine-Grained Perception via Region Reference Instead of Coordinate Generation omlab • 4 days ago • 12 VLX-Go: Vision-Language Short-Horizon Waypoint Prediction for Embodied Navigation omlab • 4 days ago • 11 Which tokens does a hybrid model predict better? allenai • 6 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 357 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness ibm-research • 8 days ago • 36 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 22 days ago • 79 Continuous batching for GRPO, now in TRL sergiopaniego • 12 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 870 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • about 9 hours ago • 4 Heretic Grimoire VINAY-UMRETHE • 1 day ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 353 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 33 OlmoLogic: Boosting Reasoning via RLVR with Inductive Logic Programming LukasHug • 5 days ago • 3 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • about 1 month ago • 18 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricin",
+    "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
+  },
+  {
+    "id": "src_simonwillison-blog_e0cc28fe04940a94",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+    "title": "Quoting Anthropic",
+    "rawSummary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash; Anthropic , on Twitter Tags: anthropic , claude , generative-ai , claude-mythos , ai , llms",
+    "publishedAt": "2026-06-30T23:58:15.000Z",
+    "crawledAt": "2026-07-02T00:04:14.680Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "A quote from Anthropic Simon Willison’s Weblog Subscribe Sponsored by: Depot &mdash; AI agents write code in seconds. CI shouldn't make them wait minutes. Try Depot CI 30th June 2026 We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash; Anthropic , on Twitter Posted 30th June 2026 at 11:58 pm Recent articles Have your agent record video demos of its work with shot-scraper video - 30th June 2026 Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code - 22nd June 2026 sqlite-utils 4.0rc1 adds migrations and nested transactions - 21st June 2026 This is a quotation collected by Simon Willison, posted on 30th June 2026 . ai 2,095 generative-ai 1,852 llms 1,820 anthropic 302 claude 286 claude-mythos 18 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+  },
+  {
+    "id": "src_simonwillison-blog_916761293fc9a214",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+    "title": "Nano Banana 2 Lite",
+    "rawSummary": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image ( gemini-3.1-flash-lite-image in their API ), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run this prompt: Do a where's Waldo style image but it's where is the raccoon holding a ham radio I like that one better than the results I got from the other Nano Banana models when I tried this back in April. It spelled Forest Festival wrong in two different ways though. Via Hacker News Tags: google , ai , generative-ai , llms , gemini , text-to-image , llm-release , nano-banana",
+    "publishedAt": "2026-06-30T22:15:35.000Z",
+    "crawledAt": "2026-07-02T00:04:14.680Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Nano Banana 2 Lite Simon Willison’s Weblog Subscribe Sponsored by: Depot &mdash; AI agents write code in seconds. CI shouldn't make them wait minutes. Try Depot CI 30th June 2026 - Link Blog Nano Banana 2 Lite ( via ) Also known as Gemini 3.1 Flash Lite Image ( gemini-3.1-flash-lite-image in their API ), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run this prompt: Do a where's Waldo style image but it's where is the raccoon holding a ham radio I like that one better than the results I got from the other Nano Banana models when I tried this back in April. It spelled Forest Festival wrong in two different ways though. Posted 30th June 2026 at 10:15 pm Recent articles Have your agent record video demos of its work with shot-scraper video - 30th June 2026 Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code - 22nd June 2026 sqlite-utils 4.0rc1 adds migrations and nested transactions - 21st June 2026 This is a link post by Simon Willison, posted on 30th June 2026 . google 414 ai 2,095 generative-ai 1,852 llms 1,820 gemini 191 text-to-image 44 llm-release 210 nano-banana 9 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026",
+    "imageUrl": "https://static.simonwillison.net/static/2026/nano-banana-2-lite-raccoon.jpg"
+  },
+  {
+    "id": "src_simonwillison-blog_ac508c7f632c24a2",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+    "title": "What's new in Claude Sonnet 5",
+    "rawSummary": "What's new in Claude Sonnet 5 Claude Sonnet 5 came out this morning . I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post. Anthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but at lower prices\". The system card helps explain how they were able to release the model without being blocked by the US government: Sonnet 5 is significantly less capable at cyber tasks than Mythos 5: its safeguards are thus similar to those we apply to Opus 4.7 and Opus 4.8 (models that are more capable than Sonnet 5 but much less capable than Mythos 5). Of note from the \"what's new\" API changes: Sampling parameters temperature , top_p , top_k are no longer supported. It has a 1 million token context window and 128,000 maximum output tokens. It features \"the same set of tools and platform features as Claude Sonnet 4.6\" Adaptive thinking is on by default, unless you specify \"thinking\": {type: \"disabled\"} . The pricing is the same as Sonnet 4.6: $3/million input, $15/million input, with an introductory discount to $2/$10 until 31st August. But... The model has a new tokenizer, where \"The same input text produces approximately 30% more tokens than on Claude Sonnet 4.6.\" - effectively a 30% price increase. I used my Claude Token Counter tool to try out the new tokenizer. Here are my results for several larger documents: Document Sonnet 4.6 Opus 4.7 Sonnet 5 Universal Declaration of Human Rights (English) 2,356 3,347 1.42x 3,341 1.42x Universal Declaration of Human Rights (Spanish) 3,572 4,753 1.33x 4,747 1.33x Universal Declaration of Human Rights (Chinese, Mandarin Simplified) 3,334 3,366 1.01x 3,360 1.01x sqlite_utils/db.py (4,279 lines of Python) 44,014 56,118 1.28x 56,113 1.27x So the new token is roughly 1.4x times more expensive for English, 1.33x for Spanish, 1.28x for Python code and effectively the same cost for Simplified Mandarin. Here's the pelican . It's nothing to write home about. Sonnet 5 thinks it looks like a goose. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , pelican-riding-a-bicycle , llm-release",
+    "publishedAt": "2026-06-30T21:23:02.000Z",
+    "crawledAt": "2026-07-02T00:04:14.680Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "What's new in Claude Sonnet 5 Simon Willison’s Weblog Subscribe Sponsored by: Depot &mdash; AI agents write code in seconds. CI shouldn't make them wait minutes. Try Depot CI 30th June 2026 - Link Blog What's new in Claude Sonnet 5 ( via ) Claude Sonnet 5 came out this morning . I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post. Anthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but at lower prices\". The system card helps explain how they were able to release the model without being blocked by the US government: Sonnet 5 is significantly less capable at cyber tasks than Mythos 5: its safeguards are thus similar to those we apply to Opus 4.7 and Opus 4.8 (models that are more capable than Sonnet 5 but much less capable than Mythos 5). Of note from the \"what's new\" API changes: Sampling parameters temperature , top_p , top_k are no longer supported. It has a 1 million token context window and 128,000 maximum output tokens. It features \"the same set of tools and platform features as Claude Sonnet 4.6\" Adaptive thinking is on by default, unless you specify \"thinking\": {type: \"disabled\"} . The pricing is the same as Sonnet 4.6: $3/million input, $15/million input, with an introductory discount to $2/$10 until 31st August. But... The model has a new tokenizer, where \"The same input text produces approximately 30% more tokens than on Claude Sonnet 4.6.\" - effectively a 30% price increase. I used my Claude Token Counter tool to try out the new tokenizer. Here are my results for several larger documents: Document Sonnet 4.6 Opus 4.7 Sonnet 5 Universal Declaration of Human Rights (English) 2,356 3,347 1.42x 3,341 1.42x Universal Declaration of Human Rights (Spanish) 3,572 4,753 1.33x 4,747 1.33x Universal Declaration of Human Rights (Chinese, Mandarin Simplified) 3,334 3,366 1.01x 3,360 1.01x sqlite_utils/db.py (4,279 lines of Python) 44,014 56,118 1.28x 56,113 1.27x So the new token is roughly 1.4x times more expensive for English, 1.33x for Spanish, 1.28x for Python code and effectively the same cost for Simplified Mandarin. Here's the pelican . It's nothing to write home about. Sonnet 5 thinks it looks like a goose. Posted 30th June 2026 at 9:23 pm Recent articles Have your agent record video demos of its work with shot-scraper video - 30th June 2026 Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code - 22nd June 2026 sqlite-utils 4.0rc1 adds migrations and nested transactions - 21st June 2026 This is a link post by Simon Willison, posted on 30th June 2026 . ai 2,095 generative-ai 1,852 llms 1,820 anthropic 302 claude 286 llm-pricing 79 pelican-riding-a-bicycle 121 llm-release 210 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026",
+    "imageUrl": "https://static.simonwillison.net/static/2026/sonnet-5-pelican.png"
+  },
+  {
+    "id": "src_simonwillison-blog_9aba1b937822761c",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+    "title": "The AI Compass",
+    "rawSummary": "The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my answers on my first time through the quiz categorized me as \"The Garage Tinkerer\", patron saint myself! It's implemented as a single page React app using the trick to avoid the necessary build step. Here's the code . Via @erisianrite.com Tags: ai , generative-ai , llms , ai-ethics",
+    "publishedAt": "2026-06-30T17:39:23.000Z",
+    "crawledAt": "2026-07-02T00:04:14.681Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "The AI Compass Simon Willison’s Weblog Subscribe Sponsored by: Depot &mdash; AI agents write code in seconds. CI shouldn't make them wait minutes. Try Depot CI 30th June 2026 - Link Blog The AI Compass ( via ) This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my answers on my first time through the quiz categorized me as \"The Garage Tinkerer\", patron saint myself! It's implemented as a single page React app using the"
+  },
+  {
+    "id": "src_simonwillison-blog_3e723a39be54664a",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+    "title": "Have your agent record video demos of its work with shot-scraper video",
+    "rawSummary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that routine. I've written before about the importance of having coding agents produce demos of their work; this is my latest attempt at enabling them to do that. Here's an example video created using shot-scraper video , exercising a still in development feature adding the ability to create new tables in Datasette from pasted CSV, TSV or JSON data: That video was created by running this command : shot-scraper video datasette-bulk-insert-storyboard.yml \\ --auth datasette-demo-auth.json --mp4 (That --auth JSON file contains a cookie , as described here in the documentation.) Here's the datasette-bulk-insert-storyboard.yml file: output : /tmp/datasette-bulk-insert-demo.webm server : - uv - --directory - /Users/simon/Dropbox/dev/datasette - run - datasette - -p - 6419 - --root - --secret - \" 1 \" - /tmp/demo.db url : http://127.0.0.1:6419/demo/tasks viewport : width : 1280 height : 720 cursor : true wait_for : ' button[data-table-action=\"insert-row\"] ' javascript : | (() => { let clipboardText = \"\"; Object.defineProperty(navigator, \"clipboard\", { configurable: true, get: () => ({ writeText: async (text) => { clipboardText = String(text); }, readText: async () => clipboardText, }), }); })(); scenes : - name : Bulk insert existing table rows do : - pause : 0.8 - click : ' button[data-table-action=\"insert-row\"] ' - wait_for : \" #row-edit-dialog[open] \" - pause : 0.5 - click : \" .row-edit-bulk-insert \" - wait_for : \" .row-edit-bulk-textarea \" - pause : 0.5 - click : \" .row-edit-copy-template \" - wait_for : \" text=Copied \" - pause : 0.8 - fill : into : \" .row-edit-bulk-textarea \" text : | title,owner,status,priority,notes Prepare release video,Ana,doing,1,Recorded with shot-scraper Check pasted CSV import,Ben,review,3,Previewed before inserting Share the branch demo,Chen,queued,2,Bulk insert creates three rows - pause : 0.8 - click : \" .row-edit-save \" - wait_for : \" text=Previewing 3 rows. \" - pause : 1.2 - click : \" .row-edit-save \" - wait_for : \" text=3 rows inserted. \" - pause : 1.0 - click : \" .row-edit-cancel \" - wait_for : \" text=Prepare release video \" - pause : 1.0 - name : Create a table from pasted CSV open : http://127.0.0.1:6419/demo wait_for : ' details.actions-menu-links summary ' do : - pause : 0.8 - click : ' details.actions-menu-links summary ' - click : ' button[data-database-action=\"create-table\"] ' - wait_for : \" #table-create-dialog[open] \" - pause : 0.5 - fill : into : \" .table-create-table-name \" text : \" launch_metrics \" - click : \" .table-create-from-data \" - wait_for : \" .table-create-data-textarea \" - pause : 0.5 - fill : into : \" .table-create-data-textarea \" text : | metric_id,name,score,recorded_on m001,Activation rate,87.5,2026-06-29 m002,Retention check,72.25,2026-06-30 m003,CSV import health,95,2026-07-01 - pause : 0.8 - click : \" .table-create-save \" - wait_for : \" text=Previewing 3 rows. \" - pause : 1.2 - click : \" .table-create-save \" - wait_for_url : \" **/demo/launch_metrics \" - wait_for : \" text=Activation rate \" - pause : 1.2 The video command documentation includes simpler examples, but for the purpose of this post I thought I'd go with something more comprehensive. That demo YAML storyboard was constructed entirely by GPT-5.5 xhigh running in Codex Desktop, using the following prompt run inside my ~/dev/datasette checkout of this branch : Review the changes on this branch. cd to ~/dev/shot-scraper and run the command \"uv run shot-scraper video --help\" Now use that new video command to record a video demo of the new features from this branch, including running a \"uv run datasette -p 6419 --root --secret 1 /tmp/demo.db\" development server so you can record the video against a demo DB that you first create. Now that I've released the feature the prompt could say \" run uvx shot-scraper video --help \" instead and it should achieve the same result. I really like this pattern where the --help output for a command provides enough detail that a coding agent can use it - it works kind of like bundling a SKILL.md file directly inside the tool. I used the same pattern for showboat and rodney . How I built this shot-scraper video started as an experimental prototype. shot-scraper is built on top of Playwright , and the key feature it needed was for Playwright to be able to record video of browser sessions with enough control to create the desired demo. I first tried this a few years ago and found that the Playwright-produced videos included additional chrome that was useful for debugging a test failure but unwanted for a product demo. They fixed that a while ago, but there were still some minor blockers. In particular I was getting a few white frames at the start of the videos , since the recording mechanism kicked in before the first URL was loaded by the browser. Playwright 1.59 added a new screencast mechanism providing much more finely grained control over video recording. This was very nearly what I needed, but the resulting videos were fixed at 800px wide. I found a landed PR fixing that but it wasn't yet in a release. Then yesterday they shipped it in playwright-python 1.61.0 and I was finally unblocked to finish implementing the feature! The code itself was all written by GPT-5.5 xhigh in Codex Desktop. I had it write the documentation as well which gave me a very useful frame for reviewing the design - much of the iteration on the feature came from reviewing that documentation, spotting things that were redundant, inconsistent or confusing, and requesting (or dictating) a better design. The YAML format itself was mostly defined by the coding agent. I had it use Pydantic to both define and validate the format, partly to make the design easier to review. This is a great example of the kind of feature that I almost certainly wouldn't have taken on without coding agent support. I filed the original issue in February 2024, and had difficulty finding the necessary time to solve this in amongst all of my other projects. Tags: projects , python , yaml , ai , datasette , playwright , shot-scraper , generative-ai , llms , pydantic , coding-agents , agentic-engineering",
+    "publishedAt": "2026-06-30T16:54:26.000Z",
+    "crawledAt": "2026-07-02T00:04:14.681Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live"
+  },
+  {
+    "id": "src_lilianweng-blog_31a2c7baf9b791a5",
+    "sourceConfigId": "lilianweng-blog",
+    "sourceType": "blog",
+    "sourceName": "Lil'Log",
+    "sourceUrl": "https://lilianweng.github.io/",
+    "title": "Lil'Log",
+    "rawSummary": "Document my learning notes.",
+    "publishedAt": "2026-07-02T00:04:14.733Z",
+    "crawledAt": "2026-07-02T00:04:14.733Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.85,
+    "crawlStatus": "live",
+    "extractedText": "Lil'Log Lil'Log | Posts Archive Search Tags FAQ 👋 Welcome to Lil&rsquo;Log Hi, this is Lilian. I&rsquo;m documenting my learning notes in this blog since 2017. Scaling Laws, Carefully Scaling laws are one of the most critical empirical findings in deep learning. The observation is simple in form: the training loss $L$ decreases predictably as we scale up model size $N$, dataset size $D$, and compute $C$, following a power-law curve, which appears as a straight line on a log-log plot. We can view scaling laws as a framework for describing the relationship between compute, loss, model size and data; at its core, it is about how to allocate precious compute optimally between $N$ and $D$. ... Date: June 24, 2026 | Estimated Reading Time: 25 min | Author: Lilian Weng Why We Think Special thanks to John Schulman for a lot of super valuable feedback and direct edits on this post. Test time compute (Graves et al. 2016, Ling, et al. 2017, Cobbe et al. 2021) and Chain-of-thought (CoT) (Wei et al. 2022, Nye et al. 2021), have led to significant improvements in model performance, while raising many research questions. This post aims to review recent developments in how to effectively use test-time compute (i.e. “thinking time”) and why it helps. ... Date: May 1, 2025 | Estimated Reading Time: 40 min | Author: Lilian Weng Reward Hacking in Reinforcement Learning Reward hacking occurs when a reinforcement learning (RL) agent exploits flaws or ambiguities in the reward function to achieve high rewards, without genuinely learning or completing the intended task. Reward hacking exists because RL environments are often imperfect, and it is fundamentally challenging to accurately specify a reward function. With the rise of language models generalizing to a broad spectrum of tasks and RLHF becomes a de facto method for alignment training, reward hacking in RL training of language models has become a critical practical challenge. Instances where the model learns to modify unit tests to pass coding tasks, or where responses contain biases that mimic a user’s preference, are pretty concerning and are likely one of the major blockers for real-world deployment of more autonomous use cases of AI models. ... Date: November 28, 2024 | Estimated Reading Time: 37 min | Author: Lilian Weng Extrinsic Hallucinations in LLMs Hallucination in large language models usually refers to the model generating unfaithful, fabricated, inconsistent, or nonsensical content. As a term, hallucination has been somewhat generalized to cases when the model makes mistakes. Here, I would like to narrow down the problem of hallucination to cases where the model output is fabricated and not grounded by either the provided context or world knowledge. There are two types of hallucination: In-context hallucination: The model output should be consistent with the source content in context. Extrinsic hallucination: The model output should be grounded by the pre-training dataset. However, given the size of the pre-training dataset, it is too expensive to retrieve and identify conflicts per generation. If we consider the pre-training data corpus as a proxy for world knowledge, we essentially try to ensure the model output is factual and verifiable by external world knowledge. Equally importantly, when the model does not know about a fact, it should say so. This post focuses on extrinsic hallucination. To avoid hallucination, LLMs need to be (1) factual and (2) acknowledge not knowing the answer when applicable. ... Date: July 7, 2024 | Estimated Reading Time: 29 min | Author: Lilian Weng Diffusion Models for Video Generation Diffusion models have demonstrated strong results on image synthesis in past years. Now the research community has started working on a harder task—using it for video generation. The task itself is a superset of the image case, since an image is a video of 1 frame, and it is much more challenging because: It has extra requirements on temporal consistency across frames in time, which naturally demands more world knowledge to be encoded into the model. In comparison to text or images, it is more difficult to collect large amounts of high-quality, high-dimensional video data, let along text-video pairs. 🥑 Required Pre-read: Please make sure you have read the previous blog on “What are Diffusion Models?” for image generation before continue here. ... Date: April 12, 2024 | Estimated Reading Time: 20 min | Author: Lilian Weng Thinking about High-Quality Human Data [Special thank you to Ian Kivlichan for many useful pointers (E.g. the 100+ year old Nature paper “Vox populi”) and nice feedback. 🙏 ] High-quality data is the fuel for modern data deep learning model training. Most of the task-specific labeled data comes from human annotation, such as classification task or RLHF labeling (which can be constructed as classification format) for LLM alignment training. Lots of ML techniques in the post can help with data quality, but fundamentally human data collection involves attention to details and careful execution. The community knows the value of high quality data, but somehow we have this subtle impression that “Everyone wants to do the model work, not the data work” (Sambasivan et al. 2021). ... Date: February 5, 2024 | Estimated Reading Time: 20 min | Author: Lilian Weng Adversarial Attacks on LLMs The use of large language models in the real world has strongly accelerated by the launch of ChatGPT. We (including my team at OpenAI, shoutout to them) have invested a lot of effort to build default safe behavior into the model during the alignment process (e.g. via RLHF). However, adversarial attacks or jailbreak prompts could potentially trigger the model to output something undesired. A large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space. Attacks for discrete data like text have been considered to be a lot more challenging, due to lack of direct gradie"
+  }
+]
