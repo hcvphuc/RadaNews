@@ -7,8 +7,8 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-07-02T00:04:14.883Z",
-    "crawledAt": "2026-07-02T00:04:14.883Z",
+    "publishedAt": "2026-07-02T12:51:56.065Z",
+    "crawledAt": "2026-07-02T12:51:56.065Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -25,8 +25,8 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-07-02T00:04:14.364Z",
-    "crawledAt": "2026-07-02T00:04:14.364Z",
+    "publishedAt": "2026-07-02T12:52:01.017Z",
+    "crawledAt": "2026-07-02T12:52:01.017Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:14.237Z",
-    "crawledAt": "2026-07-02T00:04:14.237Z",
+    "publishedAt": "2026-07-02T12:51:55.485Z",
+    "crawledAt": "2026-07-02T12:51:55.485Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:14.828Z",
-    "crawledAt": "2026-07-02T00:04:14.828Z",
+    "publishedAt": "2026-07-02T12:51:57.173Z",
+    "crawledAt": "2026-07-02T12:51:57.173Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-07-01T16:00:44.000Z",
-    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "crawledAt": "2026-07-02T12:51:56.217Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -100,7 +100,7 @@
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-06-29T16:01:14.000Z",
-    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "crawledAt": "2026-07-02T12:51:56.217Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -109,55 +109,55 @@
     "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_44314edbe53ccd73",
+    "id": "src_reddit-aiagents_48329576c57d286a",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ukrxdl/are_we_all_building_ai_agents_nobody_actually/",
-    "title": "Are we all building AI agents nobody actually needs?",
-    "rawSummary": "I've noticed that a lot of AI agents people build are for personal task like email assistants, meeting summaries, travel planners, shopping helpers, etc. They're cool demos, but I rarely see one that becomes something people genuinely use every day. So I'm curious: What's an AI agent you've built (or use) that has actually stuck? Or do you think we're still missing a \"killer app\" for agents that everyone would want? I'd love to hear real examples beyond demos or weekend projects. submitted by /u/starcholar [link] [comments]",
-    "publishedAt": "2026-07-01T17:19:46.000Z",
-    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ul9tpt/fable_5_is_now_back_here_are_some_of_the_prompts/",
+    "title": "Fable 5 is now back! Here are some of the prompts you should run until the usage window closes:",
+    "rawSummary": "Fable 5 is now back! Here are some of the prompts you should run until the usage window closes: Review all the code that was written after the date Fable was banned. Look for optimizations and improvements you can make Walk through every major user path in the app you're building using browser control. Write a report on where users can get confused and what I can do to improve the UX Make a checklist of every task you do from now until tonight. Then feed that task to Fable and ask what it could automate for you Feed it all your goals, ambitions, interests, skillsets, and assets. Ask what simple businesses it could help build for you over the next few weeks o you can make your first dollar online Connect to the X MCP and find 5 extremely helpful use cases other people are using Fable for that would be relevant to your workflows Connect it to the X MCP. Have it read your last 100 posts. Come up with 5 SaaS ideas you could build /loop it every 24 hours to do a security check on all your API endpoints in your existing apps Use the Unreal 5.8 MCP to build incredible, in-depth, 3D games Go to Sonnet 5 and ask based on what it knows about you, what would be some incredible prompts you can give to Fable tonight Leverage Fable 5 to the fullest 🤖 submitted by /u/eniolajani [link] [comments]",
+    "publishedAt": "2026-07-02T06:00:32.000Z",
+    "crawledAt": "2026-07-02T12:51:56.217Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "I've noticed that a lot of AI agents people build are for personal task like email assistants, meeting summaries, travel planners, shopping helpers, etc. They're cool demos, but I rarely see one that becomes something people genuinely use every day. So I'm curious: What's an AI agent you've built (or use) that has actually stuck? Or do you think we're still missing a \"killer app\" for agents that everyone would want? I'd love to hear real examples beyond demos or weekend projects. submitted by /u/starcholar [link] [comments]"
+    "extractedText": "Fable 5 is now back! Here are some of the prompts you should run until the usage window closes: Review all the code that was written after the date Fable was banned. Look for optimizations and improvements you can make Walk through every major user path in the app you're building using browser control. Write a report on where users can get confused and what I can do to improve the UX Make a checklist of every task you do from now until tonight. Then feed that task to Fable and ask what it could automate for you Feed it all your goals, ambitions, interests, skillsets, and assets. Ask what simple businesses it could help build for you over the next few weeks o you can make your first dollar online Connect to the X MCP and find 5 extremely helpful use cases other people are using Fable for that would be relevant to your workflows Connect it to the X MCP. Have it read your last 100 posts. Come up with 5 SaaS ideas you could build /loop it every 24 hours to do a security check on all your API endpoints in your existing apps Use the Unreal 5.8 MCP to build incredible, in-depth, 3D games Go to Sonnet 5 and ask based on what it knows about you, what would be some incredible prompts you can give to Fable tonight Leverage Fable 5 to the fullest 🤖 submitted by /u/eniolajani [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_ed36b1e7b22c9132",
+    "id": "src_reddit-aiagents_434e9fb2aaf5710b",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ukxu44/would_you_give_an_ai_agent_a_200_spending_limit/",
-    "title": "Would you give an AI agent a $200 spending limit?",
-    "rawSummary": "I’ve been thinking about this more now that AI agents are starting to touch actual business workflows instead of just docs and code. I don’t think I’d let an agent freely move money around but giving it a small locked down budget feels less insane. Like $200 for software trials, small vendor payments or routine stuff it already knows I need. The part that makes it interesting is the limit and not “AI has access to the company bank account” more like “AI can only spend inside this tiny box and everything else needs approval” Feels similar to giving a junior employee a card with a limit, except the agent is doing the boring repeat admin work. I’m not sure if this becomes normal or if it still feels too weird for most people submitted by /u/Cute-Dig2503 [link] [comments]",
-    "publishedAt": "2026-07-01T20:56:34.000Z",
-    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ulbhef/what_ai_agent_are_you_building_in_2026_share_your/",
+    "title": "What AI Agent Are You Building in 2026? Share Your Stack, Challenges & Lessons",
+    "rawSummary": "Hi everyone, I'm curious to see what everyone in this community is building with AI agents. If you're working on an agent, I'd love to know: What problem does it solve? Which models are you using? What framework or SDK did you choose (LangGraph, CrewAI, OpenAI Agents SDK, AutoGen, etc.)? Are you using MCP, RAG, memory, or browser automation? What's been the biggest challenge you've faced? Any lessons or best practices you'd share with others? Whether your project is a personal experiment, an open-source tool, or a production system, feel free to share your architecture, screenshots, demos, or GitHub links. Looking forward to learning from everyone's experiences and discovering interesting AI agent projects! submitted by /u/Humble_Sentence_3758 [link] [comments]",
+    "publishedAt": "2026-07-02T07:35:46.000Z",
+    "crawledAt": "2026-07-02T12:51:56.217Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "I’ve been thinking about this more now that AI agents are starting to touch actual business workflows instead of just docs and code. I don’t think I’d let an agent freely move money around but giving it a small locked down budget feels less insane. Like $200 for software trials, small vendor payments or routine stuff it already knows I need. The part that makes it interesting is the limit and not “AI has access to the company bank account” more like “AI can only spend inside this tiny box and everything else needs approval” Feels similar to giving a junior employee a card with a limit, except the agent is doing the boring repeat admin work. I’m not sure if this becomes normal or if it still feels too weird for most people submitted by /u/Cute-Dig2503 [link] [comments]"
+    "extractedText": "Hi everyone, I'm curious to see what everyone in this community is building with AI agents. If you're working on an agent, I'd love to know: What problem does it solve? Which models are you using? What framework or SDK did you choose (LangGraph, CrewAI, OpenAI Agents SDK, AutoGen, etc.)? Are you using MCP, RAG, memory, or browser automation? What's been the biggest challenge you've faced? Any lessons or best practices you'd share with others? Whether your project is a personal experiment, an open-source tool, or a production system, feel free to share your architecture, screenshots, demos, or GitHub links. Looking forward to learning from everyone's experiences and discovering interesting AI agent projects! submitted by /u/Humble_Sentence_3758 [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_794e16778eb3c6a6",
+    "id": "src_reddit-aiagents_5b99712e2626b40a",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ukqlof/what_are_your_thoughts_on_keeping_coding_agents/",
-    "title": "What are your thoughts on keeping coding agents on 24/7 when building something new?",
-    "rawSummary": "When you’re building a new project, do you usually treat agents as something you run for an individual task (only to stop after the job is finished), or do you keep them running continuously in the background with some sort of cron job (loops, that is)? For example, do you have agents constantly working through issues, testing or even suggesting and implementing new features you didn't specify at first? I’m especially curious about people who do keep agents running for long periods. What makes that worth it both money and process-wise? Is it mainly speed, parallelism, overnight progress, or something else? And where does it break down when it fails; bad context, hallucinated changes, lack of trust, or not knowing what exactly happened in the system? Also, for people who keep agents on 24/7: how are you actually doing it technically? Are you using a spare computer, Mac mini, VPS, GitHub Actions, n8n, or some custom orchestration setup? I’m trying to understand what a practical always-on dev-agent loop looks like in real life. submitted by /u/Fun_Cantaloupe_3099 [link] [comments]",
-    "publishedAt": "2026-07-01T16:31:25.000Z",
-    "crawledAt": "2026-07-02T00:04:15.034Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1ulhe2b/ai_chatbot_recommendations_for_a_small_business/",
+    "title": "AI chatbot recommendations for a small business?",
+    "rawSummary": "I run a small HVAC company. People hit me up everywhere website form, Facebook, texts. I'll be out on a job and come back to messages sitting in four different places, mostly the same stuff like do you service my area? or how much for a tune-up? I keep hearing there's AI stuff now that can handle the basic questions automatically, so you're not answering the same things all day. Was looking to set something like this up. Anyone using one for a business like mine? Would appreciate some suggestions, and how's your experience been with it? submitted by /u/DarkShadow_207 [link] [comments]",
+    "publishedAt": "2026-07-02T12:50:42.000Z",
+    "crawledAt": "2026-07-02T12:51:56.217Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "When you’re building a new project, do you usually treat agents as something you run for an individual task (only to stop after the job is finished), or do you keep them running continuously in the background with some sort of cron job (loops, that is)? For example, do you have agents constantly working through issues, testing or even suggesting and implementing new features you didn't specify at first? I’m especially curious about people who do keep agents running for long periods. What makes that worth it both money and process-wise? Is it mainly speed, parallelism, overnight progress, or something else? And where does it break down when it fails; bad context, hallucinated changes, lack of trust, or not knowing what exactly happened in the system? Also, for people who keep agents on 24/7: how are you actually doing it technically? Are you using a spare computer, Mac mini, VPS, GitHub Actions, n8n, or some custom orchestration setup? I’m trying to understand what a practical always-on dev-agent loop looks like in real life. submitted by /u/Fun_Cantaloupe_3099 [link] [comments]"
+    "extractedText": "I run a small HVAC company. People hit me up everywhere website form, Facebook, texts. I'll be out on a job and come back to messages sitting in four different places, mostly the same stuff like do you service my area? or how much for a tune-up? I keep hearing there's AI stuff now that can handle the basic questions automatically, so you're not answering the same things all day. Was looking to set something like this up. Anyone using one for a business like mine? Would appreciate some suggestions, and how's your experience been with it? submitted by /u/DarkShadow_207 [link] [comments]"
   },
   {
     "id": "src_stability-ai-blog_2026-07-02_fallback",
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:14.582Z",
-    "crawledAt": "2026-07-02T00:04:14.582Z",
+    "publishedAt": "2026-07-02T12:51:55.601Z",
+    "crawledAt": "2026-07-02T12:51:55.601Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
-    "publishedAt": "2026-07-02T00:04:15.036Z",
-    "crawledAt": "2026-07-02T00:04:15.036Z",
+    "publishedAt": "2026-07-02T12:51:56.361Z",
+    "crawledAt": "2026-07-02T12:51:56.361Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-07-02T00:04:14.834Z",
-    "crawledAt": "2026-07-02T00:04:14.834Z",
+    "publishedAt": "2026-07-02T12:51:56.059Z",
+    "crawledAt": "2026-07-02T12:51:56.059Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -223,8 +223,8 @@
     "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:14.416Z",
-    "crawledAt": "2026-07-02T00:04:14.416Z",
+    "publishedAt": "2026-07-02T12:51:55.653Z",
+    "crawledAt": "2026-07-02T12:51:55.653Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -232,7 +232,7 @@
     "score": 0.403,
     "crawlStatus": "fallback",
     "crawlError": "Fetch failed 429 Too Many Requests",
-    "extractedText": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+    "extractedText": "2026-07-02T12:52:02+00:00 https://www.redditstatic.com/icon.png/ /r/StableDiffusion/.rss /r/StableDiffusion is an unofficial community embracing the open-source material of all related. Post art, ask questions, create discussions, contribute new tech, or browse the subreddit. It’s up to you. StableDiffusion /u/Angrypenguinpng https://www.reddit.com/user/Angrypenguinpng Hey everyone, We&#39;re the team behind Krea, and today we&#39;re launching Krea 2 , our new text-to-image model. Krea 2 is the most aesthetic open-source image model available. On quality, Krea 2 is the #1 text-to-image model from an independent lab on Artificial Analysis. We are releasing Krea 2 as two variants: Krea 2 Raw. CFG-guided, built for control and fidelity and training. Krea 2 Turbo. Distilled and few-step, so it&#39;s fast, and it renders up to 2K. A few things worth knowing: It&#39;s tuned for natural language. Prompt it the way you&#39;d describe an image to a person. Long, specific prompts give the best results, but short ones work fine too. To render text in an image, wrap the words in quotes, like a sign that reads &quot;open late&quot;. There&#39;s a growing set of style LoRAs, and you can load any Krea 2 LoRA by its Hugging Face path. Try it today: Code and weights: krea.ai/krea-2-open-source Technical report: https://www.krea.ai/blog/krea-2-technical-report Code: github.com/krea-ai/krea-2 Try it on Krea: krea.ai Try it on Hugging Face: https://huggingface.co/spaces/krea/Krea-2 AMA: We&#39;re doing an AMA right here today at 10 AM PT . Ask us anything: how we trained it, the LoRAs, prompting, limitations, what&#39;s next. The krea team will be in the comments. Livestream: we are also doing a livestream with the ComfyUI team at 3PM PT: https://www.youtube.com/watch?v=31jiUhCEjJ4 Thanks for taking a look. We&#39;d genuinely love your feedback, rough edges included. - The Krea Team &#32; submitted by &#32; /u/Angrypenguinpng [link] &#32; [comments] t3_1udjzm6 2026-06-23T15:16:29+00:00 2026-06-23T15:16:29+00:00 KREA 2: Open-Source Release /u/WhatDreamsCost https://www.reddit.com/user/WhatDreamsCost LTX Director is a free open source all-in-one tool for creating AI Videos. Version 2.0 is a complete overhaul, giving you total creative control over your AI generations. Download for free here: https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI Download workflows here: https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI/tree/main/example_workflows I&#39;ve been working full-time on this update for the past month and a half, and I&#39;m excited to finally release it. Hopefully it&#39;ll be a big help to the open-source community! Key New Features: Complete Video Support: Edit Videos with AI all inside the node. Videos can be extended using a combination of prompts, keyframes, and audio. Trim, Split, and combine videos all within the timeline. IC-LoRA Support: Take full advantage of IC-LoRA&#39;s to take your generations to the next level. Simply drag and drop videos onto the IC-LoRA track to quickly setup IC-LoRA videos. Compatible with prompt relay, keyframe, and custom audio features within the node. Audio Inpainting: Seamlessly blend imported audio with generated audio. Not only can audio be extended, but can also be prompted alongside your imprted audio to really bring your generations to life. Retake Mode (Beta): Redirect what happens within a shot. Allows you to select a segment within a video, and re-generate what happens in that segment. An early working experiment. Timeline Saving/Loading: You can now save your timeline and settings to a json file. It will keep any videos/audio/images you have imported into the node and every setting you have changed. UI Overhaul: Huge update to the UI, dozens of big changes such as a new side bar, redesigned prompt boxes, a bunch of new settings and redesigned menus, and more. Quality of Life Improvements: Snapping, in/out points, multi-select, mark selection, workspace folder, more HUD options, resizable prompt boxes, new hotkeys, labels, filename preview options, &quot;split at playhead&quot; functionality, end frames (convert any keyframe into a end/last frame), toggleable tracks, NAG Support, tons of bug fixes and more! And of course it can do everything it could before: Text to Video, Image to Video, Prompt Relay support, Keyframe (first/last frame) support etc. &#32; submitted by &#32; /u/WhatDreamsCost [link] &#32; [comments] t3_1ub4jpk 2026-06-20T19:00:26+00:00 2026-06-20T19:00:26+00:00 LTX Director 2.0 Update - A Free Open Source All-In-One Tool for Creating AI Videos in ComfyUI. Complete Overhaul now with full AI video editing support, IC-LoRA, Retake Mode, Audio Inpainting and much more! /u/lazyspock https://www.reddit.com/user/lazyspock (PROMPTS AT THE END) As a follow-up to a post I published yesterday , which seemed to be helpful to some people, I decided to make a more thorough comparison between the &quot;pure&quot; Krea2 Turbo model and the same model with three different de-censor LoRAs: two tiny LoRAs, around 200 bytes each, that only change a few weights with the sole purpose of de-censoring the model, and one &quot;real&quot;, trained LoRA. A few notes: This comparison is NOT focused on NOT-SFW content. The goal is to show how the model&#39;s censoring also ended up nerfing it for many SFW uses , such as facial expressions, bruises, body builds, emotions, and so on. That said, please remember that de-censoring the model DOES make it more suscetible to create not-SFW images, so please BE CAREFUL. I included four images in each set: one generated without any LoRA, one with Krea2FilterBypass V2 (weight 10), one with Krea2FilterBypass V3 (weight 10), and finally one using the SNOFS LoRA (weight 1). Sorry, I can&#39;t link it here, but it is on Civitai Red. Please note that I only included the SNOFS LoRA because some people mentioned in yesterday&#39;s post that they use this and other &quot;real&quot; trained LoRAs, and started to show their "
   },
   {
     "id": "src_reddit-comfyui_2026-07-02_fallback",
@@ -242,8 +242,8 @@
     "sourceUrl": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:14.416Z",
-    "crawledAt": "2026-07-02T00:04:14.416Z",
+    "publishedAt": "2026-07-02T12:51:55.648Z",
+    "crawledAt": "2026-07-02T12:51:55.648Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -261,8 +261,8 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-07-02T00:04:14.407Z",
-    "crawledAt": "2026-07-02T00:04:14.407Z",
+    "publishedAt": "2026-07-02T12:51:55.651Z",
+    "crawledAt": "2026-07-02T12:51:55.651Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -279,8 +279,8 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Pika blog",
     "rawSummary": "Discover stories, experiments, and insights from the Pika community",
-    "publishedAt": "2026-07-02T00:04:14.632Z",
-    "crawledAt": "2026-07-02T00:04:14.632Z",
+    "publishedAt": "2026-07-02T12:51:55.814Z",
+    "crawledAt": "2026-07-02T12:51:55.814Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -297,8 +297,8 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-07-02T00:04:14.977Z",
-    "crawledAt": "2026-07-02T00:04:14.977Z",
+    "publishedAt": "2026-07-02T12:51:56.126Z",
+    "crawledAt": "2026-07-02T12:51:56.126Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -315,8 +315,8 @@
     "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:14.497Z",
-    "crawledAt": "2026-07-02T00:04:14.497Z",
+    "publishedAt": "2026-07-02T12:51:55.849Z",
+    "crawledAt": "2026-07-02T12:51:55.849Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -334,8 +334,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-07-02T00:04:14.746Z",
-    "crawledAt": "2026-07-02T00:04:14.746Z",
+    "publishedAt": "2026-07-02T12:51:55.948Z",
+    "crawledAt": "2026-07-02T12:51:55.948Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -352,8 +352,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
-    "publishedAt": "2026-07-02T00:04:14.489Z",
-    "crawledAt": "2026-07-02T00:04:14.489Z",
+    "publishedAt": "2026-07-02T12:51:55.700Z",
+    "crawledAt": "2026-07-02T12:51:55.700Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -369,8 +369,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:15.290Z",
-    "crawledAt": "2026-07-02T00:04:15.290Z",
+    "publishedAt": "2026-07-02T12:51:56.246Z",
+    "crawledAt": "2026-07-02T12:51:56.246Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -388,8 +388,8 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
     "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
-    "publishedAt": "2026-07-02T00:04:15.078Z",
-    "crawledAt": "2026-07-02T00:04:15.078Z",
+    "publishedAt": "2026-07-02T12:51:56.103Z",
+    "crawledAt": "2026-07-02T12:51:56.103Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -406,8 +406,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
     "rawSummary": "News and updates from the ComfyUI Team. Click to read ComfyUI Newsletter, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-07-02T00:04:14.734Z",
-    "crawledAt": "2026-07-02T00:04:14.734Z",
+    "publishedAt": "2026-07-02T12:51:55.815Z",
+    "crawledAt": "2026-07-02T12:51:55.815Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -425,8 +425,8 @@
     "sourceUrl": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:14.559Z",
-    "crawledAt": "2026-07-02T00:04:14.559Z",
+    "publishedAt": "2026-07-02T12:51:55.793Z",
+    "crawledAt": "2026-07-02T12:51:55.793Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -444,8 +444,8 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-07-02T00:04:15.564Z",
-    "crawledAt": "2026-07-02T00:04:15.564Z",
+    "publishedAt": "2026-07-02T12:51:56.581Z",
+    "crawledAt": "2026-07-02T12:51:56.581Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -462,8 +462,8 @@
     "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-07-02T00:04:14.660Z",
-    "crawledAt": "2026-07-02T00:04:14.660Z",
+    "publishedAt": "2026-07-02T12:51:55.831Z",
+    "crawledAt": "2026-07-02T12:51:55.831Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -481,8 +481,8 @@
     "sourceUrl": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
     "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "publishedAt": "2026-07-02T00:04:14.757Z",
-    "crawledAt": "2026-07-02T00:04:14.757Z",
+    "publishedAt": "2026-07-02T12:51:55.929Z",
+    "crawledAt": "2026-07-02T12:51:55.929Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -491,7 +491,7 @@
     ],
     "score": 0.85,
     "crawlStatus": "live",
-    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine kogai • 7 days ago • 32 Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 3 days ago • 19 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16 Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • about 22 hours ago • 16 VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 5 days ago • 13 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 8 days ago • 42 VLX-Seek: Improving VLM Fine-Grained Perception via Region Reference Instead of Coordinate Generation omlab • 4 days ago • 12 VLX-Go: Vision-Language Short-Horizon Waypoint Prediction for Embodied Navigation omlab • 4 days ago • 11 Which tokens does a hybrid model predict better? allenai • 6 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 357 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness ibm-research • 8 days ago • 36 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 22 days ago • 79 Continuous batching for GRPO, now in TRL sergiopaniego • 12 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 870 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • about 9 hours ago • 4 Heretic Grimoire VINAY-UMRETHE • 1 day ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 353 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 33 OlmoLogic: Boosting Reasoning via RLVR with Inductive Logic Programming LukasHug • 5 days ago • 3 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • about 1 month ago • 18 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 13 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 22 June 30, 2026 Why Specialization Is Inevitable 5 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 35 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 7 June 24, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 19 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 6 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 26 June 22, 2026 guide open-source-collab We got local models to triage the OpenClaw repo for FREE!* 7 June 22, 2026 MosaicLeaks: Can your research agent keep a secret? 13 June 18, 2026 peft lora guide Beyond LoRA: Can you beat the most popular fine-tuning technique? 70 June 18, 2026 Previous 1 2 3 ... 59 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine kogai • 7 days ago • 32 Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 3 days ago • 19 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16 Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • about 22 hours ago • 16 VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 5 days ago • 13 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 8 days ago • 42 VLX-Seek: Improving VLM Fine-Grained Perception via Region Reference Instead of Coordinate Generation omlab • 4 days ago • 12 VLX-Go: Vision-Language Short-Horizon Waypoint Prediction for Embodied Navigation omlab • 4 days ago • 11 Which tokens does a hybrid model predict better? allenai • 6 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 357 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness ibm-research • 8 days ago • 36 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 22 days ago • 79 Continuous batching for GRPO, now in TRL sergiopaniego • 12 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 870 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • about 9 hours ago • 4 Heretic Grimoire VINAY-UMRETHE • 1 day ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 353 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 33 OlmoLogic: Boosting Reasoning via RLVR with Inductive Logic Programming LukasHug • 5 days ago • 3 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • about 1 month ago • 18 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricin",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 3 days ago • 19 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 3 days ago • 17 Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • 1 day ago • 16 VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 6 days ago • 13 VLX-Seek: Improving VLM Fine-Grained Perception via Region Reference Instead of Coordinate Generation omlab • 5 days ago • 12 VLX-Go: Vision-Language Short-Horizon Waypoint Prediction for Embodied Navigation omlab • 4 days ago • 11 Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine kogai • 8 days ago • 32 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 8 days ago • 43 Which tokens does a hybrid model predict better? allenai • 7 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 357 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness ibm-research • 9 days ago • 36 Continuous batching for GRPO, now in TRL sergiopaniego • 13 days ago • 8 Heretic Grimoire VINAY-UMRETHE • 2 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 870 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 28 days ago • 68 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 23 days ago • 79 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • about 22 hours ago • 4 DukaanBench: Can AI Run an Indian Grocery Store for 30 Days? 77ethers • 5 days ago • 4 AstroBERT Small: Domain-specialized small models NeuML • 1 day ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 353 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 18 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 23 June 30, 2026 Why Specialization Is Inevitable 5 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 35 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 7 June 24, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 19 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 6 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 26 June 22, 2026 guide open-source-collab We got local models to triage the OpenClaw repo for FREE!* 7 June 22, 2026 MosaicLeaks: Can your research agent keep a secret? 13 June 18, 2026 peft lora guide Beyond LoRA: Can you beat the most popular fine-tuning technique? 70 June 18, 2026 Previous 1 2 3 ... 59 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 3 days ago • 19 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 3 days ago • 17 Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • 1 day ago • 16 VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 6 days ago • 13 VLX-Seek: Improving VLM Fine-Grained Perception via Region Reference Instead of Coordinate Generation omlab • 5 days ago • 12 VLX-Go: Vision-Language Short-Horizon Waypoint Prediction for Embodied Navigation omlab • 4 days ago • 11 Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine kogai • 8 days ago • 32 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 8 days ago • 43 Which tokens does a hybrid model predict better? allenai • 7 days ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 357 Build real agentic apps using CUGA: two dozen working examples on a lightweight harness ibm-research • 9 days ago • 36 Continuous batching for GRPO, now in TRL sergiopaniego • 13 days ago • 8 Heretic Grimoire VINAY-UMRETHE • 2 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 870 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • 28 days ago • 68 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • 23 days ago • 79 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • about 22 hours ago • 4 DukaanBench: Can AI Run an Indian Grocery Store for 30 Days? 77ethers • 5 days ago • 4 AstroBERT Small: Domain-specialized small models NeuML • 1 day ago • 4 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 353 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
     "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
   },
   {
@@ -503,7 +503,7 @@
     "title": "Quoting Anthropic",
     "rawSummary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash; Anthropic , on Twitter Tags: anthropic , claude , generative-ai , claude-mythos , ai , llms",
     "publishedAt": "2026-06-30T23:58:15.000Z",
-    "crawledAt": "2026-07-02T00:04:14.680Z",
+    "crawledAt": "2026-07-02T12:51:55.808Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -521,7 +521,7 @@
     "title": "Nano Banana 2 Lite",
     "rawSummary": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image ( gemini-3.1-flash-lite-image in their API ), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run this prompt: Do a where's Waldo style image but it's where is the raccoon holding a ham radio I like that one better than the results I got from the other Nano Banana models when I tried this back in April. It spelled Forest Festival wrong in two different ways though. Via Hacker News Tags: google , ai , generative-ai , llms , gemini , text-to-image , llm-release , nano-banana",
     "publishedAt": "2026-06-30T22:15:35.000Z",
-    "crawledAt": "2026-07-02T00:04:14.680Z",
+    "crawledAt": "2026-07-02T12:51:55.808Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -540,7 +540,7 @@
     "title": "What's new in Claude Sonnet 5",
     "rawSummary": "What's new in Claude Sonnet 5 Claude Sonnet 5 came out this morning . I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post. Anthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but at lower prices\". The system card helps explain how they were able to release the model without being blocked by the US government: Sonnet 5 is significantly less capable at cyber tasks than Mythos 5: its safeguards are thus similar to those we apply to Opus 4.7 and Opus 4.8 (models that are more capable than Sonnet 5 but much less capable than Mythos 5). Of note from the \"what's new\" API changes: Sampling parameters temperature , top_p , top_k are no longer supported. It has a 1 million token context window and 128,000 maximum output tokens. It features \"the same set of tools and platform features as Claude Sonnet 4.6\" Adaptive thinking is on by default, unless you specify \"thinking\": {type: \"disabled\"} . The pricing is the same as Sonnet 4.6: $3/million input, $15/million input, with an introductory discount to $2/$10 until 31st August. But... The model has a new tokenizer, where \"The same input text produces approximately 30% more tokens than on Claude Sonnet 4.6.\" - effectively a 30% price increase. I used my Claude Token Counter tool to try out the new tokenizer. Here are my results for several larger documents: Document Sonnet 4.6 Opus 4.7 Sonnet 5 Universal Declaration of Human Rights (English) 2,356 3,347 1.42x 3,341 1.42x Universal Declaration of Human Rights (Spanish) 3,572 4,753 1.33x 4,747 1.33x Universal Declaration of Human Rights (Chinese, Mandarin Simplified) 3,334 3,366 1.01x 3,360 1.01x sqlite_utils/db.py (4,279 lines of Python) 44,014 56,118 1.28x 56,113 1.27x So the new token is roughly 1.4x times more expensive for English, 1.33x for Spanish, 1.28x for Python code and effectively the same cost for Simplified Mandarin. Here's the pelican . It's nothing to write home about. Sonnet 5 thinks it looks like a goose. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , pelican-riding-a-bicycle , llm-release",
     "publishedAt": "2026-06-30T21:23:02.000Z",
-    "crawledAt": "2026-07-02T00:04:14.680Z",
+    "crawledAt": "2026-07-02T12:51:55.808Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -559,7 +559,7 @@
     "title": "The AI Compass",
     "rawSummary": "The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my answers on my first time through the quiz categorized me as \"The Garage Tinkerer\", patron saint myself! It's implemented as a single page React app using the trick to avoid the necessary build step. Here's the code . Via @erisianrite.com Tags: ai , generative-ai , llms , ai-ethics",
     "publishedAt": "2026-06-30T17:39:23.000Z",
-    "crawledAt": "2026-07-02T00:04:14.681Z",
+    "crawledAt": "2026-07-02T12:51:55.808Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -577,7 +577,7 @@
     "title": "Have your agent record video demos of its work with shot-scraper video",
     "rawSummary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that routine. I've written before about the importance of having coding agents produce demos of their work; this is my latest attempt at enabling them to do that. Here's an example video created using shot-scraper video , exercising a still in development feature adding the ability to create new tables in Datasette from pasted CSV, TSV or JSON data: That video was created by running this command : shot-scraper video datasette-bulk-insert-storyboard.yml \\ --auth datasette-demo-auth.json --mp4 (That --auth JSON file contains a cookie , as described here in the documentation.) Here's the datasette-bulk-insert-storyboard.yml file: output : /tmp/datasette-bulk-insert-demo.webm server : - uv - --directory - /Users/simon/Dropbox/dev/datasette - run - datasette - -p - 6419 - --root - --secret - \" 1 \" - /tmp/demo.db url : http://127.0.0.1:6419/demo/tasks viewport : width : 1280 height : 720 cursor : true wait_for : ' button[data-table-action=\"insert-row\"] ' javascript : | (() => { let clipboardText = \"\"; Object.defineProperty(navigator, \"clipboard\", { configurable: true, get: () => ({ writeText: async (text) => { clipboardText = String(text); }, readText: async () => clipboardText, }), }); })(); scenes : - name : Bulk insert existing table rows do : - pause : 0.8 - click : ' button[data-table-action=\"insert-row\"] ' - wait_for : \" #row-edit-dialog[open] \" - pause : 0.5 - click : \" .row-edit-bulk-insert \" - wait_for : \" .row-edit-bulk-textarea \" - pause : 0.5 - click : \" .row-edit-copy-template \" - wait_for : \" text=Copied \" - pause : 0.8 - fill : into : \" .row-edit-bulk-textarea \" text : | title,owner,status,priority,notes Prepare release video,Ana,doing,1,Recorded with shot-scraper Check pasted CSV import,Ben,review,3,Previewed before inserting Share the branch demo,Chen,queued,2,Bulk insert creates three rows - pause : 0.8 - click : \" .row-edit-save \" - wait_for : \" text=Previewing 3 rows. \" - pause : 1.2 - click : \" .row-edit-save \" - wait_for : \" text=3 rows inserted. \" - pause : 1.0 - click : \" .row-edit-cancel \" - wait_for : \" text=Prepare release video \" - pause : 1.0 - name : Create a table from pasted CSV open : http://127.0.0.1:6419/demo wait_for : ' details.actions-menu-links summary ' do : - pause : 0.8 - click : ' details.actions-menu-links summary ' - click : ' button[data-database-action=\"create-table\"] ' - wait_for : \" #table-create-dialog[open] \" - pause : 0.5 - fill : into : \" .table-create-table-name \" text : \" launch_metrics \" - click : \" .table-create-from-data \" - wait_for : \" .table-create-data-textarea \" - pause : 0.5 - fill : into : \" .table-create-data-textarea \" text : | metric_id,name,score,recorded_on m001,Activation rate,87.5,2026-06-29 m002,Retention check,72.25,2026-06-30 m003,CSV import health,95,2026-07-01 - pause : 0.8 - click : \" .table-create-save \" - wait_for : \" text=Previewing 3 rows. \" - pause : 1.2 - click : \" .table-create-save \" - wait_for_url : \" **/demo/launch_metrics \" - wait_for : \" text=Activation rate \" - pause : 1.2 The video command documentation includes simpler examples, but for the purpose of this post I thought I'd go with something more comprehensive. That demo YAML storyboard was constructed entirely by GPT-5.5 xhigh running in Codex Desktop, using the following prompt run inside my ~/dev/datasette checkout of this branch : Review the changes on this branch. cd to ~/dev/shot-scraper and run the command \"uv run shot-scraper video --help\" Now use that new video command to record a video demo of the new features from this branch, including running a \"uv run datasette -p 6419 --root --secret 1 /tmp/demo.db\" development server so you can record the video against a demo DB that you first create. Now that I've released the feature the prompt could say \" run uvx shot-scraper video --help \" instead and it should achieve the same result. I really like this pattern where the --help output for a command provides enough detail that a coding agent can use it - it works kind of like bundling a SKILL.md file directly inside the tool. I used the same pattern for showboat and rodney . How I built this shot-scraper video started as an experimental prototype. shot-scraper is built on top of Playwright , and the key feature it needed was for Playwright to be able to record video of browser sessions with enough control to create the desired demo. I first tried this a few years ago and found that the Playwright-produced videos included additional chrome that was useful for debugging a test failure but unwanted for a product demo. They fixed that a while ago, but there were still some minor blockers. In particular I was getting a few white frames at the start of the videos , since the recording mechanism kicked in before the first URL was loaded by the browser. Playwright 1.59 added a new screencast mechanism providing much more finely grained control over video recording. This was very nearly what I needed, but the resulting videos were fixed at 800px wide. I found a landed PR fixing that but it wasn't yet in a release. Then yesterday they shipped it in playwright-python 1.61.0 and I was finally unblocked to finish implementing the feature! The code itself was all written by GPT-5.5 xhigh in Codex Desktop. I had it write the documentation as well which gave me a very useful frame for reviewing the design - much of the iteration on the feature came from reviewing that documentation, spotting things that were redundant, inconsistent or confusing, and requesting (or dictating) a better design. The YAML format itself was mostly defined by the coding agent. I had it use Pydantic to both define and validate the format, partly to make the design easier to review. This is a great example of the kind of feature that I almost certainly wouldn't have taken on without coding agent support. I filed the original issue in February 2024, and had difficulty finding the necessary time to solve this in amongst all of my other projects. Tags: projects , python , yaml , ai , datasette , playwright , shot-scraper , generative-ai , llms , pydantic , coding-agents , agentic-engineering",
     "publishedAt": "2026-06-30T16:54:26.000Z",
-    "crawledAt": "2026-07-02T00:04:14.681Z",
+    "crawledAt": "2026-07-02T12:51:55.809Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -593,8 +593,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-07-02T00:04:14.733Z",
-    "crawledAt": "2026-07-02T00:04:14.733Z",
+    "publishedAt": "2026-07-02T12:51:55.892Z",
+    "crawledAt": "2026-07-02T12:51:55.892Z",
     "categoryHints": [
       "ai-agentic"
     ],
