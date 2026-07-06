@@ -328,12 +328,12 @@
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
-      "agentic-workflow",
+      "ai-agents",
       "anthropic",
       "software-engineering",
-      "llm-cost-optimization"
+      "llm-workflow"
     ],
-    "publishedAt": "2026-07-06T00:02:45.693Z",
+    "publishedAt": "2026-07-06T14:18:39.370Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-07-06"
   },
@@ -345,51 +345,15 @@
     "title": "Research \\ Anthropic: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "agentic-engineering",
       "vibe-coding",
+      "agentic-engineering",
       "llm-tool-use",
-      "software-development",
-      "anthropic"
+      "anthropic-claude",
+      "software-architecture"
     ],
-    "publishedAt": "2026-07-06T00:04:35.956Z",
+    "publishedAt": "2026-07-06T14:20:32.399Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-07-06"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_building-a-world-map-with-only-500-bytes_2026-07-06_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Building a World Map with only 500 bytes: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Vercel AI Blog, Replit Blog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "optimization",
-      "software-engineering",
-      "llm-orchestration"
-    ],
-    "publishedAt": "2026-07-06T00:03:43.131Z",
-    "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/building-a-world-map-with-only-500-bytes-goc-nhin-cho-creat-2026-07-06"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_building-a-world-map-with-only-500-bytes_2026-07-06_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "Building a World Map with only 500 bytes: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Vercel AI Blog, Replit Blog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "autonomous-workflows",
-      "extreme-optimization",
-      "llm-development"
-    ],
-    "publishedAt": "2026-07-06T00:05:19.985Z",
-    "readingTime": 4,
-    "url": "/en/ai-vibe-coding/building-a-world-map-with-only-500-bytes-creator-and-builde-2026-07-06"
   },
   {
     "id": "cluster_ai-agentic_1_news-luma_2026-07-06_vi",
@@ -399,15 +363,14 @@
     "title": "News | Luma: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Luma Labs Blog, Cursor Changelog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "AI-Agents",
       "LumaAI",
       "Cursor",
-      "AI-Agents",
-      "CreativeWorkflow",
-      "MCP",
-      "FreelancingRisk"
+      "Workflow-Automation",
+      "MCP"
     ],
-    "publishedAt": "2026-07-06T00:04:21.831Z",
-    "readingTime": 3,
+    "publishedAt": "2026-07-06T14:18:24.491Z",
+    "readingTime": 4,
     "url": "/vi/ai-agentic/news-luma-goc-nhin-cho-creator-va-builder-2026-07-06"
   },
   {
@@ -418,13 +381,14 @@
     "title": "News | Luma: creator and builder analysis",
     "subtitle": "Signal synthesized from r/AI_Agents, Luma Labs Blog, Cursor Changelog, scored by recency, content depth, and source reliability.",
     "tags": [
+      "AI Agents",
       "Luma AI",
-      "Agentic Workflows",
-      "Cursor MCP",
-      "AI Economy",
-      "Generative Video"
+      "Cursor",
+      "MCP",
+      "Workflow Automation",
+      "Outcome-Based Pricing"
     ],
-    "publishedAt": "2026-07-06T00:06:06.720Z",
+    "publishedAt": "2026-07-06T14:20:55.464Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/news-luma-creator-and-builder-analysis-2026-07-06"
   },
@@ -436,13 +400,13 @@
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Video",
-      "Runway-AI",
-      "World-Models",
-      "Open-Innovation",
-      "Generative-AI"
+      "AI Video",
+      "World Models",
+      "Runway AI",
+      "Open Innovation",
+      "Multimodal AI"
     ],
-    "publishedAt": "2026-07-06T00:04:03.271Z",
+    "publishedAt": "2026-07-06T14:19:33.050Z",
     "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-07-06"
   },
@@ -454,15 +418,51 @@
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Video",
-      "World Models",
-      "Open Weights",
-      "Multimodal AI",
-      "Runway ML"
+      "AI-Video",
+      "World-Models",
+      "Open-Weights",
+      "Runway-AI",
+      "Diffusion-Models"
     ],
-    "publishedAt": "2026-07-06T00:05:01.427Z",
+    "publishedAt": "2026-07-06T14:21:40.044Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-07-06"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-06_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Replit — Replit Blog – Product updates from the team: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Vercel AI Blog, Replit Blog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "vibe-coding",
+      "replit-agent",
+      "ai-agents",
+      "developer-productivity",
+      "llm-cost"
+    ],
+    "publishedAt": "2026-07-06T14:19:00.027Z",
+    "readingTime": 4,
+    "url": "/vi/ai-vibe-coding/replit-replit-blog-product-updates-from-the-team-goc-nh-2026-07-06"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-06_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Replit — Replit Blog – Product updates from the team: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/AI_Agents, Vercel AI Blog, Replit Blog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "vibe-coding",
+      "ai-agents",
+      "replit",
+      "software-engineering",
+      "token-economics"
+    ],
+    "publishedAt": "2026-07-06T14:21:13.760Z",
+    "readingTime": 4,
+    "url": "/en/ai-vibe-coding/replit-replit-blog-product-updates-from-the-team-creato-2026-07-06"
   },
   {
     "id": "cluster_ai-video_1_ai-ai_2026-07-06_vi",
@@ -474,11 +474,11 @@
     "tags": [
       "AI-Video",
       "Kling-AI",
-      "4K-Native",
-      "Content-Creation",
-      "AI-Production"
+      "Native-4K",
+      "AI-Production",
+      "Content-Creation"
     ],
-    "publishedAt": "2026-07-06T00:03:08.786Z",
+    "publishedAt": "2026-07-06T14:19:51.940Z",
     "readingTime": 4,
     "url": "/vi/ai-video/ai-ai-goc-nhin-cho-creator-va-builder-2026-07-06"
   },
@@ -492,12 +492,12 @@
     "tags": [
       "AI-Video",
       "KlingAI",
+      "Cinematography",
       "Native4K",
-      "GenerativeCinema",
-      "CreativeWorkflows"
+      "GenerativeAI"
     ],
-    "publishedAt": "2026-07-06T00:04:39.099Z",
-    "readingTime": 3,
+    "publishedAt": "2026-07-06T14:21:48.375Z",
+    "readingTime": 4,
     "url": "/en/ai-video/ai-ai-creator-and-builder-analysis-2026-07-06"
   },
   {
@@ -509,12 +509,12 @@
     "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Agents",
-      "Hiring-Trends",
-      "Developer-Economy",
-      "Agentic-AI",
-      "Build-In-Public"
+      "Agentic-Workflow",
+      "AI-Hiring",
+      "MCP",
+      "Builder-Economy"
     ],
-    "publishedAt": "2026-07-06T00:04:10.366Z",
+    "publishedAt": "2026-07-06T14:19:58.178Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/weekly-hiring-thread-goc-nhin-cho-creator-va-builder-2026-07-06"
   },
@@ -530,9 +530,9 @@
       "Agentic Workflows",
       "AI Hiring",
       "MCP",
-      "Developer Ecosystem"
+      "Vibe Coding"
     ],
-    "publishedAt": "2026-07-06T00:05:35.024Z",
+    "publishedAt": "2026-07-06T14:23:07.338Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/weekly-hiring-thread-creator-and-builder-analysis-2026-07-06"
   }

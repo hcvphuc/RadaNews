@@ -5,31 +5,14 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_f6cf54165beecf8c",
-      "src_simonwillison-blog_6e8efb5c1189fe24",
       "src_langchain-blog_40ded3f923e3291d",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_be7c03e0ece39e1b"
+      "src_simonwillison-blog_500957cffe3c05eb",
+      "src_simonwillison-blog_f6cf54165beecf8c",
+      "src_simonwillison-blog_6e8efb5c1189fe24"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, LangChain Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_building-a-world-map-with-only-500-bytes_2026-07-06",
-    "category": "ai-vibe-coding",
-    "topic": "Building a World Map with only 500 bytes",
-    "sourceIds": [
-      "src_simonwillison-blog_74ff325db522161d",
-      "src_replit-blog_49899058ba32f8e5",
-      "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_reddit-aiagents_36259fa31dd41b5d",
-      "src_simonwillison-blog_8797ebc789d1e617",
-      "src_vercel-ai-blog_2026-07-06_fallback"
-    ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, Replit Blog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -40,8 +23,8 @@
     "sourceIds": [
       "src_luma-blog_c7449029956c34f9",
       "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_6e23d8c5ed6ce360",
-      "src_reddit-aiagents_fed8324fae05c1c2"
+      "src_reddit-aiagents_3fdd74336eb20b40",
+      "src_reddit-aiagents_8ae71202be3984d6"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Luma Labs Blog, Cursor Changelog, r/AI_Agents.",
@@ -61,6 +44,23 @@
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Runway Research, Black Forest Labs, Replicate Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-06",
+    "category": "ai-vibe-coding",
+    "topic": "Replit — Replit Blog – Product updates from the team",
+    "sourceIds": [
+      "src_replit-blog_49899058ba32f8e5",
+      "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_simonwillison-blog_74ff325db522161d",
+      "src_reddit-aiagents_0ded5bce3367ddc8",
+      "src_simonwillison-blog_8797ebc789d1e617",
+      "src_vercel-ai-blog_2026-07-06_fallback"
+    ],
+    "articleWorthinessScore": 0.98,
+    "reasonSelected": "Score 0.98 from 6 source item(s), 5 live crawl(s), strongest sources: Replit Blog, Hugging Face Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
