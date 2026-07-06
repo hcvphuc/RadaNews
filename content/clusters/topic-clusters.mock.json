@@ -1,38 +1,55 @@
 [
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-03",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-06",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_d7adf2005d2ff345",
+      "src_simonwillison-blog_f6cf54165beecf8c",
+      "src_simonwillison-blog_6e8efb5c1189fe24",
       "src_langchain-blog_40ded3f923e3291d",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_replit-blog_49899058ba32f8e5"
+      "src_simonwillison-blog_be7c03e0ece39e1b"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, LangChain Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, LangChain Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_1_using-dspy-to-evaluate-and-improve-datasette-agent-s-sql-system-_2026-07-03",
-    "category": "ai-agentic",
-    "topic": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+    "clusterId": "cluster_ai-vibe-coding_2_building-a-world-map-with-only-500-bytes_2026-07-06",
+    "category": "ai-vibe-coding",
+    "topic": "Building a World Map with only 500 bytes",
     "sourceIds": [
-      "src_simonwillison-blog_118a188c6e62a162",
-      "src_luma-blog_c7449029956c34f9",
-      "src_simonwillison-blog_916761293fc9a214",
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_simonwillison-blog_e0cc28fe04940a94"
+      "src_simonwillison-blog_74ff325db522161d",
+      "src_replit-blog_49899058ba32f8e5",
+      "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_reddit-aiagents_36259fa31dd41b5d",
+      "src_simonwillison-blog_8797ebc789d1e617",
+      "src_vercel-ai-blog_2026-07-06_fallback"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, Luma Labs Blog, Cursor Changelog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, Replit Blog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-07-03",
+    "clusterId": "cluster_ai-agentic_1_news-luma_2026-07-06",
+    "category": "ai-agentic",
+    "topic": "News | Luma",
+    "sourceIds": [
+      "src_luma-blog_c7449029956c34f9",
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_6e23d8c5ed6ce360",
+      "src_reddit-aiagents_fed8324fae05c1c2"
+    ],
+    "articleWorthinessScore": 1,
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Luma Labs Blog, Cursor Changelog, r/AI_Agents.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-07-06",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -48,59 +65,42 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_understand-to-participate_2026-07-03",
+    "clusterId": "cluster_ai-video_1_ai-ai_2026-07-06",
     "category": "ai-video",
-    "topic": "Understand to participate",
+    "topic": "可灵 AI - 新一代 AI 创意生产力平台",
     "sourceIds": [
-      "src_simonwillison-blog_cdd67a439f418f0a",
       "src_kling-blog_9b8eef2edc427cc1",
       "src_pika-blog_80e55ecea6acd04d"
     ],
-    "articleWorthinessScore": 0.96,
-    "reasonSelected": "Score 0.96 from 3 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Kling AI Blog, Pika Labs Blog.",
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 2 source item(s), 2 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_hugging-face-blog_2026-07-03",
-    "category": "ai-vibe-coding",
-    "topic": "Hugging Face – Blog",
-    "sourceIds": [
-      "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_reddit-aiagents_48329576c57d286a",
-      "src_reddit-aiagents_6dda55def2068569",
-      "src_vercel-ai-blog_2026-07-03_fallback"
-    ],
-    "articleWorthinessScore": 0.89,
-    "reasonSelected": "Score 0.89 from 4 source item(s), 3 live crawl(s), strongest sources: Hugging Face Blog, r/AI_Agents, Vercel AI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-agentic_2_which-underrated-ai-tool-has-genuinely-exceeded-your-expectation_2026-07-03",
+    "clusterId": "cluster_ai-agentic_2_weekly-hiring-thread_2026-07-06",
     "category": "ai-agentic",
-    "topic": "Which underrated AI tool has genuinely exceeded your expectations?",
+    "topic": "Weekly Hiring Thread",
     "sourceIds": [
-      "src_reddit-aiagents_a0c973a6198b84b2",
-      "src_reddit-aiagents_ce515a76ea64d92d",
       "src_reddit-aiagents_d5d7fae8362e5797",
-      "src_openai-blog_2026-07-03_fallback",
-      "src_mcp-blog_2026-07-03_fallback"
+      "src_reddit-aiagents_ce515a76ea64d92d",
+      "src_openai-blog_2026-07-06_fallback",
+      "src_mcp-blog_2026-07-06_fallback"
     ],
-    "articleWorthinessScore": 0.76,
-    "reasonSelected": "Score 0.76 from 5 source item(s), 3 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
-    "confidence": "high",
+    "articleWorthinessScore": 0.68,
+    "reasonSelected": "Score 0.68 from 4 source item(s), 2 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-07-03",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-07-06",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-07-03_fallback",
-      "src_reddit-stablediffusion_2026-07-03_fallback",
-      "src_reddit-comfyui_2026-07-03_fallback",
-      "src_reddit-midjourney_2026-07-03_fallback"
+      "src_stability-ai-blog_2026-07-06_fallback",
+      "src_reddit-stablediffusion_2026-07-06_fallback",
+      "src_reddit-comfyui_2026-07-06_fallback",
+      "src_reddit-midjourney_2026-07-06_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -108,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-07-03",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-07-06",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-07-03_fallback",
-      "src_reddit-mediasynthesis_2026-07-03_fallback"
+      "src_reddit-aivideo_2026-07-06_fallback",
+      "src_reddit-mediasynthesis_2026-07-06_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
