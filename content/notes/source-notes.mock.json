@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-06T14:17:51.560Z",
+    "publishedAt": "2026-07-07T00:05:03.140Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-06T14:17:51.154Z",
+    "publishedAt": "2026-07-07T00:05:07.240Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-06_fallback",
+    "sourceId": "src_openai-blog_2026-07-07_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-06T14:17:50.979Z",
+    "publishedAt": "2026-07-07T00:05:02.665Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-06_fallback",
+    "sourceId": "src_mcp-blog_2026-07-07_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-06T14:17:51.312Z",
+    "publishedAt": "2026-07-07T00:05:03.105Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -141,12 +141,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_d5d7fae8362e5797",
+    "sourceId": "src_reddit-aiagents_c7d4124bb6bbd40d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uiwlum/weekly_hiring_thread/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1up1jya/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
-    "publishedAt": "2026-06-29T16:01:14.000Z",
+    "publishedAt": "2026-07-06T16:01:06.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -157,7 +157,7 @@
       {
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uiwlum/weekly_hiring_thread/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1up1jya/weekly_hiring_thread/"
       }
     ],
     "usableFor": [
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_8ae71202be3984d6",
+    "sourceId": "src_reddit-aiagents_379fc323e0ee04ac",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uosa8b/whats_the_most_useful_ai_agent_youve_actually/",
-    "title": "What's the most useful AI agent you've actually built or used?",
-    "publishedAt": "2026-07-06T09:22:13.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1up9l6j/i_feel_claude_started_to_push_its_own_agenda_do/",
+    "title": "I feel Claude started to push its own agenda. Do you?",
+    "publishedAt": "2026-07-06T20:42:49.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "There are a lot of AI agent demos online, but I'm more interested in real use cases than polished videos.",
-      "What's the most useful AI agent you've actually built or used in day-to-day work or life?",
-      "I mean agents that save you time or automate a task you used to do manually.",
-      "Some examples: Customer support Appointment scheduling Sales follow-ups Coding assistants Personal productivity Phone call automation Research workflows I'm curious which use cases have delivered real value and which ones ended up being more hype than help."
+      "I caught it in two seperate cases - Fable 5 completely ignored OpenClaw, mentioning only claude cowork while i was having a deep research and i was touching agents as workforce space.",
+      "On another case, i was debating my talk about digital employees, Opus trash talked on Hermes, bringing up, again, Claude cowork.",
+      "Now I wonder what else it has been pushing, it’s the best lobby in the world.",
+      "submitted by /u/avishic [link] [comments]"
     ],
     "claims": [
       {
-        "text": "There are a lot of AI agent demos online, but I'm more interested in real use cases than polished videos. What's the most useful AI agent you've actually built or used in day-to-day work or life? I'm not talking about general chatbots. I mean agents that save you time or automate a task you used to do manually. Some examples: Customer support Appointment scheduling Sales follow-ups Coding assistants Personal productivity Phone call automation Research workflows I'm curious which use cases have delivered real value and which ones ended up being more hype than help. Would love to hear what you've built, what's working well, and what challenges you ran into. submitted by /u/omnidimension85 [link] [comments]",
+        "text": "I caught it in two seperate cases - Fable 5 completely ignored OpenClaw, mentioning only claude cowork while i was having a deep research and i was touching agents as workforce space. On another case, i was debating my talk about digital employees, Opus trash talked on Hermes, bringing up, again, Claude cowork. Now I wonder what else it has been pushing, it’s the best lobby in the world. Do you see similar patterns? submitted by /u/avishic [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uosa8b/whats_the_most_useful_ai_agent_youve_actually/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1up9l6j/i_feel_claude_started_to_push_its_own_agenda_do/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_0ded5bce3367ddc8",
+    "sourceId": "src_reddit-aiagents_0fcba3f1a537c41a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uoqfbn/claude_is_way_too_expensive/",
-    "title": "Claude is WAY TOO EXPENSIVE",
-    "publishedAt": "2026-07-06T07:32:18.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1up0xj1/quickest_way_to_evaluate_an_ai_agent_startup/",
+    "title": "Quickest way to evaluate an ai agent startup without burning a whole week on it?",
+    "publishedAt": "2026-07-06T15:39:47.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Sorry guys, I am not a native speaker, hope this is not gibberish to you.",
-      "I'm a intern software engeneer, recentlly I need to design a SDK tool.",
-      "I initially use GOOGLE's Antigravity 2.0 for my work, I can use all the gemini model, Claude Sonnet/Opus 4.6 and GPT-OSS on it.",
-      "Most of time, I use web claude sonnet 4.6 or 5 to generate prompts, and put them into the gemini 3.5 flash, this combination meet most of my requirements."
+      "Our ops director dropped an ai agent startup on my radar last Friday and wants my take by end of week.",
+      "I have maybe four hours total to form a real opinion, not a surface-level 'looks interesting' shrug.",
+      "The problem is every tool in this space seems to require a full onboarding call, a sandbox setup, and three follow-up emails before you can even see what it does.",
+      "I need to know: does it connect to our existing stack, can it actually handle repetitive cross-team workflows, and will it embarrass us in front of leadership if we demo it?"
     ],
     "claims": [
       {
-        "text": "Sorry guys, I am not a native speaker, hope this is not gibberish to you. I'm a intern software engeneer, recentlly I need to design a SDK tool. I initially use GOOGLE's Antigravity 2.0 for my work, I can use all the gemini model, Claude Sonnet/Opus 4.6 and GPT-OSS on it. Most of time, I use web claude sonnet 4.6 or 5 to generate prompts, and put them into the gemini 3.5 flash, this combination meet most of my requirements. But I know most of benchmark shows that claude should be better for my work. So, today I subscribe the Claude pro and use sonnet 5 in claude code. At the very first moment, I enter the first prompt, which is about SDK package, the 5hr usage reaches to 20% immediately, and the AI didn't even start to generate any code. It just read 2 documents, and consume 1/5 usage. Is this normal??? If this is normal, I will never buy the claude $20/month level again. It just unusable (and steal my 20 dollars). I can use more Opus 4.6 even in Antigravity. At least 3 or 4 works can be done, and it won't constrain the website usage. Maybe gemini is not that bad, Claude is just WAY TO EXPENSIVE. Or I should try CODEX? Which one would you choose for $20/month? submitted by /u/Competitive_Stand_20 [link] [comments]",
+        "text": "Our ops director dropped an ai agent startup on my radar last Friday and wants my take by end of week. I have maybe four hours total to form a real opinion, not a surface-level 'looks interesting' shrug. The problem is every tool in this space seems to require a full onboarding call, a sandbox setup, and three follow-up emails before you can even see what it does. I don't have time for that. I need to know: does it connect to our existing stack, can it actually handle repetitive cross-team workflows, and will it embarrass us in front of leadership if we demo it? I've looked at maybe six options so far. Some are clearly built for engineers, some are trying to be everything to everyone, and a couple seem genuinely focused on enterprise use cases which is closer to what we need. But telling them apart from the outside is harder than it should be. If you've gone through this kind of fast evaluation before, what's the fastest signal that a tool is worth a deeper look versus a polite pass? Any shortcuts that actually held up? submitted by /u/Tarandjpop [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uoqfbn/claude_is_way_too_expensive/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1up0xj1/quickest_way_to_evaluate_an_ai_agent_startup/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_3fdd74336eb20b40",
+    "sourceId": "src_reddit-aiagents_546314281d2a2a25",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uouuvb/from_ai_as_chatbots_to_ai_as_a_worker/",
-    "title": "From AI as chatbots to AI as a worker",
-    "publishedAt": "2026-07-06T11:40:08.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1up571p/make_your_agents_proactive_with_one_line_of_code/",
+    "title": "Make your agents proactive with one line of code",
+    "publishedAt": "2026-07-06T18:06:43.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Over the past few years, AI hasn't just become powerful - fundamentally it has changed how we use it.",
-      "Chatbots have become commodity now, customers are not buying AI capabilities anymore they're buying outcomes.",
-      "That shift is changing entire software ecosystem.",
-      "Hardware Infra is evolving to run models, agents, MCP servers and AI-native workflows."
+      "Every agent framework gives you a reactive loop: it sits there until you prompt it.",
+      "If you want it to brief you each morning or follow up in 3 days, you are its scheduler, its memory, and its trigger.",
+      "I got tired of being those three things, so I wrote an SDK that makes an agent run itself.",
+      "proactive() wraps the agent you already have in one line and makes it run itself."
     ],
     "claims": [
       {
-        "text": "Over the past few years, AI hasn't just become powerful - fundamentally it has changed how we use it. Chatbots have become commodity now, customers are not buying AI capabilities anymore they're buying outcomes. They want work done. That shift is changing entire software ecosystem. Hardware Infra is evolving to run models, agents, MCP servers and AI-native workflows. Developers are spending less time in writing code and more time in shipping with AI. Product Managers are moving beyond feature roadmaps to designing AI powered workflows. Search is now conversation Tech stack shifting from standard API to autonomous agents Pricing is gradually shifting from seat based subscription to usage and outcome based models. What else do you think is evolving or completely breaking in this new era? submitted by /u/yabee22 [link] [comments]",
+        "text": "Every agent framework gives you a reactive loop: it sits there until you prompt it. If you want it to brief you each morning or follow up in 3 days, you are its scheduler, its memory, and its trigger. I got tired of being those three things, so I wrote an SDK that makes an agent run itself. Your agent doesn't change. You wrap it in one call. proactive() wraps the agent you already have in one line and makes it run itself. It wakes on a schedule it sets itself (busy, it looks again in minutes; quiet, it sleeps until tomorrow), gets told what changed since last time, keeps goals across wakes so it never redoes work, and can't double-send. Works with LangGraph, the OpenAI SDK, the Anthropic SDK, Mastra and Eve; on OpenClaw or Hermes you paste one instruction and it installs as a plugin. submitted by /u/regalstreak [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uouuvb/from_ai_as_chatbots_to_ai_as_a_worker/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1up571p/make_your_agents_proactive_with_one_line_of_code/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-06_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-07_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-06T14:17:51.024Z",
+    "publishedAt": "2026-07-07T00:05:02.819Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-06T14:17:51.690Z",
+    "publishedAt": "2026-07-07T00:05:03.292Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-06T14:17:51.132Z",
+    "publishedAt": "2026-07-07T00:05:03.172Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-06_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-07_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-06T14:17:51.047Z",
+    "publishedAt": "2026-07-07T00:05:02.790Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-06_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-07_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-06T14:17:51.054Z",
+    "publishedAt": "2026-07-07T00:05:02.803Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-06T14:17:51.235Z",
+    "publishedAt": "2026-07-07T00:05:02.851Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-06T14:17:51.241Z",
+    "publishedAt": "2026-07-07T00:05:02.923Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-06T14:17:51.878Z",
+    "publishedAt": "2026-07-07T00:05:03.234Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-06_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-07_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-06T14:17:51.136Z",
+    "publishedAt": "2026-07-07T00:05:02.846Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,12 +512,12 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-06T14:17:51.553Z",
+    "publishedAt": "2026-07-07T00:05:03.017Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Mobile Automations Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Jun 30, 2026 · Changelog MCPs and Organizations in Team Marketplaces We've expanded team marketplaces to support Team MCPs and organization groups.",
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Mobile Automations Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.10 Jun 30, 2026 · Changelog MCPs and Organizations in Team Marketplaces We've expanded team marketplaces to support Team MCPs and organization groups.",
       "# Team MCPs in team marketplaces Admins can now configure Team MCP servers once and distribute them across cloud agents, the agents window, IDE, and CLI.",
       "When an admin sets up Team MCP servers for cloud agents, they can make those same servers available in a team marketplace from Dashboard -> Integrations & MCP .",
       "This allows members of the team to install approved integrations locally without configuring servers themselves."
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-06T14:17:51.233Z",
+    "publishedAt": "2026-07-07T00:05:03.514Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-06_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-07_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-06T14:17:51.556Z",
+    "publishedAt": "2026-07-07T00:05:03.824Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-06T14:17:51.537Z",
+    "publishedAt": "2026-07-07T00:05:03.312Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-06T14:17:51.296Z",
+    "publishedAt": "2026-07-07T00:05:02.868Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-06_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-07_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-06T14:17:51.275Z",
+    "publishedAt": "2026-07-07T00:05:02.915Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-06T14:17:52.805Z",
+    "publishedAt": "2026-07-07T00:05:04.779Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-06_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-07_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-06T14:17:51.325Z",
+    "publishedAt": "2026-07-07T00:05:02.962Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-06T14:17:51.427Z",
+    "publishedAt": "2026-07-07T00:05:03.026Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,7 +747,7 @@
     ],
     "keyFacts": [
       "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 7 days ago • 21 Does Your LLM Know *When It's About to Be Wrong*?",
-      "ginigen-ai • 6 days ago • 20 Adding a GPU Without Building One FINAL-Bench • 3 days ago • 16 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 1 day ago • 13 Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 7 days ago • 19 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 358 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 361 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 12 days ago • 46 AstroBERT Small: Domain model for Astronomy NeuML • 5 days ago • 6 Heretic Grimoire VINAY-UMRETHE • 6 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 189 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • 5 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 871 Everything You Need to Know about Knowledge Distillation Kseniase • Mar 6, 2025 • 85 LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family lightonai • Jan 19 • 99 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • Jun 1 • 19 PitchFight AI: Practice the Pitch Before the Real Room prakhar811 • 22 days ago • 12 VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 10 days ago • 14 Gemma-4 31B + vLLM on RTX 6000 PRO : A Real-Load Benchmark hexgridcloud • 7 days ago • 3 Claude Fable 5 — Technical Harness Report Svngoku • 5 days ago • 3 lerobot robotics LeRobot v0.6.0: Imagine, Evaluate, Improve +4 12 July 7, 2026 kernels hub optimization 🤗 Kernels: Major Updates 10 July 6, 2026 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 67 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 24 June 30, 2026 Why Specialization Is Inevitable 10 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 41 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 8 June 24, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 20 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 6 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 26 June 22, 2026 guide open-source-collab We got local models to triage the OpenClaw repo for FREE!* 7 June 22, 2026 Previous 1 2 3 ...",
+      "ginigen-ai • 6 days ago • 20 Adding a GPU Without Building One FINAL-Bench • 4 days ago • 16 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 2 days ago • 14 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 358 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 361 AstroBERT Small: Domain model for Astronomy NeuML • 5 days ago • 6 Heretic Grimoire VINAY-UMRETHE • 6 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 189 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 13 days ago • 46 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • 5 days ago • 4 Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 8 days ago • 19 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 871 Everything You Need to Know about Knowledge Distillation Kseniase • Mar 6, 2025 • 85 LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family lightonai • Jan 19 • 99 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • Jun 1 • 19 PitchFight AI: Practice the Pitch Before the Real Room prakhar811 • 22 days ago • 12 VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 10 days ago • 14 Claude Fable 5 — Technical Harness Report Svngoku • 5 days ago • 3 🔁 Teaching a 15M French LLM to think deeper — and to know when to stop 🇫🇷 RDTvlokip • 4 days ago • 3 lerobot robotics LeRobot v0.6.0: Imagine, Evaluate, Improve +5 24 July 7, 2026 PRX Part 4: Our Data Strategy 4 July 6, 2026 kernels hub optimization 🤗 Kernels: Major Updates 16 July 6, 2026 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 69 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 24 June 30, 2026 Why Specialization Is Inevitable 11 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 41 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 8 June 24, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 20 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 6 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 26 June 22, 2026 Previous 1 2 3 ...",
       "59 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
       "80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 7 days ago • 21 Does Your LLM Know *When It's About to Be Wrong*?"
     ],
@@ -920,7 +920,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-06T14:17:51.373Z",
+    "publishedAt": "2026-07-07T00:05:03.015Z",
     "categoryHints": [
       "ai-agentic"
     ],
