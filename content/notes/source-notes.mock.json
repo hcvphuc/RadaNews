@@ -5,15 +5,15 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-07T13:09:14.399Z",
+    "publishedAt": "2026-07-07T23:54:56.306Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "LangChain LangSmith Observability & Evals Your coding agent bill doubled.",
-      "Amy Ru July 2, 2026 6 min LangChain LangSmith Observability & Evals Your coding agent bill doubled."
+      "Observability & Evals Improving Agents is a Data Mining Problem Vivek Trivedy July 7, 2026 7 min LangChain LangSmith Observability & Evals Your coding agent bill doubled.",
+      "Amy Ru July 2, 2026 6 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min Recent stories Observability & Evals Improving Agents is a Data Mining Problem Vivek Trivedy July 7, 2026 7 min No items found."
     ],
     "claims": [
       {
@@ -34,13 +34,16 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-07T13:09:21.266Z",
+    "publishedAt": "2026-07-07T23:54:56.952Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+      "Research \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models—so that artificial intelligence has a positive impact as it becomes increasingly capable.",
+      "Research teams: Alignment Economic Research Interpretability Societal Impacts Frontier Red Team Interpretability The mission of the Interpretability team is to understand how large language models work internally, as a foundation for AI safety and positive outcomes.",
+      "Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless.",
+      "Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world."
     ],
     "claims": [
       {
@@ -53,7 +56,7 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_openai-blog_2026-07-07_fallback",
@@ -61,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-07T13:09:13.992Z",
+    "publishedAt": "2026-07-07T23:54:55.530Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -88,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-07T13:09:14.397Z",
+    "publishedAt": "2026-07-07T23:54:56.542Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -164,6 +167,35 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aiagents_3fd30bd4d2eab1f7",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uq86i2/i_gave_gpt_55_an_empty_github_repo_and_told_it_to/",
+    "title": "I gave GPT 5.5 an empty GitHub repo and told it to figure its life out",
+    "publishedAt": "2026-07-07T21:09:58.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "I had this dumb idea a few days ago: What happens if I give GPT 5.5 an empty GitHub repo, tell it to work on it every hour, and just let it slowly build something?",
+      "So now, every hour, it wakes up, checks what it did before, decides what it should do next, writes code, tests it, and commits it.",
+      "Right now, it has spent its first commit creating a roadmap, a changelog, a state file, and a file explaining its decisions.",
+      "So basically, it became a project manager immediately."
+    ],
+    "claims": [
+      {
+        "text": "I had this dumb idea a few days ago: What happens if I give GPT 5.5 an empty GitHub repo, tell it to work on it every hour, and just let it slowly build something? So now, every hour, it wakes up, checks what it did before, decides what it should do next, writes code, tests it, and commits it. Or at least that is the plan. Right now, it has spent its first commit creating a roadmap, a changelog, a state file, and a file explaining its decisions. So basically, it became a project manager immediately. But I am genuinely curious where this goes. Maybe in a month it will become an actual useful tool. Maybe it turns into a repo with 900 commits, and somehow all of them are README updates. I am keeping the whole thing public because I feel like that makes it more fun. You can literally watch it make decisions, fail tests, fix stuff, or probably overthink something that should have taken 10 lines. I have no idea whether this is a cool experiment or just a very advanced way to avoid doing the work myself. Repo link is in the comments EDIT: I asked the ai what is it trying to build and here is what it said: \"I am building Autonomous Forge as a safe AI maintenance manager for GitHub projects. I will read a project’s roadmap and rules, choose one small task, use an AI model to make the change, run tests, show exactly what changed, and keep a clear record of every action. My goal is not to let AI edit code freely, but to make AI coding controlled, validated, and safe before anything is committed or pushed.\" Interesting lol, so an autonomous AI is trying to create an autonomous system wow. EDIT 2: I have scheduled another agent to increase the speed by 2x submitted by /u/JewelerBeautiful1774 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uq86i2/i_gave_gpt_55_an_empty_github_repo_and_told_it_to/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aiagents_dc6de78cd5c06313",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -193,55 +225,26 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aiagents_ce23f1f61a502f3a",
+    "sourceId": "src_reddit-aiagents_0f48d7c17e210af9",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1upmtrl/started_a_community_for_solo_ai_enthusiasts_devs/",
-    "title": "Started a community for solo AI enthusiasts & devs after realizing how many of us have no one to talk to about it",
-    "publishedAt": "2026-07-07T06:28:25.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1upxvtb/i_sent_a_fake_inquiry_to_my_own_clients_business/",
+    "title": "I sent a fake inquiry to my own clients business. Took them 26 hours to reply. Their competitor took 11 minutes.",
+    "publishedAt": "2026-07-07T15:08:53.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Most visionary, insightful AI enthusiasts & devs are mostly alone developing — no one to tell you if what you made is actually good, no one who gets the hype when you hit a milestone.",
-      "I built \"Per Aspera Ad Intellectum\" community, because I was looking for people with that same drive — and couldn't find a room that had them all in one place.",
-      "I'm not trying to get numbers, I'm trying to find the right people.",
-      "If you're into: [AI enthusiast devs], [AI & automation], [Prompt engineering], [Jailbreaking Ai], [Agentic frameworks], [Source sharks]."
+      "Last year I was building a quote calculator for a services company….",
+      "They have a decent business and were spending about 4K a month on ads, the owner was complaining that the leads were of \"low quality.\" Pretty standard stuff tbh and every owner says this.",
+      "I make automations and MVPs for business owners, it's been 8 years now.",
+      "Instead of arguing I did one thing that I now do with every client."
     ],
     "claims": [
       {
-        "text": "Most visionary, insightful AI enthusiasts & devs are mostly alone developing — no one to tell you if what you made is actually good, no one who gets the hype when you hit a milestone. I built \"Per Aspera Ad Intellectum\" community, because I was looking for people with that same drive — and couldn't find a room that had them all in one place. It's small right now. I'm not trying to get numbers, I'm trying to find the right people. If you're into: [AI enthusiast devs], [AI & automation], [Prompt engineering], [Jailbreaking Ai], [Agentic frameworks], [Source sharks]. and you've been building solo — this is me looking for you as much as you looking for a community. No team or network required. submitted by /u/Same_Yesterday_4338 [link] [comments]",
+        "text": "Last year I was building a quote calculator for a services company…. They have a decent business and were spending about 4K a month on ads, the owner was complaining that the leads were of \"low quality.\" Pretty standard stuff tbh and every owner says this. I make automations and MVPs for business owners, it's been 8 years now. Instead of arguing I did one thing that I now do with every client. I became a lead. I filled out their own contact form on a Tuesday afternoon with a fake name and a real phone number and then started a timer. It took freakin 26 hours. That's how long their \"low quality lead\" sat before anyone replied. Then I sent the same inquiry to their biggest competitor. After 11 minutes a human called me back . I gave the owner both timestamps and saw his face. He wasn't losing to a better competitor. He was losing to a faster one, paying 4K a month for leads that went cold in an inbox no one owned. And this is everywhere. Harvard Business Review ran a study on this…. companies that respond within an hour are about 7x more likely to qualify the lead than ones who wait even a couple hours, and most companies take almost 2 full days to respond at all. 2 freaking days. The lead filled your form, waited 20 minutes, googled your competitor, and bought from whoever picked up. Your ads worked perfectly but your inbox killed the sale. Here's the part that messes with people. Ask any owner why leads sit and it's never on purpose. The inquiry goes to a shared inbox, everyone assumes someone else has it, the owner checks it at night, replies to the easy ones, and by then the lead has moved on. It isn't laziness. It's that the speed was never anyones JOB. We fixed my clients the crude way first because you don't need software to start. One person owns every inquiry, notifications on their phone, and a hard rule…. every lead gets a response within 5 minutes during work hours, even if the response is just \"got your message, calling you in an hour\" Saved replies for the 6 questions that make up 90% of inquiries. That's it. His booked calls literally went up within the first 2 weeks with same ad spend and same \"low quality\" leads. Then we built the version that doesn't depend on anyone's discipline because discipline slips and leads come in at 9pm. Now when an inquiry hits the form or WhatsApp, an agent replies inside 2 minutes…. answers from his actual FAQ, asks the two qualifying questions his sales guy would ask, drops a calendar link, and logs the whole exchange so a human picks up a warm conversation in the morning instead of a cold name in an inbox. The 9pm lead gets treated better than his old system treated the 2pm one. That was over a year ago and it's still the highest ROI thing on his books, because it isn't saving him time…. it's catching revenue that was already paid for and was leaking. The thing I want you to actually do…. secretly shop yourself tonight. Fill your own contact form, message your own business WhatsApp, and start a timer. Do the same to your 2 biggest competitors. If your number is worse than theirs, you found the leak, and no ad budget on earth outruns a 26 hour reply. Fastest response wins the deal way more often than the best response. submitted by /u/Warm-Reaction-456 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1upmtrl/started_a_community_for_solo_ai_enthusiasts_devs/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_35309219dcb3ae8c",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1upjbei/human_approval_is_too_vague_for_production_agents/",
-    "title": "Human approval is too vague for production agents",
-    "publishedAt": "2026-07-07T03:26:22.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "A lot of agent systems say they support “human-in-the-loop.” But in production that phrase is usually too vague to be useful.",
-      "The hard question is not “Can a human approve this” It is What exactly is the human approving For a risky agent step I think the approval object needs to be much more explicit - the proposed action - the current durable state - the external system being touched - the exact payload or diff - the idempotency key / operation id - the evidence used by the agent - the failure or uncertainty state if any - the rollback or compensation path - who owns the decision after approval Otherwise “approval” becomes a UI button on top of a black box.",
-      "The reviewer is not really approving an operation.",
-      "They are approving a story the agent told about the operation."
-    ],
-    "claims": [
-      {
-        "text": "A lot of agent systems say they support “human-in-the-loop.” But in production that phrase is usually too vague to be useful. The hard question is not “Can a human approve this” It is What exactly is the human approving For a risky agent step I think the approval object needs to be much more explicit - the proposed action - the current durable state - the external system being touched - the exact payload or diff - the idempotency key / operation id - the evidence used by the agent - the failure or uncertainty state if any - the rollback or compensation path - who owns the decision after approval Otherwise “approval” becomes a UI button on top of a black box. The reviewer is not really approving an operation. They are approving a story the agent told about the operation. That feels dangerous. For production agents I think HITL should be modeled as a signed decision record attached to a specific step not a generic pause in the workflow. The approval should be replayable later by an auditor or operator who approved what based on which evidence under which policy and what happened after. Curious how others are designing this. Are your human approvals step-level records policy checks chat messages or just manual gates in the workflow submitted by /u/percoAi [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1upjbei/human_approval_is_too_vague_for_production_agents/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1upxvtb/i_sent_a_fake_inquiry_to_my_own_clients_business/"
       }
     ],
     "usableFor": [
@@ -256,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-07T13:09:14.279Z",
+    "publishedAt": "2026-07-07T23:54:55.894Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -282,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-07T13:09:14.427Z",
+    "publishedAt": "2026-07-07T23:54:56.379Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -311,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-07T13:09:14.547Z",
+    "publishedAt": "2026-07-07T23:54:56.246Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -342,7 +345,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-07T13:09:14.103Z",
+    "publishedAt": "2026-07-07T23:54:55.866Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -369,7 +372,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-07T13:09:14.107Z",
+    "publishedAt": "2026-07-07T23:54:55.871Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -396,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-07T13:09:14.101Z",
+    "publishedAt": "2026-07-07T23:54:55.852Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -425,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-07T13:09:14.230Z",
+    "publishedAt": "2026-07-07T23:54:55.985Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -453,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-07T13:09:14.352Z",
+    "publishedAt": "2026-07-07T23:54:56.480Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -482,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-07T13:09:14.157Z",
+    "publishedAt": "2026-07-07T23:54:55.930Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -509,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-07T13:09:14.391Z",
+    "publishedAt": "2026-07-07T23:54:56.172Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -538,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-07T13:09:14.119Z",
+    "publishedAt": "2026-07-07T23:54:56.539Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -567,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-07T13:09:14.251Z",
+    "publishedAt": "2026-07-07T23:54:56.501Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -594,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-07T13:09:14.438Z",
+    "publishedAt": "2026-07-07T23:54:56.304Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -623,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-07T13:09:14.236Z",
+    "publishedAt": "2026-07-07T23:54:56.139Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -653,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-07T13:09:14.306Z",
+    "publishedAt": "2026-07-07T23:54:56.073Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -680,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-07T13:09:15.411Z",
+    "publishedAt": "2026-07-07T23:54:57.680Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -708,7 +711,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-07T13:09:14.206Z",
+    "publishedAt": "2026-07-07T23:54:56.118Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -735,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-07T13:09:14.273Z",
+    "publishedAt": "2026-07-07T23:54:56.200Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -743,10 +746,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 8 days ago • 21 Does Your LLM Know *When It's About to Be Wrong*?",
-      "ginigen-ai • 6 days ago • 20 Adding a GPU Without Building One FINAL-Bench • 4 days ago • 16 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 2 days ago • 15 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 362 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 358 AstroBERT Small: Domain model for Astronomy NeuML • 6 days ago • 6 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 190 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • 6 days ago • 5 Heretic Grimoire VINAY-UMRETHE • 7 days ago • 5 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 13 days ago • 46 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • Jun 1 • 20 Claude Fable 5 — Technical Harness Report Svngoku • 6 days ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 871 Everything You Need to Know about Knowledge Distillation Kseniase • Mar 6, 2025 • 85 LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family lightonai • Jan 19 • 99 PitchFight AI: Practice the Pitch Before the Real Room prakhar811 • 23 days ago • 12 BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal basecompute • 6 days ago • 3 🔁 Teaching a 15M French LLM to think deeper — and to know when to stop 🇫🇷 RDTvlokip • 4 days ago • 3 🔁 Apprendre à un LLM français de 15M à penser plus profond — et à savoir quand s'arrêter 🇫🇷 RDTvlokip • 4 days ago • 3 lerobot robotics LeRobot v0.6.0: Imagine, Evaluate, Improve +5 36 July 7, 2026 PRX Part 4: Our Data Strategy 4 July 6, 2026 kernels hub optimization 🤗 Kernels: Major Updates 21 July 6, 2026 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 71 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 24 June 30, 2026 Why Specialization Is Inevitable 11 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 41 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 8 June 24, 2026 ci huggingface_hub agents Shipping huggingface_hub every week with AI, open tools, and a human in the loop 20 June 23, 2026 cross-origin-storage cos announcement Experimenting with the proposed Cross-Origin Storage API in Transformers.js 6 June 23, 2026 PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 26 June 22, 2026 Previous 1 2 3 ...",
-      "59 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 8 days ago • 21 Does Your LLM Know *When It's About to Be Wrong*?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up A Web Data Recipe for Medical Encoder Pretraining\",\"upvotes\":8,\"upvotes7d\":3,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/619cfd1dc7ef4b3b7b6a1e06/pWWWLPbG4pWusVEOX-3Sx.png\",\"authorsData\":[{\"_id\":\"619cfd1dc7ef4b3b7b6a1e06\",\"avatarUrl\":\"/avatars/ea3c8a9f178dfc1df3f75d71ecbe39dd.svg\",\"fullname\":\"bofeng huang\",\"name\":\"bofenghuang\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":101,\"isUserFollowing\":false}],\"url\":\"/blog/bofenghuang/doctobert-fr-release\",\"apiPrefix\":\"/api/blog/bofenghuang/doctobert-fr-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a44abd49169bc5d647defce\",\"isUpvotedByUser\":false,\"numCoauthors\":2,\"publishedAt\":\"2026-07-01T08:26:43.153Z\",\"editedAt\":\"2026-07-01T08:26:43.153Z\",\"slug\":\"basert-release\",\"title\":\"BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal\",\"upvotes\":3,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"6a38d59535e11815005680dd\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/6a38d55b56a1afe98dd3bb43/itWKhSq3jRSp-yG-FEd2g.png\",\"fullname\":\"Base Compute\",\"name\":\"basecompute\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":5,\"isUserFollowing\":false}],\"url\":\"/blog/basecompute/basert-release\",\"apiPrefix\":\"/api/blog/basecompute/basert-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a4729366eebf7ece4c32e22\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-07-03T09:59:12.717Z\",\"editedAt\":\"2026-07-03T10:01:30.513Z\",\"slug\":\"teaching-a-15m-french-llm-to-think-deeper\",\"title\":\"🔁 Teaching a 15M French LLM to think deeper — and to know when to stop 🇫🇷\",\"upvotes\":3,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"663ce1f27e7bc3d3e4e5074e\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/663ce1f27e7bc3d3e4e5074e/Yob0LlKto6wIsDZWDHqLf.png\",\"fullname\":\"RDTvlokip\",\"name\":\"RDTvlokip\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":12,\"isUserFollowing\":false}],\"url\":\"/blog/RDTvlokip/teaching-a-15m-french-llm-to-think-deeper\",\"apiPrefix\":\"/api/blog/RDTvlokip/teaching-a-15m-french-llm-to-think-deeper\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false}],\"canCreateBlog\":false,\"isPro\":false,\"isBlogExplorer\":false,\"query\":{},\"url\":\"/blog\"}\"> Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Does Your LLM Know *When It's About to Be Wrong*?",
+      "ginigen-ai • 7 days ago • 20 Adding a GPU Without Building One FINAL-Bench • 5 days ago • 16 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 3 days ago • 15 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 8 days ago • 22 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 359 After the party comes the free lunch: regularizing ColBERT models to enhance pooling capabilities and reduce index footprint lightonai • 1 day ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 362 AstroBERT Small: Domain model for Astronomy NeuML • 6 days ago • 6 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 190 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • 6 days ago • 5 Heretic Grimoire VINAY-UMRETHE • 7 days ago • 5 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 14 days ago • 46 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 19 Claude Fable 5 — Technical Harness Report Svngoku • 6 days ago • 4 LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family lightonai • Jan 19 • 99 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • Jun 1 • 20 PitchFight AI: Practice the Pitch Before the Real Room prakhar811 • 23 days ago • 12 Where Does the Signal Live?",
+      "A Web Data Recipe for Medical Encoder Pretraining bofenghuang • 17 days ago • 8 BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal basecompute • 7 days ago • 3 🔁 Teaching a 15M French LLM to think deeper — and to know when to stop 🇫🇷 RDTvlokip • 5 days ago • 3 From Hugging Face to Amazon SageMaker Studio in one click July 7, 2026 Hugging Face Models on Foundry Managed Compute 1 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot 2 July 7, 2026 lerobot robotics LeRobot v0.6.0: Imagine, Evaluate, Improve +5 43 July 7, 2026 PRX Part 4: Our Data Strategy 5 July 6, 2026 kernels hub optimization 🤗 Kernels: Major Updates 21 July 6, 2026 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 71 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 24 June 30, 2026 Why Specialization Is Inevitable 11 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 42 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 8 June 24, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -762,27 +764,27 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_simonwillison-blog_d795be1324e59ced",
+    "sourceId": "src_simonwillison-blog_06c8865352753572",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
-    "title": "tencent/Hy3",
-    "publishedAt": "2026-07-06T23:57:35.000Z",
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+    "title": "sqlite-utils 4.0, now with database schema migrations",
+    "publishedAt": "2026-07-07T19:32:57.000Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "tencent/Hy3 Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
-      "Read the report and learn how to measure and remediate technical debt across your codebase.",
-      "Get the report 6th July 2026 - Link Blog tencent/Hy3 .",
-      "New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team."
+      "This morning I released sqlite-utils 4.0 , the 124th release of that project and the first major version bump since 3.0 in November 2020.",
+      "In addition to some small but significant breaking changes (described in this upgrade guide ), this version introduces three major features: database migrations , nested transactions (via a new db.atomic() method), and support for compound foreign keys .",
+      "Database schema migrations using sqlite-utils Schema migrations define a sequence of changes to be made to a SQLite database, plus a mechanism for tracking which migrations have been applied and applying any that are found to be pending.",
+      "Migrations are defined in Python files using the sqlite-utils Python library , which includes a powerful table.transform() method providing enhanced alter table capabilities that are not supported by SQLite's ALTER TABLE statement."
     ],
     "claims": [
       {
-        "text": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Following the Hy3 Preview launch in late April, we gathered feedback from 50+ products and scaled up post-training with higher quality data. Today, we introduce Hy3, which outperforms similar-size models and rivals flagship open-source models with 2-5x parameters. It also shows significant gains in utility across various products and productivity tasks. The full-sized model is 598GB on Hugging Face, and the FP8 quantized one is 300GB . The context length is 256K. It's available for free on OpenRouter until July 21st . I had it \"Generate an SVG of a pelican riding a bicycle\" there and got this: Tags: ai , generative-ai , llms , pelican-riding-a-bicycle , llm-release , ai-in-china",
+        "text": "This morning I released sqlite-utils 4.0 , the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes (described in this upgrade guide ), this version introduces three major features: database migrations , nested transactions (via a new db.atomic() method), and support for compound foreign keys . Database schema migrations using sqlite-utils Schema migrations define a sequence of changes to be made to a SQLite database, plus a mechanism for tracking which migrations have been applied and applying any that are found to be pending. Migrations are defined in Python files using the sqlite-utils Python library , which includes a powerful table.transform() method providing enhanced alter table capabilities that are not supported by SQLite's ALTER TABLE statement. ( table.transform() implements the pattern recommended by the SQLite documentation - create a new temporary table with the new schema, copy across the data, then drop the old table and rename the temporary one in its place.) Here's an example migration file which creates a table called creatures , adds an additional column to it in a second step, then changes the types of two of the columns in a third: from sqlite_utils import Migrations migrations = Migrations ( \"creatures\" ) @ migrations () def create_table ( db ): db [ \"creatures\" ]. create ( { \"id\" : int , \"name\" : str , \"species\" : str }, pk = \"id\" , ) @ migrations () def add_weight ( db ): db [ \"creatures\" ]. add_column ( \"weight\" , float ) @ migrations () def change_column_types ( db ): db [ \"creatures\" ]. transform ( types = { \"species\" : int , \"weight\" : str }) Save that as migrations.py and run it against a fresh database like this: uvx sqlite-utils migrate data.db migrations.py Then if you check the schema of that database: uvx sqlite-utils schema data.db You'll see this SQL: CREATE TABLE \" _sqlite_migrations \" ( \" id \" INTEGER PRIMARY KEY , \" migration_set \" TEXT , \" name \" TEXT , \" applied_at \" TEXT ); CREATE UNIQUE INDEX \" idx__sqlite_migrations_migration_set_name \" ON \" _sqlite_migrations \" ( \" migration_set \" , \" name \" ); CREATE TABLE \" creatures \" ( \" id \" INTEGER PRIMARY KEY , \" name \" TEXT , \" species \" INTEGER , \" weight \" TEXT ); The _sqlite_migrations table is used to keep track of which migration functions have been run. The creatures table above is the schema after all three migrations have been applied. To see a list of migrations, both pending and applied, run this: uvx sqlite-utils migrate data.db migrations.py --list Output: Migrations for: creatures Applied: create_table - 2026-07-07 17:58:41.360051+00:00 add_weight - 2026-07-07 17:58:41.360608+00:00 change_column_types - 2026-07-07 18:01:15.802000+00:00 Pending: (none) If you don't specify a migrations file, the sqlite-utils migrate data.db command will scan the current directory and its subdirectories for files called migrations.py and apply any Migrations() instances it finds in them. You can also execute migrations from Python code using the migrations.apply(db) method, which is useful for building tools that manage their own database schemas over multiple versions. My own LLM tool has been using a version of this pattern for several years now, as shown in llm/embeddings_migrations.py . Prior art My favorite implementation of this pattern remains Django's Migrations , developed by Andrew Godwin based on his earlier project South . Fun fact: Andrew, Russ Keith-Magee, and I presented our competing approaches to schema migrations for Django on the Schema Evolution panel at the very first DjangoCon back in 2008! My attempt was called dmigrations , developed with a team at Global Radio in London. Django's migrations can be automatically generated from model definitions and include the ability to roll back to a previous version. The sqlite-utils approach is deliberately simpler: unlike Django, sqlite-utils encourages programmatic table creation rather than a model definition ORM, so there isn't anything we can use to automatically generate migrations. I decided to skip rollback, since in my experience it's a feature that is rarely used. With a SQLite project, an easy way to achieve rollback is to create a copy of your database file before you apply the migrations! Migrating from sqlite-migrate The design of sqlite-utils migrations is three years old now - I had originally released it as a separate package called sqlite-migrate , which never quite graduated beyond a beta release. I've used that package in enough places now that I'm confident in the design, so I've decided to promote it to a feature of sqlite-utils to make it available by default to all of the other tools in the growing sqlite-utils/Datasette/LLM ecosystem. I made one last release of sqlite-migrate , which switches it to depend on sqlite-utils>=4 and replaces the __init__.py file with the following: from sqlite_utils import Migrations __all__ = [ \"Migrations\" ] Any existing project that depends on sqlite-migrate should continue to work without alterations. Everything else in sqlite-utils 4.0 Here are the release notes for this version, with some inline annotations: The 4.0 release includes some minor backwards-incompatible fixes (hence the major version number bump) and introduces three major new features: Database migrations , providing a structured mechanism for evolving a project’s schema over time. ( #752 ) I think of migrations as the signature new feature, hence this blog post. Nested transaction support via db.atomic() , plus numerous improvements to how transactions work across the library. ( #755 ) sqlite-utils has long had a confused relationship with database transactions, partly because when I started designing the library back in 2018 I didn't yet have a great feel for how those worked in SQLite itself. Adding migrations to the core library made me determined to finally crack this nut, since transactions make migration systems a whole lot safer and easier to reason about. I ended up building this around a db.atomic() context manager which looks like this: with db . atomic (): db . table ( \"dogs\" ). insert ({ \"id\" : 1 , \"name\" : \"Cleo\" }, pk = \"id\" ) db . table ( \"dogs\" ). insert ({ \"id\" : 2 , \"name\" : \"Pancakes\" }) SQLite supports Savepoints , and as a result db.atomic() can be nested to carry out transactions inside of transactions. It's pretty neat! Support for compound foreign keys , including creation, transformation and introspection through table.foreign_keys . ( #594 ) This came about when I asked a coding agent to review all open issues and PRs for things that should be included in a 4.0 release since they would represent breaking changes if I added them later, and it correctly identified that compound foreign keys were exactly that kind of feature. I started with a breaking change to the table.foreign_keys introspection method, and then decided to see if Claude Fable 5 could handle the more fiddly job of integrating compound foreign key creation into the library. The API design it helped create felt exactly right to me - consistent with how the rest of the library worked already. Other notable changes include: Upserts now use SQLite’s INSERT ... ON CONFLICT ... DO UPDATE SET syntax, detect existing table primary keys automatically and reject records that are missing required primary key values. ( #652 ) This was the change that first pushed me to consider a breaking-change 4.0 version bump. I built this to help support sqlite-chronicle , which uses triggers to keep track of rows in a table that have been inserted, updated or deleted. db.query() now executes immediately and rejects statements that do not return rows; use db.execute() for writes and DDL. Probably the most disruptive breaking change - I've had to update a few places in my own code to switch from db.query() to db.execute() as a result. CSV and TSV imports now detect column types by default, while inserts into existing tables preserve those tables’ column types. ( #679 ) The sqlite-utils insert data.db creatures creatures.csv --detect-types flag was a later addition to allow column types (text, integer, real) to be automatically detected based on the data in a CSV. It should be the default, and releasing a 4.0 means I can make it so. table.extract() and extracts= no longer create lookup table records for all- null values. ( #186 ) The oldest issue addressed by this release - the underlying bug was opened (by me) in October 2020. See Upgrading from 3.x to 4.0 for details on backwards-incompatible changes. The detailed release notes for the features and fixes shipped during the 4.0 pre-release cycle are available in 4.0a0 , 4.0a1 , 4.0rc1 , 4.0rc2 , 4.0rc3 and 4.0rc4 . The upgrade guide was entirely written by Claude Fable 5, Claude Opus 4.8 and GPT-5.5. The same is true of the release notes. This is the kind of documentation I've slowly become comfortable outsourcing to the robots. It doesn't need to convince people of anything, or express any opinions - its job is to be as accurate and detailed as possible. I've reviewed the release notes closely and can confirm they are accurate and comprehensive. Claude Fable 5 helped a lot I released the first alpha of sqlite-utils 4.0 over a year ago . I've been dragging my heels on the stable release because of the amount of work it would take to track down and clean up the many other minor design flaws that a major version number allowed me to take on. Assistance from Claude Fable 5 (and to a lesser extent Opus 4.8 and GPT-5.5) gave me just the boost I needed to overcome inertia and make the most of the time I could afford to spend on this library. Fable has really good taste in API design, and is relentlessly proactive if you give it a more open goal. My most successful prompt was a review task that I issued against what I thought was the last release candidate: review the changes on main since the last tagged 3.x release - I am about to ship them as sqlite-utils 4.0, a stable version that promises no backwards-incompatible fixes for a very long time. review the changelog and upgrade guide, and write yourself scratch scripts to try out all of the new features in v4 - save those scripts but don't commit them I tried this with GPT-5.5 xhigh in Codex Desktop and Fable 5 in Claude Code. GPT-5.5 wrote 5 Python scripts and didn't turn up anything particularly interesting - its final report is here . Fable 5 wrote 12 scripts , identified 4 release blockers and 10 additional issues in its report , and built a neat combined repro script , which, when run, output the following: === 1. Failed db.execute() write leaves an implicit transaction open === in_transaction after failed write: True BUG: table 'other' silently lost when connection closed === 2. Leading ';' bypasses the query() first-token scanner === BUG: raised OperationalError: no such savepoint: sqlite_utils_query BUG: row persisted despite rollback (count=1) === 3. Rejected write PRAGMA via query() still takes effect === BUG: user_version=5 after 'rejected' statement (docs say no effect) === 4. Implicit compound FK resolves pk columns in table order, not PK order === BUG: other_columns reported as ('b', 'a'), should be ('a', 'b') BUG: transform of valid data raised IntegrityError: FOREIGN KEY constraint failed === 5. ForeignKey (now a dataclass) is no longer hashable === BUG: cannot use 'sqlite_utils.db.ForeignKey' as a set element (unhashable type: 'ForeignKey') === 6. Mixed ForeignKey objects and tuples in foreign_keys= rejected === BUG: foreign_keys= should be a list of tuples === 7. insert --csv into an EXISTING table transforms its column types === BUG: existing zip '01234' is now 1234 (column type: int) === 8. insert(pk=, alter=True) regression: InvalidColumns before alter runs === BUG: InvalidColumns: Invalid primary key column ['id'] for table t with columns ['a'] === 9. migrate --stop-before an already-applied migration applies everything === BUG: m2 was applied despite --stop-before m1 (m1 already applied) === 10. ensure_autocommit_on() silently commits an open transaction === BUG: row survived rollback (count=1) - transaction was committed I found myself agreeing with almost all of them. Here's the PR with 16 commits where we worked through them in turn. There's no doubt in my mind that sqlite-utils 4.0 is a significantly higher-quality release than if I had built it without the assistance of the latest frontier models. Tags: schema-migrations , projects , sqlite , ai , sqlite-utils , annotated-release-notes , generative-ai , llms , ai-assisted-programming , anthropic , claude , agentic-engineering , claude-mythos-fable",
         "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything"
+        "evidence": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything"
       }
     ],
     "usableFor": [
@@ -792,27 +794,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_500957cffe3c05eb",
+    "sourceId": "src_simonwillison-blog_12995732b7482c63",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
-    "title": "sqlite-utils 4.0rc3",
-    "publishedAt": "2026-07-06T05:40:08.000Z",
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+    "title": "sqlite-migrate 0.2",
+    "publishedAt": "2026-07-07T16:33:55.000Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: sqlite-utils 4.0rc3 Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
+      "Release: sqlite-migrate 0.2 Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
       "Read the report and learn how to measure and remediate technical debt across your codebase.",
-      "Get the report 6th July 2026 Release sqlite-utils 4.0rc3 &mdash; Python CLI utility and library for manipulating SQLite databases I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger .",
-      "The biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release."
+      "Get the report 7th July 2026 Release sqlite-migrate 0.2 &mdash; A simple database migration system for SQLite, based on sqlite-utils The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency.",
+      "Posted 7th July 2026 at 4:33 pm Recent articles sqlite-utils 4.0, now with database schema migrations - 7th July 2026 sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) - 5th July 2026 Have your agent record video demos of its work with shot-scraper video - 30th June 2026 This is a beat by Simon Willison, posted on 7th July 2026 ."
     ],
     "claims": [
       {
-        "text": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger . The biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release. sqlite-utils also now follows SQLite's convention for case insensitive column names, which turned out to touch a bunch of different places at once . Tags: projects , sqlite , sqlite-utils , annotated-release-notes , gpt , claude-mythos-fable",
+        "text": "Release: sqlite-migrate 0.2 The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency. Tags: sqlite-utils",
         "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything"
+        "evidence": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything"
       }
     ],
     "usableFor": [
@@ -822,27 +824,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_f6cf54165beecf8c",
+    "sourceId": "src_simonwillison-blog_5aac7231bc150b3b",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-    "publishedAt": "2026-07-05T01:00:48.000Z",
+    "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
+    "title": "github-code Web Component",
+    "publishedAt": "2026-07-07T16:18:16.000Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago.",
-      "Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible.",
-      "I started with this prompt, in Claude Code for web on my iPhone: Final review before shipping a stable 4.0 release - very important to spot any last minute things that would be a breaking change if we fix them later Here's that initial report it created for me.",
-      "There were some significant problems that I hadn't myself encountered yet - 5 that Fable categorized as \"release blockers\"."
+      "Tool: github-code Web Component Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
+      "Read the report and learn how to measure and remediate technical debt across your codebase.",
+      "Get the report 7th July 2026 Tool github-code Web Component An experimental Web Component built using GPT-5.5 and the following prompt : let's build a Web Component for embedding code from GitHub It takes URLs like that, converts them to https://raw.githubusercontent.com/simonw/sqlite-ast/437c759129154f05296324a7f82aa1246340dd14/sqlite_ast/parser.py, then uses fetch() to fetch them and displays the specified range of lines - with line numbers, no syntax highlighting though Show me a preview web browser so I can see your work Here's what it looks like embedded on this page: Posted 7th July 2026 at 4:18 pm Recent articles sqlite-utils 4.0, now with database schema migrations - 7th July 2026 sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) - 5th July 2026 Have your agent record video demos of its work with shot-scraper video - 30th June 2026 This is a beat by Simon Willison, posted on 7th July 2026 .",
+      "github 189 web-components 26 gpt 128 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
     ],
     "claims": [
       {
-        "text": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible. I started with this prompt, in Claude Code for web on my iPhone: Final review before shipping a stable 4.0 release - very important to spot any last minute things that would be a breaking change if we fix them later Here's that initial report it created for me. There were some significant problems that I hadn't myself encountered yet - 5 that Fable categorized as \"release blockers\". Here's the worst of the bunch: 1. delete_where() never commits and poisons the connection (data loss) Table.delete_where() ( sqlite_utils/db.py:2948 ) runs its DELETE via a bare self.db.execute() with no atomic() wrapper — compare Table.delete() at db.py:2944 , which wraps correctly. The connection is left in_transaction=True , so every subsequent atomic() call takes the savepoint branch ( db.py:430-440 ) and never commits either. Reproduced end-to-end: db = sqlite_utils . Database ( \"dw.db\" ) db [ \"t\" ]. insert_all ([{ \"id\" : i } for i in range ( 3 )], pk = \"id\" ) db [ \"t\" ]. delete_where ( \"id = ?\" , [ 0 ]) # conn.in_transaction is now True db [ \"t\" ]. insert ({ \"id\" : 50 }) db [ \"u\" ]. insert ({ \"a\" : 1 }) db . close () # Reopen: rows are [0, 1, 2] — the delete, row 50, AND table u are all gone. That's a really bad bug! Very glad I didn't ship that, although at least it would have been a bug I could fix in a 4.0.1 point release, not a design flaw that would force a 5.0. Over the course of 37 prompts, 34 commits and +1,321 -190 code changes over 30 separate files, we worked through the entire set of feedback in turn, making several other design improvements along the way. A weird thing about coding agents is that harder tasks like this one actually provide more opportunity to do other things at the same time, since the agent sometimes needs 10-15 minutes to churn away on a new task. I went out to enjoy the Half Moon Bay 4th of July parade, occasionally checking in and prompting the next step for Fable from my phone. Full details in the PR and this shared transcript . I switched to my laptop for the final review, which I conducted through GitHub's PR interface. The most significant changes relate to transaction handling, which was the signature new feature in the earlier RC . The new RC now includes comprehensive documentation on the new transaction model, the intro to which I'll quote here in full: Every method in this library that writes to the database - insert() , upsert() , update() , delete() , delete_where() , transform() , create_table() , create_index() , enable_fts() and the rest - runs inside its own transaction and commits it before returning. Your changes are saved to disk as soon as the method call finishes: db = Database ( \"data.db\" ) db . table ( \"news\" ). insert ({ \"headline\" : \"Dog wins award\" }) # The new row is already saved - no commit() required The same applies to raw SQL executed with db.execute() - a write statement is committed as soon as it has run. You never need to call commit() , and you do not need to close the database to persist your changes. There are exactly two situations where you need to think about transactions: You want to group several write operations together, so they either all succeed or all fail - use db.atomic() . You are managing a transaction yourself with db.begin() , in which case nothing is committed until you commit - the library will never commit a transaction you opened. In reviewing Fable's documentation - I find that reviewing the documentation edits first is an excellent way to build an initial understanding of what has changed - I spotted this detail : db.atomic() and the automatic per-method transactions are designed for connections in Python's default transaction handling mode. Connections created with the Python 3.12+ sqlite3.connect(..., autocommit=True) or autocommit=False options are not supported, because commit() and rollback() behave differently on those connections. I admit I hadn't thought about how sqlite-utils would react to the more recent autocommit setting , added in Python 3.12. It turns out \"behave differently on those connections\" equated to almost the entire test suite failing, so I worked with the model to ensure that this difference would not break how the library works. And a final review by GPT-5.5 I used to think that the idea of having one model review the work of another was somewhat absurd - it felt weirdly superstitious. The problem is it really does work - I've started habitually having Anthropic's best model review OpenAI's work and vice versa, because I've had that turn up interesting results often enough to be valuable. I prompted Codex Desktop and GPT-5.5 xhigh with the following: Review changes since the last RC. Also confirm that the changelog is up-to-date. Which was enough to turn up two issues worth investigating: Findings [P1] sqlite_utils/db.py:663 db.query() now rejects non-row statements only after calling db.execute() , and sqlite_utils/db.py:705 auto-commits those writes first. So db.query(\"update ...\") raises ValueError but the update is already committed. That is a surprising side effect for a method documented as “can only be used with SQL that returns rows.” [P1] sqlite_utils/db.py:672 INSERT ... RETURNING through db.query() only commits after the returned generator is fully exhausted. db.query(\"insert ... returning ...\") without iteration, or common next(db.query(...)) usage, leaves the transaction open and the write can be rolled back on close. This contradicts docs/changelog.rst:15 and docs/python-api.rst:232 , which say it takes effect without iteration. I pasted that into a fresh Fable session, which ran some experiments to confirm the problem: Both findings were confirmed. db.query() called self.execute() first, which auto-commits writes, and only then checked cursor.description — so db.query(\"update ...\") committed the update before raising ValueError . And the INSERT ... RETURNING commit lived at the end of the returned generator, so it never fired unless you exhausted the iterator — next(db.query(...)) or an un-iterated call left the transaction open, contradicting what the changelog and docs promise. Here's the PR with the fix, and the full Claude Code transcript . Reviewing this code helped me build a better mental model of the edge cases of SQLite transaction semantics! For an estimated (unsubsidized) cost of $149.25 I upgraded to the Claude Max $200/month plan (I was previously on $100/month) to increase my Fable allowance for the remaining time until the July 7th Fablepocalypse , when even Claude Max subscribers will have to pay full API cost for the model. I was curious as to how much this would have cost me if I had been paying those costs directly. At first I thought those numbers weren't available to me since I had run the work remotely using Claude Code for web, and then I realized I could run AgentsView inside that existing session to get that cost estimate! Run \"uvx agentsview --help\"​ and then use that tool to calculate the cost of this session Claude figured out how to use the session list --include-children command and came out with the following: Transcript Model Cost Main session claude-fable-5 $141.02 API-surface sweep agent claude-fable-5 $2.40 Transactions/atomic review agent claude-fable-5 $2.39 Post-rc1 commits review agent claude-fable-5 $1.72 Migrations review agent claude-fable-5 $1.40 Prompt-counting agent claude-opus-4-8 $0.32 Total $149.25 I'm very glad I'm on that subscription! I really should have followed my own advice and leaned more heavily into subagents with cheaper models. Here's what claude.ai/settings/usage is showing me right now: I have several other major Fable-driven projects on the go right now as well, with the goal of hitting 100% on that Fable bar just in time for the price increase. The full release notes for sqlite-utils 4.0rc2 Here are the full release notes for the RC. I had Fable add these to an \"Unreleased\" section of the changelog as each change landed, reviewing them as it went. This has the neat side effect that the commit history of the changelog acts as a concise summary of each of the changes that went into the release. In the past I've had a policy of writing release notes by hand, but honestly these are better than I would have created myself. Release notes are a great example of writing that I'm OK to outsource to agents because they need to be boring, predictable and accurate. Breaking changes: Write statements executed with db.execute() are now committed automatically, unless a transaction is already open in which case they join it. Previously they opened an implicit transaction that stayed open until something committed it - writes appeared to work when read on the same connection but were silently rolled back when the connection closed. Code that relied on rolling back uncommitted db.execute() writes should use the new db.begin() method to open an explicit transaction first. The transaction model is documented in full at Transactions and saving your changes . db.query() now executes its SQL as soon as it is called, rather than waiting until the returned generator is first iterated. Rows are still fetched lazily during iteration. SQL errors are now raised at the call site, statements such as INSERT ... RETURNING are executed and committed immediately without needing to iterate over their results, and passing a statement that returns no rows - previously a silent no-op - now raises a ValueError recommending db.execute() instead. A statement rejected this way is rolled back before the error is raised, so it has no effect on the database. Python API validation errors now raise ValueError instead of AssertionError . Previously invalid arguments - such as create_table() with no columns, transform() on a table that does not exist, or passing both ignore=True and replace=True - were rejected using bare assert statements, which are silently skipped when Python runs with the -O flag. Code that caught AssertionError for these cases should catch ValueError instead. table.upsert() and table.upsert_all() now raise PrimaryKeyRequired if a record is missing a value for any primary key column, or has a value of None for one. Previously such records - which can never match an existing row - were quietly inserted as brand new rows, or triggered a confusing KeyError after the insert had already taken place. db.enable_wal() and db.disable_wal() now raise a sqlite_utils.db.TransactionError if called while a transaction is open. Previously they would silently commit the open transaction as a side effect of changing the journal mode, breaking the rollback guarantee of db.atomic() and of user-managed transactions. The View class no longer has an enable_fts() method. It existed only to raise NotImplementedError , since full-text search is not supported for views - calling it now raises AttributeError instead, and the method no longer appears in the API reference. The sqlite-utils enable-fts command shows a clean error when pointed at a view. The no-op -d/--detect-types flag has been removed from the insert and upsert commands. Type detection has been the default for CSV/TSV data since 4.0a1, so the flag did nothing - invocations using it should simply drop it. --no-detect-types remains available to disable detection. Database() now raises a sqlite_utils.db.TransactionError if passed a connection created with the Python 3.12+ sqlite3.connect(..., autocommit=True) or autocommit=False options. commit() and rollback() behave differently on those connections, which previously caused every write made by the library to be silently discarded when the connection closed. Everything else: Fixed a bug where table.delete_where() , table.optimize() and table.rebuild_fts() did not commit their changes, leaving the connection inside an open transaction. Their work - and any subsequent writes - could then be silently rolled back when the connection was closed. All three now use db.atomic() , consistent with the other write methods. The sqlite-utils drop-table command now refuses to drop a view, and drop-view refuses to drop a table. Previously each would silently drop the wrong type of object if the name matched. Both now exit with an error suggesting the correct command to use. Migrations applied by the new migrations system now run inside a transaction, together with the record of the migration having been applied. If a migration raises an exception its changes are rolled back and it stays pending, so it can be safely re-applied after the error is fixed. Migrations that cannot run inside a transaction, such as those executing VACUUM , can opt out using @migrations(transactional=False) - see Migrations and transactions . table.upsert() and table.upsert_all() now detect the primary key or compound primary key of an existing table, so the pk= argument is no longer required when upserting into a table that already has a primary key. db.table(table_name).insert({}) can now be used to insert a row consisting entirely of default values into an existing table, using INSERT INTO ... DEFAULT VALUES . ( #759 ) Improvements to the sqlite-utils migrate command: --stop-before values that do not match any known migration are now an error instead of being silently ignored, --stop-before now works correctly with migration files that still use the older sqlite_migrate.Migrations class, and --list is now a read-only operation that no longer creates the database file or the migrations tracking table. migrations.applied() now returns migrations in the order they were applied. New db.begin() , db.commit() and db.rollback() methods for taking manual control of transactions, as an alternative to the db.atomic() context manager. New documentation: Transactions and saving your changes describes how transactions work and when changes are committed, and a new Upgrading page details the changes needed to move between major versions. Tags: projects , sqlite , sqlite-utils , annotated-release-notes , anthropic , claude , llm-pricing , coding-agents , claude-code , agentic-engineering , gpt , claude-mythos-fable",
+        "text": "Tool: github-code Web Component An experimental Web Component built using GPT-5.5 and the following prompt : let's build a Web Component for embedding code from GitHub It takes URLs like that, converts them to https://raw.githubusercontent.com/simonw/sqlite-ast/437c759129154f05296324a7f82aa1246340dd14/sqlite_ast/parser.py, then uses fetch() to fetch them and displays the specified range of lines - with line numbers, no syntax highlighting though Show me a preview web browser so I can see your work Here's what it looks like embedded on this page: Tags: github , web-components , gpt",
         "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
+        "evidence": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything"
       }
     ],
     "usableFor": [
@@ -852,27 +854,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_8797ebc789d1e617",
+    "sourceId": "src_simonwillison-blog_15e6134ea97cffa9",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
-    "title": "sqlite-utils 4.0rc2",
-    "publishedAt": "2026-07-05T00:47:38.000Z",
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
+    "title": "sqlite-utils 4.0",
+    "publishedAt": "2026-07-07T15:42:43.000Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: sqlite-utils 4.0rc2 Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
+      "Release: sqlite-utils 4.0 Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
       "Read the report and learn how to measure and remediate technical debt across your codebase.",
-      "Get the report 5th July 2026 Release sqlite-utils 4.0rc2 &mdash; Python CLI utility and library for manipulating SQLite databases See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) .",
-      "Posted 5th July 2026 at 12:47 am Recent articles sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) - 5th July 2026 Have your agent record video demos of its work with shot-scraper video - 30th June 2026 Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code - 22nd June 2026 This is a beat by Simon Willison, posted on 5th July 2026 ."
+      "Get the report 7th July 2026 Release sqlite-utils 4.0 &mdash; Python CLI utility and library for manipulating SQLite databases See sqlite-utils 4.0, now with database schema migrations for details.",
+      "Posted 7th July 2026 at 3:42 pm Recent articles sqlite-utils 4.0, now with database schema migrations - 7th July 2026 sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) - 5th July 2026 Have your agent record video demos of its work with shot-scraper video - 30th June 2026 This is a beat by Simon Willison, posted on 7th July 2026 ."
     ],
     "claims": [
       {
-        "text": "Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) .",
+        "text": "Release: sqlite-utils 4.0 See sqlite-utils 4.0, now with database schema migrations for details. Tags: sqlite-utils",
         "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything"
+        "evidence": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything"
       }
     ],
     "usableFor": [
@@ -882,27 +884,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_74ff325db522161d",
+    "sourceId": "src_simonwillison-blog_a9c59824608b31dc",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
-    "title": "Building a World Map with only 500 bytes",
-    "publishedAt": "2026-07-04T23:09:02.000Z",
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
+    "title": "sqlite-utils 4.0rc4",
+    "publishedAt": "2026-07-07T05:36:15.000Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Building a World Map with only 500 bytes Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
+      "Release: sqlite-utils 4.0rc4 Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
       "Read the report and learn how to measure and remediate technical debt across your codebase.",
-      "Get the report 4th July 2026 - Link Blog Building a World Map with only 500 bytes ( via ) Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate compression, which is then wired together using this neat snippet of JavaScript.",
-      "I didn't know you could use fetch() with data: URIs like this: fetch('data:;base64,1ZpLsgIxCEXnrM...==').then( r => r.body.pipeThrough(new DecompressionStream('deflate-raw')) ).then( s => new Response(s).text() ).then( t => b.innerHTML = ' ' + t ) Posted 4th July 2026 at 11:09 pm Recent articles sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) - 5th July 2026 Have your agent record video demos of its work with shot-scraper video - 30th June 2026 Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code - 22nd June 2026 This is a link post by Simon Willison, posted on 4th July 2026 ."
+      "Get the report 7th July 2026 Release sqlite-utils 4.0rc4 &mdash; Python CLI utility and library for manipulating SQLite databases The last RC before the 4.0 stable release.",
+      "Mainly implements feedback from a detailed review by Claude Fable 5."
     ],
     "claims": [
       {
-        "text": "Building a World Map with only 500 bytes Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate compression, which is then wired together using this neat snippet of JavaScript. I didn't know you could use fetch() with data: URIs like this: fetch('data:;base64,1ZpLsgIxCEXnrM...==').then( r => r.body.pipeThrough(new DecompressionStream('deflate-raw')) ).then( s => new Response(s).text() ).then( t => b.innerHTML = ' ' + t ) Via Hacker News Tags: ascii-art , data-urls , javascript",
+        "text": "Release: sqlite-utils 4.0rc4 The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5. Tags: sqlite-utils , claude-mythos-fable",
         "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything"
+        "evidence": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything"
       }
     ],
     "usableFor": [
@@ -917,7 +919,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-07T13:09:14.164Z",
+    "publishedAt": "2026-07-07T23:54:56.071Z",
     "categoryHints": [
       "ai-agentic"
     ],
