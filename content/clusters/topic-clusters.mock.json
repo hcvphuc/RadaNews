@@ -1,18 +1,18 @@
 [
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-07",
+    "clusterId": "cluster_ai-vibe-coding_1_langchain-blog_2026-07-07",
     "category": "ai-vibe-coding",
-    "topic": "Research \\ Anthropic",
+    "topic": "LangChain Blog",
     "sourceIds": [
-      "src_anthropic-research_15aa8285dd0354e9",
       "src_langchain-blog_40ded3f923e3291d",
+      "src_simonwillison-blog_d795be1324e59ced",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
       "src_simonwillison-blog_500957cffe3c05eb",
       "src_simonwillison-blog_f6cf54165beecf8c",
-      "src_simonwillison-blog_6e8efb5c1189fe24"
+      "src_replit-blog_49899058ba32f8e5"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: LangChain Blog, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -22,13 +22,13 @@
     "topic": "News | Luma",
     "sourceIds": [
       "src_luma-blog_c7449029956c34f9",
+      "src_anthropic-research_15aa8285dd0354e9",
       "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_0fcba3f1a537c41a",
-      "src_reddit-aiagents_546314281d2a2a25",
-      "src_reddit-aiagents_379fc323e0ee04ac"
+      "src_reddit-aiagents_35309219dcb3ae8c",
+      "src_reddit-aiagents_ce23f1f61a502f3a"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Luma Labs Blog, Cursor Changelog, r/AI_Agents.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Luma Labs Blog, Anthropic Research, Cursor Changelog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -49,18 +49,18 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-07",
+    "clusterId": "cluster_ai-vibe-coding_2_hugging-face-blog_2026-07-07",
     "category": "ai-vibe-coding",
-    "topic": "Replit — Replit Blog – Product updates from the team",
+    "topic": "Hugging Face – Blog",
     "sourceIds": [
-      "src_replit-blog_49899058ba32f8e5",
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_74ff325db522161d",
+      "src_reddit-aiagents_dc6de78cd5c06313",
       "src_simonwillison-blog_8797ebc789d1e617",
       "src_vercel-ai-blog_2026-07-07_fallback"
     ],
-    "articleWorthinessScore": 0.98,
-    "reasonSelected": "Score 0.98 from 5 source item(s), 4 live crawl(s), strongest sources: Replit Blog, Hugging Face Blog, Simon Willison's Weblog.",
+    "articleWorthinessScore": 0.96,
+    "reasonSelected": "Score 0.96 from 5 source item(s), 4 live crawl(s), strongest sources: Hugging Face Blog, Simon Willison's Weblog, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
