@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-07T23:54:56.306Z",
+    "publishedAt": "2026-07-08T12:11:07.762Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-07T23:54:56.952Z",
+    "publishedAt": "2026-07-08T12:11:13.649Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-07_fallback",
+    "sourceId": "src_openai-blog_2026-07-08_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-07T23:54:55.530Z",
+    "publishedAt": "2026-07-08T12:11:07.042Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-07_fallback",
+    "sourceId": "src_mcp-blog_2026-07-08_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-07T23:54:56.542Z",
+    "publishedAt": "2026-07-08T12:11:07.369Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -196,55 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_dc6de78cd5c06313",
+    "sourceId": "src_reddit-aiagents_ff591aeae278c191",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1upo2pj/my_client_had_40k_in_unpaid_invoices_and_refused/",
-    "title": "My client had 40K in unpaid invoices and refused to chase them. His reason broke my brain.",
-    "publishedAt": "2026-07-07T07:38:17.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uqpg1i/how_much_time_do_you_lose_to_agenttool_repos_that/",
+    "title": "How much time do you lose to agent/tool repos that turn out not to fit your stack?",
+    "publishedAt": "2026-07-08T11:04:41.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I build automations for business owners, been at it 8 years.",
-      "Two years ago I was inside an agency owners operations doing a completely unrelated project….",
-      "we were automating his client reporting.",
-      "While digging through his systems I opened his invoicing dashboard by accident and just stared at it."
+      "I chase a lot of new agent tooling and MCP servers.",
+      "The failure mode is always the same: looks great in the demo, clone it, and only then discover it assumes a language/runtime/setup I'm not on.",
+      "Thinking about a tool that vets a repo against your codebase and tells you fit-or-skip before you commit.",
+      "Wanted to sanity-check with people who do this daily: is this friction real for you, or a non-issue?"
     ],
     "claims": [
       {
-        "text": "I build automations for business owners, been at it 8 years. Two years ago I was inside an agency owners operations doing a completely unrelated project…. we were automating his client reporting. Boring stuff. While digging through his systems I opened his invoicing dashboard by accident and just stared at it. A little over 40K sitting in invoices past 60 days. Some past 120. This was a guy doing maybe 35K a month in revenue, stressing about payroll, telling me business was tight. I asked him about it. And I will never forget the answer because Ive since heard versions of it from a dozen other owners. \"Yeah I need to get to that. Its just…. these are good clients, you know? I dont want to be the guy hounding them over an invoice.\" He was about to skip his own salary that month. The money to cover it was sitting right there, already earned, work already delivered, clients already happy. And he wouldnt send an email because it felt rude. I thought this guy was uniquely bad at this. Hes not. I went looking and QuickBooks has a whole report on it…. 56% of small businesses are owed money right now, the average is 17,500 bucks, nearly half have invoices past 30 days. Late invoices are behind about a quarter of small business bankruptcies. And the stat that explains my agency guy perfectly…. 60% of owners admit they avoid chasing overdue bills because they dont want to damage the relationship. Read that again. The most common reason businesses dont collect money they already earned is that asking feels awkward. Not disputes. Not deadbeat clients. Awkwardness. Chasing invoices takes 20 minutes a week. Nobody skips it because of the 20 minutes. So we fixed his. And the fix was so dumb it almost feels wrong sharing it as a professional insight. First thing we did was create accounts@ his domain. Thats it. The \"accounts team\" was him, then later it was software, but the client never needs to know either way. Because heres the thing I watched happen in real time…. a reminder from the founder personally reads like a confrontation. The exact same words from \"the accounts team\" reads like process. Nobody takes process personally. Nobody has ever ended a business relationship because an accounts department sent a polite reminder. And it turned him into the good cop in his own business. A client brought up a reminder on a call once and I heard him say \"ah dont stress, the system sends those automatically…. but yeah if you could sort it that would be great.\" Relationship completely fine. Invoice paid that afternoon. Second thing, we built a ladder so no invoice ever depended on his courage again. Day 3 past due…. friendly nudge, invoice attached, payment link inside the message. Not \"please arrange payment at your earliest convenience.\" A link. Click, pay, done in under a minute, because every extra step a client has to take adds another week of delay. Day 14…. firmer, still warm. Day 30…. plain, unemotional final notice with whats next. Nothing clever about any of the wording. The whole trick is that the ladder never skips a rung and never fires late, which is exactly what humans are terrible at. He used to send reminder one, feel bad, and never send reminder two. The sequence doesnt feel bad. Third thing, and this is what recovered the money hed fully given up on. Two of his biggest overdue clients werent refusing to pay…. they were embarrassed. Money was tight on their end and ignoring the invoice was easier than admitting it. So instead of the final notice we had the sequence offer a split. \"If it helps, we can do this in three parts over three months, heres the link for part one.\" Both took it within a day. Cant pay almost never means wont pay. It usually means cant pay all at once, this month, and nobody wants to say that out loud. Six weeks after we set this up, a little over half the 40K had come back. He didnt personally send a single email. Later we wired the whole thing into his accounting system so the ladder starts itself the moment an invoice goes 3 days over, links generated automatically, splits offered automatically when someone replies that things are tight. It has run untouched for two years. But the honest truth is the automated version is just the manual system with the memory problem removed. The alias, the ladder, and the split did all the actual work, and those cost nothing. So if any of this sounded familiar…. do the thing tonight that he wouldnt do for a year. Pull up every invoice 30 or more days past due and add up the total. That number will annoy you, which is the point. Make the accounts@ alias. Send the friendly version to all of them with a payment link inside. And to the biggest one, offer the split before they have to ask. The money you already earned is the cheapest money youll ever collect. My guy nearly missed his own payroll with 40K of it sitting in other peoples bank accounts, because sending an email felt rude. Half this subreddit is doing the same thing right now. submitted by /u/Warm-Reaction-456 [link] [comments]",
+        "text": "I chase a lot of new agent tooling and MCP servers. The failure mode is always the same: looks great in the demo, clone it, and only then discover it assumes a language/runtime/setup I'm not on. Hours gone. Thinking about a tool that vets a repo against your codebase and tells you fit-or-skip before you commit. Wanted to sanity-check with people who do this daily: is this friction real for you, or a non-issue? What would make a \"should I even try this repo\" verdict actually trustworthy? submitted by /u/Fun-Platypus5650 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1upo2pj/my_client_had_40k_in_unpaid_invoices_and_refused/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_0f48d7c17e210af9",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1upxvtb/i_sent_a_fake_inquiry_to_my_own_clients_business/",
-    "title": "I sent a fake inquiry to my own clients business. Took them 26 hours to reply. Their competitor took 11 minutes.",
-    "publishedAt": "2026-07-07T15:08:53.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Last year I was building a quote calculator for a services company….",
-      "They have a decent business and were spending about 4K a month on ads, the owner was complaining that the leads were of \"low quality.\" Pretty standard stuff tbh and every owner says this.",
-      "I make automations and MVPs for business owners, it's been 8 years now.",
-      "Instead of arguing I did one thing that I now do with every client."
-    ],
-    "claims": [
-      {
-        "text": "Last year I was building a quote calculator for a services company…. They have a decent business and were spending about 4K a month on ads, the owner was complaining that the leads were of \"low quality.\" Pretty standard stuff tbh and every owner says this. I make automations and MVPs for business owners, it's been 8 years now. Instead of arguing I did one thing that I now do with every client. I became a lead. I filled out their own contact form on a Tuesday afternoon with a fake name and a real phone number and then started a timer. It took freakin 26 hours. That's how long their \"low quality lead\" sat before anyone replied. Then I sent the same inquiry to their biggest competitor. After 11 minutes a human called me back . I gave the owner both timestamps and saw his face. He wasn't losing to a better competitor. He was losing to a faster one, paying 4K a month for leads that went cold in an inbox no one owned. And this is everywhere. Harvard Business Review ran a study on this…. companies that respond within an hour are about 7x more likely to qualify the lead than ones who wait even a couple hours, and most companies take almost 2 full days to respond at all. 2 freaking days. The lead filled your form, waited 20 minutes, googled your competitor, and bought from whoever picked up. Your ads worked perfectly but your inbox killed the sale. Here's the part that messes with people. Ask any owner why leads sit and it's never on purpose. The inquiry goes to a shared inbox, everyone assumes someone else has it, the owner checks it at night, replies to the easy ones, and by then the lead has moved on. It isn't laziness. It's that the speed was never anyones JOB. We fixed my clients the crude way first because you don't need software to start. One person owns every inquiry, notifications on their phone, and a hard rule…. every lead gets a response within 5 minutes during work hours, even if the response is just \"got your message, calling you in an hour\" Saved replies for the 6 questions that make up 90% of inquiries. That's it. His booked calls literally went up within the first 2 weeks with same ad spend and same \"low quality\" leads. Then we built the version that doesn't depend on anyone's discipline because discipline slips and leads come in at 9pm. Now when an inquiry hits the form or WhatsApp, an agent replies inside 2 minutes…. answers from his actual FAQ, asks the two qualifying questions his sales guy would ask, drops a calendar link, and logs the whole exchange so a human picks up a warm conversation in the morning instead of a cold name in an inbox. The 9pm lead gets treated better than his old system treated the 2pm one. That was over a year ago and it's still the highest ROI thing on his books, because it isn't saving him time…. it's catching revenue that was already paid for and was leaking. The thing I want you to actually do…. secretly shop yourself tonight. Fill your own contact form, message your own business WhatsApp, and start a timer. Do the same to your 2 biggest competitors. If your number is worse than theirs, you found the leak, and no ad budget on earth outruns a 26 hour reply. Fastest response wins the deal way more often than the best response. submitted by /u/Warm-Reaction-456 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1upxvtb/i_sent_a_fake_inquiry_to_my_own_clients_business/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uqpg1i/how_much_time_do_you_lose_to_agenttool_repos_that/"
       }
     ],
     "usableFor": [
@@ -254,12 +225,41 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-07_fallback",
+    "sourceId": "src_reddit-aiagents_5501f687710ef6e3",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uqk914/ai_agents_recreate_the_rockstar_developer_problem/",
+    "title": "AI agents recreate the “rockstar developer” problem, just faster",
+    "publishedAt": "2026-07-08T06:10:22.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "The rockstar dev problem: one person builds something only they understand, then leaves, and the team spends months untangling it.",
+      "This post’s take: agents do the same, minus the memory.",
+      "An agent writes a clever fix in the morning, a different one by afternoon, then “refactors” both with no memory of either.",
+      "“The agent can explain it” isn’t the same as the team understanding it."
+    ],
+    "claims": [
+      {
+        "text": "The rockstar dev problem: one person builds something only they understand, then leaves, and the team spends months untangling it. This post’s take: agents do the same, minus the memory. A human rockstar remembers why. An agent writes a clever fix in the morning, a different one by afternoon, then “refactors” both with no memory of either. “The agent can explain it” isn’t the same as the team understanding it. Fix: make conventions visible (AGENTS.md, ADRs, tests that catch improvising), or the agent imports rules from somewhere else. How’s your team catching this drift? submitted by /u/myfear3 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uqk914/ai_agents_recreate_the_rockstar_developer_problem/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_stability-ai-blog_2026-07-08_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-07T23:54:55.894Z",
+    "publishedAt": "2026-07-08T12:11:07.186Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-07T23:54:56.379Z",
+    "publishedAt": "2026-07-08T12:11:07.904Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-07T23:54:56.246Z",
+    "publishedAt": "2026-07-08T12:11:07.297Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-07_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-07T23:54:55.866Z",
+    "publishedAt": "2026-07-08T12:11:07.216Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-07_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-07T23:54:55.871Z",
+    "publishedAt": "2026-07-08T12:11:07.208Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-07T23:54:55.852Z",
+    "publishedAt": "2026-07-08T12:11:07.300Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-07T23:54:55.985Z",
+    "publishedAt": "2026-07-08T12:11:07.340Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-07T23:54:56.480Z",
+    "publishedAt": "2026-07-08T12:11:07.957Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-07_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-07T23:54:55.930Z",
+    "publishedAt": "2026-07-08T12:11:07.266Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-07T23:54:56.172Z",
+    "publishedAt": "2026-07-08T12:11:07.768Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-07T23:54:56.539Z",
+    "publishedAt": "2026-07-08T12:11:07.451Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-07_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-08_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-07T23:54:56.501Z",
+    "publishedAt": "2026-07-08T12:11:07.563Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-07T23:54:56.304Z",
+    "publishedAt": "2026-07-08T12:11:07.787Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-07T23:54:56.139Z",
+    "publishedAt": "2026-07-08T12:11:07.518Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-07_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-07T23:54:56.073Z",
+    "publishedAt": "2026-07-08T12:11:07.463Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-07T23:54:57.680Z",
+    "publishedAt": "2026-07-08T12:11:09.850Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-07_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-07T23:54:56.118Z",
+    "publishedAt": "2026-07-08T12:11:07.510Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-07T23:54:56.200Z",
+    "publishedAt": "2026-07-08T12:11:07.596Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,9 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up A Web Data Recipe for Medical Encoder Pretraining\",\"upvotes\":8,\"upvotes7d\":3,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/619cfd1dc7ef4b3b7b6a1e06/pWWWLPbG4pWusVEOX-3Sx.png\",\"authorsData\":[{\"_id\":\"619cfd1dc7ef4b3b7b6a1e06\",\"avatarUrl\":\"/avatars/ea3c8a9f178dfc1df3f75d71ecbe39dd.svg\",\"fullname\":\"bofeng huang\",\"name\":\"bofenghuang\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":101,\"isUserFollowing\":false}],\"url\":\"/blog/bofenghuang/doctobert-fr-release\",\"apiPrefix\":\"/api/blog/bofenghuang/doctobert-fr-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a44abd49169bc5d647defce\",\"isUpvotedByUser\":false,\"numCoauthors\":2,\"publishedAt\":\"2026-07-01T08:26:43.153Z\",\"editedAt\":\"2026-07-01T08:26:43.153Z\",\"slug\":\"basert-release\",\"title\":\"BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal\",\"upvotes\":3,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"6a38d59535e11815005680dd\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/6a38d55b56a1afe98dd3bb43/itWKhSq3jRSp-yG-FEd2g.png\",\"fullname\":\"Base Compute\",\"name\":\"basecompute\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":5,\"isUserFollowing\":false}],\"url\":\"/blog/basecompute/basert-release\",\"apiPrefix\":\"/api/blog/basecompute/basert-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a4729366eebf7ece4c32e22\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-07-03T09:59:12.717Z\",\"editedAt\":\"2026-07-03T10:01:30.513Z\",\"slug\":\"teaching-a-15m-french-llm-to-think-deeper\",\"title\":\"🔁 Teaching a 15M French LLM to think deeper — and to know when to stop 🇫🇷\",\"upvotes\":3,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"663ce1f27e7bc3d3e4e5074e\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/663ce1f27e7bc3d3e4e5074e/Yob0LlKto6wIsDZWDHqLf.png\",\"fullname\":\"RDTvlokip\",\"name\":\"RDTvlokip\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":12,\"isUserFollowing\":false}],\"url\":\"/blog/RDTvlokip/teaching-a-15m-french-llm-to-think-deeper\",\"apiPrefix\":\"/api/blog/RDTvlokip/teaching-a-15m-french-llm-to-think-deeper\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false}],\"canCreateBlog\":false,\"isPro\":false,\"isBlogExplorer\":false,\"query\":{},\"url\":\"/blog\"}\"> Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Does Your LLM Know *When It's About to Be Wrong*?",
-      "ginigen-ai • 7 days ago • 20 Adding a GPU Without Building One FINAL-Bench • 5 days ago • 16 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 3 days ago • 15 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 8 days ago • 22 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 359 After the party comes the free lunch: regularizing ColBERT models to enhance pooling capabilities and reduce index footprint lightonai • 1 day ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 362 AstroBERT Small: Domain model for Astronomy NeuML • 6 days ago • 6 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 190 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • 6 days ago • 5 Heretic Grimoire VINAY-UMRETHE • 7 days ago • 5 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 14 days ago • 46 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 19 Claude Fable 5 — Technical Harness Report Svngoku • 6 days ago • 4 LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family lightonai • Jan 19 • 99 Taking Alpamayo to New Heights with Driving Foundation Models and Closed-Loop Training drmapavone • Jun 1 • 20 PitchFight AI: Practice the Pitch Before the Real Room prakhar811 • 23 days ago • 12 Where Does the Signal Live?",
-      "A Web Data Recipe for Medical Encoder Pretraining bofenghuang • 17 days ago • 8 BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal basecompute • 7 days ago • 3 🔁 Teaching a 15M French LLM to think deeper — and to know when to stop 🇫🇷 RDTvlokip • 5 days ago • 3 From Hugging Face to Amazon SageMaker Studio in one click July 7, 2026 Hugging Face Models on Foundry Managed Compute 1 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot 2 July 7, 2026 lerobot robotics LeRobot v0.6.0: Imagine, Evaluate, Improve +5 43 July 7, 2026 PRX Part 4: Our Data Strategy 5 July 6, 2026 kernels hub optimization 🤗 Kernels: Major Updates 21 July 6, 2026 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 71 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 24 June 30, 2026 Why Specialization Is Inevitable 11 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 42 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 8 June 24, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Adding a GPU Without Building One FINAL-Bench • 5 days ago • 17 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 3 days ago • 15 After the party comes the free lunch: regularizing ColBERT models to enhance pooling capabilities and reduce index footprint lightonai • 2 days ago • 11 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 359 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 362 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 9 days ago • 22 Does Your LLM Know *When It's About to Be Wrong*?",
+      "ginigen-ai • 7 days ago • 20 AstroBERT Small: Domain model for Astronomy NeuML • 7 days ago • 6 Atom2.7m: Representation-Level Specialization for Arithmetic-Aware Small Language Models ucr-max • about 21 hours ago • 6 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 190 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • 7 days ago • 5 Teaching a coding agent to deploy production endpoints on Amazon SageMaker hf-dwarez • about 21 hours ago • 5 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 14 days ago • 46 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 19 Heretic Grimoire VINAY-UMRETHE • 8 days ago • 5 Claude Fable 5 — Technical Harness Report Svngoku • 7 days ago • 4 NVIDIA Isaac Teleop and GR00T 1.7 Open VLA Model Available in LeRobot nvidia • 1 day ago • 4 Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face dvgodoy • Feb 11, 2025 • 128 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 36 LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family lightonai • Jan 19 • 99 From Hugging Face to Amazon SageMaker Studio in one click 5 July 7, 2026 Hugging Face Models on Foundry Managed Compute 10 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 4 July 7, 2026 lerobot robotics LeRobot v0.6.0: Imagine, Evaluate, Improve +5 46 July 7, 2026 PRX Part 4: Our Data Strategy 5 July 6, 2026 kernels hub optimization 🤗 Kernels: Major Updates 23 July 6, 2026 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 72 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 24 June 30, 2026 Why Specialization Is Inevitable 11 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 42 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 8 June 24, 2026 Previous 1 2 3 ...",
+      "59 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
+      "Adding a GPU Without Building One FINAL-Bench • 5 days ago • 17 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 3 days ago • 15 After the party comes the free lunch: regularizing ColBERT models to enhance pooling capabilities and reduce index footprint lightonai • 2 days ago • 11 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 359 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 362 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 9 days ago • 22 Does Your LLM Know *When It's About to Be Wrong*?"
     ],
     "claims": [
       {
@@ -919,7 +920,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-07T23:54:56.071Z",
+    "publishedAt": "2026-07-08T12:11:07.652Z",
     "categoryHints": [
       "ai-agentic"
     ],
