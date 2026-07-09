@@ -1,6 +1,6 @@
 [
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-08",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-09",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
@@ -15,23 +15,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_1_news-luma_2026-07-08",
-    "category": "ai-agentic",
-    "topic": "News | Luma",
-    "sourceIds": [
-      "src_luma-blog_c7449029956c34f9",
-      "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_5501f687710ef6e3",
-      "src_reddit-aiagents_ff591aeae278c191"
-    ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Luma Labs Blog, Hugging Face Blog, Cursor Changelog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-07-08",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-07-09",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -47,73 +31,89 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_github-code-web-component_2026-07-08",
+    "clusterId": "cluster_ai-video_1_introducing-gpt-live_2026-07-09",
     "category": "ai-video",
-    "topic": "github-code Web Component",
+    "topic": "Introducing GPT‑Live",
     "sourceIds": [
+      "src_simonwillison-blog_79afe03810defc05",
       "src_simonwillison-blog_5aac7231bc150b3b",
-      "src_simonwillison-blog_12995732b7482c63",
-      "src_simonwillison-blog_a9c59824608b31dc",
-      "src_kling-blog_9b8eef2edc427cc1"
+      "src_simonwillison-blog_af946a7bbcefe6d8",
+      "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_simonwillison-blog_12995732b7482c63"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Simon Willison's Weblog, Kling AI Blog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-08",
+    "clusterId": "cluster_ai-agentic_1_news-luma_2026-07-09",
+    "category": "ai-agentic",
+    "topic": "News | Luma",
+    "sourceIds": [
+      "src_luma-blog_c7449029956c34f9",
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_20d645cc2574774a",
+      "src_reddit-aiagents_3d3aa51dfc4f7992"
+    ],
+    "articleWorthinessScore": 0.98,
+    "reasonSelected": "Score 0.98 from 4 source item(s), 4 live crawl(s), strongest sources: Luma Labs Blog, Cursor Changelog, r/AI_Agents.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-09",
     "category": "ai-vibe-coding",
     "topic": "Replit — Replit Blog – Product updates from the team",
     "sourceIds": [
       "src_replit-blog_49899058ba32f8e5",
       "src_reddit-aiagents_3fd30bd4d2eab1f7",
-      "src_vercel-ai-blog_2026-07-08_fallback"
+      "src_reddit-aiagents_d37fbb243eabcec8",
+      "src_vercel-ai-blog_2026-07-09_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
+    "articleWorthinessScore": 0.94,
+    "reasonSelected": "Score 0.94 from 4 source item(s), 3 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_sqlite-utils-4-0_2026-07-08",
+    "clusterId": "cluster_ai-video_2_ai-ai_2026-07-09",
     "category": "ai-video",
-    "topic": "sqlite-utils 4.0",
+    "topic": "可灵 AI - 新一代 AI 创意生产力平台",
     "sourceIds": [
-      "src_simonwillison-blog_15e6134ea97cffa9",
+      "src_kling-blog_9b8eef2edc427cc1",
       "src_pika-blog_80e55ecea6acd04d",
-      "src_reddit-aivideo_2026-07-08_fallback",
-      "src_reddit-mediasynthesis_2026-07-08_fallback"
+      "src_reddit-aivideo_2026-07-09_fallback",
+      "src_reddit-mediasynthesis_2026-07-09_fallback"
     ],
-    "articleWorthinessScore": 0.71,
-    "reasonSelected": "Score 0.71 from 4 source item(s), 2 live crawl(s), strongest sources: Simon Willison's Weblog, Pika Labs Blog, r/aivideo.",
-    "confidence": "medium",
+    "articleWorthinessScore": 0.72,
+    "reasonSelected": "Score 0.72 from 4 source item(s), 2 live crawl(s), strongest sources: Kling AI Blog, Pika Labs Blog, r/aivideo.",
+    "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_weekly-hiring-thread_2026-07-08",
+    "clusterId": "cluster_ai-agentic_2_weekly-hiring-thread_2026-07-09",
     "category": "ai-agentic",
     "topic": "Weekly Hiring Thread",
     "sourceIds": [
       "src_reddit-aiagents_c7d4124bb6bbd40d",
-      "src_reddit-aiagents_ce515a76ea64d92d",
-      "src_openai-blog_2026-07-08_fallback",
-      "src_mcp-blog_2026-07-08_fallback"
+      "src_openai-blog_2026-07-09_fallback",
+      "src_mcp-blog_2026-07-09_fallback"
     ],
-    "articleWorthinessScore": 0.69,
-    "reasonSelected": "Score 0.69 from 4 source item(s), 2 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.61,
+    "reasonSelected": "Score 0.61 from 3 source item(s), 1 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-07-08",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-07-09",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-07-08_fallback",
-      "src_reddit-stablediffusion_2026-07-08_fallback",
-      "src_reddit-comfyui_2026-07-08_fallback",
-      "src_reddit-midjourney_2026-07-08_fallback"
+      "src_stability-ai-blog_2026-07-09_fallback",
+      "src_reddit-stablediffusion_2026-07-09_fallback",
+      "src_reddit-comfyui_2026-07-09_fallback",
+      "src_reddit-midjourney_2026-07-09_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",

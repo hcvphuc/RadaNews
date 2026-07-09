@@ -5,15 +5,15 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-08T12:11:07.762Z",
+    "publishedAt": "2026-07-09T00:06:20.185Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Observability & Evals Improving Agents is a Data Mining Problem Vivek Trivedy July 7, 2026 7 min LangChain LangSmith Observability & Evals Your coding agent bill doubled.",
-      "Amy Ru July 2, 2026 6 min Agent Architecture Why Model Neutrality Matters More Than Cloud Neutrality Neil Dahlke June 4, 2026 7 min LangChain Labs Designing Efficient Verifiers for Legal Agents LangChain Labs Harvey June 2, 2026 7 min Recent stories Observability & Evals Improving Agents is a Data Mining Problem Vivek Trivedy July 7, 2026 7 min No items found."
+      "LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint The LangChain Team July 8, 2026 7 min No items found.",
+      "LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint The LangChain Team July 8, 2026 7 min LangChain LangSmith Observability & Evals Your coding agent bill doubled."
     ],
     "claims": [
       {
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-08T12:11:13.649Z",
+    "publishedAt": "2026-07-09T00:06:19.281Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-08_fallback",
+    "sourceId": "src_openai-blog_2026-07-09_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-08T12:11:07.042Z",
+    "publishedAt": "2026-07-09T00:06:19.201Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-08_fallback",
+    "sourceId": "src_mcp-blog_2026-07-09_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-08T12:11:07.369Z",
+    "publishedAt": "2026-07-09T00:06:20.032Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -113,12 +113,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_ce515a76ea64d92d",
+    "sourceId": "src_reddit-aiagents_3d3aa51dfc4f7992",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ukprfr/weekly_thread_project_display/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uqwwus/weekly_thread_project_display/",
     "title": "Weekly Thread: Project Display",
-    "publishedAt": "2026-07-01T16:00:44.000Z",
+    "publishedAt": "2026-07-08T16:00:24.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -131,7 +131,7 @@
       {
         "text": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ukprfr/weekly_thread_project_display/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uqwwus/weekly_thread_project_display/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_ff591aeae278c191",
+    "sourceId": "src_reddit-aiagents_d37fbb243eabcec8",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uqpg1i/how_much_time_do_you_lose_to_agenttool_repos_that/",
-    "title": "How much time do you lose to agent/tool repos that turn out not to fit your stack?",
-    "publishedAt": "2026-07-08T11:04:41.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uqs38y/every_ai_lab_is_building_their_own_ide_now_and_it/",
+    "title": "Every AI lab is building their own IDE now and it feels less like innovation and more like platform lock in",
+    "publishedAt": "2026-07-08T13:04:13.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I chase a lot of new agent tooling and MCP servers.",
-      "The failure mode is always the same: looks great in the demo, clone it, and only then discover it assumes a language/runtime/setup I'm not on.",
-      "Thinking about a tool that vets a repo against your codebase and tells you fit-or-skip before you commit.",
-      "Wanted to sanity-check with people who do this daily: is this friction real for you, or a non-issue?"
+      "kinda been chewing on this for a couple weeks.",
+      "cursor is built pretty tightly around claude.",
+      "and zai just rolled out zcode as the official environment for glm-5.2 a couple days back.",
+      "thats five separate ide plays in like a year, and we're already halfway through 2026."
     ],
     "claims": [
       {
-        "text": "I chase a lot of new agent tooling and MCP servers. The failure mode is always the same: looks great in the demo, clone it, and only then discover it assumes a language/runtime/setup I'm not on. Hours gone. Thinking about a tool that vets a repo against your codebase and tells you fit-or-skip before you commit. Wanted to sanity-check with people who do this daily: is this friction real for you, or a non-issue? What would make a \"should I even try this repo\" verdict actually trustworthy? submitted by /u/Fun-Platypus5650 [link] [comments]",
+        "text": "kinda been chewing on this for a couple weeks. anthropic has claude code. openai has codex. cursor is built pretty tightly around claude. github copilot is microsofts play. and zai just rolled out zcode as the official environment for glm-5.2 a couple days back. thats five separate ide plays in like a year, and we're already halfway through 2026. people keep calling it the browser war but i dont think thats the right analogy. browsers rendered a standard web. what these ides are doing is more like windows vs mac in the 90s, the actual value is in the ecosystem lock in, not the interface. you invest six months in a workflow around one of these things and switching means rebuilding your whole setup from scratch. the model gets swapped every few months, the ide sticks around and holds you in place. which is fine if the ide is good enough that you dont mind, but it also means the biggest technical decision in my workflow next year probably isnt which model i use, its which ide i commit to. that used to be a boring call, jetbrains or vscode, done. now its a bet on which ai lab i think will still be around in three years, which is a way harder call to make honestly. theres also this weird thing where the ide vendor and the model vendor being the same company changes the incentive structure entirely. cursor stayed neutral for a while and thats part of why people trusted it. once every model has its own official ide, that neutral middle disappears. you either pick a team, or you go build your own harness. so the real question for me isnt which ide is best right now. its whether locking myself into one lab through their tooling is worth the productivity gain, when i already know how these things go. what are you all doing about this, picking a side or trying to stay portable. submitted by /u/ServeAccomplished485 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uqpg1i/how_much_time_do_you_lose_to_agenttool_repos_that/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uqs38y/every_ai_lab_is_building_their_own_ide_now_and_it/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5501f687710ef6e3",
+    "sourceId": "src_reddit-aiagents_20d645cc2574774a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uqk914/ai_agents_recreate_the_rockstar_developer_problem/",
-    "title": "AI agents recreate the “rockstar developer” problem, just faster",
-    "publishedAt": "2026-07-08T06:10:22.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ur06p9/soc_ai_agent/",
+    "title": "SOC AI Agent",
+    "publishedAt": "2026-07-08T17:53:35.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "The rockstar dev problem: one person builds something only they understand, then leaves, and the team spends months untangling it.",
-      "This post’s take: agents do the same, minus the memory.",
-      "An agent writes a clever fix in the morning, a different one by afternoon, then “refactors” both with no memory of either.",
-      "“The agent can explain it” isn’t the same as the team understanding it."
+      "Hi all, I just finished writing a 6-part series on building AI agents from scratch — walking through the core concepts, architecture, and the tool-use loop, with working code for each part on GitHub.",
+      "It's part of a blog I started where I write deep dives on AI/ML, system design, and algorithms, going beyond the usual surface-level tutorials.",
+      "Links to code and blog are in the comments.",
+      "Would really appreciate any feedback or questions — happy to discuss!"
     ],
     "claims": [
       {
-        "text": "The rockstar dev problem: one person builds something only they understand, then leaves, and the team spends months untangling it. This post’s take: agents do the same, minus the memory. A human rockstar remembers why. An agent writes a clever fix in the morning, a different one by afternoon, then “refactors” both with no memory of either. “The agent can explain it” isn’t the same as the team understanding it. Fix: make conventions visible (AGENTS.md, ADRs, tests that catch improvising), or the agent imports rules from somewhere else. How’s your team catching this drift? submitted by /u/myfear3 [link] [comments]",
+        "text": "Hi all, I just finished writing a 6-part series on building AI agents from scratch — walking through the core concepts, architecture, and the tool-use loop, with working code for each part on GitHub. It's part of a blog I started where I write deep dives on AI/ML, system design, and algorithms, going beyond the usual surface-level tutorials. Links to code and blog are in the comments. Would really appreciate any feedback or questions — happy to discuss! submitted by /u/sesame_market [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uqk914/ai_agents_recreate_the_rockstar_developer_problem/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ur06p9/soc_ai_agent/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-08_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-09_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-08T12:11:07.186Z",
+    "publishedAt": "2026-07-09T00:06:19.551Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-08T12:11:07.904Z",
+    "publishedAt": "2026-07-09T00:06:20.235Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-08T12:11:07.297Z",
+    "publishedAt": "2026-07-09T00:06:19.623Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-08_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-08T12:11:07.216Z",
+    "publishedAt": "2026-07-09T00:06:19.446Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-08_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-08T12:11:07.208Z",
+    "publishedAt": "2026-07-09T00:06:19.450Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-08T12:11:07.300Z",
+    "publishedAt": "2026-07-09T00:06:19.728Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-08T12:11:07.340Z",
+    "publishedAt": "2026-07-09T00:06:19.680Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-08T12:11:07.957Z",
+    "publishedAt": "2026-07-09T00:06:20.453Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-08_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-08T12:11:07.266Z",
+    "publishedAt": "2026-07-09T00:06:19.636Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-08T12:11:07.768Z",
+    "publishedAt": "2026-07-09T00:06:20.243Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-08T12:11:07.451Z",
+    "publishedAt": "2026-07-09T00:06:19.692Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-08_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-09_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-08T12:11:07.563Z",
+    "publishedAt": "2026-07-09T00:06:20.088Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-08T12:11:07.787Z",
+    "publishedAt": "2026-07-09T00:06:20.276Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-08T12:11:07.518Z",
+    "publishedAt": "2026-07-09T00:06:19.783Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-08_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-08T12:11:07.463Z",
+    "publishedAt": "2026-07-09T00:06:19.721Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-08T12:11:09.850Z",
+    "publishedAt": "2026-07-09T00:06:22.106Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-08_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-08T12:11:07.510Z",
+    "publishedAt": "2026-07-09T00:06:19.768Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-08T12:11:07.596Z",
+    "publishedAt": "2026-07-09T00:06:19.933Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,10 +746,7 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Adding a GPU Without Building One FINAL-Bench • 5 days ago • 17 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 3 days ago • 15 After the party comes the free lunch: regularizing ColBERT models to enhance pooling capabilities and reduce index footprint lightonai • 2 days ago • 11 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 359 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 362 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 9 days ago • 22 Does Your LLM Know *When It's About to Be Wrong*?",
-      "ginigen-ai • 7 days ago • 20 AstroBERT Small: Domain model for Astronomy NeuML • 7 days ago • 6 Atom2.7m: Representation-Level Specialization for Arithmetic-Aware Small Language Models ucr-max • about 21 hours ago • 6 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 190 Pulpie: Pareto-Optimal Models for Cleaning the Web feyninc • 7 days ago • 5 Teaching a coding agent to deploy production endpoints on Amazon SageMaker hf-dwarez • about 21 hours ago • 5 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • 14 days ago • 46 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 19 Heretic Grimoire VINAY-UMRETHE • 8 days ago • 5 Claude Fable 5 — Technical Harness Report Svngoku • 7 days ago • 4 NVIDIA Isaac Teleop and GR00T 1.7 Open VLA Model Available in LeRobot nvidia • 1 day ago • 4 Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face dvgodoy • Feb 11, 2025 • 128 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 36 LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family lightonai • Jan 19 • 99 From Hugging Face to Amazon SageMaker Studio in one click 5 July 7, 2026 Hugging Face Models on Foundry Managed Compute 10 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 4 July 7, 2026 lerobot robotics LeRobot v0.6.0: Imagine, Evaluate, Improve +5 46 July 7, 2026 PRX Part 4: Our Data Strategy 5 July 6, 2026 kernels hub optimization 🤗 Kernels: Major Updates 23 July 6, 2026 partnerships audio open-source-collab Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 72 July 1, 2026 ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 24 June 30, 2026 Why Specialization Is Inevitable 11 June 30, 2026 evaluation community leaderboard Featuring Every Eval Ever Results on Hugging Face Model Pages +3 42 June 30, 2026 DiScoFormer: One transformer for density and score, across distributions 4 June 29, 2026 guide vllm inference Run a vLLM Server on HF Jobs in One Command 11 June 26, 2026 Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 34 June 24, 2026 audio speech leaderboard Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World +1 8 June 24, 2026 Previous 1 2 3 ...",
-      "59 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section.",
-      "Adding a GPU Without Building One FINAL-Bench • 5 days ago • 17 Quantum Cryptanalysis on Real Hardware: Pushing Symmetric-Structure Key Recovery Beyond the Published Frontier FINAL-Bench • 3 days ago • 15 After the party comes the free lunch: regularizing ColBERT models to enhance pooling capabilities and reduce index footprint lightonai • 2 days ago • 11 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 359 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 362 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 9 days ago • 22 Does Your LLM Know *When It's About to Be Wrong*?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up A Web Data Recipe for Medical Encoder Pretraining\",\"upvotes\":9,\"upvotes7d\":4,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/619cfd1dc7ef4b3b7b6a1e06/pWWWLPbG4pWusVEOX-3Sx.png\",\"authorsData\":[{\"_id\":\"619cfd1dc7ef4b3b7b6a1e06\",\"avatarUrl\":\"/avatars/ea3c8a9f178dfc1df3f75d71ecbe39dd.svg\",\"fullname\":\"bofeng huang\",\"name\":\"bofenghuang\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":102,\"isUserFollowing\":false}],\"url\":\"/blog/bofenghuang/doctobert-fr-release\",\"apiPrefix\":\"/api/blog/bofenghuang/doctobert-fr-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a4c7234f28172f3cfe144db\",\"isUpvotedByUser\":false,\"numCoauthors\":5,\"publishedAt\":\"2026-07-07T14:07:51.211Z\",\"editedAt\":\"2026-07-07T14:10:22.771Z\",\"slug\":\"cohere-transcribe-arabic-07-2026-release\",\"title\":\"Meet Cohere Transcribe Arabic\",\"upvotes\":4,\"upvotes7d\":4,\"authorsData\":[{\"_id\":\"640ca1c93623f6a56ddab373\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1678549441248-5e70f6048ce3c604d78fe133.png\",\"fullname\":\"Cohere Labs\",\"name\":\"CohereLabs\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"enterprise\",\"followerCount\":3255,\"isUserFollowing\":false}],\"url\":\"/blog/CohereLabs/cohere-transcribe-arabic-07-2026-release\",\"apiPrefix\":\"/api/blog/CohereLabs/cohere-transcribe-arabic-07-2026-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6796631f8c7a5e66d49a5027\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2025-02-11T13:30:03.027Z\",\"editedAt\":\"2026-02-03T15:51:01.663Z\",\"slug\":\"fine-tuning-llm-hugging-face\",\"title\":\"Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face\",\"upvotes\":128,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"63407b3179f2908105f7b595\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/63407b3179f2908105f7b595/8uguYbljnQJMP4wU0qBNO.jpeg\",\"fullname\":\"Daniel Voigt Godoy\",\"name\":\"dvgodoy\",\"type\":\"user\",\"isPro\":true,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":61,\"isUserFollowing\":false}],\"url\":\"/blog/dvgodoy/fine-tuning-llm-hugging-face\",\"apiPrefix\":\"/api/blog/dvgodoy/fine-tuning-llm-hugging-face\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6963bfe0441002cfe1c48897\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-01-19T17:55:59.597Z\",\"editedAt\":\"2026-01-25T20:50:54.955Z\",\"slug\":\"guide-to-llm-post-training-algorithms\",\"title\":\"A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond\",\"upvotes\":36,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"646b5eca628e5b50b2ddca3a\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/646b5eca628e5b50b2ddca3a/yIJUdXBAHTA1IDV5rA3l9.jpeg\",\"fullname\":\"Karina Zadorozhny\",\"name\":\"karina-zadorozhny\",\"type\":\"user\",\"isPro\":false,\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"followerCount\":11,\"isUserFollowing\":false}],\"url\":\"/blog/karina-zadorozhny/guide-to-llm-post-training-algorithms\",\"apiPrefix\":\"/api/blog/karina-zadorozhny/guide-to-llm-post-training-algorithms\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"696e045439827533f9ecf02b\",\"isUpvotedByUser\":false,\"numCoauthors\":2,\"publishedAt\":\"2026-01-19T17:36:39.621Z\",\"editedAt\":\"2026-06-30T08:11:14.550Z\",\"slug\":\"lightonocr-2\",\"title\":\"LightOnOCR-2-1B: a lightweight high-performance end-to-end OCR model family\",\"upvotes\":99,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"6271618b3623fb51324c461e\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1651597775471-62715572ab9243b5d40cbb1d.png\",\"fullname\":\"LightOn AI\",\"name\":\"lightonai\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":712,\"isUserFollowing\":false}],\"url\":\"/blog/lightonai/lightonocr-2\",\"apiPrefix\":\"/api/blog/lightonai/lightonocr-2\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a44abd49169bc5d647defce\",\"isUpvotedByUser\":false,\"numCoauthors\":2,\"publishedAt\":\"2026-07-01T08:26:43.153Z\",\"editedAt\":\"2026-07-01T08:26:43.153Z\",\"slug\":\"basert-release\",\"title\":\"BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal\",\"upvotes\":3,\"upvotes7d\":3,\"authorsData\":[{\"_id\":\"6a38d59535e11815005680dd\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/6a38d55b56a1afe98dd3bb43/itWKhSq3jRSp-yG-FEd2g.png\",\"fullname\":\"Base Compute\",\"name\":\"basecompute\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":5,\"isUserFollowing\":false}],\"url\":\"/blog/basecompute/basert-release\",\"apiPrefix\":\"/api/blog/basecompute/basert-release\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false},{\"_id\":\"6a45019dfd93e997b3a9e65f\",\"isUpvotedByUser\":false,\"numCoauthors\":0,\"publishedAt\":\"2026-07-01T12:42:45.926Z\",\"editedAt\":\"2026-07-04T17:20:16.170Z\",\"slug\":\"astrobert-small\",\"title\":\"AstroBERT Small: Domain model for Astronomy\",\"upvotes\":6,\"upvotes7d\":3,\"thumbnail\":\"https://cdn-uploads.huggingface.co/production/uploads/5ed67cfa968f6028e0559fd1/C8ZYLmh_heSZ2waeWiklR.png\",\"authorsData\":[{\"_id\":\"5ed67d4f968f6028e0559fd2\",\"avatarUrl\":\"https://cdn-avatars.huggingface.co/v1/production/uploads/1591115179978-5ed67cfa968f6028e0559fd1.png\",\"fullname\":\"NeuML\",\"name\":\"NeuML\",\"type\":\"org\",\"isHf\":false,\"isHfAdmin\":false,\"isMod\":false,\"plan\":\"team\",\"followerCount\":170,\"isUserFollowing\":false}],\"url\":\"/blog/NeuML/astrobert-small\",\"apiPrefix\":\"/api/blog/NeuML/astrobert-small\",\"canonical\":false,\"status\":\"published\",\"isHFChangelog\":false}],\"canCreateBlog\":false,\"isPro\":false,\"isBlogExplorer\":false,\"query\":{},\"url\":\"/blog\"}\"> Community Blog & Articles New Articl"
     ],
     "claims": [
       {
@@ -763,6 +760,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_79afe03810defc05",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+    "title": "Introducing GPT‑Live",
+    "publishedAt": "2026-07-08T23:20:48.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Introducing GPT‑Live Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
+      "Read the report and learn how to measure and remediate technical debt across your codebase.",
+      "Get the report 8th July 2026 - Link Blog Introducing GPT‑Live ( via ) OpenAI finally upgraded the model used by ChatGPT voice mode!",
+      "I've had preview access for a few weeks in the iPhone app, and the new model is very impressive."
+    ],
+    "claims": [
+      {
+        "text": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off harder tasks to GPT-5.5: For questions that require web search, deeper reasoning, or more complex work, it delegates to our latest frontier model behind the scenes and brings the result back into the conversation when it’s ready. While it works, GPT‑Live can keep talking with you and maintain the flow of conversation. At launch, GPT‑Live will use GPT‑5.5 in the background. As we release new frontier models, we’ll continuously update the model used by GPT‑Live. The previous voice mode in the ChatGPT app was based on a GPT-4o era model, with a knowledge cut-off some time in 2024. I had mostly stopped using voice mode because the age and relative weakness of the model greatly limited how useful it was as a brainstorming partner. During the preview period I encountered a pretty obscure bug: the model was interrupting me to laugh at things I said, which weren't even intended as jokes! It felt rude and condescending - I reported it to OpenAI and as far as I can tell they made some tweaks and it's now less likely to happen. From looking back at my transcripts I think it was this bit that triggered the interrupting laugh: so where are the owls when they're not, like before dusk? The owls exist, right? Are they hiding in holes? Where are they hiding? My longest conversation with the new model has been a full hour while walking the dog (and taking photos of pelicans ). I have not yet managed to take a photo of an owl. Via Hacker News Tags: text-to-speech , ai , openai , generative-ai , llms , multi-modal-output , llm-release , speech-to-text",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_af946a7bbcefe6d8",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+    "title": "Quoting Kenton Varda",
+    "publishedAt": "2026-07-08T20:03:34.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Kenton Varda Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
+      "Read the report and learn how to measure and remediate technical debt across your codebase.",
+      "Get the report 8th July 2026 I just declared a moratorium against AI-written change descriptions (e.g.",
+      "PR and commit messages, also issues/tickets) from my team."
+    ],
+    "claims": [
+      {
+        "text": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team. AI was writing change descriptions that were worse than useless to me as I tried to review PRs: outlining details of the code that could easily be seen by looking at the code, but omitting the higher-level framing needed to understand broadly what the code is doing. &mdash; Kenton Varda Tags: kenton-varda , ai-assisted-programming , generative-ai , ai , llms",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_06c8865352753572",
@@ -855,72 +912,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_15e6134ea97cffa9",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
-    "title": "sqlite-utils 4.0",
-    "publishedAt": "2026-07-07T15:42:43.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: sqlite-utils 4.0 Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
-      "Read the report and learn how to measure and remediate technical debt across your codebase.",
-      "Get the report 7th July 2026 Release sqlite-utils 4.0 &mdash; Python CLI utility and library for manipulating SQLite databases See sqlite-utils 4.0, now with database schema migrations for details.",
-      "Posted 7th July 2026 at 3:42 pm Recent articles sqlite-utils 4.0, now with database schema migrations - 7th July 2026 sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) - 5th July 2026 Have your agent record video demos of its work with shot-scraper video - 30th June 2026 This is a beat by Simon Willison, posted on 7th July 2026 ."
-    ],
-    "claims": [
-      {
-        "text": "Release: sqlite-utils 4.0 See sqlite-utils 4.0, now with database schema migrations for details. Tags: sqlite-utils",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_a9c59824608b31dc",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
-    "title": "sqlite-utils 4.0rc4",
-    "publishedAt": "2026-07-07T05:36:15.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: sqlite-utils 4.0rc4 Simon Willison’s Weblog Subscribe Sponsored by: Sonar &mdash; Gartner just named Sonar a Leader in the 2026 Magic Quadrant™ for Technical Debt Management Tools.",
-      "Read the report and learn how to measure and remediate technical debt across your codebase.",
-      "Get the report 7th July 2026 Release sqlite-utils 4.0rc4 &mdash; Python CLI utility and library for manipulating SQLite databases The last RC before the 4.0 stable release.",
-      "Mainly implements feedback from a detailed review by Claude Fable 5."
-    ],
-    "claims": [
-      {
-        "text": "Release: sqlite-utils 4.0rc4 The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5. Tags: sqlite-utils , claude-mythos-fable",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-08T12:11:07.652Z",
+    "publishedAt": "2026-07-09T00:06:19.904Z",
     "categoryHints": [
       "ai-agentic"
     ],
