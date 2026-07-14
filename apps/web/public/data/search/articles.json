@@ -333,8 +333,8 @@
       "langchain",
       "software-engineering"
     ],
-    "publishedAt": "2026-07-14T12:03:50.021Z",
-    "readingTime": 5,
+    "publishedAt": "2026-07-14T23:52:13.019Z",
+    "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-07-14"
   },
   {
@@ -348,48 +348,48 @@
       "vibe-coding",
       "ai-agents",
       "interpretability",
-      "langgraph",
-      "software-engineering"
+      "software-engineering",
+      "langchain"
     ],
-    "publishedAt": "2026-07-14T12:05:17.943Z",
+    "publishedAt": "2026-07-14T23:53:17.938Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-07-14"
   },
   {
-    "id": "cluster_ai-agentic_1_doomql_2026-07-14_vi",
+    "id": "cluster_ai-agentic_1_simonw-pedalican_2026-07-14_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "DOOMQL: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "simonw/pedalican: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Luma Labs Blog, Cursor Changelog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "ai-agentic",
-      "sqlite",
       "vibe-coding",
       "generative-ai",
-      "software-architecture"
+      "software-engineering",
+      "gpt-5.6"
     ],
-    "publishedAt": "2026-07-14T12:04:57.793Z",
+    "publishedAt": "2026-07-14T23:51:41.756Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/doomql-goc-nhin-cho-creator-va-builder-2026-07-14"
+    "url": "/vi/ai-agentic/simonw-pedalican-goc-nhin-cho-creator-va-builder-2026-07-14"
   },
   {
-    "id": "cluster_ai-agentic_1_doomql_2026-07-14_en",
+    "id": "cluster_ai-agentic_1_simonw-pedalican_2026-07-14_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "DOOMQL: creator and builder analysis",
-    "subtitle": "Signal synthesized from Luma Labs Blog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "title": "simonw/pedalican: creator and builder analysis",
+    "subtitle": "Signal synthesized from Luma Labs Blog, Cursor Changelog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agentic",
-      "sqlite",
+      "ai-agents",
       "vibe-coding",
       "generative-ai",
-      "software-architecture"
+      "software-engineering",
+      "ux-design"
     ],
-    "publishedAt": "2026-07-14T12:05:59.464Z",
+    "publishedAt": "2026-07-14T23:52:57.169Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/doomql-creator-and-builder-analysis-2026-07-14"
+    "url": "/en/ai-agentic/simonw-pedalican-creator-and-builder-analysis-2026-07-14"
   },
   {
     "id": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-07-14_vi",
@@ -400,13 +400,14 @@
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "World-Models",
-      "Runway-AI",
-      "Open-Innovation",
-      "Generative-AI"
+      "RunwayAI",
+      "BlackForestLabs",
+      "WorldModels",
+      "OpenInnovation",
+      "GenerativeAI"
     ],
-    "publishedAt": "2026-07-14T12:04:43.922Z",
-    "readingTime": 4,
+    "publishedAt": "2026-07-14T23:51:44.309Z",
+    "readingTime": 5,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-07-14"
   },
   {
@@ -417,51 +418,15 @@
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "World-Models",
-      "Diffusion-Models",
-      "Open-Innovation",
-      "Runway-AI"
+      "AI Video",
+      "World Models",
+      "Open Weights",
+      "Multimodal AI",
+      "Runway AI"
     ],
-    "publishedAt": "2026-07-14T12:05:49.993Z",
-    "readingTime": 4,
+    "publishedAt": "2026-07-14T23:53:07.678Z",
+    "readingTime": 3,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-07-14"
-  },
-  {
-    "id": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-07-14_vi",
-    "lang": "vi",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Cursor Changelog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "Cursor",
-      "AI-Agent",
-      "Vibe-Coding",
-      "AI-Engineering",
-      "Productivity"
-    ],
-    "publishedAt": "2026-07-14T12:04:24.098Z",
-    "readingTime": 4,
-    "url": "/vi/ai-agentic/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-07-14"
-  },
-  {
-    "id": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-07-14_en",
-    "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Cursor Changelog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "cursor-ide",
-      "ai-agents",
-      "vibe-coding",
-      "developer-experience",
-      "ai-engineering"
-    ],
-    "publishedAt": "2026-07-14T12:05:42.045Z",
-    "readingTime": 4,
-    "url": "/en/ai-agentic/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-07-14"
   },
   {
     "id": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-14_vi",
@@ -469,15 +434,15 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Replit — Replit Blog – Product updates from the team: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Vercel AI Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Vercel AI Blog, Replit Blog, Hugging Face Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
       "replit-agent",
       "ai-agents",
-      "rapid-prototyping",
-      "future-of-dev"
+      "software-development",
+      "rapid-prototyping"
     ],
-    "publishedAt": "2026-07-14T12:05:11.979Z",
+    "publishedAt": "2026-07-14T23:51:22.075Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/replit-replit-blog-product-updates-from-the-team-goc-nh-2026-07-14"
   },
@@ -487,17 +452,52 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Replit — Replit Blog – Product updates from the team: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Vercel AI Blog, Replit Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Vercel AI Blog, Replit Blog, Hugging Face Blog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
-      "replit-agent",
       "ai-agents",
+      "replit",
       "rapid-prototyping",
       "software-engineering"
     ],
-    "publishedAt": "2026-07-14T12:06:08.546Z",
+    "publishedAt": "2026-07-14T23:52:36.358Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/replit-replit-blog-product-updates-from-the-team-creato-2026-07-14"
+  },
+  {
+    "id": "cluster_ai-agentic_2_stop-sending-mass-personalized-outreach-provide-real-value-to-se_2026-07-14_vi",
+    "lang": "vi",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "Stop sending mass \"personalized\" outreach. Provide real value to selected peo...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "ai-agents",
+      "growth-hacking",
+      "outreach-strategy",
+      "ai-ethics",
+      "product-led-growth"
+    ],
+    "publishedAt": "2026-07-14T23:52:19.666Z",
+    "readingTime": 4,
+    "url": "/vi/ai-agentic/stop-sending-mass-personalized-outreach-provide-real-valu-2026-07-14"
+  },
+  {
+    "id": "cluster_ai-agentic_2_stop-sending-mass-personalized-outreach-provide-real-value-to-se_2026-07-14_en",
+    "lang": "en",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "Stop sending mass \"personalized\" outreach. Provide real value to selected peo...: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "AI Agents",
+      "B2B Outreach",
+      "Agentic Workflows",
+      "LLM Optimization"
+    ],
+    "publishedAt": "2026-07-14T23:53:25.664Z",
+    "readingTime": 3,
+    "url": "/en/ai-agentic/stop-sending-mass-personalized-outreach-provide-real-valu-2026-07-14"
   },
   {
     "id": "cluster_ai-video_1_ai-ai_2026-07-14_vi",
@@ -508,12 +508,12 @@
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "Kling-AI",
-      "Generative-AI",
-      "Cinematic-AI",
-      "Content-Creation"
+      "KlingAI",
+      "ContentCreation",
+      "GenerativeAI",
+      "CinematicAI"
     ],
-    "publishedAt": "2026-07-14T12:04:10.863Z",
+    "publishedAt": "2026-07-14T23:51:19.890Z",
     "readingTime": 4,
     "url": "/vi/ai-video/ai-ai-goc-nhin-cho-creator-va-builder-2026-07-14"
   },
@@ -527,12 +527,12 @@
     "tags": [
       "AI Video",
       "Kling AI",
-      "Generative Cinema",
-      "Content Creation",
-      "VFX"
+      "Pika Labs",
+      "Generative AI",
+      "Creative Productivity"
     ],
-    "publishedAt": "2026-07-14T12:05:33.381Z",
-    "readingTime": 4,
+    "publishedAt": "2026-07-14T23:52:53.095Z",
+    "readingTime": 3,
     "url": "/en/ai-video/ai-ai-creator-and-builder-analysis-2026-07-14"
   }
 ]

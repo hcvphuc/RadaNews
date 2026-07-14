@@ -14,20 +14,20 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_1_doomql_2026-07-14",
+    "clusterId": "cluster_ai-agentic_1_simonw-pedalican_2026-07-14",
     "category": "ai-agentic",
-    "topic": "DOOMQL",
+    "topic": "simonw/pedalican",
     "sourceIds": [
-      "src_simonwillison-blog_87dec65f731a574c",
-      "src_simonwillison-blog_8c387236ccd89b20",
+      "src_simonwillison-blog_59c9ec607c7be32b",
+      "src_simonwillison-blog_ed48f5edf2f31fce",
+      "src_simonwillison-blog_6767e3a377c8f99f",
       "src_luma-blog_c7449029956c34f9",
-      "src_simonwillison-blog_0b19dc8a87bb8f32",
-      "src_simonwillison-blog_4ba734e50a508b09",
-      "src_simonwillison-blog_02103e2a668650d8",
-      "src_huggingface-blog_af185e1e7e4dfbac"
+      "src_simonwillison-blog_8931fdbe4d5322bd",
+      "src_simonwillison-blog_a56c9e9f589369bb",
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Simon Willison's Weblog, Luma Labs Blog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Simon Willison's Weblog, Luma Labs Blog, Cursor Changelog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -48,34 +48,34 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-07-14",
-    "category": "ai-agentic",
-    "topic": "What's New in Cursor — Latest Updates & Release Notes",
-    "sourceIds": [
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_ea1c5d7a7231b428",
-      "src_reddit-aiagents_0a8b9e4a9415404b",
-      "src_reddit-aiagents_1d3f2373aa3dfb03",
-      "src_reddit-aiagents_3d3aa51dfc4f7992",
-      "src_openai-blog_2026-07-14_fallback",
-      "src_mcp-blog_2026-07-14_fallback"
-    ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 7 source item(s), 5 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, OpenAI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
     "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-14",
     "category": "ai-vibe-coding",
     "topic": "Replit — Replit Blog – Product updates from the team",
     "sourceIds": [
       "src_replit-blog_49899058ba32f8e5",
-      "src_reddit-aiagents_e7a43a3d3e9b84c5",
+      "src_huggingface-blog_af185e1e7e4dfbac",
       "src_vercel-ai-blog_2026-07-14_fallback"
     ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
+    "articleWorthinessScore": 0.87,
+    "reasonSelected": "Score 0.87 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, Hugging Face Blog, Vercel AI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-agentic_2_stop-sending-mass-personalized-outreach-provide-real-value-to-se_2026-07-14",
+    "category": "ai-agentic",
+    "topic": "Stop sending mass \"personalized\" outreach. Provide real value to selected peo...",
+    "sourceIds": [
+      "src_reddit-aiagents_5a4233cab6734104",
+      "src_reddit-aiagents_f859094f302dc74a",
+      "src_reddit-aiagents_47c263b50b4966a2",
+      "src_reddit-aiagents_1d3f2373aa3dfb03",
+      "src_reddit-aiagents_3d3aa51dfc4f7992",
+      "src_openai-blog_2026-07-14_fallback",
+      "src_mcp-blog_2026-07-14_fallback"
+    ],
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
