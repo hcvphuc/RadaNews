@@ -19,13 +19,13 @@
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
+      "src_simonwillison-blog_273f7a36e5c94b6f",
       "src_simonwillison-blog_59c9ec607c7be32b",
       "src_simonwillison-blog_ed48f5edf2f31fce",
       "src_simonwillison-blog_6767e3a377c8f99f",
       "src_luma-blog_c7449029956c34f9",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_898c4b57882a836f",
-      "src_simonwillison-blog_a56c9e9f589369bb"
+      "src_simonwillison-blog_898c4b57882a836f"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Luma Labs Blog.",
@@ -53,16 +53,16 @@
     "topic": "What's New in Cursor — Latest Updates & Release Notes",
     "sourceIds": [
       "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_49188460a9857be5",
-      "src_reddit-aiagents_010bd563cb8721f5",
-      "src_reddit-aiagents_71070596a0606955",
+      "src_reddit-aiagents_7e268ba7dc5f8e3c",
+      "src_reddit-aiagents_2d18a229c6a03384",
+      "src_reddit-aiagents_6195a084679ba7ae",
+      "src_reddit-aiagents_b00dfc3d7aa247a1",
       "src_reddit-aiagents_1d3f2373aa3dfb03",
-      "src_reddit-aiagents_3d3aa51dfc4f7992",
       "src_openai-blog_2026-07-15_fallback",
       "src_mcp-blog_2026-07-15_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 8 source item(s), 6 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.87,
+    "reasonSelected": "Score 0.87 from 8 source item(s), 6 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
