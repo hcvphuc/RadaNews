@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-14T23:50:54.518Z",
+    "publishedAt": "2026-07-15T12:08:10.749Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-14T23:50:57.710Z",
+    "publishedAt": "2026-07-15T12:08:13.984Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-14_fallback",
+    "sourceId": "src_openai-blog_2026-07-15_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-14T23:50:53.963Z",
+    "publishedAt": "2026-07-15T12:08:10.138Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-14_fallback",
+    "sourceId": "src_mcp-blog_2026-07-15_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-14T23:50:54.442Z",
+    "publishedAt": "2026-07-15T12:08:10.560Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_47c263b50b4966a2",
+    "sourceId": "src_reddit-aiagents_71070596a0606955",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uw64ty/my_coworker_let_an_ai_agent_handle_slack_replies/",
-    "title": "My coworker let an AI agent handle Slack replies while he was \"unavailable.\" It did not go well.",
-    "publishedAt": "2026-07-14T11:35:55.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uwz7x5/how_do_you_keep_up/",
+    "title": "How do you keep up?",
+    "publishedAt": "2026-07-15T07:52:09.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "He set it up to auto-respond to Slack messages in his voice while he was heads-down on a project.",
-      "Someone asked him a genuinely important question about a client deadline, and the agent gave a confident, plausible-sounding answer that was completely wrong no such deadline extension had actually been agreed.",
-      "Nobody double-checked because the reply sounded exactly like him.",
-      "It got sorted out, but it made me realize how much we're starting to trust tone and fluency as a proxy for accuracy."
+      "I'm building something for teams who work with AI to stop losing the \"why\" behind old decisions and keep up with the rapid productivity of agents - it's still early, no polished product yet, but trying to learn if this is a real pain point or something we're overestimating.",
+      "I've only seen this problem from the builder side, not from someone actually running product day to day.",
+      "If this interests you, I would love to hear how you deal with it now.",
+      "submitted by /u/loserkombatant [link] [comments]"
     ],
     "claims": [
       {
-        "text": "He set it up to auto-respond to Slack messages in his voice while he was heads-down on a project. Someone asked him a genuinely important question about a client deadline, and the agent gave a confident, plausible-sounding answer that was completely wrong no such deadline extension had actually been agreed. Nobody double-checked because the reply sounded exactly like him. It got sorted out, but it made me realize how much we're starting to trust tone and fluency as a proxy for accuracy. Anyone else seen an agent's confidence outrun its actual correctness like this? submitted by /u/SMBowner_ [link] [comments]",
+        "text": "Hey everyone! I'm building something for teams who work with AI to stop losing the \"why\" behind old decisions and keep up with the rapid productivity of agents - it's still early, no polished product yet, but trying to learn if this is a real pain point or something we're overestimating. I've only seen this problem from the builder side, not from someone actually running product day to day. If this interests you, I would love to hear how you deal with it now. submitted by /u/loserkombatant [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uw64ty/my_coworker_let_an_ai_agent_handle_slack_replies/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uwz7x5/how_do_you_keep_up/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_f859094f302dc74a",
+    "sourceId": "src_reddit-aiagents_49188460a9857be5",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uwlcwy/cool_idea_agent_that_can_downshift_its_own_model/",
-    "title": "Cool idea - agent that can downshift its own model",
-    "publishedAt": "2026-07-14T21:08:24.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uwvatc/if_i_had_to_grow_my_automation_agency_from_zero/",
+    "title": "if i had to grow my automation agency from zero again, i'd do this differently",
+    "publishedAt": "2026-07-15T04:19:45.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’ve got a multi-agent hive running on tmux windows.",
-      "The agents use it to talk with each other and the backbone bot uses it to wake agents when they have tasks.",
-      "I just realized, tmux can write anywhere - even into its own windows, so an agent can send itself a /model command.",
-      "I’ve set it up so that if it thinks it needs an upshift, it can ask me for permission in telegram."
+      "i'd love to know how you're getting clients in 2026 i realized something after spending the last few years building ai agents and automations: building the product was never the hardest part.",
+      "like many developers, i spent most of my time improving the technology, thinking that if i built something great, clients would naturally come.",
+      "when i first started freelancing, i made the mistake of asking potential clients, \"what do you want to automate?\" looking back, that's probably one of the worst questions you can ask.",
+      "most business owners don't know what can be automated."
     ],
     "claims": [
       {
-        "text": "I’ve got a multi-agent hive running on tmux windows. The agents use it to talk with each other and the backbone bot uses it to wake agents when they have tasks. I just realized, tmux can write anywhere - even into its own windows, so an agent can send itself a /model command. I’ve set it up so that if it thinks it needs an upshift, it can ask me for permission in telegram. So, I can start off with Fable tackling an idea and then when Fable thinks Sonnet can take over managing the project from there, it downshifts and continues. Works with all agents though. This could be extended to compact, fast, effort and a number of others - though you’d want to be careful with some - like permission is verboten. Is this something others would find useful? It would work with any tech that provides keystroke injection. submitted by /u/morph_lupindo [link] [comments]",
+        "text": "i'd love to know how you're getting clients in 2026 i realized something after spending the last few years building ai agents and automations: building the product was never the hardest part. selling it was. like many developers, i spent most of my time improving the technology, thinking that if i built something great, clients would naturally come. they didn't. when i first started freelancing, i made the mistake of asking potential clients, \"what do you want to automate?\" looking back, that's probably one of the worst questions you can ask. most business owners don't know what can be automated. that's why they're looking for someone with your expertise. they don't need another developer. they need someone who understands their business well enough to identify opportunities they can't see themselves. for the last month, i tested cold email at scale. i sent around 70,000 personalized emails and received 278 positive replies. it proved that cold outreach still works, but it also reminded me that it's largely a volume game. you need consistent execution, good targeting, and patience. the biggest lesson i've learned is that building more automations isn't the answer. building a reputation is. i genuinely believe content has become one of the best ways to grow an automation business. every post, demo, case study, or behind-the-scenes video builds trust before someone ever books a call with you. by consistently sharing what you build on x, instagram, tiktok, and youtube, people start seeing you as the expert instead of just another freelancer. another mindset shift completely changed how i think about running an automation agency. instead of trying to build custom solutions for every client, i'm focusing on just two or three core automation services that solve the same problems repeatedly. every new client helps improve those systems, making the service better and easier to deliver. instead of chasing one-time projects, i focus on long-term relationships and monthly retainers. i charge $1,000 to $2,000 per month because i'm not just delivering an automation. i'm continuously improving it, supporting the client, and helping their business save time every single month. you're no longer selling automation. you're providing an ongoing service that creates value every month. i'm still learning, and i'm curious how everyone else is approaching this. if you're selling ai automations or software today, what's bringing you the most clients? is it cold email, content, referrals, paid ads, or something completely different? submitted by /u/Meris-Dabhi [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uwlcwy/cool_idea_agent_that_can_downshift_its_own_model/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uwvatc/if_i_had_to_grow_my_automation_agency_from_zero/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5a4233cab6734104",
+    "sourceId": "src_reddit-aiagents_010bd563cb8721f5",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uwk6cq/stop_sending_mass_personalized_outreach_provide/",
-    "title": "Stop sending mass \"personalized\" outreach. Provide real value to selected people instead. If you can build an agent that can do that, I think you'll win.",
-    "publishedAt": "2026-07-14T20:23:15.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ux3h3l/looking_for_ideas_for_free_tools_to_build_at_the/",
+    "title": "Looking for ideas for free tools to build at the top of the funnel.",
+    "publishedAt": "2026-07-15T11:44:02.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Guys, I know using AI agents to personalize mass outreach is kind of an old hat right now.",
-      "But I think many of you might still be doing it.",
-      "I'm writing this not to offer a fancy new way of automating and personalizing mass outreach - quite the opposite actually: I'd like you to re-think whether this is even the right strategy, or whether there's something much more useful (and fun) to automate.",
-      "I just read a post in another sub about personalization making email outreach worse."
+      "Hey everyone, I am trying to distribute my Pylva platform.",
+      "The product is excellent, but so far I have not acquired any customers.",
+      "Therefore, I decided to build a free tool as a top‑of‑the‑funnel offering for my target audience, AI agent builders, but I am unsure what tool to create.",
+      "I would appreciate your help with ideas that could attract AI agent builders."
     ],
     "claims": [
       {
-        "text": "Guys, I know using AI agents to personalize mass outreach is kind of an old hat right now. But I think many of you might still be doing it. I'm writing this not to offer a fancy new way of automating and personalizing mass outreach - quite the opposite actually: I'd like you to re-think whether this is even the right strategy, or whether there's something much more useful (and fun) to automate. Why this topic? I just read a post in another sub about personalization making email outreach worse. And I kind of agree. With a caveat (read till the end!). This afternoon I also commented on another founder's post in a German startup subreddit. They felt frustrated because they were taking 20-30 MINUTES to personalize email outreach - and never getting any responses. They felt like they were wasting their time. I agree. I feel like I really need to write a post about this, because I'm convinced it will keep other founders from making the same mistake. I may be wrong, but I get the feeling that too many founders are focusing waaay too much on personalization, and not nearly enough on reaching out to the right people at the right time. Think about it: Unless you know for a fact that the person you're reaching out to is a) facing the problem you're solving, b) willing to spend time/money to solve it and c) in possession of sufficient budget / decision-making power - every second spent personalizing a message to them is a waste of time. And if they were a) facing the problem you're solving, b) willing to spend time/money to solve it and c) in possession of sufficient budget / decision-making power, would it really matter whether you're personalizing the message or not? They just want to solve their problem. Unless your competition is messaging them, too, the creativeness of your outreach is not gonna make them any more or less likely to buy from you. Plus, in the age of AI, everyone is receiving \"personalized\" messages anyway. And everyone who's not in the market for your offer will just ignore your message anyway, personalized or not. So if you're personalizing your outreach manually, you're wasting your time. And if you're using AI to do it, you're wasting tokens. You know what you should be spending your time and/or your tokens on? Finding the right people, at the right time. Yes, it's hard. Way harder that \"personalization\". But guess what: Your competitors are still wasting their time and tokens on spamming random people, doing the hard work is what sets you apart. Yes, AI tools are popping up that do it for you (e.g. the infamous Gojiberry, ProspectPuffin, Leadmatically, Leadverse... no, I have not tried them all, just making a point here). Right now, there's a brief window where you can win, before everyone else is using AI agents to find leads who are actually ready to buy. But then what? Once everyone moves from \"personalization\" to \"finding the right people at the right time\", there is still one more thing that you can do that will get you noticed: Provide VALUE. Figure out what the people you're reaching out to need, something that really helps them, something that you can include in the first message. For free, just like that. Wouldn't it be fun to automate creating something actually valuable for everyone you reach out to? I think your agents would like their job much more if you told them to do that, instead of spamming people. Right? I guess providing individual value is a kind of personalization, too. But a) it's the right kind of personalization, b) it gives you an advantage that won't go away and c) it's a real, fun challenge to solve with AI agents. Don't you agree? submitted by /u/Capital_Evening1082 [link] [comments]",
+        "text": "Hey everyone, I am trying to distribute my Pylva platform. The product is excellent, but so far I have not acquired any customers. Therefore, I decided to build a free tool as a top‑of‑the‑funnel offering for my target audience, AI agent builders, but I am unsure what tool to create. I would appreciate your help with ideas that could attract AI agent builders. For context, Pylva is a layer that monetizes AI agents’ outcomes, allowing you to track customer consumption, set usage rules per customer, and eventually generate bills. Really appreciate any idea, thanks. submitted by /u/Past-Marionberry1405 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uwk6cq/stop_sending_mass_personalized_outreach_provide/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ux3h3l/looking_for_ideas_for_free_tools_to_build_at_the/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-14_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-15_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-14T23:50:54.235Z",
+    "publishedAt": "2026-07-15T12:08:10.584Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-14T23:50:54.772Z",
+    "publishedAt": "2026-07-15T12:08:10.984Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-14T23:50:54.469Z",
+    "publishedAt": "2026-07-15T12:08:10.832Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-14_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-14T23:50:54.113Z",
+    "publishedAt": "2026-07-15T12:08:10.341Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-14_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-14T23:50:54.113Z",
+    "publishedAt": "2026-07-15T12:08:10.334Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,12 +399,12 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-14T23:50:54.138Z",
+    "publishedAt": "2026-07-15T12:08:10.363Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "AI Video Research & Innovation | Runway AI Research Product Resources Solutions Company Enterprise Sales Login Try Runway Our Research Building general-purpose multimodal simulators of the world.",
+      "AI Video Research & Innovation | Runway AI Research Product Resources Solutions Company Enterprise Sales Login Try Runway Creative Dev Robotics Resources Enterprise Pricing Enterprise Sales Login Try Runway Our Research Building general-purpose multimodal simulators of the world.",
       "We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing.",
       "Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding.",
       "Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models...."
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-14T23:50:54.411Z",
+    "publishedAt": "2026-07-15T12:08:10.474Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-14T23:50:54.666Z",
+    "publishedAt": "2026-07-15T12:08:10.814Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-14_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-14T23:50:54.182Z",
+    "publishedAt": "2026-07-15T12:08:10.389Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-14T23:50:54.471Z",
+    "publishedAt": "2026-07-15T12:08:10.710Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-14T23:50:54.172Z",
+    "publishedAt": "2026-07-15T12:08:10.373Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-14_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-15_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-14T23:50:54.959Z",
+    "publishedAt": "2026-07-15T12:08:10.990Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-14T23:50:54.639Z",
+    "publishedAt": "2026-07-15T12:08:10.900Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-14T23:50:54.215Z",
+    "publishedAt": "2026-07-15T12:08:10.523Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-14_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-14T23:50:54.280Z",
+    "publishedAt": "2026-07-15T12:08:10.431Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-14T23:50:55.587Z",
+    "publishedAt": "2026-07-15T12:08:12.437Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-14_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-14T23:50:54.330Z",
+    "publishedAt": "2026-07-15T12:08:10.574Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-14T23:50:54.458Z",
+    "publishedAt": "2026-07-15T12:08:10.679Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,8 +747,8 @@
     ],
     "keyFacts": [
       "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 1 day ago • 19 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 1 day ago • 18 VKUE: No GPU?",
-      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 3 days ago • 16 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 6 days ago • 15 Meet Cohere Transcribe Arabic CohereLabs • 7 days ago • 9 NVIDIA Isaac Teleop and GR00T 1.7 Open VLA Model Available in LeRobot nvidia • 8 days ago • 7 After the party comes the free lunch: regularizing ColBERT models to enhance pooling capabilities and reduce index footprint lightonai • 8 days ago • 13 Atom2.7m: Representation-Level Specialization for Arithmetic-Aware Small Language Models ucr-max • 7 days ago • 9 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 1 day ago • 6 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 367 How to visualize *any* Hugging Face model embedl • 5 days ago • 5 Can Codex Handle Real-World Data Analysis?",
+      "dlouapre • 2 days ago • 21 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 2 days ago • 19 VKUE: No GPU?",
+      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 3 days ago • 17 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 7 days ago • 15 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 369 Meet Cohere Transcribe Arabic CohereLabs • 8 days ago • 9 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 2 days ago • 6 How to visualize *any* Hugging Face model embedl • 5 days ago • 5 NVIDIA Isaac Teleop and GR00T 1.7 Open VLA Model Available in LeRobot nvidia • 8 days ago • 7 Can Codex Handle Real-World Data Analysis?",
       "Ningyu • 5 days ago • 5 Can Skills Improve Codex’s Data Analysis Capabilities?"
     ],
     "claims": [
@@ -765,25 +765,25 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_simonwillison-blog_8931fdbe4d5322bd",
+    "sourceId": "src_simonwillison-blog_898c4b57882a836f",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
     "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
-    "title": "Quoting GitHub Changeling",
+    "title": "Quoting GitHub Changelog",
     "publishedAt": "2026-07-14T22:43:35.000Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "A quote from GitHub Changeling Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; How do you ensure that AI agents act within your intended boundaries?",
+      "A quote from GitHub Changelog Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; How do you ensure that AI agents act within your intended boundaries?",
       "Teleport’s “From Zero Trust to Agent Trust” white paper details what needs to be in place to realize the promise of agentic designs.",
       "14th July 2026 Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request.",
       "This cooldown is now the default and requires no configuration."
     ],
     "claims": [
       {
-        "text": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration. &mdash; GitHub Changeling , embracing dependency cooldowns Tags: dependency-cooldowns , packaging , security , github",
+        "text": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration. &mdash; GitHub Changelog , embracing dependency cooldowns Tags: dependency-cooldowns , packaging , security , github",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything"
       }
@@ -813,7 +813,7 @@
     ],
     "claims": [
       {
-        "text": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks. Your browser does not support HTML5 video. The most interesting thing about this process was watching how the custom pet was created. I told it I wanted a custom pet that was a pelican riding a bicycle and GPT-5.6 Sol xhigh did the rest of the work, using several rounds with gpt-image-2 to generate the necessary sprite assets. I had it make extensive notes and record all of the intermediary steps . My GItHub repo includes every generated image and combined sprite sheet, plus GIFs for each of the animation loops such as this one, called waving.gif : That GIF was compiled from a single image generated by gpt-image-2 that looked like this: And that image was created by executing this prompt against the initial generated character reference image , which was created with this prompt , which has this structure: Create one clean full-body reference sprite for Codex pet Pedalican. Pet identity: A compact adorable baby pelican with a round cream-white body, soft coral-orange bill and feet, riding a tiny sky-blue bicycle [...] Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. [...] I've been looking out for example of ways to use image generation to create simple game-ready sprites, so I spent some time digging into this mechanism to see how it works. The key implementation details are open source - these two skills in particular, both Apache 2.0 licensed: hatch-pet from openai/skills imagegen from openai/codex And yes, GPT-5.6 Sol did come up with the name \"Pedalican\". I like it! Tags: ai , prompt-engineering , generative-ai , llms , text-to-image , pelican-riding-a-bicycle , codex",
+        "text": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks. Your browser does not support HTML5 video. The most interesting thing about this process was watching how the custom pet was created. I told it I wanted a custom pet that was a pelican riding a bicycle and GPT-5.6 Sol xhigh did the rest of the work, using several rounds with gpt-image-2 to generate the necessary sprite assets. I had it make extensive notes and record all of the intermediary steps . My GItHub repo includes every generated image and combined sprite sheet, plus GIFs for each of the animation loops such as this one, called waving.gif : That GIF was compiled from a single image generated by gpt-image-2 that looked like this: And that image was created by executing this prompt against the initial generated character reference image , which was created with this prompt , which has this structure: Create one clean full-body reference sprite for Codex pet Pedalican. Pet identity: A compact adorable baby pelican with a round cream-white body, soft coral-orange bill and feet, riding a tiny sky-blue bicycle [...] Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. [...] I've been looking out for ways to use image generation to create simple game-ready sprites, so I spent some time digging into this mechanism to see how it works. The key implementation details are open source - these two skills in particular, both Apache 2.0 licensed: hatch-pet from openai/skills imagegen from openai/codex And yes, GPT-5.6 Sol did come up with the name \"Pedalican\". I like it! Tags: ai , prompt-engineering , generative-ai , llms , text-to-image , pelican-riding-a-bicycle , codex",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything"
       }
@@ -920,7 +920,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-14T23:50:54.297Z",
+    "publishedAt": "2026-07-15T12:08:10.636Z",
     "categoryHints": [
       "ai-agentic"
     ],
