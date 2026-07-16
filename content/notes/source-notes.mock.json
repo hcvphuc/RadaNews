@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-15T23:56:37.950Z",
+    "publishedAt": "2026-07-16T12:12:31.840Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-15T23:56:38.193Z",
+    "publishedAt": "2026-07-16T12:12:32.304Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-15_fallback",
+    "sourceId": "src_openai-blog_2026-07-16_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-15T23:56:37.272Z",
+    "publishedAt": "2026-07-16T12:12:31.188Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-15_fallback",
+    "sourceId": "src_mcp-blog_2026-07-16_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-15T23:56:37.841Z",
+    "publishedAt": "2026-07-16T12:12:31.505Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6195a084679ba7ae",
+    "sourceId": "src_reddit-aiagents_08dd8ea92756a2a1",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ux8baa/claude_is_making_my_job_so_boring_that_i_feel/",
-    "title": "Claude is making my job so boring that I feel like getting an existential crisis",
-    "publishedAt": "2026-07-15T15:00:01.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uxv8a6/benchmarking_4_open_tts_models_on_cpu/",
+    "title": "Benchmarking 4 open TTS models on CPU",
+    "publishedAt": "2026-07-16T06:53:56.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Stuff that would have taken me weeks or months now only take a couple of hours with Claude, and even then it's more like me sitting in front of my laptop and looking at Claude figuring out almost everything by its own.",
-      "I don't know how you guys keep your motivation up during these times, I feel like I'm nothing but a proxy to fill the gaps that Claude can't fill on its own (yet).",
-      "The firm also heavily pushes towards using agents to do the software development on its own, at least within certain guardrails.",
-      "I sure as hell know that I'm automating myself away here but I don't know what else to do."
+      "Ran a benchmark using Neo comparing 4 open TTS models on CPU.",
+      "Neo wrote the code, designed the test method, built the harness, ran 180 timed generations, scored each output with UTMOS, and generated a report with charts and CSVs.",
+      "Models tested: Kokoro 82M, Supertonic 3, Inflect-Nano, Kyutai's Pocket TTS.",
+      "A few things from the results: Pocket TTS clones a voice from 5 seconds of reference audio on CPU, no GPU or fine-tuning required."
     ],
     "claims": [
       {
-        "text": "Working in tech for a couple of years. Stuff that would have taken me weeks or months now only take a couple of hours with Claude, and even then it's more like me sitting in front of my laptop and looking at Claude figuring out almost everything by its own. I don't know how you guys keep your motivation up during these times, I feel like I'm nothing but a proxy to fill the gaps that Claude can't fill on its own (yet). The firm also heavily pushes towards using agents to do the software development on its own, at least within certain guardrails. I sure as hell know that I'm automating myself away here but I don't know what else to do. There is only so much architectural work and critical thinking that you can do and that is necessary, and even at these kind of tasks AI keeps getting better and better. I don't see tech surviving this wave, but maybe I'm too pessimistic here. Anyway, I feel like the better AI gets the worse my job becomes. How do you guys cope? submitted by /u/AddressNew5619 [link] [comments]",
+        "text": "Ran a benchmark using Neo comparing 4 open TTS models on CPU. Neo wrote the code, designed the test method, built the harness, ran 180 timed generations, scored each output with UTMOS, and generated a report with charts and CSVs. Models tested: Kokoro 82M, Supertonic 3, Inflect-Nano, Kyutai's Pocket TTS. A few things from the results: Pocket TTS clones a voice from 5 seconds of reference audio on CPU, no GPU or fine-tuning required. Kokoro 82M sounded most natural, around 1.5x realtime. Supertonic 3 in quality mode ran at 4x realtime. UTMOS scored Inflect-Nano decently, but by ear it sounded buzzy and robotic, so the score didn't match how it actually sounded. submitted by /u/Practical-Koala2831 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ux8baa/claude_is_making_my_job_so_boring_that_i_feel/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uxv8a6/benchmarking_4_open_tts_models_on_cpu/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_2d18a229c6a03384",
+    "sourceId": "src_reddit-aiagents_3d4baa229f2ab5d3",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ux30vq/i_reverseengineered_the_three_biggest_agentmemory/",
-    "title": "I reverse-engineered the three biggest agent-memory tools. Then I went back to markdown files and LLM wikis over Obsidian.",
-    "publishedAt": "2026-07-15T11:22:09.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uxv7ol/how_are_people_actually_measuring_whether_an_ai/",
+    "title": "How are people actually measuring whether an AI implementation is successful?",
+    "publishedAt": "2026-07-16T06:52:58.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I spent weeks reading about how Cognee, Graphiti, and Neo4j's agent-memory build their agent memory architectures.",
-      "They converged on the same heavy knowledge-graph design: an ontology, LLM extraction pipelines, deduplication, the works.",
-      "I really wanted to use them for my personal use case, but that looks like such a heavy setup that adds a lot of friction and silos.",
-      "Plus, it feels like I just get my data trapped in their service, for not a ton of value."
+      "Is it time saved, revenue generated, cost reduction, accuracy, user satisfaction, or something else?",
+      "A lot of AI projects look impressive in demos, but the real test seems to be whether they create measurable value after deployment.",
+      "What metrics actually matter most in real world AI implementations?",
+      "submitted by /u/nia_tech [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I spent weeks reading about how Cognee, Graphiti, and Neo4j's agent-memory build their agent memory architectures. They converged on the same heavy knowledge-graph design: an ontology, LLM extraction pipelines, deduplication, the works. I really wanted to use them for my personal use case, but that looks like such a heavy setup that adds a lot of friction and silos. Plus, it feels like I just get my data trapped in their service, for not a ton of value. That's why my \"long-term memory\" still lives in Obsidian, Readwise, and Google Drive, with per-project LLM wikis as the agent's memory. No infrastructure. And I'm fine with it. They ship memory as a product, which, in my opinion, at a personal or small scale, is overkill. You can build the same \"knowledge graph\" experience via plain old .md files within an LLM wiki memory. But still, graphs are strong, so I adapted the same architecture from the Cognee, Graphiti, and Neo4j agent-memory stacks to build a data-mining tool with just MongoDB, VoyageAI, and Gemini Flash. But I scoped it to a very particular problem and ontology domain to avoid the KG noise. On the other end of the spectrum, if you want to ship a product at medium-to-large scale, it makes sense to start using monsters such as Neo4j, Zep, or HydraDB. But I am curious: what is your long-term memory setup? Obsidian + LLM wikis vs. Cognee/Graphiti/Zep? Do you actually use tools such as Cognee or Zep? submitted by /u/pauliusztin [link] [comments]",
+        "text": "Is it time saved, revenue generated, cost reduction, accuracy, user satisfaction, or something else? A lot of AI projects look impressive in demos, but the real test seems to be whether they create measurable value after deployment. What metrics actually matter most in real world AI implementations? submitted by /u/nia_tech [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ux30vq/i_reverseengineered_the_three_biggest_agentmemory/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uxv7ol/how_are_people_actually_measuring_whether_an_ai/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_7e268ba7dc5f8e3c",
+    "sourceId": "src_reddit-aiagents_c59bc127eb46d96c",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ux6ky9/i_stopped_ranking_ai_agent_tools_by_total_github/",
-    "title": "I stopped ranking AI agent tools by total GitHub stars and started tracking star velocity instead. This week's #1 is a Codex \"model routing\" skill that's only 1 day old.",
-    "publishedAt": "2026-07-15T13:55:40.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uxxwos/mira_muratis_thinking_machine_labs_is_out_of/",
+    "title": "Mira Murati's Thinking Machine labs is out of stealth mode",
+    "publishedAt": "2026-07-16T09:29:23.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Most \"top AI agent\" lists are basically a snapshot of what got popular months ago.",
-      "I wanted something that surfaces what's actually gaining momentum right now , so I rank projects by star velocity instead of total stars.",
-      "The score looks at things like: 24h and 7d GitHub star growth percentile ranking within each source cohort time decay (so older spikes fade) cross-checking GitHub with the MCP registry The cross-check is important because it helps filter out one-off GitHub spikes and fake-star campaigns (the StarScout paper documented millions of fraudulent GitHub stars).",
-      "A project that's exploding on one source but nowhere else gets down-weighted instead of jumping to the top."
+      "What's cool is they launched a general purpose Tier 2 model with open weights, just ahead of Claude Opus 4.6 and behind GLM-5.2.",
+      "Both ZAI and DeepSeek should feel threatened.",
+      "Anthropic's seat at the top, already rattled by GPT-5.6 Sol, is by no means guaranteed.",
+      "More competition is also great for everyone else."
     ],
     "claims": [
       {
-        "text": "Most \"top AI agent\" lists are basically a snapshot of what got popular months ago. I wanted something that surfaces what's actually gaining momentum right now , so I rank projects by star velocity instead of total stars. The score looks at things like: 24h and 7d GitHub star growth percentile ranking within each source cohort time decay (so older spikes fade) cross-checking GitHub with the MCP registry The cross-check is important because it helps filter out one-off GitHub spikes and fake-star campaigns (the StarScout paper documented millions of fraudulent GitHub stars). A project that's exploding on one source but nowhere else gets down-weighted instead of jumping to the top. This week's fastest-rising agent tools: codex-model-routing-team — 107★, only 1 day old . It routes parallel Codex tasks to background workers with explicit per-worker models. Native subagents inherit the parent session model, so this gives you much finer control over cost and model selection. pilotfish — +359★. Multi-model orchestration for Claude Code. motion-anything — +354★. One thing I found interesting: the projects gaining traction aren't really about creating more agents. They're mostly focused on routing , coordination , and cost control across multiple agents. I published the full methodology (formula, weighting, decay, etc.), but I'll put the link in the comments so this post doesn't turn into a wall of text. Happy to answer questions or discuss the scoring if anyone's interested. submitted by /u/Longjumping-Ice5233 [link] [comments]",
+        "text": "What's cool is they launched a general purpose Tier 2 model with open weights, just ahead of Claude Opus 4.6 and behind GLM-5.2. Both ZAI and DeepSeek should feel threatened. Anthropic's seat at the top, already rattled by GPT-5.6 Sol, is by no means guaranteed. More competition is also great for everyone else. At some point, compute costs and commoditized margins will cross the Pareto efficiency threshold. How long do you think before Thinking Machine labs claims the frontier spot? submitted by /u/prasadpilla [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ux6ky9/i_stopped_ranking_ai_agent_tools_by_total_github/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uxxwos/mira_muratis_thinking_machine_labs_is_out_of/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-15_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-16_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-15T23:56:37.623Z",
+    "publishedAt": "2026-07-16T12:12:31.619Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-15T23:56:38.034Z",
+    "publishedAt": "2026-07-16T12:12:32.126Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-15T23:56:37.581Z",
+    "publishedAt": "2026-07-16T12:12:31.816Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-15_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-15T23:56:37.434Z",
+    "publishedAt": "2026-07-16T12:12:31.405Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-15_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-15T23:56:37.439Z",
+    "publishedAt": "2026-07-16T12:12:31.402Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-15T23:56:37.566Z",
+    "publishedAt": "2026-07-16T12:12:31.396Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-15T23:56:37.585Z",
+    "publishedAt": "2026-07-16T12:12:31.585Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-15T23:56:38.185Z",
+    "publishedAt": "2026-07-16T12:12:32.050Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-15_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-15T23:56:37.521Z",
+    "publishedAt": "2026-07-16T12:12:31.440Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-15T23:56:37.942Z",
+    "publishedAt": "2026-07-16T12:12:31.862Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-15T23:56:37.548Z",
+    "publishedAt": "2026-07-16T12:12:32.036Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-15_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-16_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-15T23:56:37.863Z",
+    "publishedAt": "2026-07-16T12:12:31.658Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-15T23:56:38.077Z",
+    "publishedAt": "2026-07-16T12:12:32.012Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-15T23:56:37.717Z",
+    "publishedAt": "2026-07-16T12:12:31.571Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-15_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-15T23:56:37.679Z",
+    "publishedAt": "2026-07-16T12:12:31.487Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-15T23:56:39.306Z",
+    "publishedAt": "2026-07-16T12:12:32.918Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-15_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-15T23:56:37.699Z",
+    "publishedAt": "2026-07-16T12:12:31.641Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-15T23:56:37.815Z",
+    "publishedAt": "2026-07-16T12:12:31.727Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,8 +747,8 @@
     ],
     "keyFacts": [
       "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 2 days ago • 23 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 3 days ago • 19 VKUE: No GPU?",
-      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 4 days ago • 17 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 7 days ago • 15 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 370 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 2 days ago • 6 How to visualize *any* Hugging Face model embedl • 6 days ago • 5 Meet Cohere Transcribe Arabic CohereLabs • 8 days ago • 9 Can Codex Handle Real-World Data Analysis?",
+      "dlouapre • 3 days ago • 24 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 3 days ago • 19 VKUE: No GPU?",
+      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 4 days ago • 17 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 8 days ago • 16 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 370 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 3 days ago • 6 How to visualize *any* Hugging Face model embedl • 6 days ago • 5 Meet Cohere Transcribe Arabic CohereLabs • 9 days ago • 9 Can Codex Handle Real-World Data Analysis?",
       "Ningyu • 6 days ago • 5 Can Skills Improve Codex’s Data Analysis Capabilities?"
     ],
     "claims": [
@@ -756,6 +756,66 @@
         "text": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
         "confidence": "medium",
         "evidence": "https://huggingface.co/blog"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_9d754db48e677d80",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+    "title": "Mermaid to Unicode box art (grok-mermaid)",
+    "publishedAt": "2026-07-16T00:33:18.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Tool: Mermaid to Unicode box art (grok-mermaid) Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; How do you ensure that AI agents act within your intended boundaries?",
+      "Teleport’s “From Zero Trust to Agent Trust” white paper details what needs to be in place to realize the promise of agentic designs.",
+      "16th July 2026 Tool Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs , a \"self-contained terminal renderer for Mermaid diagrams\" written in Rust.",
+      "I figured it would be fun to try that out in a browser via WebAssembly."
+    ],
+    "claims": [
+      {
+        "text": "Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs , a \"self-contained terminal renderer for Mermaid diagrams\" written in Rust. I figured it would be fun to try that out in a browser via WebAssembly. Here's the prompt I ran in Claude Code for web (Fable 5), and this is what the resulting tool looks like: Tags: tools , rust , webassembly , mermaid , grok , xai",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_0e0687ae7bfa771d",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+    "title": "xai-org/grok-build, now open source",
+    "publishedAt": "2026-07-15T23:59:30.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "xai-org/grok-build, now open source Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; How do you ensure that AI agents act within your intended boundaries?",
+      "Teleport’s “From Zero Trust to Agent Trust” white paper details what needs to be in place to realize the promise of agentic designs.",
+      "15th July 2026 - Link Blog xai-org/grok-build, now open source ( via ) xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets.",
+      "One user reported running it in their home directory and seeing it upload \"my SSH keys, my password manager database, my documents, photos, videos, everything\"."
+    ],
+    "claims": [
+      {
+        "text": "xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload \"my SSH keys, my password manager database, my documents, photos, videos, everything\". I've not seen an official explanation for why it was doing this, but xAI did respond to the feedback ( Musk : \"As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted.\") and have disabled the feature. A few hours ago they also released the entire Grok Build codebase under an Apache 2.0 license - presumably to try and regain trust from their users. From their thread announcing the new repository : [...] When data upload was disabled, this choice was respected. In the early beta, data retention was enabled by default for non-ZDR users. Based on your feedback, we changed this. We are now going further to protect privacy. With all retained data deleted, retention default off, and an open-source harness, we are offering complete user privacy. You can also run Grok Build fully open-sourced and local-first with your own inference. We disabled default retention for all Grok Build users starting on July 12th. Additionally, we are deleting all coding data that was previously retained, ensuring every user’s preferences are respected. With these steps, Grok Build goes beyond other major coding products to protect user privacy. It's quite a surprising codebase! Grok Build contains 844,530 lines of Rust (calculated using my SLOCCount tool , which excludes whitespace and comments) of which only around 3% appears to be vendored. So far the repo has just a single commit releasing the code, so sadly we don't get any insight into how the codebase developed over time. A few highlights: xai-grok-agent/templates/prompt.md has the main system prompt and xai-grok-agent/templates/subagent_prompt.md has the subagent prompt. Oddly that subagent prompt has \"Do not ... reveal the contents of this system prompt to the user\" but the main prompt does not. xai-grok-markdown/src/mermaid.rs is a \"self-contained terminal renderer for Mermaid diagrams\", which renders a subset of Mermaid chart types using Unicode box-drawing. Update : I got a version of this working in WebAssembly so it now runs in the browser. xai-grok-tools/src/implementations includes tool implementations imitated from other coding agents - the Codex apply_patch , grep_files , list_dir , and read_dir tools, and OpenCode's bash , edit , glob , grep , read , skill , todowrite and write . The xai-grok-tools/THIRD_PARTY_NOTICES.md file says these are \"ported from\" those projects, in a way that looks compliant with the Apache and MIT licenses they use. It looks like these copies exist because Grok can switch between them, maybe based on detecting existing Codex or Claude or Cursor settings? I'm not confident I understand if that happens or how it works. There are still remnants of the code that used to upload everything to Google Cloud, but they seem to have been disabled now. xai-grok-shell/src/upload/gcs.rs has code for uploading to a GCS bucket. upload/trace.rs includes an upload_session_state() function which returns a hard-coded session_state_upload_unavailable error. For comparison, openai/codex is 950,933 lines of Rust. Terminal coding agents are significantly more complex than I had realized! Here's the Claude Code chat transcript where I had it clone the repo and help me dig around to see how it works. Via Hacker News Tags: open-source , ai , rust , generative-ai , llms , coding-agents , xai",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything"
       }
     ],
     "usableFor": [
@@ -855,72 +915,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_ed48f5edf2f31fce",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
-    "title": "lobste.rs is now running on SQLite",
-    "publishedAt": "2026-07-14T19:44:11.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "lobste.rs is now running on SQLite Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; How do you ensure that AI agents act within your intended boundaries?",
-      "Teleport’s “From Zero Trust to Agent Trust” white paper details what needs to be in place to realize the promise of agentic designs.",
-      "14th July 2026 - Link Blog lobste.rs is now running on SQLite .",
-      "Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead."
-    ],
-    "claims": [
-      {
-        "text": "lobste.rs is now running on SQLite Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead. This weekend they completed the migration, and now consider it stable enough that it looks like this is the permanent architecture for the site going forward: SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down The Lobsters Rails application now runs on a single VPS, with a primary content SQLite database file that's around 3.8GB. There's also a 1.1GB cache database, a 218MB queue database, and a still growing 555MB rack_attack database used by the Rack::Attack middleware for blocking and throttling abusive requests. There are plenty more details in both the linked thread and this SQLite migration PR by Thomas Dziedzic, which added 735 lines and removed 593 lines across 30 commits and 188 files. That PR built on top of previous PRs #1705 , #1871 , and #1924 . This is a really useful case study, and a great reminder that you can get a whole lot done with a single server and SQLite in 2026. Tags: migrations , ops , rails , sqlite , lobsters",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_6767e3a377c8f99f",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
-    "title": "Quoting Armin Ronacher",
-    "publishedAt": "2026-07-14T18:04:23.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Armin Ronacher Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; How do you ensure that AI agents act within your intended boundaries?",
-      "Teleport’s “From Zero Trust to Agent Trust” white paper details what needs to be in place to realize the promise of agentic designs.",
-      "14th July 2026 The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does.",
-      "This language is rarely written down in one place."
-    ],
-    "claims": [
-      {
-        "text": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does. This language is rarely written down in one place. It lives partly in documentation and code, but also in code review, conversations, arguments, and the experience of having to explain a change to somebody else. Before agents, some of this shared understanding was maintained by friction. If I wanted to change your storage layer, I usually had to read your code, ask you questions, and perhaps coordinate with another team whose service depended on it. This was slow, and much of that slowness was waste but not all of it was. Some of it was the process by which your understanding became mine, and by which both of us discovered whether we still agreed about how the system worked. This friction synchronizes people. &mdash; Armin Ronacher , The Tower Keeps Rising Tags: ai , software-engineering , llms , coding-agents , ai-assisted-programming , generative-ai , armin-ronacher , agentic-engineering",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-15T23:56:37.766Z",
+    "publishedAt": "2026-07-16T12:12:31.586Z",
     "categoryHints": [
       "ai-agentic"
     ],

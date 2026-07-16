@@ -1,39 +1,39 @@
 [
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-15",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-16",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
+      "src_simonwillison-blog_0e0687ae7bfa771d",
       "src_langchain-blog_40ded3f923e3291d",
       "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, LangChain Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-15",
+    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-16",
     "category": "ai-agentic",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
       "src_simonwillison-blog_273f7a36e5c94b6f",
-      "src_simonwillison-blog_59c9ec607c7be32b",
-      "src_simonwillison-blog_ed48f5edf2f31fce",
-      "src_simonwillison-blog_6767e3a377c8f99f",
+      "src_simonwillison-blog_9d754db48e677d80",
       "src_luma-blog_c7449029956c34f9",
+      "src_simonwillison-blog_59c9ec607c7be32b",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_898c4b57882a836f"
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Luma Labs Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Luma Labs Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_blog-black-forest-labs_2026-07-15",
+    "clusterId": "cluster_ai-image_1_blog-black-forest-labs_2026-07-16",
     "category": "ai-image",
     "topic": "Blog | Black Forest Labs",
     "sourceIds": [
@@ -48,26 +48,39 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-07-15",
+    "clusterId": "cluster_ai-agentic_2_quoting-github-changelog_2026-07-16",
     "category": "ai-agentic",
-    "topic": "What's New in Cursor — Latest Updates & Release Notes",
+    "topic": "Quoting GitHub Changelog",
     "sourceIds": [
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_7e268ba7dc5f8e3c",
-      "src_reddit-aiagents_2d18a229c6a03384",
-      "src_reddit-aiagents_6195a084679ba7ae",
+      "src_simonwillison-blog_898c4b57882a836f",
+      "src_reddit-aiagents_c59bc127eb46d96c",
+      "src_reddit-aiagents_3d4baa229f2ab5d3",
       "src_reddit-aiagents_b00dfc3d7aa247a1",
       "src_reddit-aiagents_1d3f2373aa3dfb03",
-      "src_openai-blog_2026-07-15_fallback",
-      "src_mcp-blog_2026-07-15_fallback"
+      "src_openai-blog_2026-07-16_fallback",
+      "src_mcp-blog_2026-07-16_fallback"
     ],
-    "articleWorthinessScore": 0.87,
-    "reasonSelected": "Score 0.87 from 8 source item(s), 6 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 7 source item(s), 5 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_ai-ai_2026-07-15",
+    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-16",
+    "category": "ai-vibe-coding",
+    "topic": "Replit — Replit Blog – Product updates from the team",
+    "sourceIds": [
+      "src_replit-blog_49899058ba32f8e5",
+      "src_reddit-aiagents_08dd8ea92756a2a1",
+      "src_vercel-ai-blog_2026-07-16_fallback"
+    ],
+    "articleWorthinessScore": 0.81,
+    "reasonSelected": "Score 0.81 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_1_ai-ai_2026-07-16",
     "category": "ai-video",
     "topic": "可灵 AI - 新一代 AI 创意生产力平台",
     "sourceIds": [
@@ -80,27 +93,14 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-15",
-    "category": "ai-vibe-coding",
-    "topic": "Replit — Replit Blog – Product updates from the team",
-    "sourceIds": [
-      "src_replit-blog_49899058ba32f8e5",
-      "src_vercel-ai-blog_2026-07-15_fallback"
-    ],
-    "articleWorthinessScore": 0.72,
-    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-07-15",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-07-16",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-07-15_fallback",
-      "src_reddit-stablediffusion_2026-07-15_fallback",
-      "src_reddit-comfyui_2026-07-15_fallback",
-      "src_reddit-midjourney_2026-07-15_fallback"
+      "src_stability-ai-blog_2026-07-16_fallback",
+      "src_reddit-stablediffusion_2026-07-16_fallback",
+      "src_reddit-comfyui_2026-07-16_fallback",
+      "src_reddit-midjourney_2026-07-16_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -108,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-07-15",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-07-16",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-07-15_fallback",
-      "src_reddit-mediasynthesis_2026-07-15_fallback"
+      "src_reddit-aivideo_2026-07-16_fallback",
+      "src_reddit-mediasynthesis_2026-07-16_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
