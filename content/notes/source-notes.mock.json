@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-17T12:01:12.775Z",
+    "publishedAt": "2026-07-17T23:49:49.222Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "OpenWiki 0.2 is adopting the OKF support Brace Sproul July 16, 2026 4 min No items found.",
+      "Partner Proving the ROI of agentic AI in financial services Karan Singh David Tepper July 17, 2026 min No items found.",
       "LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint The LangChain Team July 8, 2026 7 min LangChain LangSmith Observability & Evals Your coding agent bill doubled."
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-17T12:01:19.807Z",
+    "publishedAt": "2026-07-17T23:49:50.814Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-17T12:01:12.114Z",
+    "publishedAt": "2026-07-17T23:49:48.522Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-17T12:01:13.011Z",
+    "publishedAt": "2026-07-17T23:49:49.048Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,6 +167,34 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aiagents_92c2a6eb9a822adb",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uz3kle/i_need_help_starting_to_learn_about_ai_agents/",
+    "title": "I need help starting to learn about AI AGENTS",
+    "publishedAt": "2026-07-17T15:50:27.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "I want to learn how to use and buid ai agents because i know this is the future and everyone wants the help from AI nowadays and i want to be the person that can give it to them.",
+      "I have the time to learn and work on these it's just that i don't know where to start and how to continue.",
+      "submitted by /u/Glittering-Race-8098 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "I want to learn how to use and buid ai agents because i know this is the future and everyone wants the help from AI nowadays and i want to be the person that can give it to them. I have the time to learn and work on these it's just that i don't know where to start and how to continue. submitted by /u/Glittering-Race-8098 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uz3kle/i_need_help_starting_to_learn_about_ai_agents/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aiagents_4df383c001e25b6f",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -196,54 +224,26 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aiagents_8c748ae3d83f9f03",
+    "sourceId": "src_reddit-aiagents_e056a9c7986ad1ff",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uyvbmj/whats_the_best_way_to_create_short_films_with_ai/",
-    "title": "What's the best way to create short films with AI nowadays?",
-    "publishedAt": "2026-07-17T09:58:59.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uz5net/built_my_first_ai_agent_workflow_in_n8n_for_lead/",
+    "title": "Built my first AI agent workflow in n8n for lead scoring and sales automation",
+    "publishedAt": "2026-07-17T17:05:55.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I know about Gemini's video generator and seedance, not much beyond that.",
-      "However I get the impression that when people talk about making longer videos, films, or shorts, or stuff with multiple scenes and maintaining consistency between them they use other tools that I'm not aware of.",
-      "AI has suddenly become such a huge and fragmented field that I feel completely lost and don't know where to begin :\\ submitted by /u/cecil_X [link] [comments]"
+      "I've been experimenting with using AI in outbound workflows and wanted to share the architecture and a few things I learned along the way.",
+      "The basic flow: Apollo → Find and filter potential leads Claude → Analyze the lead, score fit, and draft an initial message Slack → Send to a human for review/approval Approved → Continue with sending + logging The goal wasn't to fully automate sales outreach.",
+      "The interesting part was adding a human checkpoint so AI can handle the repetitive analysis work while a person still makes the final decision.",
+      "A few things that surprised me: Structured outputs matter."
     ],
     "claims": [
       {
-        "text": "I'm not very familiar with AI. I know about Gemini's video generator and seedance, not much beyond that. However I get the impression that when people talk about making longer videos, films, or shorts, or stuff with multiple scenes and maintaining consistency between them they use other tools that I'm not aware of. AI has suddenly become such a huge and fragmented field that I feel completely lost and don't know where to begin :\\ submitted by /u/cecil_X [link] [comments]",
+        "text": "I've been experimenting with using AI in outbound workflows and wanted to share the architecture and a few things I learned along the way. The basic flow: Apollo → Find and filter potential leads Claude → Analyze the lead, score fit, and draft an initial message Slack → Send to a human for review/approval Approved → Continue with sending + logging The goal wasn't to fully automate sales outreach. The interesting part was adding a human checkpoint so AI can handle the repetitive analysis work while a person still makes the final decision. A few things that surprised me: Structured outputs matter. Having Claude return strict JSON made the workflow much easier to build because downstream nodes could reliably use the data. Apollo's search endpoint is great for discovery, but enrichment is a separate step if you need verified contact details. Slack approval flows are a nice middle ground between \"fully automated\" and \"manual everything.\" n8n's expression syntax ( ={{ }} ) is a small detail that can cause confusing issues when you're debugging. Curious how others are approaching AI + automation for outbound. Are you keeping a human approval step, or going fully autonomous? submitted by /u/RiciglianoMarceloE [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uyvbmj/whats_the_best_way_to_create_short_films_with_ai/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_ca9137877489b43c",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uysfe3/while_everyone_is_chasing_uber_skills_that_will/",
-    "title": "While everyone is chasing uber skills that will make their agents auto trade millions on the stock market, choose to make basic, simple, nobody wants to touch",
-    "publishedAt": "2026-07-17T07:09:33.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Everyone is hyped about agent skills, and while most of them are literally just markdown instructions, self-proclaimed AI devs are rushing to Ai-generate \"skills\" that will make them rich, solve their branding or marketing problem with a magic stick, or idk create nuclear weapons they can sell to NATO.",
-      "It's cringe, and absurd to say at least.",
-      "My tips for new agent parents: - Create deterministic skills, not just system instructions (eg.",
-      "see Skillware) - Target agents, not humans."
-    ],
-    "claims": [
-      {
-        "text": "Everyone is hyped about agent skills, and while most of them are literally just markdown instructions, self-proclaimed AI devs are rushing to Ai-generate \"skills\" that will make them rich, solve their branding or marketing problem with a magic stick, or idk create nuclear weapons they can sell to NATO. It's cringe, and absurd to say at least. My tips for new agent parents: - Create deterministic skills, not just system instructions (eg. see Skillware) - Target agents, not humans. (most skill target human psychology, you should target AI needs) - Create basic, silly, even stupid easy skills, like \"background remover\", or \"prompt compressor\", \"token spend limiter\", etc. These are real skills that are really needed by AI agents, especially autonomous ones. They will not make humans rich, but they surely will make agents better. Imagine this in the web2 world. Everyone wants to create the next billion dollar startup working in deep tech, biotech, engineering DNA, Quantum, Space rockets whatever the f, that will exit by selling to Microsoft or Google or whatever as a vision, millions of fancy decks, hundreds of millions investor calls, billions of trash apps that will never make it. Yet, there are some basic silly sites like YouTube to MP3, PDF to PNG, Remove BG, or whatever that are stupid plain and simple, yet have millions of daily users. Do you see the pattern? submitted by /u/RossPeili [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uysfe3/while_everyone_is_chasing_uber_skills_that_will/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uz5net/built_my_first_ai_agent_workflow_in_n8n_for_lead/"
       }
     ],
     "usableFor": [
@@ -258,7 +258,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-17T12:01:12.301Z",
+    "publishedAt": "2026-07-17T23:49:48.736Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -284,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-17T12:01:12.813Z",
+    "publishedAt": "2026-07-17T23:49:49.294Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-17T12:01:12.341Z",
+    "publishedAt": "2026-07-17T23:49:48.676Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,7 +344,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-17T12:01:12.291Z",
+    "publishedAt": "2026-07-17T23:49:48.670Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -371,7 +371,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-17T12:01:12.295Z",
+    "publishedAt": "2026-07-17T23:49:48.812Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-17T12:01:12.487Z",
+    "publishedAt": "2026-07-17T23:49:48.858Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-17T12:01:12.434Z",
+    "publishedAt": "2026-07-17T23:49:48.958Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,15 +455,15 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-17T12:01:13.085Z",
+    "publishedAt": "2026-07-17T23:49:49.588Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all.",
-      "Company Jun 1, 2026 Luma Announces The Open Physical AI Lab: An Open Science Effort to Solve Generalization in Physical AI Product May 5, 2026 Introducing the Uni-1.1 API: Intelligence You Can Direct."
+      "Subscribe to Press Updates All Company Product Engineering Blog Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
+      "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
     ],
     "claims": [
       {
@@ -484,7 +484,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-17T12:01:12.429Z",
+    "publishedAt": "2026-07-17T23:49:48.879Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,15 +511,15 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-17T12:01:12.978Z",
+    "publishedAt": "2026-07-17T23:49:49.235Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud CLI Mobile Automations Review Tab Marketplace ↗ Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog 3.11 Jul 10, 2026 · Changelog Side Chats and Conversation Search This release makes it easier to stay in flow with side chats that run alongside your main chat, the ability to search agent transcripts, and simplified project and repo pickers.",
-      "# Side chats Open a side chat to ask questions, explore ideas, and investigate tangents without interrupting your main agent conversation.",
-      "Use /side , /btw , or the plus button at the top of the chat panel to create a new side chat that has context from the main chat.",
-      "Each side chat is a durable, full agent conversation that you can follow up on, revisit later, and at-mention to pull context back into the main thread."
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud Composer Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Jul 17, 2026 · Changelog Improvements to Cursor in Slack Cursor in Slack now shares a plan before it starts, runs in multi-repo environments, and can work across channels and threads.",
+      "# Interaction improvements Cursor now responds with a plan before it begins, so you can jump in and redirect early.",
+      "As it works, it updates its status so you can follow each step.",
+      "We also refined how Cursor's responses look in Slack."
     ],
     "claims": [
       {
@@ -540,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-17T12:01:12.480Z",
+    "publishedAt": "2026-07-17T23:49:48.903Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -569,7 +569,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-17T12:01:12.615Z",
+    "publishedAt": "2026-07-17T23:49:49.132Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-17T12:01:12.798Z",
+    "publishedAt": "2026-07-17T23:49:49.231Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -625,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-17T12:01:12.597Z",
+    "publishedAt": "2026-07-17T23:49:49.104Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -655,7 +655,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-17T12:01:12.507Z",
+    "publishedAt": "2026-07-17T23:49:48.964Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,7 +682,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-17T12:01:14.697Z",
+    "publishedAt": "2026-07-17T23:49:50.508Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -710,7 +710,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-17T12:01:12.591Z",
+    "publishedAt": "2026-07-17T23:49:49.005Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -737,7 +737,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-17T12:01:12.685Z",
+    "publishedAt": "2026-07-17T23:49:49.141Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -745,10 +745,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 4 days ago • 26 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 4 days ago • 19 VKUE: No GPU?",
-      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 5 days ago • 17 Data for Agents nvidia • 9 days ago • 22 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 9 days ago • 17 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • about 23 hours ago • 8 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 370 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 4 days ago • 6 How to visualize *any* Hugging Face model embedl • 7 days ago • 5 Can Codex Handle Real-World Data Analysis?",
-      "Ningyu • 7 days ago • 5 Can Skills Improve Codex’s Data Analysis Capabilities?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 1 day ago • 37 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 4 days ago • 28 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 5 days ago • 19 VKUE: No GPU?",
+      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 6 days ago • 17 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 1 day ago • 10 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 371 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 9 days ago • 17 Data for Agents nvidia • 9 days ago • 23 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 4 days ago • 7 The state-of-the-art in open-source AI for Swiss legal tasks joelniklaus • 4 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 363 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 874 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 9 Meet Cohere Transcribe Arabic CohereLabs • 10 days ago • 9 When will language models be good enough?",
+      "craffel • 1 day ago • 3 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 192 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 129 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 39 Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI nvidia • Mar 17 • 68 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • Jun 4 • 70 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers 14 July 17, 2026 Newer Models, Same Advantage 5 July 16, 2026 security Security incident disclosure — July 2026 78 July 16, 2026 What building Shippy taught us about building agents 6 July 15, 2026 Model Routing Is Simple."
     ],
     "claims": [
       {
@@ -762,6 +762,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_1354e04fca1338a9",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+    "title": "Quoting Kimi K3",
+    "publishedAt": "2026-07-17T13:43:53.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Kimi K3 Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
+      "New Jira capabilities unlock full-context for AI-native software development.",
+      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
+      "Learn more 17th July 2026 Is there something I can actually help you with today?"
+    ],
+    "claims": [
+      {
+        "text": "Is there something I can actually help you with today? &mdash; Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_cc820edac19dd05c",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+    "title": "LLM cliché highlighter",
+    "publishedAt": "2026-07-17T12:11:11.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Tool: LLM cliché highlighter Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
+      "New Jira capabilities unlock full-context for AI-native software development.",
+      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
+      "Learn more 17th July 2026 Tool LLM cliché highlighter &mdash; Detect and highlight common clichéd phrases in text that frequently appear in language model outputs."
+    ],
+    "claims": [
+      {
+        "text": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing. Tags: tools , ai , generative-ai , llms",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_f811a7983946ef34",
@@ -854,72 +914,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_dfb3660374ce6e65",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
-    "title": "Quoting Thibault Sottiaux",
-    "publishedAt": "2026-07-16T17:45:59.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Thibault Sottiaux Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 16th July 2026 On file deletions."
-    ],
-    "claims": [
-      {
-        "text": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts to override the $HOME env var to define a temporary directory. The model makes an honest mistake and mistakenly deletes $HOME instead. &mdash; Thibault Sottiaux , describing a pretty gnarly Codex bug Tags: codex , coding-agents , generative-ai , ai , llms",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_11a353e6fbdbe9ba",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-    "title": "Inkling: Our open-weights model",
-    "publishedAt": "2026-07-16T15:35:25.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Inkling: Our open-weights model Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 16th July 2026 - Link Blog Inkling: Our open-weights model ( via ) Mira Murati's Thinking Machines Lab just released their first open-weights model."
-    ],
-    "claims": [
-      {
-        "text": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal model trained on 45 trillion tokens of text, images, audio and video. They're also promising Inkling-Small, a 276B (12B active) model, but that's still being tested and the weights will be released \"once that work is complete\". The model card is much shorter than I've come to expect from US AI labs. It links to even shorter Training Data Documentation with almost nothing of interest in it - it's best summarized by these two paragraphs: The datasets Thinking Machines Lab uses to develop its AI services includes content that is in the public domain as well as content that may be subject to intellectual property protection. Thinking Machines Lab’s services were developed using publicly available content obtained from the open internet and publicly accessible data repositories. Certain datasets were also obtained from third parties. By Thinking Machines' own admission, this is not a frontier model. It's instead intended as a strong base model for fine-tuning using their own Tinker training platform : Inkling is not the strongest overall model available today, open or closed. Instead, a combination of qualities makes it a good open-weights base for customization: multimodal capabilities, efficient thinking, and availability on Tinker for fine-tuning. There's a lot to like about this release. It's Apache-2.0 licensed, and looks competitive with the open weight models coming out of China - it's good to see the US open weights ecosystem gain a new viable contender to join NVIDIA Nemotron and Gemma 4. Here's its attempt at an SVG pelican riding a bicycle, which I generated using this curl command against the Thinking Machines API: curl \" https://tinker.thinkingmachines.dev/services/tinker-prod/oai/api/v1/chat/completions \" \\ -H \" Authorization: Bearer $TINKER_API_KEY \" \\ -H \" Content-Type: application/json \" \\ -d ' { \"model\": \"thinkingmachines/Inkling\", \"messages\": [ {\"role\": \"user\", \"content\": \"Generate an SVG of a pelican riding a bicycle\"} ], \"stream\": false } ' Full response here . Since it's a multi-modal model I had it describe its own image (after I rendered it to a JPEG) by sending this JSON: { \"model\" : \" thinkingmachines/Inkling \" , \"messages\" : [{ \"role\" : \" user \" , \"content\" : [ { \"type\" : \" image_url \" , \"image_url\" : { \"url\" : \" data:image/jpeg;base64,$BASE_64_JPEG \" }}, { \"type\" : \" text \" , \"text\" : \" Describe this image in detail \" }, ], }], \"stream\" : false } Here's the full response . It thought it had drawn a \"stork or seagull\": This is a cheerful, flat-vector cartoon illustration featuring a white bird riding a bicycle across a green landscape. The Bird: The central figure is a stylized white bird—resembling a stork or seagull—with a plump, rounded body. It has a long, prominent orange beak that is slightly open, revealing a black line for the mouth. Its eye is small and black with a tiny white highlight. The bird has black wing and tail feathers with white edges, and thin orange legs ending in black feet that rest on the bicycle's orange pedals. The Bicycle: The bike has a simple black frame with two large wheels featuring black tires, gray inner rims, and black spokes arranged in a cross pattern. The handlebars are black, and there are bright orange pedals attached to a black crank. A white seat is visible behind the bird's body. The Setting: The scene is set against a clear, light blue sky. There are two fluffy white clouds—one on the left side and a smaller one near the bird's head on the right. A bright, solid yellow sun shines in the upper right corner. At the bottom, there are rolling green hills with a smooth, curved top edge where the bicycle rests. The overall style is playful, simple, and colorful, with clean lines and a bright, sunny atmosphere. Via Hacker News Tags: ai , generative-ai , llms , training-data , pelican-riding-a-bicycle , llm-release",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-17T12:01:12.630Z",
+    "publishedAt": "2026-07-17T23:49:49.051Z",
     "categoryHints": [
       "ai-agentic"
     ],
