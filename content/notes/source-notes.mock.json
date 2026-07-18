@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-18T11:41:18.102Z",
+    "publishedAt": "2026-07-18T23:51:00.630Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-18T11:41:23.878Z",
+    "publishedAt": "2026-07-18T23:51:03.252Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-18T11:41:17.352Z",
+    "publishedAt": "2026-07-18T23:50:59.795Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-18T11:41:17.794Z",
+    "publishedAt": "2026-07-18T23:51:00.298Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_f66a70df0e021b77",
+    "sourceId": "src_reddit-aiagents_cd649204712d2a24",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uzs6cs/how_do_i_get_in_the_world_of_ai_as_a_teen/",
-    "title": "How do I get in the world of AI as a teen?",
-    "publishedAt": "2026-07-18T10:19:08.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1uzwp3u/the_safest_ai_banking_workflow_might_be_read_flag/",
+    "title": "The safest AI banking workflow might be read, flag, prep, approve",
+    "publishedAt": "2026-07-18T14:01:06.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I am 19 and I always see people working with AI, building things, talking complicated terms, building apps and tools and run the stock market, sports betting, creating games, helping them with coding etc.",
-      "I am 19 I study classical piano in Europe at a prestigious school, I also did 1 year of Maths in college but dropped to pursue music, but I am slowly realizing that the AI world is too nice to miss out on.",
-      "I wonder what people are doing with this coding things, I dont know how to code and feel extremly bad and behind.",
-      "All I know is how to give silly orders to claude and acting as if I am learning how to do AI."
+      "I don’t think the first real version of AI banking is an agent freely moving money around.",
+      "The safer version feels more boring: it reads the context, flags what changed, catches invoices or payments that need attention, preps the next step and then a human approves anything important That still removes a lot of the annoying finance admin without turning the bank account into an experiment.",
+      "For people building AI workflows around business finance, does that feel like the right line?",
+      "Or is even that too close to the money layer?"
     ],
     "claims": [
       {
-        "text": "I am 19 and I always see people working with AI, building things, talking complicated terms, building apps and tools and run the stock market, sports betting, creating games, helping them with coding etc. I am 19 I study classical piano in Europe at a prestigious school, I also did 1 year of Maths in college but dropped to pursue music, but I am slowly realizing that the AI world is too nice to miss out on. I wonder what people are doing with this coding things, I dont know how to code and feel extremly bad and behind. All I know is how to give silly orders to claude and acting as if I am learning how to do AI. All I know is to chat with a commercial chatbot basically. I have read a few things on the claude website but it has been really confusing and too technical. How do I get in the AI field? How do I actually become part of the future? Please help. thanks submitted by /u/crucifixbutterplate [link] [comments]",
+        "text": "I don’t think the first real version of AI banking is an agent freely moving money around. The safer version feels more boring: it reads the context, flags what changed, catches invoices or payments that need attention, preps the next step and then a human approves anything important That still removes a lot of the annoying finance admin without turning the bank account into an experiment. For people building AI workflows around business finance, does that feel like the right line? Or is even that too close to the money layer? submitted by /u/GladAbbreviations683 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uzs6cs/how_do_i_get_in_the_world_of_ai_as_a_teen/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uzwp3u/the_safest_ai_banking_workflow_might_be_read_flag/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_1334c536ded1e140",
+    "sourceId": "src_reddit-aiagents_127eef71daab43ca",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uzs1n4/whats_the_actual_meta_for_codex_orchestration/",
-    "title": "What's the actual meta for Codex orchestration? (Claude makes it look too easy)",
-    "publishedAt": "2026-07-18T10:11:31.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v08w95/since_you_started_working_with_ai_what_percentage/",
+    "title": "Since you started working with AI, what percentage of your code do you estimate you've read?",
+    "publishedAt": "2026-07-18T22:09:49.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Hey fellow Codexers, huge fan of the ecosystem here.",
-      "But let's be real—orchestration is kind of a bottleneck right now.",
-      "In my experience, Claude is dead simple to set up and orchestrate, but Codex feels like a completely different beast.",
-      "I know there are tools floating around like Symphony, but I'm curious about the actual gold standard."
+      "Because even if you're not a Vibe coder, we can't code as fast as AI does.",
+      "Therefore, there isn't that much time to read all the code.",
+      "I think we should be actively monitoring at least 80% of it.",
+      "No, I can't say you have to read all of it because that would be a lie."
     ],
     "claims": [
       {
-        "text": "Hey fellow Codexers, huge fan of the ecosystem here. But let's be real—orchestration is kind of a bottleneck right now. In my experience, Claude is dead simple to set up and orchestrate, but Codex feels like a completely different beast. I know there are tools floating around like Symphony, but I'm curious about the actual gold standard. What is the best, most efficient way you guys are handling orchestration right now? Any tools or stacks you swear by? submitted by /u/Coconut_Reddit [link] [comments]",
+        "text": "Because even if you're not a Vibe coder, we can't code as fast as AI does. Therefore, there isn't that much time to read all the code. I think we should be actively monitoring at least 80% of it. No, I can't say you have to read all of it because that would be a lie. Let's confess some facts. submitted by /u/foric0 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uzs1n4/whats_the_actual_meta_for_codex_orchestration/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v08w95/since_you_started_working_with_ai_what_percentage/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_ef6c97278b70a917",
+    "sourceId": "src_reddit-aiagents_029d49ad6b62f089",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uzsyhq/ai_agents_the_future_or_just_fancy_tools/",
-    "title": "AI Agents: The Future or Just Fancy Tools?",
-    "publishedAt": "2026-07-18T11:03:56.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v04syh/what_model_is_the_best_at_explaining_and_teaching/",
+    "title": "What model is the best at explaining and teaching concepts",
+    "publishedAt": "2026-07-18T19:21:19.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Hey everyone, So, I've been diving deep into the world of AI agents lately, and I gotta say, it's both fascinating and a bit overwhelming trying to wrap my head around where this is all heading.",
-      "We've all seen the rapid advances with AI, but AI agents specifically seem to be at a crossroads.",
-      "On one hand, you have these incredibly smart systems that can make decisions, learn from their environment, and even start predicting outcomes in ways that mimic human intuition.",
-      "It's like having a super versatile assistant that never sleeps."
+      "What current llm model is the best at explaining and teaching concepts such as maths, probability, coding etc?",
+      "i know fable 5 and gpt5.6 are praised for their complex reasoning, but i also find that they are good explainers.",
+      "Interested about others opinions submitted by /u/Coops_Q [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Hey everyone, So, I've been diving deep into the world of AI agents lately, and I gotta say, it's both fascinating and a bit overwhelming trying to wrap my head around where this is all heading. We've all seen the rapid advances with AI, but AI agents specifically seem to be at a crossroads. On one hand, you have these incredibly smart systems that can make decisions, learn from their environment, and even start predicting outcomes in ways that mimic human intuition. It's like having a super versatile assistant that never sleeps. But where does it all lead? Are we looking at a future where AI agents are handling all our scheduling, shopping, or even more complex tasks like financial planning? I mean, they already can do a lot with just a bit of training data. Then there's the ethical side. As these agents get smarter, how do we ensure they stay aligned with our goals? It's not just about preventing them from going rogue, but also about avoiding potential biases and making sure they're actually beneficial. I'd love to hear what you all think. Are AI agents the next big leap, or just a flashy tool that will eventually plateau? What's your take on how they'll impact our daily lives? Looking forward to some insightful discussion! submitted by /u/SearchTricky7875 [link] [comments]",
+        "text": "What current llm model is the best at explaining and teaching concepts such as maths, probability, coding etc? i know fable 5 and gpt5.6 are praised for their complex reasoning, but i also find that they are good explainers. Interested about others opinions submitted by /u/Coops_Q [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uzsyhq/ai_agents_the_future_or_just_fancy_tools/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v04syh/what_model_is_the_best_at_explaining_and_teaching/"
       }
     ],
     "usableFor": [
@@ -259,7 +258,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-18T11:41:17.601Z",
+    "publishedAt": "2026-07-18T23:51:00.232Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-18T11:41:18.303Z",
+    "publishedAt": "2026-07-18T23:51:00.933Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-18T11:41:17.552Z",
+    "publishedAt": "2026-07-18T23:51:00.008Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -345,7 +344,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-18T11:41:17.537Z",
+    "publishedAt": "2026-07-18T23:50:59.991Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -372,7 +371,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-18T11:41:17.539Z",
+    "publishedAt": "2026-07-18T23:50:59.998Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-18T11:41:17.709Z",
+    "publishedAt": "2026-07-18T23:51:00.084Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-18T11:41:17.690Z",
+    "publishedAt": "2026-07-18T23:51:00.202Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,14 +455,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-18T11:41:18.366Z",
+    "publishedAt": "2026-07-18T23:51:01.079Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
+      "Subscribe to Press Updates All Company Product Engineering Blog Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2025 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2025 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
       "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
     ],
     "claims": [
@@ -477,27 +476,139 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-18_fallback",
+    "sourceId": "src_reddit-aivideo_5a163fe980d106d8",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/.rss",
-    "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-18T11:41:17.625Z",
+    "url": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
+    "title": "Featured Titles + Latest Releases",
+    "publishedAt": "2026-05-13T06:38:36.000Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      "This post contains content not supported on old Reddit.",
+      "Click here to view the full post submitted by /u/browsecarousel [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-        "confidence": "low",
-        "evidence": "https://www.reddit.com/r/aivideo/.rss"
+        "text": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/browsecarousel [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aivideo_a7a9a72758720ba6",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+    "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
+    "publishedAt": "2026-01-15T08:28:02.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION .",
+      "WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
+      "REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY.",
+      "ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
+    ],
+    "claims": [
+      {
+        "text": ". AI VIDEO AWARDS 2026 🏆🤩 . UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R . 🎸 LIVE APPEARANCES BY: . WHISKERS THE CAT MIND OVER IMAGES ANDY RIFFETH WACKY TUBE MAN FALLING KNIFE FILMS BOTS IN THE HALL SELENA LOPEZ KNGMKR TONYA & TRISHA CODE AMBER IRWIN M J . 🏆 CURRENT 2026 AWARD NOMINEES ( LIST MAY CHANGE DUE TO VOTING AND NEW CONTENT SUBMITTED ): . 🤯 MINDBLOWING VIDEO OF THE YEAR Category Includes: CRAZY / MINDBLOWING + HORROR + MEME + VIDEOGAME . HeroHusky \"AI Chiropractor\" 🔥 https://www.reddit.com/r/aivideo/comments/1omdf0l/ai_chiropractor/ . NekoChan \"Fast Food Worker From the Feline Community\" 🔥 https://www.reddit.com/r/aivideo/comments/1j4l2hd/fast_food_worker_from_the_feline_community/ . Unknown \"No More Concerts\" 🔥 https://www.reddit.com/r/aivideo/comments/1oxezic/the_didgeridoo/ . Eslop \"Tube Man Exposed\" 🔥 https://www.reddit.com/r/aivideo/comments/1p67r1r/tube_man_exposed/ . Unknown \"Bong Smoking Olympics\" 🔥 https://www.reddit.com/r/aivideo/comments/1o2bvi9/bong_smoking_olympics/ . 📀 MUSIC VIDEO OF THE YEAR . Synthetic Collective \"Take More Dr*gs\" 🔥 https://www.reddit.com/r/aivideo/comments/1ohk6xx/take_more_drugs/ . Promise AI \"Is This AI or Not?\" 🔥 https://www.reddit.com/r/aivideo/comments/1nn80vf/is_this_ai_or_not/ . Andy Riffeth \"Boys In Blue\" 🔥 https://www.reddit.com/r/aivideo/comments/1j3kpsa/half_naked_women_get_thousands_of_views_how_many/ . Mind Over Images \"F*ck It, I’m the Problem\" 🔥 https://www.reddit.com/r/aivideo/comments/1pdwl3p/fuck_it_im_the_problem/ . Neural Hours \"Wash The Snorp\" 🔥 https://www.reddit.com/r/aivideo/comments/1lrwpu5/wash_the_snorp/ . 🍔 TV AD OF THE YEAR . Nimrod Animations \"The Future of Intimacy\" 🔥 https://www.reddit.com/r/aivideo/comments/1oi8sd8/the_future_of_intimacy/ . PJ Accetturo \"Puppramin\" 🔥 https://www.reddit.com/r/aivideo/comments/1kslhy3/i_used_to_make_500k_in_pharmaceutical_commercial/ . Ok Injury \"Beer Tree\" 🔥 https://www.reddit.com/r/aivideo/comments/1ofk04l/beer_tree/ . Jhonny Darrell \"Geriatric Meltdown 2000\" 🔥 https://www.reddit.com/r/aivideo/comments/1k3q62k/geriatric_meltdown_2000/ . Perfectly Unreal AI \"Maid Service\" 🔥 https://www.reddit.com/r/aivideo/comments/1or34al/bikini_babes_maids_service_mostly_used_klingai/ . 🍟 TV SHOW OF THE YEAR Category Includes: TV SHOW + DOCUMENTARY + ANIME . Qemmish \"How Toothpaste Is Made\" 🔥 https://www.reddit.com/r/aivideo/comments/1jujzh2/how_toothpaste_is_made/ . Code Samurai \"Interdimensional Cable\" 🔥 https://www.reddit.com/r/aivideo/comments/1ks2jp9/interdimensional_cable_veo_3/ . Darri 3D \"America’s Funniest AI Home Videos – Episode 1\" 🔥 https://www.reddit.com/r/aivideo/comments/1kjp3is/americas_funniest_ai_home_videos_episode_1/ . Gorm The Old \"Mr. Rogers at the Battle of Agincourt\" 🔥 https://www.reddit.com/r/aivideo/comments/1nwzxfq/mr_rogers_at_the_battle_of_agincourt/ . I Only Like Giraffes \"ADHtv\" 🔥 https://www.reddit.com/r/aivideo/comments/1oqae7p/channel_surfing_through_alternate_dimensions_full/ . 😂 COMEDY OF THE YEAR Category Includes: COMEDY SKETCH / PARODY + COMEDY STAND UP . DOTM Society \"Hood Tours\" 🔥 https://www.reddit.com/r/aivideo/comments/1ojkdal/hood_tours/ . Middle Detective \"Boomers Selling Their Home\" 🔥 https://www.reddit.com/r/aivideo/comments/1mnxltw/boomers_selling_their_home_in_2025/ . Barely Standing Up \"Babies Doing Stand Up\" 🔥 https://www.reddit.com/r/aivideo/comments/1omwute/babies_doing_standup/ . Solopops \"Fast Food Wars\" 🔥 https://www.reddit.com/r/aivideo/comments/1pfuclp/mcdo_vs_kfc_a_fast_food_war_film/ . Krogg Rage \"Oh Yeah, That’s Powerful\" 🔥 https://www.reddit.com/r/aivideo/comments/1pghs10/with_great_power_comes_great_accountability/ . 🍿 MOVIE TRAILER OF THE YEAR . Jurassic Smoothie \"Collect and Liquify\" 🔥 https://www.reddit.com/r/aivideo/comments/1luxcv5/collect_and_liquify/ . Neuro Dreams Exe \"The Awakening\" 🔥 https://www.reddit.com/r/aivideo/comments/1nsrjax/the_awakening/ . Eat The Ethos \"Seraphys\" 🔥 https://www.reddit.com/r/aivideo/comments/1l9wgr7/trailer_for_the_ai_show_seraphys/ . Neilchacho \"Dick Gun\" 🔥 https://www.reddit.com/r/aivideo/comments/1m0uopa/dick_gun_official_trailer_one_mans_junk_is/ . Daryl Wein \"Beer A Geddon\" 🔥 https://www.reddit.com/r/aivideo/comments/1kw33sh/insane_memorial_day_movie_trailer/ . 🎬 MOVIE OF THE YEAR . Eat The Ethos \"The Internet Is Dead\" 🔥 https://www.reddit.com/r/aivideo/comments/1kwt2cv/the_internet_is_dead/ . Gossip Goblin \"The Thirteenth Cycle of Humanity\" 🔥 https://www.reddit.com/r/aivideo/comments/1lkax2e/the_thirteenth_cycle_of_humanity/ . Darri 3D \"Cardboarding\" 🔥 https://www.reddit.com/r/aivideo/comments/1mt8v39/carboarding/ . Solopops \"Egg Protein\" 🔥 https://www.reddit.com/r/aivideo/comments/1q6mmpg/egg_protein_my_weirdest_ai_film/ . 1pcity Studios \"AI Blockbusters — Theme Park Collapse\" 🔥 https://www.reddit.com/r/aivideo/comments/1mjw7hm/theme_park_collapse/ . WATCH THE AI VIDEO AWARDS 2026 SUNDAY MARCH 15th — AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) . 🥳 OFFICIAL AI VIDEO AWARDS 2026 AFTERPARTY . OFFICIAL AI VIDEO AWARDS AFTERPARTY will be held at the Ghost Bar in the Palms Casino in Las Vegas the night of the awards, this is an invite-only ai video industry event for AI creators who are NOMINATED, PRESENTING or PERFORMING at the ceremony along with their production teams. Please get in touch with the mod team for details. . submitted by /u/ZashManson [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-aivideo_1afacc9b0554b1c5",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1v04834/grand_theft_auto_india/",
+    "title": "Grand Theft Auto : India",
+    "publishedAt": "2026-07-18T18:59:00.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/SpiritualJaguar6285 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/SpiritualJaguar6285 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1v04834/grand_theft_auto_india/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aivideo_40c9a18128e827ac",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1uzz8ho/bambi_the_destroyer_vi/",
+    "title": "Bambi the Destroyer: VI",
+    "publishedAt": "2026-07-18T15:43:31.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/rad_city [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/rad_city [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1uzz8ho/bambi_the_destroyer_vi/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "prompt-workflow"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aivideo_5ab4581d37793a29",
+    "sourceType": "reddit",
+    "sourceName": "r/aivideo",
+    "url": "https://www.reddit.com/r/aivideo/comments/1uztvrm/gta_history_of_india/",
+    "title": "GTA: History of India",
+    "publishedAt": "2026-07-18T11:54:11.000Z",
+    "categoryHints": [
+      "ai-video",
+      "prompt-video"
+    ],
+    "keyFacts": [
+      "submitted by /u/GormtheOld25 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "submitted by /u/GormtheOld25 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/aivideo/comments/1uztvrm/gta_history_of_india/"
       }
     ],
     "usableFor": [
@@ -512,7 +623,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-18T11:41:18.154Z",
+    "publishedAt": "2026-07-18T23:51:00.690Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +652,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-18T11:41:17.879Z",
+    "publishedAt": "2026-07-18T23:51:00.330Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -570,7 +681,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-18T11:41:17.894Z",
+    "publishedAt": "2026-07-18T23:51:00.322Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +708,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-18T11:41:18.131Z",
+    "publishedAt": "2026-07-18T23:51:00.770Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +737,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-18T11:41:17.924Z",
+    "publishedAt": "2026-07-18T23:51:00.344Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -656,7 +767,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-18T11:41:17.884Z",
+    "publishedAt": "2026-07-18T23:51:00.324Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +794,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-18T11:41:19.715Z",
+    "publishedAt": "2026-07-18T23:51:01.508Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -711,7 +822,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-18T11:41:17.922Z",
+    "publishedAt": "2026-07-18T23:51:00.357Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +849,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-18T11:41:18.029Z",
+    "publishedAt": "2026-07-18T23:51:00.472Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,10 +857,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 2 days ago • 38 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 5 days ago • 28 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 5 days ago • 19 VKUE: No GPU?",
-      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 6 days ago • 17 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 2 days ago • 11 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 10 days ago • 17 Data for Agents nvidia • 10 days ago • 23 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 5 days ago • 7 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 371 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • about 21 hours ago • 6 The state-of-the-art in open-source AI for Swiss legal tasks joelniklaus • 4 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 363 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 874 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 9 Meet Cohere Transcribe Arabic CohereLabs • 11 days ago • 9 When will language models be good enough?",
-      "craffel • 1 day ago • 3 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 129 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 39 Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI nvidia • Mar 17 • 68 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • Jun 4 • 70 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers 24 July 17, 2026 Newer Models, Same Advantage 5 July 16, 2026 security Security incident disclosure — July 2026 83 July 16, 2026 What building Shippy taught us about building agents 6 July 15, 2026 Model Routing Is Simple."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 2 days ago • 39 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 5 days ago • 30 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 6 days ago • 19 VKUE: No GPU?",
+      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 7 days ago • 17 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 2 days ago • 12 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 1 day ago • 12 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 372 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 5 days ago • 7 Data for Agents nvidia • 10 days ago • 24 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 10 days ago • 17 The state-of-the-art in open-source AI for Swiss legal tasks joelniklaus • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 875 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 363 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 9 When will language models be good enough?",
+      "craffel • 2 days ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 124 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 129 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 39 Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI nvidia • Mar 17 • 68 Introduction to Trimming ✂ lbourdois • May 28 • 44 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers 39 July 17, 2026 Newer Models, Same Advantage 9 July 16, 2026 security Security incident disclosure — July 2026 93 July 16, 2026 What building Shippy taught us about building agents 9 July 15, 2026 Model Routing Is Simple."
     ],
     "claims": [
       {
@@ -763,6 +874,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_b44f9a39b43a0983",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+    "title": "SQLite Query Explainer",
+    "publishedAt": "2026-07-18T17:19:10.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Tool: SQLite Query Explainer Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
+      "New Jira capabilities unlock full-context for AI-native software development.",
+      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
+      "Learn more 18th July 2026 Tool SQLite Query Explainer &mdash; Run SQL queries against a SQLite database in your browser and see exactly how SQLite executes them: the tool runs your query, then annotates every line of both `EXPLAIN QUERY PLAN` and the low-level `EXPLAIN` bytecode output with plain-English descriptions of what the query planner and virtual machine are doing."
+    ],
+    "claims": [
+      {
+        "text": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, since I don't know enough about SQLite query plans to verify the results myself, but it seems cromulent enough to me. Tags: sql , sqlite , tools , julia-evans , pyodide , claude-mythos-fable",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_63861ac8bf1136c9",
@@ -783,7 +924,7 @@
     ],
     "claims": [
       {
-        "text": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3 ) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make it available exclusively through API pricing. Why pay $100 or $200/month for a subscription plan that doesn't include Anthropic's best model? Their original plan was driven by concerns over compute capacity. I wonder if they'll have to dial back their training efforts in order to make more GPUs available to help serve the model. A lot of people were losing sleep over trying to make the most of Fable 5 before subscriber access was withdrawn. It's nice not to have to worry about the Fablepocalypse any more. Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , claude-mythos-fable",
+        "text": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3 ) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make it available exclusively through API pricing. Why pay $100 or $200/month for a subscription plan that doesn't include Anthropic's best model? Their original plan was driven by concerns over compute capacity. I wonder if they'll have to dial back their training efforts in order to make more GPUs available to help serve the model. A lot of people were losing sleep over trying to make the most of Fable 5 before subscriber access was withdrawn. It's nice not to have to worry about the Fablepocalypse any more. Update : Important to note that users on the $20/month plan will still not have access to Fable 5 on that subscription. The Max plans are $100 and $200/month. Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , claude-mythos-fable",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything"
       }
@@ -885,42 +1026,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_f811a7983946ef34",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
-    "title": "Spot birds not golf",
-    "publishedAt": "2026-07-17T02:58:07.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Spot birds not golf Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 17th July 2026 Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby!"
-    ],
-    "claims": [
-      {
-        "text": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby! Google used 10.9 billion gallons in 2025 , so about 30 million gallons per day. The Coachella Valley has 120 golf courses each using ~800 acre-feet per year , which is ~750,000 gallons per day. So Google buying up 40 of those courses (1/3) should do the trick. Tags: ai-energy-usage , ai",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-18T11:41:17.959Z",
+    "publishedAt": "2026-07-18T23:51:00.434Z",
     "categoryHints": [
       "ai-agentic"
     ],
