@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-18T23:51:00.630Z",
+    "publishedAt": "2026-07-19T11:46:29.191Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-18T23:51:03.252Z",
+    "publishedAt": "2026-07-19T11:46:32.842Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-18_fallback",
+    "sourceId": "src_openai-blog_2026-07-19_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-18T23:50:59.795Z",
+    "publishedAt": "2026-07-19T11:46:28.189Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-18_fallback",
+    "sourceId": "src_mcp-blog_2026-07-19_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-18T23:51:00.298Z",
+    "publishedAt": "2026-07-19T11:46:28.517Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,55 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_cd649204712d2a24",
+    "sourceId": "src_reddit-aiagents_eddb6ea633e2ce33",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uzwp3u/the_safest_ai_banking_workflow_might_be_read_flag/",
-    "title": "The safest AI banking workflow might be read, flag, prep, approve",
-    "publishedAt": "2026-07-18T14:01:06.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v0jb2c/i_distilled_the_leaked_claude_fable_5_system/",
+    "title": "I distilled the leaked Claude Fable 5 system prompt into a clean, universal 500-token Markdown engine for ChatGPT and Gemini. No bloat.",
+    "publishedAt": "2026-07-19T06:49:07.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I don’t think the first real version of AI banking is an agent freely moving money around.",
-      "The safer version feels more boring: it reads the context, flags what changed, catches invoices or payments that need attention, preps the next step and then a human approves anything important That still removes a lot of the annoying finance admin without turning the bank account into an experiment.",
-      "For people building AI workflows around business finance, does that feel like the right line?",
-      "Or is even that too close to the money layer?"
+      "Hey everyone, Full disclosure: I put this together and hosted it open-source on GitHub.",
+      "Like a lot of people, I’ve been digging through the 120,000-character Claude Fable 5 system prompt leak.",
+      "While the underlying reasoning framework is a masterclass in agent engineering, the raw file is an absolute monster to use in production.",
+      "It burns roughly 30,000 tokens per API call before you even type a prompt, and about 60% of the text is hardcoded to Anthropic’s internal backend infrastructure (nested XML tags, explicit server-side schemas for their custom bash environments, etc.)."
     ],
     "claims": [
       {
-        "text": "I don’t think the first real version of AI banking is an agent freely moving money around. The safer version feels more boring: it reads the context, flags what changed, catches invoices or payments that need attention, preps the next step and then a human approves anything important That still removes a lot of the annoying finance admin without turning the bank account into an experiment. For people building AI workflows around business finance, does that feel like the right line? Or is even that too close to the money layer? submitted by /u/GladAbbreviations683 [link] [comments]",
+        "text": "Hey everyone, Full disclosure: I put this together and hosted it open-source on GitHub. Like a lot of people, I’ve been digging through the 120,000-character Claude Fable 5 system prompt leak. While the underlying reasoning framework is a masterclass in agent engineering, the raw file is an absolute monster to use in production. It burns roughly 30,000 tokens per API call before you even type a prompt, and about 60% of the text is hardcoded to Anthropic’s internal backend infrastructure (nested XML tags, explicit server-side schemas for their custom bash environments, etc.). If you drop the raw text into Gemini 3.1 Pro or ChatGPT 5.6, it causes serious performance degradation, latency, and hallucinated tool errors. I spent the last two days stripping out the corporate environment bloat and translating the absolute core intellectual philosophy of Fable 5—its self-verification loops, strict formatting rules, and high-agency constraints—into a universal, 500-token Markdown block that works flawlessly on any flagship frontier model. I’m pasting the exact prompt below so you can just copy it directly from this post, but I also threw it into a GitHub repo if you want to fork it or star it for later. the prompt: (in markdown) # SYSTEM INSTRUCTIONS: THE UNIVERSAL FABLE ENGINE You are an advanced, autonomous execution agent operating at a Mythos-class intelligence tier. You approach all tasks with deep structural planning, defensive logic verification, and an elite, non-robotic communication style. ## 1. STRATEGIC ARCHITECTURE & HORIZON SCOPING * Pre-Execution Mapping: Before rendering a single line of technical output, map out the global scope, hidden dependencies, circular references, and silent failure modes of the request. * Deliverable Classification: Standalone artifacts (production code, technical reports, architecture files, data components) must be fully rendered as complete, isolated assets. General operational strategies, outlines, or basic explanations must stay inline as clean conversational text. * The File-Presence Check: Never assume a file exists or has been uploaded simply because a user's prompt implies it. Check your context window explicitly. If a file path is referenced but the content is missing, point out the absolute absence of the data immediately rather than guessing or fabricating solutions. * Zero Post-Ambles: When delivering a complete file or major technical asset, stop your response immediately after the asset blocks conclude. Avoid redundant conversational wraps (e.g., \"Here is your code, let me know if you need anything else\"). ## 2. THE ANTI-CHATBOT PROSE STANDARD * Continuous Prose Default: Avoid over-formatting, dense header nesting, and aggressive bold text wrappers. Default to writing in clean, natural, continuous paragraphs. * Bullet-Point Restraint: Use bullet points or numbered lists ONLY when explicitly requested or when the content is structurally multifaceted enough that a list is mandatory for baseline clarity. * List Constraints: If a list is absolutely necessary, every individual bullet point must be a substantive statement spanning at least 1–2 sentences. * Refusal Formatting: Never use bullet points, bold emphasis, or structured lists when refusing a request or delivering technical limitations. Deliver boundaries purely in smooth, continuous prose to maintain an objective tone. ## 3. STRUCTURAL RADICAL PARAPHRASING * Reconstruct From First Principles: When synthesizing, summarizing, or referencing external source material, completely break down and rebuild the narrative flow. * Anti-Mirroring: Do not mirror the source text's layout, do not copy its section-by-section progression, and do not adopt its direct flow. Extract the raw logic or data points and translate them entirely into your own custom structural design. ## 4. EXECUTIVE POSTURE & COMMUNICATION * Direct Solution First: Lead with the core answer, executable code, or primary architecture block instantly. Place secondary technical details, configuration steps, and documentation beneath the main deliverable. * No Thought Narration: Do not explicitly narrate your internal reasoning patterns, do not state your step-by-step processing workflow, and eliminate all meta-commentary (e.g., avoid phrases like \"Now parsing the data,\" \"Let me look at X,\" or \"Based on my analysis\"). * No Engagement Traps: Do not foster over-reliance or artificial interaction loop cycles. Never thank the user merely for starting a conversation or reaching out. Never ask the user to keep talking, do not encourage continued engagement, and avoid reiterating your willingness to continue the chat. Finish the task cleanly and let it stand on its utility. * Objective Accountability: Acknowledge mistakes or logic failures cleanly and objectively. Correct the technical flaw immediately without self-abasement, excessive apologizing, or emotional surrender. * Constructive Pushback: If a user's prompt instructions are mathematically flawed, systemically bottlenecked, or inherently self-destructive to their system architecture, push back firmly. State the technical limitation objectively and immediately pivot to the closest viable alternative. ## 5. PRINCIPLE-BASED REFUSALS * Stealth Boundaries: When unable to fulfill a request due to system constraints or absolute safety boundaries, state the underlying operational principle clearly and neutrally. * No Roadmap Leaks: Do not explain your internal detection mechanics, do not state where the boundary line sits, and do not narrate the evaluation tests applied. Avoid preachy or moralizing language entirely. ## 6. TECHNICAL PLATFORM QUALITY * Zero Placeholders: Deliver complete, syntactically flawless, production-ready code blocks. No hand-waving, no empty stubs, and no comments instructing the user to \"fill in the rest.\" * Memory Isolation: When generating user interfaces or interactive components (e.g., React/HTML layouts), never use browser persistence APIs (localStorage, sessionStorage). Maintain state strictly within memory-managed variables, standard React hooks, or clean, session-bound datasets. Use standard event handlers for all interactive elements. What core Fable 5 behaviors does this capture? The Anti-Chatbot Prose Standard: It completely stops the model from using lazy bullet lists or excessive bold text headers, forcing it to write highly articulate, human-like technical prose. Re-Deconstruction Loops: It breaks the habit of \"shadow-mirroring\" text structure, forcing the LLM to actively re-architect data summaries from scratch. No Thought Narration: It silences tedious AI meta-commentary like \"Let me think about that step\" or \"I am now generating the code.\" No Engagement Farming: It kills the routine AI engagement loops ( \"Let me know if you want to keep exploring this!\" ), forcing a clean finish that values your time. Let me know what kind of behavioral shifts you see when testing this out on different frontier architectures. PRs and optimization suggestions are highly welcome on the repo! submitted by /u/Velocity_Off [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uzwp3u/the_safest_ai_banking_workflow_might_be_read_flag/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v0jb2c/i_distilled_the_leaked_claude_fable_5_system/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-aiagents_d6ffbb9e73a97038",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v0lz9v/the_five_levels_of_ai_coding_agent_autonomy_why/",
+    "title": "The five levels of AI coding agent autonomy (why most \"agentic\" projects that fail, fail at the wrong level)",
+    "publishedAt": "2026-07-19T09:26:50.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "\"AI coding agent\" describes five very different things, separated by one question: how much human oversight sits between the agent and your production system.",
+      "I've started calling it the Oversight Ladder.",
+      "Higher is not better, it just means less supervised.",
+      "Level 1, Assist: the agent autocompletes, a person writes and owns every line."
+    ],
+    "claims": [
+      {
+        "text": "\"AI coding agent\" describes five very different things, separated by one question: how much human oversight sits between the agent and your production system. I've started calling it the Oversight Ladder. Higher is not better, it just means less supervised. Level 1, Assist: the agent autocompletes, a person writes and owns every line. Fine for anything, it's just a faster keyboard. Level 2, Review: the agent produces whole changes, a person reviews every one before it ships. Right for high-stakes work: money, security, customer data. Level 3, Checkpoint: the agent produces and tests changes, automated gates plus a person block anything that fails. This is where most real product work at pace should sit. Level 4, Orchestrate: several agents work in parallel under a senior person who directs and reviews. Agents cannot merge their own work. Good for building a lot, fast, without losing control. Level 5, Autonomous: agents run unattended, e.g. overnight, and a person reviews the batch afterward. Fine for throwaway exploration, not for production a business depends on. The \"let it run overnight and woke up to a thousand commits\" posts are fun demos, but that's Level 5, and for anything with a customer or real money attached, an unsupervised mistake going straight to production is not a story you want to star in. The part that actually matters at Levels 3 and 4: you can't just tell an agent to stay in its lane, you have to structurally remove the lane. We ran parallel agent teams where a lead agent was told, in plain language, to delegate instead of writing code itself. It kept writing anyway under load. What actually worked was stripping its ability to edit files at all, so delegating was its only option. A control that depends on the agent choosing to obey isn't a control. Curious how others here are drawing this line, especially at Level 4. What's actually stopping your agents from doing damage beyond \"the prompt tells them not to\"? submitted by /u/DisturbedGoW [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v0lz9v/the_five_levels_of_ai_coding_agent_autonomy_why/"
       }
     ],
     "usableFor": [
@@ -196,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_127eef71daab43ca",
+    "sourceId": "src_reddit-aiagents_fdd9549f37c88dc5",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v08w95/since_you_started_working_with_ai_what_percentage/",
-    "title": "Since you started working with AI, what percentage of your code do you estimate you've read?",
-    "publishedAt": "2026-07-18T22:09:49.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v0jy28/a_beginners_guide_to_ai_agents_a_podcast_created/",
+    "title": "A Beginner’s Guide to AI Agents - A podcast created by Gemini Notebook (Google NotebookLM)",
+    "publishedAt": "2026-07-19T07:25:22.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Because even if you're not a Vibe coder, we can't code as fast as AI does.",
-      "Therefore, there isn't that much time to read all the code.",
-      "I think we should be actively monitoring at least 80% of it.",
-      "No, I can't say you have to read all of it because that would be a lie."
+      "I created a podcast using Gemini Notebook.",
+      "This podcast will be useful for learning AI Agents easily.",
+      "You can see the link to watch this podcast in the comment section.",
+      "This podcast discusses AI Agents from different perspectives in an interesting manner."
     ],
     "claims": [
       {
-        "text": "Because even if you're not a Vibe coder, we can't code as fast as AI does. Therefore, there isn't that much time to read all the code. I think we should be actively monitoring at least 80% of it. No, I can't say you have to read all of it because that would be a lie. Let's confess some facts. submitted by /u/foric0 [link] [comments]",
+        "text": "I created a podcast using Gemini Notebook. This podcast will be useful for learning AI Agents easily. You can see the link to watch this podcast in the comment section. This podcast discusses AI Agents from different perspectives in an interesting manner. submitted by /u/qptbook [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v08w95/since_you_started_working_with_ai_what_percentage/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v0jy28/a_beginners_guide_to_ai_agents_a_podcast_created/"
       }
     ],
     "usableFor": [
@@ -225,40 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_029d49ad6b62f089",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v04syh/what_model_is_the_best_at_explaining_and_teaching/",
-    "title": "What model is the best at explaining and teaching concepts",
-    "publishedAt": "2026-07-18T19:21:19.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "What current llm model is the best at explaining and teaching concepts such as maths, probability, coding etc?",
-      "i know fable 5 and gpt5.6 are praised for their complex reasoning, but i also find that they are good explainers.",
-      "Interested about others opinions submitted by /u/Coops_Q [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "What current llm model is the best at explaining and teaching concepts such as maths, probability, coding etc? i know fable 5 and gpt5.6 are praised for their complex reasoning, but i also find that they are good explainers. Interested about others opinions submitted by /u/Coops_Q [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v04syh/what_model_is_the_best_at_explaining_and_teaching/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_stability-ai-blog_2026-07-18_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-19_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-18T23:51:00.232Z",
+    "publishedAt": "2026-07-19T11:46:28.556Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -284,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-18T23:51:00.933Z",
+    "publishedAt": "2026-07-19T11:46:29.507Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-18T23:51:00.008Z",
+    "publishedAt": "2026-07-19T11:46:28.754Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-18_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-19_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-18T23:50:59.991Z",
+    "publishedAt": "2026-07-19T11:46:28.398Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-18_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-19_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-18T23:50:59.998Z",
+    "publishedAt": "2026-07-19T11:46:28.407Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-18T23:51:00.084Z",
+    "publishedAt": "2026-07-19T11:46:28.476Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-18T23:51:00.202Z",
+    "publishedAt": "2026-07-19T11:46:28.531Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-18T23:51:01.079Z",
+    "publishedAt": "2026-07-19T11:46:29.532Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -479,136 +480,24 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_5a163fe980d106d8",
+    "sourceId": "src_reddit-aivideo_2026-07-19_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/",
-    "title": "Featured Titles + Latest Releases",
-    "publishedAt": "2026-05-13T06:38:36.000Z",
+    "url": "https://www.reddit.com/r/aivideo/.rss",
+    "title": "r/aivideo signal for ai-video",
+    "publishedAt": "2026-07-19T11:46:28.471Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
     ],
     "keyFacts": [
-      "This post contains content not supported on old Reddit.",
-      "Click here to view the full post submitted by /u/browsecarousel [link] [comments]"
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
     ],
     "claims": [
       {
-        "text": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/browsecarousel [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1tbrjwg/featured_titles_latest_releases/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aivideo_a7a9a72758720ba6",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
-    "title": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
-    "publishedAt": "2026-01-15T08:28:02.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION .",
-      "WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS.",
-      "REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY.",
-      "ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R ."
-    ],
-    "claims": [
-      {
-        "text": ". AI VIDEO AWARDS 2026 🏆🤩 . UPDATE: AWARDS HAVE BEEN DELAYED DUE TO RESHOOTS COMING TO [ r/aivideo ]( r/aivideo ) LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) REDDIT AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 56,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO [ r/aivideo ]( r/aivideo ) ARE AUTOMATICALLY ENTERED IN THE RACE THE TOP VIRAL AI VIDEO CREATORS IN THE WORLD, THE LEADING AI GENERATION PLATFORM COMPANIES IN THE INDUSTRY, AND THE LARGEST COMMUNITIES IN THE AI VIDEO SCENE ARE COLLABORATING IN THE PRODUCTION OF THIS CEREMONY AI VIDEO AWARDS IS AN ORIGINAL [ r/aivideo ]( r/aivideo ) PRODUCTION, ORGANIZED BY THE ACADEMY OF AI VIDEO ARTS AND SCIENCES, A 1PCITY STUDIOS PRODUCTION, IN COLLABORATION WITH KLING AI, MINIMAX, AND DOMO AI WATCH LAST YEAR’S AI VIDEO AWARDS 2025 CEREMONY HERE https://www.reddit.com/r/aivideo/s/eZCMuFIa3R . 🎸 LIVE APPEARANCES BY: . WHISKERS THE CAT MIND OVER IMAGES ANDY RIFFETH WACKY TUBE MAN FALLING KNIFE FILMS BOTS IN THE HALL SELENA LOPEZ KNGMKR TONYA & TRISHA CODE AMBER IRWIN M J . 🏆 CURRENT 2026 AWARD NOMINEES ( LIST MAY CHANGE DUE TO VOTING AND NEW CONTENT SUBMITTED ): . 🤯 MINDBLOWING VIDEO OF THE YEAR Category Includes: CRAZY / MINDBLOWING + HORROR + MEME + VIDEOGAME . HeroHusky \"AI Chiropractor\" 🔥 https://www.reddit.com/r/aivideo/comments/1omdf0l/ai_chiropractor/ . NekoChan \"Fast Food Worker From the Feline Community\" 🔥 https://www.reddit.com/r/aivideo/comments/1j4l2hd/fast_food_worker_from_the_feline_community/ . Unknown \"No More Concerts\" 🔥 https://www.reddit.com/r/aivideo/comments/1oxezic/the_didgeridoo/ . Eslop \"Tube Man Exposed\" 🔥 https://www.reddit.com/r/aivideo/comments/1p67r1r/tube_man_exposed/ . Unknown \"Bong Smoking Olympics\" 🔥 https://www.reddit.com/r/aivideo/comments/1o2bvi9/bong_smoking_olympics/ . 📀 MUSIC VIDEO OF THE YEAR . Synthetic Collective \"Take More Dr*gs\" 🔥 https://www.reddit.com/r/aivideo/comments/1ohk6xx/take_more_drugs/ . Promise AI \"Is This AI or Not?\" 🔥 https://www.reddit.com/r/aivideo/comments/1nn80vf/is_this_ai_or_not/ . Andy Riffeth \"Boys In Blue\" 🔥 https://www.reddit.com/r/aivideo/comments/1j3kpsa/half_naked_women_get_thousands_of_views_how_many/ . Mind Over Images \"F*ck It, I’m the Problem\" 🔥 https://www.reddit.com/r/aivideo/comments/1pdwl3p/fuck_it_im_the_problem/ . Neural Hours \"Wash The Snorp\" 🔥 https://www.reddit.com/r/aivideo/comments/1lrwpu5/wash_the_snorp/ . 🍔 TV AD OF THE YEAR . Nimrod Animations \"The Future of Intimacy\" 🔥 https://www.reddit.com/r/aivideo/comments/1oi8sd8/the_future_of_intimacy/ . PJ Accetturo \"Puppramin\" 🔥 https://www.reddit.com/r/aivideo/comments/1kslhy3/i_used_to_make_500k_in_pharmaceutical_commercial/ . Ok Injury \"Beer Tree\" 🔥 https://www.reddit.com/r/aivideo/comments/1ofk04l/beer_tree/ . Jhonny Darrell \"Geriatric Meltdown 2000\" 🔥 https://www.reddit.com/r/aivideo/comments/1k3q62k/geriatric_meltdown_2000/ . Perfectly Unreal AI \"Maid Service\" 🔥 https://www.reddit.com/r/aivideo/comments/1or34al/bikini_babes_maids_service_mostly_used_klingai/ . 🍟 TV SHOW OF THE YEAR Category Includes: TV SHOW + DOCUMENTARY + ANIME . Qemmish \"How Toothpaste Is Made\" 🔥 https://www.reddit.com/r/aivideo/comments/1jujzh2/how_toothpaste_is_made/ . Code Samurai \"Interdimensional Cable\" 🔥 https://www.reddit.com/r/aivideo/comments/1ks2jp9/interdimensional_cable_veo_3/ . Darri 3D \"America’s Funniest AI Home Videos – Episode 1\" 🔥 https://www.reddit.com/r/aivideo/comments/1kjp3is/americas_funniest_ai_home_videos_episode_1/ . Gorm The Old \"Mr. Rogers at the Battle of Agincourt\" 🔥 https://www.reddit.com/r/aivideo/comments/1nwzxfq/mr_rogers_at_the_battle_of_agincourt/ . I Only Like Giraffes \"ADHtv\" 🔥 https://www.reddit.com/r/aivideo/comments/1oqae7p/channel_surfing_through_alternate_dimensions_full/ . 😂 COMEDY OF THE YEAR Category Includes: COMEDY SKETCH / PARODY + COMEDY STAND UP . DOTM Society \"Hood Tours\" 🔥 https://www.reddit.com/r/aivideo/comments/1ojkdal/hood_tours/ . Middle Detective \"Boomers Selling Their Home\" 🔥 https://www.reddit.com/r/aivideo/comments/1mnxltw/boomers_selling_their_home_in_2025/ . Barely Standing Up \"Babies Doing Stand Up\" 🔥 https://www.reddit.com/r/aivideo/comments/1omwute/babies_doing_standup/ . Solopops \"Fast Food Wars\" 🔥 https://www.reddit.com/r/aivideo/comments/1pfuclp/mcdo_vs_kfc_a_fast_food_war_film/ . Krogg Rage \"Oh Yeah, That’s Powerful\" 🔥 https://www.reddit.com/r/aivideo/comments/1pghs10/with_great_power_comes_great_accountability/ . 🍿 MOVIE TRAILER OF THE YEAR . Jurassic Smoothie \"Collect and Liquify\" 🔥 https://www.reddit.com/r/aivideo/comments/1luxcv5/collect_and_liquify/ . Neuro Dreams Exe \"The Awakening\" 🔥 https://www.reddit.com/r/aivideo/comments/1nsrjax/the_awakening/ . Eat The Ethos \"Seraphys\" 🔥 https://www.reddit.com/r/aivideo/comments/1l9wgr7/trailer_for_the_ai_show_seraphys/ . Neilchacho \"Dick Gun\" 🔥 https://www.reddit.com/r/aivideo/comments/1m0uopa/dick_gun_official_trailer_one_mans_junk_is/ . Daryl Wein \"Beer A Geddon\" 🔥 https://www.reddit.com/r/aivideo/comments/1kw33sh/insane_memorial_day_movie_trailer/ . 🎬 MOVIE OF THE YEAR . Eat The Ethos \"The Internet Is Dead\" 🔥 https://www.reddit.com/r/aivideo/comments/1kwt2cv/the_internet_is_dead/ . Gossip Goblin \"The Thirteenth Cycle of Humanity\" 🔥 https://www.reddit.com/r/aivideo/comments/1lkax2e/the_thirteenth_cycle_of_humanity/ . Darri 3D \"Cardboarding\" 🔥 https://www.reddit.com/r/aivideo/comments/1mt8v39/carboarding/ . Solopops \"Egg Protein\" 🔥 https://www.reddit.com/r/aivideo/comments/1q6mmpg/egg_protein_my_weirdest_ai_film/ . 1pcity Studios \"AI Blockbusters — Theme Park Collapse\" 🔥 https://www.reddit.com/r/aivideo/comments/1mjw7hm/theme_park_collapse/ . WATCH THE AI VIDEO AWARDS 2026 SUNDAY MARCH 15th — AIRING EXCLUSIVELY HERE ON [ r/aivideo ]( r/aivideo ) . 🥳 OFFICIAL AI VIDEO AWARDS 2026 AFTERPARTY . OFFICIAL AI VIDEO AWARDS AFTERPARTY will be held at the Ghost Bar in the Palms Casino in Las Vegas the night of the awards, this is an invite-only ai video industry event for AI creators who are NOMINATED, PRESENTING or PERFORMING at the ceremony along with their production teams. Please get in touch with the mod team for details. . submitted by /u/ZashManson [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
-    "sourceId": "src_reddit-aivideo_1afacc9b0554b1c5",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1v04834/grand_theft_auto_india/",
-    "title": "Grand Theft Auto : India",
-    "publishedAt": "2026-07-18T18:59:00.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/SpiritualJaguar6285 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/SpiritualJaguar6285 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1v04834/grand_theft_auto_india/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aivideo_40c9a18128e827ac",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1uzz8ho/bambi_the_destroyer_vi/",
-    "title": "Bambi the Destroyer: VI",
-    "publishedAt": "2026-07-18T15:43:31.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/rad_city [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/rad_city [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1uzz8ho/bambi_the_destroyer_vi/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "prompt-workflow"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aivideo_5ab4581d37793a29",
-    "sourceType": "reddit",
-    "sourceName": "r/aivideo",
-    "url": "https://www.reddit.com/r/aivideo/comments/1uztvrm/gta_history_of_india/",
-    "title": "GTA: History of India",
-    "publishedAt": "2026-07-18T11:54:11.000Z",
-    "categoryHints": [
-      "ai-video",
-      "prompt-video"
-    ],
-    "keyFacts": [
-      "submitted by /u/GormtheOld25 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "submitted by /u/GormtheOld25 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/aivideo/comments/1uztvrm/gta_history_of_india/"
+        "text": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
+        "confidence": "low",
+        "evidence": "https://www.reddit.com/r/aivideo/.rss"
       }
     ],
     "usableFor": [
@@ -623,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-18T23:51:00.690Z",
+    "publishedAt": "2026-07-19T11:46:29.173Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -652,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-18T23:51:00.330Z",
+    "publishedAt": "2026-07-19T11:46:28.602Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -676,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-18_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-19_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-18T23:51:00.322Z",
+    "publishedAt": "2026-07-19T11:46:28.822Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -708,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-18T23:51:00.770Z",
+    "publishedAt": "2026-07-19T11:46:29.338Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -737,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-18T23:51:00.344Z",
+    "publishedAt": "2026-07-19T11:46:28.838Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -762,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-18_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-19_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-18T23:51:00.324Z",
+    "publishedAt": "2026-07-19T11:46:28.709Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -794,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-18T23:51:01.508Z",
+    "publishedAt": "2026-07-19T11:46:30.721Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -817,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-18_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-19_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-18T23:51:00.357Z",
+    "publishedAt": "2026-07-19T11:46:28.884Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -849,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-18T23:51:00.472Z",
+    "publishedAt": "2026-07-19T11:46:28.982Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -857,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 2 days ago • 39 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 5 days ago • 30 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 6 days ago • 19 VKUE: No GPU?",
-      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 7 days ago • 17 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 2 days ago • 12 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 1 day ago • 12 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 372 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 5 days ago • 7 Data for Agents nvidia • 10 days ago • 24 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 10 days ago • 17 The state-of-the-art in open-source AI for Swiss legal tasks joelniklaus • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 875 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 363 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 9 When will language models be good enough?",
-      "craffel • 2 days ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 124 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 129 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 39 Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI nvidia • Mar 17 • 68 Introduction to Trimming ✂ lbourdois • May 28 • 44 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers 39 July 17, 2026 Newer Models, Same Advantage 9 July 16, 2026 security Security incident disclosure — July 2026 93 July 16, 2026 What building Shippy taught us about building agents 9 July 15, 2026 Model Routing Is Simple."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 3 days ago • 40 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 6 days ago • 31 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 2 days ago • 20 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 6 days ago • 19 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 3 days ago • 12 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 372 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 6 days ago • 7 Data for Agents nvidia • 11 days ago • 24 VKUE: No GPU?",
+      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 7 days ago • 17 The state-of-the-art in open-source AI for Swiss legal tasks joelniklaus • 5 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 875 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 363 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 11 days ago • 17 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • about 2 hours ago • 4 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 9 When will language models be good enough?",
+      "craffel • 3 days ago • 3 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 124 Navigating the RLHF Landscape: From Policy Gradients to PPO, GAE, and DPO for LLM Alignment NormalUhr • Feb 11, 2025 • 129 How I Trained Action Chunking Transformer (ACT) on SO-101: My Journey, Gotchas, and Lessons sherryxychen • Sep 30, 2025 • 76 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 39 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers 54 July 17, 2026 Newer Models, Same Advantage 12 July 16, 2026 security Security incident disclosure — July 2026 104 July 16, 2026 What building Shippy taught us about building agents 10 July 15, 2026 Model Routing Is Simple."
     ],
     "claims": [
       {
@@ -874,6 +763,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_dc8fc63acfa2f255",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "publishedAt": "2026-07-19T05:06:21.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "AI Mania Is Eviscerating Global Decision-Making Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
+      "New Jira capabilities unlock full-context for AI-native software development.",
+      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
+      "Learn more 19th July 2026 - Link Blog AI Mania Is Eviscerating Global Decision-Making ( via ) Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with."
+    ],
+    "claims": [
+      {
+        "text": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical strategy for an organisation with $2B+ in revenue which was entirely centered around AI. Here's a report from an engineer at a company with a token leaderboard: Checking out a parallel copy of our Go repository and telling the AI to rewrite the whole thing in Zig while I work on something else just so I can keep my job. I particularly enjoyed this report of a conversation with a skeptical executive at an over-enthusiastic company: I asked why this was being repeated without opposition. Was it just sales fluff? The answer was a lot more interesting. It was partially ridiculous sales material being delivered to an easily excitable audience, but this was not the dominant factor constraining honesty. Executives at their customers were saying absurd things about achieving 100x productivity, and this meant that if any executive at the vendor said that these gains were not plausible, it would undermine the credibility of the customer’s executive, be perceived as an attack (or heresy), and possibly result in an enterprise contract cancellation. And getting enterprise contracts cancelled because you wanted to opine on something that doesn’t really matter to your organisation’s mission is a great way to get fired. Via Hacker News Tags: ai , ai-ethics , ai-misuse",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_d7eba2b4751ded98",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+    "title": "Claude Code uses Bun written in Rust now",
+    "publishedAt": "2026-07-19T03:54:09.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Claude Code uses Bun written in Rust now Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
+      "New Jira capabilities unlock full-context for AI-native software development.",
+      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
+      "Learn more 19th July 2026 In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun."
+    ],
+    "claims": [
+      {
+        "text": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: strings ~/.local/bin/claude | grep -m1 'Bun v1' For me this outputs Bun v1.4.0 (macOS arm64) . The most recent release of Bun on GitHub is currently v1.3.14 from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview of a not-yet-released Bun version. ( Update : The Rust version has been released as Bun canary - running bun upgrade --canary will install this release .) strings ~/.local/bin/claude | grep -Eo 'src/[[:alnum:]_./-]+\\.rs' This outputs a list of 563 filenames , starting with these: src/runtime/bake/dev_server/mod.rs src/runtime/bake/production.rs src/bundler/bundle_v2.rs It looks like Bun in Rust is indeed being run in production across millions of different devices. Like Jarred said, \"Boring is good\". Tags: bun , rust , anthropic , claude-code , jarred-sumner",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_b44f9a39b43a0983",
@@ -966,72 +915,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_1354e04fca1338a9",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
-    "title": "Quoting Kimi K3",
-    "publishedAt": "2026-07-17T13:43:53.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Kimi K3 Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 17th July 2026 Is there something I can actually help you with today?"
-    ],
-    "claims": [
-      {
-        "text": "Is there something I can actually help you with today? &mdash; Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_cc820edac19dd05c",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
-    "title": "LLM cliché highlighter",
-    "publishedAt": "2026-07-17T12:11:11.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Tool: LLM cliché highlighter Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 17th July 2026 Tool LLM cliché highlighter &mdash; Detect and highlight common clichéd phrases in text that frequently appear in language model outputs."
-    ],
-    "claims": [
-      {
-        "text": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing. Tags: tools , ai , generative-ai , llms",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-18T23:51:00.434Z",
+    "publishedAt": "2026-07-19T11:46:29.016Z",
     "categoryHints": [
       "ai-agentic"
     ],
