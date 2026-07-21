@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-20T12:58:36.577Z",
+    "publishedAt": "2026-07-21T12:16:42.821Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Partner Proving the ROI of agentic AI in financial services Karan Singh David Tepper July 17, 2026 14 min No items found.",
+      "Observability & Evals IssueBench - How We Evaluate Engine Nick Bray Arjun Nargolwala July 20, 2026 6 min No items found.",
       "LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint The LangChain Team July 8, 2026 7 min LangChain LangSmith Observability & Evals Your coding agent bill doubled."
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-20T12:58:41.762Z",
+    "publishedAt": "2026-07-21T12:16:47.809Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-20_fallback",
+    "sourceId": "src_openai-blog_2026-07-21_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-20T12:58:36.001Z",
+    "publishedAt": "2026-07-21T12:16:41.868Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-20_fallback",
+    "sourceId": "src_mcp-blog_2026-07-21_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-20T12:58:36.436Z",
+    "publishedAt": "2026-07-21T12:16:42.817Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -141,12 +141,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_1d3f2373aa3dfb03",
+    "sourceId": "src_reddit-aiagents_02c7eec5525fd20b",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1uvfona/weekly_hiring_thread/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v1pm5a/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
-    "publishedAt": "2026-07-13T16:01:04.000Z",
+    "publishedAt": "2026-07-20T16:00:58.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -157,7 +157,7 @@
       {
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1uvfona/weekly_hiring_thread/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v1pm5a/weekly_hiring_thread/"
       }
     ],
     "usableFor": [
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5380369921b227f0",
+    "sourceId": "src_reddit-aiagents_3adc0f4793b12fc2",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v1c7k2/how_are_you_making_money_with_ai/",
-    "title": "how are you making money with AI?",
-    "publishedAt": "2026-07-20T05:14:40.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v2f9fr/what_is_the_moat_what_do_we_do/",
+    "title": "What is the moat? What do we do?!",
+    "publishedAt": "2026-07-21T11:06:14.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Right now, I'm putting in minimal effort by generating blog posts, and the income is almost enough to cover my monthly AI subscription.",
-      "I'm also working on a few small AI tools that I hope will provide more value and become another source of income.",
-      "What are you building, and what's your plan going forward?",
-      "It would be great if everyone could share their experience."
+      "Recently, I was in a discussion with someone tellhing him how we can do this, do that, automate this workflow, automate that workflow, etc.",
+      "He asked me a simple question: how are you better than claude code or hermes?",
+      "I mumbled something: we are more secure, have more intutitive user interface, yada yada, but inside I knew it was just a hollow reply.",
+      "My question is to this community: if this is for AI what the late 1990s were for computing industry, and say you want to start an AI-Automation service business, how do you define your competitive advantange, let alone your moat if the agentic claws of foundational models are enchroaching up on the proverbial land, bit by bit?"
     ],
     "claims": [
       {
-        "text": "Right now, I'm putting in minimal effort by generating blog posts, and the income is almost enough to cover my monthly AI subscription. I'm also working on a few small AI tools that I hope will provide more value and become another source of income. How are you making money with AI? What are you building, and what's your plan going forward? It would be great if everyone could share their experience. It might help others find new ideas too. submitted by /u/Rare_Iron9142 [link] [comments]",
+        "text": "Recently, I was in a discussion with someone tellhing him how we can do this, do that, automate this workflow, automate that workflow, etc. He asked me a simple question: how are you better than claude code or hermes? I mumbled something: we are more secure, have more intutitive user interface, yada yada, but inside I knew it was just a hollow reply. My question is to this community: if this is for AI what the late 1990s were for computing industry, and say you want to start an AI-Automation service business, how do you define your competitive advantange, let alone your moat if the agentic claws of foundational models are enchroaching up on the proverbial land, bit by bit? submitted by /u/Suspicious-Yam3072 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v1c7k2/how_are_you_making_money_with_ai/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v2f9fr/what_is_the_moat_what_do_we_do/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_cb1741c51499c49c",
+    "sourceId": "src_reddit-aiagents_c8c34f8f1939d8ec",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v1cyof/slash_your_ai_agents_context_by_66_and_save/",
-    "title": "Slash your AI agent's context by 66% and save $4,000+/year",
-    "publishedAt": "2026-07-20T05:57:06.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v2edid/need_general_productivity_ai_agent_ideas_and_also/",
+    "title": "Need general productivity AI agent ideas and also how do you do it",
+    "publishedAt": "2026-07-21T10:20:14.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Slash your AI agent's context by 66% and save $4,000+/year on LLM costs — YAML formatting trick If your AI agent loads config files, personality prompts, or tool descriptions into every single LLM call, you're burning thousands of dollars a year on verbose formatting.",
-      "I compressed 6 workspace files from markdown → YAML.",
-      "The trick Before — typical markdown config (verbose, human-oriented): ## Backup Rules You should always create a backup before making any changes to the system.",
-      "Use the cp command with a date suffix to ensure you can track versions."
+      "I was thinking how to temp my productivity up like mails , I have so many pending mails to be read .",
+      "I have a work laptop where I have to use copilot .",
+      "On my personal laptop and personal emails , I can use anything like Claude or gpt or Gemini I asked gpt for a few ideas 1.",
+      "Financial planner and stock analysis This can help me with News Agent Valuation Agent Ratio Agent Macro Agent Reddit Sentiment Agent │ Investment Memo Writer Networking, LinkedIn agents LinkedIn Agent Recruiter Agent Resume Agent Networking Agent Interview Agent Learning Agent Content idea for social media : like watching what ppl are writing what their views are ."
     ],
     "claims": [
       {
-        "text": "Slash your AI agent's context by 66% and save $4,000+/year on LLM costs — YAML formatting trick If your AI agent loads config files, personality prompts, or tool descriptions into every single LLM call, you're burning thousands of dollars a year on verbose formatting. I compressed 6 workspace files from markdown → YAML. Same info. 2/3 less tokens. No code change. No tool rewrites. Just reformatting. The trick Before — typical markdown config (verbose, human-oriented): ## Backup Rules You should always create a backup before making any changes to the system. Use the cp command with a date suffix to ensure you can track versions. If you are modifying directories, use tar with compression to save space. ## Response Rules If the user's message does not contain a question, do not reply at all. If it is a rhetorical question that implies an action, execute silently without responding. After — same info in YAML (machine-dense): backup: rule: always cmd: \"cp f f.bak-$(date +%Y%m%d)\" dir: \"tar -czf backup.tar.gz\" response: no_question: no_reply rhetorical_with_action: execute_silent Before: 420 chars → ~105 tokens After: 140 chars → ~35 tokens Savings: 66% — same logic, zero information loss. Real-world numbers Before (markdown) After (YAML) Savings 6 config files total 34,000 chars 11,400 chars −22,600 chars Tokens per context load ~8,500 tok ~2,850 tok −5,650 tok Reduction — — 66.5% 💰 What that means in real money LLM Tier Model example $/M tok input Saved per turn Saved per 1K turns Saved per 10K turns Low Claude Haiku 4.5 $3 $0.017 $17 $170 Mid Claude Sonnet 4.6 $10 $0.057 $57 $565 High Claude Opus 4.8 $20 $0.113 $113 $1,130 🚀 Annual projection For a heavy agent user (100 turns/day, ~36K turns/year): Scenario Cost at 8,500 tok/turn Cost at 2,850 tok/turn You save Claude Opus 4.8 $6,120 $2,052 $4,068 Claude Sonnet 4.6 $3,060 $1,026 $2,034 Claude Haiku 4.5 $918 $308 $610 Even a casual user (10 turns/day) saves $407/year on Opus. Why this works LLMs don't care about formatting elegance. They tokenize raw text. YAML strips out: Filler words (\"always remember to...\", \"please ensure that...\") Redundant headers (\"## Section: Backup Rules\") Sentence wrappers (\"The following rule applies...\") Extra whitespace and bullet punctuation You go from 8 tokens (\"Always create a backup\") to 3 tokens ( backup: true ). Works with any agent system OpenClaw (confirmed) Custom Python scripts LangChain profile loaders Any setup that injects .md or .txt files as context You don't need a YAML parser. The LLM reads the raw text regardless. YAML just happens to be the densest format that's still human-editable. Caveats Only worth it if your context files are reloaded on every turn (agent setups) You lose visual polish for human readers Requires 15 minutes of reformatting once Not all agent frameworks load files as raw text — check first Before anyone asks: yes, the irony of typing a long Reddit post about saving tokens is not lost on me. But this is a one-time post, unlike your agent's 36K annual turns. 😄 submitted by /u/No_Substance6819 [link] [comments]",
+        "text": "I just started working as a FTE . I was thinking how to temp my productivity up like mails , I have so many pending mails to be read . I have a work laptop where I have to use copilot . On my personal laptop and personal emails , I can use anything like Claude or gpt or Gemini I asked gpt for a few ideas 1. Financial planner and stock analysis This can help me with News Agent Valuation Agent Ratio Agent Macro Agent Reddit Sentiment Agent │ Investment Memo Writer Networking, LinkedIn agents LinkedIn Agent Recruiter Agent Resume Agent Networking Agent Interview Agent Learning Agent Content idea for social media : like watching what ppl are writing what their views are . How my things are performing What can I do more help me submitted by /u/Able_Cantaloupe_6555 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v1cyof/slash_your_ai_agents_context_by_66_and_save/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v2edid/need_general_productivity_ai_agent_ideas_and_also/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_a08a818b3eaa1ebf",
+    "sourceId": "src_reddit-aiagents_190d65b615eb8358",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v1jf91/in_search_of_actually_production_stories_related/",
-    "title": "In search of actually production stories related to AI !! Would be kind enough to share yours",
-    "publishedAt": "2026-07-20T11:57:52.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v2c97j/your_agents_memory_remembers_everything_except/",
+    "title": "Your agent's memory remembers everything except how to do its job",
+    "publishedAt": "2026-07-21T08:19:18.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I've been working as an AI consultant for my company, and built projects end to end ...",
-      "Handled clients along with maintaining the resources overtime.",
-      "Over a discussion with my friend I came to realize 2 engineers could be building the same project but could really encounter completely different problems....",
-      "So I want to know if you'd be kind enough to share your production stories ..."
+      "Most \"agent memory\" today stores facts and events: what the user said, what the project is, what happened last session.",
+      "Useful — but watch where an agent actually burns tokens and retries: it re-derives the process every single run.",
+      "Wrong step order, forgets the migration, retries the exact thing that failed on Tuesday.",
+      "Psychology has a name for this split: episodic memory (\"I remember going to the dentist\") vs procedural memory (\"I remember how to ride a bike\")."
     ],
     "claims": [
       {
-        "text": "I've been working as an AI consultant for my company, and built projects end to end ... Handled clients along with maintaining the resources overtime. Over a discussion with my friend I came to realize 2 engineers could be building the same project but could really encounter completely different problems.... So I want to know if you'd be kind enough to share your production stories ... What broke what was your quick fix.... submitted by /u/thecurryguy24 [link] [comments]",
+        "text": "Most \"agent memory\" today stores facts and events: what the user said, what the project is, what happened last session. Useful — but watch where an agent actually burns tokens and retries: it re-derives the process every single run. Wrong step order, forgets the migration, retries the exact thing that failed on Tuesday. The context was in memory. The know-how wasn't. Psychology has a name for this split: episodic memory (\"I remember going to the dentist\") vs procedural memory (\"I remember how to ride a bike\"). Nearly every memory framework ships the first kind and skips the second — because the second is structurally harder. A workflow isn't a fact you extract once. It's a procedure that must CHANGE when it fails. There's fresh academic backing. A recent paper from Zhejiang University + Alibaba (Memp — arXiv 2508.06433) built procedural memory from agents' own past trajectories, tested on GPT-4o, Claude Sonnet and Qwen. Their strongest mechanism wasn't storing successes — it was reflecting on failures to revise the stored procedure. The failure is the signal. From running this in production, three arguments: Session recall and workflow learning are different problems. Perfect episodic memory still pays the full process tax every run. Procedures need version history, not overwrites. v1 from a session → v2 adds the missing migration step after a failed run → v3 reorders after an env-var race, 11 successes since. An agent loading v3 doesn't repeat the two mistakes that produced it. A procedure that never failed is a procedure you can't trust yet. Success count alone is survivorship bias — you want fail_count, what changed after each failure, recency. That's also your pruning signal. The uncomfortable implication: hand-maintained instruction files (CLAUDE.md, AGENTS.md, rules) are static snapshots of procedural knowledge — they rot because updating them requires a human to notice the failure, remember to edit, and phrase it as an instruction. Nobody does that reliably. Curious what others do for workflow-level memory: hand-rolled? Fine-tuning? Just eating the re-derivation cost every run? submitted by /u/No_Advertising2536 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v1jf91/in_search_of_actually_production_stories_related/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v2c97j/your_agents_memory_remembers_everything_except/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-20_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-21_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-20T12:58:36.025Z",
+    "publishedAt": "2026-07-21T12:16:42.143Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-20T12:58:36.634Z",
+    "publishedAt": "2026-07-21T12:16:42.947Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-20T12:58:36.094Z",
+    "publishedAt": "2026-07-21T12:16:42.261Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-20_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-20T12:58:36.090Z",
+    "publishedAt": "2026-07-21T12:16:42.100Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-20_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-20T12:58:36.095Z",
+    "publishedAt": "2026-07-21T12:16:42.100Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-20T12:58:36.178Z",
+    "publishedAt": "2026-07-21T12:16:42.219Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-20T12:58:36.272Z",
+    "publishedAt": "2026-07-21T12:16:42.308Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,14 +456,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-20T12:58:36.835Z",
+    "publishedAt": "2026-07-21T12:16:43.479Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2025 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2025 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
+      "Subscribe to Press Updates All Company Product Engineering Blog Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
       "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
     ],
     "claims": [
@@ -480,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-20_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-20T12:58:36.175Z",
+    "publishedAt": "2026-07-21T12:16:42.212Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,12 +512,12 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-20T12:58:36.615Z",
+    "publishedAt": "2026-07-21T12:16:42.853Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud Composer Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Jul 17, 2026 · Changelog Improvements to Cursor in Slack Cursor in Slack now shares a plan before it starts, runs in multi-repo environments, and can work across channels and threads.",
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Jul 17, 2026 · Changelog Improvements to Cursor in Slack Cursor in Slack now shares a plan before it starts, runs in multi-repo environments, and can work across channels and threads.",
       "# Interaction improvements Cursor now responds with a plan before it begins, so you can jump in and redirect early.",
       "As it works, it updates its status so you can follow each step.",
       "We also refined how Cursor's responses look in Slack."
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-20T12:58:36.188Z",
+    "publishedAt": "2026-07-21T12:16:42.247Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-20_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-21_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-20T12:58:36.293Z",
+    "publishedAt": "2026-07-21T12:16:42.482Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-20T12:58:36.617Z",
+    "publishedAt": "2026-07-21T12:16:42.961Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-20T12:58:36.257Z",
+    "publishedAt": "2026-07-21T12:16:42.371Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-20_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-20T12:58:36.248Z",
+    "publishedAt": "2026-07-21T12:16:42.313Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-20T12:58:38.484Z",
+    "publishedAt": "2026-07-21T12:16:44.508Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-20_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-20T12:58:36.257Z",
+    "publishedAt": "2026-07-21T12:16:42.361Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-20T12:58:36.368Z",
+    "publishedAt": "2026-07-21T12:16:42.461Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 4 days ago • 48 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 3 days ago • 36 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 7 days ago • 31 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • 1 day ago • 16 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 4 days ago • 13 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 373 Deploy GLM-5.2-FP8 as your open, frontier-level agent juanjucm • 7 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 876 Data for Agents nvidia • 12 days ago • 25 The state-of-the-art in open-source AI for Swiss legal tasks joelniklaus • 6 days ago • 5 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 10 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 7 days ago • 19 When will language models be good enough?",
-      "craffel • 4 days ago • 4 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 12 days ago • 17 VKUE: No GPU?",
-      "Runs Anyway — a 34.7B Reasoner on a Laptop and on Bare CPU FINAL-Bench • 8 days ago • 17 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch AviSoori1x • May 7, 2024 • 124 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 363 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 167 Arabic LLM Models silma-ai • Mar 4, 2025 • 49 How I Trained Action Chunking Transformer (ACT) on SO-101: My Journey, Gotchas, and Lessons sherryxychen • Sep 30, 2025 • 76 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers 73 July 17, 2026 Newer Models, Same Advantage 19 July 16, 2026 security Security incident disclosure — July 2026 186 July 16, 2026 What building Shippy taught us about building agents 11 July 15, 2026 Model Routing Is Simple."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 4 days ago • 77 NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 5 days ago • 51 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 4 days ago • 48 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • 2 days ago • 21 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 8 days ago • 31 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 5 days ago • 15 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 376 The state-of-the-art in open-source AI for Swiss legal tasks joelniklaus • 7 days ago • 5 When will language models be good enough?",
+      "craffel • 5 days ago • 5 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • about 17 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 876 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 10 Data for Agents nvidia • 13 days ago • 25 Distillation in 2026 (so far): which frontier models use it and how sergiopaniego • 13 days ago • 18 Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws three-ws • 8 days ago • 19 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 363 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 167 Arabic LLM Models silma-ai • Mar 4, 2025 • 49 How I Trained Action Chunking Transformer (ACT) on SO-101: My Journey, Gotchas, and Lessons sherryxychen • Sep 30, 2025 • 76 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 39 robotics ai community Grabette: an open system to record robot-manipulation data +2 9 July 21, 2026 Introducing Cosmos 3 Edge 18 July 20, 2026 Newer Models, Same Advantage 31 July 16, 2026 security Hot Security incident disclosure — July 2026 270 July 16, 2026 What building Shippy taught us about building agents 13 July 15, 2026 Model Routing Is Simple.",
+      "44 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines 108 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 15 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 36 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 56 July 8, 2026 From Hugging Face to Amazon SageMaker Studio in one click 13 July 7, 2026 Hugging Face Models on Foundry Managed Compute 12 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 24 July 7, 2026 lerobot robotics LeRobot v0.6.0: Imagine, Evaluate, Improve +5 72 July 7, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -763,6 +763,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_144cf79920f62aed",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+    "title": "Reverse-engineering is cheap now",
+    "publishedAt": "2026-07-20T19:24:05.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Reverse-engineering is cheap now Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
+      "New Jira capabilities unlock full-context for AI-native software development.",
+      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
+      "Learn more 20th July 2026 I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes."
+    ],
+    "claims": [
+      {
+        "text": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was entirely possible to reverse-engineer home devices. The problem was the ROI - was it really worth all of that effort? More importantly, any experienced programmer knows that undocumented, unstable APIs like that may well change or break in the future. Is that initial work worth the effort if you're committing yourself to a frustrating cycle of maintenance in the future? Coding agents change that equation entirely. The effort to get a simple automation working has dropped, as has the cost of trying and failing to get it to work. Since the code is so cheap, the idea of having to maintain it in the future - or throw it away and start again - carries way less psychological baggage. Tags: reverse-engineering , coding-agents , ai-assisted-programming , generative-ai , ai , llms",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_8a749ef40bb106ac",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+    "title": "Who’s Afraid of Chinese Models?",
+    "publishedAt": "2026-07-20T17:09:19.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
+      "New Jira capabilities unlock full-context for AI-native software development.",
+      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
+      "Learn more 20th July 2026 - Link Blog Who’s Afraid of Chinese Models?"
+    ],
+    "claims": [
+      {
+        "text": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts: The U.S. should pass a law that (1) makes explicit that collecting data for training models is fair use, and (2) bars terms of service that forbid distillation, for U.S. companies at a minimum. Stopping distillation — which is literally just querying the API — is nearly impossible; the U.S. should go the other way and lean into a new copyright policy that both indemnifies the labs and also guarantees that what they learned fuels further innovation for everyone else. Ben also theorizes that Alibaba's decision to release Qwen 3.8 Max as open weights - a reversal from their decision not to release Qwen 3.7 Max in May - may have been influenced by a recent speech by Xi Jinping, who said: We should seize this rare, historic opportunity to encourage open source, openness, collaboration and sharing. And on the subject of Qwen 3.8 Max - a new 2.4T parameter model (nearly as large as the 2.8T Kimi K3) - here's a pelican it drew : I particularly enjoyed seeing these notes in the (extensive) reasoning trace: \"Could add helmet? No.\" and \"Maybe add small bell? no.\" and \"Need maybe add small fish in basket? Not necessary.\" Via John Gruber Tags: ai , generative-ai , llms , training-data , qwen , pelican-riding-a-bicycle , ai-ethics , llm-release , ai-in-china",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_0983967d4b1a1363",
@@ -855,72 +915,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_b44f9a39b43a0983",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-    "title": "SQLite Query Explainer",
-    "publishedAt": "2026-07-18T17:19:10.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Tool: SQLite Query Explainer Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 18th July 2026 Tool SQLite Query Explainer &mdash; Run SQL queries against a SQLite database in your browser and see exactly how SQLite executes them: the tool runs your query, then annotates every line of both `EXPLAIN QUERY PLAN` and the low-level `EXPLAIN` bytecode output with plain-English descriptions of what the query planner and virtual machine are doing."
-    ],
-    "claims": [
-      {
-        "text": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, since I don't know enough about SQLite query plans to verify the results myself, but it seems cromulent enough to me. Tags: sql , sqlite , tools , julia-evans , pyodide , claude-mythos-fable",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_63861ac8bf1136c9",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
-    "title": "Claude make Fable 5 permanent",
-    "publishedAt": "2026-07-18T06:00:13.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Claude make Fable 5 permanent Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 18th July 2026 - Link Blog Claude make Fable 5 permanent ."
-    ],
-    "claims": [
-      {
-        "text": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3 ) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make it available exclusively through API pricing. Why pay $100 or $200/month for a subscription plan that doesn't include Anthropic's best model? Their original plan was driven by concerns over compute capacity. I wonder if they'll have to dial back their training efforts in order to make more GPUs available to help serve the model. A lot of people were losing sleep over trying to make the most of Fable 5 before subscriber access was withdrawn. It's nice not to have to worry about the Fablepocalypse any more. Update : Important to note that users on the $20/month plan will still not have access to Fable 5 on that subscription. The Max plans are $100 and $200/month. Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , claude-mythos-fable",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-20T12:58:36.375Z",
+    "publishedAt": "2026-07-21T12:16:42.563Z",
     "categoryHints": [
       "ai-agentic"
     ],
