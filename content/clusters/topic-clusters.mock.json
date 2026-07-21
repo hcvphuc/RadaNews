@@ -5,16 +5,14 @@
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
-      "src_simonwillison-blog_8a749ef40bb106ac",
+      "src_simonwillison-blog_7e1ff8453b8e1ef4",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_144cf79920f62aed",
-      "src_simonwillison-blog_dc8fc63acfa2f255",
-      "src_simonwillison-blog_0983967d4b1a1363",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_9693666f7cbf117d"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -24,11 +22,13 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
+      "src_simonwillison-blog_8a749ef40bb106ac",
+      "src_simonwillison-blog_144cf79920f62aed",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_d7eba2b4751ded98"
+      "src_simonwillison-blog_1f67e18f3dd23b34"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -48,6 +48,21 @@
     "selectedForGeneration": true
   },
   {
+    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-21",
+    "category": "ai-vibe-coding",
+    "topic": "Replit — Replit Blog – Product updates from the team",
+    "sourceIds": [
+      "src_replit-blog_49899058ba32f8e5",
+      "src_simonwillison-blog_0983967d4b1a1363",
+      "src_reddit-aiagents_bd787e5aa7fcd63d",
+      "src_vercel-ai-blog_2026-07-21_fallback"
+    ],
+    "articleWorthinessScore": 0.95,
+    "reasonSelected": "Score 0.95 from 4 source item(s), 3 live crawl(s), strongest sources: Replit Blog, Simon Willison's Weblog, r/AI_Agents.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
     "clusterId": "cluster_ai-video_1_news-luma_2026-07-21",
     "category": "ai-video",
     "topic": "News | Luma",
@@ -62,33 +77,18 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_your-agent-s-memory-remembers-everything-except-how-to-do-its-jo_2026-07-21",
+    "clusterId": "cluster_ai-agentic_2_most-ai-agent-demos-are-just-bad-security-with-a-cool-ui_2026-07-21",
     "category": "ai-agentic",
-    "topic": "Your agent's memory remembers everything except how to do its job",
+    "topic": "Most AI agent demos are just bad security with a cool UI",
     "sourceIds": [
-      "src_reddit-aiagents_190d65b615eb8358",
-      "src_reddit-aiagents_c8c34f8f1939d8ec",
-      "src_reddit-aiagents_3adc0f4793b12fc2",
+      "src_reddit-aiagents_f5be39b7baaae94f",
       "src_reddit-aiagents_02c7eec5525fd20b",
       "src_reddit-aiagents_b00dfc3d7aa247a1",
       "src_openai-blog_2026-07-21_fallback",
       "src_mcp-blog_2026-07-21_fallback"
     ],
-    "articleWorthinessScore": 0.82,
-    "reasonSelected": "Score 0.82 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-21",
-    "category": "ai-vibe-coding",
-    "topic": "Replit — Replit Blog – Product updates from the team",
-    "sourceIds": [
-      "src_replit-blog_49899058ba32f8e5",
-      "src_vercel-ai-blog_2026-07-21_fallback"
-    ],
-    "articleWorthinessScore": 0.72,
-    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
+    "articleWorthinessScore": 0.76,
+    "reasonSelected": "Score 0.76 from 5 source item(s), 3 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
