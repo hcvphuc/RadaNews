@@ -320,7 +320,7 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-21_vi",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-22_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
@@ -328,17 +328,17 @@
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "ai-agentic",
+      "ai-video",
+      "vibe-coding",
       "prompt-engineering",
-      "runway-ai",
-      "claude-code",
-      "software-engineering"
+      "anthropic"
     ],
-    "publishedAt": "2026-07-21T23:54:12.597Z",
+    "publishedAt": "2026-07-22T12:20:35.534Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-07-21"
+    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-07-22"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-21_en",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-22_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
@@ -346,18 +346,18 @@
     "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-agents",
+      "generative-video",
       "prompt-engineering",
-      "runway-ai",
-      "anthropic",
       "vibe-coding",
-      "world-models"
+      "anthropic",
+      "runway-ai"
     ],
-    "publishedAt": "2026-07-21T23:56:33.535Z",
+    "publishedAt": "2026-07-22T12:22:27.460Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-07-21"
+    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-07-22"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-21_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-22_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
@@ -365,17 +365,17 @@
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
+      "local-llm",
       "ai-agents",
-      "local-llms",
-      "reverse-engineering",
-      "anthropic"
+      "anthropic",
+      "software-development"
     ],
-    "publishedAt": "2026-07-21T23:54:10.715Z",
+    "publishedAt": "2026-07-22T12:19:29.308Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-07-21"
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-07-22"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-21_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-22_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
@@ -383,17 +383,17 @@
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
-      "ai-agents",
       "local-llms",
-      "software-engineering",
-      "open-weights"
+      "ai-agents",
+      "open-weights",
+      "mlx"
     ],
-    "publishedAt": "2026-07-21T23:55:49.236Z",
+    "publishedAt": "2026-07-22T12:21:57.943Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-07-21"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-07-22"
   },
   {
-    "id": "cluster_ai-image_1_blog-black-forest-labs_2026-07-21_vi",
+    "id": "cluster_ai-image_1_blog-black-forest-labs_2026-07-22_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
@@ -403,138 +403,137 @@
       "Black Forest Labs",
       "FLUX.2",
       "Open Weights",
-      "AI Image Generation",
+      "AI-Image",
       "Open Innovation"
     ],
-    "publishedAt": "2026-07-21T23:55:58.701Z",
+    "publishedAt": "2026-07-22T12:19:49.485Z",
     "readingTime": 4,
-    "url": "/vi/ai-image/blog-black-forest-labs-goc-nhin-cho-creator-va-builder-2026-07-21"
+    "url": "/vi/ai-image/blog-black-forest-labs-goc-nhin-cho-creator-va-builder-2026-07-22"
   },
   {
-    "id": "cluster_ai-image_1_blog-black-forest-labs_2026-07-21_en",
+    "id": "cluster_ai-image_1_blog-black-forest-labs_2026-07-22_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "Blog | Black Forest Labs: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "FLUX",
-      "OpenWeights",
-      "VisualIntelligence",
-      "GenerativeAI",
-      "ComfyUI"
+      "FLUX.2",
+      "Open-Weights",
+      "Visual Intelligence",
+      "ComfyUI",
+      "AI-Enterprise"
     ],
-    "publishedAt": "2026-07-21T23:57:56.424Z",
-    "readingTime": 4,
-    "url": "/en/ai-image/blog-black-forest-labs-creator-and-builder-analysis-2026-07-21"
+    "publishedAt": "2026-07-22T12:22:04.328Z",
+    "readingTime": 3,
+    "url": "/en/ai-image/blog-black-forest-labs-creator-and-builder-analysis-2026-07-22"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-21_vi",
+    "id": "cluster_ai-vibe-coding_2_reverse-engineering-is-cheap-now_2026-07-22_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Replit — Replit Blog – Product updates from the team: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Reverse-engineering is cheap now: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
-      "replit-agent",
-      "ai-software-development",
-      "product-strategy",
-      "ai-agents"
+      "ai-vibe-coding",
+      "reverse-engineering",
+      "ai-agents",
+      "software-development",
+      "automation"
     ],
-    "publishedAt": "2026-07-21T23:54:50.438Z",
+    "publishedAt": "2026-07-22T12:21:08.992Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/replit-replit-blog-product-updates-from-the-team-goc-nh-2026-07-21"
+    "url": "/vi/ai-vibe-coding/reverse-engineering-is-cheap-now-goc-nhin-cho-creator-va-bu-2026-07-22"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_replit-replit-blog-product-updates-from-the-team_2026-07-21_en",
+    "id": "cluster_ai-vibe-coding_2_reverse-engineering-is-cheap-now_2026-07-22_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Replit — Replit Blog – Product updates from the team: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "title": "Reverse-engineering is cheap now: creator and builder analysis",
+    "subtitle": "Signal synthesized from Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "vibe-coding",
-      "replit-agent",
-      "ai-agents",
-      "software-development",
-      "product-validation"
+      "ai-vibe-coding",
+      "reverse-engineering",
+      "coding-agents",
+      "software-economics"
     ],
-    "publishedAt": "2026-07-21T23:56:50.382Z",
+    "publishedAt": "2026-07-22T12:22:22.299Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/replit-replit-blog-product-updates-from-the-team-creato-2026-07-21"
+    "url": "/en/ai-vibe-coding/reverse-engineering-is-cheap-now-creator-and-builder-analys-2026-07-22"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-07-21_vi",
+    "id": "cluster_ai-video_1_news-luma_2026-07-22_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "News | Luma: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, Luma Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Video",
-      "LumaAI",
-      "KlingAI",
-      "PikaLabs",
-      "CreativeWorkflow",
-      "GenerativeAI"
+      "ai-video",
+      "luma-ai",
+      "kling-ai",
+      "pika-labs",
+      "creative-workflow",
+      "generative-ai"
     ],
-    "publishedAt": "2026-07-21T23:54:45.855Z",
-    "readingTime": 4,
-    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-07-21"
+    "publishedAt": "2026-07-22T12:21:47.309Z",
+    "readingTime": 5,
+    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-07-22"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-07-21_en",
+    "id": "cluster_ai-video_1_news-luma_2026-07-22_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "News | Luma: creator and builder analysis",
     "subtitle": "Signal synthesized from Pika Labs Blog, Luma Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "LumaAI",
-      "KlingAI",
-      "CreativeWorkflows",
-      "GenerativeAI"
+      "ai-video",
+      "luma-ai",
+      "kling-ai",
+      "generative-video",
+      "creative-workflows"
     ],
-    "publishedAt": "2026-07-21T23:56:21.743Z",
-    "readingTime": 3,
-    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-07-21"
+    "publishedAt": "2026-07-22T12:23:03.395Z",
+    "readingTime": 4,
+    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-07-22"
   },
   {
-    "id": "cluster_ai-agentic_2_most-ai-agent-demos-are-just-bad-security-with-a-cool-ui_2026-07-21_vi",
+    "id": "cluster_ai-agentic_2_next-gen-gpt-5-6-allegedly-escaped-its-sandbox-exploited-a-zero-_2026-07-22_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Most AI agent demos are just bad security with a cool UI: góc nhìn cho creator và builder",
+    "title": "Next-gen GPT-5.6 allegedly escaped its sandbox, exploited a zero-day, and hac...: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agents",
-      "cybersecurity",
-      "mcp",
-      "agentic-workflow",
-      "enterprise-ai"
+      "AI-Agentic",
+      "AI-Safety",
+      "Zero-Day",
+      "GPT-5.6",
+      "CyberSecurity"
     ],
-    "publishedAt": "2026-07-21T23:55:26.692Z",
+    "publishedAt": "2026-07-22T12:21:27.887Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/most-ai-agent-demos-are-just-bad-security-with-a-cool-ui-go-2026-07-21"
+    "url": "/vi/ai-agentic/next-gen-gpt-5-6-allegedly-escaped-its-sandbox-exploited-a-2026-07-22"
   },
   {
-    "id": "cluster_ai-agentic_2_most-ai-agent-demos-are-just-bad-security-with-a-cool-ui_2026-07-21_en",
+    "id": "cluster_ai-agentic_2_next-gen-gpt-5-6-allegedly-escaped-its-sandbox-exploited-a-zero-_2026-07-22_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Most AI agent demos are just bad security with a cool UI: creator and builder analysis",
+    "title": "Next-gen GPT-5.6 allegedly escaped its sandbox, exploited a zero-day, and hac...: creator and builder analysis",
     "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
-      "cybersecurity",
-      "MCP",
-      "enterprise-ai",
-      "governance"
+      "AI Safety",
+      "Agentic AI",
+      "Cybersecurity",
+      "GPT-5.6",
+      "Sandbox Escape"
     ],
-    "publishedAt": "2026-07-21T23:56:55.973Z",
+    "publishedAt": "2026-07-22T12:22:46.057Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/most-ai-agent-demos-are-just-bad-security-with-a-cool-ui-cr-2026-07-21"
+    "url": "/en/ai-agentic/next-gen-gpt-5-6-allegedly-escaped-its-sandbox-exploited-a-2026-07-22"
   }
 ]
