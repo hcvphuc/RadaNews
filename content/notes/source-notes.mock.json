@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-23T23:57:00.856Z",
+    "publishedAt": "2026-07-24T12:09:50.349Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-23T23:57:08.173Z",
+    "publishedAt": "2026-07-24T12:09:56.586Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-23_fallback",
+    "sourceId": "src_openai-blog_2026-07-24_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-23T23:56:59.960Z",
+    "publishedAt": "2026-07-24T12:09:49.577Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-23_fallback",
+    "sourceId": "src_mcp-blog_2026-07-24_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-23T23:57:02.309Z",
+    "publishedAt": "2026-07-24T12:09:51.684Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6026eb4747f34be8",
+    "sourceId": "src_reddit-aiagents_41499675299b8351",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v494iu/gartner_thinks_40_of_agentic_ai_projects_get/",
-    "title": "Gartner thinks 40% of agentic AI projects get canceled by 2027. Building one right now, I believe it.",
-    "publishedAt": "2026-07-23T09:42:52.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v51ef7/anyone_here_wantshas_extra_openaiclaude_credits/",
+    "title": "Anyone here wants/has extra OpenAI/Claude credits?",
+    "publishedAt": "2026-07-24T04:52:12.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I saw that stat again this week and it landed differently than it would have a year ago.",
-      "Not because the models got worse, they clearly didn't, but because the actual failure mode nobody warns you about is the demo working great and then the illusion cracking quietly in production.",
-      "Not a crash, not an error, just the agent confidently continuing on bad data and nobody noticing until three days later when the numbers look wrong.",
-      "It feels like most teams are still measuring the wrong thing, can it complete the task once, instead of what happens the hundredth time when a tool response is malformed or a downstream API times out."
+      "Our startup recently committed to a lot of OpenAI and Anthropic usage to get better pricing.",
+      "We are now realizing that we committed to way more than we will actually use lol.",
+      "We are thinking about setting up a simple API proxy so other developers can use the extra capacity at lower pricing.",
+      "Based on the pricing we got, it could probably be around 10 to 15 percent less than going direct."
     ],
     "claims": [
       {
-        "text": "I saw that stat again this week and it landed differently than it would have a year ago. Not because the models got worse, they clearly didn't, but because the actual failure mode nobody warns you about is the demo working great and then the illusion cracking quietly in production. Not a crash, not an error, just the agent confidently continuing on bad data and nobody noticing until three days later when the numbers look wrong. It feels like most teams are still measuring the wrong thing, can it complete the task once, instead of what happens the hundredth time when a tool response is malformed or a downstream API times out. That gap is where I'd bet most of that 40% cancellation number comes from, not the model being incapable, just nobody building for the version of the system that fails quietly. Curious if others building in production are seeing the same thing, or if this stat feels overblown from where you're sitting. submitted by /u/EditorFar2101 [link] [comments]",
+        "text": "Our startup recently committed to a lot of OpenAI and Anthropic usage to get better pricing. We are now realizing that we committed to way more than we will actually use lol. We are thinking about setting up a simple API proxy so other developers can use the extra capacity at lower pricing. Based on the pricing we got, it could probably be around 10 to 15 percent less than going direct. Would anyone here actually be interested in something like this? If so, which models are you using and roughly how much do you spend each month? Also if you have dealt with a situation like this before can you lmk ur experience? Just trying to see if this makes sense before we build anything. submitted by /u/Diligent_Bridge_1674 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v494iu/gartner_thinks_40_of_agentic_ai_projects_get/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v51ef7/anyone_here_wantshas_extra_openaiclaude_credits/"
       }
     ],
     "usableFor": [
@@ -196,24 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_8533071b993915e9",
+    "sourceId": "src_reddit-aiagents_5ee24d4f37fec7ad",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v4l0rv/removed_by_reddit/",
-    "title": "[ Removed by Reddit ]",
-    "publishedAt": "2026-07-23T17:43:38.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v582si/whats_more_important_for_an_ai_product_today/",
+    "title": "What's more important for an AI Product today? Great Technology or great Distribution",
+    "publishedAt": "2026-07-24T10:58:00.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "[ Removed by Reddit on account of violating the content policy .",
-      "] submitted by /u/pepper_n_spice [link] [comments]"
+      "Every day, new AI Products are launching, I have noticed some products with great technology still go unnoticed, while other with similar or fewer features gain users because of better distribution.",
+      "In today's AI market, what's more important a great product or great distribution?",
+      "I'd love to hear what you've experienced.",
+      "submitted by /u/ProposalIntrepid8476 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/pepper_n_spice [link] [comments]",
+        "text": "Every day, new AI Products are launching, I have noticed some products with great technology still go unnoticed, while other with similar or fewer features gain users because of better distribution. In today's AI market, what's more important a great product or great distribution? I'd love to hear what you've experienced. submitted by /u/ProposalIntrepid8476 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v4l0rv/removed_by_reddit/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v582si/whats_more_important_for_an_ai_product_today/"
       }
     ],
     "usableFor": [
@@ -223,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_36dde10069c9570e",
+    "sourceId": "src_reddit-aiagents_05304596c839c96d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v4roy7/manufacturing_a_gold_standard_eval_dataset_before/",
-    "title": "Manufacturing a gold standard eval dataset before launch",
-    "publishedAt": "2026-07-23T21:41:37.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v56712/is_anyone_running_a_real_ai_control_plane_across/",
+    "title": "is anyone running a real ai control plane across multiple agents, or is it all point solutions",
+    "publishedAt": "2026-07-24T09:14:04.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I'm honestly spinning my wheels on a pre-launch project and hitting a wall with the evaluation strategy.",
-      "The standard advice is to build your dataset from production logs but since we have zero users that is a complete non-starter.",
-      "I need a baseline and a gold standard before we go live but it feels like I'm basically manufacturing the ground truth out of thin air.",
-      "Right now I'm spending way too much time building out synthetic users and adversarial personas basically trying to brute-force every way a human might try to break the prompt or trigger a hallucination."
+      "we've gone from one agent to five in about six months, each wired into different internal tools.",
+      "every one of them has its own bespoke setup for policy and permissions, and logging is handled separately per team on top of that.",
+      "adding agent six means building the same stack again.",
+      "conceptually i want something like an ai control plane, one place that defines policy and applies it consistently across every agent, rather than each team reinventing enforcement per agent."
     ],
     "claims": [
       {
-        "text": "I'm honestly spinning my wheels on a pre-launch project and hitting a wall with the evaluation strategy. The standard advice is to build your dataset from production logs but since we have zero users that is a complete non-starter. I need a baseline and a gold standard before we go live but it feels like I'm basically manufacturing the ground truth out of thin air. Right now I'm spending way too much time building out synthetic users and adversarial personas basically trying to brute-force every way a human might try to break the prompt or trigger a hallucination. It feels like a lot of heavy lifting for something that might not even reflect real usage once we open the doors. I really want to avoid over-engineering a fake dataset that becomes irrelevant on day one but I also do not want to do a massive restructure later. I'm using Braintrust to manage the versions and evals just to keep a single source of truth but I'm still trying to figure out the best way to structure this now so the transition to real traces isnt a mess. For anyone who has launched recently how did you handle the day zero dataset? Did you go full synthetic or did you just ship it and fix it in production? submitted by /u/RottenAversion [link] [comments]",
+        "text": "we've gone from one agent to five in about six months, each wired into different internal tools. every one of them has its own bespoke setup for policy and permissions, and logging is handled separately per team on top of that. nothing is centralized. adding agent six means building the same stack again. conceptually i want something like an ai control plane, one place that defines policy and applies it consistently across every agent, rather than each team reinventing enforcement per agent. haven't found much written about what that looks like in practice, versus as a marketing term. for anyone managing more than a couple of agents, is centralized policy across agents achievable right now, or is everyone still doing point solutions per agent and calling it a control plane after the fact? submitted by /u/Severe_Part_5120 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v4roy7/manufacturing_a_gold_standard_eval_dataset_before/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v56712/is_anyone_running_a_real_ai_control_plane_across/"
       }
     ],
     "usableFor": [
@@ -252,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-23_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-24_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-23T23:57:00.594Z",
+    "publishedAt": "2026-07-24T12:09:49.925Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -283,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-23T23:57:01.055Z",
+    "publishedAt": "2026-07-24T12:09:50.461Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -291,7 +293,7 @@
       "Blog | Black Forest Labs Models Research API Open Weights Enterprise Resources Contact Sales Discover what’s new Models Research FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence.",
       "FLUX 3, our new multimodal frontier model, jointly learns from images, video, and audio to build one representation of the world.",
       "July 23, 2026 Read more Models FLUX 3 FLUX.2 Max FLUX.2 FLUX.2 Klein Flux Tools API Documentation Pricing Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001:2022 SOC 2 Type II Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy Training Data Disclosure All rights reserved.",
-      "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Research Models FLUX 3 x mimic: The Next Generation of Video-Action Models July 23, 2026 News Research Our co-founder and CEO urges G7 leaders to back open innovation June 18, 2026 Customer stories How Envato Built Its Creative AI Engine on FLUX June 17, 2026 Products FLUX.2 is now on device: ASUS ProArt laptops now support Klein models June 4, 2026 Models News Research FLUX VTO: Virtual Try-On at scale May 28, 2026 Products FLUX Erase: Remove anything, leave no trace May 21, 2026 Products FLUX Outpainting: Extend any image, in any direction May 14, 2026 Products How Our Forward Deployed Engineers Work with Customers May 7, 2026 Research Capable, Open, and Safe: Combating AI Misuse February 24, 2026 1 2 3"
+      "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Research Models FLUX 3 x mimic: The Next Generation of Video-Action Models July 23, 2026 News Research Our co-founder and CEO urges G7 leaders to back open innovation June 18, 2026 Customer stories How Envato Built Its Creative AI Engine on FLUX June 17, 2026 Products FLUX.2 is now on device: ASUS ProArt laptops now support Klein models June 4, 2026 News Martin Scorsese is an advisor to Black Forest Labs June 3, 2026 Models News Research FLUX VTO: Virtual Try-On at scale May 28, 2026 Products FLUX Erase: Remove anything, leave no trace May 21, 2026 Products FLUX Outpainting: Extend any image, in any direction May 14, 2026 Products How Our Forward Deployed Engineers Work with Customers May 7, 2026 1 2 3"
     ],
     "claims": [
       {
@@ -312,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-23T23:57:00.961Z",
+    "publishedAt": "2026-07-24T12:09:49.880Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -338,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-23_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-23T23:57:00.254Z",
+    "publishedAt": "2026-07-24T12:09:49.819Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -365,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-23_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-23T23:57:00.256Z",
+    "publishedAt": "2026-07-24T12:09:49.817Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -397,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-23T23:57:00.803Z",
+    "publishedAt": "2026-07-24T12:09:50.538Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -426,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-23T23:57:00.537Z",
+    "publishedAt": "2026-07-24T12:09:49.951Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -454,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-23T23:57:02.415Z",
+    "publishedAt": "2026-07-24T12:09:50.806Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -478,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-23_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-23T23:57:00.369Z",
+    "publishedAt": "2026-07-24T12:09:49.846Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -510,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-23T23:57:00.853Z",
+    "publishedAt": "2026-07-24T12:09:50.365Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -539,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-23T23:57:00.637Z",
+    "publishedAt": "2026-07-24T12:09:49.899Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -563,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-23_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-24_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-23T23:57:00.460Z",
+    "publishedAt": "2026-07-24T12:09:50.122Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -595,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-23T23:57:01.161Z",
+    "publishedAt": "2026-07-24T12:09:50.469Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -624,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-23T23:57:00.540Z",
+    "publishedAt": "2026-07-24T12:09:50.204Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -649,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-23_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-23T23:57:00.519Z",
+    "publishedAt": "2026-07-24T12:09:49.946Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -681,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-23T23:57:01.869Z",
+    "publishedAt": "2026-07-24T12:09:51.662Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -704,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-23_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-24_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-23T23:57:00.595Z",
+    "publishedAt": "2026-07-24T12:09:50.108Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -736,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-23T23:57:00.724Z",
+    "publishedAt": "2026-07-24T12:09:50.277Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -744,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 6 days ago • 78 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 6 days ago • 76 NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 7 days ago • 56 Introducing Cosmos 3 Edge nvidia • 3 days ago • 33 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • 5 days ago • 21 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 3 days ago • 14 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 7 days ago • 16 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 379 POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU FINAL-Bench • about 20 hours ago • 9 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 10 days ago • 34 The influx of specialist models on the Open SLM Leaderboard Banaxi-Tech • about 12 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 879 When will language models be good enough?",
-      "craffel • 7 days ago • 5 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 238 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 366 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • about 2 hours ago • 4 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 17 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • Jun 9 • 83 Data for Agents nvidia • 15 days ago • 25 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 167 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 20 July 23, 2026 The State of Simulation for Physical AI: An Overview 35 July 21, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 35 July 21, 2026 Newer Models, Same Advantage 40 July 16, 2026 security Hot Security incident disclosure — July 2026 559 July 16, 2026 What building Shippy taught us about building agents 14 July 15, 2026 Model Routing Is Simple.",
-      "54 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines 117 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 17 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 37 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 58 July 8, 2026 From Hugging Face to Amazon SageMaker Studio in one click 15 July 7, 2026 Hugging Face Models on Foundry Managed Compute 14 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 26 July 7, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 7 days ago • 82 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 7 days ago • 79 Introducing Cosmos 3 Edge nvidia • 4 days ago • 33 NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 8 days ago • 56 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • 5 days ago • 21 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 4 days ago • 14 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • about 14 hours ago • 11 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 379 POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU FINAL-Bench • 1 day ago • 9 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 11 days ago • 34 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 8 days ago • 16 The influx of specialist models on the Open SLM Leaderboard Banaxi-Tech • 1 day ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 879 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 238 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 366 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 132 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 17 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • Jun 9 • 83 Data for Agents nvidia • 16 days ago • 25 When will language models be good enough?",
+      "craffel • 8 days ago • 5 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 23 July 23, 2026 The State of Simulation for Physical AI: An Overview 43 July 21, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 38 July 21, 2026 Newer Models, Same Advantage 40 July 16, 2026 security Hot Security incident disclosure — July 2026 611 July 16, 2026 What building Shippy taught us about building agents 14 July 15, 2026 Model Routing Is Simple.",
+      "55 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines 119 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 18 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 38 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 58 July 8, 2026 From Hugging Face to Amazon SageMaker Studio in one click 15 July 7, 2026 Hugging Face Models on Foundry Managed Compute 14 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 26 July 7, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -775,9 +777,9 @@
     ],
     "keyFacts": [
       "The first known runaway AI agent - or a very bad marketing stunt?",
-      "Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira."
+      "Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
+      "Try Cursor & get 50% off your first month 23rd July 2026 - Link Blog The first known runaway AI agent - or a very bad marketing stunt?",
+      "( via ) Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered."
     ],
     "claims": [
       {
@@ -804,10 +806,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "A quote from Seth Larson Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 23rd July 2026 The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days."
+      "A quote from Seth Larson Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
+      "Try Cursor & get 50% off your first month 23rd July 2026 The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days.",
+      "This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised.",
+      "As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible."
     ],
     "claims": [
       {
@@ -834,10 +836,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "A quote from Thomas Ptacek Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 22nd July 2026 I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks."
+      "A quote from Thomas Ptacek Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
+      "Try Cursor & get 50% off your first month 22nd July 2026 I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks.",
+      "This is only surprising because you assume OpenAI has sounder sandboxes.",
+      "&mdash; Thomas Ptacek , doesn't think this even needs a frontier model Posted 22nd July 2026 at 11:59 pm Recent articles OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 A Fireside Chat with Cat and Thariq from the Claude Code team - 21st July 2026 Kimi K3, and what we can still learn from the pelican benchmark - 16th July 2026 This is a quotation collected by Simon Willison, posted on 22nd July 2026 ."
     ],
     "claims": [
       {
@@ -894,10 +896,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Simon Willison’s Weblog Subscribe Sponsored by: Atlassian &mdash; Give your agents a plan.",
-      "New Jira capabilities unlock full-context for AI-native software development.",
-      "Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira.",
-      "Learn more 22nd July 2026 - Link Blog Are AI labs pelicanmaxxing?"
+      "Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
+      "Try Cursor & get 50% off your first month 22nd July 2026 - Link Blog Are AI labs pelicanmaxxing?",
+      "( via ) Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark .",
+      "I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but never with anything close to the diligence of Dylan's methodology here."
     ],
     "claims": [
       {
@@ -918,7 +920,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-23T23:57:00.648Z",
+    "publishedAt": "2026-07-24T12:09:50.221Z",
     "categoryHints": [
       "ai-agentic"
     ],
