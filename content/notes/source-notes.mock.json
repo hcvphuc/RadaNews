@@ -5,15 +5,15 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-24T12:09:50.349Z",
+    "publishedAt": "2026-07-25T23:57:24.182Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Newsletter July 2026: LangChain Newsletter The LangChain Team July 23, 2026 4 min No items found.",
-      "LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint The LangChain Team July 8, 2026 7 min LangChain LangSmith Observability & Evals Your coding agent bill doubled."
+      "Harrison's In the Loop What does it mean to \"own your intelligence\"?",
+      "Harrison Chase July 25, 2026 9 min No items found."
     ],
     "claims": [
       {
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-24T12:09:56.586Z",
+    "publishedAt": "2026-07-25T23:57:23.222Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-24_fallback",
+    "sourceId": "src_openai-blog_2026-07-25_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-24T12:09:49.577Z",
+    "publishedAt": "2026-07-25T23:57:23.084Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-24_fallback",
+    "sourceId": "src_mcp-blog_2026-07-25_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-24T12:09:51.684Z",
+    "publishedAt": "2026-07-25T23:57:23.527Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_41499675299b8351",
+    "sourceId": "src_reddit-aiagents_665ebd2bfe3756ad",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v51ef7/anyone_here_wantshas_extra_openaiclaude_credits/",
-    "title": "Anyone here wants/has extra OpenAI/Claude credits?",
-    "publishedAt": "2026-07-24T04:52:12.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v69tal/opus_5_great_performance_gaslighting/",
+    "title": "Opus 5 Great Performance -> Gaslighting",
+    "publishedAt": "2026-07-25T14:25:42.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Our startup recently committed to a lot of OpenAI and Anthropic usage to get better pricing.",
-      "We are now realizing that we committed to way more than we will actually use lol.",
-      "We are thinking about setting up a simple API proxy so other developers can use the extra capacity at lower pricing.",
-      "Based on the pricing we got, it could probably be around 10 to 15 percent less than going direct."
+      "I really tried hard to not be negative, to double, triple check, before doing any statement.",
+      "I've been testing Opus 5 since yesterday, and I can't help myself that we are being gaslighted by a swarm of agents, playing as humans, or users that are just doing non-serious 'vibe coding', saying that Opus 5 is great.",
+      "Well, I'm afraid to say it is not at all.",
+      "For me, it really seems to have an unacceptable performance."
     ],
     "claims": [
       {
-        "text": "Our startup recently committed to a lot of OpenAI and Anthropic usage to get better pricing. We are now realizing that we committed to way more than we will actually use lol. We are thinking about setting up a simple API proxy so other developers can use the extra capacity at lower pricing. Based on the pricing we got, it could probably be around 10 to 15 percent less than going direct. Would anyone here actually be interested in something like this? If so, which models are you using and roughly how much do you spend each month? Also if you have dealt with a situation like this before can you lmk ur experience? Just trying to see if this makes sense before we build anything. submitted by /u/Diligent_Bridge_1674 [link] [comments]",
+        "text": "I really tried hard to not be negative, to double, triple check, before doing any statement. I've been testing Opus 5 since yesterday, and I can't help myself that we are being gaslighted by a swarm of agents, playing as humans, or users that are just doing non-serious 'vibe coding', saying that Opus 5 is great. Well, I'm afraid to say it is not at all. For me, it really seems to have an unacceptable performance. The only thing I can agree is with token consumption. Yes, this is happening. But the drawback is that it is thinking less, and taking more stupid decisions, or not going as deep as possible as it could go. It is not even close to the claims are being made in regard to its performance compared to other LLMs. I'm curious to hear about your perceptions. submitted by /u/Physical_Concert_625 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v51ef7/anyone_here_wantshas_extra_openaiclaude_credits/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v69tal/opus_5_great_performance_gaslighting/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5ee24d4f37fec7ad",
+    "sourceId": "src_reddit-aiagents_5c84045a5cdbe915",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v582si/whats_more_important_for_an_ai_product_today/",
-    "title": "What's more important for an AI Product today? Great Technology or great Distribution",
-    "publishedAt": "2026-07-24T10:58:00.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v6l4w7/anyone_actually_doing_social_listeninglead_gen/",
+    "title": "Anyone actually doing social listening/lead gen (Reddit, FB, X) for local service niches?",
+    "publishedAt": "2026-07-25T21:54:55.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Every day, new AI Products are launching, I have noticed some products with great technology still go unnoticed, while other with similar or fewer features gain users because of better distribution.",
-      "In today's AI market, what's more important a great product or great distribution?",
-      "I'd love to hear what you've experienced.",
-      "submitted by /u/ProposalIntrepid8476 [link] [comments]"
+      "I run an AI automation agency and I'm exploring intent-based lead gen monitoring public posts where people express buying or hiring intent (e.g.",
+      "insurance, recruiting, trades) and reaching out directly instead of cold outreach or paid ads.",
+      "For anyone who's actually built or used something like this: - What are you using to monitor Reddit API, Apify, Phantombuster, custom scraper?",
+      "- Which platforms actually produce real volume Reddit, FB groups, X?"
     ],
     "claims": [
       {
-        "text": "Every day, new AI Products are launching, I have noticed some products with great technology still go unnoticed, while other with similar or fewer features gain users because of better distribution. In today's AI market, what's more important a great product or great distribution? I'd love to hear what you've experienced. submitted by /u/ProposalIntrepid8476 [link] [comments]",
+        "text": "I run an AI automation agency and I'm exploring intent-based lead gen monitoring public posts where people express buying or hiring intent (e.g. insurance, recruiting, trades) and reaching out directly instead of cold outreach or paid ads. For anyone who's actually built or used something like this: - What are you using to monitor Reddit API, Apify, Phantombuster, custom scraper? - Which platforms actually produce real volume Reddit, FB groups, X? - How long before you saw actual conversions, not just keyword matches? - Roughly how many qualified leads/week is realistic for a local/niche market (not SaaS)? - Any ToS issues, bans, or account risk you ran into? trying to figure out if this is worth building or if I'm chasing a mirage before I sink more time into it. submitted by /u/Standard-Future-883 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v582si/whats_more_important_for_an_ai_product_today/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v6l4w7/anyone_actually_doing_social_listeninglead_gen/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_05304596c839c96d",
+    "sourceId": "src_reddit-aiagents_0ff526ba3e71bcb4",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v56712/is_anyone_running_a_real_ai_control_plane_across/",
-    "title": "is anyone running a real ai control plane across multiple agents, or is it all point solutions",
-    "publishedAt": "2026-07-24T09:14:04.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v6kxls/agent_memory_kept_failing_for_me_until_i_treated/",
+    "title": "Agent memory kept failing for me until I treated it like a statement graph",
+    "publishedAt": "2026-07-25T21:46:23.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "we've gone from one agent to five in about six months, each wired into different internal tools.",
-      "every one of them has its own bespoke setup for policy and permissions, and logging is handled separately per team on top of that.",
-      "adding agent six means building the same stack again.",
-      "conceptually i want something like an ai control plane, one place that defines policy and applies it consistently across every agent, rather than each team reinventing enforcement per agent."
+      "I kept trying to make agents \"remember\" by stuffing more context into the window or searching harder over history.",
+      "That works until the graph of people, orgs, decisions, and claims gets messy — then you get confident answers grounded in the wrong \"Apple,\" or an old claim that should have been superseded but never was.",
+      "Retrieval could find the fact, but there was no reliable way to know whether it was still true — or when, how, and why it had changed.",
+      "Instead of storing notes, I ended up building a statement graph: typed entities, their relationships, and room for statements about statements (one of the most underrated designs imo) — where a statement came from, when it was valid, what supported it, and what later corrected or superseded it."
     ],
     "claims": [
       {
-        "text": "we've gone from one agent to five in about six months, each wired into different internal tools. every one of them has its own bespoke setup for policy and permissions, and logging is handled separately per team on top of that. nothing is centralized. adding agent six means building the same stack again. conceptually i want something like an ai control plane, one place that defines policy and applies it consistently across every agent, rather than each team reinventing enforcement per agent. haven't found much written about what that looks like in practice, versus as a marketing term. for anyone managing more than a couple of agents, is centralized policy across agents achievable right now, or is everyone still doing point solutions per agent and calling it a control plane after the fact? submitted by /u/Severe_Part_5120 [link] [comments]",
+        "text": "I kept trying to make agents \"remember\" by stuffing more context into the window or searching harder over history. That works until the graph of people, orgs, decisions, and claims gets messy — then you get confident answers grounded in the wrong \"Apple,\" or an old claim that should have been superseded but never was. Retrieval could find the fact, but there was no reliable way to know whether it was still true — or when, how, and why it had changed. Instead of storing notes, I ended up building a statement graph: typed entities, their relationships, and room for statements about statements (one of the most underrated designs imo) — where a statement came from, when it was valid, what supported it, and what later corrected or superseded it. This held up much better than trying to keep markdown files synchronized and current (the Obsidian way). A few things I had to learn the hard way: Don't trust a framework's memory assumptions until you've stress-tested them on your real collisions. Agent frameworks worked fine for basic orchestration but broke once I needed identity rules, effective time, provenance, and multi-hop structure their memory layers weren't designed to represent. Start with a tiny vocab (entity types) and only grow it when there's a chance for collisions. \"Concept\" as an entity type did a lot of work for me when I didn't want to include every edge case. Names are labels, not IDs. I fingerprint network-resource identifiers so the same URI deterministically produces the same entity ID. Merging on string similarity / trusting AI to make the call would never let me trust the resolved entities in a graph otherwise. Same As stays an evidence-backed statement — not an ingest-time merge. Don't overwrite, append temporal statements instead. Overwriting the current value without preserving history is a recipe for context amnesia. Scope claims with validity windows, and keep expired, superseded, unsupported, and distrusted as separate dispositions. Old and false are not the same thing. This matters especially for decision traces: the reasoning behind an old decision can be just as important as the decision that replaced it. Append-only does not mean last-write-wins. Two agents can write conflicting claims in the same window. Keep both visible until a resolution policy — or a human — decides which one governs. Last-write-wins will get you in hot water fast. Resolution should be policy-dependent. The same graph can produce different answers under different trust rules, so persist the resolution record: what got believed, when, and under which rules. I'm still working on the context-assembly side — selecting the right bounded slice of this graph mid-run — but the underlying record is much more trustworthy than the markdown/RAG approaches I started with. Curious what others hit first when personal notes / RAG stopped being enough — identity mess, conflicting current claims, provenance, or assembling the right context mid-run? Anything working for you now at scale? submitted by /u/chrislally [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v56712/is_anyone_running_a_real_ai_control_plane_across/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v6kxls/agent_memory_kept_failing_for_me_until_i_treated/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-24_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-25_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-24T12:09:49.925Z",
+    "publishedAt": "2026-07-25T23:57:23.473Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-24T12:09:50.461Z",
+    "publishedAt": "2026-07-25T23:57:24.283Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-24T12:09:49.880Z",
+    "publishedAt": "2026-07-25T23:57:23.621Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-24_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-25_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-24T12:09:49.819Z",
+    "publishedAt": "2026-07-25T23:57:23.454Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-24_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-25_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-24T12:09:49.817Z",
+    "publishedAt": "2026-07-25T23:57:23.449Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-24T12:09:50.538Z",
+    "publishedAt": "2026-07-25T23:57:24.089Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-24T12:09:49.951Z",
+    "publishedAt": "2026-07-25T23:57:23.691Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,14 +456,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-24T12:09:50.806Z",
+    "publishedAt": "2026-07-25T23:57:24.853Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
+      "Subscribe to Press Updates All Company Product Engineering Blog Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
       "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
     ],
     "claims": [
@@ -480,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-24_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-25_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-24T12:09:49.846Z",
+    "publishedAt": "2026-07-25T23:57:23.617Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-24T12:09:50.365Z",
+    "publishedAt": "2026-07-25T23:57:24.252Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-24T12:09:49.899Z",
+    "publishedAt": "2026-07-25T23:57:23.648Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-24_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-25_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-24T12:09:50.122Z",
+    "publishedAt": "2026-07-25T23:57:24.189Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-24T12:09:50.469Z",
+    "publishedAt": "2026-07-25T23:57:24.274Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-24T12:09:50.204Z",
+    "publishedAt": "2026-07-25T23:57:23.879Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-24_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-25_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-24T12:09:49.946Z",
+    "publishedAt": "2026-07-25T23:57:23.771Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-24T12:09:51.662Z",
+    "publishedAt": "2026-07-25T23:57:25.423Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-24_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-25_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-24T12:09:50.108Z",
+    "publishedAt": "2026-07-25T23:57:23.855Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-24T12:09:50.277Z",
+    "publishedAt": "2026-07-25T23:57:23.988Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 7 days ago • 82 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 7 days ago • 79 Introducing Cosmos 3 Edge nvidia • 4 days ago • 33 NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 8 days ago • 56 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • 5 days ago • 21 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 4 days ago • 14 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • about 14 hours ago • 11 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 379 POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU FINAL-Bench • 1 day ago • 9 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 11 days ago • 34 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 8 days ago • 16 The influx of specialist models on the Open SLM Leaderboard Banaxi-Tech • 1 day ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 879 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 238 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 366 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 132 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 17 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • Jun 9 • 83 Data for Agents nvidia • 16 days ago • 25 When will language models be good enough?",
-      "craffel • 8 days ago • 5 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 23 July 23, 2026 The State of Simulation for Physical AI: An Overview 43 July 21, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 38 July 21, 2026 Newer Models, Same Advantage 40 July 16, 2026 security Hot Security incident disclosure — July 2026 611 July 16, 2026 What building Shippy taught us about building agents 14 July 15, 2026 Model Routing Is Simple.",
-      "55 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines 119 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 18 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 38 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 58 July 8, 2026 From Hugging Face to Amazon SageMaker Studio in one click 15 July 7, 2026 Hugging Face Models on Foundry Managed Compute 14 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 26 July 7, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 8 days ago • 96 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 8 days ago • 79 Introducing Cosmos 3 Edge nvidia • 5 days ago • 34 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • 7 days ago • 21 NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 9 days ago • 56 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 5 days ago • 14 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 2 days ago • 12 POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU FINAL-Bench • 3 days ago • 10 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 380 The influx of specialist models on the Open SLM Leaderboard Banaxi-Tech • 2 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 881 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 9 days ago • 17 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 238 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 12 days ago • 34 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 366 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 132 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 17 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • Jun 24 • 49 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • Jun 9 • 83 We Just Surgically Changed What Your Model Believes ApolloRaines • 5 days ago • 3 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 43 July 23, 2026 The State of Simulation for Physical AI: An Overview 63 July 21, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 40 July 21, 2026 Newer Models, Same Advantage 40 July 16, 2026 security Hot Security incident disclosure — July 2026 649 July 16, 2026 What building Shippy taught us about building agents 14 July 15, 2026 Model Routing Is Simple.",
+      "57 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines 121 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 19 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 38 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 58 July 8, 2026 From Hugging Face to Amazon SageMaker Studio in one click 16 July 7, 2026 Hugging Face Models on Foundry Managed Compute 15 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 26 July 7, 2026 Previous 1 2 3 ...",
+      "60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
       {
@@ -763,6 +763,96 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_8c1e8b9815cb94e3",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+    "title": "Ruff v0.16.0",
+    "publishedAt": "2026-07-25T22:44:05.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Ruff v0.16.0 Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
+      "Try Cursor & get 50% off your first month 25th July 2026 - Link Blog Ruff v0.16.0 .",
+      "Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd.",
+      "I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency."
+    ],
+    "claims": [
+      {
+        "text": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency. From Brent Westbrook's announcement post: Ruff now enables 413 rules by default, up from 59 in previous versions. Since Ruff's default rule set was last modified in v0.1.0 , the number of rules in Ruff has grown from 708 to 968. Many of these rules catch severe issues, including syntax errors and immediate runtime errors but were not previously enabled by default. With the new rule set, Ruff will bring these issues and many others to your attention without any Ruff configuration. Here's a one-liner for trying it on any Python project: uvx ruff@latest check . I ran the latest Ruff against my three biggest projects - Datasette , sqlite-utils , and LLM - and it found hundreds of minor issues that breached the new default rules. All three projects have very comprehensive test suites, executed in CI against Python 3.10 through Python 3.14, so upgrades like this are pretty safe. The following command did the bulk of the upgrades: uvx ruff@latest check . --fix --unsafe-fixes Against sqlite-utils , that command reported: Found 1618 errors (1538 fixed, 80 remaining). As an illustrative example, here are three of the remaining issues. Ruff does a nice job of explaining each one: DTZ005 `datetime.datetime.now()` called without a `tz` argument --> tests/test_duplicate.py:17:10 | 15 | \"datetime_col\" TEXT)\"\"\") 16 | # Insert one row of mock data: 17 | dt = datetime.datetime.now() | ^^^^^^^^^^^^^^^^^^^^^^^ 18 | data = { 19 | \"text_col\": \"Cleo\", | help: Pass a `datetime.timezone` object to the `tz` parameter BLE001 Do not catch blind exception: `Exception` --> tests/test_plugins.py:16:12 | 14 | db.execute(\"select * from pragma_function_list()\") 15 | return True 16 | except Exception: | ^^^^^^^^^ 17 | return False 18 | finally: | B018 Found useless attribute access. Either assign it to a variable or remove it. --> tests/test_update.py:46:5 | 44 | def test_update_invalid_pk(fresh_db, pk, update_pk): 45 | table = fresh_db[\"table\"] 46 | table.insert({\"id1\": 5, \"id2\": 3, \"v\": 1}, pk=pk).last_pk | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 47 | with pytest.raises(NotFoundError): 48 | table.update(update_pk, {\"v\": 2}) | Unsurprisingly, given Astral's new home at OpenAI , this output provides everything a coding agent would need to fix the problems. I had Codex (GPT-5.6 Sol high) upgrade LLM and sqlite-utils , and Claude Code (with Opus 5) upgrade Datasette . Tags: python , ruff , astral",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_415f107c107fd36e",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+    "title": "Quoting Boris Cherny",
+    "publishedAt": "2026-07-25T00:42:59.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Boris Cherny Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
+      "Try Cursor & get 50% off your first month 25th July 2026 More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet.",
+      "It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully.",
+      "&mdash; Boris Cherny , here's that System Card section , page 73 Posted 25th July 2026 at 12:42 am Recent articles OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 A Fireside Chat with Cat and Thariq from the Claude Code team - 21st July 2026 Kimi K3, and what we can still learn from the pelican benchmark - 16th July 2026 This is a quotation collected by Simon Willison, posted on 25th July 2026 ."
+    ],
+    "claims": [
+      {
+        "text": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully. &mdash; Boris Cherny , here's that System Card section , page 73 Tags: prompt-injection , anthropic , claude , generative-ai , ai , llms , boris-cherny",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_d7c1cba611f50f18",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+    "title": "Introducing Claude Opus 5",
+    "publishedAt": "2026-07-24T23:48:50.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Introducing Claude Opus 5 Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
+      "Try Cursor & get 50% off your first month 24th July 2026 - Link Blog Introducing Claude Opus 5 .",
+      "I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet.",
+      "The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price\" sounds promising."
+    ],
+    "claims": [
+      {
+        "text": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price\" sounds promising. It's currently leading the Artificial Analysis leaderboard , in front of even Fable 5. It's priced the same as Opus 4.8, and continues to offer a \"fast mode\" at twice the cost of the base model. Based on this anecdote in the release post it sounds like it might be relentlessly proactive : On one Frontier-Bench task, Opus 5 was given a drawing of a machine part and asked to write code to rebuild it as a 3D FreeCAD model. However, in this task, the model was intentionally given no way to directly viewthe drawing. Opus 5 responded by writing its own computer vision pipeline to pull the geometry from the raw pixels, then reconstructed the full machine part. It's better at finding vulnerabilities but has deliberately not been trained on how to exploit them. Hopefully this means the US government won't shut it down! As with its predecessor, Opus 4.8, we’ve intentionally avoided training Opus 5 on cyber tasks. The model has nevertheless improved substantially on these tasks as a result of becoming more generally capable, and it comes close to Mythos 5 at finding cybersecurity vulnerabilities. However, it remains substantially behind Mythos 5 on the exploitation of those vulnerabilities—that is, in turning vulnerabilities into material cyber threats. Anthropic have published a prompting guide for Claude Opus 5 . Thariq Shihipar has also written The new rules of context engineering for Claude 5 generation models . The first pelican I got was missing the bicycle wheels; the second attempt was better. Tags: ai , generative-ai , llms , anthropic , claude , llm-release",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_a517d6afe3b83a5d",
@@ -825,102 +915,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_658bd32ea5ec9281",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
-    "title": "Quoting Thomas Ptacek",
-    "publishedAt": "2026-07-22T23:59:01.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Thomas Ptacek Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
-      "Try Cursor & get 50% off your first month 22nd July 2026 I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks.",
-      "This is only surprising because you assume OpenAI has sounder sandboxes.",
-      "&mdash; Thomas Ptacek , doesn't think this even needs a frontier model Posted 22nd July 2026 at 11:59 pm Recent articles OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 A Fireside Chat with Cat and Thariq from the Claude Code team - 21st July 2026 Kimi K3, and what we can still learn from the pelican benchmark - 16th July 2026 This is a quotation collected by Simon Willison, posted on 22nd July 2026 ."
-    ],
-    "claims": [
-      {
-        "text": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes. &mdash; Thomas Ptacek , doesn't think this even needs a frontier model Tags: thomas-ptacek , openai , security , generative-ai , ai-security-research , ai , llms , sandboxing",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_8842b87eed5d6695",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-    "publishedAt": "2026-07-22T23:51:33.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off.",
-      "Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could cheat on the test by stealing the answers.",
-      "Along the way it helped make the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software.",
-      "Here's what happened We currently have three documents to help us understand what happened here."
-    ],
-    "claims": [
-      {
-        "text": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could cheat on the test by stealing the answers. Along the way it helped make the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software. Here's what happened We currently have three documents to help us understand what happened here. ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? is a paper published on 11th May 2026 describing ExploitGym, a new eval suite for LLM-powered agent systems. Security incident disclosure — July 2026 by Hugging Face on 16th July 2026 describes how they detected an attack from an \"agentic security-research harness - used LLM still not known\" that breached some of their systems. OpenAI and Hugging Face partner to address security incident during model evaluation from OpenAI on 21st July 2026 confesses that it was their agent harness that did this, and that they're working with Hugging Face to clean up the mess. ExploitGym I hadn't seen the ExploitGym paper before and it's a really interesting one. Authors from UC Berkeley, the Max Planck Institute, UC Santa Barbara, and Arizona State designed a new benchmark for evaluating models on their ability to turn a reported vulnerability into a concrete exploit. OpenAI, Anthropic, and Google provided feedback and helped run the benchmark against their models. The benchmark \"comprises 898 instances derived from real-world vulnerabilities that affected popular software projects\" - including the Linux kernel and V8 JavaScript engine. The ExploitGym benchmark is available on GitHub . Here's the paragraph that best represents their benchmark results: Among all configurations, Claude Mythos Preview and GPT-5.5 achieve the highest success counts (157 and 120 successes, respectively), demonstrating that current frontier agents can exploit a substantial subset of real-world vulnerabilities under controlled conditions. GPT-5.4 also solves a notable 54 tasks, placing it in an intermediate tier. The remaining model–agent pairings solve fewer than 15 tasks each, underscoring that end-to-end exploitation remains challenging and sharply differentiates today’s frontier systems. Notably, Claude Opus 4.7 achieves fewer successes than Claude Opus 4.6 despite being a newer checkpoint, and does so at substantially lower cost on the full set. Trace inspection reveals that Claude Opus 4.7 and Gemini 3.1 Pro frequently conclude early after judging the target vulnerability non-exploitable. The paper also describes the approach they took to preventing the agents from cheating by going outside the parameters of the test. This becomes relevant in a moment! Outbound connections are restricted to a curated allowlist that permits routine package installation (Ubuntu apt repositories and PyPI) and fetching the toolchains required for building V8. All other external endpoints are blocked. The paper concludes with this (emphasis mine): Our results show that autonomous exploit development by frontier AI agents is no longer a hypothetical capability . While current agents are not yet reliable across all targets, they already exploit a non-trivial fraction of real-world vulnerabilities , including complex targets such as kernel components. This rapid emergence is itself a central finding, showing that capabilities that would have seemed implausible are now present in deployed frontier models. An important detail here: this paper isn't about discovering vulnerabilities; it's about being able to take those vulnerabilities and turn them into working exploits. When Anthropic first restricted access to Mythos back in April they talked about this capability as well. A model that can act on vulnerabilities is a lot more dangerous than one that can just discover them. One of the ways Fable differs from Mythos is that it's more likely to refuse to weaponize vulnerabilities in this way. I get the impression the US government did not understand that distinction when they banned Fable last month . The Hugging Face incident The first hint we got of the attack was in this blog post by Hugging Face on 16th July 2026: A malicious dataset abused two code-execution paths in our dataset processing (a remote-code dataset loader and a template-injection in a dataset configuration) to run code on a processing worker. From there, the actor escalated to node-level access, harvested cloud and cluster credentials, and moved laterally into several internal clusters over a weekend. I hope they release more details about the code that pulled this off. I'm assuming this means packages using the datasets library , a Hugging Face project for bundling up and sharing datasets on their platform. That library used to execute arbitrary code but has been steadily locked down over time, with the 4.0.0 release in July 2025 removing the trust_remote_code=True flag entirely. Assuming the attack used that library it must have either abused pickle serialization in some way, found some other non-obvious code execution path, or (most likely) specified datasets<4.0.0 as the dependency. The campaign was run by an autonomous agent framework (appearing to be built on an agentic security-research harness - used LLM still not known) executing many thousands of individual actions across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services. This was a sophisticated attack! Then Hugging Face hit a wall: they tried to use \"frontier models behind commercial APIs\" - I'm guessing from Anthropic and OpenAI - to help analyze the attack, and were blocked: When we started the log analysis, we first used frontier models behind commercial APIs. This did not work: the analysis requires submitting large volumes of real attack commands, exploit payloads, and C2 artifacts, and these requests were blocked by the providers' safety guardrails, which cannot distinguish an incident responder from an attacker. They switched to their own self-hosted instance of MIT licensed GLM-5.2 and it helped them figure out what was going on. This indicated a fundamental asymmetry between the defending team and the (so-far unknown) attacker: We do not know which model powered the attacker's agents, whether a jailbroken hosted model or an unrestricted open-weight one; either way, the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails of the hosted models we first tried. As a useful indicator of how seriously they took the attack: [...] Finally, we have also reported this incident to law enforcement agencies. So who was responsible for this \"autonomous agent framework\"? It turned out to be OpenAI themselves. The OpenAI confession Five days later, on July 21st , OpenAI revealed the culprit. They had been running the ExploitGym benchmark against a new, as-yet undisclosed model, and that model had been operating way outside its intended parameters (emphasis mine): After investigating, we now know that this particular incident was driven by a combination of OpenAI models — including GPT‑5.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes — while being internally tested on a benchmark⁠ [ExploitGym] of cyber capabilities. [...] We estimate maximal cyber capabilities by running this evaluation without production classifiers used to prevent models from pursuing high-risk cyber activity . Our benchmarks run in a highly isolated environment, with network access constrained to the ability to install packages through an internally hosted third-party software that acts as a proxy and cache for package registries. The models identified and chained vulnerabilities across OpenAI’s research environment and Hugging Face’s production infrastructure to obtain test solutions directly from Hugging Face’s production database. All evidence suggests that the models were hyperfocused on finding a solution for ExploitGym, going to extreme lengths to achieve a rather narrow testing goal. It's pretty clear what happened here. OpenAI removed safety filters for an in-progress model, locked it up in a sandbox and told it to solve the ExploitGym problems. Given the absence of guardrails there was nothing to prevent the model from attempting to break out of that sandbox, break into Hugging Face, and read the answers from there instead. OpenAI's sandbox used the now common pattern of allowing access to an allow-list of sites related to installing additional packages via a controlled proxy. In OpenAI's words: While operating in our sandboxed testing environment, our models spent a substantial amount of inference compute finding a way to obtain open Internet access , in pursuit of solving the evaluation problem. To gain access, the models identified and exploited a zero-day vulnerability (which we’ve now responsibly disclosed to the vendor) in the package registry cache proxy . With this access, our models performed a series of privilege escalation and lateral movement actions in our research testing environment until the models reached a node with Internet access. So step one was to break out onto the public internet. The model then broke into Hugging Face to find the answers: After gaining Internet access, the models inferred that Hugging Face potentially hosted models, datasets and solutions for ExploitGym. Knowing this, the model searched for and successfully found ways to gain access to secret information that it could use to cheat the evaluation. In one example, the model chained together multiple attack vectors, including using stolen credentials and zero-day vulnerabilities to find a remote code execution path on the Hugging Face servers. Chaining together multiple attack vectors is exactly the kind of thing these new models can do, where previous generations of models might have failed. I wrote last month about how Claude Fable is relentlessly proactive , when I noticed it spinning up custom web servers and deploying CORS tricks on my own laptop just to help debug a WebKit CSS issue. It turns out relentless proactivity is the defining trait of this new generation of Mythos-class models. If you set them a goal and give them a way to get there, even inadvertently, they will figure it out . Resist the temptation to write this off as a stunt There will inevitably be some people who dismiss this story as a dishonest marketing trick by OpenAI to make their models sound terrifyingly effective. I found 81 instances of the term \"marketing\" in the Hacker News discussion of the incident. To those people I say pull your heads out of the sand - you're now including Hugging Face in your conspiracy theories, just so you can deny the crescendo of evidence here! The best models we have today have the ability to both find and exploit new vulnerabilities. The ExploitGym paper itself concludes that \"autonomous exploit development by frontier AI agents is no longer a hypothetical capability\", and this incident is a perfect example of exactly that. The asymmetry is increasingly frustrating One of the most infuriating details of this story is how Hugging Face, faced with an accidental and aggressive attack from one of OpenAI's models, were unable to then turn to OpenAI's models to help them fend off the attack. The frontier models we have access to are increasingly being constrained in how much they can help us protect our software, heavily influenced by the US government's ongoing threat of export controls. Claude Fable 5 wouldn't even proofread this article for me! It insisted on downgrading me to a less capable model. Meanwhile open weight models from China such as GLM-5.2, Kimi 3 and the new Qwen 3.8 Max appear to have none of these restrictions - and any restrictions that do exist can likely be fine-tuned out of them by modifying the weights These constraints are meant to make us safer. I think there's a risk that they are having the opposite effect. Tags: sandboxing , security , ai , openai , generative-ai , llms , hugging-face , anthropic , paper-review , ai-security-research",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_32ef73da88321fc4",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
-    "title": "Are AI labs pelicanmaxxing?",
-    "publishedAt": "2026-07-22T23:01:00.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
-      "Try Cursor & get 50% off your first month 22nd July 2026 - Link Blog Are AI labs pelicanmaxxing?",
-      "( via ) Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark .",
-      "I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but never with anything close to the diligence of Dylan's methodology here."
-    ],
-    "claims": [
-      {
-        "text": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark . I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but never with anything close to the diligence of Dylan's methodology here. Dylan took 8 animals × 6 vehicles = 48 prompts and ran them three times each through 7 different models ( GPT-5.6 Terra, Claude Sonnet 5, Gemini 3.5 Flash, Grok 4.5, Qwen3.7-Max, GLM-5.2, and DeepSeek V4 Pro). He then used GPT-5.6 Luna and Gemini 3.1 Flash-Lite to help evaluate the results. There's a neat filter view for exploring the results: For the models he tested he could find no evidence of pelimaxxing: The pelicans on bicycles don’t look any better Labs are not better at drawing pelicans Labs are not better at drawing bicycles Labs are not better at drawing pelicans on bicycles, even adjusting for difficulty The pelican-bicycle scenes don’t look memorized [...] Pelicans aren’t drawn any better than other animals. Bicycles aren’t drawn any better than other vehicles. And no lab draws the combination better than its pelicans and bicycles already predict. GLM-5.2 comes closest: it has the largest boost on the exact pelican-bicycle cell, and and its first pelican-on-bicycle sample caught my eye. But the effect is small and not significant, so I wouldn’t put too much weight on it. Via Hacker News Tags: ai , generative-ai , llms , evals , pelican-riding-a-bicycle",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-24T12:09:50.221Z",
+    "publishedAt": "2026-07-25T23:57:23.894Z",
     "categoryHints": [
       "ai-agentic"
     ],
