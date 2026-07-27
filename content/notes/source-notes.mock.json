@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-25T23:57:24.182Z",
+    "publishedAt": "2026-07-26T23:57:13.482Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-25T23:57:23.222Z",
+    "publishedAt": "2026-07-26T23:57:12.623Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-25_fallback",
+    "sourceId": "src_openai-blog_2026-07-26_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-25T23:57:23.084Z",
+    "publishedAt": "2026-07-26T23:57:12.465Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-25_fallback",
+    "sourceId": "src_mcp-blog_2026-07-26_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-25T23:57:23.527Z",
+    "publishedAt": "2026-07-26T23:57:13.037Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_665ebd2bfe3756ad",
+    "sourceId": "src_reddit-aiagents_db0f052f80242268",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v69tal/opus_5_great_performance_gaslighting/",
-    "title": "Opus 5 Great Performance -> Gaslighting",
-    "publishedAt": "2026-07-25T14:25:42.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v7aohe/were_spending_too_much_time_building_agents_and/",
+    "title": "We're spending too much time building agents and not enough time thinking about production",
+    "publishedAt": "2026-07-26T17:44:02.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I really tried hard to not be negative, to double, triple check, before doing any statement.",
-      "I've been testing Opus 5 since yesterday, and I can't help myself that we are being gaslighted by a swarm of agents, playing as humans, or users that are just doing non-serious 'vibe coding', saying that Opus 5 is great.",
-      "Well, I'm afraid to say it is not at all.",
-      "For me, it really seems to have an unacceptable performance."
+      "Almost every AI demo ends with an agent successfully completing a task.",
+      "That's great for showing capabilities, but production environments introduce a completely different set of problems.",
+      "Teams need visibility into what happened, why it happened, and how to fix it without disrupting everything else.",
+      "The more organizations adopt AI agents, the more it feels like success will depend less on who builds the smartest agent and more on who builds the most reliable systems around them."
     ],
     "claims": [
       {
-        "text": "I really tried hard to not be negative, to double, triple check, before doing any statement. I've been testing Opus 5 since yesterday, and I can't help myself that we are being gaslighted by a swarm of agents, playing as humans, or users that are just doing non-serious 'vibe coding', saying that Opus 5 is great. Well, I'm afraid to say it is not at all. For me, it really seems to have an unacceptable performance. The only thing I can agree is with token consumption. Yes, this is happening. But the drawback is that it is thinking less, and taking more stupid decisions, or not going as deep as possible as it could go. It is not even close to the claims are being made in regard to its performance compared to other LLMs. I'm curious to hear about your perceptions. submitted by /u/Physical_Concert_625 [link] [comments]",
+        "text": "Almost every AI demo ends with an agent successfully completing a task. That's great for showing capabilities, but production environments introduce a completely different set of problems. Agents fail. Models change. APIs break. Policies evolve. Teams need visibility into what happened, why it happened, and how to fix it without disrupting everything else. The more organizations adopt AI agents, the more it feels like success will depend less on who builds the smartest agent and more on who builds the most reliable systems around them. That operational layer feels like one of the most interesting opportunities in AI right now. submitted by /u/Bladerunner_7_ [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v69tal/opus_5_great_performance_gaslighting/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v7aohe/were_spending_too_much_time_building_agents_and/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5c84045a5cdbe915",
+    "sourceId": "src_reddit-aiagents_4a16b297da7e723a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v6l4w7/anyone_actually_doing_social_listeninglead_gen/",
-    "title": "Anyone actually doing social listening/lead gen (Reddit, FB, X) for local service niches?",
-    "publishedAt": "2026-07-25T21:54:55.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v7g726/how_are_you_handling_meeting_memory_for_your/",
+    "title": "How are you handling meeting memory for your agents?",
+    "publishedAt": "2026-07-26T21:08:55.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I run an AI automation agency and I'm exploring intent-based lead gen monitoring public posts where people express buying or hiring intent (e.g.",
-      "insurance, recruiting, trades) and reaching out directly instead of cold outreach or paid ads.",
-      "For anyone who's actually built or used something like this: - What are you using to monitor Reddit API, Apify, Phantombuster, custom scraper?",
-      "- Which platforms actually produce real volume Reddit, FB groups, X?"
+      "The more agent workflows I build, the more I think context matters more than the model itself.",
+      "The hardest part hasn't been tool calling, it's getting reliable meeting context into the workflow without manually cleaning up notes.",
+      "I've been using Bluedot to capture transcripts, summaries and action items, then passing that into my agents.",
+      "It's been working well, especially since it doesn't rely on a meeting bot joining the call."
     ],
     "claims": [
       {
-        "text": "I run an AI automation agency and I'm exploring intent-based lead gen monitoring public posts where people express buying or hiring intent (e.g. insurance, recruiting, trades) and reaching out directly instead of cold outreach or paid ads. For anyone who's actually built or used something like this: - What are you using to monitor Reddit API, Apify, Phantombuster, custom scraper? - Which platforms actually produce real volume Reddit, FB groups, X? - How long before you saw actual conversions, not just keyword matches? - Roughly how many qualified leads/week is realistic for a local/niche market (not SaaS)? - Any ToS issues, bans, or account risk you ran into? trying to figure out if this is worth building or if I'm chasing a mirage before I sink more time into it. submitted by /u/Standard-Future-883 [link] [comments]",
+        "text": "The more agent workflows I build, the more I think context matters more than the model itself. The hardest part hasn't been tool calling, it's getting reliable meeting context into the workflow without manually cleaning up notes. I've been using Bluedot to capture transcripts, summaries and action items, then passing that into my agents. It's been working well, especially since it doesn't rely on a meeting bot joining the call. How do you manage that type of stuff? Full transcripts, embeddings, MCP? submitted by /u/Kingsaso6 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v6l4w7/anyone_actually_doing_social_listeninglead_gen/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v7g726/how_are_you_handling_meeting_memory_for_your/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_0ff526ba3e71bcb4",
+    "sourceId": "src_reddit-aiagents_9623145707d6c5e2",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v6kxls/agent_memory_kept_failing_for_me_until_i_treated/",
-    "title": "Agent memory kept failing for me until I treated it like a statement graph",
-    "publishedAt": "2026-07-25T21:46:23.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1v7g3c4/an_agent_inventory_doesnt_tell_you_what_those/",
+    "title": "An agent inventory doesn’t tell you what those agents are allowed to do",
+    "publishedAt": "2026-07-26T21:05:00.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I kept trying to make agents \"remember\" by stuffing more context into the window or searching harder over history.",
-      "That works until the graph of people, orgs, decisions, and claims gets messy — then you get confident answers grounded in the wrong \"Apple,\" or an old claim that should have been superseded but never was.",
-      "Retrieval could find the fact, but there was no reliable way to know whether it was still true — or when, how, and why it had changed.",
-      "Instead of storing notes, I ended up building a statement graph: typed entities, their relationships, and room for statements about statements (one of the most underrated designs imo) — where a statement came from, when it was valid, what supported it, and what later corrected or superseded it."
+      "Imagine two production agents: A support agent can access customer records, issue refunds, and send emails.",
+      "A coding agent can access GitHub, AWS, and production deployments.",
+      "The harder questions are: Which customers can the support agent refund?",
+      "Can security revoke one tool across every agent?"
     ],
     "claims": [
       {
-        "text": "I kept trying to make agents \"remember\" by stuffing more context into the window or searching harder over history. That works until the graph of people, orgs, decisions, and claims gets messy — then you get confident answers grounded in the wrong \"Apple,\" or an old claim that should have been superseded but never was. Retrieval could find the fact, but there was no reliable way to know whether it was still true — or when, how, and why it had changed. Instead of storing notes, I ended up building a statement graph: typed entities, their relationships, and room for statements about statements (one of the most underrated designs imo) — where a statement came from, when it was valid, what supported it, and what later corrected or superseded it. This held up much better than trying to keep markdown files synchronized and current (the Obsidian way). A few things I had to learn the hard way: Don't trust a framework's memory assumptions until you've stress-tested them on your real collisions. Agent frameworks worked fine for basic orchestration but broke once I needed identity rules, effective time, provenance, and multi-hop structure their memory layers weren't designed to represent. Start with a tiny vocab (entity types) and only grow it when there's a chance for collisions. \"Concept\" as an entity type did a lot of work for me when I didn't want to include every edge case. Names are labels, not IDs. I fingerprint network-resource identifiers so the same URI deterministically produces the same entity ID. Merging on string similarity / trusting AI to make the call would never let me trust the resolved entities in a graph otherwise. Same As stays an evidence-backed statement — not an ingest-time merge. Don't overwrite, append temporal statements instead. Overwriting the current value without preserving history is a recipe for context amnesia. Scope claims with validity windows, and keep expired, superseded, unsupported, and distrusted as separate dispositions. Old and false are not the same thing. This matters especially for decision traces: the reasoning behind an old decision can be just as important as the decision that replaced it. Append-only does not mean last-write-wins. Two agents can write conflicting claims in the same window. Keep both visible until a resolution policy — or a human — decides which one governs. Last-write-wins will get you in hot water fast. Resolution should be policy-dependent. The same graph can produce different answers under different trust rules, so persist the resolution record: what got believed, when, and under which rules. I'm still working on the context-assembly side — selecting the right bounded slice of this graph mid-run — but the underlying record is much more trustworthy than the markdown/RAG approaches I started with. Curious what others hit first when personal notes / RAG stopped being enough — identity mess, conflicting current claims, provenance, or assembling the right context mid-run? Anything working for you now at scale? submitted by /u/chrislally [link] [comments]",
+        "text": "Imagine two production agents: A support agent can access customer records, issue refunds, and send emails. A coding agent can access GitHub, AWS, and production deployments. Knowing they exist is easy. The harder questions are: Which customers can the support agent refund? What requires human approval? Can the coding agent deploy directly? Can security revoke one tool across every agent? Can the company prove why an action was allowed? My hypothesis is that teams will eventually need one place to inventory agents, map their authority, and control consequential actions. But I’m not convinced this is a standalone company. It might already be handled by IAM, gateways, application code, or internal tooling. If you run agents in production, where do these controls actually live today? I’m interviewing 25 teams and will share the anonymized patterns afterward. submitted by /u/danielbaker06072001 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v6kxls/agent_memory_kept_failing_for_me_until_i_treated/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v7g3c4/an_agent_inventory_doesnt_tell_you_what_those/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-25_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-26_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-25T23:57:23.473Z",
+    "publishedAt": "2026-07-26T23:57:12.977Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-25T23:57:24.283Z",
+    "publishedAt": "2026-07-26T23:57:13.697Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-25T23:57:23.621Z",
+    "publishedAt": "2026-07-26T23:57:13.150Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-25_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-26_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-25T23:57:23.454Z",
+    "publishedAt": "2026-07-26T23:57:12.770Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-25_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-26_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-25T23:57:23.449Z",
+    "publishedAt": "2026-07-26T23:57:12.781Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-25T23:57:24.089Z",
+    "publishedAt": "2026-07-26T23:57:13.455Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-25T23:57:23.691Z",
+    "publishedAt": "2026-07-26T23:57:12.990Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-25T23:57:24.853Z",
+    "publishedAt": "2026-07-26T23:57:14.087Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-25_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-26_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-25T23:57:23.617Z",
+    "publishedAt": "2026-07-26T23:57:12.823Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-25T23:57:24.252Z",
+    "publishedAt": "2026-07-26T23:57:13.442Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-25T23:57:23.648Z",
+    "publishedAt": "2026-07-26T23:57:12.962Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-25_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-26_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-25T23:57:24.189Z",
+    "publishedAt": "2026-07-26T23:57:13.007Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "Replit — Replit Blog – Product updates from the team",
-    "publishedAt": "2026-07-25T23:57:24.274Z",
+    "publishedAt": "2026-07-26T23:57:13.755Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-25T23:57:23.879Z",
+    "publishedAt": "2026-07-26T23:57:13.081Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-25_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-26_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-25T23:57:23.771Z",
+    "publishedAt": "2026-07-26T23:57:13.020Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-25T23:57:25.423Z",
+    "publishedAt": "2026-07-26T23:57:14.531Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-25_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-26_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-25T23:57:23.855Z",
+    "publishedAt": "2026-07-26T23:57:13.102Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-25T23:57:23.988Z",
+    "publishedAt": "2026-07-26T23:57:13.152Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 8 days ago • 96 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 8 days ago • 79 Introducing Cosmos 3 Edge nvidia • 5 days ago • 34 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • 7 days ago • 21 NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 9 days ago • 56 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 5 days ago • 14 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 2 days ago • 12 POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU FINAL-Bench • 3 days ago • 10 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 380 The influx of specialist models on the Open SLM Leaderboard Banaxi-Tech • 2 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 881 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 9 days ago • 17 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 238 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 12 days ago • 34 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 366 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 132 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 17 Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • Jun 24 • 49 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • Jun 9 • 83 We Just Surgically Changed What Your Model Believes ApolloRaines • 5 days ago • 3 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 43 July 23, 2026 The State of Simulation for Physical AI: An Overview 63 July 21, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 40 July 21, 2026 Newer Models, Same Advantage 40 July 16, 2026 security Hot Security incident disclosure — July 2026 649 July 16, 2026 What building Shippy taught us about building agents 14 July 15, 2026 Model Routing Is Simple.",
-      "57 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines 121 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 19 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 38 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 58 July 8, 2026 From Hugging Face to Amazon SageMaker Studio in one click 16 July 7, 2026 Hugging Face Models on Foundry Managed Compute 15 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 26 July 7, 2026 Previous 1 2 3 ...",
-      "60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 9 days ago • 105 Introducing Cosmos 3 Edge nvidia • 6 days ago • 35 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 9 days ago • 79 Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model — and a Controlled Experiment in Heterogeneous Attention FINAL-Bench • 8 days ago • 21 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 6 days ago • 14 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 3 days ago • 13 NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval nvidia • 10 days ago • 57 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 383 POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU FINAL-Bench • 4 days ago • 11 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 882 The influx of specialist models on the Open SLM Leaderboard Banaxi-Tech • 3 days ago • 7 One Adapter, Both Modalities: Field Notes from Building and Serving a Multimodal Reranker lightonai • 10 days ago • 17 Introduction to State Space Models (SSM) lbourdois • Jul 19, 2024 • 238 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 133 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 13 days ago • 35 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 366 Tokenization is Killing our Multilingual LLM Dream omarkamali • Mar 15 • 17 Introducing North Mini Code: Cohere’s First Model For Developers CohereLabs • Jun 9 • 83 We Just Surgically Changed What Your Model Believes ApolloRaines • 6 days ago • 3 What is test-time compute and how to scale it?",
+      "Kseniase • Feb 6, 2025 • 125 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 50 July 23, 2026 The State of Simulation for Physical AI: An Overview 64 July 21, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 42 July 21, 2026 Newer Models, Same Advantage 43 July 16, 2026 security Hot Security incident disclosure — July 2026 664 July 16, 2026 What building Shippy taught us about building agents 14 July 15, 2026 Model Routing Is Simple.",
+      "57 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines 122 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 19 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 39 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 59 July 8, 2026 From Hugging Face to Amazon SageMaker Studio in one click 17 July 7, 2026 Hugging Face Models on Foundry Managed Compute 15 July 7, 2026 guide partnerships open-source-collab Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot +1 26 July 7, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -763,6 +763,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_c9e3b38c7950ba9f",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+    "publishedAt": "2026-07-26T19:30:54.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "An Inside Look at the Relay Market Powering Token Resellers and Fraud Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
+      "Try Cursor & get 50% off your first month 26th July 2026 - Link Blog An Inside Look at the Relay Market Powering Token Resellers and Fraud ( via ) Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources.",
+      "This looks to be mostly a thing in China.",
+      "Resellers sell access to an LLM proxy that offers significant discounts on regular API pricing, which they achieve by abusing free trials, proxying through unprotected support bots, or sometimes through stolen credit cards or chargeback attacks."
+    ],
+    "claims": [
+      {
+        "text": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources. This looks to be mostly a thing in China. Resellers sell access to an LLM proxy that offers significant discounts on regular API pricing, which they achieve by abusing free trials, proxying through unprotected support bots, or sometimes through stolen credit cards or chargeback attacks. The software they are using for these proxies is open source - mostly one-api and its more actively developed fork new-api , both legitimate API proxy products which can be used to load. balance requests across a pool of API credentials. The buyers are seeking cheap tokens, avoiding geo-restrictions, and in some cases collecting data for model distillation. I've been cautious about exposing my own LLM-driven applications publicly out of fear of abuse leading to big token bills. The existence of this marketplace makes me even more cautious: there's now an entire ecosystem that can profit from finding a new unprotected endpoint to exploit. LLM vendors really need to get better at offering strict caps for their API keys. I want my LLM apps to stop working the moment they hit a dollar threshold I've set for a period of time. Here's the (Chinese language) forum thread that served as the principal source for Matt's article. Via Hacker News Tags: ai , generative-ai , llms , llm-pricing , ai-ethics , ai-in-china",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_8c1e8b9815cb94e3",
@@ -885,42 +915,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_3cf1d9fbd7b67345",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
-    "title": "Quoting Seth Larson",
-    "publishedAt": "2026-07-23T04:50:36.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Seth Larson Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
-      "Try Cursor & get 50% off your first month 23rd July 2026 The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days.",
-      "This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised.",
-      "As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible."
-    ],
-    "claims": [
-      {
-        "text": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible. &mdash; Seth Larson , PyPI blog Tags: packaging , python , supply-chain , pypi , seth-michael-larson",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-25T23:57:23.894Z",
+    "publishedAt": "2026-07-26T23:57:13.289Z",
     "categoryHints": [
       "ai-agentic"
     ],
