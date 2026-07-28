@@ -320,79 +320,79 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-26_vi",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-27_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Hugging Face Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agentic",
-      "World-Models",
       "AI-Video",
-      "Agent-Ops",
-      "Model-Routing"
+      "AI-Agents",
+      "RunwayAI",
+      "WorldModels",
+      "Agentic-Workflow"
     ],
-    "publishedAt": "2026-07-26T23:57:48.843Z",
+    "publishedAt": "2026-07-28T00:01:04.098Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-07-26"
+    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-07-28"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-26_en",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-27_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Hugging Face Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "World Models",
-      "AI Agents",
-      "Production AI",
-      "Multimodal AI",
-      "Agent Governance"
+      "AI-Agents",
+      "World-Models",
+      "Runway-AI",
+      "Agentic-Security",
+      "Product-Market-Fit"
     ],
-    "publishedAt": "2026-07-26T23:58:43.681Z",
+    "publishedAt": "2026-07-28T00:02:35.557Z",
     "readingTime": 3,
-    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-07-26"
+    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-07-28"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-26_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-27_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-vibe-coding",
-      "claude-opus-5",
+      "vibe-coding",
       "ai-agents",
-      "cybersecurity",
-      "python-ruff"
+      "open-weight-models",
+      "api-security",
+      "anthropic"
     ],
-    "publishedAt": "2026-07-26T23:57:34.365Z",
+    "publishedAt": "2026-07-28T00:00:04.272Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-07-26"
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-07-28"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-26_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-27_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
+      "agentic-ai",
       "vibe-coding",
-      "anthropic",
-      "cybersecurity",
-      "developer-tools"
+      "llm-security",
+      "open-weights",
+      "ai-engineering"
     ],
-    "publishedAt": "2026-07-26T23:58:57.936Z",
+    "publishedAt": "2026-07-28T00:01:57.170Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-07-26"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-07-28"
   },
   {
-    "id": "cluster_ai-image_1_blog-replicate_2026-07-26_vi",
+    "id": "cluster_ai-image_1_blog-replicate_2026-07-27_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
@@ -402,15 +402,15 @@
       "FLUX 3",
       "Multimodal AI",
       "Visual Intelligence",
-      "AI-Video",
-      "Open Weights"
+      "AI Video",
+      "Generative AI"
     ],
-    "publishedAt": "2026-07-26T23:58:05.753Z",
+    "publishedAt": "2026-07-28T00:00:34.223Z",
     "readingTime": 4,
-    "url": "/vi/ai-image/blog-replicate-goc-nhin-cho-creator-va-builder-2026-07-26"
+    "url": "/vi/ai-image/blog-replicate-goc-nhin-cho-creator-va-builder-2026-07-28"
   },
   {
-    "id": "cluster_ai-image_1_blog-replicate_2026-07-26_en",
+    "id": "cluster_ai-image_1_blog-replicate_2026-07-27_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
@@ -418,122 +418,122 @@
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "multimodal-ai",
-      "flux-3",
+      "FLUX-3",
+      "generative-video",
       "visual-intelligence",
-      "ai-video",
-      "open-weights"
+      "on-device-ai"
     ],
-    "publishedAt": "2026-07-26T23:59:23.292Z",
+    "publishedAt": "2026-07-28T00:02:11.255Z",
     "readingTime": 4,
-    "url": "/en/ai-image/blog-replicate-creator-and-builder-analysis-2026-07-26"
+    "url": "/en/ai-image/blog-replicate-creator-and-builder-analysis-2026-07-28"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_the-first-known-runaway-ai-agent-or-a-very-bad-marketing-stunt_2026-07-26_vi",
+    "id": "cluster_ai-vibe-coding_2_ruff-v0-16-0_2026-07-27_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "The first known runaway AI agent - or a very bad marketing stunt?: góc nhìn cho creator và builder",
+    "title": "Ruff v0.16.0: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "python",
+      "ruff",
       "ai-agents",
-      "cybersecurity",
-      "openai",
       "vibe-coding",
-      "sandbox-escape"
+      "static-analysis"
     ],
-    "publishedAt": "2026-07-26T23:57:53.419Z",
+    "publishedAt": "2026-07-28T00:01:02.390Z",
     "readingTime": 5,
-    "url": "/vi/ai-vibe-coding/the-first-known-runaway-ai-agent-or-a-very-bad-marketing-s-2026-07-26"
+    "url": "/vi/ai-vibe-coding/ruff-v0-16-0-goc-nhin-cho-creator-va-builder-2026-07-28"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_the-first-known-runaway-ai-agent-or-a-very-bad-marketing-stunt_2026-07-26_en",
+    "id": "cluster_ai-vibe-coding_2_ruff-v0-16-0_2026-07-27_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "The first known runaway AI agent - or a very bad marketing stunt?: creator and builder analysis",
+    "title": "Ruff v0.16.0: creator and builder analysis",
     "subtitle": "Signal synthesized from Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-security",
-      "agentic-ai",
-      "openai",
-      "hugging-face",
-      "vibe-coding"
+      "python",
+      "ruff",
+      "ai-agents",
+      "vibe-coding",
+      "static-analysis",
+      "astral"
     ],
-    "publishedAt": "2026-07-26T23:59:03.172Z",
+    "publishedAt": "2026-07-28T00:02:26.511Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/the-first-known-runaway-ai-agent-or-a-very-bad-marketing-s-2026-07-26"
+    "url": "/en/ai-vibe-coding/ruff-v0-16-0-creator-and-builder-analysis-2026-07-28"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-07-26_vi",
+    "id": "cluster_ai-video_1_news-luma_2026-07-27_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "News | Luma: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, Luma Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-video",
-      "luma-ai",
-      "kling-ai",
-      "creative-workflow",
-      "generative-video"
+      "AI-Video",
+      "Luma-AI",
+      "Kling-AI",
+      "Creative-Workflow",
+      "Generative-AI"
     ],
-    "publishedAt": "2026-07-26T23:58:28.548Z",
-    "readingTime": 4,
-    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-07-26"
+    "publishedAt": "2026-07-28T00:01:49.723Z",
+    "readingTime": 5,
+    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-07-28"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-07-26_en",
+    "id": "cluster_ai-video_1_news-luma_2026-07-27_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "News | Luma: creator and builder analysis",
     "subtitle": "Signal synthesized from Pika Labs Blog, Luma Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "LumaAI",
-      "KlingAI",
-      "GenerativeAI",
-      "CreativeWorkflows",
-      "VFX"
+      "AI Video",
+      "Luma AI",
+      "Kling AI",
+      "Generative Video",
+      "Creative Workflows"
     ],
-    "publishedAt": "2026-07-27T00:00:02.344Z",
+    "publishedAt": "2026-07-28T00:02:55.276Z",
     "readingTime": 4,
-    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-07-27"
+    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-07-28"
   },
   {
-    "id": "cluster_ai-agentic_2_how-are-you-handling-meeting-memory-for-your-agents_2026-07-26_vi",
+    "id": "cluster_ai-agentic_2_kimi-k3-is-the-largest-open-weight-model-ever-released-you-still_2026-07-27_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "How are you handling meeting memory for your agents?: góc nhìn cho creator và builder",
+    "title": "Kimi K3 is the largest open-weight model ever released. You still can't run it.: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agents",
-      "context-management",
-      "mcp",
-      "llm-ops",
-      "meeting-automation"
+      "KimiK3",
+      "OpenWeight",
+      "AgenticAI",
+      "LLM",
+      "MoonshotAI"
     ],
-    "publishedAt": "2026-07-26T23:58:17.195Z",
-    "readingTime": 5,
-    "url": "/vi/ai-agentic/how-are-you-handling-meeting-memory-for-your-agents-goc-nh-2026-07-26"
+    "publishedAt": "2026-07-28T00:01:38.762Z",
+    "readingTime": 4,
+    "url": "/vi/ai-agentic/kimi-k3-is-the-largest-open-weight-model-ever-released-you-2026-07-28"
   },
   {
-    "id": "cluster_ai-agentic_2_how-are-you-handling-meeting-memory-for-your-agents_2026-07-26_en",
+    "id": "cluster_ai-agentic_2_kimi-k3-is-the-largest-open-weight-model-ever-released-you-still_2026-07-27_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "How are you handling meeting memory for your agents?: creator and builder analysis",
+    "title": "Kimi K3 is the largest open-weight model ever released. You still can't run it.: creator and builder analysis",
     "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
     "tags": [
+      "Kimi K3",
+      "Open Weights",
       "AI Agents",
-      "Context Management",
-      "MCP",
-      "Agentic Workflows",
-      "Meeting Memory"
+      "Compute Infrastructure",
+      "LLM Scaling"
     ],
-    "publishedAt": "2026-07-26T23:59:21.526Z",
-    "readingTime": 4,
-    "url": "/en/ai-agentic/how-are-you-handling-meeting-memory-for-your-agents-creato-2026-07-26"
+    "publishedAt": "2026-07-28T00:02:47.354Z",
+    "readingTime": 3,
+    "url": "/en/ai-agentic/kimi-k3-is-the-largest-open-weight-model-ever-released-you-2026-07-28"
   }
 ]
