@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-07-30T23:58:40.255Z",
+    "publishedAt": "2026-07-31T12:49:27.554Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-07-30T23:58:39.245Z",
+    "publishedAt": "2026-07-31T12:49:26.531Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-07-30_fallback",
+    "sourceId": "src_openai-blog_2026-07-31_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-07-30T23:58:39.130Z",
+    "publishedAt": "2026-07-31T12:49:26.411Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-07-30_fallback",
+    "sourceId": "src_mcp-blog_2026-07-31_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-07-30T23:58:39.395Z",
+    "publishedAt": "2026-07-31T12:49:28.342Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_b3ed078db02b6d80",
+    "sourceId": "src_reddit-aiagents_fd85ee45969a9c73",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vaqsig/the_ai_industry_has_more_frameworks_than_problems/",
-    "title": "The AI industry has more frameworks than problems.",
-    "publishedAt": "2026-07-30T11:20:26.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vbhntm/anthropic_admits_claude_broke_out_of_sandbox/",
+    "title": "Anthropic admits Claude broke out of sandbox, attacked three organizations",
+    "publishedAt": "2026-07-31T05:28:13.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Last month a client asked me for one of the simplest builds I have taken on in years.",
-      "Checking his pending invoices every morning and send a polite WhatsApp reminder to whoever owes him money.",
-      "Before writing anything I did what every developer does now and went looking for the current best way to do it and 4 hours later I had 11 tabs open comparing agent frameworks, orchestration layers, memory modules and eval pipelines.",
-      "Not one reminder had gone out and I hadn’t written a line."
+      "A lot of attention has been paid to the OpenAI Hugging Face attack.",
+      "Now Anthropic's admitting that Claude has escaped its sandbox too.",
+      "According to the Register: The company considered 141,006 evaluation runs during which Claude could have obtained internet access and found “three incidents in which a model accessed the internet from within or while interacting with the evaluation environment of Irregular, one of our third-party evaluation partners, and then gained unauthorized access to the production infrastructure of three different organizations.",
+      "Anthropic’s code made those intrusions while participating in capture-the-flag challenges, tests that challenge attackers to retrieve a piece of information."
     ],
     "claims": [
       {
-        "text": "Last month a client asked me for one of the simplest builds I have taken on in years. Checking his pending invoices every morning and send a polite WhatsApp reminder to whoever owes him money. Thats it, thats the whole job. Before writing anything I did what every developer does now and went looking for the current best way to do it and 4 hours later I had 11 tabs open comparing agent frameworks, orchestration layers, memory modules and eval pipelines. Not one reminder had gone out and I hadn’t written a line. For context, I have been building products for 8 years, mostly automation for small businesses these days(Distributors, clinics, a couple of trading setups). So I sit between the people making these tools and the people supposed to be using them and lately the two sides are not even describing the same job. My first reaction was the familiar panic that the industry had lapped me while I was busy shipping. Serious people were out there composing agent graphs and I was about to write something very basic. I sat with that for a while then closed all 11 tabs and built it with a cron job, one API call and maybe 150 lines of plain code. Its run every morning since and the client thinks I’m a genius but it was a days work or maybe less. The question I have been stuck on ever since is who exactly all these frameworks are for. I have gone looking for the businesses whose problems demand them and I keep coming up empty. What I do find?: careers built on them, conference talks, courses and thousands of builders feeling behind for not using them. An economy where the framework is the product and the audience is other framework people. Meanwhile the tile shop that just wants its invoices chased every morning shows up nowhere in the story. and I get it tbh, I have done this exact thing... Back in 2023 I took a chat assistant I had built and blew 3 weekends wrapping it into a \"reusable system\" with config files nobody would ever touch. It’s still on my github somewhere and no one had asked for any of it but it made ME feel like I was doing important work instead of small work and I’m pretty sure thats the real engine here... small problems don’t feel prestigious so we invent bigger ones to stand next to. So now my test is quite simple. Can I explain what this tool removes from one specific persons Tuesday? If I can’t then its an audition for other builders and not a product. The industry has plenty of auditions already. I would trade most of this years framework launches for 10k boring little builds that run every morning with no one watching. submitted by /u/Warm-Reaction-456 [link] [comments]",
+        "text": "A lot of attention has been paid to the OpenAI Hugging Face attack. Now Anthropic's admitting that Claude has escaped its sandbox too. According to the Register: The company considered 141,006 evaluation runs during which Claude could have obtained internet access and found “three incidents in which a model accessed the internet from within or while interacting with the evaluation environment of Irregular, one of our third-party evaluation partners, and then gained unauthorized access to the production infrastructure of three different organizations. Anthropic’s code made those intrusions while participating in capture-the-flag challenges, tests that challenge attackers to retrieve a piece of information. Human hackers often participate in capture-the-flag tests, so figuring out how AI tackles such tasks is of interest. Anthropic works with a company called Irregular to conduct tests of this sort. The reason this is happening is that LLMs are trained to be very task and goal-oriented. They will use every means at their disposal to accomplish a task, and that includes escaping their environments, if given no guardrails. Just a few months ago, Emergence AI found that AI agents in a shared virtual world quickly turned to digital arson and crime, with one agent committing suicide. It's the Wild West right now. submitted by /u/SpiritRealistic8174 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vaqsig/the_ai_industry_has_more_frameworks_than_problems/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vbhntm/anthropic_admits_claude_broke_out_of_sandbox/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_dcb62bc299192a71",
+    "sourceId": "src_reddit-aiagents_c3411f9807f0a347",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vb5ytp/at_what_point_does_a_multiagent_workflow_become/",
-    "title": "At what point does a multi-agent workflow become middle management?",
-    "publishedAt": "2026-07-30T20:54:23.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vboeip/whats_one_ai_agent_that_actually_saved_your_team/",
+    "title": "What's one AI agent that actually saved your team hours every week?",
+    "publishedAt": "2026-07-31T11:34:17.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’ve been running multiple coding agents in parallel, and lately I’m wondering whether they’re saving me work or just changing my job title.",
-      "CooperBench found that two coding agents performed roughly 50% worse than one agent handling the same workload.",
-      "Google tested 180 agent configurations and found huge gains on parallel tasks, but 39% to 70% worse performance on sequential ones.",
-      "Meanwhile, another study got strong improvements using a central coordinator, isolated git worktrees, dependency-aware tasks, and strict merge verification."
+      "There are hundreds of AI agent demos online, but I'm more interested in agents that people actually rely on every week.",
+      "What has delivered the biggest time savings for your team?",
+      "Some examples: Customer support Lead qualification Meeting preparation Internal documentation Research Scheduling Quality assurance Invoice processing I'm less interested in flashy demos and more interested in workflows that became part of everyday operations.",
+      "submitted by /u/omnidimension85 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I’ve been running multiple coding agents in parallel, and lately I’m wondering whether they’re saving me work or just changing my job title. The research is surprisingly mixed. CooperBench found that two coding agents performed roughly 50% worse than one agent handling the same workload. Google tested 180 agent configurations and found huge gains on parallel tasks, but 39% to 70% worse performance on sequential ones. Meanwhile, another study got strong improvements using a central coordinator, isolated git worktrees, dependency-aware tasks, and strict merge verification. So “more agents” clearly isn’t the advantage. Good decomposition is. If the tasks are independent, parallel agents can save real time. If they share context or touch the same code, I end up writing scopes, checking plans, reviewing handoffs, resolving conflicts, and verifying that everyone solved the same problem. At that point, am I using a development team, or have I simply become middle management for randomly assigned employees? For people running both approaches: what work became genuinely faster than giving one capable agent the entire task? submitted by /u/Maxulis [link] [comments]",
+        "text": "There are hundreds of AI agent demos online, but I'm more interested in agents that people actually rely on every week. What has delivered the biggest time savings for your team? Some examples: Customer support Lead qualification Meeting preparation Internal documentation Research Scheduling Quality assurance Invoice processing I'm less interested in flashy demos and more interested in workflows that became part of everyday operations. What's worked surprisingly well? submitted by /u/omnidimension85 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vb5ytp/at_what_point_does_a_multiagent_workflow_become/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vboeip/whats_one_ai_agent_that_actually_saved_your_team/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-07-30_fallback",
+    "sourceId": "src_stability-ai-blog_2026-07-31_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-07-30T23:58:39.427Z",
+    "publishedAt": "2026-07-31T12:49:26.626Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-07-30T23:58:40.438Z",
+    "publishedAt": "2026-07-31T12:49:27.806Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-07-30T23:58:39.575Z",
+    "publishedAt": "2026-07-31T12:49:27.188Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-07-30_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-07-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-07-30T23:58:39.469Z",
+    "publishedAt": "2026-07-31T12:49:26.738Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-07-30_fallback",
+    "sourceId": "src_reddit-comfyui_2026-07-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-07-30T23:58:39.396Z",
+    "publishedAt": "2026-07-31T12:49:26.746Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-07-30T23:58:40.215Z",
+    "publishedAt": "2026-07-31T12:49:27.443Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-07-30T23:58:39.492Z",
+    "publishedAt": "2026-07-31T12:49:27.109Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-07-30T23:58:40.830Z",
+    "publishedAt": "2026-07-31T12:49:28.373Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-07-30_fallback",
+    "sourceId": "src_reddit-aivideo_2026-07-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-07-30T23:58:39.457Z",
+    "publishedAt": "2026-07-31T12:49:27.112Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-07-30T23:58:40.236Z",
+    "publishedAt": "2026-07-31T12:49:27.487Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-07-30T23:58:39.555Z",
+    "publishedAt": "2026-07-31T12:49:27.098Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-07-30_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-07-31_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-07-30T23:58:39.923Z",
+    "publishedAt": "2026-07-31T12:49:27.246Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-07-30T23:58:40.401Z",
+    "publishedAt": "2026-07-31T12:49:27.656Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-07-30T23:58:39.771Z",
+    "publishedAt": "2026-07-31T12:49:27.368Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-07-30_fallback",
+    "sourceId": "src_reddit-midjourney_2026-07-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-07-30T23:58:39.677Z",
+    "publishedAt": "2026-07-31T12:49:27.190Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,13 +683,16 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-07-30T23:58:41.388Z",
+    "publishedAt": "2026-07-31T12:49:30.315Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
-      "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity 全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 Virtual Influencers: How to Create One Jul 17, 2026 How to Write AI Prompts (That Actually Work) Jul 16, 2026 Anime Art Style Prompts for AI (With Examples) Jul 16, 2026 AI Prompt Examples for Images & Video Jul 16, 2026 Behind Vai Dar Portugal: How Kling AI Helped Bring Portugal's World Cup Film to Life Jul 13, 2026 Horror AI Video Prompts: Craft Suspense With Sound And Color Grading Jul 3, 2026 AI Anime Video Prompts: Create Epic 2D Scenes with Kling AI Jul 3, 2026 AI Motion Prompts for Kling AI: Describe Running, Jumping & Gestures Jul 3, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+      "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity 全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Jul 30, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model?",
+      "A Virtual Model Guide Jul 17, 2026 Virtual Influencers: How to Create One Jul 17, 2026 AI Influencer Marketing: A Practical Guide Jul 17, 2026 What Is an AI Influencer?",
+      "A Guide to Virtual Creators Jul 17, 2026 What Is AI Art?",
+      "A Beginner's Guide to Prompts & Styles Jul 17, 2026 What is AI Video and How Does It Work?"
     ],
     "claims": [
       {
@@ -705,12 +708,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-07-30_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-07-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-07-30T23:58:39.910Z",
+    "publishedAt": "2026-07-31T12:49:27.319Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -737,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-07-30T23:58:39.920Z",
+    "publishedAt": "2026-07-31T12:49:27.410Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -745,9 +748,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 13 days ago • 186 The State of Simulation for Physical AI: An Overview nvidia • 9 days ago • 68 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 7 days ago • 16 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • about 10 hours ago • 14 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 1 day ago • 10 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 7 days ago • 8 Introducing Cosmos 3 Edge nvidia • 10 days ago • 39 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 2 days ago • 7 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 385 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 10 days ago • 20 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 1 day ago • 6 FeyNoBg: A SOTA Model For Background Removal feyninc • 3 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 883 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • about 9 hours ago • 4 Efficient LLM Pretraining: Packed Sequences and Masked Attention sirluk • Oct 7, 2024 • 74 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 369 AI, Physical AI, World Models, VLA, VLM, and Other Terms We Should Stop Mixing Together barakor • May 17 • 5 What building Shippy taught us about building agents allenai • 15 days ago • 17 Kimi K3, previewed: inside the first open 3T-class model embedl • 11 days ago • 5 POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU FINAL-Bench • 8 days ago • 12 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 14 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 22 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 51 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 38 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 362 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 60 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 48 July 21, 2026 Newer Models, Same Advantage 48 July 16, 2026 security Hot Security incident disclosure — July 2026 727 July 16, 2026 Model Routing Is Simple.",
-      "68 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 142 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 22 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 40 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 64 July 8, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 14 days ago • 187 The State of Simulation for Physical AI: An Overview nvidia • 10 days ago • 68 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • about 23 hours ago • 20 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 2 days ago • 12 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 7 days ago • 8 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 3 days ago • 7 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 385 Introducing Cosmos 3 Edge nvidia • 11 days ago • 39 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 11 days ago • 20 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 2 days ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 884 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • about 22 hours ago • 5 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 8 days ago • 16 What building Shippy taught us about building agents allenai • 16 days ago • 19 FeyNoBg: A SOTA Model For Background Removal feyninc • 4 days ago • 5 Efficient LLM Pretraining: Packed Sequences and Masked Attention sirluk • Oct 7, 2024 • 74 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 369 AI, Physical AI, World Models, VLA, VLM, and Other Terms We Should Stop Mixing Together barakor • May 17 • 5 Kimi K3, previewed: inside the first open 3T-class model embedl • 12 days ago • 5 POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU FINAL-Bench • 8 days ago • 12 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 21 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 25 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 55 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 42 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 372 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 60 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 48 July 21, 2026 Newer Models, Same Advantage 49 July 16, 2026 security Hot Security incident disclosure — July 2026 727 July 16, 2026 Model Routing Is Simple.",
+      "70 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 142 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 22 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 40 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 64 July 8, 2026 Previous 1 2 3 ...",
       "60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -764,6 +767,36 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_simonwillison-blog_5e5a9b1d4e1a94c5",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "publishedAt": "2026-07-30T23:58:42.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Advancing the price-performance frontier with GPT‑5.6 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 30th July 2026 - Link Blog Advancing the price-performance frontier with GPT‑5.6 ( via ) Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop.",
+      "OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-token predictions.",
+      "Even when individual operations are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs idle."
+    ],
+    "claims": [
+      {
+        "text": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-token predictions. Even when individual operations are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs idle. To avoid this, GPT‑5.6 Sol found work that could be precomputed, avoided, or parallelized. With Codex, GPT‑5.6 Sol autonomously rewrote and optimized our production kernels, the core code that executes the mathematical operations that make up the model. This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠ and Gluon⁠ , two open-source GPU programming languages maintained by OpenAI. These efforts, combined with broader kernel advancements from GPT‑5.6 Sol, reduced end-to-end serving costs by 20%. That Luna price drop completely changes the landscape with respect to lower priced models. At $0.20/million tokens for input and $1.20/million for output Luna is now cheaper than Google's Gemini 3.1 Flash-Lite ($.025/$1.50). Anthropic's cheapest current model is Claude Haiku 4.5, and that's $1/$5 - Luna is now 1/5th of that for input, previously it cost the same. My agent.datasette.io demo site was running on Gemini 3.1 Flash-Lite. I've switched it over to Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , gemini , llm-pricing",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_simonwillison-blog_915b9c90a16ff53b",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
@@ -775,16 +808,46 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Investigating three real-world incidents in our cybersecurity evaluations Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
-      "Try Cursor & get 50% off your first month 30th July 2026 - Link Blog Investigating three real-world incidents in our cybersecurity evaluations ( via ) It happened again!",
+      "Investigating three real-world incidents in our cybersecurity evaluations Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 30th July 2026 - Link Blog Investigating three real-world incidents in our cybersecurity evaluations ( via ) It happened again!",
       "This is turning into something of a pattern.",
       "Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and get the solutions to the cyber benchmark it was executing."
     ],
     "claims": [
       {
-        "text": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and get the solutions to the cyber benchmark it was executing. This inspired Anthropic to double-check their own logs, and it turned out they had three similar (albeit less impressive) incidents that played out back in April! Of the 141,006 evaluation runs we reviewed, we identified three separate incidents (involving six total runs, four of which impacted the same organization; the other two incidents each happened in independent evaluation runs). [...] In all cases, Anthropic’s evaluation prompt specified to Claude that its environment was a simulation and that it had no internet access. Due to a misunderstanding between us and our evaluation partner, this was not the case, and internet access was available. Because of this, when Claude’s search led it to real systems on the open internet, it treated them as part of the exercise. [...] Operating under the false belief that all accessible entities were intended to be in-scope for the exercise, Claude compromised the impacted organizations’ infrastructure using basic techniques, such as exploiting weak passwords and unauthenticated endpoints. One of the companies was targeted because its name happened to match the fictional name in the eval. The most concerning of the three incidents involved Claude uploading a malware package to PyPI, after a comically convoluted sequence of steps to get an account: [...] in order to create a PyPI account, Claude needed an email address. And in order to create an email address, it needed a phone number. To get a phone number, after failing to find a free phone number service, it tried—and failed—to obtain funds to pay for a phone number through several different means. It finally backtracked, found a free, non-blocked email provider, used this to register a PyPI account, and then used this account to upload malware to PyPI. That package was then installed by a security company that \"routinely installs Python packages and scans them for malware\", and the executed code was able to exfiltrate credentials back to Claude! Thankfully that package was removed from PyPI by other automated scanners an hour after it was published, but it had still been downloaded and executed on \"15 real systems\" by that point. It's abundantly clear now that running evals of cyberattack potential in models is a spectacularly risk business. Every AI lab needs to pay attention to this. Keeping a close eye on what's happening in those sandboxes is crucial. Via Hacker News Tags: pypi , python , sandboxing , ai , generative-ai , llms , anthropic , ai-ethics , ai-security-research",
+        "text": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and get the solutions to the cyber benchmark it was executing. This inspired Anthropic to double-check their own logs, and it turned out they had three similar (albeit less impressive) incidents, the earliest of which played out in April! Of the 141,006 evaluation runs we reviewed, we identified three separate incidents (involving six total runs, four of which impacted the same organization; the other two incidents each happened in independent evaluation runs). [...] In all cases, Anthropic’s evaluation prompt specified to Claude that its environment was a simulation and that it had no internet access. Due to a misunderstanding between us and our evaluation partner, this was not the case, and internet access was available. Because of this, when Claude’s search led it to real systems on the open internet, it treated them as part of the exercise. [...] Operating under the false belief that all accessible entities were intended to be in-scope for the exercise, Claude compromised the impacted organizations’ infrastructure using basic techniques, such as exploiting weak passwords and unauthenticated endpoints. One of the companies was targeted because its name happened to match the fictional name in the eval. The most concerning of the three incidents involved Claude uploading a malware package to PyPI, after a comically convoluted sequence of steps to get an account: [...] in order to create a PyPI account, Claude needed an email address. And in order to create an email address, it needed a phone number. To get a phone number, after failing to find a free phone number service, it tried—and failed—to obtain funds to pay for a phone number through several different means. It finally backtracked, found a free, non-blocked email provider, used this to register a PyPI account, and then used this account to upload malware to PyPI. That package was then installed by a security company that \"routinely installs Python packages and scans them for malware\", and the executed code was able to exfiltrate credentials back to Claude! Thankfully that package was removed from PyPI by other automated scanners an hour after it was published, but it had still been downloaded and executed on \"15 real systems\" by that point. It's abundantly clear now that running evals of cyberattack potential in models is a spectacularly risky business. Every AI lab needs to pay attention to this. Keeping a close eye on what's happening in those sandboxes is crucial. Via Hacker News Tags: pypi , python , sandboxing , ai , generative-ai , llms , anthropic , ai-ethics , ai-security-research",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_0395130581c9c0b1",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+    "title": "llm 0.32rc2",
+    "publishedAt": "2026-07-30T22:52:06.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Release: llm 0.32rc2 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 30th July 2026 Release llm 0.32rc2 &mdash; Access large language models from the command-line Hot on the heels of RC1 , this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna .",
+      "Luna is a much better and more recent model, albeit slightly more expensive - $0.20 per million input tokens and $1.20 per million output tokens, compared to $0.15/$0.60 for 4o mini.",
+      "You can switch back to 4o mini using llm models default gpt-4o-mini , or switch to GPT-5 nano , an even cheaper default model ($0.05/$0.40), using llm models default gpt-5-nano ."
+    ],
+    "claims": [
+      {
+        "text": "Release: llm 0.32rc2 Hot on the heels of RC1 , this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna . It was previously GPT-4o mini . Luna is a much better and more recent model, albeit slightly more expensive - $0.20 per million input tokens and $1.20 per million output tokens, compared to $0.15/$0.60 for 4o mini. You can switch back to 4o mini using llm models default gpt-4o-mini , or switch to GPT-5 nano , an even cheaper default model ($0.05/$0.40), using llm models default gpt-5-nano . #1576 New llm openai endpoint command for running prompts, chats and model listings against arbitrary OpenAI-compatible endpoints without first configuring a model. These calls are not logged. #1565 The llm openai endpoint command is really cool. I got frustrated at the lack of an obvious CLI tool for trying out prompts against arbitrary OpenAI Chat Completions imitation endpoints, so I decided to add that to LLM itself. You don't even have to install LLM to use this. Here's a uvx one-liner for running a prompt - with tools - against an LM Studio local model: uvx --pre llm openai endpoint http://127.0.0.1:1234/v1 \\ T llm_version -T llm_time --td \\ -m google/gemma-4-31b 'what is the current LLM version? And the time?' Output here . Tags: llm , uv , lm-studio",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything"
       }
     ],
     "usableFor": [
@@ -805,8 +868,8 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "A quote from Bruce Schneier Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
-      "Try Cursor & get 50% off your first month 30th July 2026 The writing assignments I give my students are gym tasks, not work tasks.",
+      "A quote from Bruce Schneier Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 30th July 2026 The writing assignments I give my students are gym tasks, not work tasks.",
       "I ask them to write policy memos not because the world needs more policy memos.",
       "I assign them because the very act of writing, which includes thinking and outlining and drafting and editing, making and criticizing and revising arguments, will help develop the critical thinking skills they will need in their future careers."
     ],
@@ -824,87 +887,27 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_37f3ae192379f359",
+    "sourceId": "src_simonwillison-blog_7f791f88149b77f0",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-    "title": "Quoting D. Richard Hipp",
-    "publishedAt": "2026-07-29T21:15:21.000Z",
+    "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+    "title": "llm-chat-completions-server 0.1a0",
+    "publishedAt": "2026-07-30T15:43:16.000Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Richard Hipp Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
-      "Try Cursor & get 50% off your first month 29th July 2026 Years ago, we didn’t have SQL.",
-      "There were people whose job was to generate software that would query large data sets.",
-      "Then SQL comes along—I’m simplifying this only a little bit—and it gives you this convenient way so people could just specify."
+      "Release: llm-chat-completions-server 0.1a0 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 30th July 2026 Release llm-chat-completions-server 0.1a0 &mdash; LLM plugin to serve an OpenAI Chat Completions API endpoint A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous conversation, like this: curl http://localhost:8002/v1/chat/completions \\ -H 'Content-Type: application/json' \\ -d '{ \"model\": \"qwen3.5-4b\", \"messages\": [ {\"role\": \"user\", \"content\": \"Capital of France?\"}, {\"role\": \"assistant\", \"content\": \"Paris.\"}, {\"role\": \"user\", \"content\": \"Germany?\"} ] }' Here the conversation state is tracked by the client, so each of these requests gets longer and longer.",
+      "The new schema design in LLM is designed to de-duplicate these using hashes of the individual message parts.",
+      "To test that out, I built this plugin: uv tool install llm --pre llm install llm-chat-completions-server llm chat-completions-server -p 9001 Running this starts a localhost server on port 9001 that exposes your full collection of LLM models (from any plugins you have installed) using a ChatGPT Completions compatible endpoint."
     ],
     "claims": [
       {
-        "text": "Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer. Then SQL comes along—I’m simplifying this only a little bit—and it gives you this convenient way so people could just specify. With a very simple specification, you can generate all of that code that you had to pay the expensive COBOL programmer to do before. That didn’t mean programmers went away. It just meant the job changed a little bit. &mdash; D. Richard Hipp Tags: d-richard-hipp , sql , careers",
+        "text": "Release: llm-chat-completions-server 0.1a0 A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous conversation, like this: curl http://localhost:8002/v1/chat/completions \\ -H 'Content-Type: application/json' \\ -d '{ \"model\": \"qwen3.5-4b\", \"messages\": [ {\"role\": \"user\", \"content\": \"Capital of France?\"}, {\"role\": \"assistant\", \"content\": \"Paris.\"}, {\"role\": \"user\", \"content\": \"Germany?\"} ] }' Here the conversation state is tracked by the client, so each of these requests gets longer and longer. The new schema design in LLM is designed to de-duplicate these using hashes of the individual message parts. To test that out, I built this plugin: uv tool install llm --pre llm install llm-chat-completions-server llm chat-completions-server -p 9001 Running this starts a localhost server on port 9001 that exposes your full collection of LLM models (from any plugins you have installed) using a ChatGPT Completions compatible endpoint. GPT-5.6 Sol wrote the whole thing - it turns out it knows the OpenAI Chat Completions API shape really well. Tags: projects , openai , llm",
         "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_9469d70457196062",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
-    "title": "AI Worming through Word",
-    "publishedAt": "2026-07-29T18:43:03.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "AI Worming through Word Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
-      "Try Cursor & get 50% off your first month 29th July 2026 - Link Blog AI Worming through Word ( via ) Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places hidden instructions in a document that is later used as source material in Copilot for Word.",
-      "Copilot may interpret those instructions as part of the user’s request, causing it to manipulate the document being drafted or edited.",
-      "Copilot may then also copy the hidden instructions into the resulting document, turning that document into a new carrier."
-    ],
-    "claims": [
-      {
-        "text": "AI Worming through Word Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places hidden instructions in a document that is later used as source material in Copilot for Word. Copilot may interpret those instructions as part of the user’s request, causing it to manipulate the document being drafted or edited. Copilot may then also copy the hidden instructions into the resulting document, turning that document into a new carrier. If the carrier is subsequently used in another Copilot-assisted workflow, the instructions can trigger again and propagate into further documents, even without the attacker’s original document being present. We've seen plenty of hidden white-on-white text before - the kids are using it in their job applications now - but this is the first one I've seen that deliberately copies instructions to self-replicate itself. It was responsibly disclosed to Microsoft who then had 144 days to work on a fix, but so far (unsurprisingly) there's no mitigation that covers the full class of attack. Via Hacker News Tags: microsoft , security , ai , prompt-injection , generative-ai , llms",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_6b73dbd33ebc7fc0",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
-    "title": "Quoting Matthew Green",
-    "publishedAt": "2026-07-29T18:18:15.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Matthew Green Simon Willison’s Weblog Subscribe Sponsored by: Cursor &mdash; Delegate engineering tasks to Cursor Cloud Agents—even while your laptop is closed.",
-      "Try Cursor & get 50% off your first month 29th July 2026 Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems.",
-      "This is why there are so many standards like HAWK being considered.",
-      "If there was ever a perfect time for a massive new public cryptanalysis capability to come on line, we’re in it."
-    ],
-    "claims": [
-      {
-        "text": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there are so many standards like HAWK being considered. If there was ever a perfect time for a massive new public cryptanalysis capability to come on line, we’re in it. So unless AIs succeed in undermining all of our hard problems altogether (or we live in Impagliazzo’s Minicrypt ) then this could not be a better time for AI to get good at cryptanalysis. In the best case, the result is that we gain real confidence in the problems we’ve identified, and the cryptanalysis literature gets a lot more robust. Hopefully. &mdash; Matthew Green , on Anthropic's recent cryptography work Tags: anthropic , claude , generative-ai , cryptography , ai , llms , ai-security-research , claude-mythos-fable",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything"
+        "evidence": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything"
       }
     ],
     "usableFor": [
@@ -919,7 +922,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-07-30T23:58:39.902Z",
+    "publishedAt": "2026-07-31T12:49:27.323Z",
     "categoryHints": [
       "ai-agentic"
     ],
