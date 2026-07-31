@@ -328,14 +328,14 @@
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Agent",
-      "World-Models",
-      "Runway-AI",
-      "AI-Security",
-      "LangChain"
+      "RunwayAI",
+      "WorldModels",
+      "PromptInjection",
+      "SoftwareEngineering"
     ],
-    "publishedAt": "2026-07-30T12:21:30.288Z",
+    "publishedAt": "2026-07-31T00:00:21.483Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-07-30"
+    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-07-31"
   },
   {
     "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-30_en",
@@ -347,13 +347,13 @@
     "tags": [
       "AI Agents",
       "World Models",
-      "AI Security",
-      "Multimodal AI",
-      "Memory Governance"
+      "Runway AI",
+      "Prompt Injection",
+      "Enterprise Automation"
     ],
-    "publishedAt": "2026-07-30T12:24:02.751Z",
+    "publishedAt": "2026-07-31T00:02:19.020Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-07-30"
+    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-07-31"
   },
   {
     "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-30_vi",
@@ -361,15 +361,15 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-vibe-coding",
-      "anthropic",
-      "ai-agents",
-      "cryptography",
-      "software-engineering"
+      "AI-Agent",
+      "Cybersecurity",
+      "Anthropic",
+      "AI-Safety",
+      "Vibe-Coding"
     ],
-    "publishedAt": "2026-07-30T12:22:33.199Z",
+    "publishedAt": "2026-07-30T23:59:04.023Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-07-30"
   },
@@ -379,18 +379,17 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-vibe-coding",
+      "ai-security",
       "agentic-ai",
-      "cryptanalysis",
       "anthropic",
-      "replit",
-      "software-engineering"
+      "cybersecurity",
+      "llm-safety"
     ],
-    "publishedAt": "2026-07-30T12:24:22.082Z",
+    "publishedAt": "2026-07-31T00:01:32.732Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-07-30"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-07-31"
   },
   {
     "id": "cluster_ai-image_1_hugging-face-blog_2026-07-30_vi",
@@ -403,10 +402,10 @@
       "FLUX 3",
       "Multimodal AI",
       "World Models",
-      "Open Weights",
+      "Open Source",
       "Generative AI"
     ],
-    "publishedAt": "2026-07-30T12:22:13.342Z",
+    "publishedAt": "2026-07-30T23:59:30.003Z",
     "readingTime": 4,
     "url": "/vi/ai-image/hugging-face-blog-goc-nhin-cho-creator-va-builder-2026-07-30"
   },
@@ -419,50 +418,50 @@
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, ComfyUI Blog, Hugging Face Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "multimodal-ai",
-      "flux-3",
       "world-models",
       "open-weights",
-      "physical-ai"
+      "physical-ai",
+      "FLUX-3"
     ],
-    "publishedAt": "2026-07-30T12:24:53.412Z",
+    "publishedAt": "2026-07-31T00:01:52.110Z",
     "readingTime": 4,
-    "url": "/en/ai-image/hugging-face-blog-creator-and-builder-analysis-2026-07-30"
+    "url": "/en/ai-image/hugging-face-blog-creator-and-builder-analysis-2026-07-31"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_quoting-d-richard-hipp_2026-07-30_vi",
+    "id": "cluster_ai-vibe-coding_2_quoting-bruce-schneier_2026-07-30_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Quoting D. Richard Hipp: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Vercel AI Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Quoting Bruce Schneier: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Vercel AI Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
+      "ai-vibe-coding",
+      "critical-thinking",
+      "software-engineering",
       "ai-agents",
-      "cybersecurity",
-      "software-evolution",
-      "mcp"
+      "future-of-work"
     ],
-    "publishedAt": "2026-07-30T12:23:36.051Z",
+    "publishedAt": "2026-07-30T23:59:13.548Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/quoting-d-richard-hipp-goc-nhin-cho-creator-va-builder-2026-07-30"
+    "url": "/vi/ai-vibe-coding/quoting-bruce-schneier-goc-nhin-cho-creator-va-builder-2026-07-30"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_quoting-d-richard-hipp_2026-07-30_en",
+    "id": "cluster_ai-vibe-coding_2_quoting-bruce-schneier_2026-07-30_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Quoting D. Richard Hipp: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Vercel AI Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "title": "Quoting Bruce Schneier: creator and builder analysis",
+    "subtitle": "Signal synthesized from Vercel AI Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
+      "ai-vibe-coding",
+      "cognitive-atrophy",
+      "software-engineering",
       "ai-agents",
-      "vibe-coding",
-      "cybersecurity",
-      "mcp",
-      "software-engineering"
+      "critical-thinking"
     ],
-    "publishedAt": "2026-07-30T12:26:08.711Z",
+    "publishedAt": "2026-07-31T00:00:48.937Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/quoting-d-richard-hipp-creator-and-builder-analysis-2026-07-30"
+    "url": "/en/ai-vibe-coding/quoting-bruce-schneier-creator-and-builder-analysis-2026-07-31"
   },
   {
     "id": "cluster_ai-video_1_news-luma_2026-07-30_vi",
@@ -473,12 +472,12 @@
     "subtitle": "Tín hiệu được tổng hợp từ Pika Labs Blog, Luma Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "Luma-AI",
-      "Kling-AI",
-      "Creative-Workflow",
-      "Cinematic-AI"
+      "LumaAI",
+      "KlingAI",
+      "GenerativeVideo",
+      "CreativeWorkflow"
     ],
-    "publishedAt": "2026-07-30T12:22:50.026Z",
+    "publishedAt": "2026-07-30T23:59:49.310Z",
     "readingTime": 4,
     "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-07-30"
   },
@@ -494,46 +493,46 @@
       "LumaAI",
       "KlingAI",
       "CinematicAI",
-      "CreativeWorkflows"
+      "GenerativeVideo"
     ],
-    "publishedAt": "2026-07-30T12:24:38.033Z",
+    "publishedAt": "2026-07-31T00:01:57.705Z",
     "readingTime": 4,
-    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-07-30"
+    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-07-31"
   },
   {
-    "id": "cluster_ai-agentic_2_i-was-tired-of-doing-seo-manually-so-i-turned-claude-code-into-m_2026-07-30_vi",
+    "id": "cluster_ai-agentic_2_at-what-point-does-a-multi-agent-workflow-become-middle-manageme_2026-07-30_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "I was tired of doing SEO manually, so I turned Claude Code into my SEO manage...: góc nhìn cho creator và builder",
+    "title": "At what point does a multi-agent workflow become middle management?: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Agents",
-      "SEO-Automation",
-      "MCP",
-      "Claude-Code",
+      "Multi-Agent-Systems",
+      "Software-Architecture",
+      "AI-Productivity",
       "Agentic-Workflow"
     ],
-    "publishedAt": "2026-07-30T12:23:57.966Z",
+    "publishedAt": "2026-07-31T00:00:27.061Z",
     "readingTime": 5,
-    "url": "/vi/ai-agentic/i-was-tired-of-doing-seo-manually-so-i-turned-claude-code-i-2026-07-30"
+    "url": "/vi/ai-agentic/at-what-point-does-a-multi-agent-workflow-become-middle-mana-2026-07-31"
   },
   {
-    "id": "cluster_ai-agentic_2_i-was-tired-of-doing-seo-manually-so-i-turned-claude-code-into-m_2026-07-30_en",
+    "id": "cluster_ai-agentic_2_at-what-point-does-a-multi-agent-workflow-become-middle-manageme_2026-07-30_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "I was tired of doing SEO manually, so I turned Claude Code into my SEO manage...: creator and builder analysis",
+    "title": "At what point does a multi-agent workflow become middle management?: creator and builder analysis",
     "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Agents",
-      "SEO Automation",
-      "MCP",
-      "Claude Code",
-      "Growth Hacking"
+      "ai-agents",
+      "software-engineering",
+      "productivity-paradox",
+      "llm-orchestration",
+      "agentic-workflows"
     ],
-    "publishedAt": "2026-07-30T12:25:37.544Z",
+    "publishedAt": "2026-07-31T00:02:44.403Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/i-was-tired-of-doing-seo-manually-so-i-turned-claude-code-i-2026-07-30"
+    "url": "/en/ai-agentic/at-what-point-does-a-multi-agent-workflow-become-middle-mana-2026-07-31"
   }
 ]

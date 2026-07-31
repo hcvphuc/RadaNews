@@ -8,10 +8,11 @@
       "src_simonwillison-blog_9469d70457196062",
       "src_langchain-blog_40ded3f923e3291d",
       "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_feb3da799307edca"
+      "src_reddit-aiagents_22c70c72263172ce",
+      "src_reddit-aiagents_b3ed078db02b6d80"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -21,13 +22,12 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
+      "src_simonwillison-blog_915b9c90a16ff53b",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_6b73dbd33ebc7fc0",
-      "src_simonwillison-blog_af406b220bba97cc",
-      "src_replit-blog_bc171b5f9ed6c526"
+      "src_simonwillison-blog_6b73dbd33ebc7fc0"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -48,17 +48,17 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_quoting-d-richard-hipp_2026-07-30",
+    "clusterId": "cluster_ai-vibe-coding_2_quoting-bruce-schneier_2026-07-30",
     "category": "ai-vibe-coding",
-    "topic": "Quoting D. Richard Hipp",
+    "topic": "Quoting Bruce Schneier",
     "sourceIds": [
+      "src_simonwillison-blog_ca518ef7a5253e50",
+      "src_replit-blog_2c607cbee6384da3",
       "src_simonwillison-blog_37f3ae192379f359",
-      "src_simonwillison-blog_b139a79a7ff94c7b",
-      "src_reddit-aiagents_8c12501da9199c1c",
       "src_vercel-ai-blog_2026-07-30_fallback"
     ],
-    "articleWorthinessScore": 0.95,
-    "reasonSelected": "Score 0.95 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, Vercel AI Blog.",
+    "articleWorthinessScore": 0.99,
+    "reasonSelected": "Score 0.99 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Replit Blog, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -77,11 +77,11 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_i-was-tired-of-doing-seo-manually-so-i-turned-claude-code-into-m_2026-07-30",
+    "clusterId": "cluster_ai-agentic_2_at-what-point-does-a-multi-agent-workflow-become-middle-manageme_2026-07-30",
     "category": "ai-agentic",
-    "topic": "I was tired of doing SEO manually, so I turned Claude Code into my SEO manage...",
+    "topic": "At what point does a multi-agent workflow become middle management?",
     "sourceIds": [
-      "src_reddit-aiagents_7b4c246c76fbf174",
+      "src_reddit-aiagents_dcb62bc299192a71",
       "src_reddit-aiagents_d16fd8e6af3bf390",
       "src_reddit-aiagents_85b0625b33dfd7f6",
       "src_openai-blog_2026-07-30_fallback",
