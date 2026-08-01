@@ -1,16 +1,16 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-07-31",
+    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-01",
     "category": "ai-agentic",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
-      "src_simonwillison-blog_915b9c90a16ff53b",
-      "src_simonwillison-blog_0395130581c9c0b1",
-      "src_simonwillison-blog_7f791f88149b77f0",
+      "src_simonwillison-blog_0138daf91567fcc3",
+      "src_simonwillison-blog_ead468d3833a662a",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_ca518ef7a5253e50",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_simonwillison-blog_051c9d42bf6a7d45",
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_81efa16b9aab7f33"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
@@ -18,12 +18,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-07-31",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-01",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_5e5a9b1d4e1a94c5",
+      "src_simonwillison-blog_7ff48e3687cd6fc6",
       "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
@@ -32,7 +32,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_hugging-face-blog_2026-07-31",
+    "clusterId": "cluster_ai-image_1_hugging-face-blog_2026-08-01",
     "category": "ai-image",
     "topic": "Hugging Face – Blog",
     "sourceIds": [
@@ -48,7 +48,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_news-luma_2026-07-31",
+    "clusterId": "cluster_ai-video_1_news-luma_2026-08-01",
     "category": "ai-video",
     "topic": "News | Luma",
     "sourceIds": [
@@ -62,45 +62,45 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_trucking-s-gonna-be-fully-automated-in-like-2-3-years-i-m-not-ev_2026-07-31",
-    "category": "ai-agentic",
-    "topic": "Trucking's gonna be fully automated in like 2-3 years. I'm not even joking. W...",
-    "sourceIds": [
-      "src_reddit-aiagents_22c70c72263172ce",
-      "src_reddit-aiagents_fd85ee45969a9c73",
-      "src_reddit-aiagents_c3411f9807f0a347",
-      "src_reddit-aiagents_d16fd8e6af3bf390",
-      "src_reddit-aiagents_85b0625b33dfd7f6",
-      "src_openai-blog_2026-07-31_fallback",
-      "src_mcp-blog_2026-07-31_fallback"
-    ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-07-31",
+    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-01",
     "category": "ai-vibe-coding",
     "topic": "The Official Blog | Replit",
     "sourceIds": [
       "src_replit-blog_2c607cbee6384da3",
-      "src_vercel-ai-blog_2026-07-31_fallback"
+      "src_reddit-aiagents_1023a103092027ab",
+      "src_vercel-ai-blog_2026-08-01_fallback"
     ],
-    "articleWorthinessScore": 0.72,
-    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
+    "articleWorthinessScore": 0.81,
+    "reasonSelected": "Score 0.81 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-07-31",
+    "clusterId": "cluster_ai-agentic_2_llm-mcp-client-0-1a0_2026-08-01",
+    "category": "ai-agentic",
+    "topic": "llm-mcp-client 0.1a0",
+    "sourceIds": [
+      "src_simonwillison-blog_9ee4d421adcb71b8",
+      "src_reddit-aiagents_c4e33a4f7a66621d",
+      "src_reddit-aiagents_d16fd8e6af3bf390",
+      "src_reddit-aiagents_85b0625b33dfd7f6",
+      "src_openai-blog_2026-08-01_fallback",
+      "src_mcp-blog_2026-08-01_fallback"
+    ],
+    "articleWorthinessScore": 0.78,
+    "reasonSelected": "Score 0.78 from 6 source item(s), 4 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, OpenAI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-01",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-07-31_fallback",
-      "src_reddit-stablediffusion_2026-07-31_fallback",
-      "src_reddit-comfyui_2026-07-31_fallback",
-      "src_reddit-midjourney_2026-07-31_fallback"
+      "src_stability-ai-blog_2026-08-01_fallback",
+      "src_reddit-stablediffusion_2026-08-01_fallback",
+      "src_reddit-comfyui_2026-08-01_fallback",
+      "src_reddit-midjourney_2026-08-01_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -108,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-07-31",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-01",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-07-31_fallback",
-      "src_reddit-mediasynthesis_2026-07-31_fallback"
+      "src_reddit-aivideo_2026-08-01_fallback",
+      "src_reddit-mediasynthesis_2026-08-01_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
