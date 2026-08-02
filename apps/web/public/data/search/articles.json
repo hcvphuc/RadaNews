@@ -320,97 +320,98 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-01_vi",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-02_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agentic",
-      "runway-ai",
-      "mcp-protocol",
-      "loop-engineering",
-      "open-weight-llm"
+      "AI-Video",
+      "AI-Agents",
+      "World-Models",
+      "Agentic-SaaS",
+      "Runway-AI"
     ],
-    "publishedAt": "2026-08-01T11:53:28.842Z",
-    "readingTime": 3,
-    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-08-01"
+    "publishedAt": "2026-08-02T11:51:13.128Z",
+    "readingTime": 4,
+    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-08-02"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-01_en",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-02_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
-      "world-models",
-      "mcp",
-      "runway-ai",
-      "loop-engineering"
+      "AI-Agents",
+      "World-Models",
+      "Runway-AI",
+      "Vibe-Coding",
+      "Agentic-SaaS"
     ],
-    "publishedAt": "2026-08-01T11:54:29.822Z",
-    "readingTime": 3,
-    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-08-01"
+    "publishedAt": "2026-08-02T11:52:17.640Z",
+    "readingTime": 4,
+    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-08-02"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-01_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-02_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
-      "ai-evals",
       "anthropic",
-      "agentic-saas",
-      "software-engineering"
+      "openai",
+      "ai-agents",
+      "open-weights",
+      "big-mathematics",
+      "ai-safety"
     ],
-    "publishedAt": "2026-08-01T11:54:11.785Z",
+    "publishedAt": "2026-08-02T11:50:54.106Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-01"
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-02"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-01_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-02_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "vibe-coding",
-      "ai-evals",
-      "agentic-saas",
-      "anthropic",
-      "llm-ops"
+      "ai-agents",
+      "open-weights",
+      "ai-safety",
+      "automated-research",
+      "anthropic"
     ],
-    "publishedAt": "2026-08-01T11:55:17.120Z",
+    "publishedAt": "2026-08-02T11:51:51.894Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-08-01"
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-08-02"
   },
   {
-    "id": "cluster_ai-image_1_hugging-face-blog_2026-08-01_vi",
+    "id": "cluster_ai-image_1_hugging-face-blog_2026-08-02_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "Hugging Face – Blog: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, ComfyUI Blog, Hugging Face Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "FLUX3",
-      "MultimodalAI",
-      "WorldModels",
-      "OpenWeights",
-      "GenerativeAI"
+      "FLUX 3",
+      "Multimodal AI",
+      "World Models",
+      "Visual Intelligence",
+      "Open Source AI"
     ],
-    "publishedAt": "2026-08-01T11:53:50.784Z",
-    "readingTime": 5,
-    "url": "/vi/ai-image/hugging-face-blog-goc-nhin-cho-creator-va-builder-2026-08-01"
+    "publishedAt": "2026-08-02T11:51:47.348Z",
+    "readingTime": 4,
+    "url": "/vi/ai-image/hugging-face-blog-goc-nhin-cho-creator-va-builder-2026-08-02"
   },
   {
-    "id": "cluster_ai-image_1_hugging-face-blog_2026-08-01_en",
+    "id": "cluster_ai-image_1_hugging-face-blog_2026-08-02_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
@@ -420,15 +421,15 @@
       "FLUX 3",
       "Multimodal AI",
       "World Models",
-      "On-Device AI",
-      "Generative Video"
+      "Generative Video",
+      "Open Weights"
     ],
-    "publishedAt": "2026-08-01T11:55:06.818Z",
+    "publishedAt": "2026-08-02T11:52:56.059Z",
     "readingTime": 4,
-    "url": "/en/ai-image/hugging-face-blog-creator-and-builder-analysis-2026-08-01"
+    "url": "/en/ai-image/hugging-face-blog-creator-and-builder-analysis-2026-08-02"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-08-01_vi",
+    "id": "cluster_ai-video_1_news-luma_2026-08-02_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
@@ -438,15 +439,15 @@
       "ai-video",
       "luma-ai",
       "kling-ai",
-      "creative-workflow",
-      "generative-video"
+      "pika-labs",
+      "creative-workflow"
     ],
-    "publishedAt": "2026-08-01T11:53:28.689Z",
+    "publishedAt": "2026-08-02T11:51:14.552Z",
     "readingTime": 4,
-    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-01"
+    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-02"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-08-01_en",
+    "id": "cluster_ai-video_1_news-luma_2026-08-02_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
@@ -454,85 +455,85 @@
     "subtitle": "Signal synthesized from Pika Labs Blog, Luma Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
       "AI-Video",
+      "Cinematography",
       "LumaAI",
       "KlingAI",
-      "CreativeWorkflows",
-      "GenerativeAI"
+      "CreativeWorkflows"
     ],
-    "publishedAt": "2026-08-01T11:54:31.191Z",
-    "readingTime": 3,
-    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-08-01"
+    "publishedAt": "2026-08-02T11:52:33.325Z",
+    "readingTime": 4,
+    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-08-02"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-01_vi",
+    "id": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-08-02_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "The Official Blog | Replit: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Vercel AI Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "GitHub Copilot Archives - The GitHub Blog: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ GitHub Copilot Blog, Vercel AI Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "cybersecurity",
-      "replit",
-      "software-engineering"
+      "ai-vibe-coding",
+      "github-copilot",
+      "replit-agent",
+      "software-development",
+      "ai-agents"
     ],
-    "publishedAt": "2026-08-01T11:53:46.967Z",
+    "publishedAt": "2026-08-02T11:51:28.154Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/the-official-blog-replit-goc-nhin-cho-creator-va-builder-2026-08-01"
+    "url": "/vi/ai-vibe-coding/github-copilot-archives-the-github-blog-goc-nhin-cho-crea-2026-08-02"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-01_en",
+    "id": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-08-02_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "The Official Blog | Replit: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Vercel AI Blog, Replit Blog, scored by recency, content depth, and source reliability.",
+    "title": "GitHub Copilot Archives - The GitHub Blog: creator and builder analysis",
+    "subtitle": "Signal synthesized from GitHub Copilot Blog, Vercel AI Blog, Replit Blog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
       "ai-agents",
-      "cybersecurity",
-      "replit",
-      "dev-tools"
+      "github-copilot",
+      "replit-agent",
+      "software-architecture"
     ],
-    "publishedAt": "2026-08-01T11:54:52.885Z",
-    "readingTime": 3,
-    "url": "/en/ai-vibe-coding/the-official-blog-replit-creator-and-builder-analysis-2026-08-01"
+    "publishedAt": "2026-08-02T11:52:38.187Z",
+    "readingTime": 4,
+    "url": "/en/ai-vibe-coding/github-copilot-archives-the-github-blog-creator-and-build-2026-08-02"
   },
   {
-    "id": "cluster_ai-agentic_2_llm-mcp-client-0-1a0_2026-08-01_vi",
+    "id": "cluster_ai-agentic_2_i-think-people-seriously-underestimate-how-easy-it-is-to-automat_2026-08-02_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "llm-mcp-client 0.1a0: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "I think people seriously underestimate how easy it is to automate your PC wit...: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "MCP",
-      "AI-Agents",
-      "LLM",
-      "Agentic-SaaS",
-      "Developer-Tools"
+      "ai-agents",
+      "automation",
+      "vibe-coding",
+      "productivity",
+      "python"
     ],
-    "publishedAt": "2026-08-01T11:54:13.107Z",
+    "publishedAt": "2026-08-02T11:51:33.550Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/llm-mcp-client-0-1a0-goc-nhin-cho-creator-va-builder-2026-08-01"
+    "url": "/vi/ai-agentic/i-think-people-seriously-underestimate-how-easy-it-is-to-aut-2026-08-02"
   },
   {
-    "id": "cluster_ai-agentic_2_llm-mcp-client-0-1a0_2026-08-01_en",
+    "id": "cluster_ai-agentic_2_i-think-people-seriously-underestimate-how-easy-it-is-to-automat_2026-08-02_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "llm-mcp-client 0.1a0: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "title": "I think people seriously underestimate how easy it is to automate your PC wit...: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
     "tags": [
-      "MCP",
-      "AI-Agents",
-      "LLM-Infrastructure",
-      "Agentic-SaaS",
-      "Developer-Tools"
+      "ai-agents",
+      "automation",
+      "vibe-coding",
+      "mcp",
+      "productivity"
     ],
-    "publishedAt": "2026-08-01T11:55:27.321Z",
+    "publishedAt": "2026-08-02T11:53:42.258Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/llm-mcp-client-0-1a0-creator-and-builder-analysis-2026-08-01"
+    "url": "/en/ai-agentic/i-think-people-seriously-underestimate-how-easy-it-is-to-aut-2026-08-02"
   }
 ]

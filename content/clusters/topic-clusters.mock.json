@@ -1,38 +1,38 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-01",
+    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-02",
     "category": "ai-agentic",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
-      "src_simonwillison-blog_0138daf91567fcc3",
-      "src_simonwillison-blog_ead468d3833a662a",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_051c9d42bf6a7d45",
+      "src_simonwillison-blog_88f8f7f28987d03c",
+      "src_simonwillison-blog_cfbb6cb437624568",
+      "src_simonwillison-blog_f245b635b40e16fc",
       "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_81efa16b9aab7f33"
+      "src_reddit-aiagents_60fd3682e2edfccf"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, LangChain Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-01",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-02",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_7ff48e3687cd6fc6",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1"
+      "src_simonwillison-blog_49819dd5fdb9298c",
+      "src_simonwillison-blog_c3c227f26c4855b4"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_hugging-face-blog_2026-08-01",
+    "clusterId": "cluster_ai-image_1_hugging-face-blog_2026-08-02",
     "category": "ai-image",
     "topic": "Hugging Face – Blog",
     "sourceIds": [
@@ -48,7 +48,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_news-luma_2026-08-01",
+    "clusterId": "cluster_ai-video_1_news-luma_2026-08-02",
     "category": "ai-video",
     "topic": "News | Luma",
     "sourceIds": [
@@ -62,45 +62,45 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-01",
+    "clusterId": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-08-02",
     "category": "ai-vibe-coding",
-    "topic": "The Official Blog | Replit",
+    "topic": "GitHub Copilot Archives - The GitHub Blog",
     "sourceIds": [
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
       "src_replit-blog_2c607cbee6384da3",
-      "src_reddit-aiagents_1023a103092027ab",
-      "src_vercel-ai-blog_2026-08-01_fallback"
+      "src_vercel-ai-blog_2026-08-02_fallback"
     ],
-    "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
+    "articleWorthinessScore": 0.89,
+    "reasonSelected": "Score 0.89 from 3 source item(s), 2 live crawl(s), strongest sources: GitHub Copilot Blog, Replit Blog, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_llm-mcp-client-0-1a0_2026-08-01",
+    "clusterId": "cluster_ai-agentic_2_i-think-people-seriously-underestimate-how-easy-it-is-to-automat_2026-08-02",
     "category": "ai-agentic",
-    "topic": "llm-mcp-client 0.1a0",
+    "topic": "I think people seriously underestimate how easy it is to automate your PC wit...",
     "sourceIds": [
-      "src_simonwillison-blog_9ee4d421adcb71b8",
-      "src_reddit-aiagents_c4e33a4f7a66621d",
+      "src_reddit-aiagents_d0879bf52b8d4c0b",
+      "src_reddit-aiagents_3a0e399f1c2fd65f",
       "src_reddit-aiagents_d16fd8e6af3bf390",
       "src_reddit-aiagents_85b0625b33dfd7f6",
-      "src_openai-blog_2026-08-01_fallback",
-      "src_mcp-blog_2026-08-01_fallback"
+      "src_openai-blog_2026-08-02_fallback",
+      "src_mcp-blog_2026-08-02_fallback"
     ],
-    "articleWorthinessScore": 0.78,
-    "reasonSelected": "Score 0.78 from 6 source item(s), 4 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.77,
+    "reasonSelected": "Score 0.77 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-01",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-02",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-08-01_fallback",
-      "src_reddit-stablediffusion_2026-08-01_fallback",
-      "src_reddit-comfyui_2026-08-01_fallback",
-      "src_reddit-midjourney_2026-08-01_fallback"
+      "src_stability-ai-blog_2026-08-02_fallback",
+      "src_reddit-stablediffusion_2026-08-02_fallback",
+      "src_reddit-comfyui_2026-08-02_fallback",
+      "src_reddit-midjourney_2026-08-02_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -108,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-01",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-02",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-08-01_fallback",
-      "src_reddit-mediasynthesis_2026-08-01_fallback"
+      "src_reddit-aivideo_2026-08-02_fallback",
+      "src_reddit-mediasynthesis_2026-08-02_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
