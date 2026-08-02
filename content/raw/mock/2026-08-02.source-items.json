@@ -7,8 +7,8 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-08-02T11:50:32.243Z",
-    "crawledAt": "2026-08-02T11:50:32.243Z",
+    "publishedAt": "2026-08-02T23:55:19.233Z",
+    "crawledAt": "2026-08-02T23:55:19.233Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -25,8 +25,8 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-08-02T11:50:31.531Z",
-    "crawledAt": "2026-08-02T11:50:31.531Z",
+    "publishedAt": "2026-08-02T23:55:18.786Z",
+    "crawledAt": "2026-08-02T23:55:18.786Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:31.435Z",
-    "crawledAt": "2026-08-02T11:50:31.435Z",
+    "publishedAt": "2026-08-02T23:55:18.696Z",
+    "crawledAt": "2026-08-02T23:55:18.696Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:32.154Z",
-    "crawledAt": "2026-08-02T11:50:32.154Z",
+    "publishedAt": "2026-08-02T23:55:19.023Z",
+    "crawledAt": "2026-08-02T23:55:19.023Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-07-29T16:00:31.000Z",
-    "crawledAt": "2026-08-02T11:50:32.040Z",
+    "crawledAt": "2026-08-02T23:55:19.344Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -100,13 +100,47 @@
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-07-27T16:01:00.000Z",
-    "crawledAt": "2026-08-02T11:50:32.041Z",
+    "crawledAt": "2026-08-02T23:55:19.344Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
     "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_c240b9e106ccb8ac",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vdqu33/ai_agents_have_never_been_so_explainable_until/",
+    "title": "AI agents have never been so explainable until now, with GraphARC!",
+    "rawSummary": "🚀 We just built our first real-time implementation of Graph Engineering, inspired by our experience building graph tooling used by 4,000+ developers. Have you ever been frustrated because your AI agent: ❌ Takes actions you never intended? ❌ Creates, modifies, or even pushes changes you never asked for? ❌ Feels like a complete black box, making it impossible to understand what's happening until it's too late? What if, before execution, you could visualize the entire orchestration graph - every agent, every dependency, every decision, and inspect it from anywhere, even your phone, before granting approval? That's exactly what GraphArc is built for. Instead of treating agent execution as hidden traces buried in logs, GraphArc transforms workflows into interactive, real-time graphs that you can visualize, inspect, debug, and control. Because the future of AI isn't just autonomous. It's observable. Debuggable. Engineerable. This is our first real-world implementation of Graph Engineering , and we're excited to explore where this paradigm can go with the open-source community. 💡 We'd love your feedback, ideas, and contributions. ⭐ If this vision resonates with you, please consider starring the repository—it genuinely helps us grow and validates this direction. Let's make AI workflows understandable, not mysterious. #GraphEngineering #GraphArc #AIAgents #AgenticAI #LLM #OpenSource #DeveloperTools #AIEngineering #SoftwareEngineering submitted by /u/Desperate-Ad-9679 [link] [comments]",
+    "publishedAt": "2026-08-02T19:17:37.000Z",
+    "crawledAt": "2026-08-02T23:55:19.344Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "🚀 We just built our first real-time implementation of Graph Engineering, inspired by our experience building graph tooling used by 4,000+ developers. Have you ever been frustrated because your AI agent: ❌ Takes actions you never intended? ❌ Creates, modifies, or even pushes changes you never asked for? ❌ Feels like a complete black box, making it impossible to understand what's happening until it's too late? What if, before execution, you could visualize the entire orchestration graph - every agent, every dependency, every decision, and inspect it from anywhere, even your phone, before granting approval? That's exactly what GraphArc is built for. Instead of treating agent execution as hidden traces buried in logs, GraphArc transforms workflows into interactive, real-time graphs that you can visualize, inspect, debug, and control. Because the future of AI isn't just autonomous. It's observable. Debuggable. Engineerable. This is our first real-world implementation of Graph Engineering , and we're excited to explore where this paradigm can go with the open-source community. 💡 We'd love your feedback, ideas, and contributions. ⭐ If this vision resonates with you, please consider starring the repository—it genuinely helps us grow and validates this direction. Let's make AI workflows understandable, not mysterious. #GraphEngineering #GraphArc #AIAgents #AgenticAI #LLM #OpenSource #DeveloperTools #AIEngineering #SoftwareEngineering submitted by /u/Desperate-Ad-9679 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_d3e520c4807d9db5",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vdqg4l/i_think_every_startup_should_wake_up_to_this_file/",
+    "title": "I think every startup should wake up to this file every morning",
+    "rawSummary": "I really like the idea of every startup having a single markdown file called what_the_market_is_telling_us.md. Every morning, an AI agent updates it using everything the company already knows. Stripe shows who's paying, upgrading, or churning. Product analytics reveal what people actually do. Support tickets explain where they're getting stuck. Sales calls, CRM notes, bug reports, feature requests, and even outside market signals fill in the rest. The important part isn't creating another daily summary. It's finding what's different this week compared to last week. Maybe three customers who churned all mentioned onboarding. Maybe new customers suddenly started describing your product with different words. Maybe everyone who upgraded used the same feature right before paying. Those aren't random events. They're signals that tell you where to focus next. I think this is one of the best ways to get closer to product-market fit. The companies that win usually aren't the ones with the most data. They're the ones that notice changes in customer behavior early and actually act on them. submitted by /u/Meris-Dabhi [link] [comments]",
+    "publishedAt": "2026-08-02T19:02:45.000Z",
+    "crawledAt": "2026-08-02T23:55:19.345Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "I really like the idea of every startup having a single markdown file called what_the_market_is_telling_us.md. Every morning, an AI agent updates it using everything the company already knows. Stripe shows who's paying, upgrading, or churning. Product analytics reveal what people actually do. Support tickets explain where they're getting stuck. Sales calls, CRM notes, bug reports, feature requests, and even outside market signals fill in the rest. The important part isn't creating another daily summary. It's finding what's different this week compared to last week. Maybe three customers who churned all mentioned onboarding. Maybe new customers suddenly started describing your product with different words. Maybe everyone who upgraded used the same feature right before paying. Those aren't random events. They're signals that tell you where to focus next. I think this is one of the best ways to get closer to product-market fit. The companies that win usually aren't the ones with the most data. They're the ones that notice changes in customer behavior early and actually act on them. submitted by /u/Meris-Dabhi [link] [comments]"
   },
   {
     "id": "src_reddit-aiagents_d0879bf52b8d4c0b",
@@ -117,47 +151,13 @@
     "title": "I think people seriously underestimate how easy it is to automate your PC with AI now.",
     "rawSummary": "You can literally tell an AI: “Make me a Python app that does X every morning at 8, opens the browser, goes to these sites, checks this, saves the results here, and then sends me a notification.” And it can just build the thing for you. Browser control, scheduled tasks, file management, APIs, scraping, monitoring, reports, repetitive work, etc. You basically describe what you want your computer to do, when you want it done, and the rules it should follow. You don't even have to be a programmer anymore to make a bunch of custom little automations for yourself. Your PC can basically become a personal automation machine that you program by talking to it. submitted by /u/FaithlessnessFar6431 [link] [comments]",
     "publishedAt": "2026-08-01T18:57:29.000Z",
-    "crawledAt": "2026-08-02T11:50:32.041Z",
+    "crawledAt": "2026-08-02T23:55:19.345Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
     "extractedText": "You can literally tell an AI: “Make me a Python app that does X every morning at 8, opens the browser, goes to these sites, checks this, saves the results here, and then sends me a notification.” And it can just build the thing for you. Browser control, scheduled tasks, file management, APIs, scraping, monitoring, reports, repetitive work, etc. You basically describe what you want your computer to do, when you want it done, and the rules it should follow. You don't even have to be a programmer anymore to make a bunch of custom little automations for yourself. Your PC can basically become a personal automation machine that you program by talking to it. submitted by /u/FaithlessnessFar6431 [link] [comments]"
-  },
-  {
-    "id": "src_reddit-aiagents_3a0e399f1c2fd65f",
-    "sourceConfigId": "reddit-aiagents",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vd6fd2/how_i_get_25_deep_researched_ideas_with_one/",
-    "title": "How I get 25 deep researched ideas with one single prompt",
-    "rawSummary": "Make a three-layer workflow with 19 agents work together in parallel with one single prompt, then use that to research anything I want. The workflow and tool will be put in comments. If I don't specify any topic, it can prompt me some topics and wait for my response. submitted by /u/lochid_om [link] [comments]",
-    "publishedAt": "2026-08-02T02:56:48.000Z",
-    "crawledAt": "2026-08-02T11:50:32.041Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "score": 0.6,
-    "crawlStatus": "live",
-    "extractedText": "Make a three-layer workflow with 19 agents work together in parallel with one single prompt, then use that to research anything I want. The workflow and tool will be put in comments. If I don't specify any topic, it can prompt me some topics and wait for my response. submitted by /u/lochid_om [link] [comments]"
-  },
-  {
-    "id": "src_reddit-aiagents_60fd3682e2edfccf",
-    "sourceConfigId": "reddit-aiagents",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vd7eic/what_do_you_actually_use_to_build_the_more/",
-    "title": "What do you actually use to build the more advanced tools/automations that go beyond simple n8n workflows, and how do you deliver them to a client?",
-    "rawSummary": "For people who build things beyond simple n8n workflows: **1.** What are you actually building these in — what language/stack, and what do you use to write the code (an IDE, an AI coding tool, something else)? **2.** Once it’s built, how does it actually get delivered to a client? Does it run on their systems, a server you manage for them, something else entirely? **3.** How does a business owner with no technical background actually “receive” and use something like this, day to day? **4.** What did you personally have to learn to get to the point where you could build these? Just trying to understand the real skill ceiling here before I get in over my head. Appreciate any honest breakdowns. submitted by /u/Responsible-Box-4905 [link] [comments]",
-    "publishedAt": "2026-08-02T03:45:40.000Z",
-    "crawledAt": "2026-08-02T11:50:32.041Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "score": 0.6,
-    "crawlStatus": "live",
-    "extractedText": "For people who build things beyond simple n8n workflows: **1.** What are you actually building these in — what language/stack, and what do you use to write the code (an IDE, an AI coding tool, something else)? **2.** Once it’s built, how does it actually get delivered to a client? Does it run on their systems, a server you manage for them, something else entirely? **3.** How does a business owner with no technical background actually “receive” and use something like this, day to day? **4.** What did you personally have to learn to get to the point where you could build these? Just trying to understand the real skill ceiling here before I get in over my head. Appreciate any honest breakdowns. submitted by /u/Responsible-Box-4905 [link] [comments]"
   },
   {
     "id": "src_stability-ai-blog_2026-08-02_fallback",
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:31.593Z",
-    "crawledAt": "2026-08-02T11:50:31.593Z",
+    "publishedAt": "2026-08-02T23:55:18.879Z",
+    "crawledAt": "2026-08-02T23:55:18.879Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
-    "publishedAt": "2026-08-02T11:50:32.298Z",
-    "crawledAt": "2026-08-02T11:50:32.298Z",
+    "publishedAt": "2026-08-02T23:55:19.308Z",
+    "crawledAt": "2026-08-02T23:55:19.308Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-08-02T11:50:31.536Z",
-    "crawledAt": "2026-08-02T11:50:31.536Z",
+    "publishedAt": "2026-08-02T23:55:19.079Z",
+    "crawledAt": "2026-08-02T23:55:19.079Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -223,8 +223,8 @@
     "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:31.526Z",
-    "crawledAt": "2026-08-02T11:50:31.526Z",
+    "publishedAt": "2026-08-02T23:55:18.813Z",
+    "crawledAt": "2026-08-02T23:55:18.813Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -242,8 +242,8 @@
     "sourceUrl": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:31.532Z",
-    "crawledAt": "2026-08-02T11:50:31.532Z",
+    "publishedAt": "2026-08-02T23:55:18.823Z",
+    "crawledAt": "2026-08-02T23:55:18.823Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -261,8 +261,8 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-08-02T11:50:32.181Z",
-    "crawledAt": "2026-08-02T11:50:32.181Z",
+    "publishedAt": "2026-08-02T23:55:19.175Z",
+    "crawledAt": "2026-08-02T23:55:19.175Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -279,8 +279,8 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Pika blog",
     "rawSummary": "Discover stories, experiments, and insights from the Pika community",
-    "publishedAt": "2026-08-02T11:50:31.899Z",
-    "crawledAt": "2026-08-02T11:50:31.899Z",
+    "publishedAt": "2026-08-02T23:55:18.946Z",
+    "crawledAt": "2026-08-02T23:55:18.946Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -297,8 +297,8 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-08-02T11:50:33.806Z",
-    "crawledAt": "2026-08-02T11:50:33.806Z",
+    "publishedAt": "2026-08-02T23:55:21.054Z",
+    "crawledAt": "2026-08-02T23:55:21.054Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -315,8 +315,8 @@
     "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:31.616Z",
-    "crawledAt": "2026-08-02T11:50:31.616Z",
+    "publishedAt": "2026-08-02T23:55:18.875Z",
+    "crawledAt": "2026-08-02T23:55:18.875Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -334,8 +334,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-08-02T11:50:32.231Z",
-    "crawledAt": "2026-08-02T11:50:32.231Z",
+    "publishedAt": "2026-08-02T23:55:19.310Z",
+    "crawledAt": "2026-08-02T23:55:19.310Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -352,8 +352,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
-    "publishedAt": "2026-08-02T11:50:31.787Z",
-    "crawledAt": "2026-08-02T11:50:31.787Z",
+    "publishedAt": "2026-08-02T23:55:18.914Z",
+    "crawledAt": "2026-08-02T23:55:18.914Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -369,8 +369,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:31.901Z",
-    "crawledAt": "2026-08-02T11:50:31.901Z",
+    "publishedAt": "2026-08-02T23:55:19.038Z",
+    "crawledAt": "2026-08-02T23:55:19.038Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -388,8 +388,8 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
     "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
-    "publishedAt": "2026-08-02T11:50:32.238Z",
-    "crawledAt": "2026-08-02T11:50:32.238Z",
+    "publishedAt": "2026-08-02T23:55:19.295Z",
+    "crawledAt": "2026-08-02T23:55:19.295Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -406,8 +406,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
     "rawSummary": "News and updates from the ComfyUI Team. Click to read ComfyUI Newsletter, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-08-02T11:50:31.979Z",
-    "crawledAt": "2026-08-02T11:50:31.979Z",
+    "publishedAt": "2026-08-02T23:55:18.971Z",
+    "crawledAt": "2026-08-02T23:55:18.971Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -425,8 +425,8 @@
     "sourceUrl": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:31.834Z",
-    "crawledAt": "2026-08-02T11:50:31.834Z",
+    "publishedAt": "2026-08-02T23:55:18.975Z",
+    "crawledAt": "2026-08-02T23:55:18.975Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -444,8 +444,8 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-08-02T11:50:36.146Z",
-    "crawledAt": "2026-08-02T11:50:36.146Z",
+    "publishedAt": "2026-08-02T23:55:20.183Z",
+    "crawledAt": "2026-08-02T23:55:20.183Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -463,8 +463,8 @@
     "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-02T11:50:31.976Z",
-    "crawledAt": "2026-08-02T11:50:31.976Z",
+    "publishedAt": "2026-08-02T23:55:18.990Z",
+    "crawledAt": "2026-08-02T23:55:18.990Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -482,8 +482,8 @@
     "sourceUrl": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
     "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "publishedAt": "2026-08-02T11:50:32.104Z",
-    "crawledAt": "2026-08-02T11:50:32.104Z",
+    "publishedAt": "2026-08-02T23:55:19.132Z",
+    "crawledAt": "2026-08-02T23:55:19.132Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -492,8 +492,25 @@
     ],
     "score": 0.85,
     "crawlStatus": "live",
-    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 16 days ago • 189 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 3 days ago • 24 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 4 days ago • 12 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 3 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 5 days ago • 8 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 9 days ago • 8 The State of Simulation for Physical AI: An Overview nvidia • 12 days ago • 68 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 13 days ago • 20 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 4 days ago • 6 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 385 What building Shippy taught us about building agents allenai • 18 days ago • 19 Introducing Cosmos 3 Edge nvidia • 13 days ago • 39 FeyNoBg: A SOTA Model For Background Removal feyninc • 6 days ago • 5 Kimi K3, previewed: inside the first open 3T-class model embedl • 14 days ago • 6 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 4 days ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 173 AI, Physical AI, World Models, VLA, VLM, and Other Terms We Should Stop Mixing Together barakor • May 17 • 5 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 68 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 10 days ago • 16 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 39 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 33 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 58 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 45 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 396 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 61 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 51 July 16, 2026 security Hot Security incident disclosure — July 2026 735 July 16, 2026 Model Routing Is Simple. Until It Isn’t. 70 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 145 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 23 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 42 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 64 July 8, 2026 Previous 1 2 3 ... 60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 16 days ago • 189 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 3 days ago • 24 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 4 days ago • 12 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 3 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 5 days ago • 8 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 9 days ago • 8 The State of Simulation for Physical AI: An Overview nvidia • 12 days ago • 68 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 13 days ago • 20 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 4 days ago • 6 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 385 What building Shippy taught us about building agents allenai • 18 days ago • 19 Introducing Cosmos 3 Edge nvidia • 13 days ago • 39 FeyNoBg: A SOTA Model For Background Removal feyninc • 6 days ago • 5 Kimi K3, previewed: inside the first open 3T-class model embedl • 14 days ago • 6 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 4 days ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 173 AI, Physical AI, World Models, VLA, VLM, and Other Terms We Should Stop Mixing Together barakor • May 17 • 5 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 68 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 10 days ago • 16 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 16 days ago • 190 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 3 days ago • 26 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 4 days ago • 13 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 3 days ago • 9 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 10 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 5 days ago • 8 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 13 days ago • 20 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 4 days ago • 6 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 What building Shippy taught us about building agents allenai • 18 days ago • 19 FeyNoBg: A SOTA Model For Background Removal feyninc • 6 days ago • 5 The State of Simulation for Physical AI: An Overview nvidia • 12 days ago • 68 Introducing Cosmos 3 Edge nvidia • 13 days ago • 39 Kimi K3, previewed: inside the first open 3T-class model embedl • 14 days ago • 6 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 4 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 385 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 173 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 68 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 10 days ago • 16 J-Space: Yet Another LLM Mind Reader? dlouapre • 20 days ago • 37 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 47 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 33 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 59 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 49 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 400 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 62 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 52 July 16, 2026 security Hot Security incident disclosure — July 2026 737 July 16, 2026 Model Routing Is Simple. Until It Isn’t. 71 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 145 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 24 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 42 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 64 July 8, 2026 Previous 1 2 3 ... 60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 16 days ago • 190 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 3 days ago • 26 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 4 days ago • 13 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 3 days ago • 9 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 10 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 5 days ago • 8 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 13 days ago • 20 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 4 days ago • 6 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 What building Shippy taught us about building agents allenai • 18 days ago • 19 FeyNoBg: A SOTA Model For Background Removal feyninc • 6 days ago • 5 The State of Simulation for Physical AI: An Overview nvidia • 12 days ago • 68 Introducing Cosmos 3 Edge nvidia • 13 days ago • 39 Kimi K3, previewed: inside the first open 3T-class model embedl • 14 days ago • 6 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 4 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 385 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 173 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 68 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 10 days ago • 16 J-Space: Yet Another LLM Mind Reader? dlouapre • 20 days ago • 37 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
     "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
+  },
+  {
+    "id": "src_simonwillison-blog_ea4c19c3b2d61048",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
+    "title": "condense-json 1.0",
+    "rawSummary": "Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { \"foo\" : { \"bar\" : { \"string\" : \" This is a string with foxes in it \" , \"nested\" : { \"more\" : [ \" Here is a string \" , \" another with foxes in it too \" ] } } } } Combine that with a replacements object: { \"1\" : \" with foxes in it \" } And condense_json(input_json, replacements) produces the following: { \"foo\" : { \"bar\" : { \"string\" : { \"$r\" : [ \" This is a string \" , { \"$\" : \" 1 \" }]}, \"nested\" : { \"more\" : [ \" Here is a string \" , { \"$r\" : [ \" another \" , { \"$\" : \" 1 \" }, \" too \" ]}] } } } } It scans for strings or substrings that are present in that replacements object and replaces those with a special {\"$r\": ...} syntax in the output. You can reverse the effect with uncondense_json(condensed, replacements) . The idea is to make it easier to store JSON that includes duplicated data from other related structures. I use it to save space in the SQLite logs generated by LLM - see PR #1586 for the latest iteration of that. Tags: json , projects , python , llm",
+    "publishedAt": "2026-08-02T22:19:59.000Z",
+    "crawledAt": "2026-08-02T23:55:19.112Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live"
   },
   {
     "id": "src_simonwillison-blog_49819dd5fdb9298c",
@@ -502,16 +519,16 @@
     "sourceName": "Simon Willison's Weblog",
     "sourceUrl": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
     "title": "Open letters about AI development",
-    "rawSummary": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA, Amazon, Y Combinator, The Linux Foundation and (a later signer) OpenAI. It's clearly an argument designed to counter any instincts by the current US government to ban or limit open weight models over \"safety\" concerns - a reasonable consideration given what happened to Claude Fable 5 ! Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect. And concentrating advanced AI capabilities behind a small number of closed models compounds that risk. It results in a small number of single points of failure, weakens competition, and leaves critical technology in the hands of a few providers. Open weight models, on the other hand, allow a broad community of researchers and developers to examine their behavior, identify vulnerabilities, develop safeguards, and improve them over time. The one surprising note in the letter is that it comes out in support of distillation, where models train on output from other models: In shaping this ecosystem, policymakers should be careful not to conflate legitimate model-development techniques with misappropriation. Distillation, or the practice of using one model’s outputs to help train or improve another, is a widely used technique for model improvement, evaluation, and validation. It reflects a long tradition of learning from, building upon, and improving existing technologies, a tradition that has helped drive innovation since the rise of the open-source software movement. Notably absent from the signatures: Anthropic, who published their own response Our position on open-weights models three days later. CEO Dario Amodei doubled down on the risk of authoritarian governments building \"AI models that are more powerful than those built by the US\", and models being \"misused to carry out cyberattacks or biological attacks\", and called for \"a crack down on industrial-scale distillation operations \", while also stating that \"Anthropic has never advocated for a ban on open-weights models\". Then on July 28th Pacing the Frontier was published, featuring signatures from \"1,324 employees of frontier AI companies\" - with names like Jakub Pachocki (Chief Scientist, OpenAI), Ilya Sutskever (Safe Superintelligence Inc, previously OpenAI), Dario Amodei (Anthropic), Jack Clark (Anthropic) and more. Their core message: We request that the U.S. government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development. Their concern is intense competitive pressure combined with accelerated AI progress caused by automated AI research - and given that Anthropic produce 80% of their code with Claude Code , OpenAI had Sol reduce their end-to-end serving costs by 20% , and Kimi K3 designed a chip to serve a nano model built on its own architecture , you can see why people are taking that risk more seriously right now. Tags: anthropic , generative-ai , openai , ai , llms , ai-ethics",
+    "rawSummary": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA (see Jensen's first ever tweet ), Amazon, Y Combinator, The Linux Foundation, and (a later signer) OpenAI. It's clearly an argument designed to counter any instincts by the current US government to ban or limit open weight models over \"safety\" concerns - a reasonable consideration given what happened to Claude Fable 5 ! Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect. And concentrating advanced AI capabilities behind a small number of closed models compounds that risk. It results in a small number of single points of failure, weakens competition, and leaves critical technology in the hands of a few providers. Open weight models, on the other hand, allow a broad community of researchers and developers to examine their behavior, identify vulnerabilities, develop safeguards, and improve them over time. The one surprising note in the letter is that it comes out in support of distillation, where models train on output from other models: In shaping this ecosystem, policymakers should be careful not to conflate legitimate model-development techniques with misappropriation. Distillation, or the practice of using one model’s outputs to help train or improve another, is a widely used technique for model improvement, evaluation, and validation. It reflects a long tradition of learning from, building upon, and improving existing technologies, a tradition that has helped drive innovation since the rise of the open-source software movement. Notably absent from the signatures: Anthropic, who published their own response Our position on open-weights models three days later. CEO Dario Amodei doubled down on the risk of authoritarian governments building \"AI models that are more powerful than those built by the US\", and models being \"misused to carry out cyberattacks or biological attacks\", and called for \"a crack down on industrial-scale distillation operations \", while also stating that \"Anthropic has never advocated for a ban on open-weights models\". Then on July 28th Pacing the Frontier was published, featuring signatures from \"1,324 employees of frontier AI companies\" - with names like Jakub Pachocki (Chief Scientist, OpenAI), Ilya Sutskever (Safe Superintelligence Inc, previously OpenAI), Dario Amodei (Anthropic), Jack Clark (Anthropic) and more. Their core message: We request that the U.S. government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development. Their concern is intense competitive pressure combined with accelerated AI progress caused by automated AI research - and given that Anthropic produce 80% of their code with Claude Code , OpenAI had Sol reduce their end-to-end serving costs by 20% , and Kimi K3 designed a chip to serve a nano model built on its own architecture , you can see why people are taking that risk more seriously right now. Tags: anthropic , generative-ai , openai , ai , llms , ai-ethics",
     "publishedAt": "2026-08-02T04:16:52.000Z",
-    "crawledAt": "2026-08-02T11:50:32.086Z",
+    "crawledAt": "2026-08-02T23:55:19.113Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Open letters about AI development Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 2nd August 2026 Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA, Amazon, Y Combinator, The Linux Foundation and (a later signer) OpenAI. It's clearly an argument designed to counter any instincts by the current US government to ban or limit open weight models over \"safety\" concerns - a reasonable consideration given what happened to Claude Fable 5 ! Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect. And concentrating advanced AI capabilities behind a small number of closed models compounds that risk. It results in a small number of single points of failure, weakens competition, and leaves critical technology in the hands of a few providers. Open weight models, on the other hand, allow a broad community of researchers and developers to examine their behavior, identify vulnerabilities, develop safeguards, and improve them over time. The one surprising note in the letter is that it comes out in support of distillation, where models train on output from other models: In shaping this ecosystem, policymakers should be careful not to conflate legitimate model-development techniques with misappropriation. Distillation, or the practice of using one model’s outputs to help train or improve another, is a widely used technique for model improvement, evaluation, and validation. It reflects a long tradition of learning from, building upon, and improving existing technologies, a tradition that has helped drive innovation since the rise of the open-source software movement. Notably absent from the signatures: Anthropic, who published their own response Our position on open-weights models three days later. CEO Dario Amodei doubled down on the risk of authoritarian governments building \"AI models that are more powerful than those built by the US\", and models being \"misused to carry out cyberattacks or biological attacks\", and called for \"a crack down on industrial-scale distillation operations \", while also stating that \"Anthropic has never advocated for a ban on open-weights models\". Then on July 28th Pacing the Frontier was published, featuring signatures from \"1,324 employees of frontier AI companies\" - with names like Jakub Pachocki (Chief Scientist, OpenAI), Ilya Sutskever (Safe Superintelligence Inc, previously OpenAI), Dario Amodei (Anthropic), Jack Clark (Anthropic) and more. Their core message: We request that the U.S. government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development. Their concern is intense competitive pressure combined with accelerated AI progress caused by automated AI research - and given that Anthropic produce 80% of their code with Claude Code , OpenAI had Sol reduce their end-to-end serving costs by 20% , and Kimi K3 designed a chip to serve a nano model built on its own architecture , you can see why people are taking that risk more seriously right now. Posted 2nd August 2026 at 4:16 am Recent articles Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 A Fireside Chat with Cat and Thariq from the Claude Code team - 21st July 2026 This is a note by Simon Willison, posted on 2nd August 2026 . ai 2,160 openai 441 generative-ai 1,912 llms 1,879 anthropic 321 ai-ethics 331 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Open letters about AI development Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 2nd August 2026 Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA (see Jensen's first ever tweet ), Amazon, Y Combinator, The Linux Foundation, and (a later signer) OpenAI. It's clearly an argument designed to counter any instincts by the current US government to ban or limit open weight models over \"safety\" concerns - a reasonable consideration given what happened to Claude Fable 5 ! Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect. And concentrating advanced AI capabilities behind a small number of closed models compounds that risk. It results in a small number of single points of failure, weakens competition, and leaves critical technology in the hands of a few providers. Open weight models, on the other hand, allow a broad community of researchers and developers to examine their behavior, identify vulnerabilities, develop safeguards, and improve them over time. The one surprising note in the letter is that it comes out in support of distillation, where models train on output from other models: In shaping this ecosystem, policymakers should be careful not to conflate legitimate model-development techniques with misappropriation. Distillation, or the practice of using one model’s outputs to help train or improve another, is a widely used technique for model improvement, evaluation, and validation. It reflects a long tradition of learning from, building upon, and improving existing technologies, a tradition that has helped drive innovation since the rise of the open-source software movement. Notably absent from the signatures: Anthropic, who published their own response Our position on open-weights models three days later. CEO Dario Amodei doubled down on the risk of authoritarian governments building \"AI models that are more powerful than those built by the US\", and models being \"misused to carry out cyberattacks or biological attacks\", and called for \"a crack down on industrial-scale distillation operations \", while also stating that \"Anthropic has never advocated for a ban on open-weights models\". Then on July 28th Pacing the Frontier was published, featuring signatures from \"1,324 employees of frontier AI companies\" - with names like Jakub Pachocki (Chief Scientist, OpenAI), Ilya Sutskever (Safe Superintelligence Inc, previously OpenAI), Dario Amodei (Anthropic), Jack Clark (Anthropic) and more. Their core message: We request that the U.S. government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development. Their concern is intense competitive pressure combined with accelerated AI progress caused by automated AI research - and given that Anthropic produce 80% of their code with Claude Code , OpenAI had Sol reduce their end-to-end serving costs by 20% , and Kimi K3 designed a chip to serve a nano model built on its own architecture , you can see why people are taking that risk more seriously right now. Posted 2nd August 2026 at 4:16 am Recent articles Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 A Fireside Chat with Cat and Thariq from the Claude Code team - 21st July 2026 This is a note by Simon Willison, posted on 2nd August 2026 . ai 2,160 openai 441 generative-ai 1,912 llms 1,879 anthropic 321 ai-ethics 331 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_cfbb6cb437624568",
@@ -522,7 +539,7 @@
     "title": "July 2026 newsletter",
     "rawSummary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol, Terra, and Luna Claude Opus 5 Kimi K3 and DeepSeek-V4-Flash-0731 Open letters about Al development A fireside chat and a podcast Reigniting my interest in MCP Other model releases My projects What I'm using at the moment Here's a copy of the June newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
     "publishedAt": "2026-08-02T04:12:41.000Z",
-    "crawledAt": "2026-08-02T11:50:32.087Z",
+    "crawledAt": "2026-08-02T23:55:19.114Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -540,7 +557,7 @@
     "title": "Quoting Greg Brockman",
     "rawSummary": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker. reinforces how much people care about human relationships and helping each other, and want AI to give time back — or enhance time together — rather than become a layer separating people. &mdash; Greg Brockman , President and Co-Founder, OpenAI Tags: ai-ethics , ai-misuse , generative-ai , openai , ai , llms",
     "publishedAt": "2026-08-01T22:29:44.000Z",
-    "crawledAt": "2026-08-02T11:50:32.087Z",
+    "crawledAt": "2026-08-02T23:55:19.114Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -558,7 +575,7 @@
     "title": "datasette-apps 0.2a0",
     "rawSummary": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent : New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33 New app_list() tool for listing apps the user has permission to edit, so the agent can edit them. #36 The app_debug() tool is pretty neat: it works by displaying the app in a opacity: 0 iframe with pointer-events: none (so it can't be seen or interacted with) and then executing agent-provided JavaScript inside that sandboxed iframe. This means the agent can smoke test that the app is working and even do things like measure the dimensions of different elements. This uses the new context.browser_task() mechanism added in datasette-agent 0.4a0 . Tags: iframes , datasette , datasette-apps",
     "publishedAt": "2026-08-01T21:23:56.000Z",
-    "crawledAt": "2026-08-02T11:50:32.087Z",
+    "crawledAt": "2026-08-02T23:55:19.114Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -568,24 +585,6 @@
     "extractedText": "Release: datasette-apps 0.2a0 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 1st August 2026 Release datasette-apps 0.2a0 &mdash; Apps that live inside Datasette Changes that improve Datasette Apps when created and edited using Datasette Agent : New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33 New app_list() tool for listing apps the user has permission to edit, so the agent can edit them. #36 The app_debug() tool is pretty neat: it works by displaying the app in a opacity: 0 iframe with pointer-events: none (so it can't be seen or interacted with) and then executing agent-provided JavaScript inside that sandboxed iframe. This means the agent can smoke test that the app is working and even do things like measure the dimensions of different elements. This uses the new context.browser_task() mechanism added in datasette-agent 0.4a0 . Posted 1st August 2026 at 9:23 pm Recent articles Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 A Fireside Chat with Cat and Thariq from the Claude Code team - 21st July 2026 This is a beat by Simon Willison, posted on 1st August 2026 . iframes 25 datasette 1,531 datasette-apps 9 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
-    "id": "src_simonwillison-blog_c3c227f26c4855b4",
-    "sourceConfigId": "simonwillison-blog",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "sourceUrl": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "rawSummary": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings.\" Now it's OpenAI's turn to flex. They set \"an internal version of Astra, our next major model\" on finding solutions to ten mathematical problems that \"have seen no progress on the main result for at least a decade\". They claim to have spent less than $2,000 at GPT-5.6 Sol token prices on each one. (No news on how many problems they spent $2,000 on without reaching a solution though.) The openai/ten-proofs repository has Lean 4 formalizations of their results, and there's also a paper describing the solutions and an additional LLM-generated PDF where the model \"reconstructs how the proof came together\" based on the unpublished reasoning traces. That's a decent level of transparency, but I want to see the prompts they used! A lot of mathematicians online are experiencing a collective burst of Deep Blue . Mathematician Kirwin Hampshire published an impassioned essay last week, The Dark Night of Mathematics , describing \"a profound spiritual crisis\" brought on by previous (and less significant) results. OpenAI's results reminds me of what Terence Tao described as \"big mathematics\" in IEEE Spectrum in June : Unlike some of his peers, Tao is neither dismissive of AI nor fearful. Instead, he sees it as the catalyst for a fundamental shift in the discipline—a transition toward what he calls “big mathematics.” He envisions a future of large-scale, decentralized collaborations between humans and machines, where complex mathematical tasks can be diced and sliced, with humans claiming the creative parts and AI doing the lion’s share of the technical grunt work. Via Hacker News Tags: mathematics , ai , openai , generative-ai , llms , deep-blue",
-    "publishedAt": "2026-08-01T20:34:49.000Z",
-    "crawledAt": "2026-08-02T11:50:32.087Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "score": 0.82,
-    "crawlStatus": "live",
-    "extractedText": "Ten advances in mathematics and theoretical computer science Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 1st August 2026 - Link Blog Ten advances in mathematics and theoretical computer science ( via ) A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings.\" Now it's OpenAI's turn to flex. They set \"an internal version of Astra, our next major model\" on finding solutions to ten mathematical problems that \"have seen no progress on the main result for at least a decade\". They claim to have spent less than $2,000 at GPT-5.6 Sol token prices on each one. (No news on how many problems they spent $2,000 on without reaching a solution though.) The openai/ten-proofs repository has Lean 4 formalizations of their results, and there's also a paper describing the solutions and an additional LLM-generated PDF where the model \"reconstructs how the proof came together\" based on the unpublished reasoning traces. That's a decent level of transparency, but I want to see the prompts they used! A lot of mathematicians online are experiencing a collective burst of Deep Blue . Mathematician Kirwin Hampshire published an impassioned essay last week, The Dark Night of Mathematics , describing \"a profound spiritual crisis\" brought on by previous (and less significant) results. OpenAI's results reminds me of what Terence Tao described as \"big mathematics\" in IEEE Spectrum in June : Unlike some of his peers, Tao is neither dismissive of AI nor fearful. Instead, he sees it as the catalyst for a fundamental shift in the discipline—a transition toward what he calls “big mathematics.” He envisions a future of large-scale, decentralized collaborations between humans and machines, where complex mathematical tasks can be diced and sliced, with humans claiming the creative parts and AI doing the lion’s share of the technical grunt work. Posted 1st August 2026 at 8:34 pm Recent articles Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 A Fireside Chat with Cat and Thariq from the Claude Code team - 21st July 2026 This is a link post by Simon Willison, posted on 1st August 2026 . mathematics 20 ai 2,160 openai 441 generative-ai 1,912 llms 1,879 deep-blue 9 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
-  },
-  {
     "id": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceConfigId": "lilianweng-blog",
     "sourceType": "blog",
@@ -593,8 +592,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-08-02T11:50:32.127Z",
-    "crawledAt": "2026-08-02T11:50:32.127Z",
+    "publishedAt": "2026-08-02T23:55:19.103Z",
+    "crawledAt": "2026-08-02T23:55:19.103Z",
     "categoryHints": [
       "ai-agentic"
     ],

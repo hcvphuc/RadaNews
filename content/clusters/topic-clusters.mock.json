@@ -9,11 +9,10 @@
       "src_simonwillison-blog_88f8f7f28987d03c",
       "src_simonwillison-blog_cfbb6cb437624568",
       "src_simonwillison-blog_f245b635b40e16fc",
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_60fd3682e2edfccf"
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, LangChain Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, LangChain Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -24,10 +23,11 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_49819dd5fdb9298c",
-      "src_simonwillison-blog_c3c227f26c4855b4"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_replit-blog_2c607cbee6384da3"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -62,33 +62,33 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-08-02",
+    "clusterId": "cluster_ai-vibe-coding_2_condense-json-1-0_2026-08-02",
     "category": "ai-vibe-coding",
-    "topic": "GitHub Copilot Archives - The GitHub Blog",
+    "topic": "condense-json 1.0",
     "sourceIds": [
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_replit-blog_2c607cbee6384da3",
+      "src_simonwillison-blog_ea4c19c3b2d61048",
+      "src_reddit-aiagents_d3e520c4807d9db5",
       "src_vercel-ai-blog_2026-08-02_fallback"
     ],
-    "articleWorthinessScore": 0.89,
-    "reasonSelected": "Score 0.89 from 3 source item(s), 2 live crawl(s), strongest sources: GitHub Copilot Blog, Replit Blog, Vercel AI Blog.",
+    "articleWorthinessScore": 0.81,
+    "reasonSelected": "Score 0.81 from 3 source item(s), 2 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_i-think-people-seriously-underestimate-how-easy-it-is-to-automat_2026-08-02",
+    "clusterId": "cluster_ai-agentic_2_ai-agents-have-never-been-so-explainable-until-now-with-grapharc_2026-08-02",
     "category": "ai-agentic",
-    "topic": "I think people seriously underestimate how easy it is to automate your PC wit...",
+    "topic": "AI agents have never been so explainable until now, with GraphARC!",
     "sourceIds": [
+      "src_reddit-aiagents_c240b9e106ccb8ac",
       "src_reddit-aiagents_d0879bf52b8d4c0b",
-      "src_reddit-aiagents_3a0e399f1c2fd65f",
-      "src_reddit-aiagents_d16fd8e6af3bf390",
       "src_reddit-aiagents_85b0625b33dfd7f6",
+      "src_reddit-aiagents_d16fd8e6af3bf390",
       "src_openai-blog_2026-08-02_fallback",
       "src_mcp-blog_2026-08-02_fallback"
     ],
-    "articleWorthinessScore": 0.77,
-    "reasonSelected": "Score 0.77 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.78,
+    "reasonSelected": "Score 0.78 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
