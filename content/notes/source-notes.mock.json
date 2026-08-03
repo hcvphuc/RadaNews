@@ -5,15 +5,15 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-02T23:55:19.233Z",
+    "publishedAt": "2026-08-03T13:31:48.894Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely LLM Gateway Control agent model calls No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Observability & Evals Evaluating code review agents with ReviewBench Nick Hollon July 31, 2026 min Agent Architecture How we built LangChain’s agent-first data stack Emily Hawkins July 27, 2026 14 min No items found.",
-      "LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint The LangChain Team July 8, 2026 7 min LangChain LangSmith Observability & Evals Your coding agent bill doubled."
+      "Observability & Evals Evaluating code review agents with ReviewBench Nick Hollon July 31, 2026 min No items found.",
+      "LangSmith LLM Gateway: runtime controls for production agents Martha Janicki Ramon Petgrave July 30, 2026 7 min Harrison's In the Loop What does it mean to \"own your intelligence\"?"
     ],
     "claims": [
       {
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-02T23:55:18.786Z",
+    "publishedAt": "2026-08-03T13:31:48.148Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-02_fallback",
+    "sourceId": "src_openai-blog_2026-08-03_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-02T23:55:18.696Z",
+    "publishedAt": "2026-08-03T13:31:48.064Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-02_fallback",
+    "sourceId": "src_mcp-blog_2026-08-03_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-02T23:55:19.023Z",
+    "publishedAt": "2026-08-03T13:31:48.725Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_c240b9e106ccb8ac",
+    "sourceId": "src_reddit-aiagents_1cf81e24f5aa0468",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vdqu33/ai_agents_have_never_been_so_explainable_until/",
-    "title": "AI agents have never been so explainable until now, with GraphARC!",
-    "publishedAt": "2026-08-02T19:17:37.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ve71e3/building_ai_agents_is_starting_to_feel_like_a/",
+    "title": "Building AI agents is starting to feel like a game....We’re living through an inflation of systems, tools, and AI agents.",
+    "publishedAt": "2026-08-03T08:00:17.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "🚀 We just built our first real-time implementation of Graph Engineering, inspired by our experience building graph tooling used by 4,000+ developers.",
-      "Have you ever been frustrated because your AI agent: ❌ Takes actions you never intended?",
-      "❌ Creates, modifies, or even pushes changes you never asked for?",
-      "❌ Feels like a complete black box, making it impossible to understand what's happening until it's too late?"
+      "I don’t come from a technical background, but I never thought I’d enjoy building things this much., It’s crazy how easily everything connects now....Codex, GitHub, Vercel, Firebase and suddenly you have a working product without spending much, if anything.",
+      "Building agents is starting to feel like a game.",
+      "You get an idea, build a quick version, tweak it, see it work… and immediately want to build the next one.",
+      "Where do you think this whole agent world will be in 4–5 years?"
     ],
     "claims": [
       {
-        "text": "🚀 We just built our first real-time implementation of Graph Engineering, inspired by our experience building graph tooling used by 4,000+ developers. Have you ever been frustrated because your AI agent: ❌ Takes actions you never intended? ❌ Creates, modifies, or even pushes changes you never asked for? ❌ Feels like a complete black box, making it impossible to understand what's happening until it's too late? What if, before execution, you could visualize the entire orchestration graph - every agent, every dependency, every decision, and inspect it from anywhere, even your phone, before granting approval? That's exactly what GraphArc is built for. Instead of treating agent execution as hidden traces buried in logs, GraphArc transforms workflows into interactive, real-time graphs that you can visualize, inspect, debug, and control. Because the future of AI isn't just autonomous. It's observable. Debuggable. Engineerable. This is our first real-world implementation of Graph Engineering , and we're excited to explore where this paradigm can go with the open-source community. 💡 We'd love your feedback, ideas, and contributions. ⭐ If this vision resonates with you, please consider starring the repository—it genuinely helps us grow and validates this direction. Let's make AI workflows understandable, not mysterious. #GraphEngineering #GraphArc #AIAgents #AgenticAI #LLM #OpenSource #DeveloperTools #AIEngineering #SoftwareEngineering submitted by /u/Desperate-Ad-9679 [link] [comments]",
+        "text": "I don’t come from a technical background, but I never thought I’d enjoy building things this much., It’s crazy how easily everything connects now....Codex, GitHub, Vercel, Firebase and suddenly you have a working product without spending much, if anything. Building agents is starting to feel like a game. You get an idea, build a quick version, tweak it, see it work… and immediately want to build the next one. Where do you think this whole agent world will be in 4–5 years? It feels like almost any idea can become a real tool now, and anyone who’s even a little technical knowledge can build an agent for less than a day. The speed of it all is a bit scary. submitted by /u/Silly-Commission-630 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vdqu33/ai_agents_have_never_been_so_explainable_until/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ve71e3/building_ai_agents_is_starting_to_feel_like_a/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_d3e520c4807d9db5",
+    "sourceId": "src_reddit-aiagents_87328000308b1050",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vdqg4l/i_think_every_startup_should_wake_up_to_this_file/",
-    "title": "I think every startup should wake up to this file every morning",
-    "publishedAt": "2026-08-02T19:02:45.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ve9gkj/anyone_else_feel_like_browser_agents_waste_too/",
+    "title": "Anyone else feel like browser agents waste too many tokens on UI navigation?",
+    "publishedAt": "2026-08-03T10:18:32.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I really like the idea of every startup having a single markdown file called what_the_market_is_telling_us.md.",
-      "Every morning, an AI agent updates it using everything the company already knows.",
-      "Stripe shows who's paying, upgrading, or churning.",
-      "Product analytics reveal what people actually do."
+      "I've been testing a few browser agents recently, and one pattern keeps showing up.",
+      "They spend a surprising amount of time figuring out where buttons are, navigating menus, and rediscovering the same workflow instead of actually solving the task.",
+      "It feels like there should be a cleaner abstraction where the model focuses on reasoning while the browser interaction is more deterministic.",
+      "Are you caching workflows, using browser APIs, or trying something else?"
     ],
     "claims": [
       {
-        "text": "I really like the idea of every startup having a single markdown file called what_the_market_is_telling_us.md. Every morning, an AI agent updates it using everything the company already knows. Stripe shows who's paying, upgrading, or churning. Product analytics reveal what people actually do. Support tickets explain where they're getting stuck. Sales calls, CRM notes, bug reports, feature requests, and even outside market signals fill in the rest. The important part isn't creating another daily summary. It's finding what's different this week compared to last week. Maybe three customers who churned all mentioned onboarding. Maybe new customers suddenly started describing your product with different words. Maybe everyone who upgraded used the same feature right before paying. Those aren't random events. They're signals that tell you where to focus next. I think this is one of the best ways to get closer to product-market fit. The companies that win usually aren't the ones with the most data. They're the ones that notice changes in customer behavior early and actually act on them. submitted by /u/Meris-Dabhi [link] [comments]",
+        "text": "I've been testing a few browser agents recently, and one pattern keeps showing up. They spend a surprising amount of time figuring out where buttons are, navigating menus, and rediscovering the same workflow instead of actually solving the task. It feels like there should be a cleaner abstraction where the model focuses on reasoning while the browser interaction is more deterministic. Curious how others are handling this. Are you caching workflows, using browser APIs, or trying something else? submitted by /u/Opening-Profile6279 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vdqg4l/i_think_every_startup_should_wake_up_to_this_file/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ve9gkj/anyone_else_feel_like_browser_agents_waste_too/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_d0879bf52b8d4c0b",
+    "sourceId": "src_reddit-aiagents_452987e3f23c197e",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vcvjb9/i_think_people_seriously_underestimate_how_easy/",
-    "title": "I think people seriously underestimate how easy it is to automate your PC with AI now.",
-    "publishedAt": "2026-08-01T18:57:29.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ve3jjy/i_gave_my_ai_agents_a_boss_now_they_run_themselves/",
+    "title": "I Gave My AI Agents a Boss — Now They Run Themselves",
+    "publishedAt": "2026-08-03T04:44:10.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "You can literally tell an AI: “Make me a Python app that does X every morning at 8, opens the browser, goes to these sites, checks this, saves the results here, and then sends me a notification.” And it can just build the thing for you.",
-      "Browser control, scheduled tasks, file management, APIs, scraping, monitoring, reports, repetitive work, etc.",
-      "You basically describe what you want your computer to do, when you want it done, and the rules it should follow.",
-      "You don't even have to be a programmer anymore to make a bunch of custom little automations for yourself."
+      "Queen is the boss agent — she commands Spawner, who builds the project phase by phase while I just ask \"Queen, check in.\" No micromanaging.",
+      "Video walkthrough of the Queen → Spawn setup and workflow in the comments.",
+      "submitted by /u/Any_Philosopher_4260 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "You can literally tell an AI: “Make me a Python app that does X every morning at 8, opens the browser, goes to these sites, checks this, saves the results here, and then sends me a notification.” And it can just build the thing for you. Browser control, scheduled tasks, file management, APIs, scraping, monitoring, reports, repetitive work, etc. You basically describe what you want your computer to do, when you want it done, and the rules it should follow. You don't even have to be a programmer anymore to make a bunch of custom little automations for yourself. Your PC can basically become a personal automation machine that you program by talking to it. submitted by /u/FaithlessnessFar6431 [link] [comments]",
+        "text": "Got my agent system running on its own. Queen is the boss agent — she commands Spawner, who builds the project phase by phase while I just ask \"Queen, check in.\" No micromanaging. Video walkthrough of the Queen → Spawn setup and workflow in the comments. submitted by /u/Any_Philosopher_4260 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vcvjb9/i_think_people_seriously_underestimate_how_easy/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ve3jjy/i_gave_my_ai_agents_a_boss_now_they_run_themselves/"
       }
     ],
     "usableFor": [
@@ -254,12 +253,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-02_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-03_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-02T23:55:18.879Z",
+    "publishedAt": "2026-08-03T13:31:48.341Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-02T23:55:19.308Z",
+    "publishedAt": "2026-08-03T13:31:49.023Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-02T23:55:19.079Z",
+    "publishedAt": "2026-08-03T13:31:48.538Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +339,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-02_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-02T23:55:18.813Z",
+    "publishedAt": "2026-08-03T13:31:48.367Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +366,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-02_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-02T23:55:18.823Z",
+    "publishedAt": "2026-08-03T13:31:48.369Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-02T23:55:19.175Z",
+    "publishedAt": "2026-08-03T13:31:48.857Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-02T23:55:18.946Z",
+    "publishedAt": "2026-08-03T13:31:48.479Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,14 +455,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-02T23:55:21.054Z",
+    "publishedAt": "2026-08-03T13:31:49.505Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
+      "Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
       "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
     ],
     "claims": [
@@ -480,12 +479,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-02_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-02T23:55:18.875Z",
+    "publishedAt": "2026-08-03T13:31:48.426Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +511,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-02T23:55:19.310Z",
+    "publishedAt": "2026-08-03T13:31:48.900Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-02T23:55:18.914Z",
+    "publishedAt": "2026-08-03T13:31:48.459Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +564,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-02_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-03_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-02T23:55:19.038Z",
+    "publishedAt": "2026-08-03T13:31:48.602Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-02T23:55:19.295Z",
+    "publishedAt": "2026-08-03T13:31:48.930Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-02T23:55:18.971Z",
+    "publishedAt": "2026-08-03T13:31:48.600Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +650,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-02_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-02T23:55:18.975Z",
+    "publishedAt": "2026-08-03T13:31:48.485Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,16 +682,16 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-02T23:55:20.183Z",
+    "publishedAt": "2026-08-03T13:31:50.126Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
-      "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling Blog Here we will provide high-quality usage tips to help you stimulate your creativity 全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Jul 30, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model?",
+      "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates.",
+      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Jul 30, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model?",
       "A Virtual Model Guide Jul 17, 2026 Virtual Influencers: How to Create One Jul 17, 2026 AI Influencer Marketing: A Practical Guide Jul 17, 2026 What Is an AI Influencer?",
-      "A Guide to Virtual Creators Jul 17, 2026 What Is AI Art?",
-      "A Beginner's Guide to Prompts & Styles Jul 17, 2026 What is AI Video and How Does It Work?"
+      "A Guide to Virtual Creators Jul 17, 2026 What Is AI Art?"
     ],
     "claims": [
       {
@@ -708,12 +707,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-02_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-02T23:55:18.990Z",
+    "publishedAt": "2026-08-03T13:31:48.644Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-02T23:55:19.132Z",
+    "publishedAt": "2026-08-03T13:31:48.756Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,10 +747,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 16 days ago • 190 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 3 days ago • 26 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 4 days ago • 13 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 3 days ago • 9 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 10 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 5 days ago • 8 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 13 days ago • 20 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 4 days ago • 6 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 What building Shippy taught us about building agents allenai • 18 days ago • 19 FeyNoBg: A SOTA Model For Background Removal feyninc • 6 days ago • 5 The State of Simulation for Physical AI: An Overview nvidia • 12 days ago • 68 Introducing Cosmos 3 Edge nvidia • 13 days ago • 39 Kimi K3, previewed: inside the first open 3T-class model embedl • 14 days ago • 6 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 4 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 385 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 173 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 68 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 10 days ago • 16 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 20 days ago • 37 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 47 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 33 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 59 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 49 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 400 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 62 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 52 July 16, 2026 security Hot Security incident disclosure — July 2026 737 July 16, 2026 Model Routing Is Simple.",
-      "71 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 145 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 24 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 42 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 64 July 8, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 17 days ago • 190 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 4 days ago • 29 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 5 days ago • 14 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • about 8 hours ago • 14 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 10 days ago • 11 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 4 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 6 days ago • 8 FeyNoBg: A SOTA Model For Background Removal feyninc • 7 days ago • 6 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 5 days ago • 6 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • about 9 hours ago • 6 What building Shippy taught us about building agents allenai • 19 days ago • 19 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 5 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 69 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 14 days ago • 20 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 885 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 386 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 11 days ago • 16 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 21 days ago • 38 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 17 days ago • 82 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 60 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 34 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 64 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 51 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 406 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 62 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 52 July 16, 2026 security Hot Security incident disclosure — July 2026 738 July 16, 2026 Model Routing Is Simple.",
+      "71 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 146 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 24 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 43 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 64 July 8, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -778,10 +777,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions.",
+      "Release: condense-json 1.0 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 2nd August 2026 Release condense-json 1.0 &mdash; Python function for condensing JSON using replacement strings I'm trying to get braver at releasing 1.0 versions.",
       "This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it.",
-      "Here's an example of what it can do, lifted from the README: { \"foo\" : { \"bar\" : { \"string\" : \" This is a string with foxes in it \" , \"nested\" : { \"more\" : [ \" Here is a string \" , \" another with foxes in it too \" ] } } } } Combine that with a replacements object: { \"1\" : \" with foxes in it \" } And condense_json(input_json, replacements) produces the following: { \"foo\" : { \"bar\" : { \"string\" : { \"$r\" : [ \" This is a string \" , { \"$\" : \" 1 \" }]}, \"nested\" : { \"more\" : [ \" Here is a string \" , { \"$r\" : [ \" another \" , { \"$\" : \" 1 \" }, \" too \" ]}] } } } } It scans for strings or substrings that are present in that replacements object and replaces those with a special {\"$r\": ...} syntax in the output.",
-      "You can reverse the effect with uncondense_json(condensed, replacements) ."
+      "Here's an example of what it can do, lifted from the README: { \"foo\" : { \"bar\" : { \"string\" : \" This is a string with foxes in it \" , \"nested\" : { \"more\" : [ \" Here is a string \" , \" another with foxes in it too \" ] } } } } Combine that with a replacements object: { \"1\" : \" with foxes in it \" } And condense_json(input_json, replacements) produces the following: { \"foo\" : { \"bar\" : { \"string\" : { \"$r\" : [ \" This is a string \" , { \"$\" : \" 1 \" }]}, \"nested\" : { \"more\" : [ \" Here is a string \" , { \"$r\" : [ \" another \" , { \"$\" : \" 1 \" }, \" too \" ]}] } } } } It scans for strings or substrings that are present in that replacements object and replaces those with a special {\"$r\": ...} syntax in the output."
     ],
     "claims": [
       {
@@ -922,7 +921,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-02T23:55:19.103Z",
+    "publishedAt": "2026-08-03T13:31:48.678Z",
     "categoryHints": [
       "ai-agentic"
     ],
