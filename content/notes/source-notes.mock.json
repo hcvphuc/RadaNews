@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-03T13:31:48.894Z",
+    "publishedAt": "2026-08-04T00:05:33.230Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely LLM Gateway Control agent model calls No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Observability & Evals Evaluating code review agents with ReviewBench Nick Hollon July 31, 2026 min No items found.",
+      "Case Studies How Stripe Built Kai, its Company-Wide AI Agent, on Deep Agents Sofia Sulikowski August 3, 2026 10 min No items found.",
       "LangSmith LLM Gateway: runtime controls for production agents Martha Janicki Ramon Petgrave July 30, 2026 7 min Harrison's In the Loop What does it mean to \"own your intelligence\"?"
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-03T13:31:48.148Z",
+    "publishedAt": "2026-08-04T00:05:32.786Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-03_fallback",
+    "sourceId": "src_openai-blog_2026-08-04_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-03T13:31:48.064Z",
+    "publishedAt": "2026-08-04T00:05:32.641Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-03_fallback",
+    "sourceId": "src_mcp-blog_2026-08-04_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-03T13:31:48.725Z",
+    "publishedAt": "2026-08-04T00:05:32.825Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -123,7 +123,7 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Weekly thread to show off your AI Agents and LLM Apps!",
+      "Weekly Thread: Project Display\n\nWeekly thread to show off your AI Agents and LLM Apps!",
       "Top voted projects will be featured in our weekly newsletter .",
       "submitted by /u/help-me-grow [link] [comments]"
     ],
@@ -141,12 +141,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_85b0625b33dfd7f6",
+    "sourceId": "src_reddit-aiagents_07de713a4f25a422",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1v84jxw/weekly_hiring_thread/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vehk96/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
-    "publishedAt": "2026-07-27T16:01:00.000Z",
+    "publishedAt": "2026-08-03T16:01:09.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -157,7 +157,7 @@
       {
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1v84jxw/weekly_hiring_thread/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vehk96/weekly_hiring_thread/"
       }
     ],
     "usableFor": [
@@ -167,26 +167,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_1cf81e24f5aa0468",
+    "sourceId": "src_reddit-aiagents_eb888ec8237fedf9",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ve71e3/building_ai_agents_is_starting_to_feel_like_a/",
-    "title": "Building AI agents is starting to feel like a game....We’re living through an inflation of systems, tools, and AI agents.",
-    "publishedAt": "2026-08-03T08:00:17.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1verdt7/conversational_ai_software_for_enterprise/",
+    "title": "Conversational AI software for enterprise customer service",
+    "publishedAt": "2026-08-03T21:59:46.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I don’t come from a technical background, but I never thought I’d enjoy building things this much., It’s crazy how easily everything connects now....Codex, GitHub, Vercel, Firebase and suddenly you have a working product without spending much, if anything.",
-      "Building agents is starting to feel like a game.",
-      "You get an idea, build a quick version, tweak it, see it work… and immediately want to build the next one.",
-      "Where do you think this whole agent world will be in 4–5 years?"
+      "We’re looking at conversational AI software for enterprise customer service which platforms are worth considering?",
+      "I’m interested about real world results with voice support agent handoffs integrations and quality control what has worked well for your team?",
+      "submitted by /u/Disastrous-Wing-7171 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I don’t come from a technical background, but I never thought I’d enjoy building things this much., It’s crazy how easily everything connects now....Codex, GitHub, Vercel, Firebase and suddenly you have a working product without spending much, if anything. Building agents is starting to feel like a game. You get an idea, build a quick version, tweak it, see it work… and immediately want to build the next one. Where do you think this whole agent world will be in 4–5 years? It feels like almost any idea can become a real tool now, and anyone who’s even a little technical knowledge can build an agent for less than a day. The speed of it all is a bit scary. submitted by /u/Silly-Commission-630 [link] [comments]",
+        "text": "We’re looking at conversational AI software for enterprise customer service which platforms are worth considering? I’m interested about real world results with voice support agent handoffs integrations and quality control what has worked well for your team? submitted by /u/Disastrous-Wing-7171 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ve71e3/building_ai_agents_is_starting_to_feel_like_a/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1verdt7/conversational_ai_software_for_enterprise/"
       }
     ],
     "usableFor": [
@@ -196,26 +195,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_87328000308b1050",
+    "sourceId": "src_reddit-aiagents_a983e51219e8d3dd",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ve9gkj/anyone_else_feel_like_browser_agents_waste_too/",
-    "title": "Anyone else feel like browser agents waste too many tokens on UI navigation?",
-    "publishedAt": "2026-08-03T10:18:32.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1veeix3/i_ran_8_ai_agent_memory_systems_through_2176/",
+    "title": "I ran 8 AI agent memory systems through 2176 tasks and a plain markdown wiki beat every product.",
+    "publishedAt": "2026-08-03T14:10:01.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I've been testing a few browser agents recently, and one pattern keeps showing up.",
-      "They spend a surprising amount of time figuring out where buttons are, navigating menus, and rediscovering the same workflow instead of actually solving the task.",
-      "It feels like there should be a cleaner abstraction where the model focuses on reasoning while the browser interaction is more deterministic.",
-      "Are you caching workflows, using browser APIs, or trying something else?"
+      "A few weeks ago I asked here whether anyone had success with second brains.",
+      "About 75k people read that thread and most of the comments were frustration.",
+      "When I published my web search benchmark last month I promised memory tools were next.",
+      "The setup: the same agent setup worked with each of 8 memory systems."
     ],
     "claims": [
       {
-        "text": "I've been testing a few browser agents recently, and one pattern keeps showing up. They spend a surprising amount of time figuring out where buttons are, navigating menus, and rediscovering the same workflow instead of actually solving the task. It feels like there should be a cleaner abstraction where the model focuses on reasoning while the browser interaction is more deterministic. Curious how others are handling this. Are you caching workflows, using browser APIs, or trying something else? submitted by /u/Opening-Profile6279 [link] [comments]",
+        "text": "A few weeks ago I asked here whether anyone had success with second brains. About 75k people read that thread and most of the comments were frustration. When I published my web search benchmark last month I promised memory tools were next. Here it is: the Agentic Memory Index. The setup: the same agent setup worked with each of 8 memory systems. Each system got 272 scored tasks: 200 questions about facts stored across simulated multi-week working relationships, plus 72 questions about facts that were never stored, to catch invented memories. There was also a separate scale test with a 5,000-page store. The judge was calibrated against two independent human labelers before the run. What I found: The winner is not a product. A plain markdown wiki that the agent curates itself, following Karpathy's llm-wiki gist, scored 98.5. Every product came in below it. Mitosis Cortex was the top hosted product at 96.9. gbrain, a free open-source local tool, scored 92.9, ahead of every hosted API except Mitosis Cortex. Mem0 (92.3) was the cheapest per 1,000 successful answers at $341. Zep's biggest problem was freshness: a just-stored fact took 162.7 seconds at the median before it became answerable. It passed 8 of 24 update questions. Supermemory was near perfect for recently stored memories (59/60 recall) but passed only 11 of 72 long-horizon questions. If I were choosing today: for a hosted memory API I would start with Mitosis Cortex, it ranked first of the five hosted tools. If I wanted free and local, the boring answer held up: markdown files curated by the agent or gbrain. If cost per answer is the constraint, Mem0 was the cheapest per successful answer in the whole set. The full rankings, confidence intervals, failure breakdowns, cost and speed data and the methodology are in the first comment. Next up: a free tool that shows you what tools your agent should use and how much smarter your agent would be with them. submitted by /u/Major-Shirt-8227 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ve9gkj/anyone_else_feel_like_browser_agents_waste_too/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1veeix3/i_ran_8_ai_agent_memory_systems_through_2176/"
       }
     ],
     "usableFor": [
@@ -225,25 +224,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_452987e3f23c197e",
+    "sourceId": "src_reddit-aiagents_86cb1e10c78a38b0",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1ve3jjy/i_gave_my_ai_agents_a_boss_now_they_run_themselves/",
-    "title": "I Gave My AI Agents a Boss — Now They Run Themselves",
-    "publishedAt": "2026-08-03T04:44:10.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1veqkos/why_did_my_ai_agent_retrieve_the_wrong_memory_i/",
+    "title": "Why did my AI agent retrieve the wrong memory? I built a debugger for that",
+    "publishedAt": "2026-08-03T21:28:19.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Queen is the boss agent — she commands Spawner, who builds the project phase by phase while I just ask \"Queen, check in.\" No micromanaging.",
-      "Video walkthrough of the Queen → Spawn setup and workflow in the comments.",
-      "submitted by /u/Any_Philosopher_4260 [link] [comments]"
+      "I got tired of debugging AI agents with print() statements.",
+      "It's a local debugger that lets you inspect prompts, memory, retrieval, tool calls, and compare good vs.",
+      "It currently supports LangChain and includes a free Groq demo that takes just a couple of minutes to run.",
+      "I wanted to share it because I feel like it could help anyone who's ever spet 2 hours trying to figure out why their agent behaved the way it did."
     ],
     "claims": [
       {
-        "text": "Got my agent system running on its own. Queen is the boss agent — she commands Spawner, who builds the project phase by phase while I just ask \"Queen, check in.\" No micromanaging. Video walkthrough of the Queen → Spawn setup and workflow in the comments. submitted by /u/Any_Philosopher_4260 [link] [comments]",
+        "text": "I got tired of debugging AI agents with print() statements. So i built Agent DevTools. It's a local debugger that lets you inspect prompts, memory, retrieval, tool calls, and compare good vs. bad runs. It currently supports LangChain and includes a free Groq demo that takes just a couple of minutes to run. I wanted to share it because I feel like it could help anyone who's ever spet 2 hours trying to figure out why their agent behaved the way it did. There's also a short demo video in the README. submitted by /u/No_Firefighter8428 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1ve3jjy/i_gave_my_ai_agents_a_boss_now_they_run_themselves/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1veqkos/why_did_my_ai_agent_retrieve_the_wrong_memory_i/"
       }
     ],
     "usableFor": [
@@ -253,12 +253,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-03_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-04_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-03T13:31:48.341Z",
+    "publishedAt": "2026-08-04T00:05:32.926Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -284,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-03T13:31:49.023Z",
+    "publishedAt": "2026-08-04T00:05:33.501Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-03T13:31:48.538Z",
+    "publishedAt": "2026-08-04T00:05:33.227Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +339,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-03_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-04_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-03T13:31:48.367Z",
+    "publishedAt": "2026-08-04T00:05:32.833Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +366,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-03_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-04_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-03T13:31:48.369Z",
+    "publishedAt": "2026-08-04T00:05:32.829Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-03T13:31:48.857Z",
+    "publishedAt": "2026-08-04T00:05:33.127Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-03T13:31:48.479Z",
+    "publishedAt": "2026-08-04T00:05:33.282Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-03T13:31:49.505Z",
+    "publishedAt": "2026-08-04T00:05:34.690Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -479,12 +479,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-03_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-04_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-03T13:31:48.426Z",
+    "publishedAt": "2026-08-04T00:05:32.877Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,15 +511,15 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-03T13:31:48.900Z",
+    "publishedAt": "2026-08-04T00:05:33.124Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models Grok Composer Evals Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Jul 29, 2026 · Changelog Cursor, now on iPad Cursor for iPad is now available on all paid plans.",
-      "New to both iPhone and iPad: an inbox to stay organized, and a review experience that covers the full PR.",
-      "Create, review, and merge from anywhere.",
-      "# Built for the bigger screen The iPad layout is rebuilt around the extra space."
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models Grok Composer Evals Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 3, 2026 · Changelog Google Workspace Plugins Cursor can now read, write, and act across your Google Workspace.",
+      "New plugins give coding agents direct access to Gmail, Google Drive, Calendar, Docs, and Sheets, so you can pull context, draft and update files, and manage your inbox and calendar without leaving Cursor.",
+      "Install plugins to connect: Google Drive: search files and folders, open and download content, create and organize files Gmail: search and read mail, draft and send messages, apply labels and manage threads Google Calendar: read schedules, create and update events, find free time Google Docs: open and read documents, write and edit text, create new docs Google Sheets: read ranges and find values, update cells, create and edit spreadsheets Google Chat: read spaces and messages, send messages and DMs Browse the new plugins in the Cursor Marketplace or install them from the Customize page in Cursor.",
+      "Jul 29, 2026 · Changelog Cursor, now on iPad Cursor for iPad is now available on all paid plans."
     ],
     "claims": [
       {
@@ -540,19 +540,19 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-03T13:31:48.459Z",
+    "publishedAt": "2026-08-04T00:05:32.881Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
+      "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
       "Generative AI Learn how to build with generative AI.",
       "GitHub Copilot Change how you work with GitHub Copilot.",
       "LLMs Everything developers need to know about LLMs."
     ],
     "claims": [
       {
-        "text": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
+        "text": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
         "confidence": "medium",
         "evidence": "https://github.blog/tag/github-copilot/"
       }
@@ -564,12 +564,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-03_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-04_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-03T13:31:48.602Z",
+    "publishedAt": "2026-08-04T00:05:33.290Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,15 +596,15 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-03T13:31:48.930Z",
+    "publishedAt": "2026-08-04T00:05:33.311Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
       "The Official Blog | Replit Agent 4 Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Agent 4 Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Replit Blog Thu, Jul 16, 2026 • Featured The Self-Driving Company We are beginning to see what happens when a company learns to operate itself.",
-      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Wed, Jul 29, 2026 Introducing Replit Design The next era of design, for everyone Thu, Jul 16, 2026 The Self-Driving Company We are beginning to see what happens when a company learns to operate itself.",
-      "Tue, Jun 23, 2026 Closing the loop: Evaluating and improving Replit Agent at scale Most Replit Agent users start with an idea.",
-      "They describe the goal in natural language — without a repo, test suite, or chosen framework — and expect the agent to turn it into a functioning app."
+      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu Data *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Mon, Aug 3, 2026 AI adoption starts with truth The semantic layer is the foundation AI adoption is limited by trust.",
+      "A user who gets burned by a confidently wrong answer will double-check the next one, eventually routing consequential work around the system entirely.",
+      "Once that happens, AI remains a tool at the edges rather than infrastructure at the center… useful, but never trusted with the workflows where its value compounds."
     ],
     "claims": [
       {
@@ -625,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-03T13:31:48.600Z",
+    "publishedAt": "2026-08-04T00:05:32.991Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -650,12 +650,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-03_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-04_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-03T13:31:48.485Z",
+    "publishedAt": "2026-08-04T00:05:32.980Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,7 +682,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-03T13:31:50.126Z",
+    "publishedAt": "2026-08-04T00:05:34.567Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -707,12 +707,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-03_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-04_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-03T13:31:48.644Z",
+    "publishedAt": "2026-08-04T00:05:33.028Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-03T13:31:48.756Z",
+    "publishedAt": "2026-08-04T00:05:33.117Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,10 +747,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 17 days ago • 190 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 4 days ago • 29 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 5 days ago • 14 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • about 8 hours ago • 14 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 10 days ago • 11 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 4 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 6 days ago • 8 FeyNoBg: A SOTA Model For Background Removal feyninc • 7 days ago • 6 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 5 days ago • 6 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • about 9 hours ago • 6 What building Shippy taught us about building agents allenai • 19 days ago • 19 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 5 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 69 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 14 days ago • 20 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 885 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 386 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 11 days ago • 16 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 21 days ago • 38 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 17 days ago • 82 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 60 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 34 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 64 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 51 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 406 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 62 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 52 July 16, 2026 security Hot Security incident disclosure — July 2026 738 July 16, 2026 Model Routing Is Simple.",
-      "71 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 146 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 24 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 43 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 64 July 8, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 4 days ago • 29 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 17 days ago • 190 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 5 days ago • 14 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • about 19 hours ago • 14 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 11 days ago • 11 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 4 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 6 days ago • 8 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 5 days ago • 7 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • about 20 hours ago • 7 FeyNoBg: A SOTA Model For Background Removal feyninc • 7 days ago • 7 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 5 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 69 What building Shippy taught us about building agents allenai • 19 days ago • 19 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 14 days ago • 20 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 885 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 386 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 21 days ago • 38 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 17 days ago • 82 Introducing Cosmos 3 Edge nvidia • 14 days ago • 40 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 68 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 35 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 64 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 51 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 414 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 52 July 16, 2026 security Hot Security incident disclosure — July 2026 739 July 16, 2026 Model Routing Is Simple.",
+      "71 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 147 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 24 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 43 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 65 July 8, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -764,6 +764,96 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_6cbbc59925308962",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+    "title": "Don't be a meat proxy",
+    "publishedAt": "2026-08-03T23:45:04.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Don't be a meat proxy Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 3rd August 2026 - Link Blog Don't be a meat proxy ( via ) Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers.",
+      "Read it, understand it, validate it, and then write a response in your own words (a decent certificate that you've done the prior steps).",
+      "Making that effort is value you can add."
+    ],
+    "claims": [
+      {
+        "text": "Don't be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just relay the output. Read it, understand it, validate it, and then write a response in your own words (a decent certificate that you've done the prior steps). Making that effort is value you can add. Via Lobste.rs Tags: definitions , ai , generative-ai , llms , ai-misuse",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_b204e16125cd01c4",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+    "title": "Quoting David Crawshaw's prompt",
+    "publishedAt": "2026-08-03T16:15:27.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from David Crawshaw's prompt Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 3rd August 2026 Set up a nightly cron job that executes the prompt: fetch upstream changes to the and rebase all local changes on top of upstream.",
+      "Check that the software works as intended and replace the current version.",
+      "&mdash; David Crawshaw's prompt , Devtools must be open source Posted 3rd August 2026 at 4:15 pm Recent articles Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 A Fireside Chat with Cat and Thariq from the Claude Code team - 21st July 2026 This is a quotation collected by Simon Willison, posted on 3rd August 2026 ."
+    ],
+    "claims": [
+      {
+        "text": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the and rebase all local changes on top of upstream. Check that the software works as intended and replace the current version. &mdash; David Crawshaw's prompt , Devtools must be open source Tags: prompt-engineering , coding-agents , generative-ai , ai , llms , open-source",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_ed63582e0e89c5bf",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+    "title": "Devtools must be open source (exe.dev)",
+    "publishedAt": "2026-08-03T15:30:38.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Comment: Devtools must be open source (exe.dev) Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 3rd August 2026 Comment My comment on Devtools must be open source (exe.dev) &mdash; Hacker News One of the arguments for open source software for end-users has always been the freedom to examine and modify how that software works.",
+      "The reality for most people - even expert programmers - has been that the freedom is more about being able to lean on other people to do that.",
+      "Most people can't justify the time commitment needed to read and then modify the code for tools they use very often."
+    ],
+    "claims": [
+      {
+        "text": "My comment on Devtools must be open source (exe.dev) &mdash; Hacker News. One of the arguments for open source software for end-users has always been the freedom to examine and modify how that software works. The reality for most people - even expert programmers - has been that the freedom is more about being able to lean on other people to do that. Most people can't justify the time commitment needed to read and then modify the code for tools they use very often. I think LLMs have changed that equation in a way that makes the original dream much more feasible. Several times a day I'll prompt regular Claude chat to \"Clone x/y from GitHub and tell me how Z works\". Getting software to compile in order to start hacking on it used to be enough friction that I often wouldn't bother. Now I treat that as a zero time investment challenge: tell Codex or Claude Code to checkout and build X and then come back ten minutes later and see how it got on. I'm not habitually modifying the software I use yet, but I can see a path to that which didn't exist a year or so ago. Tags: hacker-news , open-source , ai , generative-ai , llms , ai-assisted-programming",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_ea4c19c3b2d61048",
@@ -826,102 +916,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_simonwillison-blog_cfbb6cb437624568",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
-    "title": "July 2026 newsletter",
-    "publishedAt": "2026-08-02T04:12:41.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "July 2026 newsletter Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 2nd August 2026 The June edition of my sponsors-only monthly newsletter is out.",
-      "If you are a sponsor (or if you start a sponsorship now) you can access it here .",
-      "This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol, Terra, and Luna Claude Opus 5 Kimi K3 and DeepSeek-V4-Flash-0731 Open letters about Al development A fireside chat and a podcast Reigniting my interest in MCP Other model releases My projects What I'm using at the moment Here's a copy of the June newsletter as a preview of what you'll get."
-    ],
-    "claims": [
-      {
-        "text": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol, Terra, and Luna Claude Opus 5 Kimi K3 and DeepSeek-V4-Flash-0731 Open letters about Al development A fireside chat and a podcast Reigniting my interest in MCP Other model releases My projects What I'm using at the moment Here's a copy of the June newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_f245b635b40e16fc",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
-    "title": "Quoting Greg Brockman",
-    "publishedAt": "2026-08-01T22:29:44.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Greg Brockman Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 1st August 2026 at openai, many people hook their chatgpt up to slack.",
-      "people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker.",
-      "reinforces how much people care about human relationships and helping each other, and want AI to give time back — or enhance time together — rather than become a layer separating people."
-    ],
-    "claims": [
-      {
-        "text": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker. reinforces how much people care about human relationships and helping each other, and want AI to give time back — or enhance time together — rather than become a layer separating people. &mdash; Greg Brockman , President and Co-Founder, OpenAI Tags: ai-ethics , ai-misuse , generative-ai , openai , ai , llms",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_88f8f7f28987d03c",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
-    "title": "datasette-apps 0.2a0",
-    "publishedAt": "2026-08-01T21:23:56.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: datasette-apps 0.2a0 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 1st August 2026 Release datasette-apps 0.2a0 &mdash; Apps that live inside Datasette Changes that improve Datasette Apps when created and edited using Datasette Agent : New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript.",
-      "#33 New app_list() tool for listing apps the user has permission to edit, so the agent can edit them.",
-      "#36 The app_debug() tool is pretty neat: it works by displaying the app in a opacity: 0 iframe with pointer-events: none (so it can't be seen or interacted with) and then executing agent-provided JavaScript inside that sandboxed iframe."
-    ],
-    "claims": [
-      {
-        "text": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent : New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33 New app_list() tool for listing apps the user has permission to edit, so the agent can edit them. #36 The app_debug() tool is pretty neat: it works by displaying the app in a opacity: 0 iframe with pointer-events: none (so it can't be seen or interacted with) and then executing agent-provided JavaScript inside that sandboxed iframe. This means the agent can smoke test that the app is working and even do things like measure the dimensions of different elements. This uses the new context.browser_task() mechanism added in datasette-agent 0.4a0 . Tags: iframes , datasette , datasette-apps",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-03T13:31:48.678Z",
+    "publishedAt": "2026-08-04T00:05:32.993Z",
     "categoryHints": [
       "ai-agentic"
     ],
