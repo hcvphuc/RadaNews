@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-04T00:05:33.230Z",
+    "publishedAt": "2026-08-04T12:50:53.437Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-04T00:05:32.786Z",
+    "publishedAt": "2026-08-04T12:50:53.026Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-04T00:05:32.641Z",
+    "publishedAt": "2026-08-04T12:50:52.922Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-04T00:05:32.825Z",
+    "publishedAt": "2026-08-04T12:50:53.346Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -123,7 +123,7 @@
       "ai-agentic"
     ],
     "keyFacts": [
-      "Weekly Thread: Project Display\n\nWeekly thread to show off your AI Agents and LLM Apps!",
+      "Weekly thread to show off your AI Agents and LLM Apps!",
       "Top voted projects will be featured in our weekly newsletter .",
       "submitted by /u/help-me-grow [link] [comments]"
     ],
@@ -167,25 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_eb888ec8237fedf9",
+    "sourceId": "src_reddit-aiagents_e6ef5ffb63c18b81",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1verdt7/conversational_ai_software_for_enterprise/",
-    "title": "Conversational AI software for enterprise customer service",
-    "publishedAt": "2026-08-03T21:59:46.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vf6vih/whats_one_task_ai_agents_should_never_automate/",
+    "title": "What's one task AI agents should never automate?",
+    "publishedAt": "2026-08-04T10:48:32.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "We’re looking at conversational AI software for enterprise customer service which platforms are worth considering?",
-      "I’m interested about real world results with voice support agent handoffs integrations and quality control what has worked well for your team?",
-      "submitted by /u/Disastrous-Wing-7171 [link] [comments]"
+      "AI Agents can automate more tasks than ever before, but not everything should be handed over to AI.",
+      "In your opinion, which tasks should always require human involvement and why?",
+      "Where do you think AI should never replace people?",
+      "submitted by /u/ProposalIntrepid8476 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "We’re looking at conversational AI software for enterprise customer service which platforms are worth considering? I’m interested about real world results with voice support agent handoffs integrations and quality control what has worked well for your team? submitted by /u/Disastrous-Wing-7171 [link] [comments]",
+        "text": "AI Agents can automate more tasks than ever before, but not everything should be handed over to AI. In your opinion, which tasks should always require human involvement and why? Where do you think AI should never replace people? submitted by /u/ProposalIntrepid8476 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1verdt7/conversational_ai_software_for_enterprise/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vf6vih/whats_one_task_ai_agents_should_never_automate/"
       }
     ],
     "usableFor": [
@@ -195,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_a983e51219e8d3dd",
+    "sourceId": "src_reddit-aiagents_58d430463e07d084",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1veeix3/i_ran_8_ai_agent_memory_systems_through_2176/",
-    "title": "I ran 8 AI agent memory systems through 2176 tasks and a plain markdown wiki beat every product.",
-    "publishedAt": "2026-08-03T14:10:01.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vf2ett/went_through_a_stack_of_uncensored_ai_image/",
+    "title": "Went through a stack of uncensored AI image generators this year. Here's the short list that stuck.",
+    "publishedAt": "2026-08-04T06:33:49.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "A few weeks ago I asked here whether anyone had success with second brains.",
-      "About 75k people read that thread and most of the comments were frustration.",
-      "When I published my web search benchmark last month I promised memory tools were next.",
-      "The setup: the same agent setup worked with each of 8 memory systems."
+      "did an uncensored tools roundup here the other day and kept getting asked about the image side specifically, so here's just that.",
+      "same rule as before: tried a lot, dropped most, splitting it by what you actually need.",
+      "if you have a GPU, just run FLUX locally in ComfyUI.",
+      "no filter, no per-image cost, and with the civitai LoRAs you can dial in whatever look you want."
     ],
     "claims": [
       {
-        "text": "A few weeks ago I asked here whether anyone had success with second brains. About 75k people read that thread and most of the comments were frustration. When I published my web search benchmark last month I promised memory tools were next. Here it is: the Agentic Memory Index. The setup: the same agent setup worked with each of 8 memory systems. Each system got 272 scored tasks: 200 questions about facts stored across simulated multi-week working relationships, plus 72 questions about facts that were never stored, to catch invented memories. There was also a separate scale test with a 5,000-page store. The judge was calibrated against two independent human labelers before the run. What I found: The winner is not a product. A plain markdown wiki that the agent curates itself, following Karpathy's llm-wiki gist, scored 98.5. Every product came in below it. Mitosis Cortex was the top hosted product at 96.9. gbrain, a free open-source local tool, scored 92.9, ahead of every hosted API except Mitosis Cortex. Mem0 (92.3) was the cheapest per 1,000 successful answers at $341. Zep's biggest problem was freshness: a just-stored fact took 162.7 seconds at the median before it became answerable. It passed 8 of 24 update questions. Supermemory was near perfect for recently stored memories (59/60 recall) but passed only 11 of 72 long-horizon questions. If I were choosing today: for a hosted memory API I would start with Mitosis Cortex, it ranked first of the five hosted tools. If I wanted free and local, the boring answer held up: markdown files curated by the agent or gbrain. If cost per answer is the constraint, Mem0 was the cheapest per successful answer in the whole set. The full rankings, confidence intervals, failure breakdowns, cost and speed data and the methodology are in the first comment. Next up: a free tool that shows you what tools your agent should use and how much smarter your agent would be with them. submitted by /u/Major-Shirt-8227 [link] [comments]",
+        "text": "did an uncensored tools roundup here the other day and kept getting asked about the image side specifically, so here's just that. same rule as before: tried a lot, dropped most, splitting it by what you actually need. if you have a GPU, just run FLUX locally in ComfyUI. no filter, no per-image cost, and with the civitai LoRAs you can dial in whatever look you want. the only tax is setup time and disk space. still the best answer if you'll put in the hour. when i can't be bothered to spin up comfy i go hosted. two survived my testing. Krea 2 Turbo when i want something in a few seconds without babysitting it, it's open and holds detail well for how fast it runs. and the Wan spicy image models when i need it to actually follow the prompt instead of softening everything. i call both through Atlas Cloud since they sit on one key next to FLUX and i'm bouncing between them anyway. the thing the ranking lists skip: speed and \"will it refuse\" are two separate problems. plenty of tools are uncensored but slow, or fast but neuter half your prompts. i gave up hunting one tool that does both and just kept a fast one (Krea) and one that won't flinch (Wan spicy). other thing, if you go hosted, check whether they hang onto your images. most pages just don't say. that silence is the answer. submitted by /u/Fun_Walk_4965 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1veeix3/i_ran_8_ai_agent_memory_systems_through_2176/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vf2ett/went_through_a_stack_of_uncensored_ai_image/"
       }
     ],
     "usableFor": [
@@ -224,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_86cb1e10c78a38b0",
+    "sourceId": "src_reddit-aiagents_badc89b326bd9389",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1veqkos/why_did_my_ai_agent_retrieve_the_wrong_memory_i/",
-    "title": "Why did my AI agent retrieve the wrong memory? I built a debugger for that",
-    "publishedAt": "2026-08-03T21:28:19.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vf2bjl/qwen_vs_kimi_vs_chatgpt_plus_for_coding_only/",
+    "title": "Qwen vs Kimi vs ChatGPT Plus for coding only which has the best limits?",
+    "publishedAt": "2026-08-04T06:28:37.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I got tired of debugging AI agents with print() statements.",
-      "It's a local debugger that lets you inspect prompts, memory, retrieval, tool calls, and compare good vs.",
-      "It currently supports LangChain and includes a free Groq demo that takes just a couple of minutes to run.",
-      "I wanted to share it because I feel like it could help anyone who's ever spet 2 hours trying to figure out why their agent behaved the way it did."
+      "I’m trying to decide which subscription to get for coding.",
+      "Right now I’m looking at: * ChatGPT Plus with Codex * Qwen’s subscription with Qwen Code * Kimi’s subscription/coding agent My biggest concern is the usage limits.",
+      "I don’t want to subscribe and then hit the limit after a few decent-sized coding sessions.",
+      "For anyone who has used two or more of these: * Which one gives you the most coding usage for the money?"
     ],
     "claims": [
       {
-        "text": "I got tired of debugging AI agents with print() statements. So i built Agent DevTools. It's a local debugger that lets you inspect prompts, memory, retrieval, tool calls, and compare good vs. bad runs. It currently supports LangChain and includes a free Groq demo that takes just a couple of minutes to run. I wanted to share it because I feel like it could help anyone who's ever spet 2 hours trying to figure out why their agent behaved the way it did. There's also a short demo video in the README. submitted by /u/No_Firefighter8428 [link] [comments]",
+        "text": "I’m trying to decide which subscription to get for coding. Right now I’m looking at: * ChatGPT Plus with Codex * Qwen’s subscription with Qwen Code * Kimi’s subscription/coding agent My biggest concern is the usage limits. I don’t want to subscribe and then hit the limit after a few decent-sized coding sessions. For anyone who has used two or more of these: * Which one gives you the most coding usage for the money? * How often do you hit the limits? * Is Qwen or Kimi actually a better value than ChatGPT Plus? * How good are they at understanding larger codebases and making changes across multiple files? * Are there any annoying restrictions, hidden credit systems, or extra API costs? I’m leaning toward Qwen or Kimi if the limits are significantly better, but I’d rather stay with ChatGPT Plus if Codex is still more reliable overall. Would appreciate hearing from people who actually use these tools daily for coding. submitted by /u/Extra-Designer9333 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1veqkos/why_did_my_ai_agent_retrieve_the_wrong_memory_i/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vf2bjl/qwen_vs_kimi_vs_chatgpt_plus_for_coding_only/"
       }
     ],
     "usableFor": [
@@ -258,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-04T00:05:32.926Z",
+    "publishedAt": "2026-08-04T12:50:53.192Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -284,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-04T00:05:33.501Z",
+    "publishedAt": "2026-08-04T12:50:53.568Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-04T00:05:33.227Z",
+    "publishedAt": "2026-08-04T12:50:53.079Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,7 +345,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-04T00:05:32.833Z",
+    "publishedAt": "2026-08-04T12:50:52.981Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -371,7 +372,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-04T00:05:32.829Z",
+    "publishedAt": "2026-08-04T12:50:52.991Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-04T00:05:33.127Z",
+    "publishedAt": "2026-08-04T12:50:53.532Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-04T00:05:33.282Z",
+    "publishedAt": "2026-08-04T12:50:53.117Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,14 +456,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-04T00:05:34.690Z",
+    "publishedAt": "2026-08-04T12:50:53.809Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
+      "Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
       "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
     ],
     "claims": [
@@ -484,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-04T00:05:32.877Z",
+    "publishedAt": "2026-08-04T12:50:53.057Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,14 +512,14 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-04T00:05:33.124Z",
+    "publishedAt": "2026-08-04T12:50:53.468Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
       "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models Grok Composer Evals Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 3, 2026 · Changelog Google Workspace Plugins Cursor can now read, write, and act across your Google Workspace.",
       "New plugins give coding agents direct access to Gmail, Google Drive, Calendar, Docs, and Sheets, so you can pull context, draft and update files, and manage your inbox and calendar without leaving Cursor.",
-      "Install plugins to connect: Google Drive: search files and folders, open and download content, create and organize files Gmail: search and read mail, draft and send messages, apply labels and manage threads Google Calendar: read schedules, create and update events, find free time Google Docs: open and read documents, write and edit text, create new docs Google Sheets: read ranges and find values, update cells, create and edit spreadsheets Google Chat: read spaces and messages, send messages and DMs Browse the new plugins in the Cursor Marketplace or install them from the Customize page in Cursor.",
+      "Install plugins to connect: Google Drive : search files and folders, open and download content, create and organize files Gmail : search and read mail, draft and send messages, apply labels and manage threads Google Calendar : read schedules, create and update events, find free time Google Docs : open and read documents, write and edit text, create new docs Google Sheets : read ranges and find values, update cells, create and edit spreadsheets Browse the new plugins in the Cursor Marketplace or install them from the Customize page in Cursor.",
       "Jul 29, 2026 · Changelog Cursor, now on iPad Cursor for iPad is now available on all paid plans."
     ],
     "claims": [
@@ -540,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-04T00:05:32.881Z",
+    "publishedAt": "2026-08-04T12:50:53.828Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -569,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-04T00:05:33.290Z",
+    "publishedAt": "2026-08-04T12:50:53.184Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-04T00:05:33.311Z",
+    "publishedAt": "2026-08-04T12:50:53.528Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -625,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-04T00:05:32.991Z",
+    "publishedAt": "2026-08-04T12:50:53.195Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -655,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-04T00:05:32.980Z",
+    "publishedAt": "2026-08-04T12:50:53.100Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-04T00:05:34.567Z",
+    "publishedAt": "2026-08-04T12:50:54.967Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -712,7 +713,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-04T00:05:33.028Z",
+    "publishedAt": "2026-08-04T12:50:53.130Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-04T00:05:33.117Z",
+    "publishedAt": "2026-08-04T12:50:53.243Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,10 +748,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 4 days ago • 29 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 17 days ago • 190 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 5 days ago • 14 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • about 19 hours ago • 14 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 11 days ago • 11 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 4 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 6 days ago • 8 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 5 days ago • 7 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • about 20 hours ago • 7 FeyNoBg: A SOTA Model For Background Removal feyninc • 7 days ago • 7 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 5 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 371 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 69 What building Shippy taught us about building agents allenai • 19 days ago • 19 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 14 days ago • 20 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 885 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 386 J-Space: Yet Another LLM Mind Reader?",
-      "dlouapre • 21 days ago • 38 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers nvidia • 17 days ago • 82 Introducing Cosmos 3 Edge nvidia • 14 days ago • 40 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 68 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 35 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 64 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 51 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 414 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 52 July 16, 2026 security Hot Security incident disclosure — July 2026 739 July 16, 2026 Model Routing Is Simple.",
-      "71 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 147 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 24 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 43 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 65 July 8, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 5 days ago • 30 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 18 days ago • 191 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 6 days ago • 15 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 1 day ago • 15 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 5 days ago • 9 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 7 days ago • 8 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 1 day ago • 8 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 11 days ago • 11 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 6 days ago • 7 FeyNoBg: A SOTA Model For Background Removal feyninc • 8 days ago • 7 Bekko Embedding: how small can a multilingual retrieval model be?",
+      "hotchpotch • 6 days ago • 5 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 6 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 372 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 69 What building Shippy taught us about building agents allenai • 20 days ago • 19 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 15 days ago • 20 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 885 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 386 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 174 J-Space: Yet Another LLM Mind Reader?",
+      "dlouapre • 22 days ago • 38 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 72 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 35 July 28, 2026 LFM2.5-Encoders for Fast Long-Context Inference on CPU 65 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 51 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 418 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 52 July 16, 2026 security Hot Security incident disclosure — July 2026 744 July 16, 2026 Model Routing Is Simple."
     ],
     "claims": [
       {
@@ -764,6 +765,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_75fba5e750f8a75d",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+    "title": "Quoting Steve Yegge",
+    "publishedAt": "2026-08-04T00:42:45.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Steve Yegge Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 4th August 2026 Gas Town was intended to be reusable, but I only ever wound up using it to build itself.",
+      "Gas Town fell apart at the seams with Opus 4.7.",
+      "Up through 4.6 it was working brilliantly."
+    ],
+    "claims": [
+      {
+        "text": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the \"just two more things\" tic, which prevented Opus from ever converging on being ready to do real work—it always wanted to fiddle with Gas Town itself. The Opus tic never went away, so Gas Town effectively burned down. It had other problems, too, but 4.7 was the final straw. &mdash; Steve Yegge , The Shape of Things to Come Tags: steve-yegge , coding-agents , generative-ai , ai , llms",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_6cbbc59925308962",
@@ -886,42 +917,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_49819dd5fdb9298c",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-    "title": "Open letters about AI development",
-    "publishedAt": "2026-08-02T04:16:52.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Open letters about AI development Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 2nd August 2026 Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well.",
-      "Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA (see Jensen's first ever tweet ), Amazon, Y Combinator, The Linux Foundation, and (a later signer) OpenAI.",
-      "It's clearly an argument designed to counter any instincts by the current US government to ban or limit open weight models over \"safety\" concerns - a reasonable consideration given what happened to Claude Fable 5 !"
-    ],
-    "claims": [
-      {
-        "text": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA (see Jensen's first ever tweet ), Amazon, Y Combinator, The Linux Foundation, and (a later signer) OpenAI. It's clearly an argument designed to counter any instincts by the current US government to ban or limit open weight models over \"safety\" concerns - a reasonable consideration given what happened to Claude Fable 5 ! Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect. And concentrating advanced AI capabilities behind a small number of closed models compounds that risk. It results in a small number of single points of failure, weakens competition, and leaves critical technology in the hands of a few providers. Open weight models, on the other hand, allow a broad community of researchers and developers to examine their behavior, identify vulnerabilities, develop safeguards, and improve them over time. The one surprising note in the letter is that it comes out in support of distillation, where models train on output from other models: In shaping this ecosystem, policymakers should be careful not to conflate legitimate model-development techniques with misappropriation. Distillation, or the practice of using one model’s outputs to help train or improve another, is a widely used technique for model improvement, evaluation, and validation. It reflects a long tradition of learning from, building upon, and improving existing technologies, a tradition that has helped drive innovation since the rise of the open-source software movement. Notably absent from the signatures: Anthropic, who published their own response Our position on open-weights models three days later. CEO Dario Amodei doubled down on the risk of authoritarian governments building \"AI models that are more powerful than those built by the US\", and models being \"misused to carry out cyberattacks or biological attacks\", and called for \"a crack down on industrial-scale distillation operations \", while also stating that \"Anthropic has never advocated for a ban on open-weights models\". Then on July 28th Pacing the Frontier was published, featuring signatures from \"1,324 employees of frontier AI companies\" - with names like Jakub Pachocki (Chief Scientist, OpenAI), Ilya Sutskever (Safe Superintelligence Inc, previously OpenAI), Dario Amodei (Anthropic), Jack Clark (Anthropic) and more. Their core message: We request that the U.S. government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development. Their concern is intense competitive pressure combined with accelerated AI progress caused by automated AI research - and given that Anthropic produce 80% of their code with Claude Code , OpenAI had Sol reduce their end-to-end serving costs by 20% , and Kimi K3 designed a chip to serve a nano model built on its own architecture , you can see why people are taking that risk more seriously right now. Tags: anthropic , generative-ai , openai , ai , llms , ai-ethics",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-04T00:05:32.993Z",
+    "publishedAt": "2026-08-04T12:50:53.272Z",
     "categoryHints": [
       "ai-agentic"
     ],
