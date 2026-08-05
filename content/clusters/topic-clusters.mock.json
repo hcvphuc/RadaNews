@@ -6,13 +6,14 @@
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_ea4c19c3b2d61048",
       "src_simonwillison-blog_75fba5e750f8a75d",
       "src_simonwillison-blog_6cbbc59925308962",
-      "src_simonwillison-blog_b204e16125cd01c4"
+      "src_simonwillison-blog_b204e16125cd01c4",
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_148cae35edce1e46"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, LangChain Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, LangChain Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -22,11 +23,11 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_simonwillison-blog_ed63582e0e89c5bf",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1"
+      "src_simonwillison-blog_dd827415f1665831",
+      "src_simonwillison-blog_ed63582e0e89c5bf"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -61,50 +62,49 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-04",
+    "clusterId": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-08-04",
     "category": "ai-vibe-coding",
-    "topic": "The Official Blog | Replit",
+    "topic": "GitHub Copilot Archives - The GitHub Blog",
     "sourceIds": [
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
       "src_replit-blog_2c607cbee6384da3",
-      "src_reddit-aiagents_badc89b326bd9389",
       "src_vercel-ai-blog_2026-08-04_fallback"
     ],
-    "articleWorthinessScore": 0.82,
-    "reasonSelected": "Score 0.82 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
+    "articleWorthinessScore": 0.89,
+    "reasonSelected": "Score 0.89 from 3 source item(s), 2 live crawl(s), strongest sources: GitHub Copilot Blog, Replit Blog, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-04",
+    "clusterId": "cluster_ai-agentic_2_i-built-an-open-source-memory-layer-to-stop-cross-tenant-leaks-i_2026-08-04",
     "category": "ai-agentic",
-    "topic": "What's New in Cursor — Latest Updates & Release Notes",
+    "topic": "I built an open-source memory layer to stop cross-tenant leaks in AI agents",
     "sourceIds": [
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_e6ef5ffb63c18b81",
+      "src_reddit-aiagents_c47ea1a13711f786",
+      "src_reddit-aiagents_85190011daf3f1f8",
       "src_reddit-aiagents_07de713a4f25a422",
       "src_reddit-aiagents_d16fd8e6af3bf390",
       "src_openai-blog_2026-08-04_fallback",
       "src_mcp-blog_2026-08-04_fallback"
     ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 6 source item(s), 4 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_went-through-a-stack-of-uncensored-ai-image-generators-this-year_2026-08-04",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-04",
     "category": "ai-image",
-    "topic": "Went through a stack of uncensored AI image generators this year. Here's the ...",
+    "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aiagents_58d430463e07d084",
       "src_stability-ai-blog_2026-08-04_fallback",
       "src_reddit-stablediffusion_2026-08-04_fallback",
       "src_reddit-comfyui_2026-08-04_fallback",
       "src_reddit-midjourney_2026-08-04_fallback"
     ],
-    "articleWorthinessScore": 0.62,
-    "reasonSelected": "Score 0.62 from 5 source item(s), 1 live crawl(s), strongest sources: r/AI_Agents, Stability AI Blog, r/StableDiffusion.",
-    "confidence": "medium",
+    "articleWorthinessScore": 0.44,
+    "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
+    "confidence": "low",
     "selectedForGeneration": true
   },
   {
