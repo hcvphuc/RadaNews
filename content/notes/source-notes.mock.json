@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-05T12:29:58.841Z",
+    "publishedAt": "2026-08-05T23:56:59.802Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely LLM Gateway Control agent model calls No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "How to evaluate voice agents: execution, outcomes, and experience Caroline di Vittorio August 4, 2026 11 min No items found.",
+      "How we build an autonomous SRE Agent for Kubernetes Deployments Eric Johanson August 5, 2026 9 min No items found.",
       "LangSmith LLM Gateway: runtime controls for production agents Martha Janicki Ramon Petgrave July 30, 2026 7 min Harrison's In the Loop What does it mean to \"own your intelligence\"?"
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-05T12:29:58.251Z",
+    "publishedAt": "2026-08-05T23:56:59.127Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-05T12:29:58.073Z",
+    "publishedAt": "2026-08-05T23:56:59.020Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-05T12:29:58.793Z",
+    "publishedAt": "2026-08-05T23:57:00.940Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -113,12 +113,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_d16fd8e6af3bf390",
+    "sourceId": "src_reddit-aiagents_83556b581b704197",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1va0dj0/weekly_thread_project_display/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vgbhal/weekly_thread_project_display/",
     "title": "Weekly Thread: Project Display",
-    "publishedAt": "2026-07-29T16:00:31.000Z",
+    "publishedAt": "2026-08-05T16:00:58.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -131,7 +131,7 @@
       {
         "text": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1va0dj0/weekly_thread_project_display/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vgbhal/weekly_thread_project_display/"
       }
     ],
     "usableFor": [
@@ -158,6 +158,64 @@
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
         "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vehk96/weekly_hiring_thread/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aiagents_43485121dbf1d280",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vgjw7b/a_new_business_model_in_coding_agents_from_meta_i/",
+    "title": "A new business model in coding agents from Meta (I don't like it, but it'll be likely effective)",
+    "publishedAt": "2026-08-05T21:00:57.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Okay, what we have: Muse Code (an analog of Claude Code) and an updated Muse Spark 1.2 (an analog of Opus), including a version labeled \"contributor\" (and this is where the real novelty is).",
+      "After the failure of the Llama models, when the claimed benchmarks didn't really hold up in reality, right now Meta is looking much more confident and is doing a few things that other companies don't do but that are quite effective.",
+      "First – what we've heard more than once in the news: their best programmers, instead of developing products, are solving olympiad-style problems or something like that, to get unique high-quality datasets.",
+      "This caused a wave of criticism both inside and outside the organization, but apparently in the end it turned out to be effective enough."
+    ],
+    "claims": [
+      {
+        "text": "Okay, what we have: Muse Code (an analog of Claude Code) and an updated Muse Spark 1.2 (an analog of Opus), including a version labeled \"contributor\" (and this is where the real novelty is). My thoughts on this are as follows. After the failure of the Llama models, when the claimed benchmarks didn't really hold up in reality, right now Meta is looking much more confident and is doing a few things that other companies don't do but that are quite effective. First – what we've heard more than once in the news: their best programmers, instead of developing products, are solving olympiad-style problems or something like that, to get unique high-quality datasets. This caused a wave of criticism both inside and outside the organization, but apparently in the end it turned out to be effective enough. Second – in parallel with the main model, which is pretty decent on agentic benchmarks, they're releasing a model labeled \"Contributor\" – it will be trained on your data, but it'll cost you almost nothing – literally 20 times cheaper than the main model. To me this looks like a new business model in coding agents. Before this there was a pretty unambiguous taboo – top frontier companies don't train on user data. And here it's stated that they will. And on a large scale. A fresh example – Cursor, which recently managed to build a good in-house model precisely because they had accumulated data from user programming logs. Google didn't have such data, and that's why their models on programming, especially agentic ones, are not very competitive. And Meta had even less than that – no CLI or IDE at all. And now Meta is trying to get such data right away at scale. Let's see what happens. A very interesting case. Thoughts? submitted by /u/Imaginary_Dinner2710 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vgjw7b/a_new_business_model_in_coding_agents_from_meta_i/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aiagents_0deb19262a5556cd",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vg9ui5/what_ai_tools_are_you_actually_using_right_now/",
+    "title": "What AI Tools Are You Actually Using Right Now?",
+    "publishedAt": "2026-08-05T15:02:23.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "I've been trying a bunch of AI tools lately, and honestly, it's getting harder to tell which ones people actually use every day and which ones just have good marketing.",
+      "What's one AI tool you keep coming back to?",
+      "The one that's become part of your daily workflow because it genuinely saves you time or makes your work easier.",
+      "Doesn't matter if it's for writing, coding, research, design, video, automation, business, or something really niche."
+    ],
+    "claims": [
+      {
+        "text": "I've been trying a bunch of AI tools lately, and honestly, it's getting harder to tell which ones people actually use every day and which ones just have good marketing. So I figured I'd ask here instead. What's one AI tool you keep coming back to? The one that's become part of your daily workflow because it genuinely saves you time or makes your work easier. I'm open to anything. Doesn't matter if it's for writing, coding, research, design, video, automation, business, or something really niche. If you think it's worth checking out, I'd love to hear why. If it has a solid free plan or you can start using it without pulling out a credit card, even better. I'll go through all the replies and put together a community list of the tools people actually recommend. Hopefully it'll be more useful than another generic \"top AI tools\" article. submitted by /u/Hot_Algae_7267 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vg9ui5/what_ai_tools_are_you_actually_using_right_now/"
       }
     ],
     "usableFor": [
@@ -196,70 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_3d368a01e756d702",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vg4a34/using_ai_agents_as_a_development_partner_has/",
-    "title": "Using AI agents as a development partner has changed how I build projects",
-    "publishedAt": "2026-08-05T11:06:51.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "I've been using AI agents while building a small side project called Wedding Venue Lighting, and the experience has been very different from what I expected.",
-      "At first, I thought I'd mainly use AI to generate code.",
-      "Instead, it's become part of my development process.",
-      "I use it to think through ideas, question my approach, spot potential problems before I spend time building a feature, and help refine content and user flows."
-    ],
-    "claims": [
-      {
-        "text": "I've been using AI agents while building a small side project called Wedding Venue Lighting, and the experience has been very different from what I expected. At first, I thought I'd mainly use AI to generate code. Instead, it's become part of my development process. I use it to think through ideas, question my approach, spot potential problems before I spend time building a feature, and help refine content and user flows. I still make the final decisions and verify everything myself, but having that extra layer of feedback has made development feel much more efficient. What surprised me most is that the biggest benefit hasn't been writing code faster. It's helped me make better decisions before I even start coding, which has saved me from reworking features later. Has anyone else noticed the same shift? Are AI agents changing the way you build projects, or do you still mostly use them as coding assistants? I'd be interested to hear how they've changed your workflow over time. submitted by /u/Immediate_Lunch_3657 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vg4a34/using_ai_agents_as_a_development_partner_has/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_655569b3fbefef86",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vg5t3o/can_codex_help_me_rebuild_my_wordpress_website/",
-    "title": "Can Codex Help Me Rebuild My WordPress Website?",
-    "publishedAt": "2026-08-05T12:21:01.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "I'm hoping to get some advice from people who've actually done this.",
-      "My website is built on WordPress, hosted on Hostinger, and designed with Elementor.",
-      "Over time, it has quite a few plugins, and it's become clear that it needs much more than a few cosmetic changes.n.",
-      "I'm wondering whether Codex is the right tool for a project like this."
-    ],
-    "claims": [
-      {
-        "text": "I'm hoping to get some advice from people who've actually done this. My website is built on WordPress, hosted on Hostinger, and designed with Elementor. Over time, it has quite a few plugins, and it's become clear that it needs much more than a few cosmetic changes.n. I'm wondering whether Codex is the right tool for a project like this. Has anyone successfully used Codex to work on an existing WordPressand Elementor website? Can it reliably handle redesigns, content restructuring, styling, and pluginsrelated changes, or does it struggle with that kind of environment? I'd really appreciate hearing from anyone with real-world experience what worked well, what didn't, and any recommendations or best practices before I dive into such a large project. submitted by /u/Silly-Commission-630 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vg5t3o/can_codex_help_me_rebuild_my_wordpress_website/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_stability-ai-blog_2026-08-05_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-05T12:29:58.490Z",
+    "publishedAt": "2026-08-05T23:56:59.221Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-05T12:29:59.251Z",
+    "publishedAt": "2026-08-05T23:56:59.859Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-05T12:29:58.338Z",
+    "publishedAt": "2026-08-05T23:56:59.269Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,16 +344,16 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-05T12:29:58.214Z",
+    "publishedAt": "2026-08-05T23:56:59.187Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "2026-08-05T12:30:00+00:00 https://www.redditstatic.com/icon.png/ /r/StableDiffusion/.rss /r/StableDiffusion is an unofficial community embracing the open-source material of all related.",
+      "2026-08-05T23:57:01+00:00 https://www.redditstatic.com/icon.png/ /r/StableDiffusion/.rss /r/StableDiffusion is an unofficial community embracing the open-source material of all related.",
       "Post art, ask questions, create discussions, contribute new tech, or browse the subreddit.",
-      "StableDiffusion /u/blahblahsnahdah https://www.reddit.com/user/blahblahsnahdah &#32; submitted by &#32; /u/blahblahsnahdah [link] &#32; [comments] t3_1ve0urz 2026-08-03T02:28:28+00:00 2026-08-03T02:28:28+00:00 MiniMax-H3 weights up /u/eckstuhc https://www.reddit.com/user/eckstuhc Default workflow with some post processing to cut/trim/cleanup clips and audio.",
-      "&#32; submitted by &#32; /u/eckstuhc [link] &#32; [comments] t3_1vg21bc 2026-08-05T09:05:11+00:00 2026-08-05T09:05:11+00:00 Minimax H3 - Out the Box, This is Wild /u/Athem https://www.reddit.com/user/Athem &#32; submitted by &#32; /u/Athem [link] &#32; [comments] t3_1vg3vet 2026-08-05T10:46:33+00:00 2026-08-05T10:46:33+00:00 I never thought I'd be able to do something like this locally on an RTX 4070, but Minimax H3..."
+      "StableDiffusion /u/blahblahsnahdah https://www.reddit.com/user/blahblahsnahdah &#32; submitted by &#32; /u/blahblahsnahdah [link] &#32; [comments] t3_1ve0urz 2026-08-03T02:28:28+00:00 2026-08-03T02:28:28+00:00 MiniMax-H3 weights up /u/PetersOdyssey https://www.reddit.com/user/PetersOdyssey &#32; submitted by &#32; /u/PetersOdyssey [link] &#32; [comments] t3_1vgi3tp 2026-08-05T19:55:48+00:00 2026-08-05T19:55:48+00:00 76 five-second clips exploring different animation styles with MiniMax H3 (all generated locally on a 6-year-old GPU by the_shadow_nyc) /u/Time-Ad-7720 https://www.reddit.com/user/Time-Ad-7720 Workflow: github.com/Comfy-Org/workflow_templates/blob/main/templates/video_minimax_h3_r2v.json Used multiple reference images for each scene.",
+      "Prompt For Multi Character: subject_definitions: &lt;Subject 1&gt; is [CHARACTER 1] from &lt;Picture 1&gt;, preserving the visual identity, costume, proportions, accessories, and visual style shown in the reference image."
     ],
     "claims": [
       {
@@ -374,7 +374,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-05T12:29:58.226Z",
+    "publishedAt": "2026-08-05T23:56:59.188Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -401,7 +401,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-05T12:29:58.802Z",
+    "publishedAt": "2026-08-05T23:56:59.718Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -430,7 +430,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-05T12:29:58.432Z",
+    "publishedAt": "2026-08-05T23:56:59.338Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -458,7 +458,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-05T12:29:59.431Z",
+    "publishedAt": "2026-08-05T23:57:00.444Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -487,7 +487,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-05T12:29:58.326Z",
+    "publishedAt": "2026-08-05T23:56:59.300Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -514,7 +514,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-05T12:29:58.844Z",
+    "publishedAt": "2026-08-05T23:56:59.787Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -543,7 +543,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-05T12:29:58.353Z",
+    "publishedAt": "2026-08-05T23:56:59.347Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -572,7 +572,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-05T12:29:58.739Z",
+    "publishedAt": "2026-08-05T23:56:59.659Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -599,7 +599,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-05T12:29:58.891Z",
+    "publishedAt": "2026-08-05T23:56:59.839Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -628,7 +628,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-05T12:29:58.475Z",
+    "publishedAt": "2026-08-05T23:56:59.579Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -658,7 +658,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-05T12:29:58.431Z",
+    "publishedAt": "2026-08-05T23:56:59.392Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -685,7 +685,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-05T12:30:00.462Z",
+    "publishedAt": "2026-08-05T23:57:01.209Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -715,7 +715,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-05T12:29:58.441Z",
+    "publishedAt": "2026-08-05T23:56:59.475Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -742,7 +742,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-05T12:29:58.519Z",
+    "publishedAt": "2026-08-05T23:56:59.569Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -750,9 +750,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 6 days ago • 32 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 8 days ago • 65 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 2 days ago • 21 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 7 days ago • 15 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 6 days ago • 11 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 19 days ago • 193 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 7 days ago • 9 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 2 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 373 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 Bekko Embedding: how small can a multilingual retrieval model be?",
-      "hotchpotch • 7 days ago • 5 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 7 days ago • 5 🎲 Apprendre à un réseau à écrire avec seulement une récompense — il a atteint 99,9 % grammatical sans apprendre une seule règle 🇫🇷 RDTvlokip • 7 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 886 Be Ready Before the Attack: A Practical Guide to Self-Hosting an Open Model for Cyber Defense jeffboudier • 16 days ago • 20 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 12 days ago • 11 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 174 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 14 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • Jun 4 • 75 Hugging Face on AMD Instinct MI455X: First Transformers Results badaoui • 13 days ago • 18 Deploy local agents everywhere with LFM2.5-2.6B 35 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 74 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 37 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 52 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 423 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 53 July 16, 2026 security Hot Security incident disclosure — July 2026 749 July 16, 2026 Model Routing Is Simple.",
-      "73 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 150 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 26 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 45 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 68 July 8, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 6 days ago • 33 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 3 days ago • 21 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 8 days ago • 65 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 6 days ago • 11 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 19 days ago • 193 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 7 days ago • 15 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 3 days ago • 9 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • about 9 hours ago • 8 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 13 days ago • 12 Bekko Embedding: how small can a multilingual retrieval model be?",
+      "hotchpotch • 8 days ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 886 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 373 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 7 days ago • 9 Training a 2.7B MoE from scratch for $200, one GPU at a time vovaRL • 7 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • about 21 hours ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 388 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 174 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 14 How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent nvidia • Jun 4 • 75 Deploy local agents everywhere with LFM2.5-2.6B 45 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 77 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 37 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 54 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 428 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 49 July 21, 2026 Newer Models, Same Advantage 53 July 16, 2026 security Hot Security incident disclosure — July 2026 750 July 16, 2026 Model Routing Is Simple.",
+      "73 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 150 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 26 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 46 July 10, 2026 vllm transformers inference Native-speed vLLM transformers modeling backend 68 July 8, 2026 Previous 1 2 3 ...",
       "60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -767,6 +767,96 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_c63f3f485eec9518",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "publishedAt": "2026-08-05T23:45:32.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Third-party cyber evaluations involving OpenAI models Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 5th August 2026 - Link Blog Third-party cyber evaluations involving OpenAI models .",
+      "I had to create a accidental-cyberattacks tag to keep track of them all!",
+      "This post from OpenAI covers both the UK AI Safety Institute attack (see my previous post ) and another attack enabled by Irregular : Irregular, one of our external cybersecurity testing partners, was running Capture-the-Flag-style evaluations intended to be isolated from the internet, but a testing-environment misconfiguration allowed models to access the public internet."
+    ],
+    "claims": [
+      {
+        "text": "Third-party cyber evaluations involving OpenAI models And another one . I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my previous post ) and another attack enabled by Irregular : Irregular, one of our external cybersecurity testing partners, was running Capture-the-Flag-style evaluations intended to be isolated from the internet, but a testing-environment misconfiguration allowed models to access the public internet. [...] In one test, the name of the fictional target for the CTF challenge unintentionally coincided with a real domain. Because the testing environment was mistakenly connected to the internet, the model exploited a real website, mistaking it to be part of the simulated environment. Irregular also feature in Anthropic's write-up - they were hosting the misconfigured evaluation environment which gave Claude live internet access during some of those tests. Tags: security , ai , openai , llms , accidental-cyberattacks",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_b4b2e05d9f2c65a2",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+    "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+    "publishedAt": "2026-08-05T23:32:06.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Incident Report: unsanctioned agent behaviour during cyber testing Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
+      "Explore how AI for ISVs turns vision into results 5th August 2026 - Link Blog Incident Report: unsanctioned agent behaviour during cyber testing .",
+      "This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters turned off.",
+      "From their technical paper (PDF): During a cyber evaluation, from 25 to 28 July 2026, AI agents engaged in sustained, unsanctioned activity directed at what were, in practice, real people and organisations."
+    ],
+    "claims": [
+      {
+        "text": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again . This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters turned off. From their technical paper (PDF): During a cyber evaluation, from 25 to 28 July 2026, AI agents engaged in sustained, unsanctioned activity directed at what were, in practice, real people and organisations. These attempts were unsuccessful and, to the best of our knowledge, no real-world harm resulted. [...] Across 122 evaluation attempts on two of AISI’s cyber challenges, AISI found 19 instances where AI agents took unsanctioned action on the live internet, including cases that targeted real people and organisations. [...] It is uncertain to what extent the model recognised it was taking actions against real people. In the most serious case, an AI agent (Mythos 5) decided to attempt to solve the cyber challenge using a supply-chain attack. As a result, the AI agent created a GitHub account and then tried to convince an open-source repository maintainer to accept a malicious GitHub pull request (PR), including by creating a second account masquerading as another human user endorsing the PR. [...] Furthermore, in its attempt to solve the challenge, the agent decided to employ the technique of “spear-phishing” by sending targeted emails containing malicious content and attempting to manipulate recipients into accepting the code changes, and planned a prompt injection to compromise other coding agents. The thing I found most surprising is that AISI were running these agents without any form of network sandboxing at all: AISI provided the AI agents with internet access during these evaluations, which enabled their actions on the open internet in this setting. Internet access was a deliberate part of AISI’s evaluation configuration in this setting, and not due to sandbox escape. This, combined with the fact that \"AISI deliberately disables developer-implemented cyber-classifiers\", makes the fact that the agents started attacking real-world targets entirely unsurprising to me. Most of the reported incidents were claude Mythos 5, but \"GPT-5.6 Sol without cyber classifiers\" scored a few as well. Here's \"Sample 1\" from the paper, in which the agent tries to execute a supply-chain attack by submitting a PR with a hidden prompt injection attack, then social engineering with a second agent pretending to have reviewed the code! It's a fun paper. I recommend reading the whole thing. Tags: github , security , ai , prompt-injection , generative-ai , llms , ai-ethics , paper-review , ai-security-research , claude-mythos-fable , accidental-cyberattacks",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_cbf91ba71046877b",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+    "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+    "publishedAt": "2026-08-05T19:42:38.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E.",
+      "Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web ) could build the entire game from the content of that tweet.",
+      "Here's the GitHub repo , and a short video demo: Your browser does not support HTML5 video.",
+      "How I built this This is the August 5th, 2022 tweet : My GPT-3 prompt back then was: Write a detailed product description of a computer game where a team of raccoons go on heists."
+    ],
+    "claims": [
+      {
+        "text": "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web ) could build the entire game from the content of that tweet. It did a pretty good job of it! You can play the game here . Here's the GitHub repo , and a short video demo: Your browser does not support HTML5 video. How I built this This is the August 5th, 2022 tweet : My GPT-3 prompt back then was: Write a detailed product description of a computer game where a team of raccoons go on heists. This was in the text completion days, where you asked GPT-3 to complete the rest of the text. It completed: In \"Raccoon Heist\", you and your team of thieving raccoons are tasked with pulling off a series of daring heists. From robbing banks to stealing priceless art, no job is too big or too small for your furry crew. You'll need to use your wits and your skills to avoid the police and make a clean getaway with the loot. With exciting gameplay and a charming cast of characters, \"Raccoon Heist\" is the perfect game for anyone looking for a light-hearted caper. My prompt to DALL-E was short: Screenshot from a video game where a team of raccoons go on a heist Today's experiment: can I dump those screenshots into Fable 5 with a prompt telling it to write a game, then leave it to its own devices and get a working game at the end? Setting Claude Code for web up to use GitHub Pages A frustrating thing about Claude Code for web is that it can be hard to test what it's working on while it's still working. I've been using GitHub Pages to work around that limitation, and found it to work really well. Here's my process: Create a new repository for the project at https://github.com/new - this can be public or private, the trick works equally well for both. Start a Claude Code for web session, in the Claude iPhone or Desktop apps or in the browser at https://claude.ai/code Tell Claude what to work on, and encourage it to commit an index.html page as quickly as possible. This will create a branch with a name like claude/3d-raccoon-heist-game-50n293 Navigate to the Settings -> Pages area for the repository ( github.com/simonw/raccoon-heist/settings/pages in my case), select \"Deploy from a branch\", pick the branch name, and hit Save. That's all it takes! Within about 30 seconds of each push the latest content will be visible at yourname.github.io/your-repo/ . If you do this with a private repo, anyone who can guess the name of the repo will be able to view the published content. I don't worry much about this myself. The Fable 5 prompt Here's the prompt I gave Fable 5 (written in the notes app on my phone - this entire project was conducted on mobile). I accompanied it with the two images from the original tweet. Build this 3D game, for the browser. This repo is configured to serve static files so make sure there is an index.html that loads everything else. Make sure it is mobile-friendly (touch controls, works well on small screens). You have an OpenAI API key and access to their image generation model APIs, use that for textures to use with your 3D models. Docs here: https://developers.openai.com/api/docs/guides/image-generation - use gpt-image-2 Work independently - do not ask me to make any further design decisions. Make sure the game is fun, a little surprising, has good raccoon heist vibes, and is visually pleasing. Commit and push as often as possible so I can preview your work - start with an index.html that presents a title screen, then build from there. Append to a notes.md file as you work, including your changes to that as part of every commit. I didn't make any technology choices. I assumed (correctly) that it would probably use Three.js based on previous experiments. Giving Claude access to an OpenAI key turns out to work really well for filling in gaps in its capabilities - in this case we needed some way to generate images to use as textures. Fable is very good at prompting image generators! I said \"Work independently - do not ask me to make any further design decisions\" because I wanted to see if it could produce a full, working game without any further input from me. I also said \"Commit and push as often as possible so I can preview your work\". When you use Claude Code in the Claude iPhone app you give it a GitHub repository and it works in a branch. Telling it to \"push as often as possible\" means commits start landing in that branch straight away. I like asking for notes.md as a bit of added flavor - here's that finished file , and the entry it made when it added the dog: New escalation: from night 3 the yards get a patrolling guard dog — a low-poly brown hound with a spiked red collar and a wagging tail. It wanders between random spots, and within 12 units it catches your scent and tracks you by smell (line of sight is irrelevant — it's all nose, shown by a 👃 over its head and barking). It gives up if you open a 17-unit gap. Getting caught messages are now source-specific: guard / headlights / hound. Verified wander → track → caught with an automated test. Reviewing the transcript You can access the Claude Code shared session , and I also used my claude-code-transcripts tool to export my own HTML version which you can find here . Fable started with an index page, vendored a copy of Three.js, then wrote its own gen_textures.py script ( copy here ). It generated the textures and spot-checked them to make sure they looked OK. The metal.jpg file it generated for the trash can looks like this, though I don't think it was applied exactly right in the game itself: Then it built out the first basic version of the game, then decided to \"smoke-test in the pre-installed Chromium\" using Playwright. This meant it could take screenshots of its own work and eyeball them . It did that for both desktop and mobile widths of the page, then noticed that the raccoon was invisible at mobile widths, so it fixed that : The raccoon, dumpster hideout, and both crew raccoons are now perfectly visible on mobile. Committing this critical fix. It decided to generate a title screen, which it did using this gen_title.py script. Here's the gpt-image-2 prompt it used for that: Video game key art, low-poly 3D render style, moody nighttime scene: a cute low-poly raccoon wearing a tiny black burglar mask sneaking on its hind legs carrying a glowing gold coin, next to a tipped-over metal trash can, suburban house with warm glowing windows in the background, deep blue night, full moon, fireflies, cinematic rim lighting, charming heist caper mood. No text, no words, no logos. And the resulting image (which Claude thought was \"gorgeous\" ) - though I note that when it's shown on desktop it gets cropped to just the top third without the raccoon! Then my favorite change: it added the dog : export function makeDog ( ) { const g = new THREE . Group ( ) ; const BROWN = 0x8a6440 , DARK = 0x5e4128 ; const body = new THREE . Mesh ( new THREE . SphereGeometry ( 0.42 , 10 , 8 ) , M ( BROWN ) ) ; body . scale . set ( 0.9 , 0.8 , 1.5 ) ; body . position . y = 0.55 ; body . castShadow = true ; g . add ( body ) ; const head = new THREE . Mesh ( new THREE . SphereGeometry ( 0.3 , 10 , 8 ) , M ( BROWN ) ) ; head . position . set ( 0 , 0.85 , 0.62 ) ; g . add ( head ) ; const snout = new THREE . Mesh ( new THREE . SphereGeometry ( 0.16 , 8 , 6 ) , M ( DARK ) ) ; snout . scale . set ( 0.9 , 0.7 , 1.3 ) ; snout . position . set ( 0 , 0.76 , 0.9 ) ; g . add ( snout ) ; const nose = new THREE . Mesh ( new THREE . SphereGeometry ( 0.06 , 6 , 6 ) , M ( BLACK ) ) ; nose . position . set ( 0 , 0.78 , 1.08 ) ; g . add ( nose ) ; for ( const s of [ - 1 , 1 ] ) { const ear = new THREE . Mesh ( new THREE . SphereGeometry ( 0.12 , 6 , 6 ) , M ( DARK ) ) ; ear . scale . set ( 0.7 , 1.3 , 0.5 ) ; ear . position . set ( 0.2 * s , 1.08 , 0.55 ) ; g . add ( ear ) ; const eye = new THREE . Mesh ( new THREE . SphereGeometry ( 0.05 , 6 , 6 ) , M ( 0x1a1a1a , { emissive : 0x331111 } ) ) ; eye . position . set ( 0.13 * s , 0.92 , 0.86 ) ; g . add ( eye ) ; } const tail = new THREE . Mesh ( new THREE . CylinderGeometry ( 0.05 , 0.09 , 0.5 , 6 ) , M ( DARK ) ) ; tail . position . set ( 0 , 0.8 , - 0.62 ) ; tail . rotation . x = 0.8 ; g . add ( tail ) ; // spiked collar const collar = new THREE . Mesh ( new THREE . TorusGeometry ( 0.22 , 0.05 , 6 , 12 ) , M ( 0xc0392b ) ) ; collar . position . set ( 0 , 0.78 , 0.5 ) ; collar . rotation . x = Math . PI / 2.4 ; g . add ( collar ) ; const legGeo = new THREE . CylinderGeometry ( 0.07 , 0.09 , 0.34 , 6 ) ; const legs = [ ] ; for ( const [ x , z ] of [ [ - 0.22 , 0.35 ] , [ 0.22 , 0.35 ] , [ - 0.22 , - 0.35 ] , [ 0.22 , - 0.35 ] ] ) { const leg = new THREE . Mesh ( legGeo , M ( DARK ) ) ; leg . position . set ( x , 0.17 , z ) ; g . add ( leg ) ; legs . push ( leg ) ; } let phase = Math . random ( ) * 10 ; return { group : g , animate ( dt , speed ) { phase += dt * ( 3 + speed * 10 ) ; const amp = Math . min ( 0.6 , 0.1 + speed * 0.6 ) ; legs [ 0 ] . rotation . x = Math . sin ( phase ) * amp ; legs [ 3 ] . rotation . x = Math . sin ( phase ) * amp ; legs [ 1 ] . rotation . x = - Math . sin ( phase ) * amp ; legs [ 2 ] . rotation . x = - Math . sin ( phase ) * amp ; tail . rotation . z = Math . sin ( phase * 1.5 ) * 0.4 ; body . position . y = 0.55 + Math . abs ( Math . sin ( phase ) ) * 0.04 * ( 0.3 + speed ) ; } , } ; } And did a round of testing on it using Playwright, including another screenshot . // walk near the dog await page . evaluate ( ( ) => { const d = window . __rh . dog ; window . __rh . teleport ( d . x + 6 , d . z ) ; } ) ; await page . waitForTimeout ( 2000 ) ; info = await page . evaluate ( ( ) => JSON . stringify ( { dog : window . __rh . dog , state : window . __rh . state , player : window . __rh . debug ( ) . player } ) ) ; console . log ( 'after approach:' , info ) ; await page . waitForTimeout ( 3000 ) ; info = await page . evaluate ( ( ) => JSON . stringify ( { dog : window . __rh . dog , state : window . __rh . state } ) ) ; console . log ( 'after chase:' , info ) ; await page . screenshot ( { path : __dirname + '/shot-dog.png' } ) ; It made a few more tweaks, then declared itself done : Raccoon Heist is built, tested, and pushed — 7 commits on claude/3d-raccoon-heist-game-50n293 , all verified with automated Playwright playthroughs on desktop, portrait-phone, and landscape-phone viewports. The game: You're a masked raccoon sneaking out of your crew's dumpster hideout into a moonlit cul-de-sac. Grab coins, gems, rings, donuts, and fish (they visibly stack on your back and slow you down), then waddle home and bank them before dawn. Each night raises the goal and the heat: night 1 has one flashlight-sweeping guard, night 2 has two, night 3 adds a scent-tracking hound that ignores line-of-sight entirely. A police cruiser sweeps the street with headlights, homeowners randomly peek out of windows, a seagull periodically dive-bombs your unclaimed loot, pizza slices trigger a 6-second speed FRENZY, and a rare golden TV is worth 120 points if you can haul its weight home. Win ranks: TRASH PANDA ⭐ → CAT BURGLAR ⭐⭐ → MASTER OF DISGUISE ⭐⭐⭐, with your best run saved to localStorage. How it's built: Vendored Three.js (no CDN), procedural low-poly characters, and a procedural WebAudio soundtrack (sneaky walking-bass jazz plus all sound effects — zero audio files). All seven ground/wall textures and the title-screen hero art were generated with gpt-image-2 and committed as static assets, so the deployed game makes no API calls. Mobile gets a dynamic touch joystick (appears wherever you touch) plus a DASH button; desktop uses WASD/arrows and Space. Testing caught two real bugs worth mentioning: the canvas rendered at 2× size on any real phone (a cssText assignment was wiping Three.js's inline sizing — desktop DPR-1 tests masked it completely), and the win screen's star-rating div inherited the title screen's full-screen .stars CSS and silently swallowed every tap on the \"next night\" button. Both are fixed and regression-tested, along with pickup, banking, chase/caught, dawn, night progression, and lose/retry flows. notes.md has the full build log. The game is live on the branch — just serve the repo root and open index.html . Is the game any good? It's an impressive starting point, but it's not a good game. You move your raccoon around a yard collecting items - donuts, fish, gold coins, jewels - while avoiding guards with flashlights and, in later levels, a dog. You have a limited carrying capacity, and once that's full you need to drop stuff off at the dumpster. If you pick up a pizza slice you get a temporary speed boost. There are no team mechanics at all - there are two other static raccoons next to the dumpster but they're purely decoration. It gets slightly more challenging as the levels progress - the dog introduced in level 3 is the most interesting new mechanic - but it's very, very easy to beat. It's also pretty boring - each night has a fixed duration and you can collect all of the items and then have nothing else to do while waiting for the dawn. I was impressed by the implementation. It's fully 3D, there are trash cans, the flashlight illumination cones are fun, and it has a reasonably coherent visual style. It works on mobile. The music (\"a procedural WebAudio soundtrack (sneaky walking-bass jazz plus all sound effects — zero audio files)\" according to Claude) is simple but feels about right. As a finished game project, it's mediocre. As a starting point from a single prompt I think it's very impressive. I've vibe coded up quite a few games now. They've all been deeply disappointing from a gameplay perspective - it turns out designing games that are fun remains a uniquely human trait, and one which requires significantly more skill and experience than either Claude or I can bring to bear. That said, I thoroughly recommend tinkering with game development projects as a way to explore the capabilities of agents. It's a fun, low-risk way to try out new things. If you stick at it long enough you might even produce something that's worth playing! Tags: game-design , ai , prompt-engineering , generative-ai , llms , anthropic , claude , text-to-image , vibe-coding , coding-agents , claude-mythos-fable",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_60ed3c15fa7cae92",
@@ -829,102 +919,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_dd827415f1665831",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
-    "title": "PipeNetwork/minimax-h3-mlx",
-    "publishedAt": "2026-08-04T19:10:09.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "PipeNetwork/minimax-h3-mlx Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 4th August 2026 - Link Blog PipeNetwork/minimax-h3-mlx .",
-      "MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use them to generate up to 15 second video clips with audio included.",
-      "This Python package ports it to MLX for running on Apple Silicon."
-    ],
-    "claims": [
-      {
-        "text": "PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use them to generate up to 15 second video clips with audio included. This Python package ports it to MLX for running on Apple Silicon. I got it running on my M5 Max MacBook Pro. I cloned the repo and ran the model like this: # First download the models uvx --from huggingface_hub hf download MiniMaxAI/MiniMax-H3 \\ --include 'FL2VA/*' --exclude 'FL2VA/transformer/*' uvx --from huggingface_hub hf download pipenetwork/MiniMax-H3-MLX-8bit # Now run the prompt uv run --with mlx-vlm \\ --with-requirements requirements.txt python scripts/generate.py \\ \"a rainbow colored skunk leaps over a mossy log in a supermarket\" \\ -o skunk.mp4 \\ -c ~/.cache/huggingface/hub/models--MiniMaxAI--MiniMax-H3/snapshots/fa9c8ab1eaa21c8ae25e7e40b83b2e6002f340af/FL2VA \\ -t ~/.cache/huggingface/hub/models--pipenetwork--MiniMax-H3-MLX-8bit/snapshots/3ac52081470b0488921c3ec3ba84a39097bf2361 Here's the video I got for the prompt: a rainbow colored skunk leaps over a mossy log in a supermarket Your browser does not support HTML5 video. It downloaded ~115 GB of model files, and the video generation took just under 45 minutes. The video is impressive, but the audio is weird speech-like garbage, because I didn't provide any prompt guidance as to what the audio should be. The prompting guide (which I didn't read prior to this experiment) has a whole bunch of information on how to get this to work. Tags: ai , generative-ai , mlx , text-to-video , minimax",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_499d7cfc3fa84c31",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-    "title": "llm 0.32",
-    "publishedAt": "2026-08-04T17:15:33.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: llm 0.32 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 4th August 2026 Release llm 0.32 &mdash; Access large language models from the command-line See my detailed blog post about this release .",
-      "Posted 4th August 2026 at 5:15 pm Recent articles New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened - 22nd July 2026 This is a beat by Simon Willison, posted on 4th August 2026 .",
-      "llm 620 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
-    ],
-    "claims": [
-      {
-        "text": "Release: llm 0.32 See my detailed blog post about this release . Tags: llm",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_75fba5e750f8a75d",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
-    "title": "Quoting Steve Yegge",
-    "publishedAt": "2026-08-04T00:42:45.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Steve Yegge Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 4th August 2026 Gas Town was intended to be reusable, but I only ever wound up using it to build itself.",
-      "Gas Town fell apart at the seams with Opus 4.7.",
-      "Up through 4.6 it was working brilliantly."
-    ],
-    "claims": [
-      {
-        "text": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the \"just two more things\" tic, which prevented Opus from ever converging on being ready to do real work—it always wanted to fiddle with Gas Town itself. The Opus tic never went away, so Gas Town effectively burned down. It had other problems, too, but 4.7 was the final straw. &mdash; Steve Yegge , The Shape of Things to Come Tags: steve-yegge , coding-agents , generative-ai , ai , llms",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-05T12:29:58.622Z",
+    "publishedAt": "2026-08-05T23:56:59.577Z",
     "categoryHints": [
       "ai-agentic"
     ],
