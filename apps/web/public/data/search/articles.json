@@ -320,80 +320,79 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-04_vi",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-05_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Runway Research, Cursor Changelog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agent",
-      "RunwayAI",
-      "WorldModels",
-      "RAG",
-      "VibeCoding",
-      "AI-Video"
+      "AI-Video",
+      "World-Models",
+      "AI-Agents",
+      "Omni-modal",
+      "Runway-AI"
     ],
-    "publishedAt": "2026-08-05T00:00:41.504Z",
+    "publishedAt": "2026-08-05T12:30:25.302Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-08-05"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-04_en",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-05_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Runway Research, Cursor Changelog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from LangChain Blog, Runway Research, Cursor Changelog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
-      "world-models",
-      "RAG",
-      "vibe-coding",
-      "multimodal-ai"
+      "AI-Agents",
+      "World-Models",
+      "RunwayAI",
+      "Omni-modal",
+      "Agentic-SaaS"
     ],
-    "publishedAt": "2026-08-05T00:02:12.663Z",
+    "publishedAt": "2026-08-05T12:32:55.291Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-08-05"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-04_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-05_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
-      "omni-modal-ai",
+      "ai-agents",
       "anthropic",
-      "open-source",
-      "agentic-saas"
+      "reasoning-models",
+      "mcp"
     ],
-    "publishedAt": "2026-08-04T23:59:45.174Z",
-    "readingTime": 5,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-04"
+    "publishedAt": "2026-08-05T12:31:50.114Z",
+    "readingTime": 4,
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-05"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-04_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-05_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
-      "omni-modal-ai",
-      "open-source",
-      "agentic-saas",
-      "anthropic"
+      "ai-agents",
+      "anthropic",
+      "llm-orchestration",
+      "software-engineering"
     ],
-    "publishedAt": "2026-08-05T00:01:09.325Z",
+    "publishedAt": "2026-08-05T12:33:09.898Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-08-05"
   },
   {
-    "id": "cluster_ai-image_1_hugging-face-blog_2026-08-04_vi",
+    "id": "cluster_ai-image_1_hugging-face-blog_2026-08-05_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
@@ -402,16 +401,16 @@
     "tags": [
       "FLUX 3",
       "Multimodal AI",
-      "Visual Intelligence",
-      "On-device AI",
-      "Generative Video"
+      "AI Video",
+      "Open Weights",
+      "Visual Intelligence"
     ],
-    "publishedAt": "2026-08-05T00:00:07.072Z",
+    "publishedAt": "2026-08-05T12:31:19.782Z",
     "readingTime": 4,
     "url": "/vi/ai-image/hugging-face-blog-goc-nhin-cho-creator-va-builder-2026-08-05"
   },
   {
-    "id": "cluster_ai-image_1_hugging-face-blog_2026-08-04_en",
+    "id": "cluster_ai-image_1_hugging-face-blog_2026-08-05_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
@@ -421,15 +420,15 @@
       "FLUX 3",
       "Multimodal AI",
       "Open Weights",
-      "Visual Intelligence",
-      "Video-Action Models"
+      "Robot Learning",
+      "On-Device AI"
     ],
-    "publishedAt": "2026-08-05T00:01:34.190Z",
+    "publishedAt": "2026-08-05T12:32:55.251Z",
     "readingTime": 4,
     "url": "/en/ai-image/hugging-face-blog-creator-and-builder-analysis-2026-08-05"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-08-04_vi",
+    "id": "cluster_ai-video_1_news-luma_2026-08-05_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
@@ -440,14 +439,14 @@
       "luma-ai",
       "kling-ai",
       "creative-workflow",
-      "generative-ai"
+      "generative-video"
     ],
-    "publishedAt": "2026-08-04T23:59:46.694Z",
+    "publishedAt": "2026-08-05T12:30:45.791Z",
     "readingTime": 4,
-    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-04"
+    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-05"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-08-04_en",
+    "id": "cluster_ai-video_1_news-luma_2026-08-05_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
@@ -460,80 +459,80 @@
       "GenerativeCinema",
       "CreativeWorkflows"
     ],
-    "publishedAt": "2026-08-05T00:01:25.262Z",
+    "publishedAt": "2026-08-05T12:32:34.201Z",
     "readingTime": 4,
     "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-08-05"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-08-04_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "GitHub Copilot Archives - The GitHub Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ GitHub Copilot Blog, Vercel AI Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "github-copilot",
-      "replit",
-      "software-engineering"
-    ],
-    "publishedAt": "2026-08-05T00:00:38.081Z",
-    "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/github-copilot-archives-the-github-blog-goc-nhin-cho-crea-2026-08-05"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-08-04_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "GitHub Copilot Archives - The GitHub Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from GitHub Copilot Blog, Vercel AI Blog, Replit Blog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "software-engineering",
-      "github-copilot",
-      "replit"
-    ],
-    "publishedAt": "2026-08-05T00:05:56.329Z",
-    "readingTime": 4,
-    "url": "/en/ai-vibe-coding/github-copilot-archives-the-github-blog-creator-and-build-2026-08-05"
-  },
-  {
-    "id": "cluster_ai-agentic_2_i-built-an-open-source-memory-layer-to-stop-cross-tenant-leaks-i_2026-08-04_vi",
+    "id": "cluster_ai-agentic_2_llm-0-32_2026-08-05_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "I built an open-source memory layer to stop cross-tenant leaks in AI agents: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "llm 0.32: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agents",
-      "Data-Privacy",
-      "Open-Source",
-      "Multi-tenancy",
-      "DeepSeek"
+      "ai-agentic",
+      "llm-cli",
+      "software-development",
+      "agentic-saas",
+      "mcp"
     ],
-    "publishedAt": "2026-08-05T00:01:03.449Z",
+    "publishedAt": "2026-08-05T12:32:06.636Z",
+    "readingTime": 4,
+    "url": "/vi/ai-agentic/llm-0-32-goc-nhin-cho-creator-va-builder-2026-08-05"
+  },
+  {
+    "id": "cluster_ai-agentic_2_llm-0-32_2026-08-05_en",
+    "lang": "en",
+    "category": "ai-agentic",
+    "categoryLabel": "AI Agentic",
+    "title": "llm 0.32: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "ai-agents",
+      "llm",
+      "software-development",
+      "mcp",
+      "agentic-workflow"
+    ],
+    "publishedAt": "2026-08-05T12:33:30.855Z",
+    "readingTime": 4,
+    "url": "/en/ai-agentic/llm-0-32-creator-and-builder-analysis-2026-08-05"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_can-codex-help-me-rebuild-my-wordpress-website_2026-08-05_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Can Codex Help Me Rebuild My WordPress Website?: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "vibe-coding",
+      "wordpress-rebuild",
+      "ai-agents",
+      "codex",
+      "low-code"
+    ],
+    "publishedAt": "2026-08-05T12:30:25.358Z",
     "readingTime": 5,
-    "url": "/vi/ai-agentic/i-built-an-open-source-memory-layer-to-stop-cross-tenant-lea-2026-08-05"
+    "url": "/vi/ai-vibe-coding/can-codex-help-me-rebuild-my-wordpress-website-goc-nhin-ch-2026-08-05"
   },
   {
-    "id": "cluster_ai-agentic_2_i-built-an-open-source-memory-layer-to-stop-cross-tenant-leaks-i_2026-08-04_en",
+    "id": "cluster_ai-vibe-coding_2_can-codex-help-me-rebuild-my-wordpress-website_2026-08-05_en",
     "lang": "en",
-    "category": "ai-agentic",
-    "categoryLabel": "AI Agentic",
-    "title": "I built an open-source memory layer to stop cross-tenant leaks in AI agents: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "Can Codex Help Me Rebuild My WordPress Website?: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/AI_Agents, Vercel AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Agents",
-      "Multi-tenancy",
-      "Vector Databases",
-      "Enterprise Security",
-      "Open Source"
+      "vibe-coding",
+      "wordpress",
+      "ai-agents",
+      "web-development",
+      "codex"
     ],
-    "publishedAt": "2026-08-05T00:03:46.550Z",
+    "publishedAt": "2026-08-05T12:32:08.521Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/i-built-an-open-source-memory-layer-to-stop-cross-tenant-lea-2026-08-05"
+    "url": "/en/ai-vibe-coding/can-codex-help-me-rebuild-my-wordpress-website-creator-and-2026-08-05"
   }
 ]
