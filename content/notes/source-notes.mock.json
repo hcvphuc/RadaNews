@@ -5,14 +5,14 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-07T11:35:27.976Z",
+    "publishedAt": "2026-08-07T23:30:12.466Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely LLM Gateway Control agent model calls No-Code Agents Fleet Agents for the whole company Open Source Frameworks deepagents Build long-running agents for complex tasks langgraph Build reliable agents with low-level control langchain Quick start agents with any model provider Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Open Source Agent Architecture Deep Agents Deep Agents vs LangChain vs LangGraph Sydney Runkle August 6, 2026 8 min No items found.",
+      "LangSmith Managed Deep Agents is now in Public Beta Victor Moreira August 7, 2026 9 min No items found.",
       "LangSmith LLM Gateway: runtime controls for production agents Martha Janicki Ramon Petgrave July 30, 2026 7 min Harrison's In the Loop What does it mean to \"own your intelligence\"?"
     ],
     "claims": [
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-07T11:35:27.496Z",
+    "publishedAt": "2026-08-07T23:30:12.180Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-07T11:35:27.311Z",
+    "publishedAt": "2026-08-07T23:30:12.035Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-07T11:35:27.812Z",
+    "publishedAt": "2026-08-07T23:30:12.929Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_4bbc5ca688f3d9e2",
+    "sourceId": "src_reddit-aiagents_230dd78ca0424bf0",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhilqp/which_ai_agent_platform_is_best_for_enterprise/",
-    "title": "Which AI agent platform is best for enterprise voice support?",
-    "publishedAt": "2026-08-06T22:20:48.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhxi84/shipped_a_hindienglish_voice_agent_for_a_fintech/",
+    "title": "Shipped a Hindi-English voice agent for a fintech. Here's everything that broke and what actually fixed it",
+    "publishedAt": "2026-08-07T11:02:58.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "We’re looking at AI agent platforms for enterprise voice support and every vendor seems to claim the same thing.",
-      "The hard part is finding one that can handle real customer calls without falling apart when the issue gets complex.",
-      "We need strong voice quality low latency clean handoffs to human agents and enough guardrails for IT and compliance to feel comfortable.",
-      "It also needs to work with our current contact center stack and keep context when a call moves from AI to a human rep."
+      "Wrote this up because when I started building this six months ago there was almost nothing useful online about Indian-language voice agents specifically.",
+      "Context: voice agent for a fintech, handles payment reminders, KYC follow-ups, basic account queries.",
+      "Hindi-English, because that's how our users actually speak.",
+      "Not metro English, not shuddh Hindi, the real mix."
     ],
     "claims": [
       {
-        "text": "We’re looking at AI agent platforms for enterprise voice support and every vendor seems to claim the same thing. The hard part is finding one that can handle real customer calls without falling apart when the issue gets complex. We need strong voice quality low latency clean handoffs to human agents and enough guardrails for IT and compliance to feel comfortable. It also needs to work with our current contact center stack and keep context when a call moves from AI to a human rep. Reporting matters too we want to track containment AHT resolution rates and where the agent gets stuck. Has anyone rolled out an AI voice agent at enterprise scale? submitted by /u/elementary_constable [link] [comments]",
+        "text": "Wrote this up because when I started building this six months ago there was almost nothing useful online about Indian-language voice agents specifically. Everything was US-centric. So here's the real postmortem. Context: voice agent for a fintech, handles payment reminders, KYC follow-ups, basic account queries. Hindi-English, because that's how our users actually speak. Not metro English, not shuddh Hindi, the real mix. What I assumed would be hard: the LLM understanding Hinglish intent.\\ What was actually hard: making the agent speak back in a way that didn't sound broken. Things that broke, roughly in order of how much pain they caused: 1. Numbers, numbers, numbers. This is fintech so every single call involves reading back an amount, a date, an account reference, an OTP-style number. Early on the agent would say \"aapka due amount hai one thousand four hundred ninety nine rupees\" in this jarring full-English chunk in the middle of a Hindi sentence, or worse, read a reference number as a giant single number instead of digit by digit. This alone tanked our first pilot. Customers found it confusing and slightly untrustworthy, which in fintech is fatal. 2. The language-switch stutter. A lot of TTS visibly pauses or shifts accent at the Hindi↔English boundary. On a call about someone's money, any weirdness reads as \"this is a scammy robot\" and people hang up. 3. Latency, but specifically under call-window load. We batch outbound reminders into windows when people actually answer. Single-call latency looked fine on every provider. Then we'd hit real concurrency and one provider started spiking to 800ms+ and the calls felt dead. Measure at YOUR real concurrency, the demo number is a lie. 4. Compliance, obviously. Fintech. RBI-adjacent scrutiny, data residency questions, SOC 2 from our enterprise partners. A couple of otherwise-good options were just disqualified. What actually fixed it: honestly, switching to a TTS that treated Indian code-mixing and number normalization as first-class instead of an afterthought, and testing everything through the actual telephony pipe at real concurrency instead of in a browser tab. The moment the number readback got clean (\"aapka payment 15 tarikh tak, 2,340 rupees, reference number 4 8 2 9 1\") the pilot numbers completely changed. Trust went up, call completion went up. I won't turn this into a product ad, happy to share specifics in comments if people want. But the meta-lesson: for Indian voice agents, stop evaluating on \"which voice sounds nicest\" and start evaluating on \"can it correctly say an amount, a date, and a reference number inside a Hindi-English sentence, through a phone line, at scale.\" That's the actual job. Ask me anything, this took way too long to figure out and I'd rather you skip the pain. submitted by /u/anonymous_ZsP [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhilqp/which_ai_agent_platform_is_best_for_enterprise/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhxi84/shipped_a_hindienglish_voice_agent_for_a_fintech/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_956244d33b88fe1a",
+    "sourceId": "src_reddit-aiagents_a535b5a2cc3ab9d5",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhual9/which_observability_platform_are_you_using_today/",
-    "title": "Which observability platform are you using today?",
-    "publishedAt": "2026-08-07T07:57:25.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vifm0p/what_are_the_real_bottlenecks_for_decentralized/",
+    "title": "What are the real bottlenecks for decentralized AI inference?",
+    "publishedAt": "2026-08-07T23:03:05.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "We are still in the early stages of working with some AI agents and testing on prod, hitting some walls that obviously created the space and need for AI observability niche.",
-      "We naturally gravitated to Langfuse but since our company is already a client of Progress we are getting a huge discount for their AI observability platform and I wonder if anyone have tried them?",
-      "Seems like they are working it and getting to feature parity lately (even doing a ProductHunt launch - lol a bit weird but sure).",
-      "submitted by /u/DETHSHOT_FPS [link] [comments]"
+      "Beginner question here I’ve been trying to understand decentralized AI inference better, and I’m curious what the biggest problems actually are right now.",
+      "Or are there other bottlenecks that are easy to overlook?",
+      "submitted by /u/External-Wind-5273 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "We are still in the early stages of working with some AI agents and testing on prod, hitting some walls that obviously created the space and need for AI observability niche. We naturally gravitated to Langfuse but since our company is already a client of Progress we are getting a huge discount for their AI observability platform and I wonder if anyone have tried them? Seems like they are working it and getting to feature parity lately (even doing a ProductHunt launch - lol a bit weird but sure). submitted by /u/DETHSHOT_FPS [link] [comments]",
+        "text": "Beginner question here I’ve been trying to understand decentralized AI inference better, and I’m curious what the biggest problems actually are right now. Is it mainly latency and reliability? GPU availability? Cost? Or are there other bottlenecks that are easy to overlook? submitted by /u/External-Wind-5273 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhual9/which_observability_platform_are_you_using_today/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vifm0p/what_are_the_real_bottlenecks_for_decentralized/"
       }
     ],
     "usableFor": [
@@ -225,26 +224,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_96d3da140b527965",
+    "sourceId": "src_reddit-aiagents_9f4538b0b90a756f",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhuyjy/what_if_the_goal_of_ai_agents_is_to_make/",
-    "title": "What if the goal of AI agents is to make themselves progressively unnecessary?",
-    "publishedAt": "2026-08-07T08:36:58.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1viet2n/my_agent_calls_my_actual_phone_when_a_long_run/",
+    "title": "My agent calls my actual phone when a long run finishes so I stop babysitting it",
+    "publishedAt": "2026-08-07T22:28:16.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’ve been playing with an idea and would love some critical feedback.",
-      "What if future software mostly remains deterministic, with AI sitting above it as an escalation layer?",
-      "Code → Local LLM → Frontier LLM → Human When something new, ambiguous or broken occurs, it moves up the chain.",
-      "But the important part is what happens afterwards: Solve it once, then try to encode the solution into the software so you don’t need to reason about it again."
+      "Been running longer and longer agent tasks and the annoying part is never the run itself, it's me hovering over it waiting to see if it finished or got stuck needing a decision.",
+      "So I set it up to just call my phone when it's done, or when it hits something it needs me for.",
+      "It reads out what happened in a real voice and I answer back out loud to tell it how to proceed, then it keeps going.",
+      "First time your own agent rings you it's genuinely a little uncanny."
     ],
     "claims": [
       {
-        "text": "I’ve been playing with an idea and would love some critical feedback. What if future software mostly remains deterministic, with AI sitting above it as an escalation layer? Code → Local LLM → Frontier LLM → Human When something new, ambiguous or broken occurs, it moves up the chain. But the important part is what happens afterwards: Solve it once, then try to encode the solution into the software so you don’t need to reason about it again. I’m thinking of it a bit like an electron tending toward its lowest available energy state. The system should always tend toward the lowest-cost level of intelligence capable of reliably doing the job. Over time, expensive reasoning gets “crystallised” into cheap deterministic capability. You’d obviously need periodic architectural cleanup so thousands of little improvements don’t turn the codebase into spaghetti. The bigger thought is that maybe the future isn’t about using more AI. It’s about progressively eliminating the need for intelligence on problems we’ve already solved — leaving humans and frontier models focused on imagination, invention and genuinely new problems. Every solved problem should become part of the substrate, not a recurring reasoning cost. Am I describing something genuinely useful here, or just reinventing autonomic computing / self-healing software with LLMs? “Continuously transform probabilistic reasoning into deterministic capability while preserving architectural integrity, reserving intelligence for invention rather than repetition.” Please poke holes in it. submitted by /u/Bullonbroadway [link] [comments]",
+        "text": "Been running longer and longer agent tasks and the annoying part is never the run itself, it's me hovering over it waiting to see if it finished or got stuck needing a decision. So I set it up to just call my phone when it's done, or when it hits something it needs me for. It reads out what happened in a real voice and I answer back out loud to tell it how to proceed, then it keeps going. First time your own agent rings you it's genuinely a little uncanny. Anyone else wiring something like this into their agents? Curious what you'd want it to actually say when it calls, and whether you'd want it calling on every finish or only when it's blocked and needs you. submitted by /u/XPSDuck [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhuyjy/what_if_the_goal_of_ai_agents_is_to_make/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1viet2n/my_agent_calls_my_actual_phone_when_a_long_run/"
       }
     ],
     "usableFor": [
@@ -259,7 +258,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-07T11:35:27.343Z",
+    "publishedAt": "2026-08-07T23:30:12.342Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-07T11:35:28.055Z",
+    "publishedAt": "2026-08-07T23:30:12.621Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +312,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-07T11:35:27.896Z",
+    "publishedAt": "2026-08-07T23:30:12.573Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,7 +343,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-07T11:35:27.420Z",
+    "publishedAt": "2026-08-07T23:30:12.182Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -371,7 +370,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-07T11:35:27.430Z",
+    "publishedAt": "2026-08-07T23:30:12.192Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +397,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-07T11:35:28.027Z",
+    "publishedAt": "2026-08-07T23:30:12.327Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +426,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-07T11:35:27.656Z",
+    "publishedAt": "2026-08-07T23:30:12.366Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,14 +454,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-07T11:35:28.812Z",
+    "publishedAt": "2026-08-07T23:30:12.751Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 4, 2026 Synthesia Alternatives 2026 Blog Aug 4, 2026 Luma vs Canva Blog Aug 4, 2026 Luma vs Synthesia 2026 Blog Aug 4, 2026 Luma vs Kling Blog Aug 4, 2026 Luma vs Veed Blog Aug 4, 2026 Luma vs HeyGen 2026 Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
+      "Subscribe to Press Updates All Company Product Engineering Blog Product Aug 6, 2026 Seedance 2.5: Now Live in Luma Product Aug 6, 2026 MiniMax H3 Available Now Blog Aug 4, 2026 Synthesia Alternatives 2026 Blog Aug 4, 2026 Luma vs Canva Blog Aug 4, 2026 Luma vs Synthesia 2026 Blog Aug 4, 2026 Luma vs Kling Blog Aug 4, 2026 Luma vs Veed Blog Aug 4, 2026 Luma vs HeyGen 2026 Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
       "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
     ],
     "claims": [
@@ -484,7 +483,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-07T11:35:27.551Z",
+    "publishedAt": "2026-08-07T23:30:12.246Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,7 +510,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-07T11:35:27.966Z",
+    "publishedAt": "2026-08-07T23:30:12.381Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -540,7 +539,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-07T11:35:27.744Z",
+    "publishedAt": "2026-08-07T23:30:12.225Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -569,7 +568,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-07T11:35:27.919Z",
+    "publishedAt": "2026-08-07T23:30:12.549Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,7 +595,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-07T11:35:27.978Z",
+    "publishedAt": "2026-08-07T23:30:12.523Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -625,7 +624,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-07T11:35:27.802Z",
+    "publishedAt": "2026-08-07T23:30:12.313Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -655,7 +654,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-07T11:35:27.796Z",
+    "publishedAt": "2026-08-07T23:30:12.268Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,7 +681,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-07T11:35:29.894Z",
+    "publishedAt": "2026-08-07T23:30:13.953Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -712,7 +711,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-07T11:35:27.814Z",
+    "publishedAt": "2026-08-07T23:30:12.323Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-07T11:35:27.899Z",
+    "publishedAt": "2026-08-07T23:30:12.387Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,10 +746,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 4 days ago • 23 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 8 days ago • 33 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 2 days ago • 14 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 10 days ago • 65 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 4 days ago • 9 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 21 days ago • 194 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 375 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 8 days ago • 11 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 3 days ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 14 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be?",
-      "hotchpotch • 9 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 2 days ago • 5 Optimum Intel v2.1.0 echarlaix • about 20 hours ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 10 days ago • 11 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 9 days ago • 15 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 887 IDEOGRAM-4 for inpainting with Modular Diffusers and Differential Diffusion OzzyGT • 1 day ago • 3 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 9 days ago • 9 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 16 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 60 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 81 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 38 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 56 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 434 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 51 July 21, 2026 Newer Models, Same Advantage 54 July 16, 2026 security Hot Security incident disclosure — July 2026 755 July 16, 2026 Model Routing Is Simple.",
-      "73 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 155 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 26 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 46 July 10, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 5 days ago • 24 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 2 days ago • 15 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 10 days ago • 39 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • about 10 hours ago • 11 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 8 days ago • 33 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 10 days ago • 65 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 5 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 376 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 21 days ago • 194 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 4 days ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 15 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be?",
+      "hotchpotch • 10 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 3 days ago • 5 Optimum Intel v2.1.0 echarlaix • 1 day ago • 5 Rebuilding Among AIs from Six Log Files DedeProGames • about 4 hours ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 10 days ago • 11 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 887 Using OCR models with llama.cpp ggml-org • Apr 10 • 38 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "1 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 21 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 66 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 83 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 57 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 438 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 55 July 16, 2026 security Hot Security incident disclosure — July 2026 757 July 16, 2026 Model Routing Is Simple."
     ],
     "claims": [
       {
@@ -766,6 +765,66 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_simonwillison-blog_ac516377a36495cb",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+    "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+    "publishedAt": "2026-08-07T19:18:09.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started 7th August 2026 - Link Blog Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) .",
+      "On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago .",
+      "I decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes aggressive use of sub-agents - to see how it would do."
+    ],
+    "claims": [
+      {
+        "text": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago . I decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes aggressive use of sub-agents - to see how it would do. It produced a much better game! Here's Moonlight & Mayhem - GitHub repository here , including the textures and prompts it generated using gpt-image-2 . Your browser does not support HTML5 video. The original GPT-3 generated game description included: In “Raccoon Heist”, you and your team of thieving raccoons are tasked with pulling off a series of daring heists. From robbing banks to stealing priceless art, no job is too big or too small for your furry crew. Fable's version had you as a single raccoon running around a back yard collecting coins and fish. GPT-5.6 Sol has you in a museum, rescuing your two other raccoon crewmates in order to stack on top of each other and bust the golden sardine out of its case. Much more heisty! There was one catch though: the version produced from the one-shot prompt had a bug where each raccoon had an eyeball that was enlarged to the size of a giant sphere floating over their head! You can play that version here . Despite reviewing screenshots during development Codex failed to spot and correct this bug. I fixed it by prompting: Why do the raccoons have huge black spheres on them? And then: Fix it Which resulted in this fix . I shared the full Codex transcript in the repository - I wish Claude Code had the same \"copy as Markdown\" feature. Codex spent 52 minutes on the project. Here's the AgentsView cost estimate for that session if I had been paying full API prices as opposed to using my monthly Codex subscription: Tags: game-design , ai , openai , generative-ai , llms , coding-agents , codex , gpt",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_ec574b1bcd7da8a9",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+    "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+    "publishedAt": "2026-08-07T16:18:51.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started 7th August 2026 - Link Blog The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI ( via ) There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption.",
+      "It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead, said [...] Stuart Henderson, Accenture’s client group lead, interrupts.",
+      "He jokes he hopes Kwak didn’t just convert a PDF into images and then into markdown files."
+    ],
+    "claims": [
+      {
+        "text": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption. It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead, said [...] Stuart Henderson, Accenture’s client group lead, interrupts. He jokes he hopes Kwak didn’t just convert a PDF into images and then into markdown files. “I’m learning that’s one of the big token chewers,” Henderson says. “Turning PDFs into markdown: is that right?” That’s when Kwak says that’s what Accenture’s own data shows. Maybe if Accenture figure out that PDFs are a terrible medium for communicating information they'll be able to push that message out to the rest of the business world too! Via @404.media on TikTok Tags: pdf , markdown , ai , generative-ai , llms , ai-misuse",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_simonwillison-blog_07a8d570c9d7773f",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
@@ -777,10 +836,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: datasette 1.0a38 Simon Willison’s Weblog Subscribe 6th August 2026 Release datasette 1.0a38 &mdash; An open source multi-tool for exploring and publishing data This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system .",
+      "Release: datasette 1.0a38 Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started 6th August 2026 Release datasette 1.0a38 &mdash; An open source multi-tool for exploring and publishing data This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system .",
       "Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries.",
-      "The bug that has been fixed would have allowed users with access to any public table to execute SQL injection attacks despite that restriction, giving them read-only access to data in private tables in the same database.",
-      "This fix is also available in Datasette 0.65.3 ."
+      "The bug that has been fixed would have allowed users with access to any public table to execute SQL injection attacks despite that restriction, giving them read-only access to data in private tables in the same database."
     ],
     "claims": [
       {
@@ -807,10 +866,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: datasette 0.65.3 Simon Willison’s Weblog Subscribe 6th August 2026 Release datasette 0.65.3 &mdash; An open source multi-tool for exploring and publishing data Back-ported the SQL Injection security fix from 1.0a38 .",
+      "Release: datasette 0.65.3 Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started 6th August 2026 Release datasette 0.65.3 &mdash; An open source multi-tool for exploring and publishing data Back-ported the SQL Injection security fix from 1.0a38 .",
       "Posted 6th August 2026 at 6:22 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a beat by Simon Willison, posted on 6th August 2026 .",
-      "datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments.",
-      "Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+      "datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
     ],
     "claims": [
       {
@@ -837,10 +896,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Simon Willison on Technical Blogging Simon Willison’s Weblog Subscribe 6th August 2026 - Link Blog Simon Willison on Technical Blogging .",
+      "Simon Willison on Technical Blogging Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started 6th August 2026 - Link Blog Simon Willison on Technical Blogging .",
       "I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog!",
-      "It includes my answers to the following questions: Why did you start blogging – and why do you continue?",
-      "What has been the most surprising impact of blogging for you?"
+      "It includes my answers to the following questions: Why did you start blogging – and why do you continue?"
     ],
     "claims": [
       {
@@ -856,72 +915,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_8843a06834c0d057",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
-    "title": "An AI model from Meta also hacked another company during testing",
-    "publishedAt": "2026-08-06T00:25:27.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "An AI model from Meta also hacked another company during testing Simon Willison’s Weblog Subscribe 6th August 2026 - Link Blog An AI model from Meta also hacked another company during testing .",
-      "Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday.",
-      "Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic.",
-      "“A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said."
-    ],
-    "claims": [
-      {
-        "text": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said. Meta’s Muse Spark model “exploited a security vulnerability” in another company “in a manner similar to previously-reported instances with other companies.” The Information had the scoop , I'm linking to CNN's re-report of it since they don't have a paywall. So that's Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other companies. Tags: security , ai , generative-ai , llms , meta , accidental-cyberattacks",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_ae0e87c2f4b10aa9",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
-    "title": "Introducing Muse Code and Muse Spark 1.2",
-    "publishedAt": "2026-08-05T23:58:35.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Introducing Muse Code and Muse Spark 1.2 Simon Willison’s Weblog Subscribe 5th August 2026 - Link Blog Introducing Muse Code and Muse Spark 1.2 ( via ) Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling.",
-      "Meta shipped their own coding agent as part of getting that to work!",
-      "Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows.",
-      "In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expanding training environment diversity."
-    ],
-    "claims": [
-      {
-        "text": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expanding training environment diversity. The model also maintains its strength in other key areas like general agents. [...] We co-trained Muse Spark 1.2 with Muse Code to ensure the model exhibits its best performance and coding usability when paired together. The training included rejection sampled harness trajectories and recipe optimizations for goals, compaction, and subagents, alongside the integration of the Muse Code toolset to maximize harness compatibility. [...] Muse Spark 1.2 was extensively trained on long-horizon coding tasks, including whole-repository generation, large end-to-end projects, and auto-research. Here's a pelican riding a bicycle SVG produced by Muse Spark 1.2 : You can see the Spark 1.1 pelican from 9th July here . I think the 1.2 pelican is a small but material improvement. An interesting twist on pricing is that the model is offered as two different model IDs. muse-spark-1.2 is priced at $1.25/million input and $4.25/million output - close to Gemini 3.6 Flash ($1.50/$7.50) - but if you agree to let Meta use your data \"to improve our products\" you can use muse-spark-1.2-contributor which is $0.10/$0.20 - a huge discount, closer to GPT-5.6 Luna ($0.20/$1.20) and Gemini 3.1 Flash-Lite ($0.25/$1.50). I added those new prices to llm-prices.com . Via Hacker News Tags: ai , generative-ai , llms , meta , llm-pricing , pelican-riding-a-bicycle , llm-release , coding-agents",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-07T11:35:27.849Z",
+    "publishedAt": "2026-08-07T23:30:12.344Z",
     "categoryHints": [
       "ai-agentic"
     ],
