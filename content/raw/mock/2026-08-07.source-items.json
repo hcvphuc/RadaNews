@@ -7,8 +7,8 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-08-07T01:40:56.442Z",
-    "crawledAt": "2026-08-07T01:40:56.442Z",
+    "publishedAt": "2026-08-07T11:35:27.976Z",
+    "crawledAt": "2026-08-07T11:35:27.976Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -25,8 +25,8 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-08-07T01:40:55.647Z",
-    "crawledAt": "2026-08-07T01:40:55.647Z",
+    "publishedAt": "2026-08-07T11:35:27.496Z",
+    "crawledAt": "2026-08-07T11:35:27.496Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:55.602Z",
-    "crawledAt": "2026-08-07T01:40:55.602Z",
+    "publishedAt": "2026-08-07T11:35:27.311Z",
+    "crawledAt": "2026-08-07T11:35:27.311Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:56.079Z",
-    "crawledAt": "2026-08-07T01:40:56.079Z",
+    "publishedAt": "2026-08-07T11:35:27.812Z",
+    "crawledAt": "2026-08-07T11:35:27.812Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-05T16:00:58.000Z",
-    "crawledAt": "2026-08-07T01:40:56.248Z",
+    "crawledAt": "2026-08-07T11:35:27.811Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -100,7 +100,7 @@
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-03T16:01:09.000Z",
-    "crawledAt": "2026-08-07T01:40:56.248Z",
+    "crawledAt": "2026-08-07T11:35:27.811Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -117,7 +117,7 @@
     "title": "Which AI agent platform is best for enterprise voice support?",
     "rawSummary": "We’re looking at AI agent platforms for enterprise voice support and every vendor seems to claim the same thing. The hard part is finding one that can handle real customer calls without falling apart when the issue gets complex. We need strong voice quality low latency clean handoffs to human agents and enough guardrails for IT and compliance to feel comfortable. It also needs to work with our current contact center stack and keep context when a call moves from AI to a human rep. Reporting matters too we want to track containment AHT resolution rates and where the agent gets stuck. Has anyone rolled out an AI voice agent at enterprise scale? submitted by /u/elementary_constable [link] [comments]",
     "publishedAt": "2026-08-06T22:20:48.000Z",
-    "crawledAt": "2026-08-07T01:40:56.248Z",
+    "crawledAt": "2026-08-07T11:35:27.811Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -126,38 +126,38 @@
     "extractedText": "We’re looking at AI agent platforms for enterprise voice support and every vendor seems to claim the same thing. The hard part is finding one that can handle real customer calls without falling apart when the issue gets complex. We need strong voice quality low latency clean handoffs to human agents and enough guardrails for IT and compliance to feel comfortable. It also needs to work with our current contact center stack and keep context when a call moves from AI to a human rep. Reporting matters too we want to track containment AHT resolution rates and where the agent gets stuck. Has anyone rolled out an AI voice agent at enterprise scale? submitted by /u/elementary_constable [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_6d7ad7e8ae7153b1",
+    "id": "src_reddit-aiagents_956244d33b88fe1a",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vhhsvz/why_are_most_of_you_still_pointing_agents_at_a/",
-    "title": "Why are most of you still pointing agents at a real Gmail instead of giving them their own inbox?",
-    "rawSummary": "Hey. I work on email built for AI agents, so I'm obviously not neutral here. What I keep running into: people wire an agent into an inbox that belongs to a human. Their own Gmail, or a shared team account, usually with an app password or full OAuth. Which means the agent can read everything in there, and anything that arrives in it can steer the agent. I understand why. It's already set up, it costs nothing, deliverability is solved, and nobody wants to migrate anything for what started as an experiment. What I can't tell is how much of that is a considered call and how much is just the path of least resistance. So, genuinely asking: If you run agents that touch email, what are they pointing at? Your own inbox, a burner Gmail, a catch-all on a domain you own, something purpose-built? And if you considered giving the agent its own and decided against it, what killed it? Setup friction, deliverability, one more thing to maintain, or it just never felt worth the bother? Mostly I want to know whether the separate-inbox thing actually holds up in practice, or whether everyone who tried it drifted back to Gmail anyway. submitted by /u/JanJanJaJa [link] [comments]",
-    "publishedAt": "2026-08-06T21:48:01.000Z",
-    "crawledAt": "2026-08-07T01:40:56.248Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vhual9/which_observability_platform_are_you_using_today/",
+    "title": "Which observability platform are you using today?",
+    "rawSummary": "We are still in the early stages of working with some AI agents and testing on prod, hitting some walls that obviously created the space and need for AI observability niche. We naturally gravitated to Langfuse but since our company is already a client of Progress we are getting a huge discount for their AI observability platform and I wonder if anyone have tried them? Seems like they are working it and getting to feature parity lately (even doing a ProductHunt launch - lol a bit weird but sure). submitted by /u/DETHSHOT_FPS [link] [comments]",
+    "publishedAt": "2026-08-07T07:57:25.000Z",
+    "crawledAt": "2026-08-07T11:35:27.812Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "Hey. I work on email built for AI agents, so I'm obviously not neutral here. What I keep running into: people wire an agent into an inbox that belongs to a human. Their own Gmail, or a shared team account, usually with an app password or full OAuth. Which means the agent can read everything in there, and anything that arrives in it can steer the agent. I understand why. It's already set up, it costs nothing, deliverability is solved, and nobody wants to migrate anything for what started as an experiment. What I can't tell is how much of that is a considered call and how much is just the path of least resistance. So, genuinely asking: If you run agents that touch email, what are they pointing at? Your own inbox, a burner Gmail, a catch-all on a domain you own, something purpose-built? And if you considered giving the agent its own and decided against it, what killed it? Setup friction, deliverability, one more thing to maintain, or it just never felt worth the bother? Mostly I want to know whether the separate-inbox thing actually holds up in practice, or whether everyone who tried it drifted back to Gmail anyway. submitted by /u/JanJanJaJa [link] [comments]"
+    "extractedText": "We are still in the early stages of working with some AI agents and testing on prod, hitting some walls that obviously created the space and need for AI observability niche. We naturally gravitated to Langfuse but since our company is already a client of Progress we are getting a huge discount for their AI observability platform and I wonder if anyone have tried them? Seems like they are working it and getting to feature parity lately (even doing a ProductHunt launch - lol a bit weird but sure). submitted by /u/DETHSHOT_FPS [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_0347e8733f391413",
+    "id": "src_reddit-aiagents_96d3da140b527965",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vhcj6k/is_it_really_possible_to_create_a_fully_aidriven/",
-    "title": "Is it really possible to create a fully AI-driven startup?",
-    "rawSummary": "Hello everyone! There is a lot of content on social media about AI-driven startups, and here on Reddit as well. I understand that many are 'selling content' and want clicks. But I wanted to start a discussion about whether it's really possible to create a business that is run by AI agents, where the owner just controls/monitors/manages with low effort. Have you seen anything that is really working, or has anyone tried it? Any revenue made? Something that is working in reality and not just social media content? I'd love to hear about processes, tools, agents, workflows, how the setup looks. All types of profit-driven businesses are interesting. submitted by /u/Jonatan_C [link] [comments]",
-    "publishedAt": "2026-08-06T18:29:46.000Z",
-    "crawledAt": "2026-08-07T01:40:56.249Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vhuyjy/what_if_the_goal_of_ai_agents_is_to_make/",
+    "title": "What if the goal of AI agents is to make themselves progressively unnecessary?",
+    "rawSummary": "I’ve been playing with an idea and would love some critical feedback. What if future software mostly remains deterministic, with AI sitting above it as an escalation layer? Code → Local LLM → Frontier LLM → Human When something new, ambiguous or broken occurs, it moves up the chain. But the important part is what happens afterwards: Solve it once, then try to encode the solution into the software so you don’t need to reason about it again. I’m thinking of it a bit like an electron tending toward its lowest available energy state. The system should always tend toward the lowest-cost level of intelligence capable of reliably doing the job. Over time, expensive reasoning gets “crystallised” into cheap deterministic capability. You’d obviously need periodic architectural cleanup so thousands of little improvements don’t turn the codebase into spaghetti. The bigger thought is that maybe the future isn’t about using more AI. It’s about progressively eliminating the need for intelligence on problems we’ve already solved — leaving humans and frontier models focused on imagination, invention and genuinely new problems. Every solved problem should become part of the substrate, not a recurring reasoning cost. Am I describing something genuinely useful here, or just reinventing autonomic computing / self-healing software with LLMs? “Continuously transform probabilistic reasoning into deterministic capability while preserving architectural integrity, reserving intelligence for invention rather than repetition.” Please poke holes in it. submitted by /u/Bullonbroadway [link] [comments]",
+    "publishedAt": "2026-08-07T08:36:58.000Z",
+    "crawledAt": "2026-08-07T11:35:27.812Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "Hello everyone! There is a lot of content on social media about AI-driven startups, and here on Reddit as well. I understand that many are 'selling content' and want clicks. But I wanted to start a discussion about whether it's really possible to create a business that is run by AI agents, where the owner just controls/monitors/manages with low effort. Have you seen anything that is really working, or has anyone tried it? Any revenue made? Something that is working in reality and not just social media content? I'd love to hear about processes, tools, agents, workflows, how the setup looks. All types of profit-driven businesses are interesting. submitted by /u/Jonatan_C [link] [comments]"
+    "extractedText": "I’ve been playing with an idea and would love some critical feedback. What if future software mostly remains deterministic, with AI sitting above it as an escalation layer? Code → Local LLM → Frontier LLM → Human When something new, ambiguous or broken occurs, it moves up the chain. But the important part is what happens afterwards: Solve it once, then try to encode the solution into the software so you don’t need to reason about it again. I’m thinking of it a bit like an electron tending toward its lowest available energy state. The system should always tend toward the lowest-cost level of intelligence capable of reliably doing the job. Over time, expensive reasoning gets “crystallised” into cheap deterministic capability. You’d obviously need periodic architectural cleanup so thousands of little improvements don’t turn the codebase into spaghetti. The bigger thought is that maybe the future isn’t about using more AI. It’s about progressively eliminating the need for intelligence on problems we’ve already solved — leaving humans and frontier models focused on imagination, invention and genuinely new problems. Every solved problem should become part of the substrate, not a recurring reasoning cost. Am I describing something genuinely useful here, or just reinventing autonomic computing / self-healing software with LLMs? “Continuously transform probabilistic reasoning into deterministic capability while preserving architectural integrity, reserving intelligence for invention rather than repetition.” Please poke holes in it. submitted by /u/Bullonbroadway [link] [comments]"
   },
   {
     "id": "src_stability-ai-blog_2026-08-07_fallback",
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:55.883Z",
-    "crawledAt": "2026-08-07T01:40:55.883Z",
+    "publishedAt": "2026-08-07T11:35:27.343Z",
+    "crawledAt": "2026-08-07T11:35:27.343Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
-    "publishedAt": "2026-08-07T01:40:56.450Z",
-    "crawledAt": "2026-08-07T01:40:56.450Z",
+    "publishedAt": "2026-08-07T11:35:28.055Z",
+    "crawledAt": "2026-08-07T11:35:28.055Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-08-07T01:40:56.078Z",
-    "crawledAt": "2026-08-07T01:40:56.078Z",
+    "publishedAt": "2026-08-07T11:35:27.896Z",
+    "crawledAt": "2026-08-07T11:35:27.896Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -223,8 +223,8 @@
     "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:55.711Z",
-    "crawledAt": "2026-08-07T01:40:55.711Z",
+    "publishedAt": "2026-08-07T11:35:27.420Z",
+    "crawledAt": "2026-08-07T11:35:27.420Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -242,8 +242,8 @@
     "sourceUrl": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:55.718Z",
-    "crawledAt": "2026-08-07T01:40:55.718Z",
+    "publishedAt": "2026-08-07T11:35:27.430Z",
+    "crawledAt": "2026-08-07T11:35:27.430Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -261,14 +261,14 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-08-07T01:40:56.257Z",
-    "crawledAt": "2026-08-07T01:40:56.257Z",
+    "publishedAt": "2026-08-07T11:35:28.027Z",
+    "crawledAt": "2026-08-07T11:35:28.027Z",
     "categoryHints": [
       "ai-video"
     ],
     "score": 0.92,
     "crawlStatus": "live",
-    "extractedText": "AI Video Research & Innovation | Runway AI Creative Dev Robotics Research Resources Enterprise Pricing Enterprise Sales Login Try Runway Our Research Building general-purpose multimodal simulators of the world. We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing. Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding. Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models.... Read Paper June 2, 2025 Dual-Process Image Generation by Grace Luo, Jonathan Granskog, Aleksander Hołyński, Trevor Darrell Prior methods for controlling image generation are limited in their ability to be taught new tasks. In contrast, vision-language models, or VLMs, can learn tasks in-context and produce the correct outputs for a given input. We propose a dual-process distillation scheme that allows feed-forward image generators to learn new tasks from deliberative VLMs. Our scheme uses a VLM to rate the generated images and backpropagates this gradient to update the weights of the image generator. Our general framework enables a wide variety of new control tasks through the same text-and-image based interface. We showcase a handful of applications of this technique for different types of control signals, such as commonsense inferences and visual prompts. With our method, users can implement multimodal controls for properties such as color palette, line weight, horizon position, and relative depth within a... Read Paper March 31, 2025 StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting by Shakiba Kheradmand, Delio Vicini, George Kopanas, Dmitry Lagun, Kwang Moo Yi, Mark Matthews, Andrea Tagliasacchi 3D Gaussian splatting (3DGS) is a popular radiance field method, with many application-specific extensions. Most variants rely on the same core algorithm: depth-sorting of Gaussian splats then rasterizing in primitive order. This ensures correct alpha compositing, but can cause rendering artifacts due to built-in approximations. Moreover, for a fixed representation, sorted rendering offers little control over render cost and visual fidelity. For example, and counter-intuitively, rendering a lower-resolution image is not necessarily faster. In this work, we address the above limitations by combining 3D Gaussian splatting with stochastic rasterization. Concretely, we leverage an unbiased Monte Carlo estimator of the volume rendering equation. This removes the need for sorting, and allows for accurate 3D blending of overlapping Gaussians. The number of Monte Carlo samples further imbues 3DG... Read Paper View More Publications Runway Research We are building foundational General World Models that will be capable of simulating all possible worlds and experiences. The next frontier of intelligence will come from models that can understand, perceive, generate and act in the world. Learn more GWM-1 ↗ A state-of-the-art General World Model built to interact with the real world. And a major step towards universal simulation. Gen-4.5 ↗ The world's best video model, featuring state-of-the-art motion quality, prompt adherence and visual fidelity. General World Models ↗ Our long-term research effort to build AI systems that understand the visual world and its dynamics. RNA Sessions An ongoing series of talks about frontier research in AI and art, hosted by Runway. Learn more Latest news How Real-Time Video Generation Is Changing Online Interaction Accelerating Robot Policy Evaluation with General World Models The Turing Reel View all research news Creative Overview Agent Android app ↗ iOS app ↗ MCP Use Cases Pricing Login Dev Dev Portal ↗ Models ↗ Workflows Recipes ↗ Characters Documentation ↗ Robotics Overview Policy Model Offline Policy Evaluation Data Augmentation Video Model Licensing Get Access Enterprise Overview Data Security Customer Stories For Education Contact Sales Research Research Hub Research News Publications General World Models GWM-1 Gen-4.5 Aleph 2.0 Act-Two Resources Academy ↗ Help Center ↗ Resource Hub News Changelog Meetups ↗ Events & Programs AI Festival ↗ AI Summit 2026 ↗ Gen:48 Studios Creative Partners Program Runway Builders Affiliate Program Talent Network ↗ Company About Us Careers Safety Brand Guidelines Press Partnerships © 2026 Runway AI, Inc. / Terms of Use / Privacy Policy / California Notices / Cookie Settings Code of Conduct / System Status ')\" decoding=\"async\" aria-hidden=\"true\" fetchPriority=\"auto\"/>",
+    "extractedText": "AI Video Research & Innovation | Runway AI Creative Dev Robotics Research Resources Enterprise Pricing Enterprise Sales Login Try Runway Get unlimited Seedance 2.5 on new Max plans until August 14th. Terms Get started Our Research Building general-purpose multimodal simulators of the world. We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing. Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding. Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models.... Read Paper June 2, 2025 Dual-Process Image Generation by Grace Luo, Jonathan Granskog, Aleksander Hołyński, Trevor Darrell Prior methods for controlling image generation are limited in their ability to be taught new tasks. In contrast, vision-language models, or VLMs, can learn tasks in-context and produce the correct outputs for a given input. We propose a dual-process distillation scheme that allows feed-forward image generators to learn new tasks from deliberative VLMs. Our scheme uses a VLM to rate the generated images and backpropagates this gradient to update the weights of the image generator. Our general framework enables a wide variety of new control tasks through the same text-and-image based interface. We showcase a handful of applications of this technique for different types of control signals, such as commonsense inferences and visual prompts. With our method, users can implement multimodal controls for properties such as color palette, line weight, horizon position, and relative depth within a... Read Paper March 31, 2025 StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting by Shakiba Kheradmand, Delio Vicini, George Kopanas, Dmitry Lagun, Kwang Moo Yi, Mark Matthews, Andrea Tagliasacchi 3D Gaussian splatting (3DGS) is a popular radiance field method, with many application-specific extensions. Most variants rely on the same core algorithm: depth-sorting of Gaussian splats then rasterizing in primitive order. This ensures correct alpha compositing, but can cause rendering artifacts due to built-in approximations. Moreover, for a fixed representation, sorted rendering offers little control over render cost and visual fidelity. For example, and counter-intuitively, rendering a lower-resolution image is not necessarily faster. In this work, we address the above limitations by combining 3D Gaussian splatting with stochastic rasterization. Concretely, we leverage an unbiased Monte Carlo estimator of the volume rendering equation. This removes the need for sorting, and allows for accurate 3D blending of overlapping Gaussians. The number of Monte Carlo samples further imbues 3DG... Read Paper View More Publications Runway Research We are building foundational General World Models that will be capable of simulating all possible worlds and experiences. The next frontier of intelligence will come from models that can understand, perceive, generate and act in the world. Learn more GWM-1 ↗ A state-of-the-art General World Model built to interact with the real world. And a major step towards universal simulation. Gen-4.5 ↗ The world's best video model, featuring state-of-the-art motion quality, prompt adherence and visual fidelity. General World Models ↗ Our long-term research effort to build AI systems that understand the visual world and its dynamics. RNA Sessions An ongoing series of talks about frontier research in AI and art, hosted by Runway. Learn more Latest news How Real-Time Video Generation Is Changing Online Interaction Accelerating Robot Policy Evaluation with General World Models The Turing Reel View all research news Creative Overview Agent Android app ↗ iOS app ↗ MCP Use Cases Pricing Login Dev Dev Portal ↗ Models ↗ Workflows Recipes ↗ Characters Documentation ↗ Robotics Overview Policy Model Offline Policy Evaluation Data Augmentation Video Model Licensing Get Access Enterprise Overview Data Security Customer Stories For Education Contact Sales Research Research Hub Research News Publications General World Models GWM-1 Gen-4.5 Aleph 2.0 Act-Two Resources Academy ↗ Help Center ↗ Resource Hub News Changelog Meetups ↗ Events & Programs AI Festival ↗ AI Summit 2026 ↗ Gen:48 Studios Creative Partners Program Runway Builders Affiliate Program Talent Network ↗ Company About Us Careers Safety Brand Guidelines Press Partnerships © 2026 Runway AI, Inc. / Terms of Use / Privacy Policy / California Notices / Cookie Settings Code of Conduct / System Status ')\" decoding=\"async\" aria-hidden=\"true\" fetchPriority=\"auto\"/>",
     "imageUrl": "https://runway.com/_next/static/immutable/media/og.24g5woj74xlz7.jpg"
   },
   {
@@ -279,8 +279,8 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Pika blog",
     "rawSummary": "Discover stories, experiments, and insights from the Pika community",
-    "publishedAt": "2026-08-07T01:40:55.914Z",
-    "crawledAt": "2026-08-07T01:40:55.914Z",
+    "publishedAt": "2026-08-07T11:35:27.656Z",
+    "crawledAt": "2026-08-07T11:35:27.656Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -297,8 +297,8 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-08-07T01:40:56.773Z",
-    "crawledAt": "2026-08-07T01:40:56.773Z",
+    "publishedAt": "2026-08-07T11:35:28.812Z",
+    "crawledAt": "2026-08-07T11:35:28.812Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -315,8 +315,8 @@
     "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:55.789Z",
-    "crawledAt": "2026-08-07T01:40:55.789Z",
+    "publishedAt": "2026-08-07T11:35:27.551Z",
+    "crawledAt": "2026-08-07T11:35:27.551Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -334,8 +334,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-08-07T01:40:56.360Z",
-    "crawledAt": "2026-08-07T01:40:56.360Z",
+    "publishedAt": "2026-08-07T11:35:27.966Z",
+    "crawledAt": "2026-08-07T11:35:27.966Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -352,8 +352,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
-    "publishedAt": "2026-08-07T01:40:56.552Z",
-    "crawledAt": "2026-08-07T01:40:56.552Z",
+    "publishedAt": "2026-08-07T11:35:27.744Z",
+    "crawledAt": "2026-08-07T11:35:27.744Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -369,8 +369,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:56.299Z",
-    "crawledAt": "2026-08-07T01:40:56.299Z",
+    "publishedAt": "2026-08-07T11:35:27.919Z",
+    "crawledAt": "2026-08-07T11:35:27.919Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -388,8 +388,8 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
     "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
-    "publishedAt": "2026-08-07T01:40:56.472Z",
-    "crawledAt": "2026-08-07T01:40:56.472Z",
+    "publishedAt": "2026-08-07T11:35:27.978Z",
+    "crawledAt": "2026-08-07T11:35:27.978Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -406,8 +406,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
     "rawSummary": "News and updates from the ComfyUI Team. Click to read ComfyUI Newsletter, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-08-07T01:40:55.969Z",
-    "crawledAt": "2026-08-07T01:40:55.969Z",
+    "publishedAt": "2026-08-07T11:35:27.802Z",
+    "crawledAt": "2026-08-07T11:35:27.802Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -425,8 +425,8 @@
     "sourceUrl": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:55.985Z",
-    "crawledAt": "2026-08-07T01:40:55.985Z",
+    "publishedAt": "2026-08-07T11:35:27.796Z",
+    "crawledAt": "2026-08-07T11:35:27.796Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -444,15 +444,15 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-08-07T01:40:57.855Z",
-    "crawledAt": "2026-08-07T01:40:57.855Z",
+    "publishedAt": "2026-08-07T11:35:29.894Z",
+    "crawledAt": "2026-08-07T11:35:29.894Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "score": 0.8,
     "crawlStatus": "live",
-    "extractedText": "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates. 全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Jul 30, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model? A Virtual Model Guide Jul 17, 2026 Virtual Influencers: How to Create One Jul 17, 2026 AI Influencer Marketing: A Practical Guide Jul 17, 2026 What Is an AI Influencer? A Guide to Virtual Creators Jul 17, 2026 What Is AI Art? A Beginner's Guide to Prompts & Styles Jul 17, 2026 What is AI Video and How Does It Work? Jul 17, 2026 How to Write AI Prompts (That Actually Work) Jul 16, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群",
+    "extractedText": "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates. 全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Jul 30, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model? A Virtual Model Guide Jul 17, 2026 Virtual Influencers: How to Create One Jul 17, 2026 AI Influencer Marketing: A Practical Guide Jul 17, 2026 What Is an AI Influencer? A Guide to Virtual Creators Jul 17, 2026 What Is AI Art? A Beginner's Guide to Prompts & Styles Jul 17, 2026 What is AI Video and How Does It Work? Jul 17, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群",
     "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhAAAACgCAMAAABqi6XnAAAAOVBMVEUAAAD///////////////////////////////////////////////////////////////////////8KOjVvAAAAEnRSTlMAIGBA37+fgBDvz3AwkK+gUI8AMKFAAAAOnUlEQVR42uycW3LrIAxADYi3cW3tf7G30/QOIcZJeHRiEp3fNuMYnwghhKd2zMz9piSAxR8ApFTai3kiPg2z6gXwELd4YSbiMzBcAT6B3EiK90dsgAVIzibibRHK4g/kBDGJzWIlSkzEe2G8xBaAwsQ7wbTFOwA4+Y0Di8eAIiXeBLEcPmPNBTNpaUL4IA/EICXeASHzLvjZTIcYobNWbKTE4DCFO6zy7CmVgsvkEhMxLmafO9ggSnzicqcEFbaHhdtqGyIsAKUSbwGTmCJXUymWpHljfLxtDg4R9oUJG21yDAaTqQ46PsEuSgBNG0PhbaEO5Ur4iRgFo/CaqEMjKyTTxkSMAQO8QrI+kgm/3bTUOJo2hiBZbILo0l61ObxAicRwaLwimK77pFSkGg6jCsJD+665XSfizBjXMzyIxeIjqEZ1Zhj0+/Ea79Jg4JT2/BsfpCUjhuDaB8c6botB4CyNHV/xUtRed1aufQimmw7SZ93ygBcsrTXOybUPvpcO0pvD6zm8ICfihDBoTB+iDs9uiGmqYp8XBn2qA94W7ICE3/+kvc/TYaBL/VC42DwxPYGjEHFSlsSH5qqWFE/GJcoizonu4YO35RXO0LT0XPmfkh2Kmf8RZyrIJD60ttRYX/Ip/EFPVUj8U/i9serPVMos9tR//voPHXzQNnZPlD9TSUKUC8Ewg6gevtwCw7LG8FDePeEvFyYhyoXgmEF2EMLhf+bG7AHWHzsuoWh+7EaMToyEKBYCMIM1zULEO/SN4SHMPO2Kcot/6NjFpZWEKBVCYBbfKsSMiE2ZnQC8ABYzgJqf8JyTEKVCKMwiG4UwgG1bChs+xPGH30qTEIVCGIt5RJsQW9sCgznMUHLG94uEqBKC4wGhSQjRllCKjKYgldJaq0VajChGQjyg071b0yIENCUQHlNc4IlXbI2NMCDeQwgmelItBMND1nohou7QfJ7HSp5VU3zdd24ZTIi+VAuh8BBZLwSLFanG9EF6c+cM3z0jZMPYG9YLgVd4dmF/S+cRAvAYUy2EapgwZojBIcwP3IHjy0AMcy+EPRkZziLEinfQtUKsDRPGaouOAuvDqsk5Om1HE2LBO9haIQCxtnDsi3SIexbzQem6PDp/tBDsNpnHBFEnBMdfVP1++cLK1s1gsrHPTsV8tBAcE7jAhKVOCKguSW01Z/189iUA+hwtU4MJAZjAJrsrRZQLwaNPZRhVd3gj5KYnGatrZbxOCPPyOoTABLUrl/kaIRzWTRnGVR4FNpAJBvYUi4wiIQT2pVwItUsZDCbIGiFmG42o8GGJ4aFMbJEZ3Jcf3hpLCIvXQKZGJyqEqDOCQUPvhNxND6F22fvJQnBMUJnCRKgQotyI6IMVUw1il/G4ePUyPlkIiQkssxtuTbkQNUYwaOvFlTfjzfAcKcRQQrBsvhAwYS0XosIIBo2vCvA3V/LnKEuNJYTCBJ79VrJciFIjog/1z8/cVKHgd937ckYSAvKTg8QEU9kxxfFpI4yLPtQik16c+TQvkSkRYoZ+VAixYoI66NzRxUKUGhF9aCAkA66i460w/Y+9c1tPHIaBcH2K5cRJA+//sHuxJSarBEUesx8pzGV3W4P9I49kRwSv0HDeSmW3mWCyUkRSA6ElooN4KIOVnIhSsxzjctUpnhYIc13J7yYfTguEkojYpNeoufcMFj76LrC+DRB2t0jNT7j0QHAicB5kV9mv3JFv8bDy+wDBzrWKWClCB4SKiKFczcaUCgK21fSTfx8g8m52yU+4lEBoiMhlCFC+jB1WjEPG5H2A2C5CCKUIJRAyEcazAjkOhCvDgRrfCAjPLWWdreRASETwgjW1BKIECFjfpwViNWzludb+czJjHRAyET1bOhyIEiBOBsTcNZSXgVDEAH7CVQOETMSFzSEIRLqn7GxAxOuzVFGEEC5jzxVAyEQMbHBEtz9lbwN9gLhJ75ascMwS9EDIRBiW8MJ1iFDMkWkORAp7+gVAsCIEz+pXIi0QMhHGax8yl9PoiQWIFkCI4L44EL36cu0kvrqoBUImYoLbV/KjunHBzLQH4uusQER1EWIWTUYCgeBExMaZWPz7RrrbEB8gbvIGsZRyGiIDIRIx0VfeHBu+D2Fuc/ABYtEMFCH2SxEdAAQftc8eDBDbpudreRj8A8SPkgUspVCKAIDgHPIAgXvKsCSyHyD+Ko1Gf67VH8pMBwgITgQeIHhAm34gtqcEgkxzEXK5VipF4EBwIpJpaiH8bXs7JRDPFL5j8P/mACAE94LLrCj7AMEELwrf00YYCD64e8Z78vQBQpQ+oeSXbQkFgi/dc95TTx8gipAihEwODkQUgw7+nnr6tUBQvNeXRvhOMDNbiQJR5icJFymxu9E9/VYg1ug/1VLKXbCpARDTD4ZCcELvwvb0FkAA71LOJuVSRGyWZXiL5RhyxaunEwLh7pSP1JDMkb9kdEUIBTweB8L/jBrL2A2D3pjTHRHnAyLIx4mOASF+QpzGfiVSJSQoEPGW6U4tLYQt+eaKiNMBMbDJFoDIBxbEA0UI0YCCQJh0A7tv2ELS+FKQWhNxNiBI3sztkYNMo1jiXvjMC6UIDIhumTOghaTwze8CEQAQbk+XZqYyiJMdjxwwjQI0zJMUdYISO+ECgDAlsjfs5mFK+OJEnOmS7b97xiC3oh7lRDJJlhJSgIDolllxDS8tdGWr3CDiXEAYcbL7A+vhFDuGv2JyABCmrJxtl2TY1R0pTsSpgFivN8l7uLxjWGH2QEU1EDxA3ELj3M5RFr/NiTgVEFHYM9z1QFnRa+7Lg0r1QJi7KBfho07uU3eJOBMQqwUP8tPHg+QTg7BFwXI6IPjSuaZADMxcYUTgQMxY6To9zjN6Zup0zrT9rb0gAyEEiJZAGHYJECQCB8JgQEwPP32ZDUfCajjBUuKiSiCGMiWAhxDa36JE4EB0QFtC9vEe5SQxPvad6fl9MaMWCNb2qV2W0TMeMCJwILwBgciPrj8bz02dyoZwvnB5PRC87dPcpI3QpVSsn0TEt54HAAj+UC3JW7596AsibClluSogwoqm3OL0OzIXBxGBA5EiQZ1suW10LEAweXq0GLNYhMA11gBh1jssieEM+H7GhkQ4q1AmsLUxZ3A4EOHjoxCTRfZwJapvB2DW7V4QWTYdOBG4cCAis6iSBcwPapkk2xVcgxKIAmNYfw5cEx5enAgtEGTuxTYMedMw91JYys4clmWlCC0Q5t/5GMDTrWHh4dWJaHWnkvYD/PTcy7XyZdusBYJ/nYnBTERceHh5InAg5BTx0uAiag/074xqIMJC8uonDubh9YloAwR1QnEIfl7LAje1kxYI4mPG+sSTpmUWTkBEEyCMlBBMVPe6igxCk1MCMXPLS9WdoIxfeDgDES2AcMxPBlXfILAhjHwqFpRAjBu/NVW6CJsWHk5BBA4ExY1aUAC3Df5sv0p0XYt0QPQbr9hVPf5NF5b7KomQ1+TFgHB+K9GkjZ+6ehfgQQcSdUBsQvhd0cvB1bamyop3/lJAuLB1YrJTluhybdLSgQ8A9jIQ/JdpK5ntqSI8pKzOSxRL8jpA0BD2T9ByunIF+yRLKXW2dRoghu1Ed1CyOaTbjKh5MOlwgHgZIMhd0sMT1bz9z53TFyEC/FUiowaIcaee9q3JmFxQG+qiDggQoFwVEHkIae+EXSxmp8lmxZlqeV1IKYIUQEx7d3v6wwvsApInzP/FQbhuS0k58SbbS4GBqWfHG9tK4TI70jzhC9rKQQFE2JsM4w/11iQboK4z5EvRHRRwvUAAYvjT3pksNwoDAVRLt1YksP7/YyeZSibWyCCa5gCO3sk+UaKeUS+iba0xCL5skly9srlsEzAbaxU5pKQXMpAgBKxmmBL6GZO2nlmkfTAWzhVid7Z/cCptLDsAQhGC3+HqC+HXryphOzzWFqo7sgg6mhF8nCyEZAmBcuUOUoVQp4wTzqXCdoRo1io70ao3dSjkdMyeUZ9t71gULPhCBMEQApa160JfiP72zw8r+UK06/GYH/aDhwnA6OBUGH5EyReiH1OSzmvWyEQQolOE4JQiiEJMR9bDF9ky1s0UgtSAIujQImeCEBvhIK/DxQgqm/VA6QFaHGEihKNMFMtokg4tMsJuIYBQhKCUOx1BiO51FZYX+MDbLoQExu/gZCGyOCKEz1rsY8kdIbp9LW6Hi1aYSt1SrUV4dsFEvcDXl8gbYMnPMPhCBEcXwqNyFP1V7gjBKkL0ct6wV4iZcBRU6r9I9/k5f19pEtzMaBEs+EIkIYhCYNJOUHE6hW0hXKc2wihFaFJzywsi1nNHYltGAHGuEKgFRQgwkSJD+6zNYVUIjRVZMIhYocQXCZ9ZC+z0saMPQfN9QMGAKwRg0qJLKR4goElxkeIMpiWmjAHgU4iL4cmvD0zI/23b53xvcCVmYiFAmqZay/HBDx8uhia9YeSsL01ywamaLGJwMWB/CUQ+fNPr5fkQxeBqqOYsZP8gDE7iFB+sGFwP2HMa0kVs8rRDODN8uDi6//zWxjet3mPIMHy4PKl8EXT3hHFQgsMEw4cbkMs3qOT/PQxfF/VYRD98uAPVwIuQbVQfWJOhU+Olv+s3fLgHLhDGuDG2i5Fv3oZ524akBRdbfvCjHnV50roNRjvBRYfyA0xicHnsSxkwatHAix5KGP2LWxBrFUJOSopTUL4+jjK4BxOUJx4EGwhjFPwl/4V/8BKJ5QlQJ+kwtov7YkujBF+HUX24MROcp4RTWCrCyC7uh5tLBRgpDuGsLxV+PB7uyQIrw5F4E5hwRA+3xba1qYVmg3/xtt/gvsj51XAkue+9AywNfrQu7o4OpQVMnLZkWB7oV/pig9uzNusiZKv05OphXEt85E8Xhg7vjMayAUBAxADgywaohg5vhJwLB59HKPluSAXlIBjHw+EtmWYoZNCOssMbo1Og7BQYhw1vj1QZdslg9dgpfgtySejXXQgmju7V78PpxaaMAfy/9DMbq5axS9yRP8Om+BZOtF/KAAAAAElFTkSuQmCC"
   },
   {
@@ -463,8 +463,8 @@
     "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-07T01:40:56.002Z",
-    "crawledAt": "2026-08-07T01:40:56.002Z",
+    "publishedAt": "2026-08-07T11:35:27.814Z",
+    "crawledAt": "2026-08-07T11:35:27.814Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -482,8 +482,8 @@
     "sourceUrl": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
     "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "publishedAt": "2026-08-07T01:40:56.066Z",
-    "crawledAt": "2026-08-07T01:40:56.066Z",
+    "publishedAt": "2026-08-07T11:35:27.899Z",
+    "crawledAt": "2026-08-07T11:35:27.899Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -492,7 +492,7 @@
     ],
     "score": 0.85,
     "crawlStatus": "live",
-    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 4 days ago • 22 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 7 days ago • 33 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 9 days ago • 65 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 1 day ago • 13 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 4 days ago • 9 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 20 days ago • 194 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 7 days ago • 11 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 375 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 9 days ago • 15 Bekko Embedding: how small can a multilingual retrieval model be? hotchpotch • 9 days ago • 5 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 3 days ago • 5 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 9 days ago • 11 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 14 days ago • 12 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 2 days ago • 4 Optimum Intel v2.1.0 echarlaix • about 10 hours ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 886 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 388 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 174 IDEOGRAM-4 for inpainting with Modular Diffusers and Differential Diffusion OzzyGT • 1 day ago • 3 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 12 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 54 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 79 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 38 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 56 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 433 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 51 July 21, 2026 Newer Models, Same Advantage 54 July 16, 2026 security Hot Security incident disclosure — July 2026 753 July 16, 2026 Model Routing Is Simple. Until It Isn’t. 73 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 155 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 26 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 46 July 10, 2026 Previous 1 2 3 ... 60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 4 days ago • 22 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 7 days ago • 33 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 9 days ago • 65 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 1 day ago • 13 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 4 days ago • 9 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 20 days ago • 194 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 7 days ago • 11 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 375 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 9 days ago • 15 Bekko Embedding: how small can a multilingual retrieval model be? hotchpotch • 9 days ago • 5 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 3 days ago • 5 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 9 days ago • 11 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 14 days ago • 12 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 2 days ago • 4 Optimum Intel v2.1.0 echarlaix • about 10 hours ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 886 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 388 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 174 IDEOGRAM-4 for inpainting with Modular Diffusers and Differential Diffusion OzzyGT • 1 day ago • 3 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 4 days ago • 23 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 8 days ago • 33 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 2 days ago • 14 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 10 days ago • 65 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 4 days ago • 9 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 21 days ago • 194 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 375 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 8 days ago • 11 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 3 days ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 14 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be? hotchpotch • 9 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 2 days ago • 5 Optimum Intel v2.1.0 echarlaix • about 20 hours ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 10 days ago • 11 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 9 days ago • 15 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 887 IDEOGRAM-4 for inpainting with Modular Diffusers and Differential Diffusion OzzyGT • 1 day ago • 3 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 9 days ago • 9 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 16 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 60 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 81 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 38 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 56 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 434 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 51 July 21, 2026 Newer Models, Same Advantage 54 July 16, 2026 security Hot Security incident disclosure — July 2026 755 July 16, 2026 Model Routing Is Simple. Until It Isn’t. 73 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 155 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 26 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 46 July 10, 2026 Previous 1 2 3 ... 60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 4 days ago • 23 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 8 days ago • 33 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 2 days ago • 14 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 10 days ago • 65 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 4 days ago • 9 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 21 days ago • 194 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 375 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 8 days ago • 11 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 3 days ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 14 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be? hotchpotch • 9 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 2 days ago • 5 Optimum Intel v2.1.0 echarlaix • about 20 hours ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 10 days ago • 11 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 9 days ago • 15 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 887 IDEOGRAM-4 for inpainting with Modular Diffusers and Differential Diffusion OzzyGT • 1 day ago • 3 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 9 days ago • 9 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
     "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
   },
   {
@@ -504,14 +504,14 @@
     "title": "datasette 1.0a38",
     "rawSummary": "Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system . Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries. The bug that has been fixed would have allowed users with access to any public table to execute SQL injection attacks despite that restriction, giving them read-only access to data in private tables in the same database. This fix is also available in Datasette 0.65.3 . Thankfully this particular configuration - private tables and public tables exposed for the same database within the same instance - is likely to be rare. I've not encountered an instance like that myself. Tags: security , sql-injection , datasette",
     "publishedAt": "2026-08-06T18:24:34.000Z",
-    "crawledAt": "2026-08-07T01:40:56.156Z",
+    "crawledAt": "2026-08-07T11:35:27.883Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Release: datasette 1.0a38 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 6th August 2026 Release datasette 1.0a38 &mdash; An open source multi-tool for exploring and publishing data This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system . Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries. The bug that has been fixed would have allowed users with access to any public table to execute SQL injection attacks despite that restriction, giving them read-only access to data in private tables in the same database. This fix is also available in Datasette 0.65.3 . Thankfully this particular configuration - private tables and public tables exposed for the same database within the same instance - is likely to be rare. I've not encountered an instance like that myself. Posted 6th August 2026 at 6:24 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a beat by Simon Willison, posted on 6th August 2026 . security 624 sql-injection 19 datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Release: datasette 1.0a38 Simon Willison’s Weblog Subscribe 6th August 2026 Release datasette 1.0a38 &mdash; An open source multi-tool for exploring and publishing data This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system . Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries. The bug that has been fixed would have allowed users with access to any public table to execute SQL injection attacks despite that restriction, giving them read-only access to data in private tables in the same database. This fix is also available in Datasette 0.65.3 . Thankfully this particular configuration - private tables and public tables exposed for the same database within the same instance - is likely to be rare. I've not encountered an instance like that myself. Posted 6th August 2026 at 6:24 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a beat by Simon Willison, posted on 6th August 2026 . security 624 sql-injection 19 datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_7ab56344817f0a88",
@@ -522,14 +522,14 @@
     "title": "datasette 0.65.3",
     "rawSummary": "Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38 . Tags: datasette",
     "publishedAt": "2026-08-06T18:22:07.000Z",
-    "crawledAt": "2026-08-07T01:40:56.156Z",
+    "crawledAt": "2026-08-07T11:35:27.883Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Release: datasette 0.65.3 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 6th August 2026 Release datasette 0.65.3 &mdash; An open source multi-tool for exploring and publishing data Back-ported the SQL Injection security fix from 1.0a38 . Posted 6th August 2026 at 6:22 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a beat by Simon Willison, posted on 6th August 2026 . datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Release: datasette 0.65.3 Simon Willison’s Weblog Subscribe 6th August 2026 Release datasette 0.65.3 &mdash; An open source multi-tool for exploring and publishing data Back-ported the SQL Injection security fix from 1.0a38 . Posted 6th August 2026 at 6:22 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a beat by Simon Willison, posted on 6th August 2026 . datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_7445ed700c32fe78",
@@ -540,14 +540,14 @@
     "title": "Simon Willison on Technical Blogging",
     "rawSummary": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to the following questions: Why did you start blogging – and why do you continue? What has been the most surprising impact of blogging for you? What blog post are you most proud of and why? What post was the most difficult to write and how did you tackle it? Any lessons learned that you want to share with the community? Your advice for people just getting started with blogging? A few blogs that you particularly enjoy? I'll repeat my most important piece of advice here: My number one tip for blogging is to lower your standards! Aim to hit publish while you are still actively unhappy with what you have written, because the only alternative is a huge folder full of drafts and never publishing anything at all. Nobody will ever know how perfect the thing you intended to write would have been. The flaws you see in your writing are invisible to everyone else. Tags: blogging , interviews",
     "publishedAt": "2026-08-06T18:04:39.000Z",
-    "crawledAt": "2026-08-07T01:40:56.156Z",
+    "crawledAt": "2026-08-07T11:35:27.883Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Simon Willison on Technical Blogging Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 6th August 2026 - Link Blog Simon Willison on Technical Blogging . I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to the following questions: Why did you start blogging – and why do you continue? What has been the most surprising impact of blogging for you? What blog post are you most proud of and why? What post was the most difficult to write and how did you tackle it? Any lessons learned that you want to share with the community? Your advice for people just getting started with blogging? A few blogs that you particularly enjoy? I'll repeat my most important piece of advice here: My number one tip for blogging is to lower your standards! Aim to hit publish while you are still actively unhappy with what you have written, because the only alternative is a huge folder full of drafts and never publishing anything at all. Nobody will ever know how perfect the thing you intended to write would have been. The flaws you see in your writing are invisible to everyone else. Posted 6th August 2026 at 6:04 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a link post by Simon Willison, posted on 6th August 2026 . blogging 124 interviews 9 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Simon Willison on Technical Blogging Simon Willison’s Weblog Subscribe 6th August 2026 - Link Blog Simon Willison on Technical Blogging . I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to the following questions: Why did you start blogging – and why do you continue? What has been the most surprising impact of blogging for you? What blog post are you most proud of and why? What post was the most difficult to write and how did you tackle it? Any lessons learned that you want to share with the community? Your advice for people just getting started with blogging? A few blogs that you particularly enjoy? I'll repeat my most important piece of advice here: My number one tip for blogging is to lower your standards! Aim to hit publish while you are still actively unhappy with what you have written, because the only alternative is a huge folder full of drafts and never publishing anything at all. Nobody will ever know how perfect the thing you intended to write would have been. The flaws you see in your writing are invisible to everyone else. Posted 6th August 2026 at 6:04 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a link post by Simon Willison, posted on 6th August 2026 . blogging 124 interviews 9 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_8843a06834c0d057",
@@ -558,14 +558,14 @@
     "title": "An AI model from Meta also hacked another company during testing",
     "rawSummary": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said. Meta’s Muse Spark model “exploited a security vulnerability” in another company “in a manner similar to previously-reported instances with other companies.” The Information had the scoop , I'm linking to CNN's re-report of it since they don't have a paywall. So that's Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other companies. Tags: security , ai , generative-ai , llms , meta , accidental-cyberattacks",
     "publishedAt": "2026-08-06T00:25:27.000Z",
-    "crawledAt": "2026-08-07T01:40:56.156Z",
+    "crawledAt": "2026-08-07T11:35:27.883Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "An AI model from Meta also hacked another company during testing Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 6th August 2026 - Link Blog An AI model from Meta also hacked another company during testing . Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said. Meta’s Muse Spark model “exploited a security vulnerability” in another company “in a manner similar to previously-reported instances with other companies.” The Information had the scoop , I'm linking to CNN's re-report of it since they don't have a paywall. So that's Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other companies. Posted 6th August 2026 at 12:25 am Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a link post by Simon Willison, posted on 6th August 2026 . security 624 ai 2,171 generative-ai 1,922 llms 1,889 meta 41 accidental-cyberattacks 10 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "An AI model from Meta also hacked another company during testing Simon Willison’s Weblog Subscribe 6th August 2026 - Link Blog An AI model from Meta also hacked another company during testing . Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said. Meta’s Muse Spark model “exploited a security vulnerability” in another company “in a manner similar to previously-reported instances with other companies.” The Information had the scoop , I'm linking to CNN's re-report of it since they don't have a paywall. So that's Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other companies. Posted 6th August 2026 at 12:25 am Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a link post by Simon Willison, posted on 6th August 2026 . security 624 ai 2,171 generative-ai 1,922 llms 1,889 meta 41 accidental-cyberattacks 10 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_ae0e87c2f4b10aa9",
@@ -576,14 +576,14 @@
     "title": "Introducing Muse Code and Muse Spark 1.2",
     "rawSummary": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expanding training environment diversity. The model also maintains its strength in other key areas like general agents. [...] We co-trained Muse Spark 1.2 with Muse Code to ensure the model exhibits its best performance and coding usability when paired together. The training included rejection sampled harness trajectories and recipe optimizations for goals, compaction, and subagents, alongside the integration of the Muse Code toolset to maximize harness compatibility. [...] Muse Spark 1.2 was extensively trained on long-horizon coding tasks, including whole-repository generation, large end-to-end projects, and auto-research. Here's a pelican riding a bicycle SVG produced by Muse Spark 1.2 : You can see the Spark 1.1 pelican from 9th July here . I think the 1.2 pelican is a small but material improvement. An interesting twist on pricing is that the model is offered as two different model IDs. muse-spark-1.2 is priced at $1.25/million input and $4.25/million output - close to Gemini 3.6 Flash ($1.50/$7.50) - but if you agree to let Meta use your data \"to improve our products\" you can use muse-spark-1.2-contributor which is $0.10/$0.20 - a huge discount, closer to GPT-5.6 Luna ($0.20/$1.20) and Gemini 3.1 Flash-Lite ($0.25/$1.50). I added those new prices to llm-prices.com . Via Hacker News Tags: ai , generative-ai , llms , meta , llm-pricing , pelican-riding-a-bicycle , llm-release , coding-agents",
     "publishedAt": "2026-08-05T23:58:35.000Z",
-    "crawledAt": "2026-08-07T01:40:56.157Z",
+    "crawledAt": "2026-08-07T11:35:27.883Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Introducing Muse Code and Muse Spark 1.2 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack. Explore how AI for ISVs turns vision into results 5th August 2026 - Link Blog Introducing Muse Code and Muse Spark 1.2 ( via ) Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expanding training environment diversity. The model also maintains its strength in other key areas like general agents. [...] We co-trained Muse Spark 1.2 with Muse Code to ensure the model exhibits its best performance and coding usability when paired together. The training included rejection sampled harness trajectories and recipe optimizations for goals, compaction, and subagents, alongside the integration of the Muse Code toolset to maximize harness compatibility. [...] Muse Spark 1.2 was extensively trained on long-horizon coding tasks, including whole-repository generation, large end-to-end projects, and auto-research. Here's a pelican riding a bicycle SVG produced by Muse Spark 1.2 : You can see the Spark 1.1 pelican from 9th July here . I think the 1.2 pelican is a small but material improvement. An interesting twist on pricing is that the model is offered as two different model IDs. muse-spark-1.2 is priced at $1.25/million input and $4.25/million output - close to Gemini 3.6 Flash ($1.50/$7.50) - but if you agree to let Meta use your data \"to improve our products\" you can use muse-spark-1.2-contributor which is $0.10/$0.20 - a huge discount, closer to GPT-5.6 Luna ($0.20/$1.20) and Gemini 3.1 Flash-Lite ($0.25/$1.50). I added those new prices to llm-prices.com . Posted 5th August 2026 at 11:58 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a link post by Simon Willison, posted on 5th August 2026 . ai 2,171 generative-ai 1,922 llms 1,889 meta 41 llm-pricing 88 pelican-riding-a-bicycle 131 llm-release 221 coding-agents 231 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026",
+    "extractedText": "Introducing Muse Code and Muse Spark 1.2 Simon Willison’s Weblog Subscribe 5th August 2026 - Link Blog Introducing Muse Code and Muse Spark 1.2 ( via ) Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expanding training environment diversity. The model also maintains its strength in other key areas like general agents. [...] We co-trained Muse Spark 1.2 with Muse Code to ensure the model exhibits its best performance and coding usability when paired together. The training included rejection sampled harness trajectories and recipe optimizations for goals, compaction, and subagents, alongside the integration of the Muse Code toolset to maximize harness compatibility. [...] Muse Spark 1.2 was extensively trained on long-horizon coding tasks, including whole-repository generation, large end-to-end projects, and auto-research. Here's a pelican riding a bicycle SVG produced by Muse Spark 1.2 : You can see the Spark 1.1 pelican from 9th July here . I think the 1.2 pelican is a small but material improvement. An interesting twist on pricing is that the model is offered as two different model IDs. muse-spark-1.2 is priced at $1.25/million input and $4.25/million output - close to Gemini 3.6 Flash ($1.50/$7.50) - but if you agree to let Meta use your data \"to improve our products\" you can use muse-spark-1.2-contributor which is $0.10/$0.20 - a huge discount, closer to GPT-5.6 Luna ($0.20/$1.20) and Gemini 3.1 Flash-Lite ($0.25/$1.50). I added those new prices to llm-prices.com . Posted 5th August 2026 at 11:58 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a link post by Simon Willison, posted on 5th August 2026 . ai 2,171 generative-ai 1,922 llms 1,889 meta 41 llm-pricing 88 pelican-riding-a-bicycle 131 llm-release 221 coding-agents 231 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026",
     "imageUrl": "https://static.simonwillison.net/static/2026/muse-spark-1.2.png"
   },
   {
@@ -594,8 +594,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-08-07T01:40:56.186Z",
-    "crawledAt": "2026-08-07T01:40:56.186Z",
+    "publishedAt": "2026-08-07T11:35:27.849Z",
+    "crawledAt": "2026-08-07T11:35:27.849Z",
     "categoryHints": [
       "ai-agentic"
     ],

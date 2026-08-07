@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-07T01:40:56.442Z",
+    "publishedAt": "2026-08-07T11:35:27.976Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-07T01:40:55.647Z",
+    "publishedAt": "2026-08-07T11:35:27.496Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-07T01:40:55.602Z",
+    "publishedAt": "2026-08-07T11:35:27.311Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-07T01:40:56.079Z",
+    "publishedAt": "2026-08-07T11:35:27.812Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6d7ad7e8ae7153b1",
+    "sourceId": "src_reddit-aiagents_956244d33b88fe1a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhhsvz/why_are_most_of_you_still_pointing_agents_at_a/",
-    "title": "Why are most of you still pointing agents at a real Gmail instead of giving them their own inbox?",
-    "publishedAt": "2026-08-06T21:48:01.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhual9/which_observability_platform_are_you_using_today/",
+    "title": "Which observability platform are you using today?",
+    "publishedAt": "2026-08-07T07:57:25.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I work on email built for AI agents, so I'm obviously not neutral here.",
-      "What I keep running into: people wire an agent into an inbox that belongs to a human.",
-      "Their own Gmail, or a shared team account, usually with an app password or full OAuth.",
-      "Which means the agent can read everything in there, and anything that arrives in it can steer the agent."
+      "We are still in the early stages of working with some AI agents and testing on prod, hitting some walls that obviously created the space and need for AI observability niche.",
+      "We naturally gravitated to Langfuse but since our company is already a client of Progress we are getting a huge discount for their AI observability platform and I wonder if anyone have tried them?",
+      "Seems like they are working it and getting to feature parity lately (even doing a ProductHunt launch - lol a bit weird but sure).",
+      "submitted by /u/DETHSHOT_FPS [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Hey. I work on email built for AI agents, so I'm obviously not neutral here. What I keep running into: people wire an agent into an inbox that belongs to a human. Their own Gmail, or a shared team account, usually with an app password or full OAuth. Which means the agent can read everything in there, and anything that arrives in it can steer the agent. I understand why. It's already set up, it costs nothing, deliverability is solved, and nobody wants to migrate anything for what started as an experiment. What I can't tell is how much of that is a considered call and how much is just the path of least resistance. So, genuinely asking: If you run agents that touch email, what are they pointing at? Your own inbox, a burner Gmail, a catch-all on a domain you own, something purpose-built? And if you considered giving the agent its own and decided against it, what killed it? Setup friction, deliverability, one more thing to maintain, or it just never felt worth the bother? Mostly I want to know whether the separate-inbox thing actually holds up in practice, or whether everyone who tried it drifted back to Gmail anyway. submitted by /u/JanJanJaJa [link] [comments]",
+        "text": "We are still in the early stages of working with some AI agents and testing on prod, hitting some walls that obviously created the space and need for AI observability niche. We naturally gravitated to Langfuse but since our company is already a client of Progress we are getting a huge discount for their AI observability platform and I wonder if anyone have tried them? Seems like they are working it and getting to feature parity lately (even doing a ProductHunt launch - lol a bit weird but sure). submitted by /u/DETHSHOT_FPS [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhhsvz/why_are_most_of_you_still_pointing_agents_at_a/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhual9/which_observability_platform_are_you_using_today/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_0347e8733f391413",
+    "sourceId": "src_reddit-aiagents_96d3da140b527965",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhcj6k/is_it_really_possible_to_create_a_fully_aidriven/",
-    "title": "Is it really possible to create a fully AI-driven startup?",
-    "publishedAt": "2026-08-06T18:29:46.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhuyjy/what_if_the_goal_of_ai_agents_is_to_make/",
+    "title": "What if the goal of AI agents is to make themselves progressively unnecessary?",
+    "publishedAt": "2026-08-07T08:36:58.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "There is a lot of content on social media about AI-driven startups, and here on Reddit as well.",
-      "I understand that many are 'selling content' and want clicks.",
-      "But I wanted to start a discussion about whether it's really possible to create a business that is run by AI agents, where the owner just controls/monitors/manages with low effort.",
-      "Have you seen anything that is really working, or has anyone tried it?"
+      "I’ve been playing with an idea and would love some critical feedback.",
+      "What if future software mostly remains deterministic, with AI sitting above it as an escalation layer?",
+      "Code → Local LLM → Frontier LLM → Human When something new, ambiguous or broken occurs, it moves up the chain.",
+      "But the important part is what happens afterwards: Solve it once, then try to encode the solution into the software so you don’t need to reason about it again."
     ],
     "claims": [
       {
-        "text": "Hello everyone! There is a lot of content on social media about AI-driven startups, and here on Reddit as well. I understand that many are 'selling content' and want clicks. But I wanted to start a discussion about whether it's really possible to create a business that is run by AI agents, where the owner just controls/monitors/manages with low effort. Have you seen anything that is really working, or has anyone tried it? Any revenue made? Something that is working in reality and not just social media content? I'd love to hear about processes, tools, agents, workflows, how the setup looks. All types of profit-driven businesses are interesting. submitted by /u/Jonatan_C [link] [comments]",
+        "text": "I’ve been playing with an idea and would love some critical feedback. What if future software mostly remains deterministic, with AI sitting above it as an escalation layer? Code → Local LLM → Frontier LLM → Human When something new, ambiguous or broken occurs, it moves up the chain. But the important part is what happens afterwards: Solve it once, then try to encode the solution into the software so you don’t need to reason about it again. I’m thinking of it a bit like an electron tending toward its lowest available energy state. The system should always tend toward the lowest-cost level of intelligence capable of reliably doing the job. Over time, expensive reasoning gets “crystallised” into cheap deterministic capability. You’d obviously need periodic architectural cleanup so thousands of little improvements don’t turn the codebase into spaghetti. The bigger thought is that maybe the future isn’t about using more AI. It’s about progressively eliminating the need for intelligence on problems we’ve already solved — leaving humans and frontier models focused on imagination, invention and genuinely new problems. Every solved problem should become part of the substrate, not a recurring reasoning cost. Am I describing something genuinely useful here, or just reinventing autonomic computing / self-healing software with LLMs? “Continuously transform probabilistic reasoning into deterministic capability while preserving architectural integrity, reserving intelligence for invention rather than repetition.” Please poke holes in it. submitted by /u/Bullonbroadway [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhcj6k/is_it_really_possible_to_create_a_fully_aidriven/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhuyjy/what_if_the_goal_of_ai_agents_is_to_make/"
       }
     ],
     "usableFor": [
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-07T01:40:55.883Z",
+    "publishedAt": "2026-08-07T11:35:27.343Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-07T01:40:56.450Z",
+    "publishedAt": "2026-08-07T11:35:28.055Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-07T01:40:56.078Z",
+    "publishedAt": "2026-08-07T11:35:27.896Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,7 +344,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-07T01:40:55.711Z",
+    "publishedAt": "2026-08-07T11:35:27.420Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -371,7 +371,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-07T01:40:55.718Z",
+    "publishedAt": "2026-08-07T11:35:27.430Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,15 +398,15 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-07T01:40:56.257Z",
+    "publishedAt": "2026-08-07T11:35:28.027Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
-      "AI Video Research & Innovation | Runway AI Creative Dev Robotics Research Resources Enterprise Pricing Enterprise Sales Login Try Runway Our Research Building general-purpose multimodal simulators of the world.",
+      "AI Video Research & Innovation | Runway AI Creative Dev Robotics Research Resources Enterprise Pricing Enterprise Sales Login Try Runway Get unlimited Seedance 2.5 on new Max plans until August 14th.",
+      "Terms Get started Our Research Building general-purpose multimodal simulators of the world.",
       "We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing.",
-      "Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding.",
-      "Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models...."
+      "Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding."
     ],
     "claims": [
       {
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-07T01:40:55.914Z",
+    "publishedAt": "2026-08-07T11:35:27.656Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-07T01:40:56.773Z",
+    "publishedAt": "2026-08-07T11:35:28.812Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -484,7 +484,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-07T01:40:55.789Z",
+    "publishedAt": "2026-08-07T11:35:27.551Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,7 +511,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-07T01:40:56.360Z",
+    "publishedAt": "2026-08-07T11:35:27.966Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -540,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-07T01:40:56.552Z",
+    "publishedAt": "2026-08-07T11:35:27.744Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -569,7 +569,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-07T01:40:56.299Z",
+    "publishedAt": "2026-08-07T11:35:27.919Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-07T01:40:56.472Z",
+    "publishedAt": "2026-08-07T11:35:27.978Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -625,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-07T01:40:55.969Z",
+    "publishedAt": "2026-08-07T11:35:27.802Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -655,7 +655,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-07T01:40:55.985Z",
+    "publishedAt": "2026-08-07T11:35:27.796Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,14 +682,14 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-07T01:40:57.855Z",
+    "publishedAt": "2026-08-07T11:35:29.894Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
       "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates.",
-      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Jul 30, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model?",
+      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Jul 30, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model?",
       "A Virtual Model Guide Jul 17, 2026 Virtual Influencers: How to Create One Jul 17, 2026 AI Influencer Marketing: A Practical Guide Jul 17, 2026 What Is an AI Influencer?",
       "A Guide to Virtual Creators Jul 17, 2026 What Is AI Art?"
     ],
@@ -712,7 +712,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-07T01:40:56.002Z",
+    "publishedAt": "2026-08-07T11:35:27.814Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-07T01:40:56.066Z",
+    "publishedAt": "2026-08-07T11:35:27.899Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,9 +747,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 4 days ago • 22 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 7 days ago • 33 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 9 days ago • 65 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 1 day ago • 13 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 4 days ago • 9 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 20 days ago • 194 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 7 days ago • 11 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 375 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 9 days ago • 15 Bekko Embedding: how small can a multilingual retrieval model be?",
-      "hotchpotch • 9 days ago • 5 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 3 days ago • 5 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 9 days ago • 11 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 14 days ago • 12 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 2 days ago • 4 Optimum Intel v2.1.0 echarlaix • about 10 hours ago • 4 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 886 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 388 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 174 IDEOGRAM-4 for inpainting with Modular Diffusers and Differential Diffusion OzzyGT • 1 day ago • 3 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 12 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 54 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 79 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 38 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 56 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 433 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 51 July 21, 2026 Newer Models, Same Advantage 54 July 16, 2026 security Hot Security incident disclosure — July 2026 753 July 16, 2026 Model Routing Is Simple.",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 4 days ago • 23 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 8 days ago • 33 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 2 days ago • 14 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 10 days ago • 65 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 4 days ago • 9 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 21 days ago • 194 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 375 Accelerating Qwen3.6 on Intel® Core™ Ultra Series 3 with DFlash ofirzaf • 8 days ago • 11 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 3 days ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 14 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be?",
+      "hotchpotch • 9 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 2 days ago • 5 Optimum Intel v2.1.0 echarlaix • about 20 hours ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 10 days ago • 11 VisionPsy-Nano: State-of-the-Art On-Device Vision-Language Models qvac • 9 days ago • 15 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 887 IDEOGRAM-4 for inpainting with Modular Diffusers and Differential Diffusion OzzyGT • 1 day ago • 3 LettucePrevent - Real-Time Prevention of Factual Hallucinations in RAG lebe1 • 9 days ago • 9 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 16 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 60 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 81 July 30, 2026 The OlmoEarth Platform: Geospatial inference at planetary scale 38 July 28, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 56 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 434 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 63 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 51 July 21, 2026 Newer Models, Same Advantage 54 July 16, 2026 security Hot Security incident disclosure — July 2026 755 July 16, 2026 Model Routing Is Simple.",
       "73 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 155 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 26 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 46 July 10, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
@@ -777,10 +777,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: datasette 1.0a38 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 6th August 2026 Release datasette 1.0a38 &mdash; An open source multi-tool for exploring and publishing data This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system .",
+      "Release: datasette 1.0a38 Simon Willison’s Weblog Subscribe 6th August 2026 Release datasette 1.0a38 &mdash; An open source multi-tool for exploring and publishing data This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system .",
       "Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries.",
-      "The bug that has been fixed would have allowed users with access to any public table to execute SQL injection attacks despite that restriction, giving them read-only access to data in private tables in the same database."
+      "The bug that has been fixed would have allowed users with access to any public table to execute SQL injection attacks despite that restriction, giving them read-only access to data in private tables in the same database.",
+      "This fix is also available in Datasette 0.65.3 ."
     ],
     "claims": [
       {
@@ -807,10 +807,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: datasette 0.65.3 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 6th August 2026 Release datasette 0.65.3 &mdash; An open source multi-tool for exploring and publishing data Back-ported the SQL Injection security fix from 1.0a38 .",
+      "Release: datasette 0.65.3 Simon Willison’s Weblog Subscribe 6th August 2026 Release datasette 0.65.3 &mdash; An open source multi-tool for exploring and publishing data Back-ported the SQL Injection security fix from 1.0a38 .",
       "Posted 6th August 2026 at 6:22 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a beat by Simon Willison, posted on 6th August 2026 .",
-      "datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
+      "datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments.",
+      "Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
     ],
     "claims": [
       {
@@ -837,10 +837,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Simon Willison on Technical Blogging Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 6th August 2026 - Link Blog Simon Willison on Technical Blogging .",
+      "Simon Willison on Technical Blogging Simon Willison’s Weblog Subscribe 6th August 2026 - Link Blog Simon Willison on Technical Blogging .",
       "I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog!",
-      "It includes my answers to the following questions: Why did you start blogging – and why do you continue?"
+      "It includes my answers to the following questions: Why did you start blogging – and why do you continue?",
+      "What has been the most surprising impact of blogging for you?"
     ],
     "claims": [
       {
@@ -867,10 +867,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "An AI model from Meta also hacked another company during testing Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 6th August 2026 - Link Blog An AI model from Meta also hacked another company during testing .",
+      "An AI model from Meta also hacked another company during testing Simon Willison’s Weblog Subscribe 6th August 2026 - Link Blog An AI model from Meta also hacked another company during testing .",
       "Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday.",
-      "Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic."
+      "Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic.",
+      "“A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said."
     ],
     "claims": [
       {
@@ -897,10 +897,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Introducing Muse Code and Muse Spark 1.2 Simon Willison’s Weblog Subscribe Sponsored by: AWS &mdash; Move from SaaS to Agentic SaaS with resources for ISVs at every layer of the stack.",
-      "Explore how AI for ISVs turns vision into results 5th August 2026 - Link Blog Introducing Muse Code and Muse Spark 1.2 ( via ) Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling.",
+      "Introducing Muse Code and Muse Spark 1.2 Simon Willison’s Weblog Subscribe 5th August 2026 - Link Blog Introducing Muse Code and Muse Spark 1.2 ( via ) Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling.",
       "Meta shipped their own coding agent as part of getting that to work!",
-      "Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows."
+      "Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows.",
+      "In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expanding training environment diversity."
     ],
     "claims": [
       {
@@ -921,7 +921,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-07T01:40:56.186Z",
+    "publishedAt": "2026-08-07T11:35:27.849Z",
     "categoryHints": [
       "ai-agentic"
     ],
