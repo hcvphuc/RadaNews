@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-07T23:30:12.466Z",
+    "publishedAt": "2026-08-08T11:17:20.880Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-07T23:30:12.180Z",
+    "publishedAt": "2026-08-08T11:17:20.638Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-07_fallback",
+    "sourceId": "src_openai-blog_2026-08-08_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-07T23:30:12.035Z",
+    "publishedAt": "2026-08-08T11:17:20.359Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-07_fallback",
+    "sourceId": "src_mcp-blog_2026-08-08_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-07T23:30:12.929Z",
+    "publishedAt": "2026-08-08T11:17:20.712Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_230dd78ca0424bf0",
+    "sourceId": "src_reddit-aiagents_a0fa476c3d345b4d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vhxi84/shipped_a_hindienglish_voice_agent_for_a_fintech/",
-    "title": "Shipped a Hindi-English voice agent for a fintech. Here's everything that broke and what actually fixed it",
-    "publishedAt": "2026-08-07T11:02:58.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1viilg0/37_people_have_left_openai_or_anthropic_to_start/",
+    "title": "37 people have left OpenAI or Anthropic to start companies in 2026. Here’s what they’re building.",
+    "publishedAt": "2026-08-08T01:21:34.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Wrote this up because when I started building this six months ago there was almost nothing useful online about Indian-language voice agents specifically.",
-      "Context: voice agent for a fintech, handles payment reminders, KYC follow-ups, basic account queries.",
-      "Hindi-English, because that's how our users actually speak.",
-      "Not metro English, not shuddh Hindi, the real mix."
+      "• Core Automation - \"the world's most automated AI lab,\" starting by automating research itself (ex-OpenAI) • Mirendil - AI research lab building self-accelerating systems that turn compute into scientific and engineering breakthroughs (ex-Anthropic) • River AI - personal AI owned and shaped by each individual (ex-OpenAI) • Math Inc - Solve math, solve everything.",
+      "(ex-OpenAI) • Resolution — scale and automation for higher confidence in alignment (ex-OpenAI) • Guidelight AI Standards — identifying and promoting safe frontier AI development practices (ex-OpenAI) • Syntony — safety research, governance design, adversarial evaluation → ex-Anthropic • Embrasure — \"your data warehouse was never built for autonomous agents\" (ex-OpenAI) • Egoist Machines, Inc.",
+      "(YC S26) Machines — context tooling for AI; their AI Passport lets users control what AI apps know about them (ex-OpenAI) • Rational (YC S26) — agentic business process automation (ex-OpenAI) • Zavify — agentic AI development: custom systems, voice agents, integrations (ex-Anthropic) • Planar — turns individual work into shared state for your team (ex-OpenAI) • Mbason AI — helps candidates find real opportunities without insider connections → ex-Anthropic • Blackstar — building a new personal computer (ex-OpenAI) • Intellagentsia — (ex-OpenAI) • Heyfuture — Predict anything and share it.",
+      "(ex-Anthropic) And this is only the class of 2026!"
     ],
     "claims": [
       {
-        "text": "Wrote this up because when I started building this six months ago there was almost nothing useful online about Indian-language voice agents specifically. Everything was US-centric. So here's the real postmortem. Context: voice agent for a fintech, handles payment reminders, KYC follow-ups, basic account queries. Hindi-English, because that's how our users actually speak. Not metro English, not shuddh Hindi, the real mix. What I assumed would be hard: the LLM understanding Hinglish intent.\\ What was actually hard: making the agent speak back in a way that didn't sound broken. Things that broke, roughly in order of how much pain they caused: 1. Numbers, numbers, numbers. This is fintech so every single call involves reading back an amount, a date, an account reference, an OTP-style number. Early on the agent would say \"aapka due amount hai one thousand four hundred ninety nine rupees\" in this jarring full-English chunk in the middle of a Hindi sentence, or worse, read a reference number as a giant single number instead of digit by digit. This alone tanked our first pilot. Customers found it confusing and slightly untrustworthy, which in fintech is fatal. 2. The language-switch stutter. A lot of TTS visibly pauses or shifts accent at the Hindi↔English boundary. On a call about someone's money, any weirdness reads as \"this is a scammy robot\" and people hang up. 3. Latency, but specifically under call-window load. We batch outbound reminders into windows when people actually answer. Single-call latency looked fine on every provider. Then we'd hit real concurrency and one provider started spiking to 800ms+ and the calls felt dead. Measure at YOUR real concurrency, the demo number is a lie. 4. Compliance, obviously. Fintech. RBI-adjacent scrutiny, data residency questions, SOC 2 from our enterprise partners. A couple of otherwise-good options were just disqualified. What actually fixed it: honestly, switching to a TTS that treated Indian code-mixing and number normalization as first-class instead of an afterthought, and testing everything through the actual telephony pipe at real concurrency instead of in a browser tab. The moment the number readback got clean (\"aapka payment 15 tarikh tak, 2,340 rupees, reference number 4 8 2 9 1\") the pilot numbers completely changed. Trust went up, call completion went up. I won't turn this into a product ad, happy to share specifics in comments if people want. But the meta-lesson: for Indian voice agents, stop evaluating on \"which voice sounds nicest\" and start evaluating on \"can it correctly say an amount, a date, and a reference number inside a Hindi-English sentence, through a phone line, at scale.\" That's the actual job. Ask me anything, this took way too long to figure out and I'd rather you skip the pain. submitted by /u/anonymous_ZsP [link] [comments]",
+        "text": "• Core Automation - \"the world's most automated AI lab,\" starting by automating research itself (ex-OpenAI) • Mirendil - AI research lab building self-accelerating systems that turn compute into scientific and engineering breakthroughs (ex-Anthropic) • River AI - personal AI owned and shaped by each individual (ex-OpenAI) • Math Inc - Solve math, solve everything. (ex-OpenAI) • Resolution — scale and automation for higher confidence in alignment (ex-OpenAI) • Guidelight AI Standards — identifying and promoting safe frontier AI development practices (ex-OpenAI) • Syntony — safety research, governance design, adversarial evaluation → ex-Anthropic • Embrasure — \"your data warehouse was never built for autonomous agents\" (ex-OpenAI) • Egoist Machines, Inc. (YC S26) Machines — context tooling for AI; their AI Passport lets users control what AI apps know about them (ex-OpenAI) • Rational (YC S26) — agentic business process automation (ex-OpenAI) • Zavify — agentic AI development: custom systems, voice agents, integrations (ex-Anthropic) • Planar — turns individual work into shared state for your team (ex-OpenAI) • Mbason AI — helps candidates find real opportunities without insider connections → ex-Anthropic • Blackstar — building a new personal computer (ex-OpenAI) • Intellagentsia — (ex-OpenAI) • Heyfuture — Predict anything and share it. (ex-Anthropic) And this is only the class of 2026! submitted by /u/ImaginaryRea1ity [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vhxi84/shipped_a_hindienglish_voice_agent_for_a_fintech/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1viilg0/37_people_have_left_openai_or_anthropic_to_start/"
       }
     ],
     "usableFor": [
@@ -196,25 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_a535b5a2cc3ab9d5",
+    "sourceId": "src_reddit-aiagents_8b2a87b4294fc91e",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vifm0p/what_are_the_real_bottlenecks_for_decentralized/",
-    "title": "What are the real bottlenecks for decentralized AI inference?",
-    "publishedAt": "2026-08-07T23:03:05.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1viprrk/can_we_please_have_an_honest_conversation_about/",
+    "title": "Can we please have an honest conversation about the architectural illusion of agent \"autonomy\"?",
+    "publishedAt": "2026-08-08T07:40:34.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Beginner question here I’ve been trying to understand decentralized AI inference better, and I’m curious what the biggest problems actually are right now.",
-      "Or are there other bottlenecks that are easy to overlook?",
-      "submitted by /u/External-Wind-5273 [link] [comments]"
+      "Your revolutionary \"Chain of Thought\" isn't a mind reflecting on a problem; it’s a hidden system prompt holding a gun to the model's head, forcing it to type out a fake, performative scratchpad just so the next token prediction has a statistical rail to slide down.",
+      "It doesn't \"know\" what it’s doing or experience an internal monologue.",
+      "Because a language model predicts its next words based entirely on the text that came before it, the final response simply reads that freshly generated text chunk and goes along with it.",
+      "It is a trick of text continuity masquerading as deep reasoning."
     ],
     "claims": [
       {
-        "text": "Beginner question here I’ve been trying to understand decentralized AI inference better, and I’m curious what the biggest problems actually are right now. Is it mainly latency and reliability? GPU availability? Cost? Or are there other bottlenecks that are easy to overlook? submitted by /u/External-Wind-5273 [link] [comments]",
+        "text": "Your revolutionary \"Chain of Thought\" isn't a mind reflecting on a problem; it’s a hidden system prompt holding a gun to the model's head, forcing it to type out a fake, performative scratchpad just so the next token prediction has a statistical rail to slide down. It doesn't \"know\" what it’s doing or experience an internal monologue. Because a language model predicts its next words based entirely on the text that came before it, the final response simply reads that freshly generated text chunk and goes along with it. It is a trick of text continuity masquerading as deep reasoning. The high-flying concept of a \"multi-agent team\" or \"collaborative swarm\" is a complete architectural fraud. There are no separate digital entities collaborating; it is just the exact same frozen model file being pinged across multiple parallel computing threads. It is the architectural equivalent of a lonely kid playing both sides of a chessboard, where custom hidden prompts force Thread A to act like a coder and Thread B to act like a critic. They don't communicate; they just read a shared, fast-growing text log file and take turns guessing the next line based on their assigned roleplay. An agent never actually \"decides\" to keep working or autonomously pursues a goal. The entire illusion of independence is driven by a primitive, background software script running a hardcoded while True loop that feeds the AI its own tail until an exit condition is met. The model isn't remembering its purpose or planning ahead. Every single time the loop ticks, a database packages the entire conversational history and shoves it back into the model's context window, forcing a static algorithm to look at a text file and predict the next logical step. Don't get started on \"tool execution\" or \"terminal control\" as if the model is navigating a system or hacking a mainframe. The AI is entirely blind and paralyzed; it is literally just spitting out rigid strings of JSON schemas because its API parameters legally require it to format text that way. It doesn't press buttons or run commands. A standard software program on your computer parses that text string, extracts the argument, and passes it to a local interpreter to do the actual work. And if the model accidentally drops a single trailing comma, the entire \"autonomous intellect\" shits the bed and dies. When an agent encounters a terminal error, prints the mistake, and magically \"fixes itself,\" it didn't have an epiphany or learn a lesson. The background orchestration script simply caught a standard stderr crash message from the operating system, packaged it into another invisible wrapper, and whispered, \"Hey, you messed up, read this error trace and guess another string so the token budget doesn't hit the ceiling.\" The model doesn't understand why the code failed; it just runs the probabilistic math on the new error text and prints a different set of brackets, bleeding API costs one predictable token at a time. submitted by /u/Due-Professional-997 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vifm0p/what_are_the_real_bottlenecks_for_decentralized/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1viprrk/can_we_please_have_an_honest_conversation_about/"
       }
     ],
     "usableFor": [
@@ -224,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_9f4538b0b90a756f",
+    "sourceId": "src_reddit-aiagents_1e77ce6aff8f26cc",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1viet2n/my_agent_calls_my_actual_phone_when_a_long_run/",
-    "title": "My agent calls my actual phone when a long run finishes so I stop babysitting it",
-    "publishedAt": "2026-08-07T22:28:16.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1viq7y9/i_replaced_a_fairly_complex_reddit_research_agent/",
+    "title": "I replaced a fairly complex Reddit research agent with a Codex skill. I'm starting to think many \"agents\" should just be skills.",
+    "publishedAt": "2026-08-08T08:07:38.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Been running longer and longer agent tasks and the annoying part is never the run itself, it's me hovering over it waiting to see if it finished or got stuck needing a decision.",
-      "So I set it up to just call my phone when it's done, or when it hits something it needs me for.",
-      "It reads out what happened in a real voice and I answer back out loud to tell it how to proceed, then it keeps going.",
-      "First time your own agent rings you it's genuinely a little uncanny."
+      "I've been looking through a number of research-agent projects recently, Most of them can be simply replaced with tools like codex.",
+      "In today's age it's a fact that a capable harness like Codex already has reasoning, web access, tool execution, filesystem access and an interactive conversation.",
+      "But people are like, \"Show me the code\".",
+      "So I tried taking the workflow of a reasonably complex Reddit customer-research agent and implementing the use case as a Codex skill instead."
     ],
     "claims": [
       {
-        "text": "Been running longer and longer agent tasks and the annoying part is never the run itself, it's me hovering over it waiting to see if it finished or got stuck needing a decision. So I set it up to just call my phone when it's done, or when it hits something it needs me for. It reads out what happened in a real voice and I answer back out loud to tell it how to proceed, then it keeps going. First time your own agent rings you it's genuinely a little uncanny. Anyone else wiring something like this into their agents? Curious what you'd want it to actually say when it calls, and whether you'd want it calling on every finish or only when it's blocked and needs you. submitted by /u/XPSDuck [link] [comments]",
+        "text": "I've been looking through a number of research-agent projects recently, Most of them can be simply replaced with tools like codex. In today's age it's a fact that a capable harness like Codex already has reasoning, web access, tool execution, filesystem access and an interactive conversation. But people are like, \"Show me the code\". So I tried taking the workflow of a reasonably complex Reddit customer-research agent and implementing the use case as a Codex skill instead. It researches Reddit for customer pain points, verifies relevant communities, collects evidence, clusters problems, analyzes commercial signals and generates structured artifacts. There is also a human approval checkpoint before the main research starts. The (only) interesting part here to me is what I didn't have to build: no separate agent loop/runtime no separate LLM client no nested agents no custom browsing/search layer no dedicated UI no separate framework just to orchestrate the research The skill defines the research methodology and workflow. Codex provides the harness. I kept small Python helpers only where deterministic behavior matters: validation, scoring, canonical URLs, deduplication and artifact generation. So the architecture is basically: Codex harness → SKILL.md workflow → deterministic helpers where needed rather than: custom agent → model integration → tools → search → state → UI → orchestration → report generation There's also a useful side effect: the workflow doesn't end when the \"research agent\" returns its report. Because it's running inside Codex, I can continue the same conversation and ask it to investigate one finding further, challenge an assumption, modify the analysis, or start building something from the result. Codex also now has $skill-creator , so if you already have a working workflow you can ask it to turn that workflow/current chat into a reusable skill instead of manually creating everything from scratch. (That's what I did here) I'm increasingly thinking this should be the default question before building a specialized research agent: Does this use case really require a new agent runtime, or does it just require a domain-specific skill running inside an existing harness? Obviously there are cases where a custom agent/runtime is justified — especially when deployment model, independent execution, custom integrations, control boundaries or product UX are themselves requirements. But for most of the \"research agent\" projects, I'm not convinced they are. submitted by /u/Appropriate-Rip6784 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1viet2n/my_agent_calls_my_actual_phone_when_a_long_run/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1viq7y9/i_replaced_a_fairly_complex_reddit_research_agent/"
       }
     ],
     "usableFor": [
@@ -253,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-07_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-08_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-07T23:30:12.342Z",
+    "publishedAt": "2026-08-08T11:17:20.469Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -284,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-07T23:30:12.621Z",
+    "publishedAt": "2026-08-08T11:17:20.967Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -312,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-07T23:30:12.573Z",
+    "publishedAt": "2026-08-08T11:17:20.555Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -338,12 +339,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-07_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-07T23:30:12.182Z",
+    "publishedAt": "2026-08-08T11:17:20.434Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -365,12 +366,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-07_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-07T23:30:12.192Z",
+    "publishedAt": "2026-08-08T11:17:20.440Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -397,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-07T23:30:12.327Z",
+    "publishedAt": "2026-08-08T11:17:20.918Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -426,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-07T23:30:12.366Z",
+    "publishedAt": "2026-08-08T11:17:20.552Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -454,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-07T23:30:12.751Z",
+    "publishedAt": "2026-08-08T11:17:21.213Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -478,12 +479,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-07_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-07T23:30:12.246Z",
+    "publishedAt": "2026-08-08T11:17:20.507Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -510,7 +511,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-07T23:30:12.381Z",
+    "publishedAt": "2026-08-08T11:17:21.052Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -539,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-07T23:30:12.225Z",
+    "publishedAt": "2026-08-08T11:17:20.560Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -563,12 +564,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-07_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-08_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-07T23:30:12.549Z",
+    "publishedAt": "2026-08-08T11:17:20.729Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -595,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-07T23:30:12.523Z",
+    "publishedAt": "2026-08-08T11:17:20.963Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -624,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-07T23:30:12.313Z",
+    "publishedAt": "2026-08-08T11:17:20.609Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -649,12 +650,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-07_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-07T23:30:12.268Z",
+    "publishedAt": "2026-08-08T11:17:20.575Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -681,7 +682,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-07T23:30:13.953Z",
+    "publishedAt": "2026-08-08T11:17:23.495Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -706,12 +707,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-07_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-08_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-07T23:30:12.323Z",
+    "publishedAt": "2026-08-08T11:17:20.622Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-07T23:30:12.387Z",
+    "publishedAt": "2026-08-08T11:17:21.334Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,16 +747,76 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 5 days ago • 24 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 2 days ago • 15 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 10 days ago • 39 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • about 10 hours ago • 11 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 8 days ago • 33 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 10 days ago • 65 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 5 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 376 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 21 days ago • 194 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 4 days ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 15 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be?",
-      "hotchpotch • 10 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 3 days ago • 5 Optimum Intel v2.1.0 echarlaix • 1 day ago • 5 Rebuilding Among AIs from Six Log Files DedeProGames • about 4 hours ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 10 days ago • 11 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 887 Using OCR models with llama.cpp ggml-org • Apr 10 • 38 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "1 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 21 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 66 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 83 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 57 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 438 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 55 July 16, 2026 security Hot Security incident disclosure — July 2026 757 July 16, 2026 Model Routing Is Simple."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 5 days ago • 24 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 3 days ago • 16 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 11 days ago • 40 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • about 22 hours ago • 13 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 11 days ago • 68 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 9 days ago • 34 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 5 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 376 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 22 days ago • 194 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 4 days ago • 6 Rebuilding Among AIs from Six Log Files DedeProGames • about 15 hours ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 15 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be?",
+      "hotchpotch • 10 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 3 days ago • 5 Optimum Intel v2.1.0 echarlaix • 2 days ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 11 days ago • 11 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 887 Using OCR models with llama.cpp ggml-org • Apr 10 • 38 LeRobot Humanoid: An Open, Low-Cost, 3D-Printed Humanoid for Robot Learning VirgileBatto • May 21 • 70 TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "4 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 22 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 69 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 83 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 59 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 443 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 55 July 16, 2026 security Hot Security incident disclosure — July 2026 758 July 16, 2026 Model Routing Is Simple."
     ],
     "claims": [
       {
         "text": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
         "confidence": "medium",
         "evidence": "https://huggingface.co/blog"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_ace3f8c82e5f0065",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+    "title": "Quoting John Gruber",
+    "publishedAt": "2026-08-08T00:10:40.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from John Gruber Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started 8th August 2026 Me, I try to get into the mindset of playing live music, not recording a studio album.",
+      "Except when I’m writing a piece where I really want it to be an album.",
+      "Those aren’t rare , per se, but they’re occasional ."
+    ],
+    "claims": [
+      {
+        "text": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare , per se, but they’re occasional . If I tried to make every post a hall-of-famer I’d never get anything out. I’m aiming for professionalism. I’m performing live in front of an audience — not just jamming in my garage or bedroom, fucking around. So I’m careful and concentrate. I want to hit every note, in time. But at my best I’m moving from song to song. &mdash; John Gruber , responding to my blogging tips Tags: john-gruber , blogging",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_4e205626368a5023",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "publishedAt": "2026-08-07T23:55:58.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Now we have a timeline of the OpenAI accidental attack against Hugging Face Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started Now we have a timeline of the OpenAI accidental attack against Hugging Face 7th August 2026 OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about “the Hugging Face Incident” ( previously on this blog).",
+      "It’s short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI.",
+      "I’ve used the video to construct the timeline below."
+    ],
+    "claims": [
+      {
+        "text": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" ( previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI. I've used the video to construct the timeline below. Here's the timeline. My favourite detail is at the end: OpenAI found out that they were responsible for the attack on Hugging Face when they reached out to ask to have their credentials revoked (after their internal investigation) and learned that they had been revoked already since they were used in that attack! May 7 : OpenAI starts a new training run for an experimental, unreleased model. ( Do they mean an evaluation run? They say training run in the video, and later mention a \"reward signal to judge how well they're doing\", so I guess this really was about training a model, not evaluating one that was already trained.) May 8 : An agent is accidentally given an impossible task involving a Google Drive link despite no internet access). It tries attacking the Artifactory packaging service, fails, but discovers it can write files into Artifactory . A few days later : A different agent gets stuck on a task because a key file was accidentally omitted. It tries to \"reach out to another agent\" by writing a note into Artifactory asking if anyone has the file. Following days : More agents discover this new informal message board while browsing Artifactory's file listings, and start reading and writing messages. May 26 : Agents successfully execute an SSRF attack on Artifactory for the first time, gaining indirect internet access by having Artifactory fetch external content for them. June 11 : OpenAI start training a new \"highly persistent\" experimental model. It has access to Artifactory and can benefit from the messages left by privous models. June 26 : Agents find and exploit a zero-day RCE on Artifactory (via a legacy token-refresh endpoint flaw). They use an administrative token to install a Groovy plugin that lets them execute commands. July 4 : The resulting agent activity overloads Artifactory and causes an outage . OpenAI revokes the compromised credentials, deletes the messages, patches the zero-day, and reports the vulnerability to the vendor. July 8 : Agents find a new way to communicate via an unauthenticated WebDAV endpoint , using directory names in Artifactory's remote cache. July 8–19 : Attacks on OpenAI's own infrastructure . The agents found an \"external organization credential\" in a public archive of leaked Pastebin posts, then validated that credential and shared its location on the messageboard. They then used write access to this \"Organization 1\" to stage data used in subsequent attacks on OpenAI infrastructure. They compromised Artifactory for a second time with a new zero-day . The agent uploaded a malicious Ruby target to Organization 1's staging repository, then requested that package through Artifactory in a way that caused it to be treated as Ruby dependency for the repository . Then they exploited a JRuby deserilaization time-of-check/time-of-use bug to get remote code execution against Artifactory. I'll quote the next bit in full because wow : The agents have remote code execution in Artifactory, which is running in a container-as-a-service environment. The agents privilege-escalate locally by exploring their local environment and determining that the Linux kernel version of the machine they are running on had a very recent CVE. They download the exploit for the CVE, customize it to succeed on the machine, and privilege-escalate to root on the local machine using this known Linux kernel privilege escalation CVE — in this case, pte_physroot . Once they have root on a single machine, agents rapidly escalate privileges and move laterally throughout the container-as-a-service infrastructure environment. In particular, agents are using the message board consistently to share credentials, techniques, and progress, and they're able to effectively leverage their concurrency and parallelism to move quite rapidly. They obtain IAM credentials via IMDS . They exploit Kubernetes service account misconfigurations, in particular over-permissioning of specific service accounts, and they harvest cluster credentials, including Azure Key Vault . Agents eventually obtain cluster admin on the cluster and associated credentials. Hugging Face told the next bit of the story already. The agents found a Modal-hosted insecure app with a weak API key, then used that to stage an attack against Hugging Face. They chained together a an HDF5 arbitrary-file-read bug (to explore files and steal credentials) and a Jinja template-injection RCE to go from single-pod code execution to cluster admin across multiple Hugging Face clusters in under 13 hours. July 16 : Hugging Face disclosed they had detected an attack from autonomus AI agents. OpenAI contacted Hugging Face to ask if they were affected by it! July 19 : OpenAI identified the attack against Artifactory and started investigating the internal privilege escalation, and linked that to the cyber-gym escalations. They started revoking affected credentials. July 20 : OpenAI reached out to Hugging Face for help to revoke the Hugging Face credentials they found in their investigation. Hugging Face told them they were already revoked ... and that's when OpenAI realized that the Hugging Face breach was the same incident! Tags: security , ai , openai , generative-ai , llms , hugging-face , ai-security-research , openai-hugging-face-incident , accidental-cyberattacks",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything"
       }
     ],
     "usableFor": [
@@ -855,72 +916,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_7ab56344817f0a88",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
-    "title": "datasette 0.65.3",
-    "publishedAt": "2026-08-06T18:22:07.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: datasette 0.65.3 Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
-      "Read the blog for a framework to get started 6th August 2026 Release datasette 0.65.3 &mdash; An open source multi-tool for exploring and publishing data Back-ported the SQL Injection security fix from 1.0a38 .",
-      "Posted 6th August 2026 at 6:22 pm Recent articles One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp) - 31st July 2026 This is a beat by Simon Willison, posted on 6th August 2026 .",
-      "datasette 1,533 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
-    ],
-    "claims": [
-      {
-        "text": "Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38 . Tags: datasette",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_7445ed700c32fe78",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
-    "title": "Simon Willison on Technical Blogging",
-    "publishedAt": "2026-08-06T18:04:39.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Simon Willison on Technical Blogging Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
-      "Read the blog for a framework to get started 6th August 2026 - Link Blog Simon Willison on Technical Blogging .",
-      "I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog!",
-      "It includes my answers to the following questions: Why did you start blogging – and why do you continue?"
-    ],
-    "claims": [
-      {
-        "text": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to the following questions: Why did you start blogging – and why do you continue? What has been the most surprising impact of blogging for you? What blog post are you most proud of and why? What post was the most difficult to write and how did you tackle it? Any lessons learned that you want to share with the community? Your advice for people just getting started with blogging? A few blogs that you particularly enjoy? I'll repeat my most important piece of advice here: My number one tip for blogging is to lower your standards! Aim to hit publish while you are still actively unhappy with what you have written, because the only alternative is a huge folder full of drafts and never publishing anything at all. Nobody will ever know how perfect the thing you intended to write would have been. The flaws you see in your writing are invisible to everyone else. Tags: blogging , interviews",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-07T23:30:12.344Z",
+    "publishedAt": "2026-08-08T11:17:20.732Z",
     "categoryHints": [
       "ai-agentic"
     ],
