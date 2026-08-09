@@ -5,14 +5,15 @@
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
+      "src_simonwillison-blog_01c2a2786945ebb5",
+      "src_simonwillison-blog_cf32c3ee4e89d360",
       "src_simonwillison-blog_99b33cf293aac6f1",
-      "src_simonwillison-blog_4e205626368a5023",
       "src_langchain-blog_40ded3f923e3291d",
       "src_simonwillison-blog_ace3f8c82e5f0065",
       "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -23,11 +24,10 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_94f3a40d586ac18f",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_ac516377a36495cb"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -62,33 +62,33 @@
     "selectedForGeneration": true
   },
   {
+    "clusterId": "cluster_ai-agentic_2_a-prompt-injection-test-caught-something-we-would-ve-shipped_2026-08-09",
+    "category": "ai-agentic",
+    "topic": "A prompt injection test caught something we would've shipped",
+    "sourceIds": [
+      "src_reddit-aiagents_051a52ccf50178a1",
+      "src_reddit-aiagents_e2f24cabeb150259",
+      "src_reddit-aiagents_4d588ae760a22116",
+      "src_reddit-aiagents_07de713a4f25a422",
+      "src_reddit-aiagents_83556b581b704197",
+      "src_openai-blog_2026-08-09_fallback",
+      "src_mcp-blog_2026-08-09_fallback"
+    ],
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
     "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-09",
     "category": "ai-vibe-coding",
     "topic": "The Official Blog | Replit",
     "sourceIds": [
       "src_replit-blog_2c607cbee6384da3",
-      "src_reddit-aiagents_a0d6e06a64708056",
       "src_vercel-ai-blog_2026-08-09_fallback"
     ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-agentic_2_books-blogs-to-read-which-talks-about-ai-infra-system-architectu_2026-08-09",
-    "category": "ai-agentic",
-    "topic": "Books/blogs to read which talks about AI infra, system architecture, AI agents",
-    "sourceIds": [
-      "src_reddit-aiagents_2706774adcb1811b",
-      "src_reddit-aiagents_4292cb714e77c293",
-      "src_reddit-aiagents_83556b581b704197",
-      "src_reddit-aiagents_07de713a4f25a422",
-      "src_openai-blog_2026-08-09_fallback",
-      "src_mcp-blog_2026-08-09_fallback"
-    ],
-    "articleWorthinessScore": 0.76,
-    "reasonSelected": "Score 0.76 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.72,
+    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
