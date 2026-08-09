@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-08T23:24:01.594Z",
+    "publishedAt": "2026-08-09T11:18:01.124Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-08T23:24:00.877Z",
+    "publishedAt": "2026-08-09T11:18:00.753Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-08_fallback",
+    "sourceId": "src_openai-blog_2026-08-09_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-08T23:24:00.591Z",
+    "publishedAt": "2026-08-09T11:18:00.573Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-08_fallback",
+    "sourceId": "src_mcp-blog_2026-08-09_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-08T23:24:00.788Z",
+    "publishedAt": "2026-08-09T11:18:00.841Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_d0fd9000c1d57983",
+    "sourceId": "src_reddit-aiagents_4292cb714e77c293",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vj495a/can_you_explain_in_simple_language_what_are_you/",
-    "title": "Can you explain in simple language, what are you actually using AI agents for and how your workflows look like?",
-    "publishedAt": "2026-08-08T19:06:04.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vjld7e/looking_for_a_mentor_a_person_to_discuss_tech_with/",
+    "title": "looking for a mentor/ a person to discuss tech with!",
+    "publishedAt": "2026-08-09T09:25:42.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "What happens -> what the AI agent does -> what the end result is.",
-      "Curious to know what kind of tasks you’re using them for and what your workflow looks like.",
-      "Would love to hear some real examples in simple terms.",
-      "submitted by /u/artensonart98 [link] [comments]"
+      "I am currently a 21y/o college student, working in a company as an intern and I am trying to find someone or a group of people where I can discuss about career options, pathways, and a lot more interests such as Applied AI, AI infra, Agentic harnesses and etc.",
+      "submitted by /u/Astro_Teeqo [link] [comments]"
     ],
     "claims": [
       {
-        "text": "What happens -> what the AI agent does -> what the end result is. Curious to know what kind of tasks you’re using them for and what your workflow looks like. Would love to hear some real examples in simple terms. submitted by /u/artensonart98 [link] [comments]",
+        "text": "hello! I am currently a 21y/o college student, working in a company as an intern and I am trying to find someone or a group of people where I can discuss about career options, pathways, and a lot more interests such as Applied AI, AI infra, Agentic harnesses and etc. submitted by /u/Astro_Teeqo [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vj495a/can_you_explain_in_simple_language_what_are_you/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vjld7e/looking_for_a_mentor_a_person_to_discuss_tech_with/"
       }
     ],
     "usableFor": [
@@ -225,26 +223,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_85baae4cd8487687",
+    "sourceId": "src_reddit-aiagents_2706774adcb1811b",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vj3rfm/best_ai_agent_observability_tools_once_you_have/",
-    "title": "Best AI agent observability tools once you have multiple agents deployed?",
-    "publishedAt": "2026-08-08T18:45:55.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vjlbmo/booksblogs_to_read_which_talks_about_ai_infra/",
+    "title": "Books/blogs to read which talks about AI infra, system architecture, AI agents",
+    "publishedAt": "2026-08-09T09:22:57.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "We've started leaning on a handlful of AI agents for internal workflows.",
-      "The hardest part isn't building them it's figuring out where the things break.",
-      "Once agent times out, another gets incomplete context, then something downstream fails and the logs don't really explain why.",
-      "I've been looking at agent observability tools and most of the comparisons out there feel written by people who've only run this stuff in a demo."
+      "For the life of me, I am not able to find books or blogs which are based on like AI companies solving current real world issues and their approach on it.",
+      "It has to have the architecture of whatever they are using, how they are using agents, etc.",
+      "Please dismiss the fact that I might sound stupid but I cannot articulate my question in another manner.",
+      "submitted by /u/Astro_Teeqo [link] [comments]"
     ],
     "claims": [
       {
-        "text": "We've started leaning on a handlful of AI agents for internal workflows. The hardest part isn't building them it's figuring out where the things break. Once agent times out, another gets incomplete context, then something downstream fails and the logs don't really explain why. I've been looking at agent observability tools and most of the comparisons out there feel written by people who've only run this stuff in a demo. I'd love to hear what you're using to trace requests across multiple agents and tools. What do you wish you'd started monitoring earlier? Not looking for a big vendor list. More interested in what actually holds up once things get mess. submitted by /u/Spare_Bluebird7044 [link] [comments]",
+        "text": "Hi everyone! For the life of me, I am not able to find books or blogs which are based on like AI companies solving current real world issues and their approach on it. It has to have the architecture of whatever they are using, how they are using agents, etc. Please dismiss the fact that I might sound stupid but I cannot articulate my question in another manner. Thanks! submitted by /u/Astro_Teeqo [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vj3rfm/best_ai_agent_observability_tools_once_you_have/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vjlbmo/booksblogs_to_read_which_talks_about_ai_infra/"
       }
     ],
     "usableFor": [
@@ -254,12 +252,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-08_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-09_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-08T23:24:00.896Z",
+    "publishedAt": "2026-08-09T11:18:00.604Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +283,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-08T23:24:01.696Z",
+    "publishedAt": "2026-08-09T11:18:01.138Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +311,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-08T23:24:00.894Z",
+    "publishedAt": "2026-08-09T11:18:00.694Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +337,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-08_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-08T23:24:00.882Z",
+    "publishedAt": "2026-08-09T11:18:00.607Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +364,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-08_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-08T23:24:00.900Z",
+    "publishedAt": "2026-08-09T11:18:00.616Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +396,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-08T23:24:01.464Z",
+    "publishedAt": "2026-08-09T11:18:01.078Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +425,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-08T23:24:00.997Z",
+    "publishedAt": "2026-08-09T11:18:00.926Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,7 +453,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-08T23:24:02.307Z",
+    "publishedAt": "2026-08-09T11:18:01.506Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -479,12 +477,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-08_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-08T23:24:00.944Z",
+    "publishedAt": "2026-08-09T11:18:00.698Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,7 +509,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-08T23:24:01.663Z",
+    "publishedAt": "2026-08-09T11:18:01.173Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -540,7 +538,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-08T23:24:01.104Z",
+    "publishedAt": "2026-08-09T11:18:00.750Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -564,12 +562,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-08_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-09_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-08T23:24:01.330Z",
+    "publishedAt": "2026-08-09T11:18:00.814Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,7 +594,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-08T23:24:01.657Z",
+    "publishedAt": "2026-08-09T11:18:01.183Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -625,7 +623,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-08T23:24:01.245Z",
+    "publishedAt": "2026-08-09T11:18:00.945Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -650,12 +648,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-08_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-08T23:24:01.154Z",
+    "publishedAt": "2026-08-09T11:18:00.773Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,7 +680,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-08T23:24:02.961Z",
+    "publishedAt": "2026-08-09T11:18:03.181Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -707,12 +705,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-08_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-09_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-08T23:24:01.247Z",
+    "publishedAt": "2026-08-09T11:18:00.905Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +737,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-08T23:24:01.303Z",
+    "publishedAt": "2026-08-09T11:18:01.144Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,10 +745,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 6 days ago • 24 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 3 days ago • 18 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 1 day ago • 16 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 9 days ago • 34 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 11 days ago • 68 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 11 days ago • 40 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • about 8 hours ago • 10 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 6 days ago • 9 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 891 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 376 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 22 days ago • 195 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 5 days ago • 6 Rebuilding Among AIs from Six Log Files DedeProGames • 1 day ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 16 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be?",
-      "hotchpotch • 11 days ago • 5 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 4 days ago • 5 Optimum Intel v2.1.0 echarlaix • 2 days ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 Using OCR models with llama.cpp ggml-org • Apr 10 • 39 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 197 TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "10 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 25 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 74 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 83 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 60 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 448 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 55 July 16, 2026 security Hot Security incident disclosure — July 2026 762 July 16, 2026 Model Routing Is Simple.",
-      "76 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 157 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 29 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 46 July 10, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 6 days ago • 24 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 4 days ago • 18 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 2 days ago • 16 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • about 20 hours ago • 12 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 10 days ago • 34 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 12 days ago • 68 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 6 days ago • 9 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 891 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 12 days ago • 40 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 376 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 23 days ago • 195 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 5 days ago • 6 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 4 days ago • 6 Rebuilding Among AIs from Six Log Files DedeProGames • 1 day ago • 6 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 16 days ago • 13 Bekko Embedding: how small can a multilingual retrieval model be?",
+      "hotchpotch • 11 days ago • 5 Optimum Intel v2.1.0 echarlaix • 3 days ago • 5 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 1 day ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 389 Using OCR models with llama.cpp ggml-org • Apr 10 • 39 TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "18 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 26 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 77 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 83 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 60 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 451 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 55 July 16, 2026 security Hot Security incident disclosure — July 2026 762 July 16, 2026 Model Routing Is Simple.",
+      "76 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 157 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 30 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 46 July 10, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -921,7 +919,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-08T23:24:01.266Z",
+    "publishedAt": "2026-08-09T11:18:00.969Z",
     "categoryHints": [
       "ai-agentic"
     ],

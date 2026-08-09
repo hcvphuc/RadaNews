@@ -1,6 +1,6 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-08",
+    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-09",
     "category": "ai-agentic",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -17,14 +17,14 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-08",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-09",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_94f3a40d586ac18f",
-      "src_simonwillison-blog_ac516377a36495cb",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_simonwillison-blog_ac516377a36495cb"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
@@ -32,7 +32,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_hugging-face-blog_2026-08-08",
+    "clusterId": "cluster_ai-image_1_hugging-face-blog_2026-08-09",
     "category": "ai-image",
     "topic": "Hugging Face – Blog",
     "sourceIds": [
@@ -48,7 +48,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_news-luma_2026-08-08",
+    "clusterId": "cluster_ai-video_1_news-luma_2026-08-09",
     "category": "ai-video",
     "topic": "News | Luma",
     "sourceIds": [
@@ -62,13 +62,13 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-08",
+    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-09",
     "category": "ai-vibe-coding",
     "topic": "The Official Blog | Replit",
     "sourceIds": [
       "src_replit-blog_2c607cbee6384da3",
       "src_reddit-aiagents_a0d6e06a64708056",
-      "src_vercel-ai-blog_2026-08-08_fallback"
+      "src_vercel-ai-blog_2026-08-09_fallback"
     ],
     "articleWorthinessScore": 0.8,
     "reasonSelected": "Score 0.80 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
@@ -76,31 +76,31 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_best-ai-agent-observability-tools-once-you-have-multiple-agents-_2026-08-08",
+    "clusterId": "cluster_ai-agentic_2_books-blogs-to-read-which-talks-about-ai-infra-system-architectu_2026-08-09",
     "category": "ai-agentic",
-    "topic": "Best AI agent observability tools once you have multiple agents deployed?",
+    "topic": "Books/blogs to read which talks about AI infra, system architecture, AI agents",
     "sourceIds": [
-      "src_reddit-aiagents_85baae4cd8487687",
-      "src_reddit-aiagents_d0fd9000c1d57983",
+      "src_reddit-aiagents_2706774adcb1811b",
+      "src_reddit-aiagents_4292cb714e77c293",
       "src_reddit-aiagents_83556b581b704197",
       "src_reddit-aiagents_07de713a4f25a422",
-      "src_openai-blog_2026-08-08_fallback",
-      "src_mcp-blog_2026-08-08_fallback"
+      "src_openai-blog_2026-08-09_fallback",
+      "src_mcp-blog_2026-08-09_fallback"
     ],
-    "articleWorthinessScore": 0.77,
-    "reasonSelected": "Score 0.77 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.76,
+    "reasonSelected": "Score 0.76 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-08",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-09",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-08-08_fallback",
-      "src_reddit-stablediffusion_2026-08-08_fallback",
-      "src_reddit-comfyui_2026-08-08_fallback",
-      "src_reddit-midjourney_2026-08-08_fallback"
+      "src_stability-ai-blog_2026-08-09_fallback",
+      "src_reddit-stablediffusion_2026-08-09_fallback",
+      "src_reddit-comfyui_2026-08-09_fallback",
+      "src_reddit-midjourney_2026-08-09_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -108,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-08",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-09",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-08-08_fallback",
-      "src_reddit-mediasynthesis_2026-08-08_fallback"
+      "src_reddit-aivideo_2026-08-09_fallback",
+      "src_reddit-mediasynthesis_2026-08-09_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
