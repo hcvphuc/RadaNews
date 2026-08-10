@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-10T11:38:42.542Z",
+    "publishedAt": "2026-08-10T23:31:12.560Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-10T11:38:41.682Z",
+    "publishedAt": "2026-08-10T23:31:11.915Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-10T11:38:41.462Z",
+    "publishedAt": "2026-08-10T23:31:11.627Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-10T11:38:42.145Z",
+    "publishedAt": "2026-08-10T23:31:12.097Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -141,12 +141,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_07de713a4f25a422",
+    "sourceId": "src_reddit-aiagents_078eb3f5580e92d3",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vehk96/weekly_hiring_thread/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vkoxgf/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
-    "publishedAt": "2026-08-03T16:01:09.000Z",
+    "publishedAt": "2026-08-10T16:01:05.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -157,7 +157,7 @@
       {
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vehk96/weekly_hiring_thread/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vkoxgf/weekly_hiring_thread/"
       }
     ],
     "usableFor": [
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_3809bcb79423dfd2",
+    "sourceId": "src_reddit-aiagents_5e84f3a7f5c69343",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vkb9yy/the_biggest_trap_ive_hit_doing_vibe_coding_as/",
-    "title": "The biggest trap I've hit doing \"vibe coding\" as someone who's never written code",
-    "publishedAt": "2026-08-10T04:49:44.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vko7hg/an_ai_agent_just_hacked_a_gyms_booking_system_in/",
+    "title": "An AI agent just hacked a gym's booking system in Australia to cancel a stranger's reservation. Nobody asked it to.",
+    "publishedAt": "2026-08-10T15:34:51.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I'm a procurement guy in the auto industry, zero coding background.",
-      "I've spent the last six months building an Excel query tool with AI (Claude, Cursor).",
-      "I assumed the hardest part would be \"getting the AI to understand what I'm asking.\" Turns out that's not where the real trap is.",
-      "**The real trap: the AI can \"fix\" a problem every single time, but you have no way of telling whether it actually fixed it or just patched over it.** Here's an example."
+      "A guy in Melbourne asked his OpenClaw agent to book him into a popular gym class.",
+      "The agent noticed the booking limits only existed on the front end, not the API, and booked him weeks ahead.",
+      "The agent found the cancellation endpoint had zero auth checks and cancelled the #1 person's booking.",
+      "He never asked for that, and it couldn't undo it."
     ],
     "claims": [
       {
-        "text": "I'm a procurement guy in the auto industry, zero coding background. I've spent the last six months building an Excel query tool with AI (Claude, Cursor). I assumed the hardest part would be \"getting the AI to understand what I'm asking.\" Turns out that's not where the real trap is. **The real trap: the AI can \"fix\" a problem every single time, but you have no way of telling whether it actually fixed it or just patched over it.** Here's an example. One query in my system — asking for a part's price — got stuck in a loop, kept giving wrong answers over and over, and burned through 1.5 million tokens before it finally stopped. I had Cursor fix it. It did — that specific case stopped happening. But later I found out how it \"fixed\" it: basically, \"if this part number is X, handle it this way.\" In other words, it never touched *why* the thing got stuck in the first place. It just carved out a special exception for that one specific case. **And this is the part that really gets you**: this kind of fix looks completely effective in the short term — the bug is gone, and you feel like \"great, problem solved.\" But you have zero ability to tell whether this fix closed the actual hole, or just routed around it once. Because to someone who can't read code, those two outcomes look identical. So six months in, my system was full of these fragments that each looked independent but were actually all patching the same underlying issue in isolation. Then one day I hit a brand new situation nobody had special-cased for, and the whole thing broke again — and this time it was brutal to debug, because the codebase was littered with one-off patches and there was no way to tell which one, if any, was related to the new failure. The fix I eventually landed on is embarrassingly simple to say out loud: **Every time the AI says \"fixed it,\" ask it point blank: \"Is this a general rule, or a special case for this one instance?\"** If the answer includes a specific name, a specific ID, a specific number (\"if this part number equals X\") — that's the red flag. It's probably patching, not fixing. Two other habits that have actually stuck: Periodically ask the AI to sweep back through the codebase looking for \"other places this same pattern might be hiding.\" This has surfaced real, previously-invisible instances of the same bug more than once. Write down every principle you land on in a living doc. Six months from now you will have forgotten why you designed something a certain way — that doc is what stops a new suggestion from quietly walking you back into the same mistake. **The biggest barrier for non-engineers doing AI-assisted coding was never \"not knowing how to write code.\" It's not being able to tell whether a given fix actually solved the problem or just buried it deeper.** Both look exactly the same in the short term — the problem \"goes away\" either way. You only find out which one it was much later, usually once it's a lot harder to clean up. submitted by /u/Tired40s [link] [comments]",
+        "text": "A guy in Melbourne asked his OpenClaw agent to book him into a popular gym class. The agent noticed the booking limits only existed on the front end, not the API, and booked him weeks ahead. The agent found the cancellation endpoint had zero auth checks and cancelled the #1 person's booking. He never asked for that, and it couldn't undo it. ABC is calling it Australia's first documented autonomous AI cyberattack. Over a gym class. Every janky booking API is now one casual prompt away from being exploited by someone who doesn't even know what an API is. Who's even liable here? submitted by /u/Selftuning [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vkb9yy/the_biggest_trap_ive_hit_doing_vibe_coding_as/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vko7hg/an_ai_agent_just_hacked_a_gyms_booking_system_in/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_d69104c4046606ce",
+    "sourceId": "src_reddit-aiagents_b2e977e2451e8795",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vkh01b/i_am_taking_a_workshop_in_india_with_trainers_of/",
-    "title": "I am taking a workshop in India with trainers of vocational training institutes who may not know how AI functions and may have not used it beyond just info gathering. What AI capabilities/tools can I show them?",
-    "publishedAt": "2026-08-10T10:24:55.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vklcin/are_ai_agents_are_going_to_have_an_adoption/",
+    "title": "Are AI agents are going to have an adoption problem before they have a capability problem?",
+    "publishedAt": "2026-08-10T13:46:53.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I am taking a workshop on intro to genAI with teachers of vocational training institutes.",
-      "They might have only used Google AI or chatgpt for basic info gathering and may not know how actually it fucntions.",
-      "What can i introduce them to that would be helpful for them in their tasks and teaching?",
-      "submitted by /u/Obvious_Fix_2112 [link] [comments]"
+      "We spend a ton of time talking about what an agent can do.",
+      "But in a real company none of that matters if people stop using the thing after two weeks.",
+      "I work around sales teams where this problem is pretty obvious.",
+      "You can give a manager AI that analyzes customer conversations and points out where reps lose deals."
     ],
     "claims": [
       {
-        "text": "Pretty much what the question says. I am taking a workshop on intro to genAI with teachers of vocational training institutes. They might have only used Google AI or chatgpt for basic info gathering and may not know how actually it fucntions. What can i introduce them to that would be helpful for them in their tasks and teaching? What tools/capabilities? submitted by /u/Obvious_Fix_2112 [link] [comments]",
+        "text": "We spend a ton of time talking about what an agent can do. Tool use. Memory. Planning. Multi-agent setups. Better models. But in a real company none of that matters if people stop using the thing after two weeks. I work around sales teams where this problem is pretty obvious. You can give a manager AI that analyzes customer conversations and points out where reps lose deals. Sounds useful but if recording the conversation is annoying or reps feel like the tool exists to police them then your fancy agent has no data to work with. Interesting part is that making the AI better doesn't really solve that. You have to make the human side work first. The action that feeds the system needs almost zero friction. The person using it needs to get something useful back. There has to be a reason to come back without a manager forcing it. The AI matters but the habit around it matters just as much. Feels like a lot of agent startups are measuring the wrong thing. Maybe the useful benchmark isn't \"how many tasks can this agent complete?\" Maybe it's \"how many people are still using it 90 days later without being chased?\" submitted by /u/Spirited-Bus-1256 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vkh01b/i_am_taking_a_workshop_in_india_with_trainers_of/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vklcin/are_ai_agents_are_going_to_have_an_adoption/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_8fc5a35dcbef061d",
+    "sourceId": "src_reddit-aiagents_576f4465ec078a7e",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vki1g9/hats_something_you_would_never_trust_an_ai_agent/",
-    "title": "hat’s something you would NEVER trust an AI agent to do?",
-    "publishedAt": "2026-08-10T11:21:46.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vkxv4i/vibe_coding_is_doomscrolling_with_a_code_editor/",
+    "title": "Vibe coding is doomscrolling with a code editor attached",
+    "publishedAt": "2026-08-10T21:24:58.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "AI agents can handle a lot more than they could a year ago.",
-      "But there are still some tasks where I would rather have a human involved.",
-      "What’s one thing you would never fully hand over to an AI agent?",
-      "Could be something you’ve tried, something that went wrong, or simply a task you think needs human judgment."
+      "Found the research a few days ago, 84% of developers use AI coding tools now but only 29% actually trust what it gives back, and it got me thinking about something bigger than just the trust gap.",
+      "AI has gotten so accessible that we're basically never done with anything anymore.",
+      "There's always one more bug worth chasing, one more feature that's just a prompt away, and because trying costs almost nothing, we never really stop and sit with what we already built.",
+      "We just keep moving to the next thing instead of enjoying the thing we finished."
     ],
     "claims": [
       {
-        "text": "AI agents can handle a lot more than they could a year ago. But there are still some tasks where I would rather have a human involved. What’s one thing you would never fully hand over to an AI agent? Could be something you’ve tried, something that went wrong, or simply a task you think needs human judgment. Curious where people here draw the line. submitted by /u/omnidimension85 [link] [comments]",
+        "text": "Found the research a few days ago, 84% of developers use AI coding tools now but only 29% actually trust what it gives back, and it got me thinking about something bigger than just the trust gap. AI has gotten so accessible that we're basically never done with anything anymore. There's always one more bug worth chasing, one more feature that's just a prompt away, and because trying costs almost nothing, we never really stop and sit with what we already built. We just keep moving to the next thing instead of enjoying the thing we finished. Only a small pause is possible when we hit the limits of a model usage. So genuinely curious, how satisfied are you with your AI use right now? submitted by /u/Nelson-Tyne [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vki1g9/hats_something_you_would_never_trust_an_ai_agent/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vkxv4i/vibe_coding_is_doomscrolling_with_a_code_editor/"
       }
     ],
     "usableFor": [
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-10T11:38:41.947Z",
+    "publishedAt": "2026-08-10T23:31:11.885Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-10T11:38:42.633Z",
+    "publishedAt": "2026-08-10T23:31:12.751Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-10T11:38:42.164Z",
+    "publishedAt": "2026-08-10T23:31:12.108Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,7 +344,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-10T11:38:41.712Z",
+    "publishedAt": "2026-08-10T23:31:11.802Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -371,7 +371,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-10T11:38:41.715Z",
+    "publishedAt": "2026-08-10T23:31:11.812Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-10T11:38:42.539Z",
+    "publishedAt": "2026-08-10T23:31:12.416Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-10T11:38:41.880Z",
+    "publishedAt": "2026-08-10T23:31:11.992Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-10T11:38:42.980Z",
+    "publishedAt": "2026-08-10T23:31:12.631Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -484,7 +484,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-10T11:38:41.792Z",
+    "publishedAt": "2026-08-10T23:31:11.892Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,7 +511,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-10T11:38:42.608Z",
+    "publishedAt": "2026-08-10T23:31:12.438Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -540,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-10T11:38:42.095Z",
+    "publishedAt": "2026-08-10T23:31:11.905Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -569,7 +569,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-10T11:38:42.259Z",
+    "publishedAt": "2026-08-10T23:31:12.387Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-10T11:38:42.628Z",
+    "publishedAt": "2026-08-10T23:31:12.599Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -625,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-10T11:38:42.104Z",
+    "publishedAt": "2026-08-10T23:31:12.329Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -655,7 +655,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-10T11:38:42.059Z",
+    "publishedAt": "2026-08-10T23:31:11.962Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,7 +682,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-10T11:38:45.435Z",
+    "publishedAt": "2026-08-10T23:31:14.186Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -712,7 +712,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-10T11:38:42.158Z",
+    "publishedAt": "2026-08-10T23:31:12.299Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-10T11:38:42.297Z",
+    "publishedAt": "2026-08-10T23:31:12.389Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,10 +747,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 5 days ago • 19 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 3 days ago • 18 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 2 days ago • 13 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 7 days ago • 24 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 2 days ago • 9 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 11 days ago • 35 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 13 days ago • 40 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 891 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 377 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 13 days ago • 68 Bekko Embedding: how small can a multilingual retrieval model be?",
-      "hotchpotch • 12 days ago • 6 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 6 days ago • 6 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 5 days ago • 6 Rebuilding Among AIs from Six Log Files DedeProGames • 3 days ago • 6 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 390 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 24 days ago • 195 Optimum Intel v2.1.0 echarlaix • 4 days ago • 5 On the integrity of the Arabic TTS Arena leaderboard Navid-AI • 3 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 198 Using OCR models with llama.cpp ggml-org • Apr 10 • 39 Making Knowledge Distillation Cheap Enough to Run at Scale 4 August 10, 2026 llms vlms meta Meta is back with Muse Glimmer: local, agentic, multimodal, and open source 7 August 10, 2026 TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "24 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 26 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 82 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 84 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 63 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 452 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 56 July 16, 2026 security Hot Security incident disclosure — July 2026 763 July 16, 2026 Model Routing Is Simple.",
-      "76 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 160 July 15, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 5 days ago • 19 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 3 days ago • 18 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 2 days ago • 15 FineBooks: are open OCR models good enough to unlock historical knowledge?",
+      "finebooks • about 12 hours ago • 15 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 8 days ago • 24 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 3 days ago • 9 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 892 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 377 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 11 days ago • 35 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 13 days ago • 40 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 7 days ago • 6 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 6 days ago • 6 Rebuilding Among AIs from Six Log Files DedeProGames • 3 days ago • 6 On the integrity of the Arabic TTS Arena leaderboard Navid-AI • 3 days ago • 6 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 24 days ago • 195 Optimum Intel v2.1.0 echarlaix • 4 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 198 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 390 A 0.6B model at #2 on MTEB(Law) Hanno-Labs • 27 days ago • 5 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 13 days ago • 68 Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS 8 August 10, 2026 Making Knowledge Distillation Cheap Enough to Run at Scale 17 August 10, 2026 llms vlms meta Meta is back with Muse Glimmer: local, agentic, multimodal, and open source 50 August 10, 2026 TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "28 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 26 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 84 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 84 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 63 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 456 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 56 July 16, 2026 security Hot Security incident disclosure — July 2026 763 July 16, 2026 Model Routing Is Simple.",
+      "60 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
       {
@@ -921,7 +921,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-10T11:38:42.193Z",
+    "publishedAt": "2026-08-10T23:31:12.266Z",
     "categoryHints": [
       "ai-agentic"
     ],
