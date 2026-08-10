@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-09T23:27:05.616Z",
+    "publishedAt": "2026-08-10T11:38:42.542Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-09T23:27:04.897Z",
+    "publishedAt": "2026-08-10T11:38:41.682Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-09_fallback",
+    "sourceId": "src_openai-blog_2026-08-10_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-09T23:27:04.741Z",
+    "publishedAt": "2026-08-10T11:38:41.462Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-09_fallback",
+    "sourceId": "src_mcp-blog_2026-08-10_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-09T23:27:06.829Z",
+    "publishedAt": "2026-08-10T11:38:42.145Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_051a52ccf50178a1",
+    "sourceId": "src_reddit-aiagents_3809bcb79423dfd2",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vjr1kg/a_prompt_injection_test_caught_something_we/",
-    "title": "A prompt injection test caught something we would've shipped",
-    "publishedAt": "2026-08-09T14:17:50.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vkb9yy/the_biggest_trap_ive_hit_doing_vibe_coding_as/",
+    "title": "The biggest trap I've hit doing \"vibe coding\" as someone who's never written code",
+    "publishedAt": "2026-08-10T04:49:44.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "A bit of a small boring win, but that’s my favorite kind of security win haha.",
-      "We have a document assistant that retrieves internal docs and answers user questions.",
-      "After a prompt refactor, it started giving retrieved document text too much authority.",
-      "One adversarial test document had malicious instructions hidden deep inside it and the assistant started following those instructions when it should've treated the document as untrusted content."
+      "I'm a procurement guy in the auto industry, zero coding background.",
+      "I've spent the last six months building an Excel query tool with AI (Claude, Cursor).",
+      "I assumed the hardest part would be \"getting the AI to understand what I'm asking.\" Turns out that's not where the real trap is.",
+      "**The real trap: the AI can \"fix\" a problem every single time, but you have no way of telling whether it actually fixed it or just patched over it.** Here's an example."
     ],
     "claims": [
       {
-        "text": "A bit of a small boring win, but that’s my favorite kind of security win haha. We have a document assistant that retrieves internal docs and answers user questions. After a prompt refactor, it started giving retrieved document text too much authority. One adversarial test document had malicious instructions hidden deep inside it and the assistant started following those instructions when it should've treated the document as untrusted content. It wasn't some dramatic exploit chain. It was exactly the kind of regression that ships silently because everyone is focused on whether the new prompt sounds better. What saved us was already having those adversarial evals in the release pipeline. We reran the prompt against examples with instruction hierarchy attacks, fake system messages inside retrieved docs and policy override attempts. Braintrust caught the regression straight away and opening the trace showed where the agent started treating retrieved text like instructions. We changed the prompt hierarchy, added a stricter scorer for whether retrieved text could override system instructions and blocked the merge until the known cases passed again. It was a boring fix, which is exactly what you want. Nobody had to jump into an emergency channel or spend the afternoon pondering what had already made it into production. The biggest takeaway for us was maintaining a strict hierarchy of trust between system instructions and retrieved data. If the data can override the system, the security model is broken. submitted by /u/OpeningBird6240 [link] [comments]",
+        "text": "I'm a procurement guy in the auto industry, zero coding background. I've spent the last six months building an Excel query tool with AI (Claude, Cursor). I assumed the hardest part would be \"getting the AI to understand what I'm asking.\" Turns out that's not where the real trap is. **The real trap: the AI can \"fix\" a problem every single time, but you have no way of telling whether it actually fixed it or just patched over it.** Here's an example. One query in my system — asking for a part's price — got stuck in a loop, kept giving wrong answers over and over, and burned through 1.5 million tokens before it finally stopped. I had Cursor fix it. It did — that specific case stopped happening. But later I found out how it \"fixed\" it: basically, \"if this part number is X, handle it this way.\" In other words, it never touched *why* the thing got stuck in the first place. It just carved out a special exception for that one specific case. **And this is the part that really gets you**: this kind of fix looks completely effective in the short term — the bug is gone, and you feel like \"great, problem solved.\" But you have zero ability to tell whether this fix closed the actual hole, or just routed around it once. Because to someone who can't read code, those two outcomes look identical. So six months in, my system was full of these fragments that each looked independent but were actually all patching the same underlying issue in isolation. Then one day I hit a brand new situation nobody had special-cased for, and the whole thing broke again — and this time it was brutal to debug, because the codebase was littered with one-off patches and there was no way to tell which one, if any, was related to the new failure. The fix I eventually landed on is embarrassingly simple to say out loud: **Every time the AI says \"fixed it,\" ask it point blank: \"Is this a general rule, or a special case for this one instance?\"** If the answer includes a specific name, a specific ID, a specific number (\"if this part number equals X\") — that's the red flag. It's probably patching, not fixing. Two other habits that have actually stuck: Periodically ask the AI to sweep back through the codebase looking for \"other places this same pattern might be hiding.\" This has surfaced real, previously-invisible instances of the same bug more than once. Write down every principle you land on in a living doc. Six months from now you will have forgotten why you designed something a certain way — that doc is what stops a new suggestion from quietly walking you back into the same mistake. **The biggest barrier for non-engineers doing AI-assisted coding was never \"not knowing how to write code.\" It's not being able to tell whether a given fix actually solved the problem or just buried it deeper.** Both look exactly the same in the short term — the problem \"goes away\" either way. You only find out which one it was much later, usually once it's a lot harder to clean up. submitted by /u/Tired40s [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vjr1kg/a_prompt_injection_test_caught_something_we/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vkb9yy/the_biggest_trap_ive_hit_doing_vibe_coding_as/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_e2f24cabeb150259",
+    "sourceId": "src_reddit-aiagents_d69104c4046606ce",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vk14gq/i_catalogued_172_launch_directories_domain_rating/",
-    "title": "I catalogued 172 launch directories. Domain rating is the wrong column to sort by.",
-    "publishedAt": "2026-08-09T20:58:31.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vkh01b/i_am_taking_a_workshop_in_india_with_trainers_of/",
+    "title": "I am taking a workshop in India with trainers of vocational training institutes who may not know how AI functions and may have not used it beyond just info gathering. What AI capabilities/tools can I show them?",
+    "publishedAt": "2026-08-10T10:24:55.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I keep a catalog of launch directories, 172 in it now.",
-      "For each row: domain rating, traffic level, backlink quality, pricing model, niche, and link type.",
-      "Link type is the field that decides whether a submission was worth the twenty minutes, and it is the one no listicle includes.",
-      "A no-follow link from a DR 80 directory does less for you than a do-follow from a DR 30 one."
+      "I am taking a workshop on intro to genAI with teachers of vocational training institutes.",
+      "They might have only used Google AI or chatgpt for basic info gathering and may not know how actually it fucntions.",
+      "What can i introduce them to that would be helpful for them in their tasks and teaching?",
+      "submitted by /u/Obvious_Fix_2112 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I keep a catalog of launch directories, 172 in it now. For each row: domain rating, traffic level, backlink quality, pricing model, niche, and link type. Link type is the field that decides whether a submission was worth the twenty minutes, and it is the one no listicle includes. A no-follow link from a DR 80 directory does less for you than a do-follow from a DR 30 one. Listicles sort by domain rating because domain rating is easy to look up. It is also the number that matters least when the link is no-follow, behind a /out/?url= redirect, or on a page Google has never crawled. Of the 172 rows, 6 are no-follow. Their domain ratings are 91, 80, 75, 74, 52 and 43. The no-follow ones sit near the top of the DR sort, which is precisely where a listicle tells you to start. Two checks before you fill any form: link type. Open the page, read the attribute site: query on the directory's own domain. Plenty have thousands of listing pages and a few hundred indexed. An unindexed listing page is a page nobody will crawl Both are mechanical enough to hand to an agent. The form filling is what stays manual, half of them break on autofill. Catalog is free and public on my site under tools. Not linking it here since I run it, ask and I will send it. submitted by /u/No_Cake8366 [link] [comments]",
+        "text": "Pretty much what the question says. I am taking a workshop on intro to genAI with teachers of vocational training institutes. They might have only used Google AI or chatgpt for basic info gathering and may not know how actually it fucntions. What can i introduce them to that would be helpful for them in their tasks and teaching? What tools/capabilities? submitted by /u/Obvious_Fix_2112 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vk14gq/i_catalogued_172_launch_directories_domain_rating/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vkh01b/i_am_taking_a_workshop_in_india_with_trainers_of/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_4d588ae760a22116",
+    "sourceId": "src_reddit-aiagents_8fc5a35dcbef061d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vjvxsf/every_user_of_my_auto_reply_agent_asked_me_to/",
-    "title": "Every user of my auto reply agent asked me to make it less automatic",
-    "publishedAt": "2026-08-09T17:34:27.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vki1g9/hats_something_you_would_never_trust_an_ai_agent/",
+    "title": "hat’s something you would NEVER trust an AI agent to do?",
+    "publishedAt": "2026-08-10T11:21:46.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Built a thing that answers customer messages for small stores, mostly DMs and reviews.",
-      "The whole pitch was that the owner never has to touch it.",
-      "First week of real users, almost every one of them asked for the same thing.",
-      "Slow it down, let me see it before it goes out."
+      "AI agents can handle a lot more than they could a year ago.",
+      "But there are still some tasks where I would rather have a human involved.",
+      "What’s one thing you would never fully hand over to an AI agent?",
+      "Could be something you’ve tried, something that went wrong, or simply a task you think needs human judgment."
     ],
     "claims": [
       {
-        "text": "Built a thing that answers customer messages for small stores, mostly DMs and reviews. The whole pitch was that the owner never has to touch it. First week of real users, almost every one of them asked for the same thing. Slow it down, let me see it before it goes out. One guy switched off auto send completely and just used the drafts. Took me a while to accept they were not being paranoid. The messages it got wrong were never the normal ones, it was the refund threats and the angry review where a wrong reply costs a real customer. Owners can smell those in one line, the model cannot. What fixed it was not better prompts, it was a parking rule. Anything with money in it, a complaint, or a name it has not seen before goes into a queue for the owner, everything else sends. Owner deals with 20 a day instead of 200 and nobody asks me to slow it down anymore. So autonomy was never the feature, the sorting was. Anyone else building agents for non technical users end up in the same place, or did you find a way to get them comfortable with full auto. submitted by /u/akl773 [link] [comments]",
+        "text": "AI agents can handle a lot more than they could a year ago. But there are still some tasks where I would rather have a human involved. What’s one thing you would never fully hand over to an AI agent? Could be something you’ve tried, something that went wrong, or simply a task you think needs human judgment. Curious where people here draw the line. submitted by /u/omnidimension85 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vjvxsf/every_user_of_my_auto_reply_agent_asked_me_to/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vki1g9/hats_something_you_would_never_trust_an_ai_agent/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-09_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-10_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-09T23:27:04.873Z",
+    "publishedAt": "2026-08-10T11:38:41.947Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-09T23:27:05.685Z",
+    "publishedAt": "2026-08-10T11:38:42.633Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,16 +313,16 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-09T23:27:05.097Z",
+    "publishedAt": "2026-08-10T11:38:42.164Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Blog – Replicate Blog RSS Atom How to prompt Grok Imagine Video 1.5 Grok Imagine Video 1.5 is the most exciting video model release from xAI.",
-      "You can generate realistic video with synchronized audio in a single pass, capable of juggling complex motion with precise prompt adherence.",
-      "We pushed it hard across a range of scenes, and came up with the ultimate prompting guide to get the most out of this model.",
+      "Blog – Replicate Blog RSS Atom The Ultimate Guide to FLUX 3 Black Forest Labs' first video model generates audio and video from the same pass, and it takes direction like nothing else we've tried.",
+      "August 4, 2026 Krea 2 is your model for aesthetics In a world of slop, creatives need an aesthetics-focused model.",
+      "June 23, 2026 How to prompt Grok Imagine Video 1.5 Grok Imagine Video 1.5 is an exciting video model release from xAI.",
       "May 21, 2026 How to make remarkable videos with Seedance 2.0 If you have never tried a video model before, now is the time."
     ],
     "claims": [
@@ -339,12 +339,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-09_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-10_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-09T23:27:04.881Z",
+    "publishedAt": "2026-08-10T11:38:41.712Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +366,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-09_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-10_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-09T23:27:04.882Z",
+    "publishedAt": "2026-08-10T11:38:41.715Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-09T23:27:05.446Z",
+    "publishedAt": "2026-08-10T11:38:42.539Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Pika blog",
-    "publishedAt": "2026-08-09T23:27:05.236Z",
+    "publishedAt": "2026-08-10T11:38:41.880Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-09T23:27:06.555Z",
+    "publishedAt": "2026-08-10T11:38:42.980Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -479,12 +479,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-09_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-10_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-09T23:27:04.901Z",
+    "publishedAt": "2026-08-10T11:38:41.792Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,7 +511,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-09T23:27:05.500Z",
+    "publishedAt": "2026-08-10T11:38:42.608Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -540,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-09T23:27:05.173Z",
+    "publishedAt": "2026-08-10T11:38:42.095Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -564,12 +564,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-09_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-10_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-09T23:27:05.554Z",
+    "publishedAt": "2026-08-10T11:38:42.259Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-09T23:27:05.666Z",
+    "publishedAt": "2026-08-10T11:38:42.628Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -625,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-09T23:27:05.420Z",
+    "publishedAt": "2026-08-10T11:38:42.104Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -650,12 +650,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-09_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-10_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-09T23:27:05.216Z",
+    "publishedAt": "2026-08-10T11:38:42.059Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,7 +682,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-09T23:27:06.420Z",
+    "publishedAt": "2026-08-10T11:38:45.435Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -707,12 +707,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-09_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-10_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-09T23:27:05.408Z",
+    "publishedAt": "2026-08-10T11:38:42.158Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-09T23:27:05.482Z",
+    "publishedAt": "2026-08-10T11:38:42.297Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,10 +747,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 7 days ago • 24 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 4 days ago • 19 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 2 days ago • 18 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 1 day ago • 12 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 12 days ago • 68 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 7 days ago • 9 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 10 days ago • 34 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 891 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 12 days ago • 40 Bekko Embedding: how small can a multilingual retrieval model be?",
-      "hotchpotch • 12 days ago • 6 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 6 days ago • 6 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 5 days ago • 6 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 1 day ago • 6 Rebuilding Among AIs from Six Log Files DedeProGames • 2 days ago • 6 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 376 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 390 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 23 days ago • 195 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 17 days ago • 14 Optimum Intel v2.1.0 echarlaix • 3 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 198 TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "21 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 26 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 80 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 83 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 60 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 451 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 55 July 16, 2026 security Hot Security incident disclosure — July 2026 762 July 16, 2026 Model Routing Is Simple.",
-      "76 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 157 July 15, 2026 audio speech benchmark Introducing Real World VoiceEQ: Measuring the human quality of voice AI +9 30 July 15, 2026 torch profile flash Profiling in PyTorch (Part 3): Attention is all you profile 46 July 10, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 5 days ago • 19 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 3 days ago • 18 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 2 days ago • 13 The Fast Gemma Challenge: our verified-SOTA recipe, in full FINAL-Bench • 7 days ago • 24 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 2 days ago • 9 mDenseOn with the mLateOn: Open Multilingual, Long-Context, and Code Retrieval Models lightonai • 11 days ago • 35 The OlmoEarth Platform: Geospatial inference at planetary scale allenai • 13 days ago • 40 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 891 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 377 LFM2.5-Encoders for Fast Long-Context Inference on CPU LiquidAI • 13 days ago • 68 Bekko Embedding: how small can a multilingual retrieval model be?",
+      "hotchpotch • 12 days ago • 6 Language Identification for 42 Indian Languages: Opening New Frontiers in Indic Speech AI ARTPARK-IISc • 6 days ago • 6 jina-reranker-v3.5: Faster Listwise Reranking with Hybrid Attention and Self-Distillation jinaai • 5 days ago • 6 Rebuilding Among AIs from Six Log Files DedeProGames • 3 days ago • 6 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 390 Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 24 days ago • 195 Optimum Intel v2.1.0 echarlaix • 4 days ago • 5 On the integrity of the Arabic TTS Arena leaderboard Navid-AI • 3 days ago • 5 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 198 Using OCR models with llama.cpp ggml-org • Apr 10 • 39 Making Knowledge Distillation Cheap Enough to Run at Scale 4 August 10, 2026 llms vlms meta Meta is back with Muse Glimmer: local, agentic, multimodal, and open source 7 August 10, 2026 TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "24 August 7, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 26 August 6, 2026 Deploy local agents everywhere with LFM2.5-2.6B 82 August 4, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 84 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 63 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 452 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 65 July 23, 2026 robotics ai community Grabette: an open system to record robot-manipulation data +2 52 July 21, 2026 Newer Models, Same Advantage 56 July 16, 2026 security Hot Security incident disclosure — July 2026 763 July 16, 2026 Model Routing Is Simple.",
+      "76 July 15, 2026 announcement multimodal transformers Welcome Inkling by Thinking Machines +1 160 July 15, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -764,6 +764,66 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_6d97d1c2834da570",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+    "title": "Quoting OpenClaw",
+    "publishedAt": "2026-08-10T02:05:16.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from OpenClaw Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started 10th August 2026 The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through.",
+      "&mdash; OpenClaw , hacking an Australian gym-booking website Posted 10th August 2026 at 2:05 am Recent articles Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 This is a quotation collected by Simon Willison, posted on 10th August 2026 .",
+      "ai 2,179 generative-ai 1,930 llms 1,897 ai-ethics 333 openclaw 11 ai-security-research 37 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    ],
+    "claims": [
+      {
+        "text": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. &mdash; OpenClaw , hacking an Australian gym-booking website Tags: ai-ethics , generative-ai , openclaw , ai , ai-security-research , llms",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_286606fafbd1f584",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+    "title": "Quoting Claude Opus 5 system prompt",
+    "publishedAt": "2026-08-09T23:31:39.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Claude Opus 5 system prompt Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
+      "Read the blog for a framework to get started 9th August 2026 Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026.",
+      "On June 12, 2026, Anthropic suspended access to both models to comply with U.S.",
+      "Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access )."
+    ],
+    "claims": [
+      {
+        "text": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access ). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms them accurately and matter-of-factly — it doesn't deny the suspension happened — and otherwise treats the export controls like any other current political topic: it gives a fair, accurate account rather than sharing personal opinions, and points to the linked statement for anything further. Things may have developed since this notice, so Claude checks for newer information when it can search, and otherwise suggests checking Anthropic's site. &mdash; Claude Opus 5 system prompt , ensuring Claude doesn't provide incorrect answers about the export controls situation Tags: system-prompts , anthropic , claude , generative-ai , ai , llms , claude-mythos-fable",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_01c2a2786945ebb5",
@@ -856,72 +916,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_simonwillison-blog_99b33cf293aac6f1",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-    "publishedAt": "2026-08-08T14:06:41.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Comment: Now we have a timeline of the OpenAI accidental attack against Hugging Face Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
-      "Read the blog for a framework to get started 8th August 2026 Comment My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: OpenAI starts a new training run for an experimental, unreleased model.",
-      "They say training run in the video, and later mention a “reward signal to judge how well they’re doing”, so I guess this really was about training a model, not evaluating one that was already trained.) The more I think about this the more I suspect that the fact this happened while training a new model is key to understanding what went wrong.",
-      "In RLVR - Reinforcement Learning with Verifiable Rewards - you set the model a goal and have it take any steps necessary to achieve that goal."
-    ],
-    "claims": [
-      {
-        "text": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News. I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward signal to judge how well they’re doing”, so I guess this really was about training a model, not evaluating one that was already trained.) The more I think about this the more I suspect that the fact this happened while training a new model is key to understanding what went wrong. In RLVR - Reinforcement Learning with Verifiable Rewards - you set the model a goal and have it take any steps necessary to achieve that goal. Clearly one aspect of OpenAI's training here is to RLVR their models for cybersecurity tasks. Just like pre-training benefits from dumping in vast sources of knowledge, the more tasks you can feed into RLVR the more of a general purpose capable model you get at the end. This also helps explain why the models had nothing to cause them to hold back. Those safety behaviors are added much later in the process. AND it explains (but does not excuse) why monitoring was so lax. If you're training a new model like this you presumably set it thousands of tasks like this in parallel. I can see how you might miss that a tiny subset of your training agents have started leaving each other messages in filenames on your packaging server. Someone once told me that you can't just leave the racist materials out of your training data if you want a non-racist model: it has to have seen examples of racism in order to later be taught that racism is bad. I can see echoes of that here. If your model doesn't know how to aggressively hack things how do you later teach it not to? (I have little knowledge of how RLVR works in practice so I'm looking forward to hearing from people who can help me understand if I'm on the right track here.) Tags: ai , openai , generative-ai , llms , ai-security-research , openai-hugging-face-incident",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_ace3f8c82e5f0065",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
-    "title": "Quoting John Gruber",
-    "publishedAt": "2026-08-08T00:10:40.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from John Gruber Simon Willison’s Weblog Subscribe Sponsored by: Dynatrace &mdash; When agents enter the SDLC, observability becomes the enabler to move from code generation to scalable engineering.",
-      "Read the blog for a framework to get started 8th August 2026 Me, I try to get into the mindset of playing live music, not recording a studio album.",
-      "Except when I’m writing a piece where I really want it to be an album.",
-      "Those aren’t rare , per se, but they’re occasional ."
-    ],
-    "claims": [
-      {
-        "text": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare , per se, but they’re occasional . If I tried to make every post a hall-of-famer I’d never get anything out. I’m aiming for professionalism. I’m performing live in front of an audience — not just jamming in my garage or bedroom, fucking around. So I’m careful and concentrate. I want to hit every note, in time. But at my best I’m moving from song to song. &mdash; John Gruber , responding to my blogging tips Tags: john-gruber , blogging",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-09T23:27:05.380Z",
+    "publishedAt": "2026-08-10T11:38:42.193Z",
     "categoryHints": [
       "ai-agentic"
     ],
