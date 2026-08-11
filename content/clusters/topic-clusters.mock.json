@@ -5,13 +5,13 @@
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
+      "src_simonwillison-blog_a637f9b8526bb764",
       "src_simonwillison-blog_74e4b6dff2703fd5",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_cf32c3ee4e89d360",
       "src_simonwillison-blog_01c2a2786945ebb5",
       "src_simonwillison-blog_286606fafbd1f584",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_6d97d1c2834da570"
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
@@ -61,21 +61,21 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-11",
+    "clusterId": "cluster_ai-agentic_2_quoting-openclaw-running-opus-4-6_2026-08-11",
     "category": "ai-agentic",
-    "topic": "What's New in Cursor — Latest Updates & Release Notes",
+    "topic": "Quoting OpenClaw (running Opus 4.6)",
     "sourceIds": [
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_a8fd6e319f0607af",
-      "src_reddit-aiagents_eaced958bdfca71c",
+      "src_simonwillison-blog_70edc70865800a75",
+      "src_reddit-aiagents_d5861d2652411cd2",
+      "src_reddit-aiagents_71778e17e030b90d",
       "src_reddit-aiagents_d2e22a4058dd5828",
       "src_reddit-aiagents_078eb3f5580e92d3",
       "src_reddit-aiagents_83556b581b704197",
       "src_openai-blog_2026-08-11_fallback",
       "src_mcp-blog_2026-08-11_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 8 source item(s), 6 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.85,
+    "reasonSelected": "Score 0.85 from 8 source item(s), 6 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -97,14 +97,14 @@
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-stablediffusion_2026-08-11_fallback",
       "src_stability-ai-blog_2026-08-11_fallback",
+      "src_reddit-stablediffusion_2026-08-11_fallback",
       "src_reddit-comfyui_2026-08-11_fallback",
       "src_reddit-midjourney_2026-08-11_fallback"
     ],
-    "articleWorthinessScore": 0.48,
-    "reasonSelected": "Score 0.48 from 4 source item(s), 0 live crawl(s), strongest sources: r/StableDiffusion, Stability AI Blog, r/comfyui.",
-    "confidence": "medium",
+    "articleWorthinessScore": 0.44,
+    "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
+    "confidence": "low",
     "selectedForGeneration": true
   },
   {
