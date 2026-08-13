@@ -5,15 +5,15 @@
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
-      "src_simonwillison-blog_80c02629adc5e84d",
       "src_langchain-blog_40ded3f923e3291d",
       "src_simonwillison-blog_50c8cc0f17bdeed3",
       "src_simonwillison-blog_59f8c55d8a696e21",
-      "src_simonwillison-blog_f612a79350fc0ee6",
-      "src_huggingface-blog_af185e1e7e4dfbac"
+      "src_simonwillison-blog_80c02629adc5e84d",
+      "src_huggingface-blog_af185e1e7e4dfbac",
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, LangChain Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -39,11 +39,10 @@
       "src_replicate-blog_572c1f4ac9c0ea5c",
       "src_lilianweng-blog_31a2c7baf9b791a5",
       "src_comfyui-blog_469b943374a61749",
-      "src_black-forest-labs_db0e6d09e99dbd6f",
-      "src_reddit-aiagents_2a7102fe8f189655"
+      "src_black-forest-labs_db0e6d09e99dbd6f"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Replicate Blog, Lil'Log, ComfyUI Blog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Replicate Blog, Lil'Log, ComfyUI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -53,29 +52,29 @@
     "topic": "News | Luma",
     "sourceIds": [
       "src_luma-blog_c7449029956c34f9",
-      "src_kling-blog_9b8eef2edc427cc1",
-      "src_pika-blog_80e55ecea6acd04d"
+      "src_reddit-aiagents_3514c19c8faf6c7d",
+      "src_kling-blog_9b8eef2edc427cc1"
     ],
-    "articleWorthinessScore": 0.95,
-    "reasonSelected": "Score 0.95 from 3 source item(s), 3 live crawl(s), strongest sources: Luma Labs Blog, Kling AI Blog, Pika Labs Blog.",
+    "articleWorthinessScore": 0.99,
+    "reasonSelected": "Score 0.99 from 3 source item(s), 3 live crawl(s), strongest sources: Luma Labs Blog, r/AI_Agents, Kling AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-13",
+    "clusterId": "cluster_ai-agentic_2_the-real-divide-isn-t-ai-coding-vs-real-coding-it-s-unsupervised_2026-08-13",
     "category": "ai-agentic",
-    "topic": "What's New in Cursor — Latest Updates & Release Notes",
+    "topic": "The real divide isn’t “AI coding vs real coding.” It’s unsupervised generatio...",
     "sourceIds": [
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_reddit-aiagents_d4ed41b6de476f61",
-      "src_reddit-aiagents_5bbe8a6158f62614",
+      "src_reddit-aiagents_3f4ecdb7449be430",
+      "src_simonwillison-blog_f49494708aabbde9",
+      "src_reddit-aiagents_3477747ddfda9f9b",
       "src_reddit-aiagents_6a455bd719766a99",
       "src_reddit-aiagents_078eb3f5580e92d3",
       "src_openai-blog_2026-08-13_fallback",
       "src_mcp-blog_2026-08-13_fallback"
     ],
-    "articleWorthinessScore": 0.86,
-    "reasonSelected": "Score 0.86 from 7 source item(s), 5 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, Simon Willison's Weblog, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -93,6 +92,20 @@
     "selectedForGeneration": true
   },
   {
+    "clusterId": "cluster_ai-video_2_pika-blog_2026-08-13",
+    "category": "ai-video",
+    "topic": "Pika blog",
+    "sourceIds": [
+      "src_pika-blog_80e55ecea6acd04d",
+      "src_reddit-aivideo_2026-08-13_fallback",
+      "src_reddit-mediasynthesis_2026-08-13_fallback"
+    ],
+    "articleWorthinessScore": 0.56,
+    "reasonSelected": "Score 0.56 from 3 source item(s), 1 live crawl(s), strongest sources: Pika Labs Blog, r/aivideo, r/MediaSynthesis.",
+    "confidence": "medium",
+    "selectedForGeneration": true
+  },
+  {
     "clusterId": "cluster_ai-image_2_ai-signal_2026-08-13",
     "category": "ai-image",
     "topic": "AI signal",
@@ -106,18 +119,5 @@
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
     "confidence": "low",
     "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-13",
-    "category": "ai-video",
-    "topic": "AI signal",
-    "sourceIds": [
-      "src_reddit-aivideo_2026-08-13_fallback",
-      "src_reddit-mediasynthesis_2026-08-13_fallback"
-    ],
-    "articleWorthinessScore": 0.28,
-    "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
-    "confidence": "low",
-    "selectedForGeneration": false
   }
 ]
