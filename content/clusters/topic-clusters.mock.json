@@ -1,39 +1,39 @@
 [
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-14",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-15",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_replit-blog_2c607cbee6384da3"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-14",
+    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-15",
     "category": "ai-agentic",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
       "src_simonwillison-blog_ad1972ffb40d23e1",
-      "src_simonwillison-blog_25c84c8303baa47d",
       "src_simonwillison-blog_e01e2a15f6093c17",
-      "src_simonwillison-blog_324e4a3474ea4c21",
+      "src_simonwillison-blog_25c84c8303baa47d",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_pika-blog_faa536f0db7dac04"
+      "src_simonwillison-blog_424d155a0e67c904",
+      "src_simonwillison-blog_324e4a3474ea4c21"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_blog-replicate_2026-08-14",
+    "clusterId": "cluster_ai-image_1_blog-replicate_2026-08-15",
     "category": "ai-image",
     "topic": "Blog – Replicate",
     "sourceIds": [
@@ -48,7 +48,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_news-luma_2026-08-14",
+    "clusterId": "cluster_ai-video_1_news-luma_2026-08-15",
     "category": "ai-video",
     "topic": "News | Luma",
     "sourceIds": [
@@ -61,46 +61,46 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_ai-agents-is-the-future-really-something-to-fear_2026-08-14",
+    "clusterId": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-15",
     "category": "ai-agentic",
-    "topic": "AI Agents: Is the Future Really Something to Fear?",
+    "topic": "What's New in Cursor — Latest Updates & Release Notes",
     "sourceIds": [
-      "src_reddit-aiagents_10f02f108712c426",
-      "src_reddit-aiagents_6667035258beb07c",
-      "src_reddit-aiagents_67794d4e32104996",
-      "src_simonwillison-blog_f49494708aabbde9",
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_pika-blog_faa536f0db7dac04",
+      "src_reddit-aiagents_c3109db4ab16bf94",
       "src_reddit-aiagents_6a455bd719766a99",
       "src_reddit-aiagents_078eb3f5580e92d3",
-      "src_openai-blog_2026-08-14_fallback",
-      "src_mcp-blog_2026-08-14_fallback"
+      "src_openai-blog_2026-08-15_fallback",
+      "src_mcp-blog_2026-08-15_fallback"
     ],
-    "articleWorthinessScore": 0.84,
-    "reasonSelected": "Score 0.84 from 8 source item(s), 6 live crawl(s), strongest sources: r/AI_Agents, Simon Willison's Weblog, OpenAI Blog.",
+    "articleWorthinessScore": 0.83,
+    "reasonSelected": "Score 0.83 from 7 source item(s), 5 live crawl(s), strongest sources: Cursor Changelog, Pika Labs Blog, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-14",
+    "clusterId": "cluster_ai-vibe-coding_2_skill-to-turn-legacy-flash-apps-to-html5-reverse-engineering_2026-08-15",
     "category": "ai-vibe-coding",
-    "topic": "The Official Blog | Replit",
+    "topic": "Skill to turn Legacy Flash apps to HTML5 (reverse engineering)",
     "sourceIds": [
-      "src_replit-blog_2c607cbee6384da3",
-      "src_vercel-ai-blog_2026-08-14_fallback"
+      "src_reddit-aiagents_e0cb15dbc77becf3",
+      "src_reddit-aiagents_9291f4b7d3d24f1d",
+      "src_vercel-ai-blog_2026-08-15_fallback"
     ],
-    "articleWorthinessScore": 0.72,
-    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
+    "articleWorthinessScore": 0.73,
+    "reasonSelected": "Score 0.73 from 3 source item(s), 2 live crawl(s), strongest sources: r/AI_Agents, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-14",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-15",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-08-14_fallback",
-      "src_reddit-stablediffusion_2026-08-14_fallback",
-      "src_reddit-comfyui_2026-08-14_fallback",
-      "src_reddit-midjourney_2026-08-14_fallback"
+      "src_stability-ai-blog_2026-08-15_fallback",
+      "src_reddit-stablediffusion_2026-08-15_fallback",
+      "src_reddit-comfyui_2026-08-15_fallback",
+      "src_reddit-midjourney_2026-08-15_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -108,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-14",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-15",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-08-14_fallback",
-      "src_reddit-mediasynthesis_2026-08-14_fallback"
+      "src_reddit-aivideo_2026-08-15_fallback",
+      "src_reddit-mediasynthesis_2026-08-15_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",

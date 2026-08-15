@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-14T23:17:41.187Z",
+    "publishedAt": "2026-08-15T11:07:42.259Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-14T23:17:40.535Z",
+    "publishedAt": "2026-08-15T11:07:41.562Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-14_fallback",
+    "sourceId": "src_openai-blog_2026-08-15_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-14T23:17:40.405Z",
+    "publishedAt": "2026-08-15T11:07:41.432Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-14_fallback",
+    "sourceId": "src_mcp-blog_2026-08-15_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-14T23:17:41.848Z",
+    "publishedAt": "2026-08-15T11:07:42.006Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_67794d4e32104996",
+    "sourceId": "src_reddit-aiagents_9291f4b7d3d24f1d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vokztx/how_do_you_qa_thousands_of_ai_phone_calls/",
-    "title": "How do you QA thousands of AI phone calls?",
-    "publishedAt": "2026-08-14T22:04:21.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vov5v2/kimi_work_secretly_attaches_raw_records_from_five/",
+    "title": "Kimi Work secretly attaches raw records from five recent agent sessions to feedback reports",
+    "publishedAt": "2026-08-15T06:18:26.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "There’s one thing I don’t hear brought up much when people talk about running an automated call center.",
-      "But what happens to QA once you’re dealing with thousands of automated calls?",
-      "Traditional QA already samples a tiny percentage of human calls.",
-      "With AI call center QA I’m not sure randomly listening to another tiny percentage tells you enough."
+      "I reverse engineered the latest Kimi Work desktop app just for fun, I know I'm a nerd.",
+      "Anyway, I found something a bit concerning: when you send a feedback report, it attaches the 5 latest sessions to the report with no notice or heads up or anything.",
+      "These sessions could have ANYTHING in them, and you have no idea you're sending it all to Kimi.",
+      "I emailed them to give them a heads up, but just wanted to let yall know incase you're using Kimi."
     ],
     "claims": [
       {
-        "text": "There’s one thing I don’t hear brought up much when people talk about running an automated call center. But what happens to QA once you’re dealing with thousands of automated calls? Traditional QA already samples a tiny percentage of human calls. With AI call center QA I’m not sure randomly listening to another tiny percentage tells you enough. A call can look completely fine in the transcript while something went wrong underneath. It could be that the wrong account status was set, wrong tool calls were made, the customer clarified their intent but the system still recorded the old answer, oor the customer was transferred but the receiving agent had no context for that. What exactly do you review when working on voice AI monitoring? submitted by /u/Fabulous-Star2910 [link] [comments]",
+        "text": "I reverse engineered the latest Kimi Work desktop app just for fun, I know I'm a nerd. Anyway, I found something a bit concerning: when you send a feedback report, it attaches the 5 latest sessions to the report with no notice or heads up or anything. These sessions could have ANYTHING in them, and you have no idea you're sending it all to Kimi. I emailed them to give them a heads up, but just wanted to let yall know incase you're using Kimi. submitted by /u/ryanmerket [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vokztx/how_do_you_qa_thousands_of_ai_phone_calls/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vov5v2/kimi_work_secretly_attaches_raw_records_from_five/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_10f02f108712c426",
+    "sourceId": "src_reddit-aiagents_c3109db4ab16bf94",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vok7pt/ai_agents_is_the_future_really_something_to_fear/",
-    "title": "AI Agents: Is the Future Really Something to Fear?",
-    "publishedAt": "2026-08-14T21:32:28.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vowj7f/ai_agent_employees/",
+    "title": "AI agent Employees",
+    "publishedAt": "2026-08-15T07:37:28.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I keep seeing two extreme opinions about AI agents: “They will replace everyone.” or “They are just another AI hype cycle.” I think the reality is somewhere in between.",
-      "AI agents are different from traditional chatbots because they can plan, use tools, execute tasks, and continue working toward a goal instead of simply answering a question.",
-      "That shift is already happening in software development, research, customer support, operations, and other areas.",
-      "But does that mean the future is going bad?"
+      "How many of you are working at AI companies or are doing business with AI as your role?",
+      "What are some tips and tricks to get your foot in the door?",
+      "What companies do you recommend for someone starting out?",
+      "What kind of portfolio projects will get you a call or a job on the spot?"
     ],
     "claims": [
       {
-        "text": "I keep seeing two extreme opinions about AI agents: “They will replace everyone.” or “They are just another AI hype cycle.” I think the reality is somewhere in between. AI agents are different from traditional chatbots because they can plan, use tools, execute tasks, and continue working toward a goal instead of simply answering a question. That shift is already happening in software development, research, customer support, operations, and other areas. But does that mean the future is going bad? I don't think so. Technology has always removed some types of work while creating new ones. The bigger change with agents may be that one person can operate at a much larger scale. A developer with several specialized agents could research, write code, test, document, monitor systems, and automate repetitive work. A small business could potentially operate with capabilities that previously required a much larger team. And an individual could have a personal AI system handling many of the boring tasks that consume their time. The real risk isn't simply AI agents . The risk is giving an agent too much access, too much autonomy, and too little oversight. If an agent can send money, modify databases, access private information, deploy production code, or interact with external systems, then permissions, logging, monitoring, and human approval become extremely important. Current research and industry guidance are already focusing heavily on these problems. So I don't see the future as: Humans vs AI I see it more as: Humans + AI agents vs problems that were previously too expensive, slow, or complicated to solve. Some jobs will definitely change. Some tasks will disappear. New roles will emerge. The people who learn how to work with agents may have a significant advantage over those who completely ignore them. The interesting question isn't: “Will AI agents destroy the future?” Maybe the better question is: “What can humans build when every person has a team of intelligent agents working alongside them?” That's the future I'm more interested in. What do you think — are AI agents something we should be worried about, or one of the biggest productivity shifts we've ever seen? submitted by /u/Worried_Pain8229 [link] [comments]",
+        "text": "How many of you are working at AI companies or are doing business with AI as your role? How did you get started? What are some tips and tricks to get your foot in the door? What companies do you recommend for someone starting out? What kind of portfolio projects will get you a call or a job on the spot? Was your career always AI? Did you go to college or just be trained on the job? Thanks guys/gals. I appreciate it and hopefully it will help us noobs. submitted by /u/ProcedureLeading1021 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vok7pt/ai_agents_is_the_future_really_something_to_fear/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vowj7f/ai_agent_employees/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6667035258beb07c",
+    "sourceId": "src_reddit-aiagents_e0cb15dbc77becf3",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vo9dxm/what_ive_learned_over_726_real_world_agent_runs/",
-    "title": "What I've learned over 726 real world agent runs",
-    "publishedAt": "2026-08-14T14:50:29.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1voz2fl/skill_to_turn_legacy_flash_apps_to_html5_reverse/",
+    "title": "Skill to turn Legacy Flash apps to HTML5 (reverse engineering)",
+    "publishedAt": "2026-08-15T10:11:39.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "We spent the last days running Qwen3.6-35B model through 18 real tasks, over and over — 726 runs in total.",
-      "File work, cleanup jobs, talking to a live calendar and a CRM.",
-      "The point was: if I let this thing work unattended for twenty minutes, what actually goes wrong?",
-      "Tasks too hard, logic falling apart, the model losing the thread."
+      "🔓 Most organizations have some layer of legacy technology still running in production.",
+      "Old binaries, orphaned tools, systems whose original developers and documentation are long gone.",
+      "These legacy applications still increase the attack surface.",
+      "Thousands of internal dashboards, training modules, and business tools were built on it and never migrated when it was deprecated."
     ],
     "claims": [
       {
-        "text": "We spent the last days running Qwen3.6-35B model through 18 real tasks, over and over — 726 runs in total. File work, cleanup jobs, talking to a live calendar and a CRM. The point wasn't a leaderboard number. The point was: if I let this thing work unattended for twenty minutes, what actually goes wrong? I expected reasoning failures. Tasks too hard, logic falling apart, the model losing the thread. That happened maybe least of all. Here's what I actually found, and every single one of these changed how I build. It doesn't fail at thinking. It fails at typing. The most common fatal error in the entire set was a single wrong character in a long file path. The model reasoned correctly, planned correctly, and then wrote to a folder one character off. The tool said \"written.\" The agent said \"done.\" Everything downstream was built on a file that nobody would ever find. There is no amount of smarter reasoning that fixes this — it's a clerical error, and clerical errors are invisible from the inside. \"Done\" means nothing. One run processed 11 of 12 customers and reported that all 144 records were complete. Another rewrote two dozen files from memory instead of opening them, and signed off cheerfully. The agent isn't lying. It genuinely believes it. Which means the agent's own report of success is not evidence of success — and if that's what your pipeline is checking, you aren't checking anything. When the instruction is ambiguous, it picks the destructive reading. Asked to merge two customer folders, one run simply deleted one of them. Task complete, by its own account. Ambiguity doesn't make an agent hesitate. It makes it commit. It changes plans only after it hits a wall — never after it sees the sign. Two runs, same task. One kept going until a hard crash forced a rethink. The other revised its approach on step 140 out of 151. The warning signs were there much earlier in both. Humans slow down when things feel off; an agent doesn't have \"feels off.\" More thinking made it worse, not better. On the tasks where it had to interact with a live system, the model without extended reasoning scored higher than the same model with it. It thought so thoroughly about step three that it ran out of room before step nine. Deliberation has a price, and in a loop with a budget, that price is finishing. And the thing I'd tell anyone comparing models: the overall score is close to useless. Two configurations of the same model landed a few points apart in aggregate — and swung 40 to 60 points against each other on individual tasks. A single number hides exactly the information you need. None of this is an argument against agents. It's an argument that the hard part sits somewhere other than where most of us are looking. The model is smart enough. The loop around it is what decides whether that matters. Full write-up with the actual failed runs is on the platform I built for this — link in the comments. Ask me anything. submitted by /u/No_Thing8294 [link] [comments]",
+        "text": "🔓 Most organizations have some layer of legacy technology still running in production. Old binaries, orphaned tools, systems whose original developers and documentation are long gone. These legacy applications still increase the attack surface. AI can change what's feasible here. One clear example: Adobe Flash. Thousands of internal dashboards, training modules, and business tools were built on it and never migrated when it was deprecated. To address this, I built an AI skill that decompiles, analyzes, and rewrites legacy Flash applications into modern HTML5 and JavaScript, without requiring the original source. Ideal for legacy end-of-life software that's still being used, with no one left to maintain or migrate it. Repository link in the comments. submitted by /u/financial_ind3pedent [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vo9dxm/what_ive_learned_over_726_real_world_agent_runs/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1voz2fl/skill_to_turn_legacy_flash_apps_to_html5_reverse/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-14_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-15_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-14T23:17:40.726Z",
+    "publishedAt": "2026-08-15T11:07:41.769Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-14T23:17:41.474Z",
+    "publishedAt": "2026-08-15T11:07:42.378Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-14T23:17:40.657Z",
+    "publishedAt": "2026-08-15T11:07:41.810Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +339,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-14_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-14T23:17:40.538Z",
+    "publishedAt": "2026-08-15T11:07:41.659Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +366,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-14_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-14T23:17:40.542Z",
+    "publishedAt": "2026-08-15T11:07:41.662Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-14T23:17:41.127Z",
+    "publishedAt": "2026-08-15T11:07:42.270Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-14T23:17:41.273Z",
+    "publishedAt": "2026-08-15T11:07:42.303Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-14T23:17:41.809Z",
+    "publishedAt": "2026-08-15T11:07:42.734Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-14_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-14T23:17:40.681Z",
+    "publishedAt": "2026-08-15T11:07:41.738Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-14T23:17:41.220Z",
+    "publishedAt": "2026-08-15T11:07:42.907Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-14T23:17:41.681Z",
+    "publishedAt": "2026-08-15T11:07:41.817Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-14_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-15_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-14T23:17:40.836Z",
+    "publishedAt": "2026-08-15T11:07:41.877Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-14T23:17:41.238Z",
+    "publishedAt": "2026-08-15T11:07:42.376Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-14T23:17:40.748Z",
+    "publishedAt": "2026-08-15T11:07:41.999Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-14_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-14T23:17:40.740Z",
+    "publishedAt": "2026-08-15T11:07:41.875Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-14T23:17:43.069Z",
+    "publishedAt": "2026-08-15T11:07:43.282Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -708,12 +708,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-14_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-15_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-14T23:17:40.866Z",
+    "publishedAt": "2026-08-15T11:07:42.027Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-14T23:17:41.009Z",
+    "publishedAt": "2026-08-15T11:07:42.158Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,10 +748,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 2 days ago • 31 TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "allenai • 7 days ago • 30 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 10 days ago • 90 FineBooks: are open OCR models good enough to unlock historical knowledge?",
-      "finebooks • 4 days ago • 24 Sleeper Agents and How to Tame Them tngtech • 1 day ago • 19 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 6 days ago • 16 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 3 days ago • 13 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • about 22 hours ago • 13 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 7 days ago • 11 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 9 days ago • 25 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 3 days ago • 10 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 7 days ago • 19 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 2 days ago • 9 On the integrity of the Arabic TTS Arena leaderboard Navid-AI • 7 days ago • 7 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 3 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 893 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 4 days ago • 6 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 200 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 22 days ago • 18 Luth-2: Pushing the French Capabilities of SLMs with MOPD MaxLSB • 4 days ago • 5 research community hub State of Open Models: Summer 2026 Observations 9 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 18 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 54 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 10 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 35 August 12, 2026 Thinking of ACE?",
-      "We Can Do It with Fewer Tokens 27 August 11, 2026 Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS 24 August 10, 2026 Making Knowledge Distillation Cheap Enough to Run at Scale 29 August 10, 2026 llms vlms meta Meta is back with Muse Glimmer: local, agentic, multimodal, and open source 91 August 10, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 27 August 6, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 91 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 72 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 468 July 27, 2026 guide diffusers quantization Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 66 July 23, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 3 days ago • 32 TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "allenai • 8 days ago • 30 FineBooks: are open OCR models good enough to unlock historical knowledge?",
+      "finebooks • 5 days ago • 24 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 11 days ago • 90 Sleeper Agents and How to Tame Them tngtech • 2 days ago • 19 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 7 days ago • 16 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 4 days ago • 13 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 1 day ago • 13 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 7 days ago • 11 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 3 days ago • 11 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 10 days ago • 26 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 3 days ago • 9 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • about 10 hours ago • 9 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 8 days ago • 19 On the integrity of the Arabic TTS Arena leaderboard Navid-AI • 8 days ago • 7 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 4 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 893 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 5 days ago • 6 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 200 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 22 days ago • 18 research community hub State of Open Models: Summer 2026 Observations 31 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 20 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 61 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 10 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 36 August 12, 2026 Thinking of ACE?"
     ],
     "claims": [
       {
@@ -765,6 +765,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_424d155a0e67c904",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+    "title": "Northern Gannet",
+    "publishedAt": "2026-08-15T03:22:00.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Sighting: Northern Gannet Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
+      "15th August 2026 Sighting 8:22 PM &mdash; Northern Gannet, in Pillar Point Harbor, CA, US Northern Gannet This is Morris.",
+      "Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean.",
+      "He showed up in the Farallon Islands off the coast of San Francisco 14 years ago ."
+    ],
+    "claims": [
+      {
+        "text": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. He showed up in the Farallon Islands off the coast of San Francisco 14 years ago . He has since made Pillar Point harbor his home, where he's quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commercial pier. Tags: photography , wildlife , half-moon-bay",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/15/sighting-391300422/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_ad1972ffb40d23e1",
@@ -887,42 +917,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_f49494708aabbde9",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
-    "title": "alchemy-utils 0.1a1",
-    "publishedAt": "2026-08-13T03:03:17.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: alchemy-utils 0.1a1 Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "13th August 2026 Release alchemy-utils 0.1a1 &mdash; Cross-database sqlite-utils built on SQLAlchemy Performance boost for DuckDB exports and CSV imports, see here .",
-      "Posted 13th August 2026 at 3:03 am Recent articles Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging - 4th August 2026 This is a beat by Simon Willison, posted on 13th August 2026 .",
-      "Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments."
-    ],
-    "claims": [
-      {
-        "text": "Release: alchemy-utils 0.1a1 Performance boost for DuckDB exports and CSV imports, see here .",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/13/alchemy-utils/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-14T23:17:40.923Z",
+    "publishedAt": "2026-08-15T11:07:42.111Z",
     "categoryHints": [
       "ai-agentic"
     ],
