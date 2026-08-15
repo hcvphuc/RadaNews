@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-15T11:07:42.259Z",
+    "publishedAt": "2026-08-15T23:16:22.848Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-15T11:07:41.562Z",
+    "publishedAt": "2026-08-15T23:16:22.226Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-15T11:07:41.432Z",
+    "publishedAt": "2026-08-15T23:16:22.133Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-15T11:07:42.006Z",
+    "publishedAt": "2026-08-15T23:16:22.490Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_9291f4b7d3d24f1d",
+    "sourceId": "src_reddit-aiagents_5be6110b6f6ce104",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vov5v2/kimi_work_secretly_attaches_raw_records_from_five/",
-    "title": "Kimi Work secretly attaches raw records from five recent agent sessions to feedback reports",
-    "publishedAt": "2026-08-15T06:18:26.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vp5w6j/the_idea_that_simple_apps_are_dead_because_anyone/",
+    "title": "The idea that simple apps are dead because anyone can vibe code them is simply wrong",
+    "publishedAt": "2026-08-15T15:35:12.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I reverse engineered the latest Kimi Work desktop app just for fun, I know I'm a nerd.",
-      "Anyway, I found something a bit concerning: when you send a feedback report, it attaches the 5 latest sessions to the report with no notice or heads up or anything.",
-      "These sessions could have ANYTHING in them, and you have no idea you're sending it all to Kimi.",
-      "I emailed them to give them a heads up, but just wanted to let yall know incase you're using Kimi."
+      "I see a lot of people discussing vibe coding and what actually constitutes a moat, and I think a lot of people are looking at this way too narrowly and ignoring some pretty important aspects of human nature.",
+      "The idea that simple ideas are dead, that if you can build an app in 30 minutes, nobody will ever pay for it because they can just vibe code their own version, is frankly ridiculous to me.",
+      "I know plenty of people who don’t even know what a browser is.",
+      "I even know technical people (in different domains) who look at the process of cloning a repository and think, “wow, this is a lot.” The people who would seriously think, “why would I pay for this when I can just vibe code it myself?” are mostly people inside a very AI-fluent bubble that represents a tiny portion of the actual world."
     ],
     "claims": [
       {
-        "text": "I reverse engineered the latest Kimi Work desktop app just for fun, I know I'm a nerd. Anyway, I found something a bit concerning: when you send a feedback report, it attaches the 5 latest sessions to the report with no notice or heads up or anything. These sessions could have ANYTHING in them, and you have no idea you're sending it all to Kimi. I emailed them to give them a heads up, but just wanted to let yall know incase you're using Kimi. submitted by /u/ryanmerket [link] [comments]",
+        "text": "I see a lot of people discussing vibe coding and what actually constitutes a moat, and I think a lot of people are looking at this way too narrowly and ignoring some pretty important aspects of human nature. The idea that simple ideas are dead, that if you can build an app in 30 minutes, nobody will ever pay for it because they can just vibe code their own version, is frankly ridiculous to me. I know plenty of people who don’t even know what a browser is. I even know technical people (in different domains) who look at the process of cloning a repository and think, “wow, this is a lot.” The people who would seriously think, “why would I pay for this when I can just vibe code it myself?” are mostly people inside a very AI-fluent bubble that represents a tiny portion of the actual world. And even then, building something that technically works is not the same as building good software. There are still all of the boring necessary hoops involved in making a simple application actually secure and reliable. You have to choose a stack, build the backend and frontend, handle authentication, storage, deployment, security, updates, edge cases, and everything else that comes with operating software. Unless you’re literally just bootstrapping some ugly internal tool to copy the functionality, you also have to design a good UI, make hundreds of little product decisions, and work through trade-offs that compound as the feature set grows. If your target audience is developers, I understand the argument more. But even developers are lazy in the normal human sense, they have their own projects and things they would rather spend their time doing. And if you are selling to developers, the bar is arguably even higher. They care about architecture, security, ownership, extensibility, integrations, and whether the product actually fits into the way they work. A lot of them may want to own the thing themselves anyway, which is part of why I don’t even think developers are always the best target audience for this kind of simple app. For everyone else, the argument gets even weaker. Most people barely want to write a good prompt. They’ll type one sentence into ChatGPT, get a mediocre response, decide AI isn’t that useful for that task, and close the laptop. The idea that these same people are suddenly going to design, build, debug, secure, deploy, and maintain their own software because vibe coding exists seems completely disconnected from how normal people behave. People pay for convenience. They pay for polish. They pay for something that already works. They pay so they don’t have to think about how it works. So to me, “they can just vibe code my app” is a pretty weak reason not to build something, and in most cases if your app is not growing you have a distribution and sales problem not an idea problem. Curious what others think. submitted by /u/coopernusbaum [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vov5v2/kimi_work_secretly_attaches_raw_records_from_five/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vp5w6j/the_idea_that_simple_apps_are_dead_because_anyone/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_c3109db4ab16bf94",
+    "sourceId": "src_reddit-aiagents_f3cf9564eabbd255",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vowj7f/ai_agent_employees/",
-    "title": "AI agent Employees",
-    "publishedAt": "2026-08-15T07:37:28.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vp9wrp/agent_harnesses_is_there_a_unified_way_to_use/",
+    "title": "Agent harnesses: is there a unified way to use subscriptions instead of APIs?",
+    "publishedAt": "2026-08-15T18:14:23.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "How many of you are working at AI companies or are doing business with AI as your role?",
-      "What are some tips and tricks to get your foot in the door?",
-      "What companies do you recommend for someone starting out?",
-      "What kind of portfolio projects will get you a call or a job on the spot?"
+      "Hey all, non-coder here trying to figure out the agent tooling landscape.",
+      "Per-token API costs get expensive fast, but using consumer subscriptions (Claude Pro, ChatGPT Plus, Gemini) in third-party harnesses risks ToS bans.",
+      "Tools like T3 Code try to orchestrate proprietary harnesses, but they only support a few providers and struggle to manage shared context, state, and memory.",
+      "Is there a universal harness that lets you orchestrate multi-provider agents using subscription OAuth/logins rather than paid APIs?"
     ],
     "claims": [
       {
-        "text": "How many of you are working at AI companies or are doing business with AI as your role? How did you get started? What are some tips and tricks to get your foot in the door? What companies do you recommend for someone starting out? What kind of portfolio projects will get you a call or a job on the spot? Was your career always AI? Did you go to college or just be trained on the job? Thanks guys/gals. I appreciate it and hopefully it will help us noobs. submitted by /u/ProcedureLeading1021 [link] [comments]",
+        "text": "Hey all, non-coder here trying to figure out the agent tooling landscape. Per-token API costs get expensive fast, but using consumer subscriptions (Claude Pro, ChatGPT Plus, Gemini) in third-party harnesses risks ToS bans. Tools like T3 Code try to orchestrate proprietary harnesses, but they only support a few providers and struggle to manage shared context, state, and memory. Is there a universal harness that lets you orchestrate multi-provider agents using subscription OAuth/logins rather than paid APIs? How are you currently managing multi-model workflows? submitted by /u/Relevant_Attempt_352 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vowj7f/ai_agent_employees/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vp9wrp/agent_harnesses_is_there_a_unified_way_to_use/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_e0cb15dbc77becf3",
+    "sourceId": "src_reddit-aiagents_0720e58aa40c02e6",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1voz2fl/skill_to_turn_legacy_flash_apps_to_html5_reverse/",
-    "title": "Skill to turn Legacy Flash apps to HTML5 (reverse engineering)",
-    "publishedAt": "2026-08-15T10:11:39.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vp5jsf/how_do_you_actually_know_your_ai_agent_did_what/",
+    "title": "How do you actually know your AI agent did what it says it did?",
+    "publishedAt": "2026-08-15T15:21:10.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "🔓 Most organizations have some layer of legacy technology still running in production.",
-      "Old binaries, orphaned tools, systems whose original developers and documentation are long gone.",
-      "These legacy applications still increase the attack surface.",
-      "Thousands of internal dashboards, training modules, and business tools were built on it and never migrated when it was deprecated."
+      "Something that bugs me the more I build with agents.",
+      "An agent runs, does a bunch of stuff you didn't watch, and hands you a summary.",
+      "You get a confident paragraph saying it analyzed the data and here's the recommendation.",
+      "There's no way to check which model actually ran, what it actually looked at, or whether it did the work at all versus generating something that sounds like it did."
     ],
     "claims": [
       {
-        "text": "🔓 Most organizations have some layer of legacy technology still running in production. Old binaries, orphaned tools, systems whose original developers and documentation are long gone. These legacy applications still increase the attack surface. AI can change what's feasible here. One clear example: Adobe Flash. Thousands of internal dashboards, training modules, and business tools were built on it and never migrated when it was deprecated. To address this, I built an AI skill that decompiles, analyzes, and rewrites legacy Flash applications into modern HTML5 and JavaScript, without requiring the original source. Ideal for legacy end-of-life software that's still being used, with no one left to maintain or migrate it. Repository link in the comments. submitted by /u/financial_ind3pedent [link] [comments]",
+        "text": "Something that bugs me the more I build with agents. An agent runs, does a bunch of stuff you didn't watch, and hands you a summary. You get a confident paragraph saying it analyzed the data and here's the recommendation. And… you kind of just believe it? There's no way to check which model actually ran, what it actually looked at, or whether it did the work at all versus generating something that sounds like it did. For a writing assistant, who cares. But people are handing agents real jobs now like moving money, sending messages, making decisions that are annoying to undo. At that point \"trust me, I did it\" is a weird place to land. What I keep wanting is a receipt. Not a log the agent writes about itself, which is just the same trust problem one level down, but something the agent can't fake: which model ran, what went in, what came out, verifiable by someone who wasn't there. Worth saying, a receipt doesn't mean the agent was right. A model can be verifiably run and still be badly wrong. It just means you can tell the difference between a bad decision and a decision that never happened. How are you all handling this? Logging everything and hoping? edit: for the people asking if the \"receipt\" exists, OpenGradient is the closest thing i've found. it attaches a proof to each inference binding the model, inputs, and output, verifiable by a third party, not a log the agent writes about itself. costs latency and zkml gets pricey for big models, and it still only proves the work happened, not that it was right. but that's the exact line i cared about. submitted by /u/FeedbackSelect919 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1voz2fl/skill_to_turn_legacy_flash_apps_to_html5_reverse/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vp5jsf/how_do_you_actually_know_your_ai_agent_did_what/"
       }
     ],
     "usableFor": [
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-15T11:07:41.769Z",
+    "publishedAt": "2026-08-15T23:16:22.248Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-15T11:07:42.378Z",
+    "publishedAt": "2026-08-15T23:16:22.874Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-15T11:07:41.810Z",
+    "publishedAt": "2026-08-15T23:16:22.294Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,7 +344,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-15T11:07:41.659Z",
+    "publishedAt": "2026-08-15T23:16:22.236Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -371,7 +371,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-15T11:07:41.662Z",
+    "publishedAt": "2026-08-15T23:16:22.243Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-15T11:07:42.270Z",
+    "publishedAt": "2026-08-15T23:16:22.877Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-15T11:07:42.303Z",
+    "publishedAt": "2026-08-15T23:16:22.841Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-15T11:07:42.734Z",
+    "publishedAt": "2026-08-15T23:16:24.798Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -485,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-15T11:07:41.738Z",
+    "publishedAt": "2026-08-15T23:16:22.313Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-15T11:07:42.907Z",
+    "publishedAt": "2026-08-15T23:16:22.868Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-15T11:07:41.817Z",
+    "publishedAt": "2026-08-15T23:16:22.506Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -570,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-15T11:07:41.877Z",
+    "publishedAt": "2026-08-15T23:16:22.644Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-15T11:07:42.376Z",
+    "publishedAt": "2026-08-15T23:16:22.884Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-15T11:07:41.999Z",
+    "publishedAt": "2026-08-15T23:16:22.609Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -656,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-15T11:07:41.875Z",
+    "publishedAt": "2026-08-15T23:16:22.543Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-15T11:07:43.282Z",
+    "publishedAt": "2026-08-15T23:16:24.566Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -713,7 +713,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-15T11:07:42.027Z",
+    "publishedAt": "2026-08-15T23:16:22.629Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-15T11:07:42.158Z",
+    "publishedAt": "2026-08-15T23:16:22.693Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,10 +748,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 3 days ago • 32 TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "allenai • 8 days ago • 30 FineBooks: are open OCR models good enough to unlock historical knowledge?",
-      "finebooks • 5 days ago • 24 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 11 days ago • 90 Sleeper Agents and How to Tame Them tngtech • 2 days ago • 19 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 7 days ago • 16 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 4 days ago • 13 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 1 day ago • 13 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 7 days ago • 11 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 3 days ago • 11 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 10 days ago • 26 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 3 days ago • 9 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "FINAL-Bench • about 10 hours ago • 9 Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 8 days ago • 19 On the integrity of the Arabic TTS Arena leaderboard Navid-AI • 8 days ago • 7 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 4 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 893 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 5 days ago • 6 Mastering Tensor Dimensions in Transformers not-lain • Jan 12, 2025 • 200 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 22 days ago • 18 research community hub State of Open Models: Summer 2026 Observations 31 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 20 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 61 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 10 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 36 August 12, 2026 Thinking of ACE?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 3 days ago • 34 FineBooks: are open OCR models good enough to unlock historical knowledge?",
+      "finebooks • 5 days ago • 24 TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "allenai • 8 days ago • 30 Sleeper Agents and How to Tame Them tngtech • 3 days ago • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 11 days ago • 90 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 4 days ago • 13 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 2 days ago • 13 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 4 days ago • 11 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 10 days ago • 26 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 8 days ago • 11 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 3 days ago • 9 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • about 22 hours ago • 9 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 7 days ago • 16 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 4 days ago • 7 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 23 days ago • 19 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 5 days ago • 6 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 2 days ago • 6 Luth-2: Pushing the French Capabilities of SLMs with MOPD MaxLSB • 5 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 5 days ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 393 research community hub State of Open Models: Summer 2026 Observations 47 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 20 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 64 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 11 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 36 August 12, 2026 Thinking of ACE?"
     ],
     "claims": [
       {
@@ -781,11 +781,11 @@
       "Sighting: Northern Gannet Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
       "15th August 2026 Sighting 8:22 PM &mdash; Northern Gannet, in Pillar Point Harbor, CA, US Northern Gannet This is Morris.",
       "Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean.",
-      "He showed up in the Farallon Islands off the coast of San Francisco 14 years ago ."
+      "They showed up in the Farallon Islands off the coast of San Francisco 14 years ago ."
     ],
     "claims": [
       {
-        "text": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. He showed up in the Farallon Islands off the coast of San Francisco 14 years ago . He has since made Pillar Point harbor his home, where he's quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commercial pier. Tags: photography , wildlife , half-moon-bay",
+        "text": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. They showed up in the Farallon Islands off the coast of San Francisco 14 years ago . They have since made Pillar Point harbor their home, where they are quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commercial pier. Tags: photography , wildlife , half-moon-bay",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Aug/15/sighting-391300422/"
       }
@@ -922,7 +922,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-15T11:07:42.111Z",
+    "publishedAt": "2026-08-15T23:16:22.650Z",
     "categoryHints": [
       "ai-agentic"
     ],

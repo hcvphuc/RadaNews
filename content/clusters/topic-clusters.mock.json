@@ -6,11 +6,10 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_replit-blog_2c607cbee6384da3"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -21,14 +20,15 @@
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
       "src_simonwillison-blog_ad1972ffb40d23e1",
-      "src_simonwillison-blog_e01e2a15f6093c17",
       "src_simonwillison-blog_25c84c8303baa47d",
+      "src_simonwillison-blog_e01e2a15f6093c17",
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_424d155a0e67c904",
-      "src_simonwillison-blog_324e4a3474ea4c21"
+      "src_simonwillison-blog_324e4a3474ea4c21",
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -61,34 +61,34 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-15",
-    "category": "ai-agentic",
-    "topic": "What's New in Cursor — Latest Updates & Release Notes",
+    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-15",
+    "category": "ai-vibe-coding",
+    "topic": "The Official Blog | Replit",
     "sourceIds": [
-      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_replit-blog_2c607cbee6384da3",
+      "src_reddit-aiagents_5be6110b6f6ce104",
+      "src_vercel-ai-blog_2026-08-15_fallback"
+    ],
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-agentic_2_blog-pika_2026-08-15",
+    "category": "ai-agentic",
+    "topic": "Blog | Pika",
+    "sourceIds": [
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_c3109db4ab16bf94",
+      "src_reddit-aiagents_0720e58aa40c02e6",
+      "src_reddit-aiagents_f3cf9564eabbd255",
       "src_reddit-aiagents_6a455bd719766a99",
       "src_reddit-aiagents_078eb3f5580e92d3",
       "src_openai-blog_2026-08-15_fallback",
       "src_mcp-blog_2026-08-15_fallback"
     ],
     "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 7 source item(s), 5 live crawl(s), strongest sources: Cursor Changelog, Pika Labs Blog, r/AI_Agents.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_skill-to-turn-legacy-flash-apps-to-html5-reverse-engineering_2026-08-15",
-    "category": "ai-vibe-coding",
-    "topic": "Skill to turn Legacy Flash apps to HTML5 (reverse engineering)",
-    "sourceIds": [
-      "src_reddit-aiagents_e0cb15dbc77becf3",
-      "src_reddit-aiagents_9291f4b7d3d24f1d",
-      "src_vercel-ai-blog_2026-08-15_fallback"
-    ],
-    "articleWorthinessScore": 0.73,
-    "reasonSelected": "Score 0.73 from 3 source item(s), 2 live crawl(s), strongest sources: r/AI_Agents, Vercel AI Blog.",
+    "reasonSelected": "Score 0.83 from 7 source item(s), 5 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
