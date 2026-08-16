@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-15T23:16:22.848Z",
+    "publishedAt": "2026-08-16T11:08:42.602Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-15T23:16:22.226Z",
+    "publishedAt": "2026-08-16T11:08:41.416Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-15_fallback",
+    "sourceId": "src_openai-blog_2026-08-16_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-15T23:16:22.133Z",
+    "publishedAt": "2026-08-16T11:08:41.271Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-15_fallback",
+    "sourceId": "src_mcp-blog_2026-08-16_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-15T23:16:22.490Z",
+    "publishedAt": "2026-08-16T11:08:42.189Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5be6110b6f6ce104",
+    "sourceId": "src_reddit-aiagents_9e7a6b088f8e7b59",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vp5w6j/the_idea_that_simple_apps_are_dead_because_anyone/",
-    "title": "The idea that simple apps are dead because anyone can vibe code them is simply wrong",
-    "publishedAt": "2026-08-15T15:35:12.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vpna1c/how_does_your_agent_harness_work/",
+    "title": "How does your agent harness work",
+    "publishedAt": "2026-08-16T04:24:06.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I see a lot of people discussing vibe coding and what actually constitutes a moat, and I think a lot of people are looking at this way too narrowly and ignoring some pretty important aspects of human nature.",
-      "The idea that simple ideas are dead, that if you can build an app in 30 minutes, nobody will ever pay for it because they can just vibe code their own version, is frankly ridiculous to me.",
-      "I know plenty of people who don’t even know what a browser is.",
-      "I even know technical people (in different domains) who look at the process of cloning a repository and think, “wow, this is a lot.” The people who would seriously think, “why would I pay for this when I can just vibe code it myself?” are mostly people inside a very AI-fluent bubble that represents a tiny portion of the actual world."
+      "I’m curious about the different harnesses people have built around coding agents, especially the weird/custom ones that go beyond just CLAUDE.md / AGENTS.md and a few prompts.",
+      "Are you using hooks that actually block actions, separate planning/review agents, sandboxed environments, cross-model review (Claude → Codex or vice versa), eval loops, context/memory systems, automatic rollback, task routers, observability, etc.?",
+      "I’m much more interested in the stuff you’ve actually found useful in practice than the standard “give the agent good instructions” advice what does your harness look like, and what has genuinely increased the productivity/reliability of your agents?",
+      "what tools or practices turned out to be a waste of time?"
     ],
     "claims": [
       {
-        "text": "I see a lot of people discussing vibe coding and what actually constitutes a moat, and I think a lot of people are looking at this way too narrowly and ignoring some pretty important aspects of human nature. The idea that simple ideas are dead, that if you can build an app in 30 minutes, nobody will ever pay for it because they can just vibe code their own version, is frankly ridiculous to me. I know plenty of people who don’t even know what a browser is. I even know technical people (in different domains) who look at the process of cloning a repository and think, “wow, this is a lot.” The people who would seriously think, “why would I pay for this when I can just vibe code it myself?” are mostly people inside a very AI-fluent bubble that represents a tiny portion of the actual world. And even then, building something that technically works is not the same as building good software. There are still all of the boring necessary hoops involved in making a simple application actually secure and reliable. You have to choose a stack, build the backend and frontend, handle authentication, storage, deployment, security, updates, edge cases, and everything else that comes with operating software. Unless you’re literally just bootstrapping some ugly internal tool to copy the functionality, you also have to design a good UI, make hundreds of little product decisions, and work through trade-offs that compound as the feature set grows. If your target audience is developers, I understand the argument more. But even developers are lazy in the normal human sense, they have their own projects and things they would rather spend their time doing. And if you are selling to developers, the bar is arguably even higher. They care about architecture, security, ownership, extensibility, integrations, and whether the product actually fits into the way they work. A lot of them may want to own the thing themselves anyway, which is part of why I don’t even think developers are always the best target audience for this kind of simple app. For everyone else, the argument gets even weaker. Most people barely want to write a good prompt. They’ll type one sentence into ChatGPT, get a mediocre response, decide AI isn’t that useful for that task, and close the laptop. The idea that these same people are suddenly going to design, build, debug, secure, deploy, and maintain their own software because vibe coding exists seems completely disconnected from how normal people behave. People pay for convenience. They pay for polish. They pay for something that already works. They pay so they don’t have to think about how it works. So to me, “they can just vibe code my app” is a pretty weak reason not to build something, and in most cases if your app is not growing you have a distribution and sales problem not an idea problem. Curious what others think. submitted by /u/coopernusbaum [link] [comments]",
+        "text": "I’m curious about the different harnesses people have built around coding agents, especially the weird/custom ones that go beyond just CLAUDE.md / AGENTS.md and a few prompts. Are you using hooks that actually block actions, separate planning/review agents, sandboxed environments, cross-model review (Claude → Codex or vice versa), eval loops, context/memory systems, automatic rollback, task routers, observability, etc.? I’m much more interested in the stuff you’ve actually found useful in practice than the standard “give the agent good instructions” advice what does your harness look like, and what has genuinely increased the productivity/reliability of your agents? what tools or practices turned out to be a waste of time? submitted by /u/ComprehensiveMonth70 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vp5w6j/the_idea_that_simple_apps_are_dead_because_anyone/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vpna1c/how_does_your_agent_harness_work/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_f3cf9564eabbd255",
+    "sourceId": "src_reddit-aiagents_892e254cf9897f9f",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vp9wrp/agent_harnesses_is_there_a_unified_way_to_use/",
-    "title": "Agent harnesses: is there a unified way to use subscriptions instead of APIs?",
-    "publishedAt": "2026-08-15T18:14:23.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vpqqz7/building_an_aipowered_medical_learning_platform/",
+    "title": "Building an AI-powered medical learning platform from PowerPoint slides: curriculum structure + real “trainer mode” bot?",
+    "publishedAt": "2026-08-16T07:38:09.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Hey all, non-coder here trying to figure out the agent tooling landscape.",
-      "Per-token API costs get expensive fast, but using consumer subscriptions (Claude Pro, ChatGPT Plus, Gemini) in third-party harnesses risks ToS bans.",
-      "Tools like T3 Code try to orchestrate proprietary harnesses, but they only support a few providers and struggle to manage shared context, state, and memory.",
-      "Is there a universal harness that lets you orchestrate multi-provider agents using subscription OAuth/logins rather than paid APIs?"
+      "I’m planning to build a focused learning platform for a specific medical topic and would love your expertise on workflow and tooling.",
+      "My starting point: My current “masterfile” consists of PowerPoint slides with: • Slide titles & subtitles • Images, tables, diagrams • Very little flowing text (mostly bullet points on slides) This slide deck outlines the rough curriculum.",
+      "Curriculum structure: AI suggestions vs.",
+      "manual design Given this slide-based masterfile: • Should I pre-structure the content into chapters/subchapters myself to maintain a strong “red thread”?"
     ],
     "claims": [
       {
-        "text": "Hey all, non-coder here trying to figure out the agent tooling landscape. Per-token API costs get expensive fast, but using consumer subscriptions (Claude Pro, ChatGPT Plus, Gemini) in third-party harnesses risks ToS bans. Tools like T3 Code try to orchestrate proprietary harnesses, but they only support a few providers and struggle to manage shared context, state, and memory. Is there a universal harness that lets you orchestrate multi-provider agents using subscription OAuth/logins rather than paid APIs? How are you currently managing multi-model workflows? submitted by /u/Relevant_Attempt_352 [link] [comments]",
+        "text": "I’m planning to build a focused learning platform for a specific medical topic and would love your expertise on workflow and tooling. My starting point: My current “masterfile” consists of PowerPoint slides with: • Slide titles & subtitles • Images, tables, diagrams • Very little flowing text (mostly bullet points on slides) This slide deck outlines the rough curriculum. Curriculum structure: AI suggestions vs. manual design Given this slide-based masterfile: • Should I pre-structure the content into chapters/subchapters myself to maintain a strong “red thread”? • Or should I let the AI propose subsections and curriculum structure based on the slides? • What’s worked best in your experience for maintaining coherence while still allowing AI to expand meaningfully? Platform functionality: content browsing + real “trainer mode” The platform should offer two modes: • Browse mode: Users can click through the learning content (like a course) • Trainer mode: A real AI trainer/coach that: • Creates and maintains an individual file per user tracking their knowledge state • Asks adaptive questions and provides thought prompts based on that state • Feels like a personal bootcamp coach, not a generic chatbot Key question: • How would you implement this “trainer mode” functionality? • Any recommended architectures, tools, or examples of similar implementations? • How do you make the trainer feel genuinely helpful and not just like a quiz bot? My current stack & ideas Currently I use: Claude + Obsidian Considering: Graphify (for knowledge graphs), Microsoft Copilot, NotebookLM • Would Claude + Obsidian + Graphify create significant added value for this use case? • Are there better tools or stacks I should consider? --- Content expansion & quality I want the platform to feel human-curated and high-quality, not like generic AI content. • Which AI/models or workflows would you use to: • Expand the slide content with high-quality explanations • Source or generate relevant images, diagrams, and short learning videos • Maintain a consistent “red thread” across learning units • How do you avoid typical AI pitfalls (redundancy, shallow explanations, hallucinations)? --- Knowledge handoff strategy • Should the slide deck be treated as an absolute “source of truth” that the AI must not deviate from? • Or should it be a foundational base, with the AI allowed to research and supplement with external high-quality resources? --- How would you approach building this learning platform? I’m especially interested in concrete workflows, tool combinations, and lessons learned from similar projects. Thanks in advance for your insights! submitted by /u/Specialist-Yam8554 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vp9wrp/agent_harnesses_is_there_a_unified_way_to_use/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vpqqz7/building_an_aipowered_medical_learning_platform/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_0720e58aa40c02e6",
+    "sourceId": "src_reddit-aiagents_b8529a3d025647d2",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vp5jsf/how_do_you_actually_know_your_ai_agent_did_what/",
-    "title": "How do you actually know your AI agent did what it says it did?",
-    "publishedAt": "2026-08-15T15:21:10.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vpiq74/gemini_37_flash_with_antigravity_finally_ready/",
+    "title": "Gemini 3.7 Flash with Antigravity Finally Ready",
+    "publishedAt": "2026-08-16T00:34:00.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Something that bugs me the more I build with agents.",
-      "An agent runs, does a bunch of stuff you didn't watch, and hands you a summary.",
-      "You get a confident paragraph saying it analyzed the data and here's the recommendation.",
-      "There's no way to check which model actually ran, what it actually looked at, or whether it did the work at all versus generating something that sounds like it did."
+      "Gemini 3.7 Flash with Antigravity Finally Ready The day has finally arrived when Google has put out a competitive model and harness: Gemini 3.7 Flash and Antigravity.",
+      "I have wanted this combination to be good for some time.",
+      "And now I can hand over some of my development work to Gemini - getting more use out of my Gemini AI Pro subscription that runs around $20/month.",
+      "I like Gemini as a chatbot, for its deep research feature and Notebook LLM."
     ],
     "claims": [
       {
-        "text": "Something that bugs me the more I build with agents. An agent runs, does a bunch of stuff you didn't watch, and hands you a summary. You get a confident paragraph saying it analyzed the data and here's the recommendation. And… you kind of just believe it? There's no way to check which model actually ran, what it actually looked at, or whether it did the work at all versus generating something that sounds like it did. For a writing assistant, who cares. But people are handing agents real jobs now like moving money, sending messages, making decisions that are annoying to undo. At that point \"trust me, I did it\" is a weird place to land. What I keep wanting is a receipt. Not a log the agent writes about itself, which is just the same trust problem one level down, but something the agent can't fake: which model ran, what went in, what came out, verifiable by someone who wasn't there. Worth saying, a receipt doesn't mean the agent was right. A model can be verifiably run and still be badly wrong. It just means you can tell the difference between a bad decision and a decision that never happened. How are you all handling this? Logging everything and hoping? edit: for the people asking if the \"receipt\" exists, OpenGradient is the closest thing i've found. it attaches a proof to each inference binding the model, inputs, and output, verifiable by a third party, not a log the agent writes about itself. costs latency and zkml gets pricey for big models, and it still only proves the work happened, not that it was right. but that's the exact line i cared about. submitted by /u/FeedbackSelect919 [link] [comments]",
+        "text": "Gemini 3.7 Flash with Antigravity Finally Ready The day has finally arrived when Google has put out a competitive model and harness: Gemini 3.7 Flash and Antigravity. I have wanted this combination to be good for some time. And now I can hand over some of my development work to Gemini - getting more use out of my Gemini AI Pro subscription that runs around $20/month. I like Gemini as a chatbot, for its deep research feature and Notebook LLM. There are more that kept me paying that monthly subscription while also subscribing to OpenAI and Anthropic. This new model is quite good. As good as the best from OpenAI or Anthropic? Not really. However, we are at the stage where there is a lot of room underwent the “absolute best” that is still quite good. And with Gemini 3.7 Flash - very fast and cost effective. My one complaint is the terms of service that limit me to only Google’s tools. I can’t use Oh-My-Pi or OpenCode where I could assign different roles to different models. I’d use Sol or Fable 5 for the planning and Gemini 3.7 Flash for the coding, and maybe Opus 5 for the code review. I’ve been coding all day with Gemini and have 73% of my weekly usage left. So, that would mean I’d run out before the week. But consider this is only the $20/mo subscription. That’s a LOT of use for a small price. submitted by /u/leebase65 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vp5jsf/how_do_you_actually_know_your_ai_agent_did_what/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vpiq74/gemini_37_flash_with_antigravity_finally_ready/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-15_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-16_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-15T23:16:22.248Z",
+    "publishedAt": "2026-08-16T11:08:41.704Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-15T23:16:22.874Z",
+    "publishedAt": "2026-08-16T11:08:42.686Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-15T23:16:22.294Z",
+    "publishedAt": "2026-08-16T11:08:41.823Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +339,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-15_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-15T23:16:22.236Z",
+    "publishedAt": "2026-08-16T11:08:41.657Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +366,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-15_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-15T23:16:22.243Z",
+    "publishedAt": "2026-08-16T11:08:41.677Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-15T23:16:22.877Z",
+    "publishedAt": "2026-08-16T11:08:42.428Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-15T23:16:22.841Z",
+    "publishedAt": "2026-08-16T11:08:42.653Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-15T23:16:24.798Z",
+    "publishedAt": "2026-08-16T11:08:43.217Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-15_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-15T23:16:22.313Z",
+    "publishedAt": "2026-08-16T11:08:41.797Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-15T23:16:22.868Z",
+    "publishedAt": "2026-08-16T11:08:42.644Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-15T23:16:22.506Z",
+    "publishedAt": "2026-08-16T11:08:41.855Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-15_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-16_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-15T23:16:22.644Z",
+    "publishedAt": "2026-08-16T11:08:42.143Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-15T23:16:22.884Z",
+    "publishedAt": "2026-08-16T11:08:42.689Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-15T23:16:22.609Z",
+    "publishedAt": "2026-08-16T11:08:42.071Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-15_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-15T23:16:22.543Z",
+    "publishedAt": "2026-08-16T11:08:41.917Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-15T23:16:24.566Z",
+    "publishedAt": "2026-08-16T11:08:44.066Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -708,12 +708,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-15_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-16_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-15T23:16:22.629Z",
+    "publishedAt": "2026-08-16T11:08:42.075Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-15T23:16:22.693Z",
+    "publishedAt": "2026-08-16T11:08:42.209Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,10 +748,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 3 days ago • 34 FineBooks: are open OCR models good enough to unlock historical knowledge?",
-      "finebooks • 5 days ago • 24 TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "allenai • 8 days ago • 30 Sleeper Agents and How to Tame Them tngtech • 3 days ago • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 11 days ago • 90 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 4 days ago • 13 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 2 days ago • 13 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 4 days ago • 11 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 10 days ago • 26 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 8 days ago • 11 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 3 days ago • 9 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "FINAL-Bench • about 22 hours ago • 9 Model Genome: Fingerprinting Whether an LLM Was Trained From Scratch or Derived mayafree • 7 days ago • 16 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 4 days ago • 7 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 23 days ago • 19 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 5 days ago • 6 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 2 days ago • 6 Luth-2: Pushing the French Capabilities of SLMs with MOPD MaxLSB • 5 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 5 days ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 393 research community hub State of Open Models: Summer 2026 Observations 47 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 20 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 64 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 11 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 36 August 12, 2026 Thinking of ACE?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 4 days ago • 34 FineBooks: are open OCR models good enough to unlock historical knowledge?",
+      "finebooks • 6 days ago • 24 Sleeper Agents and How to Tame Them tngtech • 3 days ago • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 12 days ago • 90 TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "allenai • 9 days ago • 30 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 5 days ago • 13 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 2 days ago • 13 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 4 days ago • 11 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 4 days ago • 9 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • 1 day ago • 9 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 11 days ago • 26 GLInt: Geometry-Matched Hard Negatives for Late-Interaction Retrieval chungimungi • 8 days ago • 11 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 5 days ago • 7 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 3 days ago • 7 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 23 days ago • 19 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 6 days ago • 6 Luth-2: Pushing the French Capabilities of SLMs with MOPD MaxLSB • 5 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 6 days ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 393 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 13 days ago • 12 research community hub State of Open Models: Summer 2026 Observations 64 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 21 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 64 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 11 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 39 August 12, 2026 Thinking of ACE?"
     ],
     "claims": [
       {
@@ -765,6 +765,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_128e4fab722bdeab",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+    "title": "CORS Chat",
+    "publishedAt": "2026-08-15T14:49:54.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Tool: CORS Chat Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
+      "15th August 2026 Tool CORS Chat &mdash; Chat directly with any OpenAI Responses-compatible API endpoint that supports CORS headers, all within your browser.",
+      "Configure endpoints with custom headers, save conversations locally, and manage multiple chat sessions with different models and reasoning settings.",
+      "I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark."
+    ],
+    "claims": [
+      {
+        "text": "Tool: CORS Chat I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine. Conversations are persisted in the browser and can be exported as copy-pasted JSON. One fun detail is that it notices SVG images that are being generated and progressively renders them in the chat while the tokens are still streaming in. Tags: svg , ai , generative-ai , llms , cors , openrouter , lm-studio",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/15/cors-chat/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_424d155a0e67c904",
@@ -887,42 +917,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_25c84c8303baa47d",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
-    "title": "llm-gemini 0.33",
-    "publishedAt": "2026-08-13T19:37:34.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Release: llm-gemini 0.33 Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "13th August 2026 Release llm-gemini 0.33 &mdash; LLM plugin to access Google's Gemini family of models It's been a while since the last llm-gemini release.",
-      "This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash , gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001 .",
-      "The plugin is also upgraded for compatibility with LLM 0.32, which means you can now see reasoning traces and you can also enable server-side tools using this pattern: llm -m gemini-3.7-flash -T CodeExecution \\ 'use python to calculate (factorial of 13) * 3' I had Gemini 3.7 Flash draw me some pelicans riding bicycles at high, medium, and low thinking efforts (minimal, which was an option in 3.6 Flash, has been removed in 3.7.) Here's the high level one, which is pretty great: Update 14th August 2026 : I had originally said that the SVG rendered incorrectly in Chrome and Firefox, and blamed Gemini 3.7 Flash for producing invalid SVG."
-    ],
-    "claims": [
-      {
-        "text": "Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash , gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001 . The plugin is also upgraded for compatibility with LLM 0.32, which means you can now see reasoning traces and you can also enable server-side tools using this pattern: llm -m gemini-3.7-flash -T CodeExecution \\ 'use python to calculate (factorial of 13) * 3' I had Gemini 3.7 Flash draw me some pelicans riding bicycles at high, medium, and low thinking efforts (minimal, which was an option in 3.6 Flash, has been removed in 3.7.) Here's the high level one, which is pretty great: Update 14th August 2026 : I had originally said that the SVG rendered incorrectly in Chrome and Firefox, and blamed Gemini 3.7 Flash for producing invalid SVG. That was entirely incorrect: the rendering glitch was my fault, caused by a bug In my rendering tool . I've now fixed that bug. Tags: google , ai , generative-ai , llms , llm , gemini , pelican-riding-a-bicycle , llm-release",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/13/llm-gemini/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-15T23:16:22.650Z",
+    "publishedAt": "2026-08-16T11:08:42.221Z",
     "categoryHints": [
       "ai-agentic"
     ],
