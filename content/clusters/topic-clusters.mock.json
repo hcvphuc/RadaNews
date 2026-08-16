@@ -5,11 +5,12 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
+      "src_simonwillison-blog_70c20d21ea21f417",
       "src_langchain-blog_40ded3f923e3291d",
       "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, LangChain Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -19,16 +20,15 @@
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
-      "src_simonwillison-blog_128e4fab722bdeab",
+      "src_simonwillison-blog_98099f05af82a3a5",
       "src_simonwillison-blog_ad1972ffb40d23e1",
-      "src_simonwillison-blog_e01e2a15f6093c17",
+      "src_simonwillison-blog_128e4fab722bdeab",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_424d155a0e67c904",
-      "src_simonwillison-blog_324e4a3474ea4c21",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_simonwillison-blog_424d155a0e67c904"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -66,11 +66,11 @@
     "topic": "The Official Blog | Replit",
     "sourceIds": [
       "src_replit-blog_2c607cbee6384da3",
-      "src_reddit-aiagents_b8529a3d025647d2",
+      "src_reddit-aiagents_f5585de830f9e4a5",
       "src_vercel-ai-blog_2026-08-16_fallback"
     ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, r/AI_Agents, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -80,15 +80,15 @@
     "topic": "Blog | Pika",
     "sourceIds": [
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_892e254cf9897f9f",
-      "src_reddit-aiagents_9e7a6b088f8e7b59",
-      "src_reddit-aiagents_6a455bd719766a99",
+      "src_reddit-aiagents_6196c6d5eb431760",
+      "src_reddit-aiagents_0d0898cd60f89890",
       "src_reddit-aiagents_078eb3f5580e92d3",
+      "src_reddit-aiagents_6a455bd719766a99",
       "src_openai-blog_2026-08-16_fallback",
       "src_mcp-blog_2026-08-16_fallback"
     ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 7 source item(s), 5 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.79,
+    "reasonSelected": "Score 0.79 from 7 source item(s), 5 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
