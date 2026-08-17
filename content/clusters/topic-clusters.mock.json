@@ -6,10 +6,11 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_70c20d21ea21f417",
-      "src_langchain-blog_40ded3f923e3291d"
+      "src_langchain-blog_40ded3f923e3291d",
+      "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, LangChain Blog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, LangChain Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -19,14 +20,15 @@
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
+      "src_simonwillison-blog_65fe4d3216a13085",
       "src_simonwillison-blog_098eda7d43f49ca2",
       "src_simonwillison-blog_98099f05af82a3a5",
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_128e4fab722bdeab",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_pika-blog_faa536f0db7dac04"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -36,14 +38,27 @@
     "topic": "Blog – Replicate",
     "sourceIds": [
       "src_replicate-blog_572c1f4ac9c0ea5c",
-      "src_reddit-stablediffusion_ae78183fa357ccab",
       "src_lilianweng-blog_31a2c7baf9b791a5",
       "src_comfyui-blog_469b943374a61749",
-      "src_reddit-stablediffusion_27651eb80c9c126c",
       "src_black-forest-labs_db0e6d09e99dbd6f"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Replicate Blog, r/StableDiffusion, Lil'Log.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Replicate Blog, Lil'Log, ComfyUI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-17",
+    "category": "ai-vibe-coding",
+    "topic": "The Official Blog | Replit",
+    "sourceIds": [
+      "src_replit-blog_2c607cbee6384da3",
+      "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_848a1b1c053753d1",
+      "src_vercel-ai-blog_2026-08-17_fallback"
+    ],
+    "articleWorthinessScore": 0.95,
+    "reasonSelected": "Score 0.95 from 4 source item(s), 3 live crawl(s), strongest sources: Replit Blog, Cursor Changelog, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -53,57 +68,42 @@
     "topic": "News | Luma",
     "sourceIds": [
       "src_luma-blog_c7449029956c34f9",
-      "src_reddit-stablediffusion_84acb60e8e00848d",
       "src_kling-blog_9b8eef2edc427cc1"
     ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Luma Labs Blog, r/StableDiffusion, Kling AI Blog.",
+    "articleWorthinessScore": 0.94,
+    "reasonSelected": "Score 0.94 from 2 source item(s), 2 live crawl(s), strongest sources: Luma Labs Blog, Kling AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_github-copilot-archives-the-github-blog_2026-08-17",
-    "category": "ai-vibe-coding",
-    "topic": "GitHub Copilot Archives - The GitHub Blog",
-    "sourceIds": [
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_replit-blog_2c607cbee6384da3",
-      "src_vercel-ai-blog_2026-08-17_fallback"
-    ],
-    "articleWorthinessScore": 0.89,
-    "reasonSelected": "Score 0.89 from 3 source item(s), 2 live crawl(s), strongest sources: GitHub Copilot Blog, Replit Blog, Vercel AI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-agentic_2_northern-gannet_2026-08-17",
+    "clusterId": "cluster_ai-agentic_2_would-you-let-an-agent-spend-your-own-money-right-now-yes-or-no-_2026-08-17",
     "category": "ai-agentic",
-    "topic": "Northern Gannet",
+    "topic": "would you let an agent spend your own money right now, yes or no, and what's ...",
     "sourceIds": [
-      "src_simonwillison-blog_424d155a0e67c904",
-      "src_pika-blog_faa536f0db7dac04",
+      "src_reddit-aiagents_c49cfe790c271089",
+      "src_reddit-aiagents_5bb2f71b1df88c85",
+      "src_reddit-aiagents_ba0a372a0af23eaa",
+      "src_reddit-aiagents_6a455bd719766a99",
       "src_openai-blog_2026-08-17_fallback",
-      "src_mcp-blog_2026-08-17_fallback",
-      "src_reddit-aiagents_2026-08-17_fallback"
+      "src_mcp-blog_2026-08-17_fallback"
     ],
-    "articleWorthinessScore": 0.76,
-    "reasonSelected": "Score 0.76 from 5 source item(s), 2 live crawl(s), strongest sources: Simon Willison's Weblog, Pika Labs Blog, OpenAI Blog.",
+    "articleWorthinessScore": 0.79,
+    "reasonSelected": "Score 0.79 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_absolutely-insane-that-this-made-this-locally_2026-08-17",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-17",
     "category": "ai-image",
-    "topic": "Absolutely INSANE, that this made this locally...",
+    "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-stablediffusion_6e4802caa49d5e38",
-      "src_reddit-stablediffusion_c9d260083f748e26",
+      "src_reddit-stablediffusion_2026-08-17_fallback",
       "src_stability-ai-blog_2026-08-17_fallback",
       "src_reddit-comfyui_2026-08-17_fallback",
       "src_reddit-midjourney_2026-08-17_fallback"
     ],
-    "articleWorthinessScore": 0.66,
-    "reasonSelected": "Score 0.66 from 5 source item(s), 2 live crawl(s), strongest sources: r/StableDiffusion, Stability AI Blog, r/comfyui.",
+    "articleWorthinessScore": 0.48,
+    "reasonSelected": "Score 0.48 from 4 source item(s), 0 live crawl(s), strongest sources: r/StableDiffusion, Stability AI Blog, r/comfyui.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
