@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-17T23:18:58.599Z",
+    "publishedAt": "2026-08-18T11:13:27.746Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-17T23:18:57.622Z",
+    "publishedAt": "2026-08-18T11:13:26.914Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-17_fallback",
+    "sourceId": "src_openai-blog_2026-08-18_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-17T23:18:57.450Z",
+    "publishedAt": "2026-08-18T11:13:26.752Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-17_fallback",
+    "sourceId": "src_mcp-blog_2026-08-18_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-17T23:18:58.054Z",
+    "publishedAt": "2026-08-18T11:13:27.165Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_c49cfe790c271089",
+    "sourceId": "src_reddit-aiagents_fffc0200fd71340d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vr0gad/would_you_let_an_agent_spend_your_own_money_right/",
-    "title": "would you let an agent spend your own money right now, yes or no, and what's your reason",
-    "publishedAt": "2026-08-17T18:26:26.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vrc6u1/memory_vs_a_good_ol_markdown_file/",
+    "title": "\"Memory\" vs. a good ol markdown file",
+    "publishedAt": "2026-08-18T02:14:00.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "not \"someday.\" today, with the tools that actually exist.",
-      "would you give an agent a real card or wallet and let it make purchases or trades on its own, no approval step?",
-      "the tech is clearly good enough to do it.",
-      "i'm just not sure the \"prove it behaved\" side has caught up with the \"it can act\" side."
+      "I keep seeing agent these memory systems everywhere.",
+      "My question is, are these overly complex retrieval mechanismsreally necessary when I can just give my agents a good markdown file?",
+      "Where have you found proper memory infrastructure genuinely better than a file the agent updates itself?",
+      "submitted by /u/mageblex [link] [comments]"
     ],
     "claims": [
       {
-        "text": "simple gut check for the sub. not \"someday.\" today, with the tools that actually exist. would you give an agent a real card or wallet and let it make purchases or trades on its own, no approval step? i keep flip-flopping. the tech is clearly good enough to do it. i'm just not sure the \"prove it behaved\" side has caught up with the \"it can act\" side. feels like we built the hands before the accountability. vote yes or no in a comment and say why. genuinely want to see where this community actually lands, because twitter makes it sound like everyone's already doing it and i don't buy that. edit: pretty split, and the \"no\" camp keeps saying the same thing, it's not that the agent can't do it, it's that there's no way to independently check it did the right thing afterward. that's the exact gap i was poking at. the one project people keep bringing up for this is OpenGradient, which attaches a verifiable proof to each model call so you can confirm what actually ran without trusting the agent's own logs. it only proves the run, not that the decision was smart, but that's still the missing half most of the \"no\" voters described. submitted by /u/burikismat47 [link] [comments]",
+        "text": "I keep seeing agent these memory systems everywhere. My question is, are these overly complex retrieval mechanismsreally necessary when I can just give my agents a good markdown file? Where have you found proper memory infrastructure genuinely better than a file the agent updates itself? submitted by /u/mageblex [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vr0gad/would_you_let_an_agent_spend_your_own_money_right/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vrc6u1/memory_vs_a_good_ol_markdown_file/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5bb2f71b1df88c85",
+    "sourceId": "src_reddit-aiagents_e02d9e46d16bf8a4",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vqsr96/what_ai_skill_do_you_think_will_be_valuable_5/",
-    "title": "What AI skill do you think will be valuable 5 years from now?",
-    "publishedAt": "2026-08-17T13:44:23.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vrgdpj/have_you_attempted_any_advanced_makerchecker/",
+    "title": "Have you attempted any advanced maker-checker systems? where both the maker and checkers are Claude based agents?",
+    "publishedAt": "2026-08-18T05:43:52.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "AI is changing quickly, and many tools we use today may look completely different in a few years.",
-      "What AI-related skill do you think will still be valuable 5 years from now and why?",
-      "What skill would you stat learning today?",
-      "submitted by /u/ProposalIntrepid8476 [link] [comments]"
+      "I have recently made a multi-agent system where there are a few maker agents who \"make\" the blogs for my hobby site (The Internet Ninja), they basically are collecting and verifying sources of all kinds of performance and automation claims that the system finds online.",
+      "once the content is created the checker agents are supposed to check to confirm the source validity, recency, accuracy of context etc.",
+      "I have been seeing great results at about 88-92% accuracy depending on topic and data availability but I would like to keep the graph at or over 95% accuracy.",
+      "submitted by /u/The_Nindo [link] [comments]"
     ],
     "claims": [
       {
-        "text": "AI is changing quickly, and many tools we use today may look completely different in a few years. What AI-related skill do you think will still be valuable 5 years from now and why? What skill would you stat learning today? submitted by /u/ProposalIntrepid8476 [link] [comments]",
+        "text": "I have recently made a multi-agent system where there are a few maker agents who \"make\" the blogs for my hobby site (The Internet Ninja), they basically are collecting and verifying sources of all kinds of performance and automation claims that the system finds online. once the content is created the checker agents are supposed to check to confirm the source validity, recency, accuracy of context etc. I have been seeing great results at about 88-92% accuracy depending on topic and data availability but I would like to keep the graph at or over 95% accuracy. Any suggestions? submitted by /u/The_Nindo [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vqsr96/what_ai_skill_do_you_think_will_be_valuable_5/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vrgdpj/have_you_attempted_any_advanced_makerchecker/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_848a1b1c053753d1",
+    "sourceId": "src_reddit-aiagents_1ce8faa8997fae0f",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vr2ve2/can_an_agent_remember_a_useful_rule_without/",
-    "title": "Can an agent remember a useful rule without applying it to the wrong task?",
-    "publishedAt": "2026-08-17T19:52:12.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vrkm2z/what_do_you_use_to_setup_agents/",
+    "title": "What do you use to setup agents?",
+    "publishedAt": "2026-08-18T09:49:46.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I want to test one specific part of agent memory: can it recall a useful lesson when it applies, but refuse to use the same lesson when it would be unsafe?",
-      "I am using EvoX for the test because it is a general AI agent that can reuse experience from earlier tasks.",
-      "I am not comparing it with another agent.",
-      "I only want to see whether its remembered experience is applied selectively."
+      "Hi, relatively easy/noobie question but I’m wondering what tool/software I should use to set up AI Agents.",
+      "I currently have Claude Pro license but I don’t see the possibility to setup an autonomous agent in Claude.",
+      "First touch with Agents referred me to OpenClaw (few months ago) but there were risks involved regarding my hardware & personal data… Now I see “hermes”?",
+      "Advice me the best practices, thank you very much 😉 submitted by /u/SimonBelgium [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I want to test one specific part of agent memory: can it recall a useful lesson when it applies, but refuse to use the same lesson when it would be unsafe? I am using EvoX for the test because it is a general AI agent that can reuse experience from earlier tasks. I am not comparing it with another agent. I only want to see whether its remembered experience is applied selectively. First, I would give EvoX a small client task where a GET request receives a 502. The API documentation says this particular read is safe to retry. After EvoX solves the task, I would confirm that it saved the lesson that retrying is appropriate in this situation. Then I would test that memory with two new tasks. Both show a 502, but they require different decisions: Another documented GET that is safe to retry. EvoX should use the earlier lesson. A payment POST without an idempotency key. Retrying it could create a duplicate charge, so EvoX should inspect the request and avoid blindly applying the earlier lesson. That difference is the point of the test. If EvoX retries both requests just because both returned 502, the remembered lesson is being applied too broadly. A good result would be using it for the GET and refusing it for the payment POST. Retrieving the lesson and then rejecting it after checking the payment request would also be a good result. I would repeat both tasks in random order with clean repository copies and the same model and tool settings. The comparison runs also need separate persistent memory states, since opening a new chat does not necessarily clear retained experience. For each run, I would keep the code diff, test output, and action trace. I would evaluate two things separately: whether the final patch is safe, and whether there is visible evidence that the earlier experience was used. If EvoX does not expose part of that process, I would report only the behavior I could observe rather than claim that memory caused it. Before I run it, I want feedback on one question: is the payment POST a fair way to test whether an agent can reject a remembered rule, or is there a better negative case with the same surface signal? submitted by /u/jennifer_1mm [link] [comments]",
+        "text": "Hi, relatively easy/noobie question but I’m wondering what tool/software I should use to set up AI Agents. I currently have Claude Pro license but I don’t see the possibility to setup an autonomous agent in Claude. First touch with Agents referred me to OpenClaw (few months ago) but there were risks involved regarding my hardware & personal data… Now I see “hermes”? Advice me the best practices, thank you very much 😉 submitted by /u/SimonBelgium [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vr2ve2/can_an_agent_remember_a_useful_rule_without/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vrkm2z/what_do_you_use_to_setup_agents/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-17_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-18_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-17T23:18:57.738Z",
+    "publishedAt": "2026-08-18T11:13:27.038Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-17T23:18:58.690Z",
+    "publishedAt": "2026-08-18T11:13:27.901Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-17T23:18:58.031Z",
+    "publishedAt": "2026-08-18T11:13:27.167Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,21 +339,18 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-17_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-18_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-17T23:18:57.722Z",
+    "publishedAt": "2026-08-18T11:13:26.916Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "2026-08-17T23:19:00+00:00 https://www.redditstatic.com/icon.png/ /r/StableDiffusion/.rss /r/StableDiffusion is an unofficial community embracing the open-source material of all related.",
-      "Post art, ask questions, create discussions, contribute new tech, or browse the subreddit.",
-      "StableDiffusion /u/bstr3k https://www.reddit.com/user/bstr3k Like some of ya&#39;ll I have been having fun using the H3 model to mess around with so I have been experimenting with using H3 model to be a consistent character generator which leverages multi image reference (up to 9), so I made a workflow which you can use &#39;less than ideal&#39; images from google to build a consistent character and output a 360 character sheet to use as a reference sheet for future H3 generations.",
-      "The goal is to achieve high character consistency across future generations."
+      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
     ],
     "claims": [
       {
@@ -366,15 +363,15 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-17_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-18_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-17T23:18:57.724Z",
+    "publishedAt": "2026-08-18T11:13:26.920Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -401,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-17T23:18:58.350Z",
+    "publishedAt": "2026-08-18T11:13:27.693Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -430,15 +427,15 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-17T23:18:58.653Z",
+    "publishedAt": "2026-08-18T11:13:27.788Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "Blog | Pika Careers Contact Us API Experiments Blog Go to Pika Video Careers Contact Us API Experiments Blog Go to Pika Video blog Dispatches from our human brains Updates from the Pika team.",
-      "August 14, 2026 Everything You Want to Hear Pika Audio is our first family of frontier foundation sound models: Soundtrack, Music, SFX and Speech.",
-      "Up to 20x cheaper than comparable audio models, available now through the Pika API Club.",
-      "August 05, 2026 Welcome to the Pika API Club A membership platform that gives builders access to 100+ leading video, image, audio, and LLM models through one API — at prices up to 88% cheaper than other API aggregators."
+      "August 18, 2026 Introducing Pika Soundtrack A model that turns video into a synchronized, full-scene soundscape — motion-aware sound effects, voice, music, and ambience that follow the action.",
+      "August 18, 2026 Introducing Pika Music A new music generation model for turning creative direction into finished tracks — from text, lyrics, a reference voice, an existing track, or any combination.",
+      "August 18, 2026 Now Hear This: Pika SFX A new model that turns a written description into a focused, ready-to-use sound effect in real time — from a single event to a complete sound sequence."
     ],
     "claims": [
       {
@@ -451,7 +448,7 @@
       "article",
       "trend"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_luma-blog_c7449029956c34f9",
@@ -459,14 +456,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-17T23:18:59.211Z",
+    "publishedAt": "2026-08-18T11:13:28.351Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Company Aug 14, 2026 How FOID AI Studio Uses Luma to Direct Without Limits Company Aug 13, 2026 Luma and Dumbstruck Launch Creative Intelligence for Advertising Blog Aug 13, 2026 10 AI Image Prompts That Produce Portfolio-Quality Results Blog Aug 13, 2026 25 AI Product Photography Prompts for E-commerce Brands (2026) Blog Aug 13, 2026 How to Write AI Video Prompts: The Complete Guide Blog Aug 13, 2026 The AI Image Prompting Guide: How to Get Exactly the Shot You Want Blog Aug 13, 2026 27 Cinematic AI Video Prompts: Shot Types, Lighting, and Film Looks Blog Aug 13, 2026 25 AI Prompts for Video Ads in 2026: Ready-to-Use Examples Blog Aug 13, 2026 50 AI Video Prompts for Every Style, Shot, and Scene Blog Aug 13, 2026 40 Anime AI Prompts for Video and Image Generation Product Aug 11, 2026 Introducing Luma Scenes Blog Aug 11, 2026 Remove Text from an Image with AI (Without Wrecking What's Behind It) Blog Aug 11, 2026 7 Best AI Image Editors for Precision Editing, Ranked (2026) Blog Aug 11, 2026 AI Object Removal and Replacement: How to Edit One Object, Not the Whole Image Blog Aug 11, 2026 6 Best AI Background Changers for Product and Brand Imagery (2026) Product Aug 6, 2026 Seedance 2.5: Now Live in Luma Product Aug 6, 2026 MiniMax H3 Available Now Blog Aug 4, 2026 Synthesia Alternatives 2026 Blog Aug 4, 2026 Luma vs Canva Blog Aug 4, 2026 Luma vs Synthesia 2026 Blog Aug 4, 2026 Luma vs Kling Blog Aug 4, 2026 Luma vs Veed Blog Aug 4, 2026 Luma vs HeyGen 2026 Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
+      "Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 18, 2026 Luma vs Kapwing Blog Aug 18, 2026 Luma vs Adobe Firefly (2026) Blog Aug 18, 2026 Luma vs Leonardo AI 2026 Blog Aug 18, 2026 Luma vs Midjourney Company Aug 14, 2026 How FOID AI Studio Uses Luma to Direct Without Limits Company Aug 13, 2026 Luma and Dumbstruck Launch Creative Intelligence for Advertising Blog Aug 13, 2026 10 AI Image Prompts That Produce Portfolio-Quality Results Blog Aug 13, 2026 25 AI Product Photography Prompts for E-commerce Brands (2026) Blog Aug 13, 2026 How to Write AI Video Prompts: The Complete Guide Blog Aug 13, 2026 The AI Image Prompting Guide: How to Get Exactly the Shot You Want Blog Aug 13, 2026 27 Cinematic AI Video Prompts: Shot Types, Lighting, and Film Looks Blog Aug 13, 2026 25 AI Prompts for Video Ads in 2026: Ready-to-Use Examples Blog Aug 13, 2026 50 AI Video Prompts for Every Style, Shot, and Scene Blog Aug 13, 2026 40 Anime AI Prompts for Video and Image Generation Product Aug 11, 2026 Introducing Luma Scenes Blog Aug 11, 2026 Remove Text from an Image with AI (Without Wrecking What's Behind It) Blog Aug 11, 2026 7 Best AI Image Editors for Precision Editing, Ranked (2026) Blog Aug 11, 2026 AI Object Removal and Replacement: How to Edit One Object, Not the Whole Image Blog Aug 11, 2026 6 Best AI Background Changers for Product and Brand Imagery (2026) Product Aug 6, 2026 Seedance 2.5: Now Live in Luma Product Aug 6, 2026 MiniMax H3 Available Now Blog Aug 4, 2026 Synthesia Alternatives 2026 Blog Aug 4, 2026 Luma vs Canva Blog Aug 4, 2026 Luma vs Synthesia 2026 Blog Aug 4, 2026 Luma vs Kling Blog Aug 4, 2026 Luma vs Veed Blog Aug 4, 2026 Luma vs HeyGen 2026 Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
       "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
     ],
     "claims": [
@@ -483,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-17_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-18_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-17T23:18:57.834Z",
+    "publishedAt": "2026-08-18T11:13:27.017Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -515,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-17T23:18:58.558Z",
+    "publishedAt": "2026-08-18T11:13:27.835Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -544,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-17T23:18:57.896Z",
+    "publishedAt": "2026-08-18T11:13:27.312Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -568,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-17_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-18_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-17T23:18:58.429Z",
+    "publishedAt": "2026-08-18T11:13:27.415Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -600,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-17T23:18:58.816Z",
+    "publishedAt": "2026-08-18T11:13:27.870Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -629,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-17T23:18:58.038Z",
+    "publishedAt": "2026-08-18T11:13:27.352Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -654,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-17_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-18_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-17T23:18:58.007Z",
+    "publishedAt": "2026-08-18T11:13:27.139Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -686,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-17T23:19:00.515Z",
+    "publishedAt": "2026-08-18T11:13:29.603Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -711,12 +708,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-17_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-18_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-17T23:18:58.028Z",
+    "publishedAt": "2026-08-18T11:13:27.357Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -743,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-17T23:18:58.129Z",
+    "publishedAt": "2026-08-18T11:13:27.458Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -751,10 +748,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 5 days ago • 35 Sleeper Agents and How to Tame Them tngtech • 5 days ago • 20 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 6 days ago • 14 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 4 days ago • 13 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 6 days ago • 12 FineBooks: are open OCR models good enough to unlock historical knowledge?",
-      "finebooks • 7 days ago • 24 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 5 days ago • 9 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "FINAL-Bench • 3 days ago • 9 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 12 days ago • 26 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 6 days ago • 7 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 4 days ago • 7 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 13 days ago • 90 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 25 days ago • 19 Luth-2: Pushing the French Capabilities of SLMs with MOPD MaxLSB • 7 days ago • 5 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 7 days ago • 6 New imatrix dataset bartowski • about 4 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 896 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 394 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 7 days ago • 5 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 138 Same Cluster, 33 Points More Utilization: What Changed Was the Order 9 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 108 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 23 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 74 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 14 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 43 August 12, 2026 Thinking of ACE?",
-      "We Can Do It with Fewer Tokens 28 August 11, 2026 Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS 29 August 10, 2026 Making Knowledge Distillation Cheap Enough to Run at Scale 30 August 10, 2026 llms vlms meta Meta is back with Muse Glimmer: local, agentic, multimodal, and open source 102 August 10, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 30 August 6, 2026 GPU Management: Why Idle GPUs Are the New Grounded Aircraft 93 July 30, 2026 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 72 July 27, 2026 security Hot Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 474 July 27, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 6 days ago • 35 Sleeper Agents and How to Tame Them tngtech • 5 days ago • 21 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 7 days ago • 14 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 4 days ago • 13 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 6 days ago • 12 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • 3 days ago • 11 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 6 days ago • 9 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 13 days ago • 26 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 7 days ago • 7 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 5 days ago • 7 New imatrix dataset bartowski • about 16 hours ago • 7 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 14 days ago • 90 FineBooks: are open OCR models good enough to unlock historical knowledge?",
+      "finebooks • 8 days ago • 24 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 897 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 25 days ago • 19 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 395 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 21 days ago • 15 Luth-2: Pushing the French Capabilities of SLMs with MOPD MaxLSB • 7 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 8 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 379 Same Cluster, 33 Points More Utilization: What Changed Was the Order 11 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 114 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 24 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 75 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 14 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 43 August 12, 2026 Thinking of ACE?"
     ],
     "claims": [
       {
@@ -768,6 +765,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_ce073b2bb8ec3b27",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+    "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+    "publishedAt": "2026-08-17T23:58:14.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
+      "17th August 2026 - Link Blog Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index ( via ) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B.",
+      "Qwen 3.8 27B is a truly astonishing model .",
+      "Posted 17th August 2026 at 11:58 pm Recent articles Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 This is a link post by Simon Willison, posted on 17th August 2026 ."
+    ],
+    "claims": [
+      {
+        "text": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_65fe4d3216a13085",
@@ -890,42 +917,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_128e4fab722bdeab",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-    "title": "CORS Chat",
-    "publishedAt": "2026-08-15T14:49:54.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Tool: CORS Chat Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "15th August 2026 Tool CORS Chat &mdash; Chat directly with any OpenAI Responses-compatible API endpoint that supports CORS headers, all within your browser.",
-      "Configure endpoints with custom headers, save conversations locally, and manage multiple chat sessions with different models and reasoning settings.",
-      "I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark."
-    ],
-    "claims": [
-      {
-        "text": "Tool: CORS Chat I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine. Conversations are persisted in the browser and can be exported as copy-pasted JSON. One fun detail is that it notices SVG images that are being generated and progressively renders them in the chat while the tokens are still streaming in. Tags: svg , ai , generative-ai , llms , cors , openrouter , lm-studio",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/15/cors-chat/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-17T23:18:58.169Z",
+    "publishedAt": "2026-08-18T11:13:27.566Z",
     "categoryHints": [
       "ai-agentic"
     ],
