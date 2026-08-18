@@ -1,34 +1,34 @@
 [
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-18",
-    "category": "ai-vibe-coding",
-    "topic": "Research \\ Anthropic",
-    "sourceIds": [
-      "src_anthropic-research_15aa8285dd0354e9",
-      "src_langchain-blog_40ded3f923e3291d",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_70c20d21ea21f417"
-    ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, LangChain Blog, GitHub Copilot Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
     "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-18",
     "category": "ai-agentic",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
       "src_simonwillison-blog_65fe4d3216a13085",
+      "src_langchain-blog_40ded3f923e3291d",
+      "src_simonwillison-blog_ec53fde0e2f5d24b",
       "src_simonwillison-blog_098eda7d43f49ca2",
-      "src_simonwillison-blog_98099f05af82a3a5",
       "src_simonwillison-blog_ce073b2bb8ec3b27",
-      "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_pika-blog_faa536f0db7dac04"
+      "src_huggingface-blog_af185e1e7e4dfbac"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-18",
+    "category": "ai-vibe-coding",
+    "topic": "Research \\ Anthropic",
+    "sourceIds": [
+      "src_anthropic-research_15aa8285dd0354e9",
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_simonwillison-blog_70c20d21ea21f417",
+      "src_replit-blog_2c607cbee6384da3"
+    ],
+    "articleWorthinessScore": 1,
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -61,34 +61,35 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-18",
+    "clusterId": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-18",
     "category": "ai-vibe-coding",
-    "topic": "The Official Blog | Replit",
+    "topic": "What's New in Cursor — Latest Updates & Release Notes",
     "sourceIds": [
-      "src_replit-blog_2c607cbee6384da3",
       "src_cursor-changelog_99cdbb7e2d70df11",
+      "src_reddit-aiagents_ec4935f5ac6ff5e7",
+      "src_reddit-stablediffusion_2026-08-18_fallback",
       "src_vercel-ai-blog_2026-08-18_fallback"
     ],
-    "articleWorthinessScore": 0.86,
-    "reasonSelected": "Score 0.86 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, Cursor Changelog, Vercel AI Blog.",
+    "articleWorthinessScore": 0.83,
+    "reasonSelected": "Score 0.83 from 4 source item(s), 2 live crawl(s), strongest sources: Cursor Changelog, r/AI_Agents, r/StableDiffusion.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_have-you-attempted-any-advanced-maker-checker-systems-where-both_2026-08-18",
+    "clusterId": "cluster_ai-agentic_2_blog-pika_2026-08-18",
     "category": "ai-agentic",
-    "topic": "Have you attempted any advanced maker-checker systems? where both the maker a...",
+    "topic": "Blog | Pika",
     "sourceIds": [
-      "src_reddit-aiagents_e02d9e46d16bf8a4",
-      "src_reddit-aiagents_1ce8faa8997fae0f",
-      "src_reddit-aiagents_fffc0200fd71340d",
+      "src_pika-blog_faa536f0db7dac04",
+      "src_reddit-aiagents_4c86a47813674e7a",
+      "src_reddit-aiagents_1a2b46ae78c937e1",
       "src_reddit-aiagents_ba0a372a0af23eaa",
       "src_reddit-aiagents_6a455bd719766a99",
       "src_openai-blog_2026-08-18_fallback",
       "src_mcp-blog_2026-08-18_fallback"
     ],
-    "articleWorthinessScore": 0.79,
-    "reasonSelected": "Score 0.79 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.81,
+    "reasonSelected": "Score 0.81 from 7 source item(s), 5 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -98,12 +99,11 @@
     "topic": "AI signal",
     "sourceIds": [
       "src_stability-ai-blog_2026-08-18_fallback",
-      "src_reddit-stablediffusion_2026-08-18_fallback",
       "src_reddit-comfyui_2026-08-18_fallback",
       "src_reddit-midjourney_2026-08-18_fallback"
     ],
-    "articleWorthinessScore": 0.44,
-    "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
+    "articleWorthinessScore": 0.37,
+    "reasonSelected": "Score 0.37 from 3 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/comfyui, r/midjourney.",
     "confidence": "low",
     "selectedForGeneration": true
   },

@@ -5,15 +5,15 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-18T11:13:27.746Z",
+    "publishedAt": "2026-08-18T23:17:58.562Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
       "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely LLM Gateway Control agent model calls No-Code Agents Fleet Agents for the whole company Open Source Agent Frameworks deepagents Build long-running agents for complex tasks langgraph Build agents with low-level control langchain Quick start agents with any model provider Coding Agent dcode The coding agent you own Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you!",
       "Something went wrong while submitting the form.",
-      "Harrison's In the Loop Why managed agents are the next big thing in agent building Harrison Chase August 12, 2026 6 min No items found.",
-      "LangSmith LLM Gateway: runtime controls for production agents Martha Janicki Ramon Petgrave July 30, 2026 7 min Harrison's In the Loop What does it mean to \"own your intelligence\"?"
+      "Harrison's In the Loop What does it mean to \"own your intelligence\"?",
+      "Harrison Chase July 25, 2026 9 min LangSmith Observability & Evals Introducing LangSmith Tuned Evaluators, starting with Perceived Error Jake Broekhuizen Shamik Karkhanis Vivek Trivedy August 18, 2026 5 min No items found."
     ],
     "claims": [
       {
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-18T11:13:26.914Z",
+    "publishedAt": "2026-08-18T23:17:57.901Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-18T11:13:26.752Z",
+    "publishedAt": "2026-08-18T23:17:57.776Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-18T11:13:27.165Z",
+    "publishedAt": "2026-08-18T23:17:58.248Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_fffc0200fd71340d",
+    "sourceId": "src_reddit-aiagents_ec4935f5ac6ff5e7",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vrc6u1/memory_vs_a_good_ol_markdown_file/",
-    "title": "\"Memory\" vs. a good ol markdown file",
-    "publishedAt": "2026-08-18T02:14:00.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vs01u2/how_are_you_detecting_new_prompt_injection/",
+    "title": "How are you detecting new prompt injection patterns after launch?",
+    "publishedAt": "2026-08-18T19:53:50.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I keep seeing agent these memory systems everywhere.",
-      "My question is, are these overly complex retrieval mechanismsreally necessary when I can just give my agents a good markdown file?",
-      "Where have you found proper memory infrastructure genuinely better than a file the agent updates itself?",
-      "submitted by /u/mageblex [link] [comments]"
+      "I’d like to be able to detect the drift of a semantic pattern without creating an issue out of every single strange thing being reported.Trace-level safety scores can point out anything strange going on within retrievals, reasoning, and tool calls.",
+      "Semantic search can help detect variations of any indirect injection that is known.",
+      "The topic clustering can bring up a new group of probes.",
+      "The problem with sampling the scores is that something very serious could be missed."
     ],
     "claims": [
       {
-        "text": "I keep seeing agent these memory systems everywhere. My question is, are these overly complex retrieval mechanismsreally necessary when I can just give my agents a good markdown file? Where have you found proper memory infrastructure genuinely better than a file the agent updates itself? submitted by /u/mageblex [link] [comments]",
+        "text": "I’d like to be able to detect the drift of a semantic pattern without creating an issue out of every single strange thing being reported.Trace-level safety scores can point out anything strange going on within retrievals, reasoning, and tool calls. Semantic search can help detect variations of any indirect injection that is known. The topic clustering can bring up a new group of probes. The problem with sampling the scores is that something very serious could be missed. Braintrust may be a possible choice we consider for safety scoring, semantic trace searching, sampled online evaluation, topic clustering, and elevation of suspicious traces to adversarial regression datasets. The hardware is the easy part to describe. Scorer thresholds and false positives are the actual operations problem. A research corpus can legitimately contain text about bypassing instructions and a model discussing an attack is different from a model obeying it. I think the attack taxonomy also needs to include behavior, not just payload wording. Did the agent expose a secret, widen tool scope, skip a confirmation step, or persist attacker controlled state across turns? How do you find new injection patterns after launch and what evidence is strong enough to promote a trace into the regression suite? submitted by /u/CommercialTerm9943 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vrc6u1/memory_vs_a_good_ol_markdown_file/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vs01u2/how_are_you_detecting_new_prompt_injection/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_e02d9e46d16bf8a4",
+    "sourceId": "src_reddit-aiagents_1a2b46ae78c937e1",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vrgdpj/have_you_attempted_any_advanced_makerchecker/",
-    "title": "Have you attempted any advanced maker-checker systems? where both the maker and checkers are Claude based agents?",
-    "publishedAt": "2026-08-18T05:43:52.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vs06i6/open_sourcing_the_coding_agent_harness_i_started/",
+    "title": "Open sourcing the coding agent harness I started an year ago",
+    "publishedAt": "2026-08-18T19:58:33.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I have recently made a multi-agent system where there are a few maker agents who \"make\" the blogs for my hobby site (The Internet Ninja), they basically are collecting and verifying sources of all kinds of performance and automation claims that the system finds online.",
-      "once the content is created the checker agents are supposed to check to confirm the source validity, recency, accuracy of context etc.",
-      "I have been seeing great results at about 88-92% accuracy depending on topic and data availability but I would like to keep the graph at or over 95% accuracy.",
-      "submitted by /u/The_Nindo [link] [comments]"
+      "Hi, I built an open-source, self-hosted workspace for coding agents.",
+      "It features a multi-agent architecture (Sub/Child agents), an AST-aware ChromaDB indexer for lightning-fast file discovery, and a built-in UI with Git diff management.",
+      "Links in the comments submitted by /u/anchit_rana [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I have recently made a multi-agent system where there are a few maker agents who \"make\" the blogs for my hobby site (The Internet Ninja), they basically are collecting and verifying sources of all kinds of performance and automation claims that the system finds online. once the content is created the checker agents are supposed to check to confirm the source validity, recency, accuracy of context etc. I have been seeing great results at about 88-92% accuracy depending on topic and data availability but I would like to keep the graph at or over 95% accuracy. Any suggestions? submitted by /u/The_Nindo [link] [comments]",
+        "text": "Hi, I built an open-source, self-hosted workspace for coding agents. It features a multi-agent architecture (Sub/Child agents), an AST-aware ChromaDB indexer for lightning-fast file discovery, and a built-in UI with Git diff management. Links in the comments submitted by /u/anchit_rana [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vrgdpj/have_you_attempted_any_advanced_makerchecker/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vs06i6/open_sourcing_the_coding_agent_harness_i_started/"
       }
     ],
     "usableFor": [
@@ -225,26 +224,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_1ce8faa8997fae0f",
+    "sourceId": "src_reddit-aiagents_4c86a47813674e7a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vrkm2z/what_do_you_use_to_setup_agents/",
-    "title": "What do you use to setup agents?",
-    "publishedAt": "2026-08-18T09:49:46.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vrtwp6/can_we_restrict_posting_for_new_and_lowkarma/",
+    "title": "Can we restrict posting for new and low-karma accounts? The sub is getting spammed by bots promoting AI websites.",
+    "publishedAt": "2026-08-18T16:19:28.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Hi, relatively easy/noobie question but I’m wondering what tool/software I should use to set up AI Agents.",
-      "I currently have Claude Pro license but I don’t see the possibility to setup an autonomous agent in Claude.",
-      "First touch with Agents referred me to OpenClaw (few months ago) but there were risks involved regarding my hardware & personal data… Now I see “hermes”?",
-      "Advice me the best practices, thank you very much 😉 submitted by /u/SimonBelgium [link] [comments]"
+      "At one point we used to come to Reddit and get great information, but it's all AI slop now.",
+      "So I looked at the accounts making these comments, and they are all just new accounts or accounts with low karma I can show you examples, but that would just be me promoting their ai slop site submitted by /u/iNeedJusticeS [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Hi, relatively easy/noobie question but I’m wondering what tool/software I should use to set up AI Agents. I currently have Claude Pro license but I don’t see the possibility to setup an autonomous agent in Claude. First touch with Agents referred me to OpenClaw (few months ago) but there were risks involved regarding my hardware & personal data… Now I see “hermes”? Advice me the best practices, thank you very much 😉 submitted by /u/SimonBelgium [link] [comments]",
+        "text": "It's all slop, and I'm so tired of it. At one point we used to come to Reddit and get great information, but it's all AI slop now. So I looked at the accounts making these comments, and they are all just new accounts or accounts with low karma I can show you examples, but that would just be me promoting their ai slop site submitted by /u/iNeedJusticeS [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vrkm2z/what_do_you_use_to_setup_agents/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vrtwp6/can_we_restrict_posting_for_new_and_lowkarma/"
       }
     ],
     "usableFor": [
@@ -259,7 +256,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-18T11:13:27.038Z",
+    "publishedAt": "2026-08-18T23:17:58.113Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +282,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-18T11:13:27.901Z",
+    "publishedAt": "2026-08-18T23:17:58.647Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +310,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-18T11:13:27.167Z",
+    "publishedAt": "2026-08-18T23:17:58.109Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,13 +341,16 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-18T11:13:26.916Z",
+    "publishedAt": "2026-08-18T23:17:57.987Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
     ],
     "keyFacts": [
-      "Live crawl was unavailable, so the pipeline preserved source coverage for local verification."
+      "2026-08-18T23:18:00+00:00 https://www.redditstatic.com/icon.png/ /r/StableDiffusion/.rss /r/StableDiffusion is an unofficial community embracing the open-source material of all related.",
+      "Post art, ask questions, create discussions, contribute new tech, or browse the subreddit.",
+      "StableDiffusion /u/ctrl-shift-face https://www.reddit.com/user/ctrl-shift-face &#32; submitted by &#32; /u/ctrl-shift-face [link] &#32; [comments] t3_1vrwraw 2026-08-18T17:57:56+00:00 2026-08-18T17:57:56+00:00 Steve Jobs reviews the Magic Mouse /u/bstr3k https://www.reddit.com/user/bstr3k Small video trimmer software was very popular 15-20 years ago but now it has become very rare to find a good one which has all the features I wanted.",
+      "I got Claude to vibe code me a tool that I have been using to snip bits off from long videos for using it as Ref2V input for MiniMax H3."
     ],
     "claims": [
       {
@@ -363,7 +363,7 @@
       "article",
       "prompt-workflow"
     ],
-    "copyrightRisk": "low"
+    "copyrightRisk": "medium"
   },
   {
     "sourceId": "src_reddit-comfyui_2026-08-18_fallback",
@@ -371,7 +371,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-18T11:13:26.920Z",
+    "publishedAt": "2026-08-18T23:17:58.008Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-18T11:13:27.693Z",
+    "publishedAt": "2026-08-18T23:17:58.519Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-18T11:13:27.788Z",
+    "publishedAt": "2026-08-18T23:17:58.571Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-18T11:13:28.351Z",
+    "publishedAt": "2026-08-18T23:17:59.619Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -485,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-18T11:13:27.017Z",
+    "publishedAt": "2026-08-18T23:17:58.092Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-18T11:13:27.835Z",
+    "publishedAt": "2026-08-18T23:17:58.584Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-18T11:13:27.312Z",
+    "publishedAt": "2026-08-18T23:17:58.178Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -570,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-18T11:13:27.415Z",
+    "publishedAt": "2026-08-18T23:17:58.447Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,13 +597,13 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-18T11:13:27.870Z",
+    "publishedAt": "2026-08-18T23:17:58.695Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "The Official Blog | Replit Agent 4 Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Agent 4 Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Replit Blog Thu, Jul 16, 2026 • Featured The Self-Driving Company We are beginning to see what happens when a company learns to operate itself.",
-      "All Design Events AI Product Engineering Infrastructure News Builder Spotlight Edu Data *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Mon, Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans.",
+      "The Official Blog | Replit Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Replit Blog Thu, Jul 16, 2026 • Featured The Self-Driving Company We are beginning to see what happens when a company learns to operate itself.",
+      "All AI Builder Spotlight Design Edu Engineering Enterprise Events Infrastructure News Product *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Mon, Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans.",
       "Sun, Aug 16, 2026 Govern Replit at scale New Enterprise Governance tools for Replit Mon, Aug 3, 2026 AI adoption starts with truth The semantic layer is the foundation AI adoption is limited by trust.",
       "A user who gets burned by a confidently wrong answer will double-check the next one, eventually routing consequential work around the system entirely."
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-18T11:13:27.352Z",
+    "publishedAt": "2026-08-18T23:17:58.267Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -656,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-18T11:13:27.139Z",
+    "publishedAt": "2026-08-18T23:17:58.238Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-18T11:13:29.603Z",
+    "publishedAt": "2026-08-18T23:18:00.239Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -713,7 +713,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-18T11:13:27.357Z",
+    "publishedAt": "2026-08-18T23:17:58.259Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-18T11:13:27.458Z",
+    "publishedAt": "2026-08-18T23:17:58.352Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,10 +748,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 6 days ago • 35 Sleeper Agents and How to Tame Them tngtech • 5 days ago • 21 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 7 days ago • 14 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 4 days ago • 13 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 6 days ago • 12 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "FINAL-Bench • 3 days ago • 11 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 6 days ago • 9 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 13 days ago • 26 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 7 days ago • 7 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 5 days ago • 7 New imatrix dataset bartowski • about 16 hours ago • 7 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 14 days ago • 90 FineBooks: are open OCR models good enough to unlock historical knowledge?",
-      "finebooks • 8 days ago • 24 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 897 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 25 days ago • 19 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 395 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 21 days ago • 15 Luth-2: Pushing the French Capabilities of SLMs with MOPD MaxLSB • 7 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 8 days ago • 5 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 379 Same Cluster, 33 Points More Utilization: What Changed Was the Order 11 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 114 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 24 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 75 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 14 August 12, 2026 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 43 August 12, 2026 Thinking of ACE?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 6 days ago • 35 Sleeper Agents and How to Tame Them tngtech • 6 days ago • 21 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 5 days ago • 13 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 7 days ago • 12 Thinking of ACE?",
+      "We Can Do It with Fewer Tokens ibm-research • 7 days ago • 28 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • 4 days ago • 11 New imatrix dataset bartowski • 1 day ago • 10 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 7 days ago • 14 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 6 days ago • 9 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 13 days ago • 26 Beyond the Aggregate Score: Per-Country Domain Shift in the GWHD Wheat Head Detection Model Zoo dronefreak • 7 days ago • 7 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 5 days ago • 7 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 14 days ago • 90 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 897 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 26 days ago • 19 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 8 days ago • 7 FineBooks: are open OCR models good enough to unlock historical knowledge?",
+      "finebooks • 8 days ago • 24 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 379 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 138 How Much Memory Does Your Agent Actually Need?"
     ],
     "claims": [
       {
@@ -765,6 +765,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_ec53fde0e2f5d24b",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+    "title": "Mojo🔥 is now open source",
+    "publishedAt": "2026-08-18T21:39:20.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Mojo🔥 is now open source Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
+      "18th August 2026 - Link Blog Mojo🔥 is now open source ( via ) Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 .",
+      "Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license.",
+      "When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem."
+    ],
+    "claims": [
+      {
+        "text": "Mojo🔥 is now open source Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025 : Mojo may or may not evolve into a full superset of Python, and it’s okay if it doesn’t. We’re encouraged by how well AI-assisted coding tools already help migrate Python to Mojo today, and we’re confident that future tooling and ecosystem maturity will make this evolution even smoother. Today Mojo is its own language, optimized to make GPU programming as painless as possible using syntax inspired by Python, if not 100% compatible with existing code. Via Lobste.rs Tags: open-source , python , mojo",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_ce073b2bb8ec3b27",
@@ -887,42 +917,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_98099f05af82a3a5",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
-    "title": "Quoting Dario Amodei",
-    "publishedAt": "2026-08-16T15:05:36.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Dario Amodei Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "16th August 2026 I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks.",
-      "I think it is fundamentally a crisis of trust.",
-      "I think that ordinary people don’t trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over."
-    ],
-    "claims": [
-      {
-        "text": "I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fundamentally a crisis of trust. I think that ordinary people don’t trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over. The causes of this go back decades and AI is just the latest iteration of it. I don’t think that a glitzy marketing campaign with a positive spin (which some have advocated that Anthropic do) is the way to win back that trust — at this point, saying that AI will cure cancer is more a cliche than it is inspiring, and most people think it is deceptive. The thing that will work is actually curing cancer . I think by far the most accurate criticism of AI companies including Anthropic is that we haven’t yet delivered on our big promises to benefit the world. That is totally on us, and I think it’s the criticism you should be making, instead of all this stuff about messaging and marketing. &mdash; Dario Amodei Tags: anthropic , ai , ai-backlash",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-18T11:13:27.566Z",
+    "publishedAt": "2026-08-18T23:17:58.366Z",
     "categoryHints": [
       "ai-agentic"
     ],
