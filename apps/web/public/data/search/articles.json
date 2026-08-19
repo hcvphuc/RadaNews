@@ -320,61 +320,61 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-18_vi",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-19_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Runway Research, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Video",
-      "World-Models",
-      "Agentic-AI",
       "RunwayAI",
-      "LLM-Optimization"
+      "AIAgents",
+      "MojoLang",
+      "VLM",
+      "WorldModels"
     ],
-    "publishedAt": "2026-08-18T23:18:23.298Z",
+    "publishedAt": "2026-08-19T11:13:50.475Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-08-18"
+    "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-08-19"
   },
   {
-    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-18_en",
+    "id": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-19_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, Runway Research, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "World Models",
-      "AI Video",
+      "AI-Video",
+      "Agentic-AI",
+      "World-Models",
       "Mojo",
-      "Agentic AI",
-      "Model Efficiency"
+      "VLM"
     ],
-    "publishedAt": "2026-08-18T23:18:58.056Z",
-    "readingTime": 3,
-    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-08-18"
+    "publishedAt": "2026-08-19T11:14:44.845Z",
+    "readingTime": 4,
+    "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-08-19"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-18_vi",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-19_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "local-llm",
-      "qwen",
-      "vibe-coding",
-      "ai-agents",
-      "reasoning-ai"
+      "Local-LLM",
+      "Qwen",
+      "Vibe-Coding",
+      "AI-Agents",
+      "Reasoning"
     ],
-    "publishedAt": "2026-08-18T23:18:27.449Z",
+    "publishedAt": "2026-08-19T11:13:41.019Z",
     "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-18"
+    "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-19"
   },
   {
-    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-18_en",
+    "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-19_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
@@ -382,17 +382,17 @@
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "local-llms",
-      "ai-agents",
       "vibe-coding",
       "qwen",
+      "ai-agents",
       "inference-optimization"
     ],
-    "publishedAt": "2026-08-18T23:19:09.267Z",
-    "readingTime": 4,
-    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-08-18"
+    "publishedAt": "2026-08-19T11:14:26.975Z",
+    "readingTime": 3,
+    "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-08-19"
   },
   {
-    "id": "cluster_ai-image_1_blog-replicate_2026-08-18_vi",
+    "id": "cluster_ai-image_1_blog-replicate_2026-08-19_vi",
     "lang": "vi",
     "category": "ai-image",
     "categoryLabel": "AI Image",
@@ -400,107 +400,71 @@
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Replicate Blog, ComfyUI Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "FLUX 3",
-      "AI-Video",
+      "Generative AI",
       "Multimodal AI",
-      "On-device AI",
-      "Generative Art"
+      "ComfyUI",
+      "AI Video"
     ],
-    "publishedAt": "2026-08-18T23:18:56.649Z",
+    "publishedAt": "2026-08-19T11:13:22.082Z",
     "readingTime": 4,
-    "url": "/vi/ai-image/blog-replicate-goc-nhin-cho-creator-va-builder-2026-08-18"
+    "url": "/vi/ai-image/blog-replicate-goc-nhin-cho-creator-va-builder-2026-08-19"
   },
   {
-    "id": "cluster_ai-image_1_blog-replicate_2026-08-18_en",
+    "id": "cluster_ai-image_1_blog-replicate_2026-08-19_en",
     "lang": "en",
     "category": "ai-image",
     "categoryLabel": "AI Image",
     "title": "Blog – Replicate: creator and builder analysis",
     "subtitle": "Signal synthesized from Black Forest Labs, Replicate Blog, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
-      "multimodal-ai",
-      "FLUX-3",
-      "generative-video",
-      "visual-intelligence",
-      "ai-aesthetics"
+      "FLUX 3",
+      "Multimodal AI",
+      "Generative Video",
+      "On-Device AI",
+      "Visual Intelligence"
     ],
-    "publishedAt": "2026-08-18T23:19:37.280Z",
+    "publishedAt": "2026-08-19T11:14:14.155Z",
     "readingTime": 4,
-    "url": "/en/ai-image/blog-replicate-creator-and-builder-analysis-2026-08-18"
+    "url": "/en/ai-image/blog-replicate-creator-and-builder-analysis-2026-08-19"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-08-18_vi",
+    "id": "cluster_ai-video_1_news-luma_2026-08-19_vi",
     "lang": "vi",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "News | Luma: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Luma Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ r/comfyui, Luma Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "LumaAI",
-      "KlingAI",
-      "AIVideo",
-      "CreativeWorkflow",
-      "GenerativeAI"
+      "Luma AI",
+      "Kling AI",
+      "AI Video",
+      "Generative AI",
+      "Creative Workflow"
     ],
-    "publishedAt": "2026-08-18T23:18:36.363Z",
+    "publishedAt": "2026-08-19T11:14:01.547Z",
     "readingTime": 4,
-    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-18"
+    "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-19"
   },
   {
-    "id": "cluster_ai-video_1_news-luma_2026-08-18_en",
+    "id": "cluster_ai-video_1_news-luma_2026-08-19_en",
     "lang": "en",
     "category": "ai-video",
     "categoryLabel": "AI Video",
     "title": "News | Luma: creator and builder analysis",
-    "subtitle": "Signal synthesized from Luma Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from r/comfyui, Luma Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Video",
-      "Luma AI",
-      "Kling AI",
-      "Generative Video",
-      "Creative Workflows"
+      "AI-Video",
+      "LumaAI",
+      "KlingAI",
+      "CreativeWorkflows",
+      "Cinematography"
     ],
-    "publishedAt": "2026-08-18T23:19:13.457Z",
+    "publishedAt": "2026-08-19T11:14:55.325Z",
     "readingTime": 4,
-    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-08-18"
+    "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-08-19"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-18_vi",
-    "lang": "vi",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, r/StableDiffusion, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
-    "tags": [
-      "CursorAI",
-      "VibeCoding",
-      "AIAgents",
-      "SoftwareDevelopment",
-      "PromptInjection"
-    ],
-    "publishedAt": "2026-08-18T23:18:45.763Z",
-    "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-08-18"
-  },
-  {
-    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-18_en",
-    "lang": "en",
-    "category": "ai-vibe-coding",
-    "categoryLabel": "AI Vibe Coding",
-    "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, r/StableDiffusion, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
-    "tags": [
-      "Cursor",
-      "VibeCoding",
-      "AI-Agents",
-      "SoftwareEngineering",
-      "Origin"
-    ],
-    "publishedAt": "2026-08-18T23:19:28.811Z",
-    "readingTime": 4,
-    "url": "/en/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-08-18"
-  },
-  {
-    "id": "cluster_ai-agentic_2_blog-pika_2026-08-18_vi",
+    "id": "cluster_ai-agentic_2_blog-pika_2026-08-19_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
@@ -509,30 +473,66 @@
     "tags": [
       "AI-Video",
       "AI-Agents",
-      "Pika-Labs",
-      "Multi-Agent-Systems",
-      "AI-Audio"
+      "SaaS",
+      "PikaLabs",
+      "Multimodal-AI"
     ],
-    "publishedAt": "2026-08-18T23:18:43.963Z",
+    "publishedAt": "2026-08-19T11:13:30.565Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/blog-pika-goc-nhin-cho-creator-va-builder-2026-08-18"
+    "url": "/vi/ai-agentic/blog-pika-goc-nhin-cho-creator-va-builder-2026-08-19"
   },
   {
-    "id": "cluster_ai-agentic_2_blog-pika_2026-08-18_en",
+    "id": "cluster_ai-agentic_2_blog-pika_2026-08-19_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "Blog | Pika: creator and builder analysis",
     "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Pika Labs Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-video",
       "ai-agents",
       "multimodal-ai",
-      "generative-audio",
-      "developer-tools"
+      "saas-evolution",
+      "pika-labs",
+      "agentic-workflows"
     ],
-    "publishedAt": "2026-08-18T23:19:20.628Z",
+    "publishedAt": "2026-08-19T11:14:33.329Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/blog-pika-creator-and-builder-analysis-2026-08-18"
+    "url": "/en/ai-agentic/blog-pika-creator-and-builder-analysis-2026-08-19"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-19_vi",
+    "lang": "vi",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Cursor Changelog, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "tags": [
+      "Cursor",
+      "VibeCoding",
+      "AIAgents",
+      "SoftwareDevelopment",
+      "Origin"
+    ],
+    "publishedAt": "2026-08-19T11:14:11.188Z",
+    "readingTime": 5,
+    "url": "/vi/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-goc-n-2026-08-19"
+  },
+  {
+    "id": "cluster_ai-vibe-coding_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-19_en",
+    "lang": "en",
+    "category": "ai-vibe-coding",
+    "categoryLabel": "AI Vibe Coding",
+    "title": "What's New in Cursor — Latest Updates & Release Notes: creator and builder analysis",
+    "subtitle": "Signal synthesized from r/AI_Agents, Cursor Changelog, Vercel AI Blog, scored by recency, content depth, and source reliability.",
+    "tags": [
+      "cursor",
+      "vibe-coding",
+      "ai-agents",
+      "software-development",
+      "origin"
+    ],
+    "publishedAt": "2026-08-19T11:15:13.145Z",
+    "readingTime": 4,
+    "url": "/en/ai-vibe-coding/what-s-new-in-cursor-latest-updates-release-notes-creat-2026-08-19"
   }
 ]
