@@ -1,21 +1,20 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-08-20",
+    "clusterId": "cluster_ai-agentic_1_a-shot-scraper-style-json-api-on-bun-1-4-s-new-bun-webview_2026-08-20",
     "category": "ai-agentic",
-    "topic": "AI Video Research & Innovation | Runway AI",
+    "topic": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
     "sourceIds": [
-      "src_runway-research_4c72ae34dd32cd2b",
+      "src_simonwillison-blog_34e6e834f4779d34",
       "src_simonwillison-blog_86d9a113bd22dd29",
       "src_simonwillison-blog_c6eb5d27bf214726",
       "src_langchain-blog_40ded3f923e3291d",
       "src_simonwillison-blog_acb263357b6b0ede",
       "src_simonwillison-blog_ec53fde0e2f5d24b",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_ce073b2bb8ec3b27",
       "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 9 source item(s), 9 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -25,25 +24,26 @@
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_replit-blog_2c607cbee6384da3"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 2 source item(s), 2 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Replit Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_blog-replicate_2026-08-20",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-08-20",
     "category": "ai-image",
-    "topic": "Blog – Replicate",
+    "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
+      "src_runway-research_4c72ae34dd32cd2b",
       "src_replicate-blog_572c1f4ac9c0ea5c",
       "src_lilianweng-blog_31a2c7baf9b791a5",
-      "src_comfyui-blog_469b943374a61749",
-      "src_black-forest-labs_db0e6d09e99dbd6f"
+      "src_comfyui-blog_469b943374a61749"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Replicate Blog, Lil'Log, ComfyUI Blog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Runway Research, Replicate Blog, Lil'Log.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -66,30 +66,30 @@
     "topic": "Blog | Pika",
     "sourceIds": [
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_8ddb10a59bc2b62e",
-      "src_reddit-aiagents_2e41e9ea85bfe308",
-      "src_reddit-aiagents_1f65d937b0e13fc9",
+      "src_reddit-aiagents_efec30c7ac060723",
+      "src_reddit-aiagents_afca3e9611b1acd3",
+      "src_reddit-aiagents_23f62775c81864a8",
       "src_reddit-aiagents_ba0a372a0af23eaa",
       "src_reddit-aiagents_6a455bd719766a99",
       "src_openai-blog_2026-08-20_fallback",
       "src_mcp-blog_2026-08-20_fallback"
     ],
-    "articleWorthinessScore": 0.85,
-    "reasonSelected": "Score 0.85 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-20",
+    "clusterId": "cluster_ai-vibe-coding_2_blog-black-forest-labs_2026-08-20",
     "category": "ai-vibe-coding",
-    "topic": "The Official Blog | Replit",
+    "topic": "Blog | Black Forest Labs",
     "sourceIds": [
-      "src_replit-blog_2c607cbee6384da3",
+      "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_vercel-ai-blog_2026-08-20_fallback"
     ],
-    "articleWorthinessScore": 0.72,
-    "reasonSelected": "Score 0.72 from 2 source item(s), 1 live crawl(s), strongest sources: Replit Blog, Vercel AI Blog.",
-    "confidence": "high",
+    "articleWorthinessScore": 0.65,
+    "reasonSelected": "Score 0.65 from 2 source item(s), 1 live crawl(s), strongest sources: Black Forest Labs, Vercel AI Blog.",
+    "confidence": "medium",
     "selectedForGeneration": true
   },
   {

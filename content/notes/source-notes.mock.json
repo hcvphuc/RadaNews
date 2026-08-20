@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-20T11:14:40.166Z",
+    "publishedAt": "2026-08-20T23:21:42.241Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-20T11:14:39.394Z",
+    "publishedAt": "2026-08-20T23:21:41.680Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-20T11:14:39.242Z",
+    "publishedAt": "2026-08-20T23:21:41.415Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-20T11:14:39.733Z",
+    "publishedAt": "2026-08-20T23:21:42.143Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_8ddb10a59bc2b62e",
+    "sourceId": "src_reddit-aiagents_efec30c7ac060723",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtfsk2/cleanest_way_youve_found_to_ab_two_models_in_the/",
-    "title": "Cleanest way you've found to A/B two models in the same agent?",
-    "publishedAt": "2026-08-20T10:35:43.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtuj37/four_aiagentpayment_updates_in_the_last_few_days/",
+    "title": "Four AI-agent-payment updates in the last few days: Stripe, Natural, Binance, Chainlink",
+    "publishedAt": "2026-08-20T20:08:53.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I'm building an agent and got stuck on something.",
-      "I wanted to know whether a big model like GLM 5.2 handled the multi-step reasoning better than a smaller cheaper one, or whether the small one was fine and I was about to overpay for nothing.",
-      "In theory, the test would be like this: same agent and same tools, swap only the model, then compare where each one drops instructions or starts looping.",
-      "As simple as the test is, EVERYTHING around it is hard."
+      "Sat/Wed: Stripe acquired OpenRouter (>$7B per Bloomberg).",
+      "Stripe now sits across the major AI-agent-payment standards (ACP, MPP, X402).",
+      "Wed: Natural closed a $100M credit facility from Upper90 (on top of July's $30M Series A).",
+      "Credit lines specifically for AI agents to spend against."
     ],
     "claims": [
       {
-        "text": "I'm building an agent and got stuck on something. I wanted to know whether a big model like GLM 5.2 handled the multi-step reasoning better than a smaller cheaper one, or whether the small one was fine and I was about to overpay for nothing. In theory, the test would be like this: same agent and same tools, swap only the model, then compare where each one drops instructions or starts looping. As simple as the test is, EVERYTHING around it is hard. Two providers meant two SDKs and two auth setups, plus response shapes that differed just enough to matter, and by the time I'd normalized all of it I was debugging my harness instead of the models. Keeping both models behind one OpenAI-compatible endpoint fixed it. I ran them through Featherless, so going from GLM 5.2 to the smaller model is one string in a config file. Same auth and same request shape, the agent code never knows the model changed, which already saved me a lot of time and headaches. The smaller model held up better than I expected on the simple steps and came apart on anything past two hops of reasoning, which confirmed what I had roughly guessed. The small model handles most of the steps fine and only dies on the harder stretch that needs deeper reasoning. Do I route by difficulty, send the easy steps to the small model and the hard ones to GLM 5.2, and take on the routing logic and the classification calls that adds? Or do I run the big model across everything and just eat the cost? If the big model marginally costs a lot more to run compared to what it improves (like if it costs 30% more but only improves performance by 10%), the routing would be in vain and I should just stick to my current smaller model. What should I do? And how can I measure marginal return effectively? TIA!! submitted by /u/PayThemWithBlood [link] [comments]",
+        "text": "Sat/Wed: Stripe acquired OpenRouter (>$7B per Bloomberg). Stripe now sits across the major AI-agent-payment standards (ACP, MPP, X402). Wed: Natural closed a $100M credit facility from Upper90 (on top of July's $30M Series A). Credit lines specifically for AI agents to spend against. Today: Binance launched Agent OS. AI agents (via MCP) can access Binance account data and execute trades on users' behalf. Today: Chainlink Labs' Head of Institutional Strategy told The Block AI agents and robots will drive blockchain transactions. Every one of these solves identity, budget, or routing. Another topic, however, is how payment decisions are traced and verified. submitted by /u/serendip-ml [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtfsk2/cleanest_way_youve_found_to_ab_two_models_in_the/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtuj37/four_aiagentpayment_updates_in_the_last_few_days/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_2e41e9ea85bfe308",
+    "sourceId": "src_reddit-aiagents_afca3e9611b1acd3",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtegv3/what_does_reddit_think_whats_one_boring_ai/",
-    "title": "What Does Reddit Think: What’s one boring AI capability that would completely change your work?",
-    "publishedAt": "2026-08-20T09:21:57.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtyv09/what_i_learned_building_an_outbound_voice_agent/",
+    "title": "What I learned building an outbound voice agent that's handled 50k calls",
+    "publishedAt": "2026-08-20T22:56:13.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Agents can research, code, create content, analyze data, and handle multi-step tasks.",
-      "But honestly, some of the biggest improvements to day-to-day work probably won’t come from the flashy stuff.",
-      "Imagine an AI that could: • Read everything you missed after being out for 2 days and give you only what actually matters • Remember why a decision was made 6 months ago • Notice that you’re doing the same 30-minute task every Monday and quietly automate most of it • Find the one piece of information buried somewhere in your company’s documents that you need right now • Keep track of all the small follow-ups you said you’d do and remind you at the right moment • Understand how you normally work and prepare things before you ask None of these sound particularly exciting compared with “AI builds an app by itself.” But they could potentially save someone hours every week.",
-      "So what’s one boring AI capability you wish actually existed?"
+      "Not a tutorial, just the stuff I wish someone had told me.",
+      "What kills you is everything around it scheduling, compliance windows, DNC, voicemail policy, concurrency limits, and making sure a provider timeout doesn't stall your whole queue.",
+      "Biggest lesson: classification should come from the transcript plus structured output, not from asking the model \"was this a good lead?\" at the end.",
+      "Second: per-lead timezone compliance is non-optional and almost nobody does it."
     ],
     "claims": [
       {
-        "text": "AI demos are getting pretty impressive. Agents can research, code, create content, analyze data, and handle multi-step tasks. But honestly, some of the biggest improvements to day-to-day work probably won’t come from the flashy stuff. Imagine an AI that could: • Read everything you missed after being out for 2 days and give you only what actually matters • Remember why a decision was made 6 months ago • Notice that you’re doing the same 30-minute task every Monday and quietly automate most of it • Find the one piece of information buried somewhere in your company’s documents that you need right now • Keep track of all the small follow-ups you said you’d do and remind you at the right moment • Understand how you normally work and prepare things before you ask None of these sound particularly exciting compared with “AI builds an app by itself.” But they could potentially save someone hours every week. So what’s one boring AI capability you wish actually existed? Not something impressive for a demo. Something that would genuinely make your work or daily life easier. submitted by /u/greatlearningglobal [link] [comments]",
+        "text": "Not a tutorial, just the stuff I wish someone had told me. The agent is the easy part. Prompt it well and it qualifies fine. What kills you is everything around it scheduling, compliance windows, DNC, voicemail policy, concurrency limits, and making sure a provider timeout doesn't stall your whole queue. Biggest lesson: classification should come from the transcript plus structured output, not from asking the model \"was this a good lead?\" at the end. Way more consistent. Second: per-lead timezone compliance is non-optional and almost nobody does it. Lmk if you guys are interested in such projects, I will post more! submitted by /u/PeakDense123 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtegv3/what_does_reddit_think_whats_one_boring_ai/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtyv09/what_i_learned_building_an_outbound_voice_agent/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_1f65d937b0e13fc9",
+    "sourceId": "src_reddit-aiagents_23f62775c81864a8",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtawcj/are_we_giving_ai_agents_too_much_autonomy_too/",
-    "title": "Are we giving AI agents too much autonomy too early?",
-    "publishedAt": "2026-08-20T05:52:29.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtskra/ive_ported_pstack_plugin_to_zcode/",
+    "title": "I've ported pstack plugin to ZCode",
+    "publishedAt": "2026-08-20T19:00:19.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "AI agents are getting better at using tools, making decisions, and completing multi-step workflows.",
-      "But I keep wondering whether the next step should really be giving them more autonomy.",
-      "There are some tasks where mistakes are easy to recover from.",
-      "But for things like changing production data, sending customer communications, approving payments, modifying infrastructure, or making business decisions, one wrong action can create a much bigger problem."
+      "pstack is a plugin made by Lauren Tan from SpaceXAI and its a great plugin for the overall dev workflow with agents, but its too specific to Cursor capabilities.",
+      "I've rewritten some skills to fit better to ZCode and adapted it to the needs of a ZCode plugin, all done with GLM 5.3, and it's being a great experience.",
+      "submitted by /u/frnluckhaos [link] [comments]"
     ],
     "claims": [
       {
-        "text": "AI agents are getting better at using tools, making decisions, and completing multi-step workflows. But I keep wondering whether the next step should really be giving them more autonomy. There are some tasks where mistakes are easy to recover from. But for things like changing production data, sending customer communications, approving payments, modifying infrastructure, or making business decisions, one wrong action can create a much bigger problem. I’m curious how people are approaching this in real projects. Do you prefer: Full autonomy for low-risk tasks Human approval for important actions Strict permissions for every tool Different autonomy levels based on risk Agents that only recommend actions rather than execute them Where do you think the line should be between “the agent can handle this” and “a human needs to approve it”? And has anyone had an agent make a decision that convinced you it needed tighter limits? submitted by /u/owenbrooks473 [link] [comments]",
+        "text": "pstack is a plugin made by Lauren Tan from SpaceXAI and its a great plugin for the overall dev workflow with agents, but its too specific to Cursor capabilities. I've rewritten some skills to fit better to ZCode and adapted it to the needs of a ZCode plugin, all done with GLM 5.3, and it's being a great experience. submitted by /u/frnluckhaos [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtawcj/are_we_giving_ai_agents_too_much_autonomy_too/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtskra/ive_ported_pstack_plugin_to_zcode/"
       }
     ],
     "usableFor": [
@@ -259,7 +258,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-20T11:14:39.520Z",
+    "publishedAt": "2026-08-20T23:21:41.720Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,14 +284,15 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-20T11:14:40.127Z",
+    "publishedAt": "2026-08-20T23:21:42.503Z",
     "categoryHints": [
       "ai-image"
     ],
     "keyFacts": [
-      "Blog | Black Forest Labs Models Research API Open Weights Pricing Enterprise Resources Contact Sales Discover what’s new Models Research FLUX 3 Video, Part 1: Generation FLUX 3 Video, Part 1 August 4, 2026 Read more Models FLUX 3 FLUX.2 Max FLUX.2 FLUX.2 Klein Flux Tools API Documentation Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001:2022 SOC 2 Type II Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.",
-      "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Models Research FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence.",
-      "July 23, 2026 Research Models FLUX 3 x mimic: The Next Generation of Video-Action Models July 23, 2026 News Research Our co-founder and CEO urges G7 leaders to back open innovation June 18, 2026 Customer stories How Envato Built Its Creative AI Engine on FLUX June 17, 2026 Products FLUX.2 is now on device: ASUS ProArt laptops now support Klein models June 4, 2026 News Martin Scorsese is an advisor to Black Forest Labs June 3, 2026 Models News Research FLUX VTO: Virtual Try-On at scale May 28, 2026 Products FLUX Erase: Remove anything, leave no trace May 21, 2026 Products FLUX Outpainting: Extend any image, in any direction May 14, 2026 1 2 3"
+      "Blog | Black Forest Labs Models Research API Open Weights Pricing Enterprise Resources Contact Sales Discover what’s new Products Models FLUX Upscale: 2K and 4K for Video FLUX Upscale takes any video and regenerates it at a higher resolution, up to native 4K, now available as its own FLUX Tool and endpoint.",
+      "August 20, 2026 Read more Models FLUX 3 FLUX.2 Max FLUX.2 FLUX.2 Klein FLUX Tools API Documentation Dashboard Status Open Weights Licensing Hugging Face GitHub Resources Documentation Help Desk Blog Creator Program Brand GitHub Company About Us Careers Trust and Security Contact Us ISO 27001:2022 SOC 2 Type II Enterprise Learn More Contact Sales Legal Imprint Terms of Service Usage Policy Privacy Policy Intellectual Property Policy Developer Terms of Service FLUX API Service Terms Self-Hosted Terms of Service Non-Commercial License Terms Responsible AI Development Policy All rights reserved.",
+      "All Posts Select a category All Customer stories Models News Products Research All Customer stories Models News Products Research Models Research FLUX 3 Video, Part 1: Generation August 4, 2026 Models Research FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence.",
+      "July 23, 2026 Research Models FLUX 3 x mimic: The Next Generation of Video-Action Models July 23, 2026 News Research Our co-founder and CEO urges G7 leaders to back open innovation June 18, 2026 Customer stories How Envato Built Its Creative AI Engine on FLUX June 17, 2026 Products FLUX.2 is now on device: ASUS ProArt laptops now support Klein models June 4, 2026 News Martin Scorsese is an advisor to Black Forest Labs June 3, 2026 Models News Research FLUX VTO: Virtual Try-On at scale May 28, 2026 Products FLUX Erase: Remove anything, leave no trace May 21, 2026 1 2 3 4"
     ],
     "claims": [
       {
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-20T11:14:39.670Z",
+    "publishedAt": "2026-08-20T23:21:41.958Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -344,7 +344,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-20T11:14:39.367Z",
+    "publishedAt": "2026-08-20T23:21:41.624Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -371,7 +371,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-20T11:14:39.389Z",
+    "publishedAt": "2026-08-20T23:21:41.645Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-20T11:14:39.946Z",
+    "publishedAt": "2026-08-20T23:21:42.142Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -406,7 +406,7 @@
       "AI Video Research & Innovation | Runway AI Creative Dev Robotics Research Resources Enterprise Pricing Enterprise Sales Login Try Runway Get unlimited Hailuo 3.0 on new Max plans until August 23rd.",
       "Terms Get started Our Research Building general-purpose multimodal simulators of the world.",
       "We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing.",
-      "Latest news from our research Research from Runway September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding."
+      "Latest news from our research Research from Runway July 19, 2026 Runway Characters: Real-Time Expressive AI Characters from a Single Image by Michail Doukas, Taras Khakhulin, Kathleen Lewis, Yining Shi, Michael Tarasiou, Jimei Yang + 28 authors Runway Characters transforms a single reference image of any style, from photorealistic human to cartoon mascot, to a real-time conversational video agent."
     ],
     "claims": [
       {
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-20T11:14:40.260Z",
+    "publishedAt": "2026-08-20T23:21:42.282Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-20T11:14:40.555Z",
+    "publishedAt": "2026-08-20T23:21:43.279Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -485,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-20T11:14:39.481Z",
+    "publishedAt": "2026-08-20T23:21:41.701Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,12 +512,12 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-20T11:14:40.221Z",
+    "publishedAt": "2026-08-20T23:21:42.254Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models Grok Composer Evals Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 19, 2026 · Changelog Cloud Agents and Cursor Harness Improvements We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.",
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models Grok Evals Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 19, 2026 · Changelog Cloud Agents and Cursor Harness Improvements We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.",
       "With this release, cloud agents can automatically pick up work in response to events, hold a goal until it's met, and stay on course through long-running sessions.",
       "# Subscriptions Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks.",
       "Cursor Agent subscribes to an event source (a thread or conversation) and wakes when something happens."
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-20T11:14:39.691Z",
+    "publishedAt": "2026-08-20T23:21:41.718Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -570,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-20T11:14:39.894Z",
+    "publishedAt": "2026-08-20T23:21:42.229Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,15 +597,15 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-20T11:14:40.208Z",
+    "publishedAt": "2026-08-20T23:21:42.420Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "The Official Blog | Replit Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Replit Blog Tue, Aug 18, 2026 • Featured Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
-      "All AI Builder Spotlight Design Edu Engineering Enterprise Events Infrastructure News Product *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Tue, Aug 18, 2026 Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
-      "Mon, Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans.",
-      "Sun, Aug 16, 2026 Govern Replit at scale New Enterprise Governance tools for Replit Mon, Aug 3, 2026 AI adoption starts with truth The semantic layer is the foundation AI adoption is limited by trust."
+      "The Official Blog | Replit Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Careers Contact sales Log in Sign up Products For Work Resources Security Pricing Careers Contact sales Log in Start building Replit Blog Aug 18, 2026 • Featured Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
+      "All AI Builder Spotlight Design Edu Engineering Enterprise Events Infrastructure News Product *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Aug 18, 2026 Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
+      "Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans.",
+      "Aug 16, 2026 Govern Replit at scale New Enterprise Governance tools for Replit Aug 3, 2026 AI adoption starts with truth The semantic layer is the foundation AI adoption is limited by trust."
     ],
     "claims": [
       {
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-20T11:14:39.709Z",
+    "publishedAt": "2026-08-20T23:21:41.814Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -656,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-20T11:14:39.710Z",
+    "publishedAt": "2026-08-20T23:21:41.857Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,15 +683,15 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-20T11:14:42.467Z",
+    "publishedAt": "2026-08-20T23:21:43.807Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
       "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates.",
-      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing How to Create 4K E-commerce Product Videos with AI?",
-      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Jul 30, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model?",
+      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Aug 20, 2026 How to Create 4K E-commerce Product Videos with AI?",
+      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 Baseball AI Video Prompts: How to Generate Epic Baseball Highlight Clips with Kling AI Jul 28, 2026 Cyberpunk AI Prompts: Build Sci-Fi City Visuals with Kling AI Jul 28, 2026 How To Combine AI's Text-To-Image And Image-To-Video Features Jul 27, 2026 How to Make an AI Model?",
       "A Virtual Model Guide Jul 17, 2026 Virtual Influencers: How to Create One Jul 17, 2026 AI Influencer Marketing: A Practical Guide Jul 17, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
     ],
     "claims": [
@@ -713,7 +713,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-20T11:14:39.784Z",
+    "publishedAt": "2026-08-20T23:21:41.909Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-20T11:14:39.816Z",
+    "publishedAt": "2026-08-20T23:21:42.003Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,10 +748,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Sleeper Agents and How to Tame Them tngtech • 7 days ago • 22 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 8 days ago • 45 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 1 day ago • 14 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 6 days ago • 13 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "FINAL-Bench • 5 days ago • 11 New imatrix dataset bartowski • 3 days ago • 10 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 8 days ago • 35 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 7 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 898 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 381 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 9 days ago • 14 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 23 days ago • 16 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 10 days ago • 7 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 27 days ago • 19 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 17 days ago • 12 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 16 days ago • 90 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 8 days ago • 12 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 326 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 140 LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation 27 August 19, 2026 How Much Memory Does Your Agent Actually Need?",
-      "41 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 69 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 16 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 132 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 28 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 92 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 15 August 12, 2026 Thinking of ACE?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 1 day ago • 33 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 8 days ago • 45 Sleeper Agents and How to Tame Them tngtech • 8 days ago • 23 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 2 days ago • 14 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 7 days ago • 13 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • 6 days ago • 11 New imatrix dataset bartowski • 3 days ago • 10 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 7 days ago • 8 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • about 11 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 898 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 381 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 8 days ago • 36 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 8 days ago • 5 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 23 days ago • 16 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 9 days ago • 14 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 16 days ago • 90 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 10 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 10 days ago • 7 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 1 day ago • 3 Up to 3.2x Faster Inference with LFM2.5-DSpark 9 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "48 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 76 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 16 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 134 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 28 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 93 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 15 August 12, 2026 Thinking of ACE?"
     ],
     "claims": [
       {
@@ -765,6 +765,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_34e6e834f4779d34",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+    "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+    "publishedAt": "2026-08-20T15:37:00.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
+      "20th August 2026 Research A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView &mdash; A zero-dependency, roughly 150-line TypeScript service demonstrates that Bun 1.4’s experimental `Bun.WebView` can provide a shot-scraper-style JSON API for JavaScript evaluation and PNG/JPEG/WebP screenshots without Puppeteer or Playwright.",
+      "It creates one browser tab per request, supporting concurrency while returning page results and errors as JSON through `/javascript`, `/screenshot`, and `/healthz`.",
+      "Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago ."
+    ],
+    "claims": [
+      {
+        "text": "Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago . Interestingly, the Rust rewrite was downplayed in the release notes, which introduced a bewildering array of new features and claimed 2,900 additional bug fixes: Bun 1.4 adds +1,517 tests from the Node.js test suite - our biggest jump in Node.js compatibility since Bun 1.0. Bun v1.4 also fixes over 2,900 issues. It reduces idle CPU usage by 5x, reduces memory usage by up to 35%, and starts 50% faster on Linux. It adds Bun.Image , Bun.WebView , Bun.markdown , Bun.cron() , Bun.Terminal , bun run --parallel , bun test --parallel , bun audit fix , bun dedupe , and bun prune . And it rewrites Bun from Zig to Rust. Of these the one that most caught my eye was Bun.WebView , which adds first class support for browser automation to Bun core using either macOS WebKit or control of a local Chromium process via the Chrome DevTools Protocol (CDP). I had Claude Code for web build a prototype of a web API providing the ability to load a web page and then execute JavaScript against it, inspired by my shot-scraper javascript CLI tool - partly to see how much RAM would be needed by such a service. Here's that TypeScript server implementation , which appears to need a 192MB-256MB container to run a full Chrome against complex web pages - tested using cgroups. Tags: browsers , javascript , ai , rust , typescript , generative-ai , llms , coding-agents , bun",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_86d9a113bd22dd29",
@@ -887,42 +917,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_ce073b2bb8ec3b27",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
-    "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-    "publishedAt": "2026-08-17T23:58:14.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "17th August 2026 - Link Blog Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index ( via ) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B.",
-      "Qwen 3.8 27B is a truly astonishing model .",
-      "Posted 17th August 2026 at 11:58 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 17th August 2026 ."
-    ],
-    "claims": [
-      {
-        "text": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-20T11:14:39.813Z",
+    "publishedAt": "2026-08-20T23:21:41.986Z",
     "categoryHints": [
       "ai-agentic"
     ],
