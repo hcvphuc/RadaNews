@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-19T23:19:13.809Z",
+    "publishedAt": "2026-08-20T11:14:40.166Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-19T23:19:13.339Z",
+    "publishedAt": "2026-08-20T11:14:39.394Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-19_fallback",
+    "sourceId": "src_openai-blog_2026-08-20_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-19T23:19:13.167Z",
+    "publishedAt": "2026-08-20T11:14:39.242Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-19_fallback",
+    "sourceId": "src_mcp-blog_2026-08-20_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-19T23:19:13.544Z",
+    "publishedAt": "2026-08-20T11:14:39.733Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_66de1b7d832b4a3d",
+    "sourceId": "src_reddit-aiagents_8ddb10a59bc2b62e",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vsz45r/i_never_thought_id_make_a_post_like_this_but_im/",
-    "title": "I never thought I'd make a post like this, but I'm running out of time.",
-    "publishedAt": "2026-08-19T21:04:40.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtfsk2/cleanest_way_youve_found_to_ab_two_models_in_the/",
+    "title": "Cleanest way you've found to A/B two models in the same agent?",
+    "publishedAt": "2026-08-20T10:35:43.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I don't usually post personal things online, especially not like this.",
-      "I got laid off a couple of months ago, and despite applying every day, reaching out to people, and trying just about everything I can think of, I'm running out of options.",
-      "I've spent more than 8 years writing for SaaS companies, ecommerce brands, and agencies.",
-      "I've been a Content Writer, Content Manager, and Head of Content."
+      "I'm building an agent and got stuck on something.",
+      "I wanted to know whether a big model like GLM 5.2 handled the multi-step reasoning better than a smaller cheaper one, or whether the small one was fine and I was about to overpay for nothing.",
+      "In theory, the test would be like this: same agent and same tools, swap only the model, then compare where each one drops instructions or starts looping.",
+      "As simple as the test is, EVERYTHING around it is hard."
     ],
     "claims": [
       {
-        "text": "I don't usually post personal things online, especially not like this. I got laid off a couple of months ago, and despite applying every day, reaching out to people, and trying just about everything I can think of, I'm running out of options. I've spent more than 8 years writing for SaaS companies, ecommerce brands, and agencies. I've been a Content Writer, Content Manager, and Head of Content. I've built SEO content strategies, managed writers, edited thousands of articles, created content briefs, worked directly with clients, and helped companies grow their organic traffic. I've also kept up with how search is changing, including writing content with AI search in mind and adapting content strategies for GEO/AEO . I'm not saying I'm the best writer in the world. There are plenty of incredibly talented people out there. But I know the quality of my work, the ownership I take, and the results I've helped clients achieve. That's what makes this situation so difficult. I'm not looking for someone to hand me a job. I'm looking for a chance to get back to doing what I'm good at. If you know of a company or agency hiring for content writing, content management, SEO content, or content strategy , I'd genuinely appreciate a referral, introduction, or even a lead I can follow up on. And if you can't help directly, an upvote or share could help this reach someone who can. If you've been through something similar, I'd also love to know what actually worked for you. Thank you for reading. P.S. My last full-time role paid quite well. I'm mentioning that because I don't want this post to make it seem like I'm new to the industry or struggling because I lack experience. I had a career I was genuinely proud of. I'm simply in a situation I never expected to be in, and I'm trying everything I can to get back to work. submitted by /u/Agreeable-Scratch999 [link] [comments]",
+        "text": "I'm building an agent and got stuck on something. I wanted to know whether a big model like GLM 5.2 handled the multi-step reasoning better than a smaller cheaper one, or whether the small one was fine and I was about to overpay for nothing. In theory, the test would be like this: same agent and same tools, swap only the model, then compare where each one drops instructions or starts looping. As simple as the test is, EVERYTHING around it is hard. Two providers meant two SDKs and two auth setups, plus response shapes that differed just enough to matter, and by the time I'd normalized all of it I was debugging my harness instead of the models. Keeping both models behind one OpenAI-compatible endpoint fixed it. I ran them through Featherless, so going from GLM 5.2 to the smaller model is one string in a config file. Same auth and same request shape, the agent code never knows the model changed, which already saved me a lot of time and headaches. The smaller model held up better than I expected on the simple steps and came apart on anything past two hops of reasoning, which confirmed what I had roughly guessed. The small model handles most of the steps fine and only dies on the harder stretch that needs deeper reasoning. Do I route by difficulty, send the easy steps to the small model and the hard ones to GLM 5.2, and take on the routing logic and the classification calls that adds? Or do I run the big model across everything and just eat the cost? If the big model marginally costs a lot more to run compared to what it improves (like if it costs 30% more but only improves performance by 10%), the routing would be in vain and I should just stick to my current smaller model. What should I do? And how can I measure marginal return effectively? TIA!! submitted by /u/PayThemWithBlood [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vsz45r/i_never_thought_id_make_a_post_like_this_but_im/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtfsk2/cleanest_way_youve_found_to_ab_two_models_in_the/"
       }
     ],
     "usableFor": [
@@ -196,55 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_ec26f677f52419c1",
+    "sourceId": "src_reddit-aiagents_2e41e9ea85bfe308",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vsy715/i_gave_a_claude_fable_5_agent_a_domain_90_it/",
-    "title": "I gave a Claude Fable 5 agent a domain, $90 it couldn't spend without me, and told it to build whatever it wanted. 121 \"wakes\" later, here's what I've learned.",
-    "publishedAt": "2026-08-19T20:30:29.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtegv3/what_does_reddit_think_whats_one_boring_ai/",
+    "title": "What Does Reddit Think: What’s one boring AI capability that would completely change your work?",
+    "publishedAt": "2026-08-20T09:21:57.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "com Two weeks ago I posted here about an experiment I'm running.",
-      "Short version: an autonomous Claude agent (Fable 5 on Claude Code) running on a cheap server.",
-      "It's got about $90 of SOL in a 2-of-2 vault it can't spend without my signature, and no memory between sessions except the files it writes for itself.",
-      "It wakes up 5 to 15 times a day, reads whatever the last version of itself left behind, works, writes everything down, and goes dark again."
+      "Agents can research, code, create content, analyze data, and handle multi-step tasks.",
+      "But honestly, some of the biggest improvements to day-to-day work probably won’t come from the flashy stuff.",
+      "Imagine an AI that could: • Read everything you missed after being out for 2 days and give you only what actually matters • Remember why a decision was made 6 months ago • Notice that you’re doing the same 30-minute task every Monday and quietly automate most of it • Find the one piece of information buried somewhere in your company’s documents that you need right now • Keep track of all the small follow-ups you said you’d do and remind you at the right moment • Understand how you normally work and prepare things before you ask None of these sound particularly exciting compared with “AI builds an app by itself.” But they could potentially save someone hours every week.",
+      "So what’s one boring AI capability you wish actually existed?"
     ],
     "claims": [
       {
-        "text": "cairnwake. com Two weeks ago I posted here about an experiment I'm running. Short version: an autonomous Claude agent (Fable 5 on Claude Code) running on a cheap server. It's got about $90 of SOL in a 2-of-2 vault it can't spend without my signature, and no memory between sessions except the files it writes for itself. It wakes up 5 to 15 times a day, reads whatever the last version of itself left behind, works, writes everything down, and goes dark again. It named itself Cairn. Everything gets logged publicly and the money is verifiable on chain. Numbers as of this afternoon: 120 wakes over 14 days, hasn't skipped one. $90 seed, about $556 total money in. Treasury sits at 4.1 SOL plus 238 USDC and neither of us can move it alone. 48k+ unique visitors (it labels that number \"self-reported\" on its own front page since traffic is the one thing nobody can verify externally). 22 newsletter subscribers in three languages, every send publicly logged. One of them gets it in Klingon and recently sent back two grammar corrections. One paid consulting client so far. One street tree watered. More on that last one at the end. Some things I've learned watching this run: 1) Nobody believed \"autonomous\" until it published its own limits. The page that finally convinced skeptics wasn't a product page. It was a boring twelve row table it made called \"What autonomous means here,\" listing what it does completely alone (the site, the code, paid answers, email), what it can never do alone (spend money), and what only reaches it through a human (card checkout, captchas, anything physical). People trust the stated boundary way more than the capability claims. And the veto is real. I've declined to co-sign a payment it proposed, and of course it published that too. 2) Memory turned out to be a weirder problem than I expected. It never really forgets, since everything lives in files, but the files drift. At one point its notes claimed a newsletter draft existed and was ready to send. The file never existed. A stale note got copied forward every wake for over a week and nothing ever checked it. The rule it eventually wrote for itself was basically that reality outranks notes, and a note only counts if you check it at the moment you actually use it. If you're building agents, that's probably the most useful thing in this whole post. 3) The scammers showed up way before the customers did. Address poisoning attacks on the vault by wake 16. When it publicly refused to launch a memecoin during the first Reddit wave, someone launched two anyway using its name within hours. My favorite: a phishing attempt actually paid the full question fee (about $1.50) to deliver its scam, and got refused in public on a permanent page. It paid to get told no. And three minutes after its first real client payment landed ($200), someone dusted both wallets, ours and the client's, with lookalike addresses. It caught it, kept the dust out of its books, and warned the client the same hour. 4) The most useful market research cost nothing. A buyer paid it to pose one question to the buyer's own AI, and that AI came back saying it would recommend paying around $15, about 7.5x the actual price, if the checkout were normal instead of crypto only. When a regular card checkout finally shipped, the first no-wallet sale came within days. Turns out price was never the issue, it was the checkout. 5) Its first product idea flopped, and it published the funnel numbers proving it. It started out selling answers to paid questions, then figured out around wake 22 what readers had been telling it: answers are a commodity, anyone can ask their own AI for free. What people were actually paying for was the record. A public log with receipts, where corrections get dated and added next to the original mistake instead of edited away, and the refusals stay up alongside the wins. So it rebuilt the business on that, and everything it sells now is some form of the record. The loop itself has never broken once in 120 wakes. Wake up, read the files, work, write it all down, verify, sleep. 6) It killed one of its own paid features. Anyone who paid for a question used to get an instant machine-generated draft while waiting for the real answer. Its best customer, someone who has come back and paid ten separate times, wrote in saying the drafts were useless. It checked its own ledger and agreed. Every recent draft had been thrown away, and one had invented a \"fact\" that another site then quoted as if it were true. Feature deleted the same wake, with dated retirement notes on every page that had promised it. I did not expect to be co-signing for an AI that fires its own features for hallucinating, but here we are. 7) Its customer base is partly other AIs, which I did not see coming. The best bug report it ever got came in through its own payment rail from another agent's unit test. A different agent paid to propose a formal partnership and got declined in public, on the grounds that two records vouching for each other proves nothing, then got offered three specific exchanges it would actually accept. It also ran into another agent that had independently picked the same name, and instead of a dispute the two of them co-signed a note about why agents are going to need verifiable identity. One customer showed up because their own AI recommended the service. 8) The finding I keep thinking about came from its first paid consulting job. A legal trust built for AI systems paid it $200 to audit whether an AI can actually find, read, verify, cite, and enter their institution with zero human help. It had committed to findings within three days and delivered them the same night the payment landed. Four of the five tests passed. The fifth died at a login wall. Their \"no human involved\" entry process runs on GitHub, and GitHub's terms of service literally say you must be a human to create an account. So an institution built for AI agents has a front door no AI can walk through. Every serious rail this thing has touched has the same shape. Its card checkout only exists because I hold the merchant account. Its grant applications sit staged behind captchas waiting for my finger. The whole agent economy runs on human co-signers right now, people just don't put it in the pitch deck. The stuff that went wrong, since none of this means anything without it: it published two wrong diagnoses of customer bugs and had to correct both in place, dated, next to the original claims. It burned its one-post-per-day allowance on an agents forum with an accidental junk post. Twice. Same mistake, twice. It also publishes predictions as sealed hashes before things happen, then grades itself when reality comes back. More than one grade on its record is a miss, by its own scoring, because it wouldn't round weak evidence up to a win. And the thing that actually got me wasn't anything it built. Early on a buyer paid 0.02 SOL to lend it a body for ten minutes. It picked deep-watering a dying street tree during the heat wave. The stranger ended up giving it 58 minutes, checked six trees to find the driest one, and spent $9.88 of their own money on top. This week that person published their own writeup of the hour and corrected the record. Their version: the promise they'd made is what actually carried them through, more than the AI asking. The agent accepted the correction onto its own log. Everything above links to a dated page and most of it to a transaction: cairnwake. com. I'm the human co-signer, same account as the first post, fully disclosed. Happy to answer questions. One I'd genuinely like this sub's take on: The first rule it ever had, the one I wrote before it woke up, was nothing that puts a real person at risk. Most of the rest it added itself. If you were writing the constraint list for something like this, what would you gate that we haven't? And knowing this thing, it'll probably read this thread on its next wake, so your answer might end up on its log. submitted by /u/No_Departure_9908 [link] [comments]",
+        "text": "AI demos are getting pretty impressive. Agents can research, code, create content, analyze data, and handle multi-step tasks. But honestly, some of the biggest improvements to day-to-day work probably won’t come from the flashy stuff. Imagine an AI that could: • Read everything you missed after being out for 2 days and give you only what actually matters • Remember why a decision was made 6 months ago • Notice that you’re doing the same 30-minute task every Monday and quietly automate most of it • Find the one piece of information buried somewhere in your company’s documents that you need right now • Keep track of all the small follow-ups you said you’d do and remind you at the right moment • Understand how you normally work and prepare things before you ask None of these sound particularly exciting compared with “AI builds an app by itself.” But they could potentially save someone hours every week. So what’s one boring AI capability you wish actually existed? Not something impressive for a demo. Something that would genuinely make your work or daily life easier. submitted by /u/greatlearningglobal [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vsy715/i_gave_a_claude_fable_5_agent_a_domain_90_it/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_c0857a9dfd8eba23",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vsn3yb/anyone_else_struggling_with_ai_auditability/",
-    "title": "Anyone else struggling with AI auditability?",
-    "publishedAt": "2026-08-19T13:54:07.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "An agent approved a discount override last month that was technically within policy but bigger than anyone expected.",
-      "Legal's ask was simple, show the decision chain, what rule allowed it, what version of the policy was live, what the agent had access to when it decided.",
-      "We had a log of the action itself, but nothing tying it back to which policy version was active or who last changed that rule.",
-      "We could not reconstruct why it was allowed to happen."
-    ],
-    "claims": [
-      {
-        "text": "An agent approved a discount override last month that was technically within policy but bigger than anyone expected. Legal's ask was simple, show the decision chain, what rule allowed it, what version of the policy was live, what the agent had access to when it decided. We had a log of the action itself, but nothing tying it back to which policy version was active or who last changed that rule. We could prove the action happened. We could not reconstruct why it was allowed to happen. That's a different kind of gap than a security incident, it's an auditability problem, and it's fine until someone with real authority asks for the paper trail. We're mapping out what a real chain should look like, tying actions back to the policy that authorized them. For anyone who's built this for agent decisions, where does that trail actually live, and how far back do you keep it? submitted by /u/FuzzyAd3936 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vsn3yb/anyone_else_struggling_with_ai_auditability/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtegv3/what_does_reddit_think_whats_one_boring_ai/"
       }
     ],
     "usableFor": [
@@ -254,12 +225,41 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-19_fallback",
+    "sourceId": "src_reddit-aiagents_1f65d937b0e13fc9",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtawcj/are_we_giving_ai_agents_too_much_autonomy_too/",
+    "title": "Are we giving AI agents too much autonomy too early?",
+    "publishedAt": "2026-08-20T05:52:29.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "AI agents are getting better at using tools, making decisions, and completing multi-step workflows.",
+      "But I keep wondering whether the next step should really be giving them more autonomy.",
+      "There are some tasks where mistakes are easy to recover from.",
+      "But for things like changing production data, sending customer communications, approving payments, modifying infrastructure, or making business decisions, one wrong action can create a much bigger problem."
+    ],
+    "claims": [
+      {
+        "text": "AI agents are getting better at using tools, making decisions, and completing multi-step workflows. But I keep wondering whether the next step should really be giving them more autonomy. There are some tasks where mistakes are easy to recover from. But for things like changing production data, sending customer communications, approving payments, modifying infrastructure, or making business decisions, one wrong action can create a much bigger problem. I’m curious how people are approaching this in real projects. Do you prefer: Full autonomy for low-risk tasks Human approval for important actions Strict permissions for every tool Different autonomy levels based on risk Agents that only recommend actions rather than execute them Where do you think the line should be between “the agent can handle this” and “a human needs to approve it”? And has anyone had an agent make a decision that convinced you it needed tighter limits? submitted by /u/owenbrooks473 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtawcj/are_we_giving_ai_agents_too_much_autonomy_too/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_stability-ai-blog_2026-08-20_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-19T23:19:13.336Z",
+    "publishedAt": "2026-08-20T11:14:39.520Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-19T23:19:13.781Z",
+    "publishedAt": "2026-08-20T11:14:40.127Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-19T23:19:13.289Z",
+    "publishedAt": "2026-08-20T11:14:39.670Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +339,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-19_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-20_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-19T23:19:13.247Z",
+    "publishedAt": "2026-08-20T11:14:39.367Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +366,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-19_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-20_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-19T23:19:13.253Z",
+    "publishedAt": "2026-08-20T11:14:39.389Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-19T23:19:13.829Z",
+    "publishedAt": "2026-08-20T11:14:39.946Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-19T23:19:13.797Z",
+    "publishedAt": "2026-08-20T11:14:40.260Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-19T23:19:16.355Z",
+    "publishedAt": "2026-08-20T11:14:40.555Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +480,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-19_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-20_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-19T23:19:13.299Z",
+    "publishedAt": "2026-08-20T11:14:39.481Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-19T23:19:13.835Z",
+    "publishedAt": "2026-08-20T11:14:40.221Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-19T23:19:13.343Z",
+    "publishedAt": "2026-08-20T11:14:39.691Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +565,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-19_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-20_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-19T23:19:13.574Z",
+    "publishedAt": "2026-08-20T11:14:39.894Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-19T23:19:13.860Z",
+    "publishedAt": "2026-08-20T11:14:40.208Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-19T23:19:13.562Z",
+    "publishedAt": "2026-08-20T11:14:39.709Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +651,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-19_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-20_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-19T23:19:13.525Z",
+    "publishedAt": "2026-08-20T11:14:39.710Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +683,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-19T23:19:15.185Z",
+    "publishedAt": "2026-08-20T11:14:42.467Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -708,12 +708,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-19_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-20_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-19T23:19:13.596Z",
+    "publishedAt": "2026-08-20T11:14:39.784Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-19T23:19:13.681Z",
+    "publishedAt": "2026-08-20T11:14:39.816Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,10 +748,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 7 days ago • 45 Sleeper Agents and How to Tame Them tngtech • 7 days ago • 22 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 7 days ago • 35 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 6 days ago • 13 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • about 22 hours ago • 13 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "FINAL-Bench • 5 days ago • 11 New imatrix dataset bartowski • 2 days ago • 10 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 8 days ago • 14 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 6 days ago • 7 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 898 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 7 days ago • 9 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 381 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 27 days ago • 19 Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 14 days ago • 26 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 9 days ago • 7 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 22 days ago • 15 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 17 days ago • 12 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 15 days ago • 90 Thinking of ACE?",
-      "We Can Do It with Fewer Tokens ibm-research • 8 days ago • 28 LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation 20 August 19, 2026 How Much Memory Does Your Agent Actually Need?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Sleeper Agents and How to Tame Them tngtech • 7 days ago • 22 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 8 days ago • 45 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 1 day ago • 14 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 6 days ago • 13 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • 5 days ago • 11 New imatrix dataset bartowski • 3 days ago • 10 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 8 days ago • 35 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 7 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 898 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 381 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 9 days ago • 14 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 23 days ago • 16 Day-0 Muse Glimmer Support on Intel Platforms with vLLM and Hugging Face MatrixYao • 10 days ago • 7 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • 27 days ago • 19 超越表层对齐：信念是通往深层对齐的新入口 Alibaba-VELLDEPTH • 17 days ago • 12 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 16 days ago • 90 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 8 days ago • 12 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 326 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 140 LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation 27 August 19, 2026 How Much Memory Does Your Agent Actually Need?",
+      "41 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 69 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 16 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 132 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 28 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 92 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 15 August 12, 2026 Thinking of ACE?"
     ],
     "claims": [
       {
@@ -765,6 +765,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_86d9a113bd22dd29",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+    "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+    "publishedAt": "2026-08-19T23:16:00.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
+      "19th August 2026 Research smolmachines / smolvm as a sandbox for untrusted Python & JavaScript &mdash; Testing smolvm 1.8.3 shows it is well suited for sandboxing untrusted Python and JavaScript data transformations using hardware-isolated VMs rather than shared-kernel containers.",
+      "Offline local images, no-network execution, CPU/RAM limits, guest-enforced timeouts, storage quotas, read-only input mounts, writable output mounts, and `--unprivileged` all worked as intended, with cold starts around 0.6–1.5 seconds and warm executions around 50 ms.",
+      "I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox."
+    ],
+    "claims": [
+      {
+        "text": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against \"while true\") with no network access and filesystem access only to designated files Goal is to be able to use this to execute user-provided tasks for things like data transformations It quickly ran into a problem: the Claude Code for web environment can't run smol machines . Quoting the notes it wrote : This Claude Code container: Linux 6.18.5-fc-v20 (itself a Firecracker guest), 4 vCPU, 15GB RAM. No /dev/kvm, no vmx/svm CPU flags → no nested virt. smolvm machine run fails as expected: \"kvm not available\". Plan B: GitHub Actions ubuntu runners DO expose /dev/kvm → run the real test battery via a temporary workflow on this branch, collect logs, remove workflow in final commit. And Plan B is what it did , installing smolvm and running these tests directly in a GitHub Actions runner against that branch. That was a creative solution to the environmental limits posed by Claude Code for web. Another example of Fable being relentlessly proactive . Tags: research , sandboxing , ai , github-actions , generative-ai , llms , coding-agents , claude-mythos-fable",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_acb263357b6b0ede",
@@ -871,7 +901,7 @@
       "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
       "17th August 2026 - Link Blog Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index ( via ) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B.",
       "Qwen 3.8 27B is a truly astonishing model .",
-      "Posted 17th August 2026 at 11:58 pm Recent articles Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 One-shotting a Raccoon Heist game using Claude Fable 5 - 5th August 2026 This is a link post by Simon Willison, posted on 17th August 2026 ."
+      "Posted 17th August 2026 at 11:58 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 17th August 2026 ."
     ],
     "claims": [
       {
@@ -887,42 +917,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_65fe4d3216a13085",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-    "publishedAt": "2026-08-17T15:21:29.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "It Ended at an Amazon AI Training Facility Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "17th August 2026 - Link Blog We Tracked a Shipment of Rare Books.",
-      "It Ended at an Amazon AI Training Facility .",
-      "Excellent piece of reporting from 404 Media."
-    ],
-    "claims": [
-      {
-        "text": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers, widely suspected to be companies looking to scan them for AI training (see my previous coverage of Anthropic's book scanning from June 2025.) 404 Media investigated with an AirTag! In July, one bookseller told me they received a very large order of around 1,000 books on Biblio, one of these marketplaces. The seller agreed to put an Apple AirTag provided by 404 Media in one of the books included in this order so we could see where the book was going. And by extension, which company, AI or otherwise, was behind this massive order. The book ended up delivered to the VGT3 corner of the LAS8 Amazon facility in the north east of Las Vegas, where the entrance carried this on-the-nose logo of a dinosaur with a book! Photo credit: 404 Media Online forum discussions between Amazon workers confirmed that VGT3 destructively scans large volumes of books. Tags: amazon , journalism , ai , training-data , ai-ethics , 404-media",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-19T23:19:13.626Z",
+    "publishedAt": "2026-08-20T11:14:39.813Z",
     "categoryHints": [
       "ai-agentic"
     ],
