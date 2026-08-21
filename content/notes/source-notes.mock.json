@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-20T23:21:42.241Z",
+    "publishedAt": "2026-08-21T11:14:23.829Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-20T23:21:41.680Z",
+    "publishedAt": "2026-08-21T11:14:23.404Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-20_fallback",
+    "sourceId": "src_openai-blog_2026-08-21_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-20T23:21:41.415Z",
+    "publishedAt": "2026-08-21T11:14:23.204Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-20_fallback",
+    "sourceId": "src_mcp-blog_2026-08-21_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-20T23:21:42.143Z",
+    "publishedAt": "2026-08-21T11:14:23.539Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_efec30c7ac060723",
+    "sourceId": "src_reddit-aiagents_754598754704c5df",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtuj37/four_aiagentpayment_updates_in_the_last_few_days/",
-    "title": "Four AI-agent-payment updates in the last few days: Stripe, Natural, Binance, Chainlink",
-    "publishedAt": "2026-08-20T20:08:53.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vua334/has_ai_changed_what_skills_companies_look_for/",
+    "title": "Has AI changed what skills companies look for what hiring?",
+    "publishedAt": "2026-08-21T08:10:15.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Sat/Wed: Stripe acquired OpenRouter (>$7B per Bloomberg).",
-      "Stripe now sits across the major AI-agent-payment standards (ACP, MPP, X402).",
-      "Wed: Natural closed a $100M credit facility from Upper90 (on top of July's $30M Series A).",
-      "Credit lines specifically for AI agents to spend against."
+      "AI is changing how people work across many industries.",
+      "Do you think companies are now looking for different skills when hiring because of AI?",
+      "Which skills do you think matter more today, and what makes them valuable?",
+      "submitted by /u/ProposalIntrepid8476 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Sat/Wed: Stripe acquired OpenRouter (>$7B per Bloomberg). Stripe now sits across the major AI-agent-payment standards (ACP, MPP, X402). Wed: Natural closed a $100M credit facility from Upper90 (on top of July's $30M Series A). Credit lines specifically for AI agents to spend against. Today: Binance launched Agent OS. AI agents (via MCP) can access Binance account data and execute trades on users' behalf. Today: Chainlink Labs' Head of Institutional Strategy told The Block AI agents and robots will drive blockchain transactions. Every one of these solves identity, budget, or routing. Another topic, however, is how payment decisions are traced and verified. submitted by /u/serendip-ml [link] [comments]",
+        "text": "AI is changing how people work across many industries. Do you think companies are now looking for different skills when hiring because of AI? Which skills do you think matter more today, and what makes them valuable? submitted by /u/ProposalIntrepid8476 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtuj37/four_aiagentpayment_updates_in_the_last_few_days/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vua334/has_ai_changed_what_skills_companies_look_for/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_afca3e9611b1acd3",
+    "sourceId": "src_reddit-aiagents_4770190d0174adf6",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtyv09/what_i_learned_building_an_outbound_voice_agent/",
-    "title": "What I learned building an outbound voice agent that's handled 50k calls",
-    "publishedAt": "2026-08-20T22:56:13.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vuc5kz/75x_the_pr_throughput_of_google_ax_that_sounds/",
+    "title": "75x the PR throughput of Google AX? That sounds wild.",
+    "publishedAt": "2026-08-21T10:08:55.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Not a tutorial, just the stuff I wish someone had told me.",
-      "What kills you is everything around it scheduling, compliance windows, DNC, voicemail policy, concurrency limits, and making sure a provider timeout doesn't stall your whole queue.",
-      "Biggest lesson: classification should come from the transcript plus structured output, not from asking the model \"was this a good lead?\" at the end.",
-      "Second: per-lead timezone compliance is non-optional and almost nobody does it."
+      "Came across this comparison while reading about agent runtimes.",
+      "It claims Kungfu produced PRs at roughly 75 times the rate of Google AX based on public GitHub activity.",
+      "PR count can be affected by automation, PR size, contributor count, merge style, and the measurement window.",
+      "Anyone here know enough about how AX is developed to put this number in context?"
     ],
     "claims": [
       {
-        "text": "Not a tutorial, just the stuff I wish someone had told me. The agent is the easy part. Prompt it well and it qualifies fine. What kills you is everything around it scheduling, compliance windows, DNC, voicemail policy, concurrency limits, and making sure a provider timeout doesn't stall your whole queue. Biggest lesson: classification should come from the transcript plus structured output, not from asking the model \"was this a good lead?\" at the end. Way more consistent. Second: per-lead timezone compliance is non-optional and almost nobody does it. Lmk if you guys are interested in such projects, I will post more! submitted by /u/PeakDense123 [link] [comments]",
+        "text": "Came across this comparison while reading about agent runtimes. It claims Kungfu produced PRs at roughly 75 times the rate of Google AX based on public GitHub activity. PR count can be affected by automation, PR size, contributor count, merge style, and the measurement window. Anyone here know enough about how AX is developed to put this number in context? On its own, 75x just feels too clean to trust. submitted by /u/Known_Match_9122 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtyv09/what_i_learned_building_an_outbound_voice_agent/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vuc5kz/75x_the_pr_throughput_of_google_ax_that_sounds/"
       }
     ],
     "usableFor": [
@@ -225,25 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_23f62775c81864a8",
+    "sourceId": "src_reddit-aiagents_884a0ad6c3e0e47b",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vtskra/ive_ported_pstack_plugin_to_zcode/",
-    "title": "I've ported pstack plugin to ZCode",
-    "publishedAt": "2026-08-20T19:00:19.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vuarwo/how_do_you_handle_insane_token_costs_when_letting/",
+    "title": "How do you handle insane token costs when letting agents run autonomously?",
+    "publishedAt": "2026-08-21T08:52:00.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "pstack is a plugin made by Lauren Tan from SpaceXAI and its a great plugin for the overall dev workflow with agents, but its too specific to Cursor capabilities.",
-      "I've rewritten some skills to fit better to ZCode and adapted it to the needs of a ZCode plugin, all done with GLM 5.3, and it's being a great experience.",
-      "submitted by /u/frnluckhaos [link] [comments]"
+      "Ran a small test project last night where 3 agents were supposed to research competitors and draft a report.",
+      "Checked my OpenAI dashboard this morning and burned through $40 in a few hours because two agents kept fact checking each other endlessly.",
+      "What guardrails or rate limits are you using to prevent this without breaking the task?",
+      "submitted by /u/Thinking-master [link] [comments]"
     ],
     "claims": [
       {
-        "text": "pstack is a plugin made by Lauren Tan from SpaceXAI and its a great plugin for the overall dev workflow with agents, but its too specific to Cursor capabilities. I've rewritten some skills to fit better to ZCode and adapted it to the needs of a ZCode plugin, all done with GLM 5.3, and it's being a great experience. submitted by /u/frnluckhaos [link] [comments]",
+        "text": "Ran a small test project last night where 3 agents were supposed to research competitors and draft a report. Checked my OpenAI dashboard this morning and burned through $40 in a few hours because two agents kept fact checking each other endlessly. What guardrails or rate limits are you using to prevent this without breaking the task? submitted by /u/Thinking-master [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vtskra/ive_ported_pstack_plugin_to_zcode/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vuarwo/how_do_you_handle_insane_token_costs_when_letting/"
       }
     ],
     "usableFor": [
@@ -253,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-20_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-21_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-20T23:21:41.720Z",
+    "publishedAt": "2026-08-21T11:14:23.502Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -284,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-20T23:21:42.503Z",
+    "publishedAt": "2026-08-21T11:14:23.919Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-20T23:21:41.958Z",
+    "publishedAt": "2026-08-21T11:14:23.623Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-20_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-20T23:21:41.624Z",
+    "publishedAt": "2026-08-21T11:14:23.341Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-20_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-20T23:21:41.645Z",
+    "publishedAt": "2026-08-21T11:14:23.346Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-20T23:21:42.142Z",
+    "publishedAt": "2026-08-21T11:14:23.803Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-20T23:21:42.282Z",
+    "publishedAt": "2026-08-21T11:14:23.901Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +457,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-20T23:21:43.279Z",
+    "publishedAt": "2026-08-21T11:14:24.291Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +481,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-20_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-20T23:21:41.701Z",
+    "publishedAt": "2026-08-21T11:14:23.425Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +513,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-20T23:21:42.254Z",
+    "publishedAt": "2026-08-21T11:14:23.896Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +542,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-20T23:21:41.718Z",
+    "publishedAt": "2026-08-21T11:14:23.440Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +566,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-20_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-21_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-20T23:21:42.229Z",
+    "publishedAt": "2026-08-21T11:14:23.776Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +598,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-20T23:21:42.420Z",
+    "publishedAt": "2026-08-21T11:14:23.898Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +627,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-20T23:21:41.814Z",
+    "publishedAt": "2026-08-21T11:14:23.640Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +652,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-20_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-20T23:21:41.857Z",
+    "publishedAt": "2026-08-21T11:14:23.475Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +684,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-20T23:21:43.807Z",
+    "publishedAt": "2026-08-21T11:14:25.432Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -708,12 +709,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-20_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-21_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-20T23:21:41.909Z",
+    "publishedAt": "2026-08-21T11:14:23.616Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +741,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-20T23:21:42.003Z",
+    "publishedAt": "2026-08-21T11:14:23.692Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,10 +749,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 1 day ago • 33 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 8 days ago • 45 Sleeper Agents and How to Tame Them tngtech • 8 days ago • 23 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 2 days ago • 14 AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 7 days ago • 13 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "FINAL-Bench • 6 days ago • 11 New imatrix dataset bartowski • 3 days ago • 10 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 7 days ago • 8 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • about 11 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 898 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 381 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 8 days ago • 36 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 8 days ago • 5 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 23 days ago • 16 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 9 days ago • 14 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 16 days ago • 90 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 10 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 10 days ago • 7 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 1 day ago • 3 Up to 3.2x Faster Inference with LFM2.5-DSpark 9 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "48 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 76 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 16 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 134 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 28 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 93 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 15 August 12, 2026 Thinking of ACE?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 2 days ago • 33 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 2 days ago • 14 Sleeper Agents and How to Tame Them tngtech • 8 days ago • 25 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 9 days ago • 46 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • 6 days ago • 11 New imatrix dataset bartowski • 4 days ago • 11 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • about 23 hours ago • 7 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 8 days ago • 8 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 9 days ago • 37 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 898 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 381 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 10 days ago • 15 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 8 days ago • 5 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 24 days ago • 16 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 10 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 11 days ago • 7 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 9 days ago • 13 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 1 day ago • 3 Base Optimization Stack: From Open Weights to Frontier On-Device Inference Speed basecompute • about 20 hours ago • 3 Up to 3.2x Faster Inference with LFM2.5-DSpark 16 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "52 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 78 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 16 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 137 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 28 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 95 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 15 August 12, 2026 Thinking of ACE?"
     ],
     "claims": [
       {
@@ -765,6 +766,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_8ac58418c7f6ca03",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+    "title": "ChatGPT search now uses the site:operator at scale",
+    "publishedAt": "2026-08-20T23:57:32.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "ChatGPT search now uses the site:operator at scale Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
+      "20th August 2026 - Link Blog ChatGPT search now uses the site:operator at scale .",
+      "Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT.",
+      "The Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini."
+    ],
+    "claims": [
+      {
+        "text": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT. The Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini. They publish aggregate reports on this as part of their own content marketing strategy, which do seem to provide credible hints as to otherwise invisible design changes to those products. Their own tracking shows a notable change aligned with the GPT-5.6 rollout earlier this month: The percentage of all ChatGPT Search fanout queries that contain the site:operator, per day. The share hovered between 0.3% and 0.5% for weeks, dipped briefly to 0.15% on August 3 to 5 (consistent with a staged rollout or pre-launch experiment), then jumped to 16-17% on August 8. It's important to note that these figures only reflect the prompts for which they have automated tracking enabled. This corresponds to OpenAI's somewhat vague August 6th announcement : For Plus and Pro users, we’re updating GPT‑5.6 Sol in Chat to be more reliable with facts and provide more focused answers. Once again I am hampered by OpenAI's decision to actively obscure their system prompts, but from poking at ChatGPT I believe their latest search tool has a shape like search(query, recency, domains) rather than encouraging a site: operator directly. In a follow-up on August 18th Promptwatch reported that ChatGPT appeared to have greatly reduced the likelihood of Reddit being used in those searches. My own attempts to ascertain if the system prompt has been updated to discourage Reddit sourcing have been unsuccessful - the most thorough leaked system prompt collection I know of doesn't yet show any relevant changes. Tags: reddit , seo , openai , chatgpt , ai-assisted-search , system-prompts",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_34e6e834f4779d34",
@@ -887,42 +918,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_simonwillison-blog_ec53fde0e2f5d24b",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-    "title": "Mojo🔥 is now open source",
-    "publishedAt": "2026-08-18T21:39:20.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Mojo🔥 is now open source Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "18th August 2026 - Link Blog Mojo🔥 is now open source ( via ) The Mojo programming language has been promising an open source release since May 2023 .",
-      "Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license.",
-      "When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem."
-    ],
-    "claims": [
-      {
-        "text": "Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025 : Mojo may or may not evolve into a full superset of Python, and it’s okay if it doesn’t. We’re encouraged by how well AI-assisted coding tools already help migrate Python to Mojo today, and we’re confident that future tooling and ecosystem maturity will make this evolution even smoother. Today Mojo is its own language, optimized to make GPU programming as painless as possible using syntax inspired by Python, if not 100% compatible with existing code. Via Lobste.rs Tags: open-source , python , mojo",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-20T23:21:41.986Z",
+    "publishedAt": "2026-08-21T11:14:23.665Z",
     "categoryHints": [
       "ai-agentic"
     ],
