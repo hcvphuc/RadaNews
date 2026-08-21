@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-21T11:14:23.829Z",
+    "publishedAt": "2026-08-21T23:19:55.625Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-21T11:14:23.404Z",
+    "publishedAt": "2026-08-21T23:19:54.865Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-21T11:14:23.204Z",
+    "publishedAt": "2026-08-21T23:19:54.720Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-21T11:14:23.539Z",
+    "publishedAt": "2026-08-21T23:19:55.389Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_754598754704c5df",
+    "sourceId": "src_reddit-aiagents_181dd4f066d3b36d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vua334/has_ai_changed_what_skills_companies_look_for/",
-    "title": "Has AI changed what skills companies look for what hiring?",
-    "publishedAt": "2026-08-21T08:10:15.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vujjq1/what_the_100_biggest_github_repos_put_in_their/",
+    "title": "What the 100 biggest GitHub repos put in their AGENTS.md files",
+    "publishedAt": "2026-08-21T15:28:51.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "AI is changing how people work across many industries.",
-      "Do you think companies are now looking for different skills when hiring because of AI?",
-      "Which skills do you think matter more today, and what makes them valuable?",
-      "submitted by /u/ProposalIntrepid8476 [link] [comments]"
+      "I read the AGENTS.md of the 100 most-starred repos that have one (27% of the top 1,000 do).",
+      "The consensus in order of how much they write about it mostly: architecture and repo layout, how to test, build commands, dos-and-don'ts, PR etiquette, and code style.",
+      "90% write in must/always/never, and there are 784 explicit \"don't\" bullets, most of them oddly specific.",
+      "It's almost like you can tell exactly which mistake an agent made in each repo."
     ],
     "claims": [
       {
-        "text": "AI is changing how people work across many industries. Do you think companies are now looking for different skills when hiring because of AI? Which skills do you think matter more today, and what makes them valuable? submitted by /u/ProposalIntrepid8476 [link] [comments]",
+        "text": "I read the AGENTS.md of the 100 most-starred repos that have one (27% of the top 1,000 do). The consensus in order of how much they write about it mostly: architecture and repo layout, how to test, build commands, dos-and-don'ts, PR etiquette, and code style. The surprise was tone. 90% write in must/always/never, and there are 784 explicit \"don't\" bullets, most of them oddly specific. It's almost like you can tell exactly which mistake an agent made in each repo. Some are hilarious: \" Do not claim that an interrupted or timed-out test passed \" takes the gold for me. The shortest is 35 words, one rule from neovim. AI Disclosure: If AI was used in any way for a commit, add an AI-assisted: trailer to the commit message. If the user commits manually, remind them to add it. The most popular headings by far were: testing, commands, project overview, and architecture There's a lot more interesting deets like the average length, nextjs' \"Do NOT add \"Generated with Claude Code\" ...\" Will share full link and methodology in the comments Is your AGENTS.md very different to these? submitted by /u/ohansemmanuel [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vua334/has_ai_changed_what_skills_companies_look_for/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vujjq1/what_the_100_biggest_github_repos_put_in_their/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_4770190d0174adf6",
+    "sourceId": "src_reddit-aiagents_d5f4b52f6f7d0bc0",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vuc5kz/75x_the_pr_throughput_of_google_ax_that_sounds/",
-    "title": "75x the PR throughput of Google AX? That sounds wild.",
-    "publishedAt": "2026-08-21T10:08:55.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vuuxy2/any_way_to_stop_an_agent_from_buying_from_the/",
+    "title": "any way to stop an agent from buying from the wrong merchant?",
+    "publishedAt": "2026-08-21T22:37:54.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Came across this comparison while reading about agent runtimes.",
-      "It claims Kungfu produced PRs at roughly 75 times the rate of Google AX based on public GitHub activity.",
-      "PR count can be affected by automation, PR size, contributor count, merge style, and the measurement window.",
-      "Anyone here know enough about how AX is developed to put this number in context?"
+      "Was talking with a friend one day and he told me about an AI shopping agent that picked the right type of product but bought it from a merchant the he never would have chosen.",
+      "That got me thinking about how these agent payments are supposed to work once they become more common in our daily lives.",
+      "A spending limit helps if the issue is price but it doesn’t really solve where the agent is allowed to spend right?",
+      "If I tell an agent to buy something for under $300 I’d still want some control over which merchants it can use or at least which merchant categories are allowed."
     ],
     "claims": [
       {
-        "text": "Came across this comparison while reading about agent runtimes. It claims Kungfu produced PRs at roughly 75 times the rate of Google AX based on public GitHub activity. PR count can be affected by automation, PR size, contributor count, merge style, and the measurement window. Anyone here know enough about how AX is developed to put this number in context? On its own, 75x just feels too clean to trust. submitted by /u/Known_Match_9122 [link] [comments]",
+        "text": "Was talking with a friend one day and he told me about an AI shopping agent that picked the right type of product but bought it from a merchant the he never would have chosen. That got me thinking about how these agent payments are supposed to work once they become more common in our daily lives. A spending limit helps if the issue is price but it doesn’t really solve where the agent is allowed to spend right? If I tell an agent to buy something for under $300 I’d still want some control over which merchants it can use or at least which merchant categories are allowed. Anyone know how this is being handled right now? Is the payment itself restricted to certain merchants or are people mostly relying on the agent to make the right call? submitted by /u/Hopeful-Horse7580 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vuc5kz/75x_the_pr_throughput_of_google_ax_that_sounds/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vuuxy2/any_way_to_stop_an_agent_from_buying_from_the/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_884a0ad6c3e0e47b",
+    "sourceId": "src_reddit-aiagents_148508a64327ff4e",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vuarwo/how_do_you_handle_insane_token_costs_when_letting/",
-    "title": "How do you handle insane token costs when letting agents run autonomously?",
-    "publishedAt": "2026-08-21T08:52:00.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vujqku/thinking_of_switching_from_chatgpt_to_claude/",
+    "title": "Thinking of switching from ChatGPT to Claude",
+    "publishedAt": "2026-08-21T15:35:42.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Ran a small test project last night where 3 agents were supposed to research competitors and draft a report.",
-      "Checked my OpenAI dashboard this morning and burned through $40 in a few hours because two agents kept fact checking each other endlessly.",
-      "What guardrails or rate limits are you using to prevent this without breaking the task?",
-      "submitted by /u/Thinking-master [link] [comments]"
+      "I’ve been using ChatGPT for quite a while and it’s basically become part of my daily life.",
+      "I use it for work, research, writing, planning trips, random questions, and sometimes just organizing my thoughts.",
+      "Recently I keep seeing people say Claude is better, especially for writing and more complicated work.",
+      "I don’t really want to pay for both, so I’m thinking of trying Claude and possibly switching."
     ],
     "claims": [
       {
-        "text": "Ran a small test project last night where 3 agents were supposed to research competitors and draft a report. Checked my OpenAI dashboard this morning and burned through $40 in a few hours because two agents kept fact checking each other endlessly. What guardrails or rate limits are you using to prevent this without breaking the task? submitted by /u/Thinking-master [link] [comments]",
+        "text": "I’ve been using ChatGPT for quite a while and it’s basically become part of my daily life. I use it for work, research, writing, planning trips, random questions, and sometimes just organizing my thoughts. Recently I keep seeing people say Claude is better, especially for writing and more complicated work. I don’t really want to pay for both, so I’m thinking of trying Claude and possibly switching. For people who have actually used both for a while, did you end up sticking with ChatGPT or Claude? What made you choose one over the other? submitted by /u/Minute_Parsnip_3999 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vuarwo/how_do_you_handle_insane_token_costs_when_letting/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vujqku/thinking_of_switching_from_chatgpt_to_claude/"
       }
     ],
     "usableFor": [
@@ -259,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-21T11:14:23.502Z",
+    "publishedAt": "2026-08-21T23:19:55.240Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-21T11:14:23.919Z",
+    "publishedAt": "2026-08-21T23:19:56.051Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-21T11:14:23.623Z",
+    "publishedAt": "2026-08-21T23:19:55.782Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -345,7 +345,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-21T11:14:23.341Z",
+    "publishedAt": "2026-08-21T23:19:55.020Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -372,7 +372,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-21T11:14:23.346Z",
+    "publishedAt": "2026-08-21T23:19:55.038Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-21T11:14:23.803Z",
+    "publishedAt": "2026-08-21T23:19:55.527Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-21T11:14:23.901Z",
+    "publishedAt": "2026-08-21T23:19:55.622Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -457,7 +457,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-21T11:14:24.291Z",
+    "publishedAt": "2026-08-21T23:19:56.477Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -486,7 +486,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-21T11:14:23.425Z",
+    "publishedAt": "2026-08-21T23:19:55.096Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -513,7 +513,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-21T11:14:23.896Z",
+    "publishedAt": "2026-08-21T23:19:55.673Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -542,7 +542,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-21T11:14:23.440Z",
+    "publishedAt": "2026-08-21T23:19:55.159Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -571,7 +571,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-21T11:14:23.776Z",
+    "publishedAt": "2026-08-21T23:19:55.815Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -598,7 +598,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-21T11:14:23.898Z",
+    "publishedAt": "2026-08-21T23:19:55.769Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -627,7 +627,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-21T11:14:23.640Z",
+    "publishedAt": "2026-08-21T23:19:55.414Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -657,7 +657,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-21T11:14:23.475Z",
+    "publishedAt": "2026-08-21T23:19:55.188Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -684,7 +684,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-21T11:14:25.432Z",
+    "publishedAt": "2026-08-21T23:19:57.147Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -714,7 +714,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-21T11:14:23.616Z",
+    "publishedAt": "2026-08-21T23:19:55.293Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -741,7 +741,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-21T11:14:23.692Z",
+    "publishedAt": "2026-08-21T23:19:55.426Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -749,10 +749,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 2 days ago • 33 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 2 days ago • 14 Sleeper Agents and How to Tame Them tngtech • 8 days ago • 25 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 9 days ago • 46 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "FINAL-Bench • 6 days ago • 11 New imatrix dataset bartowski • 4 days ago • 11 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • about 23 hours ago • 7 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 8 days ago • 8 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 9 days ago • 37 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 898 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 381 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 10 days ago • 15 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 8 days ago • 5 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
-      "hugging-science • 24 days ago • 16 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 10 days ago • 5 Nesso-1: Accelerating Open-Source Binding Affinity Predictions recursionpharma • 11 days ago • 7 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 9 days ago • 13 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 1 day ago • 3 Base Optimization Stack: From Open Weights to Frontier On-Device Inference Speed basecompute • about 20 hours ago • 3 Up to 3.2x Faster Inference with LFM2.5-DSpark 16 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "52 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 78 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 16 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 137 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 28 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 95 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 15 August 12, 2026 Thinking of ACE?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 2 days ago • 34 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 3 days ago • 14 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 9 days ago • 48 New imatrix dataset bartowski • 4 days ago • 12 Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "FINAL-Bench • 7 days ago • 11 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 1 day ago • 8 Sleeper Agents and How to Tame Them tngtech • 9 days ago • 26 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 9 days ago • 7 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 9 days ago • 37 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 898 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 381 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 2 days ago • 5 ECMWF's AI forecasting model is open source: now let's make it easy to run.",
+      "hugging-science • 24 days ago • 16 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 396 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 11 days ago • 5 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 10 days ago • 16 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 10 days ago • 13 LEMUR and Mean Centering for Late-Interaction Retrieval in txtai NeuML • 8 days ago • 8 Base Optimization Stack: From Open Weights to Frontier On-Device Inference Speed basecompute • 1 day ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 327 audio speech benchmark Measuring benchmark optimization in speech recognition +3 6 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 20 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "55 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 79 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 16 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 138 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 28 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 95 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 15 August 12, 2026 Thinking of ACE?"
     ],
     "claims": [
       {
@@ -768,6 +768,126 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_simonwillison-blog_8270e60980e21188",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/21/llm/",
+    "title": "llm 0.32.1",
+    "publishedAt": "2026-08-21T17:16:13.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Release: llm 0.32.1 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
+      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
+      "21st August 2026 Release llm 0.32.1 &mdash; Access large language models from the command-line Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency.",
+      "This dot-release fixes that for the moment by pinning to openai , and a soon-to-drop 0.33 release will switch from httpx to httpx2 ."
+    ],
+    "claims": [
+      {
+        "text": "Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency. This dot-release fixes that for the moment by pinning to openai<3 , and a soon-to-drop 0.33 release will switch from httpx to httpx2 . Tags: httpx , openai , llm",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/21/llm/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_0a4c6d2c796bd70e",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+    "title": "llm-openrouter 0.7",
+    "publishedAt": "2026-08-21T16:58:19.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Release: llm-openrouter 0.7 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
+      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
+      "21st August 2026 Release llm-openrouter 0.7 &mdash; LLM plugin for models hosted by OpenRouter Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter.",
+      "Updated for compatibility with LLM 0.32 ."
+    ],
+    "claims": [
+      {
+        "text": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter. Updated for compatibility with LLM 0.32 . Models now use OpenRouter's implementation of the Responses API . Three new server-side tools: Shell , WebFetch , and WebSearch . Enable these with options like -T WebSearch . Tags: llm , openrouter",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_68e38ffb7e6c9e1a",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+    "title": "Stop Making TUIs",
+    "publishedAt": "2026-08-21T16:07:32.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Stop Making TUIs Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
+      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
+      "21st August 2026 - Link Blog Stop Making TUIs .",
+      "Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing."
+    ],
+    "claims": [
+      {
+        "text": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing. I wrote about my vibe-coded bandwidth and GPU monitoring macOS task bar apps back in March , and I'm still using both of those on a daily basis. I'm not habitually knocking out real UIs for my other projects yet, but I'm running out of excuses! Thomas: If you haven’t tried your hand at turning one of your 500 throwaway CLIs into a native app, you’re doing yourself a disservice. Go build a native UI. It’ll probably change the way you think. Tags: thomas-ptacek , ai , generative-ai , llms , vibe-coding , coding-agents",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_11dee81a324ad510",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+    "title": "Quoting Matt Webb",
+    "publishedAt": "2026-08-21T15:06:26.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Matt Webb Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
+      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
+      "21st August 2026 After I released version 1.0, I figured I would have to do the rotations myself.",
+      "So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me."
+    ],
+    "claims": [
+      {
+        "text": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to finally do what I hadn’t by reading books and asking mathematician friends – I learnt how to use quaternions just enough to make the app work. So learning doesn’t stop just because I outsource a bunch of thinking to AI. It pushes me to learn more. I like that as an outcome. &mdash; Matt Webb , Galactic Compass 2: now with new augmented reality mode Tags: matt-webb , generative-ai , chatgpt , education , ai , llms",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/21/matt-webb/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_simonwillison-blog_8ac58418c7f6ca03",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
@@ -779,10 +899,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "ChatGPT search now uses the site:operator at scale Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
+      "ChatGPT search now uses the site:operator at scale Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
+      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
       "20th August 2026 - Link Blog ChatGPT search now uses the site:operator at scale .",
-      "Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT.",
-      "The Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini."
+      "Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT."
     ],
     "claims": [
       {
@@ -798,132 +918,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_34e6e834f4779d34",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-    "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-    "publishedAt": "2026-08-20T15:37:00.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "20th August 2026 Research A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView &mdash; A zero-dependency, roughly 150-line TypeScript service demonstrates that Bun 1.4’s experimental `Bun.WebView` can provide a shot-scraper-style JSON API for JavaScript evaluation and PNG/JPEG/WebP screenshots without Puppeteer or Playwright.",
-      "It creates one browser tab per request, supporting concurrency while returning page results and errors as JSON through `/javascript`, `/screenshot`, and `/healthz`.",
-      "Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago ."
-    ],
-    "claims": [
-      {
-        "text": "Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago . Interestingly, the Rust rewrite was downplayed in the release notes, which introduced a bewildering array of new features and claimed 2,900 additional bug fixes: Bun 1.4 adds +1,517 tests from the Node.js test suite - our biggest jump in Node.js compatibility since Bun 1.0. Bun v1.4 also fixes over 2,900 issues. It reduces idle CPU usage by 5x, reduces memory usage by up to 35%, and starts 50% faster on Linux. It adds Bun.Image , Bun.WebView , Bun.markdown , Bun.cron() , Bun.Terminal , bun run --parallel , bun test --parallel , bun audit fix , bun dedupe , and bun prune . And it rewrites Bun from Zig to Rust. Of these the one that most caught my eye was Bun.WebView , which adds first class support for browser automation to Bun core using either macOS WebKit or control of a local Chromium process via the Chrome DevTools Protocol (CDP). I had Claude Code for web build a prototype of a web API providing the ability to load a web page and then execute JavaScript against it, inspired by my shot-scraper javascript CLI tool - partly to see how much RAM would be needed by such a service. Here's that TypeScript server implementation , which appears to need a 192MB-256MB container to run a full Chrome against complex web pages - tested using cgroups. Tags: browsers , javascript , ai , rust , typescript , generative-ai , llms , coding-agents , bun",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_86d9a113bd22dd29",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-    "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-    "publishedAt": "2026-08-19T23:16:00.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "19th August 2026 Research smolmachines / smolvm as a sandbox for untrusted Python & JavaScript &mdash; Testing smolvm 1.8.3 shows it is well suited for sandboxing untrusted Python and JavaScript data transformations using hardware-isolated VMs rather than shared-kernel containers.",
-      "Offline local images, no-network execution, CPU/RAM limits, guest-enforced timeouts, storage quotas, read-only input mounts, writable output mounts, and `--unprivileged` all worked as intended, with cold starts around 0.6–1.5 seconds and warm executions around 50 ms.",
-      "I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox."
-    ],
-    "claims": [
-      {
-        "text": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against \"while true\") with no network access and filesystem access only to designated files Goal is to be able to use this to execute user-provided tasks for things like data transformations It quickly ran into a problem: the Claude Code for web environment can't run smol machines . Quoting the notes it wrote : This Claude Code container: Linux 6.18.5-fc-v20 (itself a Firecracker guest), 4 vCPU, 15GB RAM. No /dev/kvm, no vmx/svm CPU flags → no nested virt. smolvm machine run fails as expected: \"kvm not available\". Plan B: GitHub Actions ubuntu runners DO expose /dev/kvm → run the real test battery via a temporary workflow on this branch, collect logs, remove workflow in final commit. And Plan B is what it did , installing smolvm and running these tests directly in a GitHub Actions runner against that branch. That was a creative solution to the environmental limits posed by Claude Code for web. Another example of Fable being relentlessly proactive . Tags: research , sandboxing , ai , github-actions , generative-ai , llms , coding-agents , claude-mythos-fable",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_acb263357b6b0ede",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
-    "title": "Quoting Jeremy Morrell",
-    "publishedAt": "2026-08-19T22:56:31.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Jeremy Morrell Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "19th August 2026 My hypothesis is that there is a new opportunity for Extensible Software on the web .",
-      "LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries.",
-      "We can build our app as a solid, accountable core, and allow users to safely extend it in many directions by having LLMs fill in the missing pieces."
-    ],
-    "claims": [
-      {
-        "text": "My hypothesis is that there is a new opportunity for Extensible Software on the web . LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We can build our app as a solid, accountable core, and allow users to safely extend it in many directions by having LLMs fill in the missing pieces. We can give our users super powers. &mdash; Jeremy Morrell , Extensible Software in the age of LLMs Tags: sandboxing , llms , ai , generative-ai",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_c6eb5d27bf214726",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-    "title": "Conceptual integrity and counting lines of code",
-    "publishedAt": "2026-08-19T22:46:07.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Conceptual integrity and counting lines of code Simon Willison’s Weblog Subscribe Sponsored by: WorkOS &mdash; auth.md by WorkOS: agents register users, no sign-up form.",
-      "Conceptual integrity and counting lines of code 19th August 2026 Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of “How AI is changing software development”.",
-      "Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: “very minor edits to remove disfluencies”).",
-      "This is the latest version of an argument I’ve been trying to build about why sometimes it does make sense to talk about lines of code as an indicator of productivity with coding agents, at 35:01 : A lot of people will tell you it makes no sense to measure productivity in lines of code."
-    ],
-    "claims": [
-      {
-        "text": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: \"very minor edits to remove disfluencies\"). This is the latest version of an argument I've been trying to build about why sometimes it does make sense to talk about lines of code as an indicator of productivity with coding agents, at 35:01 : A lot of people will tell you it makes no sense to measure productivity in lines of code. I’d actually disagree, because there’s a hard limit. In the before-times, a software engineer could produce a few hundred lines of production-ready code per day — and 200 lines of working, debugged, production-level code is an incredibly good day. Most days you’d produce 50 or 60. If agents let you produce a thousand lines of debugged code, that really is a very meaningful improvement — as long as the code is the same quality: maintainable, tested, all of that. You can get to that point with agents, but it takes a huge amount of skill and knowledge and experience. That’s what senior engineers are made of. I can do way more work as a single engineer than I could without agents. So you could argue, why should a company have more than one engineer? Beyond the obvious bus factor thing — a team of one is a very badly designed team — the answer is that the new limiting factor is cognitive capacity. I can churn out code a hundred times faster. I don’t have the cognitive capacity to stay on top of 100 times the amount of code. So you still need a team of engineers, so you can load balance that cognitive capacity across the team. And this section on conceptual integrity at 46:03 , which Claire equated to the Winchester Mystery House ! Simon : There’s a concept in The Mythical Man-Month — conceptual integrity — where well-designed software has an integrity to it: there are no surprises in it, it covers exactly the right domain of things, everything fits together and makes sense. That’s so much harder with coding agents, where you can have an idea for a feature, run a prompt, and five minuteslater you’ve got the feature. Your software grows little weird bumps in funny different directions. Claire : You know my analogy for that? The Winchester Mystery House. Simon : It’s got 140 rooms, because the woman who built it was the widow of the guy who invented the Winchester rifle, and her psychic told her she’d be haunted by the ghosts of everyone killed with that rifle unless she kept building the house forever. So for 40 years she kept adding new rooms. That’s exactly the problem with coding agents and software: it’s very easy to keep adding new rooms, because the cost of adding those rooms is so much cheaper. What you end up with is something where the conceptual integrity falls apart — and then it’s harder to make decisions about it. It all keeps coming back to discipline. It used to be that the discipline was enforced on you by the amount of time it took. You’d come up with an idea for a crazy feature and think “yeah, but that would take me a week — I cannot justify that, so I’ll forget about it.” If it takes an hour, it’s so much easier to justify. (Side-note: the Wikipedia article includes credible sources that dispute the story about the psychic.) Tags: ai , generative-ai , llms , podcast-appearances , coding-agents",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-21T11:14:23.665Z",
+    "publishedAt": "2026-08-21T23:19:55.504Z",
     "categoryHints": [
       "ai-agentic"
     ],
