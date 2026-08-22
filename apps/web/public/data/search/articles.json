@@ -320,40 +320,39 @@
     "url": "/vi/ai-agentic/google-io-2026-gemini-omni-antigravity-ai-search"
   },
   {
-    "id": "cluster_ai-agentic_1_chatgpt-search-now-uses-the-site-operator-at-scale_2026-08-22_vi",
+    "id": "cluster_ai-agentic_1_llm-0-33_2026-08-22_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "ChatGPT search now uses the site:operator at scale: góc nhìn cho creator và builder",
+    "title": "llm 0.33: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ChatGPT",
-      "GEO",
-      "OpenAI",
-      "AI-Search",
-      "SEO"
+      "ai-agentic",
+      "vibe-coding",
+      "llm-cli",
+      "software-engineering"
     ],
-    "publishedAt": "2026-08-22T11:09:46.170Z",
+    "publishedAt": "2026-08-22T23:17:33.193Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/chatgpt-search-now-uses-the-site-operator-at-scale-goc-nhin-2026-08-22"
+    "url": "/vi/ai-agentic/llm-0-33-goc-nhin-cho-creator-va-builder-2026-08-22"
   },
   {
-    "id": "cluster_ai-agentic_1_chatgpt-search-now-uses-the-site-operator-at-scale_2026-08-22_en",
+    "id": "cluster_ai-agentic_1_llm-0-33_2026-08-22_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "ChatGPT search now uses the site:operator at scale: creator and builder analysis",
+    "title": "llm 0.33: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "GEO",
-      "OpenAI",
-      "ChatGPT",
-      "AI-Search",
-      "SEO"
+      "ai-agents",
+      "llm-cli",
+      "agentic-engineering",
+      "software-development",
+      "verification"
     ],
-    "publishedAt": "2026-08-22T11:10:38.716Z",
+    "publishedAt": "2026-08-22T23:18:07.297Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/chatgpt-search-now-uses-the-site-operator-at-scale-creator-2026-08-22"
+    "url": "/en/ai-agentic/llm-0-33-creator-and-builder-analysis-2026-08-22"
   },
   {
     "id": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-22_vi",
@@ -367,9 +366,9 @@
       "ai-agents",
       "anthropic",
       "replit",
-      "software-engineering"
+      "software-development"
     ],
-    "publishedAt": "2026-08-22T11:09:58.472Z",
+    "publishedAt": "2026-08-22T23:17:34.859Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-22"
   },
@@ -381,13 +380,13 @@
     "title": "Research \\ Anthropic: creator and builder analysis",
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "Vibe Coding",
-      "AI Agents",
-      "Software Engineering",
-      "Anthropic",
-      "Replit"
+      "vibe-coding",
+      "ai-agents",
+      "software-engineering",
+      "anthropic",
+      "replit"
     ],
-    "publishedAt": "2026-08-22T11:10:44.521Z",
+    "publishedAt": "2026-08-22T23:18:13.798Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-08-22"
   },
@@ -402,11 +401,11 @@
       "AI Video",
       "Runway AI",
       "World Models",
-      "Multimodal AI",
-      "AI Agents"
+      "AI Agents",
+      "Generative AI"
     ],
-    "publishedAt": "2026-08-22T11:10:14.021Z",
-    "readingTime": 5,
+    "publishedAt": "2026-08-22T23:17:50.470Z",
+    "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-08-22"
   },
   {
@@ -418,12 +417,12 @@
     "subtitle": "Signal synthesized from Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "AI Video",
-      "Runway AI",
       "World Models",
-      "Generative AI",
-      "Multimodal AI"
+      "Runway AI",
+      "Multimodal AI",
+      "Generative Video"
     ],
-    "publishedAt": "2026-08-22T11:10:59.357Z",
+    "publishedAt": "2026-08-22T23:18:14.282Z",
     "readingTime": 3,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-08-22"
   },
@@ -435,13 +434,13 @@
     "title": "News | Luma: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Luma Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Video",
       "LumaAI",
       "KlingAI",
-      "CreativeControl",
-      "PromptEngineering"
+      "AIVideo",
+      "CreativeWorkflow",
+      "GenAI2026"
     ],
-    "publishedAt": "2026-08-22T11:09:46.043Z",
+    "publishedAt": "2026-08-22T23:17:13.875Z",
     "readingTime": 4,
     "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-22"
   },
@@ -453,13 +452,13 @@
     "title": "News | Luma: creator and builder analysis",
     "subtitle": "Signal synthesized from Luma Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Video",
-      "Luma AI",
-      "Kling AI",
-      "Creative Workflow",
-      "Generative Video"
+      "ai-video",
+      "luma-ai",
+      "kling-ai",
+      "creative-workflows",
+      "generative-video"
     ],
-    "publishedAt": "2026-08-22T11:10:27.007Z",
+    "publishedAt": "2026-08-22T23:17:58.567Z",
     "readingTime": 4,
     "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-08-22"
   },
@@ -471,13 +470,13 @@
     "title": "Blog | Pika: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Pika Labs Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agent",
-      "Pika-Labs",
-      "Generative-Video",
-      "AI-Research",
-      "Voice-AI"
+      "AI-Agentic",
+      "PikaLabs",
+      "ContextEngineering",
+      "GenerativeVideo",
+      "AutonomousAI"
     ],
-    "publishedAt": "2026-08-22T11:10:22.414Z",
+    "publishedAt": "2026-08-22T23:17:58.511Z",
     "readingTime": 5,
     "url": "/vi/ai-agentic/blog-pika-goc-nhin-cho-creator-va-builder-2026-08-22"
   },
@@ -490,13 +489,13 @@
     "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Pika Labs Blog, scored by recency, content depth, and source reliability.",
     "tags": [
       "ai-agents",
-      "multimodal-ai",
-      "pika-labs",
-      "agentic-workflows",
-      "human-computer-interaction"
+      "context-engineering",
+      "multi-modal-ai",
+      "autonomous-economy",
+      "pika-labs"
     ],
-    "publishedAt": "2026-08-22T11:11:11.370Z",
-    "readingTime": 4,
+    "publishedAt": "2026-08-22T23:18:24.587Z",
+    "readingTime": 3,
     "url": "/en/ai-agentic/blog-pika-creator-and-builder-analysis-2026-08-22"
   },
   {
@@ -507,14 +506,14 @@
     "title": "Blog | Black Forest Labs: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "Black Forest Labs",
-      "FLUX 3",
-      "AI Video",
-      "Multimodal AI",
-      "Vibe Coding"
+      "BlackForestLabs",
+      "FLUX3",
+      "VisualIntelligence",
+      "AIVideo",
+      "VibeCoding"
     ],
-    "publishedAt": "2026-08-22T11:10:04.976Z",
-    "readingTime": 5,
+    "publishedAt": "2026-08-22T23:17:17.256Z",
+    "readingTime": 4,
     "url": "/vi/ai-vibe-coding/blog-black-forest-labs-goc-nhin-cho-creator-va-builder-2026-08-22"
   },
   {
@@ -529,9 +528,9 @@
       "Visual Intelligence",
       "AI Video",
       "Multimodal AI",
-      "Vibe Coding"
+      "Creative Tech"
     ],
-    "publishedAt": "2026-08-22T11:10:48.337Z",
+    "publishedAt": "2026-08-22T23:18:05.833Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/blog-black-forest-labs-creator-and-builder-analysis-2026-08-22"
   }

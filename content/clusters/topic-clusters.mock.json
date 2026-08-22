@@ -1,13 +1,13 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_chatgpt-search-now-uses-the-site-operator-at-scale_2026-08-22",
+    "clusterId": "cluster_ai-agentic_1_llm-0-33_2026-08-22",
     "category": "ai-agentic",
-    "topic": "ChatGPT search now uses the site:operator at scale",
+    "topic": "llm 0.33",
     "sourceIds": [
-      "src_simonwillison-blog_8ac58418c7f6ca03",
+      "src_simonwillison-blog_edb0c81b18e93136",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_68e38ffb7e6c9e1a",
-      "src_simonwillison-blog_11dee81a324ad510",
+      "src_simonwillison-blog_740ce5e55e505b73",
+      "src_simonwillison-blog_83a3b544708f7a70",
       "src_simonwillison-blog_8270e60980e21188",
       "src_simonwillison-blog_0a4c6d2c796bd70e",
       "src_huggingface-blog_af185e1e7e4dfbac",
@@ -66,16 +66,16 @@
     "topic": "Blog | Pika",
     "sourceIds": [
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_7134403a360bb2f1",
-      "src_reddit-aiagents_34b530bbf8d7ded9",
-      "src_reddit-aiagents_655ff4e18e7fd316",
+      "src_reddit-aiagents_c0a9c1fe188705ae",
+      "src_reddit-aiagents_4a49420471ad5a4a",
+      "src_reddit-aiagents_630716460a2eb08b",
       "src_reddit-aiagents_ba0a372a0af23eaa",
       "src_reddit-aiagents_6a455bd719766a99",
       "src_openai-blog_2026-08-22_fallback",
       "src_mcp-blog_2026-08-22_fallback"
     ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.85,
+    "reasonSelected": "Score 0.85 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
