@@ -1,6 +1,6 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_chatgpt-search-now-uses-the-site-operator-at-scale_2026-08-21",
+    "clusterId": "cluster_ai-agentic_1_chatgpt-search-now-uses-the-site-operator-at-scale_2026-08-22",
     "category": "ai-agentic",
     "topic": "ChatGPT search now uses the site:operator at scale",
     "sourceIds": [
@@ -19,7 +19,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-21",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-22",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
@@ -33,7 +33,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-08-21",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-08-22",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -48,7 +48,7 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_news-luma_2026-08-21",
+    "clusterId": "cluster_ai-video_1_news-luma_2026-08-22",
     "category": "ai-video",
     "topic": "News | Luma",
     "sourceIds": [
@@ -61,18 +61,18 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_blog-pika_2026-08-21",
+    "clusterId": "cluster_ai-agentic_2_blog-pika_2026-08-22",
     "category": "ai-agentic",
     "topic": "Blog | Pika",
     "sourceIds": [
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_181dd4f066d3b36d",
-      "src_reddit-aiagents_d5f4b52f6f7d0bc0",
-      "src_reddit-aiagents_148508a64327ff4e",
+      "src_reddit-aiagents_7134403a360bb2f1",
+      "src_reddit-aiagents_34b530bbf8d7ded9",
+      "src_reddit-aiagents_655ff4e18e7fd316",
       "src_reddit-aiagents_ba0a372a0af23eaa",
       "src_reddit-aiagents_6a455bd719766a99",
-      "src_openai-blog_2026-08-21_fallback",
-      "src_mcp-blog_2026-08-21_fallback"
+      "src_openai-blog_2026-08-22_fallback",
+      "src_mcp-blog_2026-08-22_fallback"
     ],
     "articleWorthinessScore": 0.83,
     "reasonSelected": "Score 0.83 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
@@ -80,12 +80,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_blog-black-forest-labs_2026-08-21",
+    "clusterId": "cluster_ai-vibe-coding_2_blog-black-forest-labs_2026-08-22",
     "category": "ai-vibe-coding",
     "topic": "Blog | Black Forest Labs",
     "sourceIds": [
       "src_black-forest-labs_db0e6d09e99dbd6f",
-      "src_vercel-ai-blog_2026-08-21_fallback"
+      "src_vercel-ai-blog_2026-08-22_fallback"
     ],
     "articleWorthinessScore": 0.65,
     "reasonSelected": "Score 0.65 from 2 source item(s), 1 live crawl(s), strongest sources: Black Forest Labs, Vercel AI Blog.",
@@ -93,14 +93,14 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-21",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-22",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-08-21_fallback",
-      "src_reddit-stablediffusion_2026-08-21_fallback",
-      "src_reddit-comfyui_2026-08-21_fallback",
-      "src_reddit-midjourney_2026-08-21_fallback"
+      "src_stability-ai-blog_2026-08-22_fallback",
+      "src_reddit-stablediffusion_2026-08-22_fallback",
+      "src_reddit-comfyui_2026-08-22_fallback",
+      "src_reddit-midjourney_2026-08-22_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -108,12 +108,12 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-21",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-22",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-08-21_fallback",
-      "src_reddit-mediasynthesis_2026-08-21_fallback"
+      "src_reddit-aivideo_2026-08-22_fallback",
+      "src_reddit-mediasynthesis_2026-08-22_fallback"
     ],
     "articleWorthinessScore": 0.28,
     "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
