@@ -6,15 +6,14 @@
     "sourceIds": [
       "src_simonwillison-blog_2bc26709368c49d8",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_edb0c81b18e93136",
+      "src_simonwillison-blog_4233d9949cc3d8e2",
+      "src_simonwillison-blog_a80370fa0d6abc37",
       "src_simonwillison-blog_6437449a8f8f8c43",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_740ce5e55e505b73",
-      "src_simonwillison-blog_83a3b544708f7a70",
-      "src_cursor-changelog_99cdbb7e2d70df11"
+      "src_simonwillison-blog_740ce5e55e505b73"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -25,10 +24,11 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_replit-blog_2c607cbee6384da3"
+      "src_replit-blog_2c607cbee6384da3",
+      "src_reddit-aiagents_9e0390113a237f70"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Replit Blog.",
+    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Replit Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -61,20 +61,20 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_blog-pika_2026-08-24",
+    "clusterId": "cluster_ai-agentic_2_what-s-new-in-cursor-latest-updates-release-notes_2026-08-24",
     "category": "ai-agentic",
-    "topic": "Blog | Pika",
+    "topic": "What's New in Cursor — Latest Updates & Release Notes",
     "sourceIds": [
+      "src_cursor-changelog_99cdbb7e2d70df11",
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_c50f2a8a655b7965",
-      "src_reddit-aiagents_056150caad3869d3",
-      "src_reddit-aiagents_ba0a372a0af23eaa",
+      "src_reddit-aiagents_1c27fa8b90125b75",
+      "src_reddit-aiagents_97437e06e1a0cdc5",
       "src_reddit-aiagents_6a455bd719766a99",
       "src_openai-blog_2026-08-24_fallback",
       "src_mcp-blog_2026-08-24_fallback"
     ],
-    "articleWorthinessScore": 0.82,
-    "reasonSelected": "Score 0.82 from 7 source item(s), 5 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 7 source item(s), 5 live crawl(s), strongest sources: Cursor Changelog, Pika Labs Blog, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -84,11 +84,11 @@
     "topic": "Blog | Black Forest Labs",
     "sourceIds": [
       "src_black-forest-labs_db0e6d09e99dbd6f",
-      "src_reddit-aiagents_5b359b28754e2d40",
+      "src_reddit-aiagents_081b680ccf9e6825",
       "src_vercel-ai-blog_2026-08-24_fallback"
     ],
-    "articleWorthinessScore": 0.78,
-    "reasonSelected": "Score 0.78 from 3 source item(s), 2 live crawl(s), strongest sources: Black Forest Labs, r/AI_Agents, Vercel AI Blog.",
+    "articleWorthinessScore": 0.79,
+    "reasonSelected": "Score 0.79 from 3 source item(s), 2 live crawl(s), strongest sources: Black Forest Labs, r/AI_Agents, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },

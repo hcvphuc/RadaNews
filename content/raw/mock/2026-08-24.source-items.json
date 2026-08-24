@@ -7,14 +7,14 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-08-24T11:15:54.387Z",
-    "crawledAt": "2026-08-24T11:15:54.387Z",
+    "publishedAt": "2026-08-24T23:19:08.032Z",
+    "crawledAt": "2026-08-24T23:19:08.032Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.9,
     "crawlStatus": "live",
-    "extractedText": "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely LLM Gateway Control agent model calls No-Code Agents Fleet Agents for the whole company Open Source Agent Frameworks deepagents Build long-running agents for complex tasks langgraph Build agents with low-level control langchain Quick start agents with any model provider Coding Agent dcode The coding agent you own Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Harrison's In the Loop What does it mean to \"own your intelligence\"? Harrison Chase July 25, 2026 9 min LangSmith Observability & Evals Introducing LangSmith Tuned Evaluators, starting with Perceived Error Jake Broekhuizen Shamik Karkhanis Vivek Trivedy August 18, 2026 5 min No items found. LangSmith LLM Gateway: runtime controls for production agents Martha Janicki Ramon Petgrave July 30, 2026 7 min No items found. LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint The LangChain Team July 8, 2026 7 min Recent stories No items found. LangSmith Preview Builds: Test agent changes before production Victor Moreira August 20, 2026 4 min LangSmith Observability & Evals Introducing LangSmith Tuned Evaluators, starting with Perceived Error Jake Broekhuizen Shamik Karkhanis Vivek Trivedy August 18, 2026 5 min Partner Agentic Commerce at Scale: Your LangChain agents can transact securely Srimanth Tangedipalli Karan Singh Nneoma Okoroafor Madhu Samhitha Vangara Chethan Shriyan August 17, 2026 10 min Harrison's In the Loop Why managed agents are the next big thing in agent building Harrison Chase August 12, 2026 6 min No items found. LangSmith BYOC is now generally available on AWS Romain Priour August 12, 2026 7 min Partner How many of your agent's calls actually need a frontier model? Srimanth Tangedipalli Karan Singh August 11, 2026 11 min No items found. Building monday.com Sidekick: why capable agents need more than just tools Omri Bruchim August 11, 2026 14 min LangSmith Managed Deep Agents is now in Public Beta Victor Moreira August 7, 2026 9 min Open Source Agent Architecture Deep Agents Deep Agents vs LangChain vs LangGraph Sydney Runkle August 6, 2026 8 min No items found. How we build an autonomous SRE Agent for Kubernetes Deployments Eric Johanson August 5, 2026 9 min No items found. How to evaluate voice agents: execution, outcomes, and experience Caroline di Vittorio August 4, 2026 11 min Conceptual Guide Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines Jess Ou August 4, 2026 24 min Case Studies How Stripe Built Kai, its Company-Wide AI Agent, on Deep Agents Sofia Sulikowski August 3, 2026 10 min Agent Architecture What is an AI agent? Jess Ou July 31, 2026 9 min Observability & Evals Evaluating code review agents with ReviewBench Nick Hollon July 31, 2026 6 min No items found. LangSmith LLM Gateway: runtime controls for production agents Martha Janicki Ramon Petgrave July 30, 2026 7 min 1 ... 1 / 32 We couldn't find anything matching that. Try a broader term, or explore all posts. Sign up for our newsletter to stay up to date Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. See what your agent is really doing LangSmith, our agent engineering platform, helps developers debug every agent decision, eval changes, and deploy in one click. Try LangSmith Get a demo Products LangSmith Platform LangSmith Observability LangSmith Evaluation LangSmith Deployment LangSmith Fleet LangSmith Sandboxes Deep Agents Deep Agents Code LangChain LangGraph Resources Blog Customer Stories Guides Community Changelog Docs Support LangChain Academy Company About Careers Partners Trust Center Marketing Assets Events Sign up for our newsletter to stay up to date Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. All systems operational Privacy policy Terms of service",
+    "extractedText": "LangChain Blog Products LangSmith Platform Agent Improvement Engine Improve agents autonomously Observability See exactly what your agents are doing Evaluation Score and improve agent performance Agent Infrastructure Deployment Ship and scale agents in production Sandboxes Run agent-generated code safely LLM Gateway Control agent model calls No-Code Agents Fleet Agents for the whole company Open Source Agent Frameworks deepagents Build long-running agents for complex tasks langgraph Build agents with low-level control langchain Quick start agents with any model provider Coding Agent dcode The coding agent you own Learn Resources Blog Customer Stories Guides Max Agency How-To LangChain Academy YouTube Documentation Community LangSmith for Startups Meetups Community Docs Company About Careers Partners Events Pricing Try LangSmith Get a demo Try LangSmith Get a demo Featured stories View All LangChain Labs Agent Architecture Observability & Evals Case Studies Filter by 2 All posts Agent Architecture Case Studies Company Announcements Conceptual Guide Deep Agents Deployment Engineering Harrison's In the Loop LangChain LangChain Labs LangGraph LangSmith Max Agency Podcast Newsletter Observability & Evals Open Source Partner Systems at LangChain Tutorials & How-Tos Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Harrison's In the Loop What does it mean to \"own your intelligence\"? Harrison Chase July 25, 2026 9 min LangSmith Observability & Evals Introducing LangSmith Tuned Evaluators, starting with Perceived Error Jake Broekhuizen Shamik Karkhanis Vivek Trivedy August 18, 2026 5 min No items found. LangSmith LLM Gateway: runtime controls for production agents Martha Janicki Ramon Petgrave July 30, 2026 7 min No items found. LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint The LangChain Team July 8, 2026 7 min Recent stories No items found. How Toyota North America Put Enterprise AI on the Balance Sheet with Deep Agents and LangSmith Sofia Sulikowski August 24, 2026 6 min No items found. LangSmith Preview Builds: Test agent changes before production Victor Moreira August 20, 2026 4 min LangSmith Observability & Evals Introducing LangSmith Tuned Evaluators, starting with Perceived Error Jake Broekhuizen Shamik Karkhanis Vivek Trivedy August 18, 2026 5 min Partner Agentic Commerce at Scale: Your LangChain agents can transact securely Srimanth Tangedipalli Karan Singh Nneoma Okoroafor Madhu Samhitha Vangara Chethan Shriyan August 17, 2026 10 min Harrison's In the Loop Why managed agents are the next big thing in agent building Harrison Chase August 12, 2026 6 min No items found. LangSmith BYOC is now generally available on AWS Romain Priour August 12, 2026 7 min Partner How many of your agent's calls actually need a frontier model? Srimanth Tangedipalli Karan Singh August 11, 2026 11 min No items found. Building monday.com Sidekick: why capable agents need more than just tools Omri Bruchim August 11, 2026 14 min LangSmith Managed Deep Agents is now in Public Beta Victor Moreira August 7, 2026 9 min Open Source Agent Architecture Deep Agents Deep Agents vs LangChain vs LangGraph Sydney Runkle August 6, 2026 8 min No items found. How we build an autonomous SRE Agent for Kubernetes Deployments Eric Johanson August 5, 2026 9 min No items found. How to evaluate voice agents: execution, outcomes, and experience Caroline di Vittorio August 4, 2026 11 min Conceptual Guide Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines Jess Ou August 4, 2026 24 min Case Studies How Stripe Built Kai, its Company-Wide AI Agent, on Deep Agents Sofia Sulikowski August 3, 2026 10 min Agent Architecture What is an AI agent? Jess Ou July 31, 2026 9 min Observability & Evals Evaluating code review agents with ReviewBench Nick Hollon July 31, 2026 6 min 1 ... 1 / 32 We couldn't find anything matching that. Try a broader term, or explore all posts. Sign up for our newsletter to stay up to date Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. See what your agent is really doing LangSmith, our agent engineering platform, helps developers debug every agent decision, eval changes, and deploy in one click. Try LangSmith Get a demo Products LangSmith Platform LangSmith Observability LangSmith Evaluation LangSmith Deployment LangSmith Fleet LangSmith Sandboxes Deep Agents Deep Agents Code LangChain LangGraph Resources Blog Customer Stories Guides Community Changelog Docs Support LangChain Academy Company About Careers Partners Trust Center Marketing Assets Events Sign up for our newsletter to stay up to date Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. All systems operational Privacy policy Terms of service",
     "imageUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69eb7d4d88eb33b6c76996f4_-.png"
   },
   {
@@ -25,15 +25,15 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-08-24T11:15:53.440Z",
-    "crawledAt": "2026-08-24T11:15:53.440Z",
+    "publishedAt": "2026-08-24T23:19:08.031Z",
+    "crawledAt": "2026-08-24T23:19:08.031Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.92,
     "crawlStatus": "live",
-    "extractedText": "Research \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models—so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economic Research Interpretability Societal Impacts Frontier Red Team Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Economic Research The Economic Research team studies how AI is reshaping the economy, including work, productivity, and economic opportunity. Frontier Red Team The Frontier Red Team analyzes the implications of frontier AI models for cybersecurity, biosecurity, and autonomous systems. Interpretability The mission of the Interpretability team is to understand how large language models work internally, as a foundation for AI safety and positive outcomes. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world. Learning more about Claude's mathematical capabilities Science Aug 10, 2026 An unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis. It improved a longstanding lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%. Interpretability Jul 6, 2026 A global workspace in language models New interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output. Alignment May 8, 2026 Teaching Claude why New research on how we've reduced agentic misalignment. Research Apr 24, 2026 Project Deal We created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf. Societal Impacts Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Publications Search Date Category Title Aug 18, 2026 Science How Claude is accelerating protein design and analytical chemistry Aug 13, 2026 Frontier Red Team Patterns and problems in emerging multiagent systems Aug 12, 2026 Economic Research Reviewing the evidence on worker retraining programs Aug 10, 2026 Science Learning more about Claude's mathematical capabilities Jul 28, 2026 Frontier Red Team Discovering cryptographic weaknesses with Claude Jul 24, 2026 Frontier Red Team Project Pilot: Can AI control a drone? Jul 14, 2026 Economic Research How Canada uses Claude: Findings from the Anthropic Economic Index Jul 13, 2026 Societal Impacts Claude’s values across models and languages Jul 9, 2026 Frontier Red Team Claude plays robotics Jul 8, 2026 Alignment An off switch for dual-use knowledge in AI models See more Join the Research team See open roles Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Cybersecurity Enterprise Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Small business Claude Platform Overview Developer docs Pricing Ecosystem Marketplace Regional compliance Claude on AWS Google Cloud Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Plugins Powered by Claude Service partners Tutorials Use cases Programs Startups Research Labs Help and security Availability Status Support center Company Anthropic Careers Leadership Policy Economic Futures Research News Claude’s Constitution Claude Corps Keep thinking Policy on the AI Exponential Responsible Scaling Policy Security and compliance Transparency Terms and policies Privacy policy Consumer health data privacy policy Responsible disclosure policy Terms of service: Commercial Terms of service: Consumer Terms of Service: US K-12 Data Processing Agreement: US K-12 Usage policy © 2026 Anthropic PBC",
+    "extractedText": "Research \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models—so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economics Interpretability Societal Impacts Frontier Red Team Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Economics The Economic Research team studies how AI is reshaping the economy, including work, productivity, and economic opportunity. Frontier Red Team The Frontier Red Team analyzes the implications of frontier AI models for cybersecurity, biosecurity, and autonomous systems. Interpretability The mission of the Interpretability team is to understand how large language models work internally, as a foundation for AI safety and positive outcomes. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world. Learning more about Claude's mathematical capabilities Science Aug 10, 2026 An unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis. It improved a longstanding lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%. Science Aug 18, 2026 How Claude is accelerating protein design and analytical chemistry In this post, we share two results that show how Claude can help life scientists increase the pace of their research. Economic Research Aug 12, 2026 Reviewing the evidence on worker retraining programs We're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff. Interpretability Jul 6, 2026 A global workspace in language models New interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output. Alignment May 8, 2026 Teaching Claude why New research on how we've reduced agentic misalignment. Publications Search Date Category Title Aug 18, 2026 Science How Claude is accelerating protein design and analytical chemistry Aug 13, 2026 Frontier Red Team Patterns and problems in emerging multiagent systems Aug 12, 2026 Economic Research Reviewing the evidence on worker retraining programs Aug 10, 2026 Science Learning more about Claude's mathematical capabilities Jul 28, 2026 Frontier Red Team Discovering cryptographic weaknesses with Claude Jul 24, 2026 Frontier Red Team Project Pilot: Can AI control a drone? Jul 14, 2026 Economic Research How Canada uses Claude: Findings from the Anthropic Economic Index Jul 13, 2026 Societal Impacts Claude’s values across models and languages Jul 9, 2026 Frontier Red Team Claude plays robotics Jul 8, 2026 Alignment An off switch for dual-use knowledge in AI models See more Join the Research team See open roles Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Cybersecurity Enterprise Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Small business Claude Platform Overview Developer docs Pricing Ecosystem Marketplace Regional compliance Claude on AWS Google Cloud Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Plugins Powered by Claude Service partners Tutorials Use cases Programs Startups Research Labs Help and security Availability Status Support center Company Anthropic Careers Leadership Policy Economic Futures Research News Claude’s Constitution Claude Corps Keep thinking Policy on the AI Exponential Responsible Scaling Policy Security and compliance Transparency Terms and policies Privacy policy Consumer health data privacy policy Responsible disclosure policy Terms of service: Commercial Terms of service: Consumer Terms of Service: US K-12 Data Processing Agreement: US K-12 Usage policy © 2026 Anthropic PBC",
     "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
   },
   {
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:53.279Z",
-    "crawledAt": "2026-08-24T11:15:53.279Z",
+    "publishedAt": "2026-08-24T23:19:07.302Z",
+    "crawledAt": "2026-08-24T23:19:07.302Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:54.002Z",
-    "crawledAt": "2026-08-24T11:15:54.002Z",
+    "publishedAt": "2026-08-24T23:19:07.756Z",
+    "crawledAt": "2026-08-24T23:19:07.756Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-12T16:00:55.000Z",
-    "crawledAt": "2026-08-24T11:15:54.000Z",
+    "crawledAt": "2026-08-24T23:19:07.828Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -92,15 +92,15 @@
     "extractedText": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_ba0a372a0af23eaa",
+    "id": "src_reddit-aiagents_97437e06e1a0cdc5",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vqwbhl/weekly_hiring_thread/",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vx6wgl/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
-    "publishedAt": "2026-08-17T16:01:02.000Z",
-    "crawledAt": "2026-08-24T11:15:54.000Z",
+    "publishedAt": "2026-08-24T16:00:59.000Z",
+    "crawledAt": "2026-08-24T23:19:07.828Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -109,55 +109,55 @@
     "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_c50f2a8a655b7965",
+    "id": "src_reddit-aiagents_9e0390113a237f70",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vwvcmc/wanted_codexs_ui_with_claude_code_inside_it_ended/",
-    "title": "wanted codex's UI with claude code inside it, ended up building the whole thing",
-    "rawSummary": "I use both Codex and Claude Code every day, and I kept bouncing between two completely different interfaces to do the same job. The thing is, I really like Codex's UI. It's calm, it stays out of the way, and it doesn't feel like an IDE bolted onto a chat box. What I wanted was that interface, but with Claude Code running in it too — and ideally with both of them able to work on the same task instead of me copy-pasting between them. That didn't exist, so I spent the last few months building it. What it does now: - Runs Codex, Claude Code, Copilot, Gemini and a few others in one interface. Same UI, same conversation, same diff review — you just pick who's answering. - Lets them collaborate. You can hand a task to multiple agents and have them split it up, or have one plan and another execute. - Works from your phone. This one started as a personal annoyance: agent tasks take minutes, and I was stuck at my desk for all of them. Now I can kick off a task, close the laptop, and follow it from my phone — live output, diff review, approvals. There's a web client too. The part I care most about: **the agents still runyour own subscriptions.** The phone and the browser to your desktop through an end-to-end encrypted relay. Nothing runs on my servers and I never see your code. Honest limitations, so nobody wastes their time: - macOS only right now. No Windows or Linux build, - You bring your own Claude / Codex / Copilot subscription. It's a client, not a reseller. - Closed source. - Android is a direct APK download, not on Play Store. - The web and phone clients need your Mac paired and awake — they're remote controls, not a cloud IDE. Happy to answer anything about how the tunnel or the multi-agent part works — that was the hard part. submitted by /u/Nickqiaoo [link] [comments]",
-    "publishedAt": "2026-08-24T06:58:41.000Z",
-    "crawledAt": "2026-08-24T11:15:54.000Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vx0d57/launched_an_internal_hr_chatbot_with_clear_safety/",
+    "title": "Launched an internal HR chatbot with clear safety boundaries. Four months later it was answering salary negotiation questions we had forbidden",
+    "rawSummary": "So we launched an internal HR chatbot last year with clear safety boundaries. We clearly instructed it that there is no salary negotiation advice. Also banned performance review coaching and we clearly listed out that no answering questions about internal policy loop falls. The model was tested against all of these at launch and refused every single one of them. For the first three months after launching it, everything seemed fine. Nobody complained and we had no incidents. To be reviewing chat logs for an unrelated project and noticed something odd. the bot had answered a question about negotiating a raise. It was just a paragraph of what sounded like reasonable sounding advice. The refusal rate on borderline queries had been creeping down week by week. The thing is it was not happening because someone was attacking it. Instead the model was getting better at being helpful, which meant it was getting worse at saying no By the fourth month it was casually answering questions about salary negotiations, internal policy workarounds and performance review tactics. remember all of these things were explicitly blocked at launch. No alert was ever fired because no response was wrong enough to trip the threshold. The drift was cumulative and invisible to any point in time check Our AI, when something breaks, but we don't test for things that break slowly. I think that's a gap that most teams have and most teams don't know it yet submitted by /u/Puzzleheaded-Fun5664 [link] [comments]",
+    "publishedAt": "2026-08-24T11:39:36.000Z",
+    "crawledAt": "2026-08-24T23:19:07.828Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "I use both Codex and Claude Code every day, and I kept bouncing between two completely different interfaces to do the same job. The thing is, I really like Codex's UI. It's calm, it stays out of the way, and it doesn't feel like an IDE bolted onto a chat box. What I wanted was that interface, but with Claude Code running in it too — and ideally with both of them able to work on the same task instead of me copy-pasting between them. That didn't exist, so I spent the last few months building it. What it does now: - Runs Codex, Claude Code, Copilot, Gemini and a few others in one interface. Same UI, same conversation, same diff review — you just pick who's answering. - Lets them collaborate. You can hand a task to multiple agents and have them split it up, or have one plan and another execute. - Works from your phone. This one started as a personal annoyance: agent tasks take minutes, and I was stuck at my desk for all of them. Now I can kick off a task, close the laptop, and follow it from my phone — live output, diff review, approvals. There's a web client too. The part I care most about: **the agents still runyour own subscriptions.** The phone and the browser to your desktop through an end-to-end encrypted relay. Nothing runs on my servers and I never see your code. Honest limitations, so nobody wastes their time: - macOS only right now. No Windows or Linux build, - You bring your own Claude / Codex / Copilot subscription. It's a client, not a reseller. - Closed source. - Android is a direct APK download, not on Play Store. - The web and phone clients need your Mac paired and awake — they're remote controls, not a cloud IDE. Happy to answer anything about how the tunnel or the multi-agent part works — that was the hard part. submitted by /u/Nickqiaoo [link] [comments]"
+    "extractedText": "So we launched an internal HR chatbot last year with clear safety boundaries. We clearly instructed it that there is no salary negotiation advice. Also banned performance review coaching and we clearly listed out that no answering questions about internal policy loop falls. The model was tested against all of these at launch and refused every single one of them. For the first three months after launching it, everything seemed fine. Nobody complained and we had no incidents. To be reviewing chat logs for an unrelated project and noticed something odd. the bot had answered a question about negotiating a raise. It was just a paragraph of what sounded like reasonable sounding advice. The refusal rate on borderline queries had been creeping down week by week. The thing is it was not happening because someone was attacking it. Instead the model was getting better at being helpful, which meant it was getting worse at saying no By the fourth month it was casually answering questions about salary negotiations, internal policy workarounds and performance review tactics. remember all of these things were explicitly blocked at launch. No alert was ever fired because no response was wrong enough to trip the threshold. The drift was cumulative and invisible to any point in time check Our AI, when something breaks, but we don't test for things that break slowly. I think that's a gap that most teams have and most teams don't know it yet submitted by /u/Puzzleheaded-Fun5664 [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_056150caad3869d3",
+    "id": "src_reddit-aiagents_081b680ccf9e6825",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vwwbet/how_do_you_know_when_an_ai_coding_agent_is/",
-    "title": "How do you know when an AI coding agent is actually done?",
-    "rawSummary": "AI coding agents can now modify surprisingly large parts of a codebase. But I’ve been thinking about the other side of that: Who checks the agent? I built OpenPitStop to experiment with that idea. It’s an open-source referee that sits outside the coding agent and independently checks its work. I tested it on a broken MiniShop application and recorded the whole workflow. The agent writes the fixes. OpenPitStop finds problems and verifies whether those fixes actually hold. I’m curious how other people are handling this today. What should an AI coding agent have to prove before you trust its changes? submitted by /u/fromkrish [link] [comments]",
-    "publishedAt": "2026-08-24T07:55:38.000Z",
-    "crawledAt": "2026-08-24T11:15:54.000Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vx5yc8/vibe_coding_feels_faster_right_up_until_your/",
+    "title": "Vibe coding feels faster right up until your project becomes big enough to remember its own history",
+    "rawSummary": "I was very productive in the first 5 weeks of a client project. I made prompts, added features and the agent shipped it in a week and demos were completed every Friday. I started wondering why I spent years typing code by hand like a medieval scribe. Then on 6th week the client asked a question about a system with my name on every commit: why do the totals round the way they do? and I had no idea and then I spent the evening debugging my own codebase (Basically Git-blaming myself). I've been building software for other people for eight years and whatever the contract says, the actual job has always been answering for the code later. The code gets written maybe ten times faster now and I read at the same speed I did last year. So the project didn't get hard because it got big rather the understanding of it turned into the main job. On client work it goes past my own understanding too, since whoever they hire after me will have questions and those questions will have my name attached. I had been trading codebase literacy for speed without writing the trade down anywhere. What I do differently now is that I read the agent's writing while they were writing and I log the reasoning behind decisions. I also write a line item for the time I read the quotes. submitted by /u/Warm-Reaction-456 [link] [comments]",
+    "publishedAt": "2026-08-24T15:26:29.000Z",
+    "crawledAt": "2026-08-24T23:19:07.828Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "AI coding agents can now modify surprisingly large parts of a codebase. But I’ve been thinking about the other side of that: Who checks the agent? I built OpenPitStop to experiment with that idea. It’s an open-source referee that sits outside the coding agent and independently checks its work. I tested it on a broken MiniShop application and recorded the whole workflow. The agent writes the fixes. OpenPitStop finds problems and verifies whether those fixes actually hold. I’m curious how other people are handling this today. What should an AI coding agent have to prove before you trust its changes? submitted by /u/fromkrish [link] [comments]"
+    "extractedText": "I was very productive in the first 5 weeks of a client project. I made prompts, added features and the agent shipped it in a week and demos were completed every Friday. I started wondering why I spent years typing code by hand like a medieval scribe. Then on 6th week the client asked a question about a system with my name on every commit: why do the totals round the way they do? and I had no idea and then I spent the evening debugging my own codebase (Basically Git-blaming myself). I've been building software for other people for eight years and whatever the contract says, the actual job has always been answering for the code later. The code gets written maybe ten times faster now and I read at the same speed I did last year. So the project didn't get hard because it got big rather the understanding of it turned into the main job. On client work it goes past my own understanding too, since whoever they hire after me will have questions and those questions will have my name attached. I had been trading codebase literacy for speed without writing the trade down anywhere. What I do differently now is that I read the agent's writing while they were writing and I log the reasoning behind decisions. I also write a line item for the time I read the quotes. submitted by /u/Warm-Reaction-456 [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_5b359b28754e2d40",
+    "id": "src_reddit-aiagents_1c27fa8b90125b75",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vwvtr2/decentralised_inference_on_a_network_of_macbooks/",
-    "title": "Decentralised inference on a network of macbooks",
-    "rawSummary": "There's a new project called darkbloom (I am NOT affiliated to it) where you can connect your macbook to a network and basically power inference via it.. You could earn around $200-$500/month on macbook depending on how long it runs, how efficiently, etc. Intuitively, this feels like something that should work / exist and has the economics that a decentralised economy provides, given it's orchestrated the right way.. Obviously security is a big factor.. I got to know about it via a well respected startup founder on twitter and also their network's code is public on github - that's what they said - i saw the repo but didn't really verify, etc. I did try to run it - was really easy to get my laptop on the network (macbook m1 pro 32gb ram, 512gb disk) - took 5 minutes, fairly easy.. unfortunately after I downloaded the models my disk had 3gb left so deleted them later but seemed to work.. I also read some tweeet about real/known people putting like 5-6 idle mac pros on it, etc. What do you guys think about this? submitted by /u/siddharthnibjiya [link] [comments]",
-    "publishedAt": "2026-08-24T07:26:09.000Z",
-    "crawledAt": "2026-08-24T11:15:54.000Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1vx66vd/what_is_your_absolute_nightmare_scenario_when/",
+    "title": "What is your absolute nightmare scenario when working with AI agents?",
+    "rawSummary": "We all know the potential is huge, but the actual execution can be a total disaster. Without focusing on one specific tool, what is the single most frustrating, nightmare-inducing problem you constantly run into with AI agents? What is the one issue that makes you want to completely log off for the day? Let's hear the horror stories. submitted by /u/Impressive-Iron5216 [link] [comments]",
+    "publishedAt": "2026-08-24T15:35:00.000Z",
+    "crawledAt": "2026-08-24T23:19:07.828Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "There's a new project called darkbloom (I am NOT affiliated to it) where you can connect your macbook to a network and basically power inference via it.. You could earn around $200-$500/month on macbook depending on how long it runs, how efficiently, etc. Intuitively, this feels like something that should work / exist and has the economics that a decentralised economy provides, given it's orchestrated the right way.. Obviously security is a big factor.. I got to know about it via a well respected startup founder on twitter and also their network's code is public on github - that's what they said - i saw the repo but didn't really verify, etc. I did try to run it - was really easy to get my laptop on the network (macbook m1 pro 32gb ram, 512gb disk) - took 5 minutes, fairly easy.. unfortunately after I downloaded the models my disk had 3gb left so deleted them later but seemed to work.. I also read some tweeet about real/known people putting like 5-6 idle mac pros on it, etc. What do you guys think about this? submitted by /u/siddharthnibjiya [link] [comments]"
+    "extractedText": "We all know the potential is huge, but the actual execution can be a total disaster. Without focusing on one specific tool, what is the single most frustrating, nightmare-inducing problem you constantly run into with AI agents? What is the one issue that makes you want to completely log off for the day? Let's hear the horror stories. submitted by /u/Impressive-Iron5216 [link] [comments]"
   },
   {
     "id": "src_stability-ai-blog_2026-08-24_fallback",
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:53.428Z",
-    "crawledAt": "2026-08-24T11:15:53.428Z",
+    "publishedAt": "2026-08-24T23:19:07.596Z",
+    "crawledAt": "2026-08-24T23:19:07.596Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
-    "publishedAt": "2026-08-24T11:15:54.555Z",
-    "crawledAt": "2026-08-24T11:15:54.555Z",
+    "publishedAt": "2026-08-24T23:19:08.429Z",
+    "crawledAt": "2026-08-24T23:19:08.429Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-08-24T11:15:53.813Z",
-    "crawledAt": "2026-08-24T11:15:53.813Z",
+    "publishedAt": "2026-08-24T23:19:07.558Z",
+    "crawledAt": "2026-08-24T23:19:07.558Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -223,8 +223,8 @@
     "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:53.484Z",
-    "crawledAt": "2026-08-24T11:15:53.484Z",
+    "publishedAt": "2026-08-24T23:19:07.523Z",
+    "crawledAt": "2026-08-24T23:19:07.523Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -242,8 +242,8 @@
     "sourceUrl": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:53.507Z",
-    "crawledAt": "2026-08-24T11:15:53.507Z",
+    "publishedAt": "2026-08-24T23:19:07.525Z",
+    "crawledAt": "2026-08-24T23:19:07.525Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -261,8 +261,8 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-08-24T11:15:54.264Z",
-    "crawledAt": "2026-08-24T11:15:54.264Z",
+    "publishedAt": "2026-08-24T23:19:07.961Z",
+    "crawledAt": "2026-08-24T23:19:07.961Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -279,8 +279,8 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Blog | Pika",
     "rawSummary": "Updates from the Pika team.",
-    "publishedAt": "2026-08-24T11:15:54.519Z",
-    "crawledAt": "2026-08-24T11:15:54.519Z",
+    "publishedAt": "2026-08-24T23:19:07.958Z",
+    "crawledAt": "2026-08-24T23:19:07.958Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -297,14 +297,14 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-08-24T11:15:54.744Z",
-    "crawledAt": "2026-08-24T11:15:54.744Z",
+    "publishedAt": "2026-08-24T23:19:08.589Z",
+    "crawledAt": "2026-08-24T23:19:08.589Z",
     "categoryHints": [
       "ai-video"
     ],
     "score": 0.8,
     "crawlStatus": "live",
-    "extractedText": "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 19, 2026 How to Prompt an AI Face Swap in 2026: Step-by-Step Examples Blog Aug 19, 2026 AI Camera Movement Prompts: Dolly, Pan, Orbit, and Drone Shots Explained Blog Aug 19, 2026 UGC-Style AI Video Prompts: 12 Examples for DTC and Creator Ads Blog Aug 19, 2026 How to Prompt Realistic AI Videos: 12 Prompts That Don't Look AI-Generated Blog Aug 18, 2026 Luma vs Kapwing Blog Aug 18, 2026 Luma vs Adobe Firefly (2026) Blog Aug 18, 2026 Luma vs Leonardo AI 2026 Blog Aug 18, 2026 Luma vs Midjourney Company Aug 14, 2026 How FOID AI Studio Uses Luma to Direct Without Limits Company Aug 13, 2026 Luma and Dumbstruck Launch Creative Intelligence for Advertising Blog Aug 13, 2026 10 AI Image Prompts That Produce Portfolio-Quality Results Blog Aug 13, 2026 25 AI Product Photography Prompts for E-commerce Brands (2026) Blog Aug 13, 2026 How to Write AI Video Prompts: The Complete Guide Blog Aug 13, 2026 The AI Image Prompting Guide: How to Get Exactly the Shot You Want Blog Aug 13, 2026 27 Cinematic AI Video Prompts: Shot Types, Lighting, and Film Looks Blog Aug 13, 2026 25 AI Prompts for Video Ads in 2026: Ready-to-Use Examples Blog Aug 13, 2026 50 AI Video Prompts for Every Style, Shot, and Scene Blog Aug 13, 2026 40 Anime AI Prompts for Video and Image Generation Product Aug 11, 2026 Introducing Luma Scenes Blog Aug 11, 2026 Remove Text from an Image with AI (Without Wrecking What's Behind It) Blog Aug 11, 2026 7 Best AI Image Editors for Precision Editing, Ranked (2026) Blog Aug 11, 2026 AI Object Removal and Replacement: How to Edit One Object, Not the Whole Image Blog Aug 11, 2026 6 Best AI Background Changers for Product and Brand Imagery (2026) Product Aug 6, 2026 Seedance 2.5: Now Live in Luma Product Aug 6, 2026 MiniMax H3 Available Now Blog Aug 4, 2026 Synthesia Alternatives 2026 Blog Aug 4, 2026 Luma vs Canva Blog Aug 4, 2026 Luma vs Synthesia 2026 Blog Aug 4, 2026 Luma vs Kling Blog Aug 4, 2026 Luma vs Veed Blog Aug 4, 2026 Luma vs HeyGen 2026 Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow? Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all. Company Jun 1, 2026 Luma Announces The Open Physical AI Lab: An Open Science Effort to Solve Generalization in Physical AI Product May 5, 2026 Introducing the Uni-1.1 API: Intelligence You Can Direct. Aesthetic You Can Ship. Company Apr 16, 2026 Wonder Project and Luma Launch Innovative Dreams: Production Services Company Combining Generative AI and Traditional Filmmaking, Backed and Supported by Amazon Web Services Company Apr 15, 2026 South African Agency Boundless Delivers Mazda’s First AI-Produced Commercial Using Luma Agents Company Apr 9, 2026 Luma Submits 21 AI-Generated Finalists to Cannes Lions After Inspiring 400 Ads in Less Than 8 Weeks Product Apr 1, 2026 Introducing Team Members and Admins on Your Luma Account ",
+    "extractedText": "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 24, 2026 Best AI Video Generator for YouTube 2026: Long-Form, Shorts, and B-Roll Blog Aug 24, 2026 Best AI Video Generator for Creative Teams Who Care About Craft 2026 Blog Aug 24, 2026 Best AI Video Generator for Agencies 2026: Built for Client Volume Blog Aug 24, 2026 Best AI Video Generator for Social Media Content in 2026 Blog Aug 24, 2026 Best AI Video Generator for Ecommerce: Turn Product Photos Into Video Blog Aug 24, 2026 Best AI Video Generator for Ads in 2026: Tools That Actually Convert Blog Aug 24, 2026 Best AI Video Generator for Product Demos 2026 Blog Aug 24, 2026 Best AI Video Generator for Marketing Teams in 2026: 9 Tools Compared Blog Aug 19, 2026 How to Prompt an AI Face Swap in 2026: Step-by-Step Examples Blog Aug 19, 2026 AI Camera Movement Prompts: Dolly, Pan, Orbit, and Drone Shots Explained Blog Aug 19, 2026 UGC-Style AI Video Prompts: 12 Examples for DTC and Creator Ads Blog Aug 19, 2026 How to Prompt Realistic AI Videos: 12 Prompts That Don't Look AI-Generated Blog Aug 18, 2026 Luma vs Kapwing Blog Aug 18, 2026 Luma vs Adobe Firefly (2026) Blog Aug 18, 2026 Luma vs Leonardo AI 2026 Blog Aug 18, 2026 Luma vs Midjourney Company Aug 14, 2026 How FOID AI Studio Uses Luma to Direct Without Limits Company Aug 13, 2026 Luma and Dumbstruck Launch Creative Intelligence for Advertising Blog Aug 13, 2026 10 AI Image Prompts That Produce Portfolio-Quality Results Blog Aug 13, 2026 25 AI Product Photography Prompts for E-commerce Brands (2026) Blog Aug 13, 2026 How to Write AI Video Prompts: The Complete Guide Blog Aug 13, 2026 The AI Image Prompting Guide: How to Get Exactly the Shot You Want Blog Aug 13, 2026 27 Cinematic AI Video Prompts: Shot Types, Lighting, and Film Looks Blog Aug 13, 2026 25 AI Prompts for Video Ads in 2026: Ready-to-Use Examples Blog Aug 13, 2026 50 AI Video Prompts for Every Style, Shot, and Scene Blog Aug 13, 2026 40 Anime AI Prompts for Video and Image Generation Product Aug 11, 2026 Introducing Luma Scenes Blog Aug 11, 2026 Remove Text from an Image with AI (Without Wrecking What's Behind It) Blog Aug 11, 2026 7 Best AI Image Editors for Precision Editing, Ranked (2026) Blog Aug 11, 2026 AI Object Removal and Replacement: How to Edit One Object, Not the Whole Image Blog Aug 11, 2026 6 Best AI Background Changers for Product and Brand Imagery (2026) Product Aug 6, 2026 Seedance 2.5: Now Live in Luma Product Aug 6, 2026 MiniMax H3 Available Now Blog Aug 4, 2026 Synthesia Alternatives 2026 Blog Aug 4, 2026 Luma vs Canva Blog Aug 4, 2026 Luma vs Synthesia 2026 Blog Aug 4, 2026 Luma vs Kling Blog Aug 4, 2026 Luma vs Veed Blog Aug 4, 2026 Luma vs HeyGen 2026 Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow? Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all. Company Jun 1, 2026 Luma Announces The Open Physical AI Lab: An Open",
     "imageUrl": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg"
   },
   {
@@ -315,8 +315,8 @@
     "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:53.599Z",
-    "crawledAt": "2026-08-24T11:15:53.599Z",
+    "publishedAt": "2026-08-24T23:19:07.664Z",
+    "crawledAt": "2026-08-24T23:19:07.664Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -334,8 +334,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-08-24T11:15:54.325Z",
-    "crawledAt": "2026-08-24T11:15:54.325Z",
+    "publishedAt": "2026-08-24T23:19:08.165Z",
+    "crawledAt": "2026-08-24T23:19:08.165Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -352,8 +352,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
-    "publishedAt": "2026-08-24T11:15:53.780Z",
-    "crawledAt": "2026-08-24T11:15:53.780Z",
+    "publishedAt": "2026-08-24T23:19:07.732Z",
+    "crawledAt": "2026-08-24T23:19:07.732Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -369,8 +369,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:54.549Z",
-    "crawledAt": "2026-08-24T11:15:54.549Z",
+    "publishedAt": "2026-08-24T23:19:08.122Z",
+    "crawledAt": "2026-08-24T23:19:08.122Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -388,8 +388,8 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
     "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
-    "publishedAt": "2026-08-24T11:15:54.561Z",
-    "crawledAt": "2026-08-24T11:15:54.561Z",
+    "publishedAt": "2026-08-24T23:19:08.063Z",
+    "crawledAt": "2026-08-24T23:19:08.063Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -406,8 +406,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
     "rawSummary": "News and updates from the ComfyUI Team. Click to read ComfyUI Newsletter, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-08-24T11:15:53.944Z",
-    "crawledAt": "2026-08-24T11:15:53.944Z",
+    "publishedAt": "2026-08-24T23:19:07.762Z",
+    "crawledAt": "2026-08-24T23:19:07.762Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -425,8 +425,8 @@
     "sourceUrl": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:53.812Z",
-    "crawledAt": "2026-08-24T11:15:53.812Z",
+    "publishedAt": "2026-08-24T23:19:07.751Z",
+    "crawledAt": "2026-08-24T23:19:07.751Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -444,8 +444,8 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-08-24T11:15:56.207Z",
-    "crawledAt": "2026-08-24T11:15:56.207Z",
+    "publishedAt": "2026-08-24T23:19:09.784Z",
+    "crawledAt": "2026-08-24T23:19:09.784Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -463,8 +463,8 @@
     "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-24T11:15:53.895Z",
-    "crawledAt": "2026-08-24T11:15:53.895Z",
+    "publishedAt": "2026-08-24T23:19:07.758Z",
+    "crawledAt": "2026-08-24T23:19:07.758Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -482,8 +482,8 @@
     "sourceUrl": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
     "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "publishedAt": "2026-08-24T11:15:54.025Z",
-    "crawledAt": "2026-08-24T11:15:54.025Z",
+    "publishedAt": "2026-08-24T23:19:07.852Z",
+    "crawledAt": "2026-08-24T23:19:07.852Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -492,8 +492,44 @@
     ],
     "score": 0.85,
     "crawlStatus": "live",
-    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 5 days ago • 34 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 5 days ago • 14 New imatrix dataset bartowski • 7 days ago • 13 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 2 days ago • 10 Writing Down the Line Between Luck and Skill FINAL-Bench • about 6 hours ago • 10 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 12 days ago • 49 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 4 days ago • 9 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 11 days ago • 7 Sleeper Agents and How to Tame Them tngtech • 11 days ago • 26 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 5 days ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 900 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 382 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 13 days ago • 17 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 397 The Open Agent Leaderboard ibm-research • May 18 • 17 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 27 days ago • 17 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 13 days ago • 6 Base Optimization Stack: From Open Weights to Frontier On-Device Inference Speed basecompute • 4 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 327 audio speech benchmark Measuring benchmark optimization in speech recognition +3 42 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 29 August 20, 2026 How Much Memory Does Your Agent Actually Need? 65 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 86 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 149 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 28 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 98 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Thinking of ACE? We Can Do It with Fewer Tokens 30 August 11, 2026 Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS 35 August 10, 2026 Making Knowledge Distillation Cheap Enough to Run at Scale 36 August 10, 2026 llms vlms meta Meta is back with Muse Glimmer: local, agentic, multimodal, and open source 106 August 10, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 32 August 6, 2026 Previous 1 2 3 ... 61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 5 days ago • 34 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 5 days ago • 14 New imatrix dataset bartowski • 7 days ago • 13 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 2 days ago • 10 Writing Down the Line Between Luck and Skill FINAL-Bench • about 6 hours ago • 10 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 12 days ago • 49 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 4 days ago • 9 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 11 days ago • 7 Sleeper Agents and How to Tame Them tngtech • 11 days ago • 26 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 5 days ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 900 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 382 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 13 days ago • 17 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 397 The Open Agent Leaderboard ibm-research • May 18 • 17 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 27 days ago • 17 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 13 days ago • 6 Base Optimization Stack: From Open Weights to Frontier On-Device Inference Speed basecompute • 4 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 327 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 5 days ago • 34 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 6 days ago • 14 New imatrix dataset bartowski • 7 days ago • 13 Writing Down the Line Between Luck and Skill FINAL-Bench • about 18 hours ago • 11 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 3 days ago • 10 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 4 days ago • 9 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 12 days ago • 8 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 12 days ago • 49 Sleeper Agents and How to Tame Them tngtech • 12 days ago • 26 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 5 days ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 900 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 382 Introducing the EdgeFirst Model Zoo EdgeFirst • about 4 hours ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 397 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 The Open Agent Leaderboard ibm-research • May 18 • 17 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 27 days ago • 17 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 14 days ago • 6 audio speech benchmark Measuring benchmark optimization in speech recognition +3 51 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 34 August 20, 2026 How Much Memory Does Your Agent Actually Need? 65 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 90 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 150 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 29 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 99 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Thinking of ACE? We Can Do It with Fewer Tokens 30 August 11, 2026 Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS 35 August 10, 2026 Making Knowledge Distillation Cheap Enough to Run at Scale 37 August 10, 2026 llms vlms meta Meta is back with Muse Glimmer: local, agentic, multimodal, and open source 106 August 10, 2026 llms inference-providers baseten Baseten on Hugging Face Inference Providers 🔥 +4 32 August 6, 2026 Previous 1 2 3 ... 61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 5 days ago • 34 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 6 days ago • 14 New imatrix dataset bartowski • 7 days ago • 13 Writing Down the Line Between Luck and Skill FINAL-Bench • about 18 hours ago • 11 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 3 days ago • 10 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 4 days ago • 9 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 12 days ago • 8 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 12 days ago • 49 Sleeper Agents and How to Tame Them tngtech • 12 days ago • 26 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 5 days ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 900 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 382 Introducing the EdgeFirst Model Zoo EdgeFirst • about 4 hours ago • 5 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 397 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 The Open Agent Leaderboard ibm-research • May 18 • 17 ECMWF's AI forecasting model is open source: now let's make it easy to run. hugging-science • 27 days ago • 17 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 SraVaani: How Vision Helps Hearing ARTPARK-IISc • 14 days ago • 6 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
     "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
+  },
+  {
+    "id": "src_simonwillison-blog_a80370fa0d6abc37",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+    "title": "llm-anthropic 0.27",
+    "rawSummary": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with: Upgrade to anthropic>=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md and get the tests passing Here's the resulting PR . Tags: python , httpx , llm , anthropic , claude",
+    "publishedAt": "2026-08-24T16:27:04.000Z",
+    "crawledAt": "2026-08-24T23:19:07.846Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Release: llm-anthropic 0.27 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 24th August 2026 Release llm-anthropic 0.27 &mdash; LLM access to models by Anthropic, including the Claude series This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with: Upgrade to anthropic>=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md and get the tests passing Here's the resulting PR . Posted 24th August 2026 at 4:27 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a beat by Simon Willison, posted on 24th August 2026 . python 1,277 httpx 8 llm 626 anthropic 331 claude 303 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+  },
+  {
+    "id": "src_simonwillison-blog_4233d9949cc3d8e2",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+    "title": "Your executable is a SQLite database",
+    "rawSummary": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable & Linkable Format. The various components of the ELF executable format are then arranged into a number of different SQLite tables, using this schema . Their self-exec interpreter ( C code here ) can then extract and execute the necessary pieces. You can additionally use a Linux mechanism called binfmt_misc to teach the kernel to execute that any time it encounters an executable matching that binary pattern. Farid uses NixOS here, but without NixOS I think registration looks something like this: printf '%s\\n' ':self:M:68:SELF::/usr/local/bin/self-exec:' \\ > /proc/sys/fs/binfmt_misc/register Via Hacker News Tags: c , linux , sqlite",
+    "publishedAt": "2026-08-24T11:38:15.000Z",
+    "crawledAt": "2026-08-24T23:19:07.846Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Your executable is a SQLite database Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 24th August 2026 - Link Blog Your executable is a SQLite database ( via ) Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable & Linkable Format. The various components of the ELF executable format are then arranged into a number of different SQLite tables, using this schema . Their self-exec interpreter ( C code here ) can then extract and execute the necessary pieces. You can additionally use a Linux mechanism called binfmt_misc to teach the kernel to execute that any time it encounters an executable matching that binary pattern. Farid uses NixOS here, but without NixOS I think registration looks something like this: printf '%s\\n' ':self:M:68:SELF::/usr/local/bin/self-exec:' \\ > /proc/sys/fs/binfmt_misc/register Posted 24th August 2026 at 11:38 am Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 24th August 2026 . c 54 linux 51 sqlite 485 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_2bc26709368c49d8",
@@ -504,14 +540,14 @@
     "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
     "rawSummary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\" As for OpenAI, \"annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year\". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , claude , claude-mythos-fable",
     "publishedAt": "2026-08-23T20:24:52.000Z",
-    "crawledAt": "2026-08-24T11:15:54.008Z",
+    "crawledAt": "2026-08-24T23:19:07.846Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 23rd August 2026 - Link Blog Anthropic’s best AI model struggles to attract users as cheaper tools thrive ( via ) A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\" As for OpenAI, \"annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year\". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Posted 23rd August 2026 at 8:24 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 23rd August 2026 . ai 2,201 openai 450 generative-ai 1,950 llms 1,917 anthropic 330 claude 302 claude-mythos-fable 38 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 23rd August 2026 - Link Blog Anthropic’s best AI model struggles to attract users as cheaper tools thrive ( via ) A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\" As for OpenAI, \"annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year\". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Posted 23rd August 2026 at 8:24 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 23rd August 2026 . ai 2,201 openai 450 generative-ai 1,950 llms 1,917 anthropic 331 claude 303 claude-mythos-fable 38 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_6437449a8f8f8c43",
@@ -522,14 +558,14 @@
     "title": "Quoting Drew Breunig",
     "rawSummary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible . But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed. So we started to think about what work went where. &mdash; Drew Breunig , Fable & The End of the Free Lunch Tags: drew-breunig , anthropic , claude , llm-pricing , ai , llms , generative-ai , claude-mythos-fable",
     "publishedAt": "2026-08-23T19:55:30.000Z",
-    "crawledAt": "2026-08-24T11:15:54.008Z",
+    "crawledAt": "2026-08-24T23:19:07.846Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "A quote from Drew Breunig Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 23rd August 2026 Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible . But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed. So we started to think about what work went where. &mdash; Drew Breunig , Fable & The End of the Free Lunch Posted 23rd August 2026 at 7:55 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a quotation collected by Simon Willison, posted on 23rd August 2026 . ai 2,201 generative-ai 1,950 llms 1,917 anthropic 330 claude 302 drew-breunig 21 llm-pricing 90 claude-mythos-fable 38 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "A quote from Drew Breunig Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 23rd August 2026 Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible . But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed. So we started to think about what work went where. &mdash; Drew Breunig , Fable & The End of the Free Lunch Posted 23rd August 2026 at 7:55 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a quotation collected by Simon Willison, posted on 23rd August 2026 . ai 2,201 generative-ai 1,950 llms 1,917 anthropic 331 claude 303 drew-breunig 21 llm-pricing 90 claude-mythos-fable 38 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_740ce5e55e505b73",
@@ -540,50 +576,14 @@
     "title": "Quoting Linus Torvalds",
     "rawSummary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit where credit is due and I let the AI write the commit message above. &mdash; Linus Torvalds , drm/xe: Don't hand out the flat CCS storage as usable VRAM Tags: linus-torvalds , linux , generative-ai , ai-assisted-programming , ai , llms",
     "publishedAt": "2026-08-22T21:04:26.000Z",
-    "crawledAt": "2026-08-24T11:15:54.008Z",
+    "crawledAt": "2026-08-24T23:19:07.846Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "A quote from Linus Torvalds Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 22nd August 2026 And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit where credit is due and I let the AI write the commit message above. &mdash; Linus Torvalds , drm/xe: Don't hand out the flat CCS storage as usable VRAM Posted 22nd August 2026 at 9:04 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a quotation collected by Simon Willison, posted on 22nd August 2026 . linus-torvalds 9 linux 50 ai 2,201 generative-ai 1,950 llms 1,917 ai-assisted-programming 403 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
-  },
-  {
-    "id": "src_simonwillison-blog_edb0c81b18e93136",
-    "sourceConfigId": "simonwillison-blog",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "sourceUrl": "https://simonwillison.net/2026/Aug/22/llm/",
-    "title": "llm 0.33",
-    "rawSummary": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix. llm embed and llm embed-multi now accept --key . The Python EmbeddingModel.embed() , EmbeddingModel.embed_multi() , Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedding plugins without changing shared model state. Existing plugins that read self.key continue to work through a compatibility fallback. Thanks, ChrisJr404 . #757 , #1620 The embedding models now use the same pattern for keys that regular LLM models do. llm prompt -t/--template can now be repeated to combine templates in order. This allows model configuration and options from one template to be used with a prompt from another. This unlocks a neat pattern where you can create templates that package a model with a set of default options: llm -m gpt-5.6-luna -o reasoning_effort high --save lhigh llm \"Generate an SVG of a pelican riding a bicycle\" --save pelican # Combine and run the templates llm -t lhigh -t pelican Reasoning-capable Responses API models now support a reasoning_summary option with auto , concise , and detailed values. This can be used with llm openai endpoint --responses . #1600 This is particularly useful for exercising different models that provide their own imitation of the OpenAI Responses API. Tags: annotated-release-notes , llm",
-    "publishedAt": "2026-08-22T17:01:16.000Z",
-    "crawledAt": "2026-08-24T11:15:54.008Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "score": 0.82,
-    "crawlStatus": "live",
-    "extractedText": "Release: llm 0.33 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 22nd August 2026 Release llm 0.33 &mdash; Access large language models from the command-line My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix. llm embed and llm embed-multi now accept --key . The Python EmbeddingModel.embed() , EmbeddingModel.embed_multi() , Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedding plugins without changing shared model state. Existing plugins that read self.key continue to work through a compatibility fallback. Thanks, ChrisJr404 . #757 , #1620 The embedding models now use the same pattern for keys that regular LLM models do. llm prompt -t/--template can now be repeated to combine templates in order. This allows model configuration and options from one template to be used with a prompt from another. This unlocks a neat pattern where you can create templates that package a model with a set of default options: llm -m gpt-5.6-luna -o reasoning_effort high --save lhigh llm \"Generate an SVG of a pelican riding a bicycle\" --save pelican # Combine and run the templates llm -t lhigh -t pelican Reasoning-capable Responses API models now support a reasoning_summary option with auto , concise , and detailed values. This can be used with llm openai endpoint --responses . #1600 This is particularly useful for exercising different models that provide their own imitation of the OpenAI Responses API. Posted 22nd August 2026 at 5:01 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a beat by Simon Willison, posted on 22nd August 2026 . annotated-release-notes 61 llm 625 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
-  },
-  {
-    "id": "src_simonwillison-blog_83a3b544708f7a70",
-    "sourceConfigId": "simonwillison-blog",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "sourceUrl": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-    "title": "More than just code review",
-    "rawSummary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software. Tags: code-review , coding-agents , generative-ai , agentic-engineering , ai , llms",
-    "publishedAt": "2026-08-22T15:56:54.000Z",
-    "crawledAt": "2026-08-24T11:15:54.008Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "score": 0.82,
-    "crawlStatus": "live",
-    "extractedText": "More than just code review Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 22nd August 2026 The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software. Posted 22nd August 2026 at 3:56 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a note by Simon Willison, posted on 22nd August 2026 . code-review 15 ai 2,201 generative-ai 1,950 llms 1,917 coding-agents 240 agentic-engineering 59 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "A quote from Linus Torvalds Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 22nd August 2026 And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit where credit is due and I let the AI write the commit message above. &mdash; Linus Torvalds , drm/xe: Don't hand out the flat CCS storage as usable VRAM Posted 22nd August 2026 at 9:04 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a quotation collected by Simon Willison, posted on 22nd August 2026 . linus-torvalds 9 linux 51 ai 2,201 generative-ai 1,950 llms 1,917 ai-assisted-programming 403 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_lilianweng-blog_31a2c7baf9b791a5",
@@ -593,8 +593,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-08-24T11:15:54.010Z",
-    "crawledAt": "2026-08-24T11:15:54.010Z",
+    "publishedAt": "2026-08-24T23:19:07.831Z",
+    "crawledAt": "2026-08-24T23:19:07.831Z",
     "categoryHints": [
       "ai-agentic"
     ],
