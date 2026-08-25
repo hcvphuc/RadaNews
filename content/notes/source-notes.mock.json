@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-25T11:14:42.031Z",
+    "publishedAt": "2026-08-25T23:21:26.974Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-25T11:14:41.614Z",
+    "publishedAt": "2026-08-25T23:21:26.031Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-25T11:14:41.409Z",
+    "publishedAt": "2026-08-25T23:21:25.722Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-25T11:14:42.115Z",
+    "publishedAt": "2026-08-25T23:21:26.580Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,6 +167,62 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aiagents_e297d2f9774f7091",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vy5dkh/are_ai_agents_actually_better_than_deterministic/",
+    "title": "Are AI agents actually better than deterministic workflows?",
+    "publishedAt": "2026-08-25T16:52:48.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "I've been experimenting with AI agents and I'm starting to wonder where the line should be For example, if a workflow is basically receive request → call API → check result → call another API → return response it seems more reliable and easier to debug as a normal workflow But if the system needs to decide which tools to use, in what order, and adapt based on the results, an agent starts making more sense So I'm curious about people actually building these systems What is the specific point where you decide “this should be an agent” instead of a normal workflow?",
+      "submitted by /u/Useful_Lecture_5927 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "I've been experimenting with AI agents and I'm starting to wonder where the line should be For example, if a workflow is basically receive request → call API → check result → call another API → return response it seems more reliable and easier to debug as a normal workflow But if the system needs to decide which tools to use, in what order, and adapt based on the results, an agent starts making more sense So I'm curious about people actually building these systems What is the specific point where you decide “this should be an agent” instead of a normal workflow? submitted by /u/Useful_Lecture_5927 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vy5dkh/are_ai_agents_actually_better_than_deterministic/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_reddit-aiagents_ec4163b550424500",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vyak7k/what_is_agentic_banking/",
+    "title": "What is agentic banking?",
+    "publishedAt": "2026-08-25T19:54:56.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "I keep seeing “agentic banking” and I’m trying to understand what people actually mean by it.",
+      "Is it AI connected to a business bank account or more like AI helping with transactions, payments, approvals and finance admin before a human reviews it?",
+      "Is anyone using something like this yet or is it still mostly a concept?",
+      "submitted by /u/No_Trash952 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "I keep seeing “agentic banking” and I’m trying to understand what people actually mean by it. Is it AI connected to a business bank account or more like AI helping with transactions, payments, approvals and finance admin before a human reviews it? Is anyone using something like this yet or is it still mostly a concept? submitted by /u/No_Trash952 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vyak7k/what_is_agentic_banking/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aiagents_b069a1ae1884d689",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -196,70 +252,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_80bccadce0d40fa9",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vxr42k/how_are_people_evaluating_ai_agents_after_they_go/",
-    "title": "How are people evaluating AI agents after they go into production?",
-    "publishedAt": "2026-08-25T05:46:03.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "I keep seeing a lot of discussion about building agents, improving prompts, adding tools, RAG, memory, etc.",
-      "But I'm curious about what happens after the agent is actually talking to real users .",
-      "Suppose an agent handles 5,000 conversations.",
-      "How do you know whether: it gave the correct answer?"
-    ],
-    "claims": [
-      {
-        "text": "I keep seeing a lot of discussion about building agents, improving prompts, adding tools, RAG, memory, etc. But I'm curious about what happens after the agent is actually talking to real users . Suppose an agent handles 5,000 conversations. How do you know whether: it gave the correct answer? it followed the company's current policy? it should have escalated but didn't? it relied on outdated information? it gave a technically plausible but incorrect answer? the same mistake is happening repeatedly? Automated evals obviously help, but I'm wondering how people handle the messy real-world conversations that weren't anticipated when the eval set was created. I'm particularly interested in production QA rather than pre-launch testing. If you're running agents in production, what does your QA/evaluation process actually look like? submitted by /u/Over_Economics7893 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vxr42k/how_are_people_evaluating_ai_agents_after_they_go/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_b415433ab6b2f547",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vxrir1/instinct_went_viral_by_hiding_everything_no_team/",
-    "title": "Instinct went viral by hiding everything no team page, no launch, just a waitlist. I build in the same space, in the open. Starting to wonder if that's a mistake",
-    "publishedAt": "2026-08-25T06:08:43.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Last week I posted a Grok Bot teardown; this one's less comfortable to write.",
-      "If you've been anywhere near tech Twitter this week, you've seen Instinct the invite-only personal assistant that books your handyman, negotiates your Comcast bill, calls the airline to link your tickets.",
-      "But look at what's around them: no launch video.",
-      "A company name (Spear Street Technology) that tells you nothing."
-    ],
-    "claims": [
-      {
-        "text": "Founder of an agent startup here. Last week I posted a Grok Bot teardown; this one's less comfortable to write. If you've been anywhere near tech Twitter this week, you've seen Instinct the invite-only personal assistant that books your handyman, negotiates your Comcast bill, calls the airline to link your tickets. The demos are genuinely great. But look at what's around them: no launch video. No feature page. A company name (Spear Street Technology) that tells you nothing. TechCrunch had to pull California business filings to establish that the team is led by an ex-Sierra researcher, because the site names nobody. VCs are publicly asking strangers for invite links. One investor openly admired the FOMO strategy. Nobody knows who built it, and that's not a bug in the launch. It IS the launch. Meanwhile, here's my playbook at Vestra: face on every post. Public teardowns of competitors under my real name. Build-in-public updates. Demo videos with my voice on them. A waitlist too, sure but mine is a signup form, theirs is a velvet rope. Same mechanic, completely different physics. And watching their week, I keep asking myself which of us is compounding. The case for their way is stronger than I want it to be. Mystery outsources your marketing, every \"who's behind this??\" tweet is a billboard someone else paid for. Scarcity converts doubt into desire; nobody asks \"is this safe?\" when they're busy asking \"who has an invite?\" And hiding the team means the product carries the whole story. No founder brand to maintain, no content calendar, no me. The case for my way is the one I can't fully verify, because I'm inside it. I don't know why Instinct's team hides could be compute, could be competition, could be genius. But I know what showing my face does: it means my personal name is welded to every claim we make. If the product disappoints someone, they don't get to be mad at a logo they know exactly who promised them what. I can't quietly rebrand, can't let a deck take the blame. That constraint forces a kind of honesty that no amount of copywriting produces, because I have to be able to personally survive every sentence we publish. Trust built that way is slow and boring. I think it compounds. Instinct's mystery is a debt and the first installment came due this week. Testers are now reporting an email sent without approval (\"broke my trust,\" her words), an inbox that kept getting summarized after access was disconnected, a successful phishing demo that ended in a deleted account. The team's response so far: silence. That's the cost of having no face, when trust breaks, there's no one to answer for it. My face is the opposite: prepaid. The cost lands on me now, every post, and the bet is that it's buying something mystery can't. But \"I think it compounds\" is exactly what someone losing would tell themselves. The one thing I'll say against the mystery playbook: it only works if the product finishes the job. Every viral Instinct anecdote ends with a completed task. Hide a mediocre product behind a waitlist and you get silence, not FOMO. So maybe neither openness nor mystery is the variable — maybe it's just: does the thing work, and everything else is founder cope in both directions. Genuine question for people here, especially anyone who's launched both ways: does building in the open actually compound, or is that a story open founders tell ourselves while stealth teams eat our category? submitted by /u/NoSpecific64 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vxrir1/instinct_went_viral_by_hiding_everything_no_team/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_stability-ai-blog_2026-08-25_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-25T11:14:41.579Z",
+    "publishedAt": "2026-08-25T23:21:25.770Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +283,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-25T11:14:42.106Z",
+    "publishedAt": "2026-08-25T23:21:27.997Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +312,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-25T11:14:41.630Z",
+    "publishedAt": "2026-08-25T23:21:26.067Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -345,7 +343,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-25T11:14:41.564Z",
+    "publishedAt": "2026-08-25T23:21:25.812Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -372,7 +370,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-25T11:14:41.566Z",
+    "publishedAt": "2026-08-25T23:21:25.813Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +397,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-25T11:14:41.950Z",
+    "publishedAt": "2026-08-25T23:21:26.519Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +426,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-25T11:14:42.040Z",
+    "publishedAt": "2026-08-25T23:21:26.845Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -457,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-25T11:14:42.795Z",
+    "publishedAt": "2026-08-25T23:21:27.284Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -486,7 +484,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-25T11:14:41.624Z",
+    "publishedAt": "2026-08-25T23:21:25.930Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -513,12 +511,12 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-25T11:14:42.161Z",
+    "publishedAt": "2026-08-25T23:21:26.910Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models Grok Evals Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 19, 2026 · Changelog Cloud Agents and Cursor Harness Improvements We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.",
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models ↓ Grok Evals Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 19, 2026 · Changelog Cloud Agents and Cursor Harness Improvements We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.",
       "With this release, cloud agents can automatically pick up work in response to events, hold a goal until it's met, and stay on course through long-running sessions.",
       "# Subscriptions Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks.",
       "Cursor Agent subscribes to an event source (a thread or conversation) and wakes when something happens."
@@ -542,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-25T11:14:41.653Z",
+    "publishedAt": "2026-08-25T23:21:25.952Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -571,7 +569,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-25T11:14:41.846Z",
+    "publishedAt": "2026-08-25T23:21:26.246Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -598,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-25T11:14:42.085Z",
+    "publishedAt": "2026-08-25T23:21:27.015Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -627,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-25T11:14:41.801Z",
+    "publishedAt": "2026-08-25T23:21:26.225Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -657,7 +655,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-25T11:14:41.774Z",
+    "publishedAt": "2026-08-25T23:21:26.223Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -684,16 +682,16 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-25T11:14:43.523Z",
+    "publishedAt": "2026-08-25T23:21:29.451Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
       "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates.",
-      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing How to Make a Short Film?",
+      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 25, 2026 MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 25, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 25, 2026 How to Make a Short Film?",
       "12 Practical Steps From Idea to Release Aug 24, 2026 24 Short Film Ideas You Can Actually Make Aug 24, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Aug 20, 2026 10 Cinematography Techniques Every Creator Should Know Aug 18, 2026 14 Creative Music Video Ideas for Any Budget Aug 18, 2026 Content Ideas for Social Media: What to Post on Every Platform Aug 18, 2026 50+ YouTube Channel Ideas: Niches That Work in 2026 Aug 18, 2026 How to Create 4K E-commerce Product Videos with AI?",
-      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 Kling 3.0 15s Video: Master Narrative Control & Custom Duration Jul 28, 2026 A Guide to Producing Engaging AI-Animated Explainer Videos Jul 28, 2026 Kling AI: How to Guide a Video's Color Palette and Mood with Prompts Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
     ],
     "claims": [
       {
@@ -714,7 +712,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-25T11:14:41.799Z",
+    "publishedAt": "2026-08-25T23:21:26.302Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -741,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-25T11:14:41.876Z",
+    "publishedAt": "2026-08-25T23:21:26.362Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -749,9 +747,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 6 days ago • 34 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 6 days ago • 14 Writing Down the Line Between Luck and Skill FINAL-Bench • 1 day ago • 12 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 5 days ago • 10 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 3 days ago • 10 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 12 days ago • 8 New imatrix dataset bartowski • 8 days ago • 13 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 13 days ago • 49 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 6 days ago • 6 Sleeper Agents and How to Tame Them tngtech • 12 days ago • 26 Introducing the EdgeFirst Model Zoo EdgeFirst • about 15 hours ago • 5 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 900 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 382 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 397 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 The Open Agent Leaderboard ibm-research • May 18 • 17 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Fine-Tune SraVaani on Your Own Speech Data ARTPARK-IISc • 14 days ago • 5 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 14 days ago • 17 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 7 August 25, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 52 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 36 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "66 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 92 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 151 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 29 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 99 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Thinking of ACE?",
-      "We Can Do It with Fewer Tokens 30 August 11, 2026 Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS 35 August 10, 2026 Making Knowledge Distillation Cheap Enough to Run at Scale 37 August 10, 2026 llms vlms meta Meta is back with Muse Glimmer: local, agentic, multimodal, and open source 107 August 10, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 6 days ago • 34 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • about 8 hours ago • 15 Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 7 days ago • 14 Writing Down the Line Between Luck and Skill FINAL-Bench • 2 days ago • 12 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 5 days ago • 10 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 4 days ago • 10 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 13 days ago • 8 Introducing the EdgeFirst Model Zoo EdgeFirst • 1 day ago • 7 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 6 days ago • 6 Sleeper Agents and How to Tame Them tngtech • 13 days ago • 26 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 13 days ago • 49 New imatrix dataset bartowski • 8 days ago • 13 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 900 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 382 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 13 days ago • 38 Fine-Tune SraVaani on Your Own Speech Data ARTPARK-IISc • 15 days ago • 5 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 14 days ago • 17 Granite 4.2 LLMs: How They're Built 30 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 15 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 12 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 8 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 53 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 38 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "66 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 94 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 153 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 29 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 99 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Thinking of ACE?",
+      "We Can Do It with Fewer Tokens 30 August 11, 2026 Previous 1 2 3 ...",
       "61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -766,6 +764,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_852f9e4066548445",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+    "title": "EVE Online: The Move to Python 3 Begins!",
+    "publishedAt": "2026-08-25T22:59:30.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "EVE Online: The Move to Python 3 Begins!",
+      "Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
+      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
+      "25th August 2026 - Link Blog EVE Online: The Move to Python 3 Begins!"
+    ],
+    "claims": [
+      {
+        "text": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for example 1 / 2 is 0 in Python 2 but is 0.5 in Python 3. There's nothing in this announcement about how they plan to replace Stackless, but at their conference last year they presented Scheduling in Carbon: Leaving Stackless Python Behind describing how they replaced Stackless in the Carbon engine for their more recent game EVE Frontier, using their (now open source) carbonengine/scheduler library. Via Lobster.rs Tags: eve-online , migrations , python , python3 , stackless",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_a80370fa0d6abc37",
@@ -888,42 +916,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_740ce5e55e505b73",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
-    "title": "Quoting Linus Torvalds",
-    "publishedAt": "2026-08-22T21:04:26.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Linus Torvalds Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
-      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
-      "22nd August 2026 And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.",
-      "I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it."
-    ],
-    "claims": [
-      {
-        "text": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit where credit is due and I let the AI write the commit message above. &mdash; Linus Torvalds , drm/xe: Don't hand out the flat CCS storage as usable VRAM Tags: linus-torvalds , linux , generative-ai , ai-assisted-programming , ai , llms",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/22/linus-torvalds/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-25T11:14:41.836Z",
+    "publishedAt": "2026-08-25T23:21:26.400Z",
     "categoryHints": [
       "ai-agentic"
     ],

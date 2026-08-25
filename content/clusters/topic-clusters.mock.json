@@ -5,11 +5,11 @@
     "topic": "LangChain Blog",
     "sourceIds": [
       "src_langchain-blog_40ded3f923e3291d",
+      "src_simonwillison-blog_852f9e4066548445",
       "src_simonwillison-blog_4233d9949cc3d8e2",
       "src_simonwillison-blog_2bc26709368c49d8",
       "src_simonwillison-blog_a80370fa0d6abc37",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_simonwillison-blog_740ce5e55e505b73",
       "src_simonwillison-blog_6437449a8f8f8c43",
       "src_cursor-changelog_99cdbb7e2d70df11"
     ],
@@ -66,7 +66,8 @@
     "topic": "Blog | Pika",
     "sourceIds": [
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_80bccadce0d40fa9",
+      "src_reddit-aiagents_e297d2f9774f7091",
+      "src_reddit-aiagents_ec4163b550424500",
       "src_reddit-aiagents_b069a1ae1884d689",
       "src_reddit-aiagents_97437e06e1a0cdc5",
       "src_reddit-aiagents_6a455bd719766a99",
@@ -74,22 +75,21 @@
       "src_mcp-blog_2026-08-25_fallback"
     ],
     "articleWorthinessScore": 0.82,
-    "reasonSelected": "Score 0.82 from 7 source item(s), 5 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
+    "reasonSelected": "Score 0.82 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_instinct-went-viral-by-hiding-everything-no-team-page-no-launch-_2026-08-25",
+    "clusterId": "cluster_ai-vibe-coding_2_blog-black-forest-labs_2026-08-25",
     "category": "ai-vibe-coding",
-    "topic": "Instinct went viral by hiding everything no team page, no launch, just a wait...",
+    "topic": "Blog | Black Forest Labs",
     "sourceIds": [
-      "src_reddit-aiagents_b415433ab6b2f547",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_vercel-ai-blog_2026-08-25_fallback"
     ],
-    "articleWorthinessScore": 0.8,
-    "reasonSelected": "Score 0.80 from 3 source item(s), 2 live crawl(s), strongest sources: r/AI_Agents, Black Forest Labs, Vercel AI Blog.",
-    "confidence": "high",
+    "articleWorthinessScore": 0.65,
+    "reasonSelected": "Score 0.65 from 2 source item(s), 1 live crawl(s), strongest sources: Black Forest Labs, Vercel AI Blog.",
+    "confidence": "medium",
     "selectedForGeneration": true
   },
   {
