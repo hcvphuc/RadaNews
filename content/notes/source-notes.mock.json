@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-26T11:17:37.488Z",
+    "publishedAt": "2026-08-27T04:12:22.070Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-26T11:17:36.872Z",
+    "publishedAt": "2026-08-27T04:12:20.877Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-26_fallback",
+    "sourceId": "src_openai-blog_2026-08-27_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-26T11:17:36.717Z",
+    "publishedAt": "2026-08-27T04:12:20.776Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-26_fallback",
+    "sourceId": "src_mcp-blog_2026-08-27_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-26T11:17:37.272Z",
+    "publishedAt": "2026-08-27T04:12:21.207Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -113,12 +113,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6a455bd719766a99",
+    "sourceId": "src_reddit-aiagents_34783379f90f9b51",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vmi8k6/weekly_thread_project_display/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vz16hl/weekly_thread_project_display/",
     "title": "Weekly Thread: Project Display",
-    "publishedAt": "2026-08-12T16:00:55.000Z",
+    "publishedAt": "2026-08-26T16:00:34.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -131,7 +131,7 @@
       {
         "text": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vmi8k6/weekly_thread_project_display/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vz16hl/weekly_thread_project_display/"
       }
     ],
     "usableFor": [
@@ -167,26 +167,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_20b17225e9fc98df",
+    "sourceId": "src_reddit-aiagents_5e0158ffaa47888b",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vylogu/minimax_m3_is_free_now_on_gmi_cloud/",
-    "title": "Minimax M3 is free now on GMI Cloud",
-    "publishedAt": "2026-08-26T03:33:40.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vzbx4e/when_should_an_ai_agent_hand_off_to_a_human/",
+    "title": "When should an AI agent hand off to a human?",
+    "publishedAt": "2026-08-26T22:27:56.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "GMI Cloud has MiniMax M3 free until September 6.",
-      "I checked their page and they also have M2.7, Speech 2.8 and Music 3.0 there.",
-      "M3 works through OpenRouter too, not just GMI Cloud.",
-      "Guys, save your credits and use this for now."
+      "At what point should an AI agent stop trying and bring in a human, I’m interested to know how teams set that line without handing off too early or frustrating customers by waiting too long what triggers have worked well for you?",
+      "submitted by /u/TopicFlat3709 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "GMI Cloud has MiniMax M3 free until September 6. I checked their page and they also have M2.7, Speech 2.8 and Music 3.0 there. M3 works through OpenRouter too, not just GMI Cloud. Guys, save your credits and use this for now. submitted by /u/Porn197617_ [link] [comments]",
+        "text": "At what point should an AI agent stop trying and bring in a human, I’m interested to know how teams set that line without handing off too early or frustrating customers by waiting too long what triggers have worked well for you? submitted by /u/TopicFlat3709 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vylogu/minimax_m3_is_free_now_on_gmi_cloud/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vzbx4e/when_should_an_ai_agent_hand_off_to_a_human/"
       }
     ],
     "usableFor": [
@@ -196,26 +194,55 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_e2f1bda101ff2e35",
+    "sourceId": "src_reddit-aiagents_c4502d90487b4d83",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vys3ti/which_ai_assistant_should_i_use_for_excelpdf/",
-    "title": "Which AI assistant should I use for Excel/PDF quotations + WhatsApp/WeChat?",
-    "publishedAt": "2026-08-26T09:25:55.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vyxua5/i_ran_a_sixagent_ai_marketing_team_for_three/",
+    "title": "I ran a six-agent AI marketing team for three months. This is what it did.",
+    "publishedAt": "2026-08-26T13:56:36.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’m pretty new to AI and trying to figure out what’s actually practical for my business.",
-      "I run a China-based B2B business and mainly want an AI assistant that can help me with: Excel quotations Proforma invoices in Excel Exporting them to PDF Using my existing quotation/PI templates Simple research questions Ideally integrating with WhatsApp and WeChat/WeCom For example, I’d like to be able to say: And have the AI pull the right product details/pricing info, create the Excel quotation, make a PDF, and send it to me for approval.",
-      "The tools I’m currently looking at are: ChatGPT DeepSeek OpenClaw QClaw I’m trying to understand: Which one is best for this?",
-      "Can they create proper Excel quotations/PIs and PDFs?"
+      "\\ I mentioned this case a few times in this sub, and were asked to share more details on it.* For three months, a fintech project ran with a one-person marketing function: me, backed by six AI agents.",
+      "The agents handled social content, email, advertising monitoring, growth experiments, and outreach.",
+      "I handled strategy, priorities, approvals, and anything with enough ambiguity or risk to require judgment.",
+      "It handled schedules, tools, permissions, memory, and handoffs."
     ],
     "claims": [
       {
-        "text": "I’m pretty new to AI and trying to figure out what’s actually practical for my business. I run a China-based B2B business and mainly want an AI assistant that can help me with: Excel quotations Proforma invoices in Excel Exporting them to PDF Using my existing quotation/PI templates Simple research questions Ideally integrating with WhatsApp and WeChat/WeCom For example, I’d like to be able to say: And have the AI pull the right product details/pricing info, create the Excel quotation, make a PDF, and send it to me for approval. The tools I’m currently looking at are: ChatGPT DeepSeek OpenClaw QClaw I’m trying to understand: Which one is best for this? Can they create proper Excel quotations/PIs and PDFs? Can they work with existing Excel templates? Can they connect to WhatsApp and WeChat/WeCom? Do I need to build my own AI agent, or can I do most of this with existing tools? What would the simplest setup look like for someone who isn't very technical? Basically, I want: WhatsApp/WeChat → AI → pricing/product info → Excel quotation/PI → PDF → my approval Please explain it like I’m 5 . I’m new to this and mainly want to know what is actually realistic and easiest to set up. submitted by /u/mvchi_ [link] [comments]",
+        "text": "\\ I mentioned this case a few times in this sub, and were asked to share more details on it.* For three months, a fintech project ran with a one-person marketing function: me, backed by six AI agents. The agents handled social content, email, advertising monitoring, growth experiments, and outreach. I handled strategy, priorities, approvals, and anything with enough ambiguity or risk to require judgment. Built it from the ground up. The setup ran on OpenClaw. It handled schedules, tools, permissions, memory, and handoffs. Claude models did most of the underlying model work. This is a historical snapshot from March to May 2026, after the team had been running for almost three months. The project pivoted since, so the team was wrapped up. The six roles I gave every agent one narrow job: Orchestrator: coordinated the other five agents, passed work between them, and routed decisions to me. Social media: prepared posts and distributed approved content across channels. Email: drafted newsletters and customer emails. Advertising: monitored paid campaigns and flagged changes. Growth: researched and tested acquisition ideas. Outreach: managed the influencer and partner pipeline. Each agent had its own instructions, tool access, schedule, reporting format, and stop conditions. The handoffs were the useful part. A product update could trigger an email draft, several social posts, and a retargeting task. I did not have to copy the same context between four tools or remember to start every next step myself. What the team produced The March-May snapshot included: 20 blog posts About 195 social posts across seven platforms 4 newsletters About 43 influencer contacts moving through an outreach pipeline 2 advertising accounts with continuously active Meta and Reddit campaigns (4 full campaign updates each month) During the final two months, when the agents were operating with their highest level of autonomy: Organic traffic increased 7x. Referral traffic increased 10x. Average cost per lead fell 30% across channels while the ad budget stayed flat. Reddit organic posts received 135,000 views. The project subreddit gained 300 organic subscribers who continued to send traffic. Those numbers need a caveat. Product development was moving at the same time, and this was a startup in motion, not a controlled experiment. I excluded metrics where I could not separate the agents' contribution from other changes. Even the remaining numbers do not offer clean causal attribution. The narrower claim is the one I can defend: the agents produced the output listed above, expanded channel coverage, and operated during a period when acquisition metrics improved without a larger advertising budget. What it cost The May bill was $359 for the month : Hetzner VPS: $10 Claude Max: $200 ChatGPT Plus: $20 Gemini: $20 Perplexity API: about $12 Linear: $16 Postiz: $49 X API: $10 Firecrawl: $16 Google Workspace seat: $6 OpenClaw: free The agents fit within one flat Claude Max subscription at the time, so the $359 total depends on the subscription setup we used in April-May 2026. The $359 also leaves out the expensive part: my time. Getting an agent to a stable working state took roughly two weeks of role definition, tool connections, permissions, test runs, and instruction changes. Ongoing maintenance took about eight hours a week across the system: reviewing samples, checking sources, resolving ambiguous cases, cleaning memory, and updating rules. What broke The obvious failures were easy to catch. An agent would miss a tool call, fail a scheduled run, or return an empty report. Other recurring problems: Generic marketing defaults. Models reproduce familiar campaign structures, average positioning, and advice that sounds reasonable across almost any company. Source errors. A weak answer rarely labels itself as weak. Every factual output needs a source trail. Memory decay. Old rules conflict with new ones. Temporary facts survive as permanent instructions. More context eventually becomes more clutter. Permission mistakes. An agent that can publish, email, spend, or delete needs explicit limits and stop conditions. Automation without demand. A scheduled workflow keeps running even when the input becomes stale or nobody uses the output. That changed my job. I wrote less and reviewed more. I spent more time checking samples, inspecting sources, and deciding which exceptions should become permanent rules. What changed after another 30+ agents Since this first team, I have built and tested more than 30 agents across several teams and niches. The results varied a lot. Some niches like ecom have abundant structured data, stable processes, and clear definitions of a good output. Agents become useful quickly there. Other niches like specific b2b SaaS depend on tacit context, taste, relationships, private data, or judgment that is hard to encode. Those agents need much more supervision, and some workflows never become worth maintaining. The model matters. The tools matter. The process around them matters more than either. My biggest takeaway is still the oldest rule in computing: garbage in, garbage out. If the brief is vague, the sources are weak, the success criteria are missing, or the underlying process is a mess, an agent scales the mess. Usually with excellent formatting. So we keep working on the input: narrower roles, better source rules, explicit examples, stop conditions, approval gates, and logs of recurring errors. The agents keep getting better. The management work does not disappear. It moves into the system. But overall, agents changed my life and my work paradigm. Love every second of it. Happy to answer any questions. submitted by /u/uvallie [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vys3ti/which_ai_assistant_should_i_use_for_excelpdf/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vyxua5/i_ran_a_sixagent_ai_marketing_team_for_three/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-aiagents_c5a20fded2485901",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vz7037/why_do_most_business_automation_projects_fail/",
+    "title": "Why do most business automation projects fail?",
+    "publishedAt": "2026-08-26T19:25:10.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Every big automation rollout I've seen follows the same arc: huge vision, huge budget, huge delay, quiet death 18 months later.",
+      "The ones that actually work never start big.",
+      "They start with the one task everyone already hates the Friday report, the copy-paste spreadsheet automate that, prove it saves real time, and let trust build from there.",
+      "Nobody has to \"believe\" in a roadmap; they just see their Friday afternoon back."
+    ],
+    "claims": [
+      {
+        "text": "Every big automation rollout I've seen follows the same arc: huge vision, huge budget, huge delay, quiet death 18 months later. The ones that actually work never start big. They start with the one task everyone already hates the Friday report, the copy-paste spreadsheet automate that, prove it saves real time, and let trust build from there. Small wins compound. Nobody has to \"believe\" in a roadmap; they just see their Friday afternoon back. Leadership can still own the big vision. But the second execution gets centralized and scaled before anything's proven, you've traded a hundred small reversible bets for one giant irreversible one. Change my mind has anyone actually seen a top-down \"automate everything\" rollout succeed, or does it always end up getting quietly rescued by someone automating one task at a time? submitted by /u/Conscious_Belt_8444 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vz7037/why_do_most_business_automation_projects_fail/"
       }
     ],
     "usableFor": [
@@ -225,40 +252,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_31cb98f1a2d2fcac",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vyjoxi/what_is_your_most_unique_use_of_ai_agents/",
-    "title": "What is your most unique use of AI agents?",
-    "publishedAt": "2026-08-26T02:03:24.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Wondering how people have been using this technology in unique and creative ways.",
-      "Workflows that are some variant of building websites, summarizing emails, automating website interactions are starting to become common place now.",
-      "submitted by /u/Pristine2268 [link] [comments]"
-    ],
-    "claims": [
-      {
-        "text": "Wondering how people have been using this technology in unique and creative ways. Workflows that are some variant of building websites, summarizing emails, automating website interactions are starting to become common place now. submitted by /u/Pristine2268 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vyjoxi/what_is_your_most_unique_use_of_ai_agents/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_stability-ai-blog_2026-08-26_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-27_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-26T11:17:36.998Z",
+    "publishedAt": "2026-08-27T04:12:21.112Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -284,7 +283,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-26T11:17:37.470Z",
+    "publishedAt": "2026-08-27T04:12:21.839Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +312,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-26T11:17:37.252Z",
+    "publishedAt": "2026-08-27T04:12:21.109Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +338,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-26_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-27_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-26T11:17:36.901Z",
+    "publishedAt": "2026-08-27T04:12:20.985Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +365,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-26_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-27_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-26T11:17:36.930Z",
+    "publishedAt": "2026-08-27T04:12:20.984Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +397,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-26T11:17:37.430Z",
+    "publishedAt": "2026-08-27T04:12:21.810Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +426,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-26T11:17:37.682Z",
+    "publishedAt": "2026-08-27T04:12:22.067Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-26T11:17:37.996Z",
+    "publishedAt": "2026-08-27T04:12:22.445Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +479,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-26_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-27_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-26T11:17:37.006Z",
+    "publishedAt": "2026-08-27T04:12:21.087Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,12 +511,12 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-26T11:17:37.484Z",
+    "publishedAt": "2026-08-27T04:12:21.921Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models ↓ Grok Evals Product ↓ Agents Cloud Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 19, 2026 · Changelog Cloud Agents and Cursor Harness Improvements We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.",
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models ↓ Grok Evals Product ↓ Agents Cloud Grok Bot ↗ Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 19, 2026 · Changelog Cloud Agents and Cursor Harness Improvements We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.",
       "With this release, cloud agents can automatically pick up work in response to events, hold a goal until it's met, and stay on course through long-running sessions.",
       "# Subscriptions Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks.",
       "Cursor Agent subscribes to an event source (a thread or conversation) and wakes when something happens."
@@ -541,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-26T11:17:38.052Z",
+    "publishedAt": "2026-08-27T04:12:21.140Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +564,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-26_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-27_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-26T11:17:37.435Z",
+    "publishedAt": "2026-08-27T04:12:21.552Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-26T11:17:37.556Z",
+    "publishedAt": "2026-08-27T04:12:22.089Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-26T11:17:37.177Z",
+    "publishedAt": "2026-08-27T04:12:21.485Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +650,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-26_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-27_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-26T11:17:37.086Z",
+    "publishedAt": "2026-08-27T04:12:21.328Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +682,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-26T11:17:39.011Z",
+    "publishedAt": "2026-08-27T04:12:23.041Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -708,12 +707,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-26_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-27_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-26T11:17:37.139Z",
+    "publishedAt": "2026-08-27T04:12:21.482Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-26T11:17:37.261Z",
+    "publishedAt": "2026-08-27T04:12:21.544Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,9 +747,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 7 days ago • 34 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • about 20 hours ago • 21 Writing Down the Line Between Luck and Skill FINAL-Bench • 2 days ago • 12 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 6 days ago • 11 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 4 days ago • 10 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 13 days ago • 8 Introducing the EdgeFirst Model Zoo EdgeFirst • 1 day ago • 7 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 7 days ago • 6 Sleeper Agents and How to Tame Them tngtech • 13 days ago • 26 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 901 Code a simple RAG from scratch ngxson • Oct 29, 2024 • 383 Fine-Tune SraVaani on Your Own Speech Data ARTPARK-IISc • 15 days ago • 6 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 14 days ago • 49 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 14 days ago • 38 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 15 days ago • 17 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 14 days ago • 15 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 14 days ago • 12 Granite 4.2 LLMs: How They're Built 42 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 18 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 14 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 12 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 53 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 40 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "69 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 94 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 155 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 29 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 100 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Thinking of ACE?",
-      "We Can Do It with Fewer Tokens 30 August 11, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 1 day ago • 24 LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 8 days ago • 34 Writing Down the Line Between Luck and Skill FINAL-Bench • 3 days ago • 12 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 7 days ago • 11 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 5 days ago • 10 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 14 days ago • 8 Introducing the EdgeFirst Model Zoo EdgeFirst • 2 days ago • 8 Modern LLMs: What the FLIP is an Engram!?",
+      "Blackroot • about 21 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 Fine-Tune SraVaani on Your Own Speech Data ARTPARK-IISc • 16 days ago • 6 Sleeper Agents and How to Tame Them tngtech • 14 days ago • 26 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 15 days ago • 49 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 7 days ago • 6 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 18 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 15 days ago • 38 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 33 August 26, 2026 Granite 4.2 LLMs: How They're Built 56 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 20 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 20 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 16 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 55 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 41 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "71 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 94 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 158 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 29 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 102 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Previous 1 2 3 ...",
       "61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -765,6 +764,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_45ba9e3e296b482f",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "title": "Qwen3.8-Flash-Next",
+    "publishedAt": "2026-08-26T23:52:58.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Qwen3.8-Flash-Next Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
+      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
+      "26th August 2026 - Link Blog Qwen3.8-Flash-Next ( via ) Another open weights model from Qwen.",
+      "This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\"."
+    ],
+    "claims": [
+      {
+        "text": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans ) and the 78.9GB UD-Q2_K_XL (producing these ). My favorite so far was this xhigh reasoning effort one from UD-Q2_K_XL: Via Hacker News Tags: ai , generative-ai , llms , qwen , pelican-riding-a-bicycle , ai-in-china , nvidia-spark",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_17864e6498c47c40",
@@ -887,42 +916,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_2bc26709368c49d8",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-    "publishedAt": "2026-08-23T20:24:52.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Anthropic’s best AI model struggles to attract users as cheaper tools thrive Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
-      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
-      "23rd August 2026 - Link Blog Anthropic’s best AI model struggles to attract users as cheaper tools thrive ( via ) A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here .",
-      "Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable."
-    ],
-    "claims": [
-      {
-        "text": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\" As for OpenAI, \"annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year\". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , claude , claude-mythos-fable",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-26T11:17:37.249Z",
+    "publishedAt": "2026-08-27T04:12:21.603Z",
     "categoryHints": [
       "ai-agentic"
     ],
