@@ -5,8 +5,8 @@
     "topic": "LangChain Blog",
     "sourceIds": [
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_852f9e4066548445",
       "src_simonwillison-blog_45ba9e3e296b482f",
+      "src_simonwillison-blog_852f9e4066548445",
       "src_simonwillison-blog_4233d9949cc3d8e2",
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_simonwillison-blog_a80370fa0d6abc37",
@@ -25,10 +25,10 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_17864e6498c47c40"
+      "src_replit-blog_2c607cbee6384da3"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Replit Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -61,34 +61,34 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-27",
+    "clusterId": "cluster_ai-vibe-coding_2_quoting-paul-dix_2026-08-27",
     "category": "ai-vibe-coding",
-    "topic": "The Official Blog | Replit",
+    "topic": "Quoting Paul Dix",
     "sourceIds": [
-      "src_replit-blog_2c607cbee6384da3",
+      "src_simonwillison-blog_17864e6498c47c40",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_vercel-ai-blog_2026-08-27_fallback"
     ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 3 source item(s), 2 live crawl(s), strongest sources: Replit Blog, Black Forest Labs, Vercel AI Blog.",
+    "articleWorthinessScore": 0.82,
+    "reasonSelected": "Score 0.82 from 3 source item(s), 2 live crawl(s), strongest sources: Simon Willison's Weblog, Black Forest Labs, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_i-ran-a-six-agent-ai-marketing-team-for-three-months-this-is-wha_2026-08-27",
+    "clusterId": "cluster_ai-agentic_2_a-lot-of-ai-agent-use-cases-are-just-automation-with-extra-steps_2026-08-27",
     "category": "ai-agentic",
-    "topic": "I ran a six-agent AI marketing team for three months. This is what it did.",
+    "topic": "A lot of “AI agent” use cases are just automation with extra steps",
     "sourceIds": [
-      "src_reddit-aiagents_c4502d90487b4d83",
-      "src_reddit-aiagents_c5a20fded2485901",
-      "src_reddit-aiagents_5e0158ffaa47888b",
+      "src_reddit-aiagents_67d73bee21d00432",
+      "src_reddit-aiagents_b500bc4180bf5201",
+      "src_reddit-aiagents_85c94463dc31495d",
       "src_reddit-aiagents_34783379f90f9b51",
       "src_reddit-aiagents_97437e06e1a0cdc5",
       "src_openai-blog_2026-08-27_fallback",
       "src_mcp-blog_2026-08-27_fallback"
     ],
-    "articleWorthinessScore": 0.82,
-    "reasonSelected": "Score 0.82 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },

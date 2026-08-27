@@ -327,13 +327,13 @@
     "title": "LangChain Blog: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Pika Labs Blog, Cursor Changelog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agents",
+      "ai-agentic",
       "langchain",
-      "cloud-agents",
+      "vibe-coding",
       "llm-ops",
-      "vibe-coding"
+      "cursor-ai"
     ],
-    "publishedAt": "2026-08-27T04:12:35.782Z",
+    "publishedAt": "2026-08-27T20:50:56.812Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-08-27"
   },
@@ -348,10 +348,10 @@
       "ai-agents",
       "langchain",
       "vibe-coding",
-      "agentic-workflows",
-      "llm-ops"
+      "llm-ops",
+      "software-architecture"
     ],
-    "publishedAt": "2026-08-27T04:13:40.095Z",
+    "publishedAt": "2026-08-27T20:52:01.524Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-08-27"
   },
@@ -361,15 +361,15 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "vibe-coding",
       "ai-agents",
-      "software-engineering",
       "anthropic",
-      "github-copilot"
+      "replit",
+      "software-development"
     ],
-    "publishedAt": "2026-08-27T04:13:00.308Z",
+    "publishedAt": "2026-08-27T20:50:14.626Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-27"
   },
@@ -379,15 +379,15 @@
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
     "title": "Research \\ Anthropic: creator and builder analysis",
-    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Replit Blog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
       "ai-agents",
       "software-engineering",
       "anthropic",
-      "github-copilot"
+      "replit"
     ],
-    "publishedAt": "2026-08-27T04:13:58.809Z",
+    "publishedAt": "2026-08-27T20:51:16.914Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-08-27"
   },
@@ -399,13 +399,13 @@
     "title": "AI Video Research & Innovation | Runway AI: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI Video",
-      "Runway AI",
-      "World Models",
-      "Generative AI",
-      "Digital Humans"
+      "AI-Video",
+      "RunwayAI",
+      "WorldModels",
+      "AI-Agents",
+      "GenerativeAI"
     ],
-    "publishedAt": "2026-08-27T04:13:09.711Z",
+    "publishedAt": "2026-08-27T20:50:35.970Z",
     "readingTime": 4,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-08-27"
   },
@@ -418,12 +418,12 @@
     "subtitle": "Signal synthesized from Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "AI Video",
+      "World Models",
       "Runway AI",
       "Multimodal AI",
-      "World Models",
-      "Generative Media"
+      "Generative Agents"
     ],
-    "publishedAt": "2026-08-27T04:14:07.501Z",
+    "publishedAt": "2026-08-27T20:51:38.482Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-08-27"
   },
@@ -435,13 +435,13 @@
     "title": "News | Luma: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Luma Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "AI-Video",
       "LumaAI",
       "KlingAI",
-      "AIVideo",
-      "CreativeWorkflow",
-      "GenerativeAI"
+      "AgenticAI",
+      "CreativeWorkflow"
     ],
-    "publishedAt": "2026-08-27T04:12:47.677Z",
+    "publishedAt": "2026-08-27T20:50:06.969Z",
     "readingTime": 4,
     "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-27"
   },
@@ -459,81 +459,79 @@
       "Agentic AI",
       "Cinematography"
     ],
-    "publishedAt": "2026-08-27T04:13:50.284Z",
+    "publishedAt": "2026-08-27T20:51:06.519Z",
     "readingTime": 4,
     "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-08-27"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-27_vi",
+    "id": "cluster_ai-vibe-coding_2_quoting-paul-dix_2026-08-27_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "The Official Blog | Replit: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Vercel AI Blog, Replit Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Quoting Paul Dix: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Vercel AI Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
-      "replit",
-      "black-forest-labs",
+      "ai-vibe-coding",
       "ai-agents",
-      "low-code",
-      "future-of-work"
+      "software-engineering",
+      "generative-ai"
     ],
-    "publishedAt": "2026-08-27T04:13:19.108Z",
-    "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/the-official-blog-replit-goc-nhin-cho-creator-va-builder-2026-08-27"
+    "publishedAt": "2026-08-27T20:50:45.188Z",
+    "readingTime": 5,
+    "url": "/vi/ai-vibe-coding/quoting-paul-dix-goc-nhin-cho-creator-va-builder-2026-08-27"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_the-official-blog-replit_2026-08-27_en",
+    "id": "cluster_ai-vibe-coding_2_quoting-paul-dix_2026-08-27_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "The Official Blog | Replit: creator and builder analysis",
-    "subtitle": "Signal synthesized from Black Forest Labs, Vercel AI Blog, Replit Blog, scored by recency, content depth, and source reliability.",
+    "title": "Quoting Paul Dix: creator and builder analysis",
+    "subtitle": "Signal synthesized from Black Forest Labs, Vercel AI Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
       "vibe-coding",
       "ai-agents",
-      "replit",
       "software-engineering",
-      "multimodal-ai"
+      "generative-ai",
+      "agentic-workflows"
     ],
-    "publishedAt": "2026-08-27T04:14:16.581Z",
+    "publishedAt": "2026-08-27T20:51:51.856Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/the-official-blog-replit-creator-and-builder-analysis-2026-08-27"
+    "url": "/en/ai-vibe-coding/quoting-paul-dix-creator-and-builder-analysis-2026-08-27"
   },
   {
-    "id": "cluster_ai-agentic_2_i-ran-a-six-agent-ai-marketing-team-for-three-months-this-is-wha_2026-08-27_vi",
+    "id": "cluster_ai-agentic_2_a-lot-of-ai-agent-use-cases-are-just-automation-with-extra-steps_2026-08-27_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "I ran a six-agent AI marketing team for three months. This is what it did.: góc nhìn cho creator và builder",
+    "title": "A lot of “AI agent” use cases are just automation with extra steps: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-agents",
-      "marketing-automation",
-      "agentic-workflow",
-      "solopreneur",
-      "ai-productivity"
+      "AI-Agent",
+      "Automation",
+      "LLM-Architecture",
+      "Software-Engineering",
+      "Productivity"
     ],
-    "publishedAt": "2026-08-27T04:13:27.559Z",
+    "publishedAt": "2026-08-27T20:50:23.464Z",
     "readingTime": 4,
-    "url": "/vi/ai-agentic/i-ran-a-six-agent-ai-marketing-team-for-three-months-this-i-2026-08-27"
+    "url": "/vi/ai-agentic/a-lot-of-ai-agent-use-cases-are-just-automation-with-extra-2026-08-27"
   },
   {
-    "id": "cluster_ai-agentic_2_i-ran-a-six-agent-ai-marketing-team-for-three-months-this-is-wha_2026-08-27_en",
+    "id": "cluster_ai-agentic_2_a-lot-of-ai-agent-use-cases-are-just-automation-with-extra-steps_2026-08-27_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "I ran a six-agent AI marketing team for three months. This is what it did.: creator and builder analysis",
+    "title": "A lot of “AI agent” use cases are just automation with extra steps: creator and builder analysis",
     "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agents",
-      "marketing-automation",
-      "agentic-workflows",
-      "solopreneurship",
-      "llm-ops"
+      "AI Agents",
+      "Automation",
+      "LLM Architecture",
+      "Software Engineering",
+      "Agentic Workflows"
     ],
-    "publishedAt": "2026-08-27T04:14:26.256Z",
+    "publishedAt": "2026-08-27T20:51:29.409Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/i-ran-a-six-agent-ai-marketing-team-for-three-months-this-i-2026-08-27"
+    "url": "/en/ai-agentic/a-lot-of-ai-agent-use-cases-are-just-automation-with-extra-2026-08-27"
   }
 ]

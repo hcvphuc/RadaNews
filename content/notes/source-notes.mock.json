@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-27T04:12:22.070Z",
+    "publishedAt": "2026-08-27T20:49:55.622Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-27T04:12:20.877Z",
+    "publishedAt": "2026-08-27T20:49:54.870Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-27T04:12:20.776Z",
+    "publishedAt": "2026-08-27T20:49:54.706Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-27T04:12:21.207Z",
+    "publishedAt": "2026-08-27T20:49:55.516Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,24 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_5e0158ffaa47888b",
+    "sourceId": "src_reddit-aiagents_b500bc4180bf5201",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vzbx4e/when_should_an_ai_agent_hand_off_to_a_human/",
-    "title": "When should an AI agent hand off to a human?",
-    "publishedAt": "2026-08-26T22:27:56.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vzu3yh/has_ai_actually_made_your_work_easier/",
+    "title": "Has AI actually made your work easier?",
+    "publishedAt": "2026-08-27T13:32:57.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "At what point should an AI agent stop trying and bring in a human, I’m interested to know how teams set that line without handing off too early or frustrating customers by waiting too long what triggers have worked well for you?",
-      "submitted by /u/TopicFlat3709 [link] [comments]"
+      "AI is often described as a huge productivity boost, but I'm not sure everyone sees the same benefit.",
+      "In my experience, it depends on the task.",
+      "Has AI actually made your work easier, or just changed how you work?",
+      "submitted by /u/ProposalIntrepid8476 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "At what point should an AI agent stop trying and bring in a human, I’m interested to know how teams set that line without handing off too early or frustrating customers by waiting too long what triggers have worked well for you? submitted by /u/TopicFlat3709 [link] [comments]",
+        "text": "AI is often described as a huge productivity boost, but I'm not sure everyone sees the same benefit. In my experience, it depends on the task. Has AI actually made your work easier, or just changed how you work? What has been your experience? submitted by /u/ProposalIntrepid8476 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vzbx4e/when_should_an_ai_agent_hand_off_to_a_human/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vzu3yh/has_ai_actually_made_your_work_easier/"
       }
     ],
     "usableFor": [
@@ -194,55 +196,55 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_c4502d90487b4d83",
+    "sourceId": "src_reddit-aiagents_67d73bee21d00432",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vyxua5/i_ran_a_sixagent_ai_marketing_team_for_three/",
-    "title": "I ran a six-agent AI marketing team for three months. This is what it did.",
-    "publishedAt": "2026-08-26T13:56:36.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1vzu1fu/a_lot_of_ai_agent_use_cases_are_just_automation/",
+    "title": "A lot of “AI agent” use cases are just automation with extra steps",
+    "publishedAt": "2026-08-27T13:30:09.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "\\ I mentioned this case a few times in this sub, and were asked to share more details on it.* For three months, a fintech project ran with a one-person marketing function: me, backed by six AI agents.",
-      "The agents handled social content, email, advertising monitoring, growth experiments, and outreach.",
-      "I handled strategy, priorities, approvals, and anything with enough ambiguity or risk to require judgment.",
-      "It handled schedules, tools, permissions, memory, and handoffs."
+      "If a workflow can be written as “when X happens, check Y, then do Z,” an AI agent probably shouldn't be making those decisions.",
+      "The interesting part is when the input stops being predictable.",
+      "Give an agent a messy customer email and it can figure out what the person is asking for.",
+      "But understanding the request and deciding what happens next are two different things."
     ],
     "claims": [
       {
-        "text": "\\ I mentioned this case a few times in this sub, and were asked to share more details on it.* For three months, a fintech project ran with a one-person marketing function: me, backed by six AI agents. The agents handled social content, email, advertising monitoring, growth experiments, and outreach. I handled strategy, priorities, approvals, and anything with enough ambiguity or risk to require judgment. Built it from the ground up. The setup ran on OpenClaw. It handled schedules, tools, permissions, memory, and handoffs. Claude models did most of the underlying model work. This is a historical snapshot from March to May 2026, after the team had been running for almost three months. The project pivoted since, so the team was wrapped up. The six roles I gave every agent one narrow job: Orchestrator: coordinated the other five agents, passed work between them, and routed decisions to me. Social media: prepared posts and distributed approved content across channels. Email: drafted newsletters and customer emails. Advertising: monitored paid campaigns and flagged changes. Growth: researched and tested acquisition ideas. Outreach: managed the influencer and partner pipeline. Each agent had its own instructions, tool access, schedule, reporting format, and stop conditions. The handoffs were the useful part. A product update could trigger an email draft, several social posts, and a retargeting task. I did not have to copy the same context between four tools or remember to start every next step myself. What the team produced The March-May snapshot included: 20 blog posts About 195 social posts across seven platforms 4 newsletters About 43 influencer contacts moving through an outreach pipeline 2 advertising accounts with continuously active Meta and Reddit campaigns (4 full campaign updates each month) During the final two months, when the agents were operating with their highest level of autonomy: Organic traffic increased 7x. Referral traffic increased 10x. Average cost per lead fell 30% across channels while the ad budget stayed flat. Reddit organic posts received 135,000 views. The project subreddit gained 300 organic subscribers who continued to send traffic. Those numbers need a caveat. Product development was moving at the same time, and this was a startup in motion, not a controlled experiment. I excluded metrics where I could not separate the agents' contribution from other changes. Even the remaining numbers do not offer clean causal attribution. The narrower claim is the one I can defend: the agents produced the output listed above, expanded channel coverage, and operated during a period when acquisition metrics improved without a larger advertising budget. What it cost The May bill was $359 for the month : Hetzner VPS: $10 Claude Max: $200 ChatGPT Plus: $20 Gemini: $20 Perplexity API: about $12 Linear: $16 Postiz: $49 X API: $10 Firecrawl: $16 Google Workspace seat: $6 OpenClaw: free The agents fit within one flat Claude Max subscription at the time, so the $359 total depends on the subscription setup we used in April-May 2026. The $359 also leaves out the expensive part: my time. Getting an agent to a stable working state took roughly two weeks of role definition, tool connections, permissions, test runs, and instruction changes. Ongoing maintenance took about eight hours a week across the system: reviewing samples, checking sources, resolving ambiguous cases, cleaning memory, and updating rules. What broke The obvious failures were easy to catch. An agent would miss a tool call, fail a scheduled run, or return an empty report. Other recurring problems: Generic marketing defaults. Models reproduce familiar campaign structures, average positioning, and advice that sounds reasonable across almost any company. Source errors. A weak answer rarely labels itself as weak. Every factual output needs a source trail. Memory decay. Old rules conflict with new ones. Temporary facts survive as permanent instructions. More context eventually becomes more clutter. Permission mistakes. An agent that can publish, email, spend, or delete needs explicit limits and stop conditions. Automation without demand. A scheduled workflow keeps running even when the input becomes stale or nobody uses the output. That changed my job. I wrote less and reviewed more. I spent more time checking samples, inspecting sources, and deciding which exceptions should become permanent rules. What changed after another 30+ agents Since this first team, I have built and tested more than 30 agents across several teams and niches. The results varied a lot. Some niches like ecom have abundant structured data, stable processes, and clear definitions of a good output. Agents become useful quickly there. Other niches like specific b2b SaaS depend on tacit context, taste, relationships, private data, or judgment that is hard to encode. Those agents need much more supervision, and some workflows never become worth maintaining. The model matters. The tools matter. The process around them matters more than either. My biggest takeaway is still the oldest rule in computing: garbage in, garbage out. If the brief is vague, the sources are weak, the success criteria are missing, or the underlying process is a mess, an agent scales the mess. Usually with excellent formatting. So we keep working on the input: narrower roles, better source rules, explicit examples, stop conditions, approval gates, and logs of recurring errors. The agents keep getting better. The management work does not disappear. It moves into the system. But overall, agents changed my life and my work paradigm. Love every second of it. Happy to answer any questions. submitted by /u/uvallie [link] [comments]",
+        "text": "If a workflow can be written as “when X happens, check Y, then do Z,” an AI agent probably shouldn't be making those decisions. The interesting part is when the input stops being predictable. Give an agent a messy customer email and it can figure out what the person is asking for. That's genuinely useful. But understanding the request and deciding what happens next are two different things. Let the model figure out that someone wants a refund. Let boring, predictable software handle the actual transaction. And if getting it wrong is expensive enough, put a human in the loop. Feels like we're trying to make agents autonomous when the better use case is often just letting them handle the messy part. What are people actually letting agents do fully autonomously in production? submitted by /u/Innowise_ [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vyxua5/i_ran_a_sixagent_ai_marketing_team_for_three/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vzu1fu/a_lot_of_ai_agent_use_cases_are_just_automation/"
       }
     ],
     "usableFor": [
       "article",
       "trend"
     ],
-    "copyrightRisk": "medium"
+    "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_c5a20fded2485901",
+    "sourceId": "src_reddit-aiagents_85c94463dc31495d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vz7037/why_do_most_business_automation_projects_fail/",
-    "title": "Why do most business automation projects fail?",
-    "publishedAt": "2026-08-26T19:25:10.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w00ned/how_many_agents_do_you_usually_run_at_once/",
+    "title": "How many agents do you usually run at once?",
+    "publishedAt": "2026-08-27T17:35:13.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Every big automation rollout I've seen follows the same arc: huge vision, huge budget, huge delay, quiet death 18 months later.",
-      "The ones that actually work never start big.",
-      "They start with the one task everyone already hates the Friday report, the copy-paste spreadsheet automate that, prove it saves real time, and let trust build from there.",
-      "Nobody has to \"believe\" in a roadmap; they just see their Friday afternoon back."
+      "Curious how people actually work with Ai agents Do you usually run one agent at a time, or have several going at once?",
+      "What’s the most you’ve had running together?",
+      "Do you run more than one agent at a time?",
+      "submitted by /u/External-Wind-5273 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Every big automation rollout I've seen follows the same arc: huge vision, huge budget, huge delay, quiet death 18 months later. The ones that actually work never start big. They start with the one task everyone already hates the Friday report, the copy-paste spreadsheet automate that, prove it saves real time, and let trust build from there. Small wins compound. Nobody has to \"believe\" in a roadmap; they just see their Friday afternoon back. Leadership can still own the big vision. But the second execution gets centralized and scaled before anything's proven, you've traded a hundred small reversible bets for one giant irreversible one. Change my mind has anyone actually seen a top-down \"automate everything\" rollout succeed, or does it always end up getting quietly rescued by someone automating one task at a time? submitted by /u/Conscious_Belt_8444 [link] [comments]",
+        "text": "Curious how people actually work with Ai agents Do you usually run one agent at a time, or have several going at once? What’s the most you’ve had running together? Do you run more than one agent at a time? How many at most? submitted by /u/External-Wind-5273 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vz7037/why_do_most_business_automation_projects_fail/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w00ned/how_many_agents_do_you_usually_run_at_once/"
       }
     ],
     "usableFor": [
@@ -257,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-27T04:12:21.112Z",
+    "publishedAt": "2026-08-27T20:49:55.111Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -283,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-27T04:12:21.839Z",
+    "publishedAt": "2026-08-27T20:49:55.633Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -312,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-27T04:12:21.109Z",
+    "publishedAt": "2026-08-27T20:49:55.134Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -343,7 +345,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-27T04:12:20.985Z",
+    "publishedAt": "2026-08-27T20:49:54.999Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -370,7 +372,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-27T04:12:20.984Z",
+    "publishedAt": "2026-08-27T20:49:55.000Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -397,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-27T04:12:21.810Z",
+    "publishedAt": "2026-08-27T20:49:55.549Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -426,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-27T04:12:22.067Z",
+    "publishedAt": "2026-08-27T20:49:55.559Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,15 +457,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-27T04:12:22.445Z",
+    "publishedAt": "2026-08-27T20:49:56.292Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 24, 2026 Best AI Video Generator for YouTube 2026: Long-Form, Shorts, and B-Roll Blog Aug 24, 2026 Best AI Video Generator for Creative Teams Who Care About Craft 2026 Blog Aug 24, 2026 Best AI Video Generator for Agencies 2026: Built for Client Volume Blog Aug 24, 2026 Best AI Video Generator for Social Media Content in 2026 Blog Aug 24, 2026 Best AI Video Generator for Ecommerce: Turn Product Photos Into Video Blog Aug 24, 2026 Best AI Video Generator for Ads in 2026: Tools That Actually Convert Blog Aug 24, 2026 Best AI Video Generator for Product Demos 2026 Blog Aug 24, 2026 Best AI Video Generator for Marketing Teams in 2026: 9 Tools Compared Blog Aug 19, 2026 How to Prompt an AI Face Swap in 2026: Step-by-Step Examples Blog Aug 19, 2026 AI Camera Movement Prompts: Dolly, Pan, Orbit, and Drone Shots Explained Blog Aug 19, 2026 UGC-Style AI Video Prompts: 12 Examples for DTC and Creator Ads Blog Aug 19, 2026 How to Prompt Realistic AI Videos: 12 Prompts That Don't Look AI-Generated Blog Aug 18, 2026 Luma vs Kapwing Blog Aug 18, 2026 Luma vs Adobe Firefly (2026) Blog Aug 18, 2026 Luma vs Leonardo AI 2026 Blog Aug 18, 2026 Luma vs Midjourney Company Aug 14, 2026 How FOID AI Studio Uses Luma to Direct Without Limits Company Aug 13, 2026 Luma and Dumbstruck Launch Creative Intelligence for Advertising Blog Aug 13, 2026 10 AI Image Prompts That Produce Portfolio-Quality Results Blog Aug 13, 2026 25 AI Product Photography Prompts for E-commerce Brands (2026) Blog Aug 13, 2026 How to Write AI Video Prompts: The Complete Guide Blog Aug 13, 2026 The AI Image Prompting Guide: How to Get Exactly the Shot You Want Blog Aug 13, 2026 27 Cinematic AI Video Prompts: Shot Types, Lighting, and Film Looks Blog Aug 13, 2026 25 AI Prompts for Video Ads in 2026: Ready-to-Use Examples Blog Aug 13, 2026 50 AI Video Prompts for Every Style, Shot, and Scene Blog Aug 13, 2026 40 Anime AI Prompts for Video and Image Generation Product Aug 11, 2026 Introducing Luma Scenes Blog Aug 11, 2026 Remove Text from an Image with AI (Without Wrecking What's Behind It) Blog Aug 11, 2026 7 Best AI Image Editors for Precision Editing, Ranked (2026) Blog Aug 11, 2026 AI Object Removal and Replacement: How to Edit One Object, Not the Whole Image Blog Aug 11, 2026 6 Best AI Background Changers for Product and Brand Imagery (2026) Product Aug 6, 2026 Seedance 2.5: Now Live in Luma Product Aug 6, 2026 MiniMax H3 Available Now Blog Aug 4, 2026 Synthesia Alternatives 2026 Blog Aug 4, 2026 Luma vs Canva Blog Aug 4, 2026 Luma vs Synthesia 2026 Blog Aug 4, 2026 Luma vs Kling Blog Aug 4, 2026 Luma vs Veed Blog Aug 4, 2026 Luma vs HeyGen 2026 Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?",
-      "Blog Jul 17, 2026 Sora Alternatives 2026 Blog Jul 17, 2026 Seedance Alternatives Blog Jul 17, 2026 Luma vs Runway: Choosing the Right AI Video Platform Blog Jul 17, 2026 Luma vs Weave Blog Jul 17, 2026 Kling Alternatives Blog Jul 17, 2026 Weave Alternatives 2026 Blog Jul 17, 2026 Veo Alternatives Blog Jul 14, 2026 How to Turn Static Images into Dynamic High-Quality Videos with AI Blog Jul 14, 2026 33 Creative Production Time Statistics: Traditional vs AI-Powered Workflows Blog Jul 14, 2026 Best Runway Alternatives For Video Production In 2026 Product Jun 16, 2026 Introducing Luma Skills: Build a Creative Workflow Once, Run It Forever Product Jun 9, 2026 Luma Introduces Ray3.2 Model & API: Complete Creative Control for Video Generation Company Jun 3, 2026 Human, after all."
+      "Subscribe to Press Updates All Company Product Engineering Blog Blog Aug 27, 2026 Best AI Video Generator for Education 2026: Tools for Teachers and Course Creators Blog Aug 27, 2026 Best AI Video Generator for Training Videos and Internal L&D 2026 Blog Aug 27, 2026 20 Image-to-Video Prompts: How to Animate Any Photo With AI Blog Aug 27, 2026 Best AI Video Generator for Instagram Reels (Vertical-First Picks) Blog Aug 27, 2026 17 AI Art Prompts for Illustration, Painting, and Concept Art Blog Aug 27, 2026 8 AI Character Prompts: How to Keep the Same Character Across Every Shot Blog Aug 27, 2026 15 Halloween AI Prompts: Ghostface, Costumes, and Spooky Video Ideas Blog Aug 27, 2026 28 AI Photo Prompts for Portraits, Selfies, and Couples Blog Aug 27, 2026 25 Funny AI Video Prompts That Will Actually Make People Laugh Blog Aug 27, 2026 Best AI Video Generator for TikTok: 7 Tools for Native-Feeling Content Blog Aug 24, 2026 Best AI Video Generator for YouTube 2026: Long-Form, Shorts, and B-Roll Blog Aug 24, 2026 Best AI Video Generator for Creative Teams Who Care About Craft 2026 Blog Aug 24, 2026 Best AI Video Generator for Agencies 2026: Built for Client Volume Blog Aug 24, 2026 Best AI Video Generator for Social Media Content in 2026 Blog Aug 24, 2026 Best AI Video Generator for Ecommerce: Turn Product Photos Into Video Blog Aug 24, 2026 Best AI Video Generator for Ads in 2026: Tools That Actually Convert Blog Aug 24, 2026 Best AI Video Generator for Product Demos 2026 Blog Aug 24, 2026 Best AI Video Generator for Marketing Teams in 2026: 9 Tools Compared Blog Aug 19, 2026 How to Prompt an AI Face Swap in 2026: Step-by-Step Examples Blog Aug 19, 2026 AI Camera Movement Prompts: Dolly, Pan, Orbit, and Drone Shots Explained Blog Aug 19, 2026 UGC-Style AI Video Prompts: 12 Examples for DTC and Creator Ads Blog Aug 19, 2026 How to Prompt Realistic AI Videos: 12 Prompts That Don't Look AI-Generated Blog Aug 18, 2026 Luma vs Kapwing Blog Aug 18, 2026 Luma vs Adobe Firefly (2026) Blog Aug 18, 2026 Luma vs Leonardo AI 2026 Blog Aug 18, 2026 Luma vs Midjourney Company Aug 14, 2026 How FOID AI Studio Uses Luma to Direct Without Limits Company Aug 13, 2026 Luma and Dumbstruck Launch Creative Intelligence for Advertising Blog Aug 13, 2026 10 AI Image Prompts That Produce Portfolio-Quality Results Blog Aug 13, 2026 25 AI Product Photography Prompts for E-commerce Brands (2026) Blog Aug 13, 2026 How to Write AI Video Prompts: The Complete Guide Blog Aug 13, 2026 The AI Image Prompting Guide: How to Get Exactly the Shot You Want Blog Aug 13, 2026 27 Cinematic AI Video Prompts: Shot Types, Lighting, and Film Looks Blog Aug 13, 2026 25 AI Prompts for Video Ads in 2026: Ready-to-Use Examples Blog Aug 13, 2026 50 AI Video Prompts for Every Style, Shot, and Scene Blog Aug 13, 2026 40 Anime AI Prompts for Video and Image Generation Product Aug 11, 2026 Introducing Luma Scenes Blog Aug 11, 2026 Remove Text from an Image with AI (Without Wrecking What's Behind It) Blog Aug 11, 2026 7 Best AI Image Editors for Precision Editing, Ranked (2026) Blog Aug 11, 2026 AI Object Removal and Replacement: How to Edit One Object, Not the Whole Image Blog Aug 11, 2026 6 Best AI Background Changers for Product and Brand Imagery (2026) Product Aug 6, 2026 Seedance 2.5: Now Live in Luma Product Aug 6, 2026 MiniMax H3 Available Now Blog Aug 4, 2026 Synthesia Alternatives 2026 Blog Aug 4, 2026 Luma vs Canva Blog Aug 4, 2026 Luma vs Synthesia 2026 Blog Aug 4, 2026 Luma vs Kling Blog Aug 4, 2026 Luma vs Veed Blog Aug 4, 2026 Luma vs HeyGen 2026 Blog Aug 4, 2026 24 Generative AI Adoption Statistics for Creative Teams in 2026 Blog Aug 4, 2026 48 AI-Powered Advertising Campaign Statistics for 2026 That Show What's Changing for Creative Teams Blog Aug 4, 2026 40 AI Creative Workflow Efficiency Statistics 2026 Blog Aug 4, 2026 25 Image-to-Video AI Conversion Statistics That Show How Creative Teams Are Finishing Campaigns Faster in 2026 Blog Aug 3, 2026 5 Best Canva Magic Layers Alternatives for Editable AI Images (2026) Blog Aug 3, 2026 9 Best AI Image Object Removal Tools Compared (2026) Blog Aug 3, 2026 How to Edit AI-Generated Images: The Complete 2026 Guide Blog Aug 3, 2026 7 Best AI Ad Creative Generators for Brand and Agency Teams (2026) Blog Aug 3, 2026 7 Best AI Tools to Edit Text in Images (2026) Blog Aug 3, 2026 How to Edit Text in an Image with AI - Change the Copy, Keep the Design Product Jul 29, 2026 Introducing Layers Product Jul 28, 2026 New inside Luma: Pages Blog Jul 28, 2026 29 Cinematic AI Video Generation Trends Reshaping Creative Production Blog Jul 28, 2026 Luma vs InVideo 2026 Blog Jul 28, 2026 48 AI for Filmmaking Production Statistics Blog Jul 28, 2026 Higgsfield Alternatives in 2026 Blog Jul 28, 2026 30 Brand Consistency in AI Content Creation Statistics Blog Jul 28, 2026 44 Pro Video Generation AI Statistics Every Creative Team Should Know in 2026 Blog Jul 28, 2026 Luma vs Pika (2026) Blog Jul 28, 2026 InVideo AI Alternatives 2026 Blog Jul 28, 2026 HeyGen Alternatives 2026 Blog Jul 28, 2026 Pika Alternatives 2026 Company Jul 23, 2026 How Serviceplan MAKE Uses Luma to Put Creativity First Company Jul 22, 2026 Luma Runs Production Inference on AMD and Tensorwave Blog Jul 18, 2026 How Creative Teams Use AI: 32 Multimodal Statistics That Matter in 2026 Blog Jul 18, 2026 45 AI Video Generation Statistics Reshaping Creative Production in 2026 Blog Jul 18, 2026 Text-to-Video AI Statistics for Creative Teams in 2026 Blog Jul 18, 2026 AI Agents for Creative Work: 30 Statistics That Matter in 2026 Blog Jul 17, 2026 AI Video Generation Statistics: 2026 Industry Data Blog Jul 17, 2026 Luma vs Seedance Blog Jul 17, 2026 Luma vs Google Veo: Which AI Video Platform Fits Your Creative Workflow?"
     ],
     "claims": [
       {
@@ -484,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-27T04:12:21.087Z",
+    "publishedAt": "2026-08-27T20:49:55.032Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,15 +512,15 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-27T04:12:21.921Z",
+    "publishedAt": "2026-08-27T20:49:55.560Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models ↓ Grok Evals Product ↓ Agents Cloud Grok Bot ↗ Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 19, 2026 · Changelog Cloud Agents and Cursor Harness Improvements We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.",
-      "With this release, cloud agents can automatically pick up work in response to events, hold a goal until it's met, and stay on course through long-running sessions.",
-      "# Subscriptions Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks.",
-      "Cursor Agent subscribes to an event source (a thread or conversation) and wakes when something happens."
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models ↓ Grok Evals Product ↓ Agents Cloud Grok Bot ↗ Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 27, 2026 · Changelog Start from scratch, without a repo Cloud Agents no longer require a connected GitHub or other third-party SCM provider to get started.",
+      "Prompt from the get-go, then save your work to a Cursor Origin repo.",
+      "# Get started Select Start from scratch in the repo picker, then prompt the agent.",
+      "In the background, Cursor creates an Origin repo for you."
     ],
     "claims": [
       {
@@ -540,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-27T04:12:21.140Z",
+    "publishedAt": "2026-08-27T20:49:55.079Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -569,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-27T04:12:21.552Z",
+    "publishedAt": "2026-08-27T20:49:55.827Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,15 +597,15 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-27T04:12:22.089Z",
+    "publishedAt": "2026-08-27T20:49:55.711Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
       "The Official Blog | Replit Products Agent Design Database Publish Integrations Mobile For Work Pro Replit for serious builders Enterprise Replit with Enterprise-grade security & controls Use Cases Business Apps Mobile Apps Rapid Prototyping Roles Enterprise PM Designers Operations Software Developers Small Businesses SMB owners Founders Resources Get Started Docs Community Expert Network Inspiration Customer Stories Gallery Blog News Security Pricing Enterprise Contact sales Log in Sign up Products For Work Resources Security Pricing Enterprise Contact sales Log in Start building Replit Blog Aug 18, 2026 • Featured Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
-      "All AI Builder Spotlight Design Edu Engineering Enterprise Events Infrastructure News Product *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Aug 18, 2026 Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
-      "Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans.",
-      "Aug 16, 2026 Govern Replit at scale New Enterprise Governance tools for Replit Aug 3, 2026 AI adoption starts with truth The semantic layer is the foundation AI adoption is limited by trust."
+      "All AI Builder Spotlight Design Edu Engineering Enterprise Events Infrastructure News Product *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Aug 26, 2026 Intelligent Model Routing on Replit Replit now picks the best model for every task, automatically.",
+      "Aug 18, 2026 Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
+      "Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans."
     ],
     "claims": [
       {
@@ -625,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-27T04:12:21.485Z",
+    "publishedAt": "2026-08-27T20:49:55.336Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -655,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-27T04:12:21.328Z",
+    "publishedAt": "2026-08-27T20:49:55.150Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,16 +683,16 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-27T04:12:23.041Z",
+    "publishedAt": "2026-08-27T20:49:57.008Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
       "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates.",
-      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 25, 2026 MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 25, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 25, 2026 How to Make a Short Film?",
-      "12 Practical Steps From Idea to Release Aug 24, 2026 24 Short Film Ideas You Can Actually Make Aug 24, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Aug 20, 2026 10 Cinematography Techniques Every Creator Should Know Aug 18, 2026 14 Creative Music Video Ideas for Any Budget Aug 18, 2026 Content Ideas for Social Media: What to Post on Every Platform Aug 18, 2026 50+ YouTube Channel Ideas: Niches That Work in 2026 Aug 18, 2026 How to Create 4K E-commerce Product Videos with AI?",
-      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 Kling 3.0 Credit Cost: 4K, Omni Audio, and Multi Shot Pricing Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 27, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 27, 2026 Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 27, 2026 How to Make a Short Film?",
+      "12 Practical Steps From Idea to Release Aug 27, 2026 14 Creative Music Video Ideas for Any Budget Aug 27, 2026 10 Cinematography Techniques Every Creator Should Know Aug 27, 2026 Content Ideas for Social Media: What to Post on Every Platform Aug 27, 2026 50+ YouTube Channel Ideas: Niches That Work in 2026 Aug 27, 2026 24 Short Film Ideas You Can Actually Make Aug 27, 2026 30+ AI Art Styles: Visual Examples and Prompt Ideas Aug 27, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Aug 20, 2026 How to Create 4K E-commerce Product Videos with AI?",
+      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
     ],
     "claims": [
       {
@@ -712,7 +713,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-27T04:12:21.482Z",
+    "publishedAt": "2026-08-27T20:49:55.234Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-27T04:12:21.544Z",
+    "publishedAt": "2026-08-27T20:49:55.365Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,9 +748,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 1 day ago • 24 LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation LiquidAI • 8 days ago • 34 Writing Down the Line Between Luck and Skill FINAL-Bench • 3 days ago • 12 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 7 days ago • 11 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 5 days ago • 10 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 14 days ago • 8 Introducing the EdgeFirst Model Zoo EdgeFirst • 2 days ago • 8 Modern LLMs: What the FLIP is an Engram!?",
-      "Blackroot • about 21 hours ago • 6 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 Fine-Tune SraVaani on Your Own Speech Data ARTPARK-IISc • 16 days ago • 6 Sleeper Agents and How to Tame Them tngtech • 14 days ago • 26 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 15 days ago • 49 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 7 days ago • 6 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 18 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 15 days ago • 38 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 33 August 26, 2026 Granite 4.2 LLMs: How They're Built 56 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 20 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 20 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 16 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 55 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 41 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "71 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 94 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 158 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 29 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 102 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 2 days ago • 26 Writing Down the Line Between Luck and Skill FINAL-Bench • 4 days ago • 13 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 5 days ago • 11 Introducing the EdgeFirst Model Zoo EdgeFirst • 3 days ago • 8 Modern LLMs: What the FLIP is an Engram!?",
+      "Blackroot • 1 day ago • 7 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 7 days ago • 11 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 15 days ago • 49 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • about 14 hours ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • about 14 hours ago • 4 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Sleeper Agents and How to Tame Them tngtech • 14 days ago • 26 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 16 days ago • 17 DAVIDAU DELETED MY POST AND BANNED ME FOR ASKING ABOUT BENCHMARKS — HERE IS THE FULL ANALYSIS (9B + 27B + 390 MODELS) DedeProGames • 16 days ago • 15 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 15 days ago • 12 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 14 days ago • 8 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 55 August 26, 2026 Granite 4.2 LLMs: How They're Built 65 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 22 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 23 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 18 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 56 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 42 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "72 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 95 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 165 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 30 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 103 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Previous 1 2 3 ...",
       "61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -921,7 +922,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-27T04:12:21.603Z",
+    "publishedAt": "2026-08-27T20:49:55.334Z",
     "categoryHints": [
       "ai-agentic"
     ],
