@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-28T06:44:45.916Z",
+    "publishedAt": "2026-08-28T21:16:33.491Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-28T06:44:45.352Z",
+    "publishedAt": "2026-08-28T21:16:33.295Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-28T06:44:45.186Z",
+    "publishedAt": "2026-08-28T21:16:33.020Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-28T06:44:45.515Z",
+    "publishedAt": "2026-08-28T21:16:34.859Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_f3ddb79ecc730465",
+    "sourceId": "src_reddit-aiagents_0c15706ea4849f44",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w0co3b/please_help_a_dad_out_to_connect_with_his_kid/",
-    "title": "Please help a dad out to connect with his kid",
-    "publishedAt": "2026-08-28T01:21:41.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w0zq9p/are_companies_overdoing_ai_support/",
+    "title": "Are companies overdoing AI support?",
+    "publishedAt": "2026-08-28T19:08:31.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Health isn’t the best and is getting expensive so I can’t afford to pay for all AIs to try the pro versions.",
-      "And as you can see, I know very little about this topic.",
-      "But basically with my health getting worse and worse, I want to try using an AI that can help me connect with my kid.",
-      "I have a little guy who has this plushy he loves."
+      "I feel like every company wants an AI agent handling support now, I get it for basic stuff but I wonder where the line is, if a customer has a messy issue or is already pissed off then forcing them through AI I think it can make things worse.",
+      "I think the better setup is letting AI handle repetitive requests and handing off to a human when things get complicated.",
+      "For anyone working in support or contact centers has your company found that balance for this or are we automating stuff just because we can?",
+      "submitted by /u/Flat-Inspection-5781 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Health isn’t the best and is getting expensive so I can’t afford to pay for all AIs to try the pro versions. And as you can see, I know very little about this topic. But basically with my health getting worse and worse, I want to try using an AI that can help me connect with my kid. I have a little guy who has this plushy he loves. I’m house ridden right now so I couldn’t go on vacation with my wife and kids, so I send him a photo of his plushy ‘doing’ various things every day. As I lost ideas and can’t go out, I’ve used Gemini to add things (put him on a swing at the park, for example). I then saw a video of a man in my predicament who leaves AI videos for his kids and has trained it to make videos and send them even after he passes. I hope to live a long time, with science advancing I hope I will. But in case I don’t, my kids are young and I’d like to do something similar. The meds are expensive and on top of that, they’ve turned my brain to mush. I have a hard time learning and memorizing. But I hear that you can pay for an API and then create your own Gemini or ChatGPT. Could someone point me in the right direction? A detailed video, website, etc that I could use. Everything I find assumes you already know a bunch and I just don’t. Thank you submitted by /u/peji911 [link] [comments]",
+        "text": "I feel like every company wants an AI agent handling support now, I get it for basic stuff but I wonder where the line is, if a customer has a messy issue or is already pissed off then forcing them through AI I think it can make things worse. I think the better setup is letting AI handle repetitive requests and handing off to a human when things get complicated. For anyone working in support or contact centers has your company found that balance for this or are we automating stuff just because we can? submitted by /u/Flat-Inspection-5781 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w0co3b/please_help_a_dad_out_to_connect_with_his_kid/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w0zq9p/are_companies_overdoing_ai_support/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_adb665414f51fe14",
+    "sourceId": "src_reddit-aiagents_02f89f93874cd97d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w0i61v/what_i_actually_want_from_a_manus_alternative/",
-    "title": "what I actually want from a Manus alternative: don't lose the plot halfway through",
-    "publishedAt": "2026-08-28T05:56:39.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w0nq7e/why_use_mcp_when_agents_can_use_apis_directly/",
+    "title": "Why use MCP when Agents can use APIs directly?",
+    "publishedAt": "2026-08-28T11:17:48.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "the benchmark I care about for agents now is stupidly simple: give it a job with 6 steps and see if step 6 still respects what happened in step 2.",
-      "say the job is: research 15 competitors pull their pricing + positioning ignore enterprise plans find the common gaps turn that into a short report then make a deck from the report most agents look amazing for the first few steps.",
-      "the problem is when the final deck suddenly includes stuff you explicitly excluded, 3 competitors disappeared somewhere, or it confidently says “done” and you have to audit the whole thing anyway.",
-      "that's what I'd want solved in a Manus alternative more than another 5% benchmark win."
+      "[Sorry in advance if this a duplicate of another post, but feels like the response to this question can vary every month] Agentic workflows and LLMs are now powerful enough to call and discover APIs and CLIs directly, so MCP feels more and more like a heavy redundancy.",
+      "Feels like the biggest value MCP now represents is the consensus around it: since it was accepted by everybody, AI clients, SaaS tools and all kind of solutions build permissions and AI governance layers around it.",
+      "But couldn't we do it around APIs directly?",
+      "Disclaimer: I am mainly referring to MCPs built on top of Web APIs, since I've spent the last months building MCPs basically replicating existing SaaS APIs."
     ],
     "claims": [
       {
-        "text": "the benchmark I care about for agents now is stupidly simple: give it a job with 6 steps and see if step 6 still respects what happened in step 2. say the job is: research 15 competitors pull their pricing + positioning ignore enterprise plans find the common gaps turn that into a short report then make a deck from the report most agents look amazing for the first few steps. the problem is when the final deck suddenly includes stuff you explicitly excluded, 3 competitors disappeared somewhere, or it confidently says “done” and you have to audit the whole thing anyway. that's what I'd want solved in a Manus alternative more than another 5% benchmark win. I'm actually more interested in bounded tools for this reason. Runable is interesting to me for the business-output side because I can judge the end state: did I get the report, deck, site etc and does it match the brief? less interested in “fully autonomous”. more interested in did it finish the fucking job without forgetting the job. what's been the most reliable agent for longer multi-step work for you? submitted by /u/carlie_jace [link] [comments]",
+        "text": "[Sorry in advance if this a duplicate of another post, but feels like the response to this question can vary every month] Agentic workflows and LLMs are now powerful enough to call and discover APIs and CLIs directly, so MCP feels more and more like a heavy redundancy. Feels like the biggest value MCP now represents is the consensus around it: since it was accepted by everybody, AI clients, SaaS tools and all kind of solutions build permissions and AI governance layers around it. But couldn't we do it around APIs directly? Disclaimer: I am mainly referring to MCPs built on top of Web APIs, since I've spent the last months building MCPs basically replicating existing SaaS APIs. Of course, MCP providing local or additional capacities not supposed to be included in public or private APIs are a different case. submitted by /u/AugustinTerros [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w0i61v/what_i_actually_want_from_a_manus_alternative/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w0nq7e/why_use_mcp_when_agents_can_use_apis_directly/"
       }
     ],
     "usableFor": [
@@ -225,24 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_87f8a93d8bc0a022",
+    "sourceId": "src_reddit-aiagents_1cd7bff6a6fc4b39",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w0fb51/ai_agents_need_a_different_security_model_than/",
-    "title": "AI agents need a different security model than chatbots",
-    "publishedAt": "2026-08-28T03:25:30.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w0z37j/my_claude_code_agent_ran_for_40_minutes_while_i/",
+    "title": "My Claude Code agent ran for 40 minutes while I got coffee. I have no idea what it actually did.",
+    "publishedAt": "2026-08-28T18:44:51.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Once an AI system can use tools, read files, send messages, browse, access SaaS accounts, or trigger automations, it stops being \"just a chatbot.\" The security model changes from: \"Can this model answer safely?\" to: \"What can this model do, with whose credentials, against which data, under what approval rules?\" The practical controls I care about most: - scoped permissions - human confirmation for irreversible actions - audit logs - separation between read and write access - prompt injection awareness - no silent access to broad workspaces - clear rollback path for automations Curious how people building agents are handling permission boundaries right now.",
-      "submitted by /u/vasiliyivanov [link] [comments]"
+      "Came back, the refactor worked, tests passed, I was happy for about five minutes.",
+      "Then I wondered: what did it actually touch?",
+      "No timeline, no diff summary, no \"here's what changed and why.\" Just a wall of transcript I'd have to scroll through line by line if I wanted to actually know.",
+      "We've gotten really comfortable letting these things run unsupervised for real chunks of time, and I don't think our visibility into what they're doing has kept up at all."
     ],
     "claims": [
       {
-        "text": "Once an AI system can use tools, read files, send messages, browse, access SaaS accounts, or trigger automations, it stops being \"just a chatbot.\" The security model changes from: \"Can this model answer safely?\" to: \"What can this model do, with whose credentials, against which data, under what approval rules?\" The practical controls I care about most: - scoped permissions - human confirmation for irreversible actions - audit logs - separation between read and write access - prompt injection awareness - no silent access to broad workspaces - clear rollback path for automations Curious how people building agents are handling permission boundaries right now. submitted by /u/vasiliyivanov [link] [comments]",
+        "text": "Came back, the refactor worked, tests passed, I was happy for about five minutes. Then I wondered: what did it actually touch? What did it read? Did it open my .env ? Did it call anything outside the repo? I had... nothing. No timeline, no diff summary, no \"here's what changed and why.\" Just a wall of transcript I'd have to scroll through line by line if I wanted to actually know. We've gotten really comfortable letting these things run unsupervised for real chunks of time, and I don't think our visibility into what they're doing has kept up at all. Feels like flying blind and just hoping the plane lands where you wanted. Anyone else just... not check? Or found something that actually works here? submitted by /u/Independent_Bag_2904 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w0fb51/ai_agents_need_a_different_security_model_than/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w0z37j/my_claude_code_agent_ran_for_40_minutes_while_i/"
       }
     ],
     "usableFor": [
@@ -257,7 +259,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-28T06:44:45.334Z",
+    "publishedAt": "2026-08-28T21:16:33.157Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -283,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-28T06:44:46.040Z",
+    "publishedAt": "2026-08-28T21:16:33.595Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -312,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-28T06:44:45.786Z",
+    "publishedAt": "2026-08-28T21:16:33.577Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -343,7 +345,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-28T06:44:45.342Z",
+    "publishedAt": "2026-08-28T21:16:33.168Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -370,7 +372,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-28T06:44:45.345Z",
+    "publishedAt": "2026-08-28T21:16:33.176Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -397,7 +399,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-28T06:44:45.871Z",
+    "publishedAt": "2026-08-28T21:16:33.413Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -426,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-28T06:44:45.838Z",
+    "publishedAt": "2026-08-28T21:16:33.599Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -455,7 +457,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-28T06:44:46.380Z",
+    "publishedAt": "2026-08-28T21:16:33.825Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -483,7 +485,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-28T06:44:45.385Z",
+    "publishedAt": "2026-08-28T21:16:33.205Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -510,7 +512,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-28T06:44:45.834Z",
+    "publishedAt": "2026-08-28T21:16:33.404Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -539,7 +541,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-28T06:44:45.381Z",
+    "publishedAt": "2026-08-28T21:16:33.183Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -568,7 +570,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-28T06:44:45.850Z",
+    "publishedAt": "2026-08-28T21:16:33.545Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -595,7 +597,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-28T06:44:46.046Z",
+    "publishedAt": "2026-08-28T21:16:33.616Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -624,7 +626,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-28T06:44:45.706Z",
+    "publishedAt": "2026-08-28T21:16:33.340Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -654,7 +656,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-28T06:44:45.445Z",
+    "publishedAt": "2026-08-28T21:16:33.395Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -681,16 +683,16 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-28T06:44:47.808Z",
+    "publishedAt": "2026-08-28T21:16:35.211Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
       "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates.",
-      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 27, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 27, 2026 Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 27, 2026 How to Make a Short Film?",
+      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Best Face Swap AI for Photos, Videos, and Creative Projects Aug 28, 2026 MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 27, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 27, 2026 Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 27, 2026 How to Make a Short Film?",
       "12 Practical Steps From Idea to Release Aug 27, 2026 14 Creative Music Video Ideas for Any Budget Aug 27, 2026 10 Cinematography Techniques Every Creator Should Know Aug 27, 2026 Content Ideas for Social Media: What to Post on Every Platform Aug 27, 2026 50+ YouTube Channel Ideas: Niches That Work in 2026 Aug 27, 2026 24 Short Film Ideas You Can Actually Make Aug 27, 2026 30+ AI Art Styles: Visual Examples and Prompt Ideas Aug 27, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Aug 20, 2026 How to Create 4K E-commerce Product Videos with AI?",
-      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
     ],
     "claims": [
       {
@@ -711,7 +713,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-28T06:44:45.693Z",
+    "publishedAt": "2026-08-28T21:16:33.324Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -738,7 +740,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-28T06:44:45.759Z",
+    "publishedAt": "2026-08-28T21:16:33.382Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -746,9 +748,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 28 Writing Down the Line Between Luck and Skill FINAL-Bench • 4 days ago • 13 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 6 days ago • 11 Introducing the EdgeFirst Model Zoo EdgeFirst • 3 days ago • 8 Modern LLMs: What the FLIP is an Engram!?",
-      "Blackroot • 2 days ago • 7 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 8 days ago • 11 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • about 24 hours ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • about 24 hours ago • 4 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Sleeper Agents and How to Tame Them tngtech • 15 days ago • 26 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 17 days ago • 17 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 16 days ago • 49 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 16 days ago • 12 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 15 days ago • 8 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 8 days ago • 6 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 61 August 26, 2026 Granite 4.2 LLMs: How They're Built 67 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 23 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 23 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 19 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 44 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "72 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 95 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 165 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 103 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 29 Writing Down the Line Between Luck and Skill FINAL-Bench • 5 days ago • 14 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 6 days ago • 11 Modern LLMs: What the FLIP is an Engram!?",
+      "Blackroot • 3 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 4 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 1 day ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 1 day ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 8 days ago • 11 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 16 days ago • 12 Intel GPU AI Skills kushal-mittal • 2 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 1 day ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 328 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 72 August 26, 2026 Granite 4.2 LLMs: How They're Built 70 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 29 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 27 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 21 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 44 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "72 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 95 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 167 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 105 August 13, 2026 Previous 1 2 3 ...",
       "61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -776,9 +778,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Breaking Claude Code Opus 5 Auto Mode Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
-      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
-      "27th August 2026 - Link Blog Breaking Claude Code Opus 5 Auto Mode .",
+      "Breaking Claude Code Opus 5 Auto Mode Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 27th August 2026 - Link Blog Breaking Claude Code Opus 5 Auto Mode .",
       "Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks."
     ],
     "claims": [
@@ -806,9 +808,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Qwen3.8-Flash-Next Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
-      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
-      "26th August 2026 - Link Blog Qwen3.8-Flash-Next ( via ) Another open weights model from Qwen.",
+      "Qwen3.8-Flash-Next Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 26th August 2026 - Link Blog Qwen3.8-Flash-Next ( via ) Another open weights model from Qwen.",
       "This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\"."
     ],
     "claims": [
@@ -836,9 +838,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "A quote from Paul Dix Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
-      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
-      "26th August 2026 The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing.",
+      "A quote from Paul Dix Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 26th August 2026 The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing.",
       "And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short."
     ],
     "claims": [
@@ -867,9 +869,9 @@
     ],
     "keyFacts": [
       "EVE Online: The Move to Python 3 Begins!",
-      "Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
-      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
-      "25th August 2026 - Link Blog EVE Online: The Move to Python 3 Begins!"
+      "Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 25th August 2026 - Link Blog EVE Online: The Move to Python 3 Begins!"
     ],
     "claims": [
       {
@@ -896,9 +898,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: llm-anthropic 0.27 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal.",
-      "Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime.",
-      "24th August 2026 Release llm-anthropic 0.27 &mdash; LLM access to models by Anthropic, including the Claude series This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 .",
+      "Release: llm-anthropic 0.27 Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 24th August 2026 Release llm-anthropic 0.27 &mdash; LLM access to models by Anthropic, including the Claude series This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 .",
       "OpenAI made the same change in their v3.0.0 release two weeks ago."
     ],
     "claims": [
@@ -920,7 +922,7 @@
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-28T06:44:45.660Z",
+    "publishedAt": "2026-08-28T21:16:33.279Z",
     "categoryHints": [
       "ai-agentic"
     ],

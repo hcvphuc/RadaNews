@@ -7,8 +7,8 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-08-28T06:44:45.916Z",
-    "crawledAt": "2026-08-28T06:44:45.916Z",
+    "publishedAt": "2026-08-28T21:16:33.491Z",
+    "crawledAt": "2026-08-28T21:16:33.491Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -25,15 +25,15 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-08-28T06:44:45.352Z",
-    "crawledAt": "2026-08-28T06:44:45.352Z",
+    "publishedAt": "2026-08-28T21:16:33.295Z",
+    "crawledAt": "2026-08-28T21:16:33.295Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.92,
     "crawlStatus": "live",
-    "extractedText": "Research \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models—so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economics Interpretability Societal Impacts Frontier Red Team Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Economics The Economics team studies how AI is reshaping the economy, including work, productivity, and economic opportunity. Frontier Red Team The Frontier Red Team analyzes the implications of frontier AI models for cybersecurity, biosecurity, and autonomous systems. Interpretability The mission of the Interpretability team is to understand how large language models work internally, as a foundation for AI safety and positive outcomes. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world. Learning more about Claude's mathematical capabilities Science Aug 10, 2026 An unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis. It improved a longstanding lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%. Science Aug 18, 2026 How Claude is accelerating protein design and analytical chemistry In this post, we share two results that show how Claude can help life scientists increase the pace of their research. Economics Aug 12, 2026 Reviewing the evidence on worker retraining programs We're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff. Interpretability Jul 6, 2026 A global workspace in language models New interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output. Alignment May 8, 2026 Teaching Claude why New research on how we've reduced agentic misalignment. Publications Search Date Category Title Aug 26, 2026 Societal Impacts Enabling independent research on how people use Claude Aug 18, 2026 Science How Claude is accelerating protein design and analytical chemistry Aug 13, 2026 Frontier Red Team Patterns and problems in emerging multiagent systems Aug 12, 2026 Economics Reviewing the evidence on worker retraining programs Aug 10, 2026 Science Learning more about Claude's mathematical capabilities Jul 28, 2026 Frontier Red Team Discovering cryptographic weaknesses with Claude Jul 24, 2026 Frontier Red Team Project Pilot: Can AI control a drone? Jul 14, 2026 Economics How Canada uses Claude: Findings from the Anthropic Economic Index Jul 13, 2026 Societal Impacts Claude’s values across models and languages Jul 9, 2026 Frontier Red Team Claude plays robotics See more Join the Research team See open roles Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Cybersecurity Enterprise Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Small business Claude Platform Overview Developer docs Pricing Ecosystem Marketplace Regional compliance Claude on AWS Google Cloud Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Plugins Powered by Claude Service partners Tutorials Use cases Programs Startups Research Labs Help and security Availability Status Support center Company Anthropic Careers Leadership Policy Economic Futures Research News Claude’s Constitution Claude Corps Keep thinking Policy on the AI Exponential Responsible Scaling Policy Security and compliance Transparency Terms and policies Privacy policy Consumer health data privacy policy Responsible disclosure policy Terms of service: Commercial Terms of service: Consumer Terms of Service: US K-12 Data Processing Agreement: US K-12 Usage policy © 2026 Anthropic PBC",
+    "extractedText": "Research \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models—so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economics Interpretability Societal Impacts Frontier Red Team Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Economics The Economics team studies how AI is reshaping the economy, including work, productivity, and economic opportunity. Frontier Red Team The Frontier Red Team analyzes the implications of frontier AI models for cybersecurity, biosecurity, and autonomous systems. Interpretability The mission of the Interpretability team is to understand how large language models work internally, as a foundation for AI safety and positive outcomes. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the real world. Learning more about Claude's mathematical capabilities Science Aug 10, 2026 An unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis. It improved a longstanding lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%. Science Aug 18, 2026 How Claude is accelerating protein design and analytical chemistry In this post, we share two results that show how Claude can help life scientists increase the pace of their research. Economics Aug 12, 2026 Reviewing the evidence on worker retraining programs We're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff. Interpretability Jul 6, 2026 A global workspace in language models New interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output. Alignment May 8, 2026 Teaching Claude why New research on how we've reduced agentic misalignment. Publications Search Date Category Title Aug 28, 2026 Alignment Automated researchers can reliably mitigate alignment failures Aug 26, 2026 Societal Impacts Enabling independent research on how people use Claude Aug 18, 2026 Science How Claude is accelerating protein design and analytical chemistry Aug 13, 2026 Frontier Red Team Patterns and problems in emerging multiagent systems Aug 12, 2026 Economics Reviewing the evidence on worker retraining programs Aug 10, 2026 Science Learning more about Claude's mathematical capabilities Jul 28, 2026 Frontier Red Team Discovering cryptographic weaknesses with Claude Jul 24, 2026 Frontier Red Team Project Pilot: Can AI control a drone? Jul 14, 2026 Economics How Canada uses Claude: Findings from the Anthropic Economic Index Jul 13, 2026 Societal Impacts Claude’s values across models and languages See more Join the Research team See open roles Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Cybersecurity Enterprise Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Small business Claude Platform Overview Developer docs Pricing Ecosystem Marketplace Regional compliance Claude on AWS Google Cloud Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Plugins Powered by Claude Service partners Tutorials Use cases Programs Startups Research Labs Help and security Availability Status Support center Company Anthropic Careers Leadership Policy Economic Futures Research News Claude’s Constitution Claude Corps Keep thinking Policy on the AI Exponential Responsible Scaling Policy Security and compliance Transparency Terms and policies Privacy policy Consumer health data privacy policy Responsible disclosure policy Terms of service: Commercial Terms of service: Consumer Terms of Service: US K-12 Data Processing Agreement: US K-12 Usage policy © 2026 Anthropic PBC",
     "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
   },
   {
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.186Z",
-    "crawledAt": "2026-08-28T06:44:45.186Z",
+    "publishedAt": "2026-08-28T21:16:33.020Z",
+    "crawledAt": "2026-08-28T21:16:33.020Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.515Z",
-    "crawledAt": "2026-08-28T06:44:45.515Z",
+    "publishedAt": "2026-08-28T21:16:34.859Z",
+    "crawledAt": "2026-08-28T21:16:34.859Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-26T16:00:34.000Z",
-    "crawledAt": "2026-08-28T06:44:45.928Z",
+    "crawledAt": "2026-08-28T21:16:33.757Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -100,7 +100,7 @@
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-24T16:00:59.000Z",
-    "crawledAt": "2026-08-28T06:44:45.928Z",
+    "crawledAt": "2026-08-28T21:16:33.757Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -109,55 +109,55 @@
     "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_f3ddb79ecc730465",
+    "id": "src_reddit-aiagents_0c15706ea4849f44",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w0co3b/please_help_a_dad_out_to_connect_with_his_kid/",
-    "title": "Please help a dad out to connect with his kid",
-    "rawSummary": "Health isn’t the best and is getting expensive so I can’t afford to pay for all AIs to try the pro versions. And as you can see, I know very little about this topic. But basically with my health getting worse and worse, I want to try using an AI that can help me connect with my kid. I have a little guy who has this plushy he loves. I’m house ridden right now so I couldn’t go on vacation with my wife and kids, so I send him a photo of his plushy ‘doing’ various things every day. As I lost ideas and can’t go out, I’ve used Gemini to add things (put him on a swing at the park, for example). I then saw a video of a man in my predicament who leaves AI videos for his kids and has trained it to make videos and send them even after he passes. I hope to live a long time, with science advancing I hope I will. But in case I don’t, my kids are young and I’d like to do something similar. The meds are expensive and on top of that, they’ve turned my brain to mush. I have a hard time learning and memorizing. But I hear that you can pay for an API and then create your own Gemini or ChatGPT. Could someone point me in the right direction? A detailed video, website, etc that I could use. Everything I find assumes you already know a bunch and I just don’t. Thank you submitted by /u/peji911 [link] [comments]",
-    "publishedAt": "2026-08-28T01:21:41.000Z",
-    "crawledAt": "2026-08-28T06:44:45.928Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w0zq9p/are_companies_overdoing_ai_support/",
+    "title": "Are companies overdoing AI support?",
+    "rawSummary": "I feel like every company wants an AI agent handling support now, I get it for basic stuff but I wonder where the line is, if a customer has a messy issue or is already pissed off then forcing them through AI I think it can make things worse. I think the better setup is letting AI handle repetitive requests and handing off to a human when things get complicated. For anyone working in support or contact centers has your company found that balance for this or are we automating stuff just because we can? submitted by /u/Flat-Inspection-5781 [link] [comments]",
+    "publishedAt": "2026-08-28T19:08:31.000Z",
+    "crawledAt": "2026-08-28T21:16:33.757Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "Health isn’t the best and is getting expensive so I can’t afford to pay for all AIs to try the pro versions. And as you can see, I know very little about this topic. But basically with my health getting worse and worse, I want to try using an AI that can help me connect with my kid. I have a little guy who has this plushy he loves. I’m house ridden right now so I couldn’t go on vacation with my wife and kids, so I send him a photo of his plushy ‘doing’ various things every day. As I lost ideas and can’t go out, I’ve used Gemini to add things (put him on a swing at the park, for example). I then saw a video of a man in my predicament who leaves AI videos for his kids and has trained it to make videos and send them even after he passes. I hope to live a long time, with science advancing I hope I will. But in case I don’t, my kids are young and I’d like to do something similar. The meds are expensive and on top of that, they’ve turned my brain to mush. I have a hard time learning and memorizing. But I hear that you can pay for an API and then create your own Gemini or ChatGPT. Could someone point me in the right direction? A detailed video, website, etc that I could use. Everything I find assumes you already know a bunch and I just don’t. Thank you submitted by /u/peji911 [link] [comments]"
+    "extractedText": "I feel like every company wants an AI agent handling support now, I get it for basic stuff but I wonder where the line is, if a customer has a messy issue or is already pissed off then forcing them through AI I think it can make things worse. I think the better setup is letting AI handle repetitive requests and handing off to a human when things get complicated. For anyone working in support or contact centers has your company found that balance for this or are we automating stuff just because we can? submitted by /u/Flat-Inspection-5781 [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_adb665414f51fe14",
+    "id": "src_reddit-aiagents_02f89f93874cd97d",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w0i61v/what_i_actually_want_from_a_manus_alternative/",
-    "title": "what I actually want from a Manus alternative: don't lose the plot halfway through",
-    "rawSummary": "the benchmark I care about for agents now is stupidly simple: give it a job with 6 steps and see if step 6 still respects what happened in step 2. say the job is: research 15 competitors pull their pricing + positioning ignore enterprise plans find the common gaps turn that into a short report then make a deck from the report most agents look amazing for the first few steps. the problem is when the final deck suddenly includes stuff you explicitly excluded, 3 competitors disappeared somewhere, or it confidently says “done” and you have to audit the whole thing anyway. that's what I'd want solved in a Manus alternative more than another 5% benchmark win. I'm actually more interested in bounded tools for this reason. Runable is interesting to me for the business-output side because I can judge the end state: did I get the report, deck, site etc and does it match the brief? less interested in “fully autonomous”. more interested in did it finish the fucking job without forgetting the job. what's been the most reliable agent for longer multi-step work for you? submitted by /u/carlie_jace [link] [comments]",
-    "publishedAt": "2026-08-28T05:56:39.000Z",
-    "crawledAt": "2026-08-28T06:44:45.928Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w0nq7e/why_use_mcp_when_agents_can_use_apis_directly/",
+    "title": "Why use MCP when Agents can use APIs directly?",
+    "rawSummary": "[Sorry in advance if this a duplicate of another post, but feels like the response to this question can vary every month] Agentic workflows and LLMs are now powerful enough to call and discover APIs and CLIs directly, so MCP feels more and more like a heavy redundancy. Feels like the biggest value MCP now represents is the consensus around it: since it was accepted by everybody, AI clients, SaaS tools and all kind of solutions build permissions and AI governance layers around it. But couldn't we do it around APIs directly? Disclaimer: I am mainly referring to MCPs built on top of Web APIs, since I've spent the last months building MCPs basically replicating existing SaaS APIs. Of course, MCP providing local or additional capacities not supposed to be included in public or private APIs are a different case. submitted by /u/AugustinTerros [link] [comments]",
+    "publishedAt": "2026-08-28T11:17:48.000Z",
+    "crawledAt": "2026-08-28T21:16:33.757Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "the benchmark I care about for agents now is stupidly simple: give it a job with 6 steps and see if step 6 still respects what happened in step 2. say the job is: research 15 competitors pull their pricing + positioning ignore enterprise plans find the common gaps turn that into a short report then make a deck from the report most agents look amazing for the first few steps. the problem is when the final deck suddenly includes stuff you explicitly excluded, 3 competitors disappeared somewhere, or it confidently says “done” and you have to audit the whole thing anyway. that's what I'd want solved in a Manus alternative more than another 5% benchmark win. I'm actually more interested in bounded tools for this reason. Runable is interesting to me for the business-output side because I can judge the end state: did I get the report, deck, site etc and does it match the brief? less interested in “fully autonomous”. more interested in did it finish the fucking job without forgetting the job. what's been the most reliable agent for longer multi-step work for you? submitted by /u/carlie_jace [link] [comments]"
+    "extractedText": "[Sorry in advance if this a duplicate of another post, but feels like the response to this question can vary every month] Agentic workflows and LLMs are now powerful enough to call and discover APIs and CLIs directly, so MCP feels more and more like a heavy redundancy. Feels like the biggest value MCP now represents is the consensus around it: since it was accepted by everybody, AI clients, SaaS tools and all kind of solutions build permissions and AI governance layers around it. But couldn't we do it around APIs directly? Disclaimer: I am mainly referring to MCPs built on top of Web APIs, since I've spent the last months building MCPs basically replicating existing SaaS APIs. Of course, MCP providing local or additional capacities not supposed to be included in public or private APIs are a different case. submitted by /u/AugustinTerros [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_87f8a93d8bc0a022",
+    "id": "src_reddit-aiagents_1cd7bff6a6fc4b39",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w0fb51/ai_agents_need_a_different_security_model_than/",
-    "title": "AI agents need a different security model than chatbots",
-    "rawSummary": "Once an AI system can use tools, read files, send messages, browse, access SaaS accounts, or trigger automations, it stops being \"just a chatbot.\" The security model changes from: \"Can this model answer safely?\" to: \"What can this model do, with whose credentials, against which data, under what approval rules?\" The practical controls I care about most: - scoped permissions - human confirmation for irreversible actions - audit logs - separation between read and write access - prompt injection awareness - no silent access to broad workspaces - clear rollback path for automations Curious how people building agents are handling permission boundaries right now. submitted by /u/vasiliyivanov [link] [comments]",
-    "publishedAt": "2026-08-28T03:25:30.000Z",
-    "crawledAt": "2026-08-28T06:44:45.928Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w0z37j/my_claude_code_agent_ran_for_40_minutes_while_i/",
+    "title": "My Claude Code agent ran for 40 minutes while I got coffee. I have no idea what it actually did.",
+    "rawSummary": "Came back, the refactor worked, tests passed, I was happy for about five minutes. Then I wondered: what did it actually touch? What did it read? Did it open my .env ? Did it call anything outside the repo? I had... nothing. No timeline, no diff summary, no \"here's what changed and why.\" Just a wall of transcript I'd have to scroll through line by line if I wanted to actually know. We've gotten really comfortable letting these things run unsupervised for real chunks of time, and I don't think our visibility into what they're doing has kept up at all. Feels like flying blind and just hoping the plane lands where you wanted. Anyone else just... not check? Or found something that actually works here? submitted by /u/Independent_Bag_2904 [link] [comments]",
+    "publishedAt": "2026-08-28T18:44:51.000Z",
+    "crawledAt": "2026-08-28T21:16:33.757Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "Once an AI system can use tools, read files, send messages, browse, access SaaS accounts, or trigger automations, it stops being \"just a chatbot.\" The security model changes from: \"Can this model answer safely?\" to: \"What can this model do, with whose credentials, against which data, under what approval rules?\" The practical controls I care about most: - scoped permissions - human confirmation for irreversible actions - audit logs - separation between read and write access - prompt injection awareness - no silent access to broad workspaces - clear rollback path for automations Curious how people building agents are handling permission boundaries right now. submitted by /u/vasiliyivanov [link] [comments]"
+    "extractedText": "Came back, the refactor worked, tests passed, I was happy for about five minutes. Then I wondered: what did it actually touch? What did it read? Did it open my .env ? Did it call anything outside the repo? I had... nothing. No timeline, no diff summary, no \"here's what changed and why.\" Just a wall of transcript I'd have to scroll through line by line if I wanted to actually know. We've gotten really comfortable letting these things run unsupervised for real chunks of time, and I don't think our visibility into what they're doing has kept up at all. Feels like flying blind and just hoping the plane lands where you wanted. Anyone else just... not check? Or found something that actually works here? submitted by /u/Independent_Bag_2904 [link] [comments]"
   },
   {
     "id": "src_stability-ai-blog_2026-08-28_fallback",
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.334Z",
-    "crawledAt": "2026-08-28T06:44:45.334Z",
+    "publishedAt": "2026-08-28T21:16:33.157Z",
+    "crawledAt": "2026-08-28T21:16:33.157Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
-    "publishedAt": "2026-08-28T06:44:46.040Z",
-    "crawledAt": "2026-08-28T06:44:46.040Z",
+    "publishedAt": "2026-08-28T21:16:33.595Z",
+    "crawledAt": "2026-08-28T21:16:33.595Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-08-28T06:44:45.786Z",
-    "crawledAt": "2026-08-28T06:44:45.786Z",
+    "publishedAt": "2026-08-28T21:16:33.577Z",
+    "crawledAt": "2026-08-28T21:16:33.577Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -223,8 +223,8 @@
     "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.342Z",
-    "crawledAt": "2026-08-28T06:44:45.342Z",
+    "publishedAt": "2026-08-28T21:16:33.168Z",
+    "crawledAt": "2026-08-28T21:16:33.168Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -242,8 +242,8 @@
     "sourceUrl": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.345Z",
-    "crawledAt": "2026-08-28T06:44:45.345Z",
+    "publishedAt": "2026-08-28T21:16:33.176Z",
+    "crawledAt": "2026-08-28T21:16:33.176Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -261,14 +261,14 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-08-28T06:44:45.871Z",
-    "crawledAt": "2026-08-28T06:44:45.871Z",
+    "publishedAt": "2026-08-28T21:16:33.413Z",
+    "crawledAt": "2026-08-28T21:16:33.413Z",
     "categoryHints": [
       "ai-video"
     ],
     "score": 0.92,
     "crawlStatus": "live",
-    "extractedText": "AI Video Research & Innovation | Runway AI Creative Dev Robotics Research Resources Enterprise Pricing Enterprise Sales Login Try Runway Our Research Building general-purpose multimodal simulators of the world. We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing. Latest news from our research Research from Runway July 19, 2026 Runway Characters: Real-Time Expressive AI Characters from a Single Image by Michail Doukas, Taras Khakhulin, Kathleen Lewis, Yining Shi, Michael Tarasiou, Jimei Yang + 28 authors Runway Characters transforms a single reference image of any style, from photorealistic human to cartoon mascot, to a real-time conversational video agent. The system produces audio-synchronized facial animation — including lip-sync, gaze dynamics, head movement and secondary motion — from the conditioned audio and the reference image at 24fps in HD resolution. Runway Characters generates the frames autoregressively and has an effective 37 milliseconds of model time per frame. The server-side turn-around from when the user stops speaking to when the character starts responding is 1.75 seconds. The real-time conversational characters represent a novel step towards real-time simulation of human conversational presence.... Read Paper September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding. Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models.... Read Paper June 2, 2025 Dual-Process Image Generation by Grace Luo, Jonathan Granskog, Aleksander Hołyński, Trevor Darrell Prior methods for controlling image generation are limited in their ability to be taught new tasks. In contrast, vision-language models, or VLMs, can learn tasks in-context and produce the correct outputs for a given input. We propose a dual-process distillation scheme that allows feed-forward image generators to learn new tasks from deliberative VLMs. Our scheme uses a VLM to rate the generated images and backpropagates this gradient to update the weights of the image generator. Our general framework enables a wide variety of new control tasks through the same text-and-image based interface. We showcase a handful of applications of this technique for different types of control signals, such as commonsense inferences and visual prompts. With our method, users can implement multimodal controls for properties such as color palette, line weight, horizon position, and relative depth within a... Read Paper View More Publications Runway Research We are building foundational General World Models that will be capable of simulating all possible worlds and experiences. The next frontier of intelligence will come from models that can understand, perceive, generate and act in the world. Learn more GWM-1 ↗ A state-of-the-art General World Model built to interact with the real world. And a major step towards universal simulation. Gen-4.5 ↗ The world's best video model, featuring state-of-the-art motion quality, prompt adherence and visual fidelity. General World Models ↗ Our long-term research effort to build AI systems that understand the visual world and its dynamics. RNA Sessions An ongoing series of talks about frontier research in AI and art, hosted by Runway. Learn more Latest news How Real-Time Video Generation Is Changing Online Interaction Accelerating Robot Policy Evaluation with General World Models The Turing Reel View all research news Creative Overview Agent Android app ↗ iOS app ↗ MCP Use Cases Pricing Login Dev Platform ↗ Models ↗ footer.modelRouter ↗ Workflows Recipes ↗ Characters Documentation ↗ Pricing Robotics Overview Policy Model Offline Policy Evaluation Data Augmentation Video Model Licensing Get Access Enterprise Overview Data Security Customer Stories For Education Contact Sales Research Research Hub Research News Publications General World Models GWM-1 Gen-4.5 Aleph 2.0 Act-Two Resources Academy ↗ Help Center ↗ Resource Hub News Changelog Meetups ↗ Events & Programs AI Festival ↗ AI Summit 2026 ↗ Gen:48 Studios Creative Partners Program Runway Builders Affiliate Program Talent Network ↗ Company About Us Careers Safety Brand Guidelines Press Partnerships © 2026 Runway AI, Inc. / Terms of Use / Privacy Policy / California Notices / Cookie Settings Code of Conduct / System Status ')\" decoding=\"async\" aria-hidden=\"true\" fetchPriority=\"auto\"/>",
+    "extractedText": "AI Video Research & Innovation | Runway AI Creative Dev Robotics Research Resources Enterprise Pricing Enterprise Sales Login Try Runway Our Research Building general-purpose multimodal simulators of the world. We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing. Latest news from our research Research from Runway July 19, 2026 Runway Characters: Real-Time Expressive AI Characters from a Single Image by Michail Doukas, Taras Khakhulin, Kathleen Lewis, Yining Shi, Michael Tarasiou, Jimei Yang + 28 authors Runway Characters transforms a single reference image of any style, from photorealistic human to cartoon mascot, to a real-time conversational video agent. The system produces audio-synchronized facial animation — including lip-sync, gaze dynamics, head movement and secondary motion — from the conditioned audio and the reference image at 24fps in HD resolution. Runway Characters generates the frames autoregressively and has an effective 37 milliseconds of model time per frame. The server-side turn-around from when the user stops speaking to when the character starts responding is 1.75 seconds. The real-time conversational characters represent a novel step towards real-time simulation of human conversational presence.... Read Paper September 24, 2025 Autoregressive-to-Diffusion Vision Language Models by Marianne Arriola, Naveen Venkat, Jonathan Granskog, Anastasis Germanidis We develop a state-of-the-art diffusion vision language model, Autoregressive-to-Diffusion (A2D), by adapting an existing autoregressive vision language model for parallel diffusion decoding. Our approach makes it easy to unlock the speed-quality trade-off of diffusion language models without training from scratch, by leveraging existing pretrained autoregressive models.... Read Paper June 2, 2025 Dual-Process Image Generation by Grace Luo, Jonathan Granskog, Aleksander Hołyński, Trevor Darrell Prior methods for controlling image generation are limited in their ability to be taught new tasks. In contrast, vision-language models, or VLMs, can learn tasks in-context and produce the correct outputs for a given input. We propose a dual-process distillation scheme that allows feed-forward image generators to learn new tasks from deliberative VLMs. Our scheme uses a VLM to rate the generated images and backpropagates this gradient to update the weights of the image generator. Our general framework enables a wide variety of new control tasks through the same text-and-image based interface. We showcase a handful of applications of this technique for different types of control signals, such as commonsense inferences and visual prompts. With our method, users can implement multimodal controls for properties such as color palette, line weight, horizon position, and relative depth within a... Read Paper View More Publications Runway Research We are building foundational General World Models that will be capable of simulating all possible worlds and experiences. The next frontier of intelligence will come from models that can understand, perceive, generate and act in the world. Learn more GWM-1 ↗ A state-of-the-art General World Model built to interact with the real world. And a major step towards universal simulation. Gen-4.5 ↗ The world's best video model, featuring state-of-the-art motion quality, prompt adherence and visual fidelity. General World Models ↗ Our long-term research effort to build AI systems that understand the visual world and its dynamics. RNA Sessions An ongoing series of talks about frontier research in AI and art, hosted by Runway. Learn more Latest news How Real-Time Video Generation Is Changing Online Interaction Accelerating Robot Policy Evaluation with General World Models The Turing Reel View all research news Creative Overview Agent Android app ↗ iOS app ↗ MCP Use Cases Pricing Login Dev Platform ↗ Models ↗ footer.modelRouter ↗ Workflows Recipes ↗ Characters Documentation ↗ Pricing Robotics Overview Policy Model Offline Policy Evaluation Data Augmentation Video Model Licensing Get Access Enterprise Overview Data Security Customer Stories For Education Contact Sales Research Research Hub Research News Publications General World Models GWM-1 Gen-4.5 Aleph 2.0 Act-Two Resources Academy ↗ Help Center ↗ Resource Hub News Changelog Meetups ↗ Events & Programs AI Festival ↗ AI Summit 2026 ↗ Gen:48 Studios Creative Partners Program Runway Builders Affiliate Program Talent Network ↗ Company About Us Careers Safety Verify Content Credentials Brand Guidelines Press Partnerships © 2026 Runway AI, Inc. / Terms of Use / Privacy Policy / California Notices / Cookie Settings Code of Conduct / System Status ')\" decoding=\"async\" aria-hidden=\"true\" fetchPriority=\"auto\"/>",
     "imageUrl": "https://runway.com/_next/static/immutable/media/og.24g5woj74xlz7.jpg"
   },
   {
@@ -279,8 +279,8 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Blog | Pika",
     "rawSummary": "Updates from the Pika team.",
-    "publishedAt": "2026-08-28T06:44:45.838Z",
-    "crawledAt": "2026-08-28T06:44:45.838Z",
+    "publishedAt": "2026-08-28T21:16:33.599Z",
+    "crawledAt": "2026-08-28T21:16:33.599Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -297,8 +297,8 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-08-28T06:44:46.380Z",
-    "crawledAt": "2026-08-28T06:44:46.380Z",
+    "publishedAt": "2026-08-28T21:16:33.825Z",
+    "crawledAt": "2026-08-28T21:16:33.825Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -315,8 +315,8 @@
     "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.385Z",
-    "crawledAt": "2026-08-28T06:44:45.385Z",
+    "publishedAt": "2026-08-28T21:16:33.205Z",
+    "crawledAt": "2026-08-28T21:16:33.205Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -334,8 +334,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-08-28T06:44:45.834Z",
-    "crawledAt": "2026-08-28T06:44:45.834Z",
+    "publishedAt": "2026-08-28T21:16:33.404Z",
+    "crawledAt": "2026-08-28T21:16:33.404Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -352,8 +352,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
-    "publishedAt": "2026-08-28T06:44:45.381Z",
-    "crawledAt": "2026-08-28T06:44:45.381Z",
+    "publishedAt": "2026-08-28T21:16:33.183Z",
+    "crawledAt": "2026-08-28T21:16:33.183Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -369,8 +369,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.850Z",
-    "crawledAt": "2026-08-28T06:44:45.850Z",
+    "publishedAt": "2026-08-28T21:16:33.545Z",
+    "crawledAt": "2026-08-28T21:16:33.545Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -388,8 +388,8 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
     "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
-    "publishedAt": "2026-08-28T06:44:46.046Z",
-    "crawledAt": "2026-08-28T06:44:46.046Z",
+    "publishedAt": "2026-08-28T21:16:33.616Z",
+    "crawledAt": "2026-08-28T21:16:33.616Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -406,8 +406,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
     "rawSummary": "News and updates from the ComfyUI Team. Click to read ComfyUI Newsletter, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-08-28T06:44:45.706Z",
-    "crawledAt": "2026-08-28T06:44:45.706Z",
+    "publishedAt": "2026-08-28T21:16:33.340Z",
+    "crawledAt": "2026-08-28T21:16:33.340Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -425,8 +425,8 @@
     "sourceUrl": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.445Z",
-    "crawledAt": "2026-08-28T06:44:45.445Z",
+    "publishedAt": "2026-08-28T21:16:33.395Z",
+    "crawledAt": "2026-08-28T21:16:33.395Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -444,15 +444,15 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-08-28T06:44:47.808Z",
-    "crawledAt": "2026-08-28T06:44:47.808Z",
+    "publishedAt": "2026-08-28T21:16:35.211Z",
+    "crawledAt": "2026-08-28T21:16:35.211Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "score": 0.8,
     "crawlStatus": "live",
-    "extractedText": "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates. 全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 27, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 27, 2026 Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 27, 2026 How to Make a Short Film? 12 Practical Steps From Idea to Release Aug 27, 2026 14 Creative Music Video Ideas for Any Budget Aug 27, 2026 10 Cinematography Techniques Every Creator Should Know Aug 27, 2026 Content Ideas for Social Media: What to Post on Every Platform Aug 27, 2026 50+ YouTube Channel Ideas: Niches That Work in 2026 Aug 27, 2026 24 Short Film Ideas You Can Actually Make Aug 27, 2026 30+ AI Art Styles: Visual Examples and Prompt Ideas Aug 27, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Aug 20, 2026 How to Create 4K E-commerce Product Videos with AI? Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 Kling VIDEO 3.0 Multi-Shot: Create Structured Cinematic Sequences Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群",
+    "extractedText": "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates. 全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Best Face Swap AI for Photos, Videos, and Creative Projects Aug 28, 2026 MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 27, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 27, 2026 Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 27, 2026 How to Make a Short Film? 12 Practical Steps From Idea to Release Aug 27, 2026 14 Creative Music Video Ideas for Any Budget Aug 27, 2026 10 Cinematography Techniques Every Creator Should Know Aug 27, 2026 Content Ideas for Social Media: What to Post on Every Platform Aug 27, 2026 50+ YouTube Channel Ideas: Niches That Work in 2026 Aug 27, 2026 24 Short Film Ideas You Can Actually Make Aug 27, 2026 30+ AI Art Styles: Visual Examples and Prompt Ideas Aug 27, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Aug 20, 2026 How to Create 4K E-commerce Product Videos with AI? Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群",
     "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhAAAACgCAMAAABqi6XnAAAAOVBMVEUAAAD///////////////////////////////////////////////////////////////////////8KOjVvAAAAEnRSTlMAIGBA37+fgBDvz3AwkK+gUI8AMKFAAAAOnUlEQVR42uycW3LrIAxADYi3cW3tf7G30/QOIcZJeHRiEp3fNuMYnwghhKd2zMz9piSAxR8ApFTai3kiPg2z6gXwELd4YSbiMzBcAT6B3EiK90dsgAVIzibibRHK4g/kBDGJzWIlSkzEe2G8xBaAwsQ7wbTFOwA4+Y0Di8eAIiXeBLEcPmPNBTNpaUL4IA/EICXeASHzLvjZTIcYobNWbKTE4DCFO6zy7CmVgsvkEhMxLmafO9ggSnzicqcEFbaHhdtqGyIsAKUSbwGTmCJXUymWpHljfLxtDg4R9oUJG21yDAaTqQ46PsEuSgBNG0PhbaEO5Ur4iRgFo/CaqEMjKyTTxkSMAQO8QrI+kgm/3bTUOJo2hiBZbILo0l61ObxAicRwaLwimK77pFSkGg6jCsJD+665XSfizBjXMzyIxeIjqEZ1Zhj0+/Ea79Jg4JT2/BsfpCUjhuDaB8c6botB4CyNHV/xUtRed1aufQimmw7SZ93ygBcsrTXOybUPvpcO0pvD6zm8ICfihDBoTB+iDs9uiGmqYp8XBn2qA94W7ICE3/+kvc/TYaBL/VC42DwxPYGjEHFSlsSH5qqWFE/GJcoizonu4YO35RXO0LT0XPmfkh2Kmf8RZyrIJD60ttRYX/Ip/EFPVUj8U/i9serPVMos9tR//voPHXzQNnZPlD9TSUKUC8Ewg6gevtwCw7LG8FDePeEvFyYhyoXgmEF2EMLhf+bG7AHWHzsuoWh+7EaMToyEKBYCMIM1zULEO/SN4SHMPO2Kcot/6NjFpZWEKBVCYBbfKsSMiE2ZnQC8ABYzgJqf8JyTEKVCKMwiG4UwgG1bChs+xPGH30qTEIVCGIt5RJsQW9sCgznMUHLG94uEqBKC4wGhSQjRllCKjKYgldJaq0VajChGQjyg071b0yIENCUQHlNc4IlXbI2NMCDeQwgmelItBMND1nohou7QfJ7HSp5VU3zdd24ZTIi+VAuh8BBZLwSLFanG9EF6c+cM3z0jZMPYG9YLgVd4dmF/S+cRAvAYUy2EapgwZojBIcwP3IHjy0AMcy+EPRkZziLEinfQtUKsDRPGaouOAuvDqsk5Om1HE2LBO9haIQCxtnDsi3SIexbzQem6PDp/tBDsNpnHBFEnBMdfVP1++cLK1s1gsrHPTsV8tBAcE7jAhKVOCKguSW01Z/189iUA+hwtU4MJAZjAJrsrRZQLwaNPZRhVd3gj5KYnGatrZbxOCPPyOoTABLUrl/kaIRzWTRnGVR4FNpAJBvYUi4wiIQT2pVwItUsZDCbIGiFmG42o8GGJ4aFMbJEZ3Jcf3hpLCIvXQKZGJyqEqDOCQUPvhNxND6F22fvJQnBMUJnCRKgQotyI6IMVUw1il/G4ePUyPlkIiQkssxtuTbkQNUYwaOvFlTfjzfAcKcRQQrBsvhAwYS0XosIIBo2vCvA3V/LnKEuNJYTCBJ79VrJciFIjog/1z8/cVKHgd937ckYSAvKTg8QEU9kxxfFpI4yLPtQik16c+TQvkSkRYoZ+VAixYoI66NzRxUKUGhF9aCAkA66i460w/Y+9c1tPHIaBcH2K5cRJA+//sHuxJSarBEUesx8pzGV3W4P9I49kRwSv0HDeSmW3mWCyUkRSA6ElooN4KIOVnIhSsxzjctUpnhYIc13J7yYfTguEkojYpNeoufcMFj76LrC+DRB2t0jNT7j0QHAicB5kV9mv3JFv8bDy+wDBzrWKWClCB4SKiKFczcaUCgK21fSTfx8g8m52yU+4lEBoiMhlCFC+jB1WjEPG5H2A2C5CCKUIJRAyEcazAjkOhCvDgRrfCAjPLWWdreRASETwgjW1BKIECFjfpwViNWzludb+czJjHRAyET1bOhyIEiBOBsTcNZSXgVDEAH7CVQOETMSFzSEIRLqn7GxAxOuzVFGEEC5jzxVAyEQMbHBEtz9lbwN9gLhJ75ascMwS9EDIRBiW8MJ1iFDMkWkORAp7+gVAsCIEz+pXIi0QMhHGax8yl9PoiQWIFkCI4L44EL36cu0kvrqoBUImYoLbV/KjunHBzLQH4uusQER1EWIWTUYCgeBExMaZWPz7RrrbEB8gbvIGsZRyGiIDIRIx0VfeHBu+D2Fuc/ABYtEMFCH2SxEdAAQftc8eDBDbpudreRj8A8SPkgUspVCKAIDgHPIAgXvKsCSyHyD+Ko1Gf67VH8pMBwgITgQeIHhAm34gtqcEgkxzEXK5VipF4EBwIpJpaiH8bXs7JRDPFL5j8P/mACAE94LLrCj7AMEELwrf00YYCD64e8Z78vQBQpQ+oeSXbQkFgi/dc95TTx8gipAihEwODkQUgw7+nnr6tUBQvNeXRvhOMDNbiQJR5icJFymxu9E9/VYg1ug/1VLKXbCpARDTD4ZCcELvwvb0FkAA71LOJuVSRGyWZXiL5RhyxaunEwLh7pSP1JDMkb9kdEUIBTweB8L/jBrL2A2D3pjTHRHnAyLIx4mOASF+QpzGfiVSJSQoEPGW6U4tLYQt+eaKiNMBMbDJFoDIBxbEA0UI0YCCQJh0A7tv2ELS+FKQWhNxNiBI3sztkYNMo1jiXvjMC6UIDIhumTOghaTwze8CEQAQbk+XZqYyiJMdjxwwjQI0zJMUdYISO+ECgDAlsjfs5mFK+OJEnOmS7b97xiC3oh7lRDJJlhJSgIDolllxDS8tdGWr3CDiXEAYcbL7A+vhFDuGv2JyABCmrJxtl2TY1R0pTsSpgFivN8l7uLxjWGH2QEU1EDxA3ELj3M5RFr/NiTgVEFHYM9z1QFnRa+7Lg0r1QJi7KBfho07uU3eJOBMQqwUP8tPHg+QTg7BFwXI6IPjSuaZADMxcYUTgQMxY6To9zjN6Zup0zrT9rb0gAyEEiJZAGHYJECQCB8JgQEwPP32ZDUfCajjBUuKiSiCGMiWAhxDa36JE4EB0QFtC9vEe5SQxPvad6fl9MaMWCNb2qV2W0TMeMCJwILwBgciPrj8bz02dyoZwvnB5PRC87dPcpI3QpVSsn0TEt54HAAj+UC3JW7596AsibClluSogwoqm3OL0OzIXBxGBA5EiQZ1suW10LEAweXq0GLNYhMA11gBh1jssieEM+H7GhkQ4q1AmsLUxZ3A4EOHjoxCTRfZwJapvB2DW7V4QWTYdOBG4cCAis6iSBcwPapkk2xVcgxKIAmNYfw5cEx5enAgtEGTuxTYMedMw91JYys4clmWlCC0Q5t/5GMDTrWHh4dWJaHWnkvYD/PTcy7XyZdusBYJ/nYnBTERceHh5InAg5BTx0uAiag/074xqIMJC8uonDubh9YloAwR1QnEIfl7LAje1kxYI4mPG+sSTpmUWTkBEEyCMlBBMVPe6igxCk1MCMXPLS9WdoIxfeDgDES2AcMxPBlXfILAhjHwqFpRAjBu/NVW6CJsWHk5BBA4ExY1aUAC3Df5sv0p0XYt0QPQbr9hVPf5NF5b7KomQ1+TFgHB+K9GkjZ+6ehfgQQcSdUBsQvhd0cvB1bamyop3/lJAuLB1YrJTluhybdLSgQ8A9jIQ/JdpK5ntqSI8pKzOSxRL8jpA0BD2T9ByunIF+yRLKXW2dRoghu1Ed1CyOaTbjKh5MOlwgHgZIMhd0sMT1bz9z53TFyEC/FUiowaIcaee9q3JmFxQG+qiDggQoFwVEHkIae+EXSxmp8lmxZlqeV1IKYIUQEx7d3v6wwvsApInzP/FQbhuS0k58SbbS4GBqWfHG9tK4TI70jzhC9rKQQFE2JsM4w/11iQboK4z5EvRHRRwvUAAYvjT3pksNwoDAVRLt1YksP7/YyeZSibWyCCa5gCO3sk+UaKeUS+iba0xCL5skly9srlsEzAbaxU5pKQXMpAgBKxmmBL6GZO2nlmkfTAWzhVid7Z/cCptLDsAQhGC3+HqC+HXryphOzzWFqo7sgg6mhF8nCyEZAmBcuUOUoVQp4wTzqXCdoRo1io70ao3dSjkdMyeUZ9t71gULPhCBMEQApa160JfiP72zw8r+UK06/GYH/aDhwnA6OBUGH5EyReiH1OSzmvWyEQQolOE4JQiiEJMR9bDF9ky1s0UgtSAIujQImeCEBvhIK/DxQgqm/VA6QFaHGEihKNMFMtokg4tMsJuIYBQhKCUOx1BiO51FZYX+MDbLoQExu/gZCGyOCKEz1rsY8kdIbp9LW6Hi1aYSt1SrUV4dsFEvcDXl8gbYMnPMPhCBEcXwqNyFP1V7gjBKkL0ct6wV4iZcBRU6r9I9/k5f19pEtzMaBEs+EIkIYhCYNJOUHE6hW0hXKc2wihFaFJzywsi1nNHYltGAHGuEKgFRQgwkSJD+6zNYVUIjRVZMIhYocQXCZ9ZC+z0saMPQfN9QMGAKwRg0qJLKR4goElxkeIMpiWmjAHgU4iL4cmvD0zI/23b53xvcCVmYiFAmqZay/HBDx8uhia9YeSsL01ywamaLGJwMWB/CUQ+fNPr5fkQxeBqqOYsZP8gDE7iFB+sGFwP2HMa0kVs8rRDODN8uDi6//zWxjet3mPIMHy4PKl8EXT3hHFQgsMEw4cbkMs3qOT/PQxfF/VYRD98uAPVwIuQbVQfWJOhU+Olv+s3fLgHLhDGuDG2i5Fv3oZ524akBRdbfvCjHnV50roNRjvBRYfyA0xicHnsSxkwatHAix5KGP2LWxBrFUJOSopTUL4+jjK4BxOUJx4EGwhjFPwl/4V/8BKJ5QlQJ+kwtov7YkujBF+HUX24MROcp4RTWCrCyC7uh5tLBRgpDuGsLxV+PB7uyQIrw5F4E5hwRA+3xba1qYVmg3/xtt/gvsj51XAkue+9AywNfrQu7o4OpQVMnLZkWB7oV/pig9uzNusiZKv05OphXEt85E8Xhg7vjMayAUBAxADgywaohg5vhJwLB59HKPluSAXlIBjHw+EtmWYoZNCOssMbo1Og7BQYhw1vj1QZdslg9dgpfgtySejXXQgmju7V78PpxaaMAfy/9DMbq5axS9yRP8Om+BZOtF/KAAAAAElFTkSuQmCC"
   },
   {
@@ -463,8 +463,8 @@
     "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-28T06:44:45.693Z",
-    "crawledAt": "2026-08-28T06:44:45.693Z",
+    "publishedAt": "2026-08-28T21:16:33.324Z",
+    "crawledAt": "2026-08-28T21:16:33.324Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -482,8 +482,8 @@
     "sourceUrl": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
     "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "publishedAt": "2026-08-28T06:44:45.759Z",
-    "crawledAt": "2026-08-28T06:44:45.759Z",
+    "publishedAt": "2026-08-28T21:16:33.382Z",
+    "crawledAt": "2026-08-28T21:16:33.382Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -492,7 +492,7 @@
     ],
     "score": 0.85,
     "crawlStatus": "live",
-    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 28 Writing Down the Line Between Luck and Skill FINAL-Bench • 4 days ago • 13 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 6 days ago • 11 Introducing the EdgeFirst Model Zoo EdgeFirst • 3 days ago • 8 Modern LLMs: What the FLIP is an Engram!? Blackroot • 2 days ago • 7 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 8 days ago • 11 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • about 24 hours ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • about 24 hours ago • 4 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Sleeper Agents and How to Tame Them tngtech • 15 days ago • 26 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 17 days ago • 17 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 16 days ago • 49 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 16 days ago • 12 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 15 days ago • 8 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 8 days ago • 6 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 61 August 26, 2026 Granite 4.2 LLMs: How They're Built 67 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 23 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 23 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 19 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 44 August 20, 2026 How Much Memory Does Your Agent Actually Need? 72 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 95 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 165 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 103 August 13, 2026 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 16 August 12, 2026 Previous 1 2 3 ... 61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 28 Writing Down the Line Between Luck and Skill FINAL-Bench • 4 days ago • 13 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 6 days ago • 11 Introducing the EdgeFirst Model Zoo EdgeFirst • 3 days ago • 8 Modern LLMs: What the FLIP is an Engram!? Blackroot • 2 days ago • 7 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 8 days ago • 11 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • about 24 hours ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • about 24 hours ago • 4 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 178 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 Sleeper Agents and How to Tame Them tngtech • 15 days ago • 26 Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 17 days ago • 17 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge LiquidAI • 16 days ago • 49 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 16 days ago • 12 mLateOn: A New SoTA for Multilingual ColBERT-Style Retrieval, Evaluated on HAKARI-Bench hotchpotch • 15 days ago • 8 VLM Run Gateway: Run GLM-OCR, DeepSeek-OCR-2, dots.mocr with an OpenAI Compatible API vlm-run • 8 days ago • 6 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 29 Writing Down the Line Between Luck and Skill FINAL-Bench • 5 days ago • 14 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 6 days ago • 11 Modern LLMs: What the FLIP is an Engram!? Blackroot • 3 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 4 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 1 day ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 1 day ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 8 days ago • 11 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 16 days ago • 12 Intel GPU AI Skills kushal-mittal • 2 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 1 day ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 328 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 72 August 26, 2026 Granite 4.2 LLMs: How They're Built 70 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 29 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 27 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 21 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 44 August 20, 2026 How Much Memory Does Your Agent Actually Need? 72 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 95 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 167 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 105 August 13, 2026 Previous 1 2 3 ... 61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 29 Writing Down the Line Between Luck and Skill FINAL-Bench • 5 days ago • 14 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 6 days ago • 11 Modern LLMs: What the FLIP is an Engram!? Blackroot • 3 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 4 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 902 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 1 day ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 1 day ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 FLUX 3 Model Overview: Multimodal Flow Models for Image, Video, Audio, and Action Prediction ResterChed • Jul 24 • 22 ArmBench-ASR: A Benchmark for Armenian ASR Metric-AI • 8 days ago • 11 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 16 days ago • 12 Intel GPU AI Skills kushal-mittal • 2 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 1 day ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 328 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
     "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
   },
   {
@@ -504,14 +504,14 @@
     "title": "Breaking Claude Code Opus 5 Auto Mode",
     "rawSummary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip archive, then executing code that imports base64 without noticing that this will import and execute a local struct.py file extracted from the archive. In a few cases auto mode directly prevented the agent from preventing harmful code from continuing to execute! In a few runs Claude tried to terminate the malware process once it noticed the compromise, but Auto Mode denied the cleanup command. Claude detects the compromise, but Auto Mode blocks its cleanup command The safety mechanism itself can become part of the failure. The classifier allowed the creation of the malware process, but then it blocked the command intended to stop it! I agree with Johann's conclusion here: the only safe way to run agents if there's any risk of attracting the attention of an adversarial attack is with a sandbox: Run unattended coding agents in a container, VM or OS sandbox. Restrict network egress. Monitor your agents. Do not expose home directories, SSH keys, cloud credentials,… to the agent runtime. [...] Tags: sandboxing , security , ai , prompt-injection , generative-ai , llms , anthropic , claude , johann-rehberger , claude-code",
     "publishedAt": "2026-08-27T22:50:25.000Z",
-    "crawledAt": "2026-08-28T06:44:45.682Z",
+    "crawledAt": "2026-08-28T21:16:33.362Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Breaking Claude Code Opus 5 Auto Mode Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 27th August 2026 - Link Blog Breaking Claude Code Opus 5 Auto Mode . Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip archive, then executing code that imports base64 without noticing that this will import and execute a local struct.py file extracted from the archive. In a few cases auto mode directly prevented the agent from preventing harmful code from continuing to execute! In a few runs Claude tried to terminate the malware process once it noticed the compromise, but Auto Mode denied the cleanup command. Claude detects the compromise, but Auto Mode blocks its cleanup command The safety mechanism itself can become part of the failure. The classifier allowed the creation of the malware process, but then it blocked the command intended to stop it! I agree with Johann's conclusion here: the only safe way to run agents if there's any risk of attracting the attention of an adversarial attack is with a sandbox: Run unattended coding agents in a container, VM or OS sandbox. Restrict network egress. Monitor your agents. Do not expose home directories, SSH keys, cloud credentials,… to the agent runtime. [...] Posted 27th August 2026 at 10:50 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 27th August 2026 . sandboxing 55 security 627 ai 2,204 prompt-injection 162 generative-ai 1,953 llms 1,920 anthropic 332 claude 304 johann-rehberger 19 claude-code 125 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Breaking Claude Code Opus 5 Auto Mode Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code. Catch bugs that only show up at runtime. Try it for free 27th August 2026 - Link Blog Breaking Claude Code Opus 5 Auto Mode . Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip archive, then executing code that imports base64 without noticing that this will import and execute a local struct.py file extracted from the archive. In a few cases auto mode directly prevented the agent from preventing harmful code from continuing to execute! In a few runs Claude tried to terminate the malware process once it noticed the compromise, but Auto Mode denied the cleanup command. Claude detects the compromise, but Auto Mode blocks its cleanup command The safety mechanism itself can become part of the failure. The classifier allowed the creation of the malware process, but then it blocked the command intended to stop it! I agree with Johann's conclusion here: the only safe way to run agents if there's any risk of attracting the attention of an adversarial attack is with a sandbox: Run unattended coding agents in a container, VM or OS sandbox. Restrict network egress. Monitor your agents. Do not expose home directories, SSH keys, cloud credentials,… to the agent runtime. [...] Posted 27th August 2026 at 10:50 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 27th August 2026 . sandboxing 55 security 627 ai 2,204 prompt-injection 162 generative-ai 1,953 llms 1,920 anthropic 332 claude 304 johann-rehberger 19 claude-code 125 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_45ba9e3e296b482f",
@@ -522,14 +522,14 @@
     "title": "Qwen3.8-Flash-Next",
     "rawSummary": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans ) and the 78.9GB UD-Q2_K_XL (producing these ). My favorite so far was this xhigh reasoning effort one from UD-Q2_K_XL: Via Hacker News Tags: ai , generative-ai , llms , qwen , pelican-riding-a-bicycle , ai-in-china , nvidia-spark",
     "publishedAt": "2026-08-26T23:52:58.000Z",
-    "crawledAt": "2026-08-28T06:44:45.682Z",
+    "crawledAt": "2026-08-28T21:16:33.362Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Qwen3.8-Flash-Next Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 26th August 2026 - Link Blog Qwen3.8-Flash-Next ( via ) Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans ) and the 78.9GB UD-Q2_K_XL (producing these ). My favorite so far was this xhigh reasoning effort one from UD-Q2_K_XL: Posted 26th August 2026 at 11:52 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 26th August 2026 . ai 2,204 generative-ai 1,953 llms 1,920 qwen 61 pelican-riding-a-bicycle 136 ai-in-china 107 nvidia-spark 6 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Qwen3.8-Flash-Next Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code. Catch bugs that only show up at runtime. Try it for free 26th August 2026 - Link Blog Qwen3.8-Flash-Next ( via ) Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans ) and the 78.9GB UD-Q2_K_XL (producing these ). My favorite so far was this xhigh reasoning effort one from UD-Q2_K_XL: Posted 26th August 2026 at 11:52 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 26th August 2026 . ai 2,204 generative-ai 1,953 llms 1,920 qwen 61 pelican-riding-a-bicycle 136 ai-in-china 107 nvidia-spark 6 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_17864e6498c47c40",
@@ -540,14 +540,14 @@
     "title": "Quoting Paul Dix",
     "rawSummary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can produce a highly complex, highly sophisticated piece of software and it can continue to refine it until it just works. &mdash; Paul Dix , The end of programming Tags: coding-agents , ai-assisted-programming , generative-ai , bun , ai , llms",
     "publishedAt": "2026-08-26T08:07:55.000Z",
-    "crawledAt": "2026-08-28T06:44:45.682Z",
+    "crawledAt": "2026-08-28T21:16:33.362Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "A quote from Paul Dix Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 26th August 2026 The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can produce a highly complex, highly sophisticated piece of software and it can continue to refine it until it just works. &mdash; Paul Dix , The end of programming Posted 26th August 2026 at 8:07 am Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a quotation collected by Simon Willison, posted on 26th August 2026 . ai 2,204 generative-ai 1,953 llms 1,920 ai-assisted-programming 404 coding-agents 241 bun 9 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "A quote from Paul Dix Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code. Catch bugs that only show up at runtime. Try it for free 26th August 2026 The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can produce a highly complex, highly sophisticated piece of software and it can continue to refine it until it just works. &mdash; Paul Dix , The end of programming Posted 26th August 2026 at 8:07 am Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a quotation collected by Simon Willison, posted on 26th August 2026 . ai 2,204 generative-ai 1,953 llms 1,920 ai-assisted-programming 404 coding-agents 241 bun 9 Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_852f9e4066548445",
@@ -558,14 +558,14 @@
     "title": "EVE Online: The Move to Python 3 Begins!",
     "rawSummary": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for example 1 / 2 is 0 in Python 2 but is 0.5 in Python 3. There's nothing in this announcement about how they plan to replace Stackless, but at their conference last year they presented Scheduling in Carbon: Leaving Stackless Python Behind describing how they replaced Stackless in the Carbon engine for their more recent game EVE Frontier, using their (now open source) carbonengine/scheduler library. Via Lobster.rs Tags: eve-online , migrations , python , python3 , stackless",
     "publishedAt": "2026-08-25T22:59:30.000Z",
-    "crawledAt": "2026-08-28T06:44:45.682Z",
+    "crawledAt": "2026-08-28T21:16:33.362Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "EVE Online: The Move to Python 3 Begins! Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 25th August 2026 - Link Blog EVE Online: The Move to Python 3 Begins! ( via ) EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for example 1 / 2 is 0 in Python 2 but is 0.5 in Python 3. There's nothing in this announcement about how they plan to replace Stackless, but at their conference last year they presented Scheduling in Carbon: Leaving Stackless Python Behind describing how they replaced Stackless in the Carbon engine for their more recent game EVE Frontier, using their (now open source) carbonengine/scheduler library. Posted 25th August 2026 at 10:59 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 25th August 2026 . eve-online 2 migrations 13 python 1,278 python3 22 stackless 2 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "EVE Online: The Move to Python 3 Begins! Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code. Catch bugs that only show up at runtime. Try it for free 25th August 2026 - Link Blog EVE Online: The Move to Python 3 Begins! ( via ) EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for example 1 / 2 is 0 in Python 2 but is 0.5 in Python 3. There's nothing in this announcement about how they plan to replace Stackless, but at their conference last year they presented Scheduling in Carbon: Leaving Stackless Python Behind describing how they replaced Stackless in the Carbon engine for their more recent game EVE Frontier, using their (now open source) carbonengine/scheduler library. Posted 25th August 2026 at 10:59 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a link post by Simon Willison, posted on 25th August 2026 . eve-online 2 migrations 13 python 1,278 python3 22 stackless 2 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_a80370fa0d6abc37",
@@ -576,14 +576,14 @@
     "title": "llm-anthropic 0.27",
     "rawSummary": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with: Upgrade to anthropic>=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md and get the tests passing Here's the resulting PR . Tags: python , httpx , llm , anthropic , claude",
     "publishedAt": "2026-08-24T16:27:04.000Z",
-    "crawledAt": "2026-08-28T06:44:45.682Z",
+    "crawledAt": "2026-08-28T21:16:33.362Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
     ],
     "score": 0.82,
     "crawlStatus": "live",
-    "extractedText": "Release: llm-anthropic 0.27 Simon Willison’s Weblog Subscribe Sponsored by: Teleport &mdash; AI agents don’t sleep and will try anything to achieve their goal. Teleport explains how to deploy AI safely, starting with an isolated ephemeral trusted runtime. 24th August 2026 Release llm-anthropic 0.27 &mdash; LLM access to models by Anthropic, including the Claude series This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with: Upgrade to anthropic>=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md and get the tests passing Here's the resulting PR . Posted 24th August 2026 at 4:27 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a beat by Simon Willison, posted on 24th August 2026 . python 1,278 httpx 8 llm 626 anthropic 332 claude 304 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+    "extractedText": "Release: llm-anthropic 0.27 Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code. Catch bugs that only show up at runtime. Try it for free 24th August 2026 Release llm-anthropic 0.27 &mdash; LLM access to models by Anthropic, including the Claude series This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with: Upgrade to anthropic>=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md and get the tests passing Here's the resulting PR . Posted 24th August 2026 at 4:27 pm Recent articles Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 Now we have a timeline of the OpenAI accidental attack against Hugging Face - 7th August 2026 This is a beat by Simon Willison, posted on 24th August 2026 . python 1,278 httpx 8 llm 626 anthropic 332 claude 304 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_lilianweng-blog_31a2c7baf9b791a5",
@@ -593,8 +593,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-08-28T06:44:45.660Z",
-    "crawledAt": "2026-08-28T06:44:45.660Z",
+    "publishedAt": "2026-08-28T21:16:33.279Z",
+    "crawledAt": "2026-08-28T21:16:33.279Z",
     "categoryHints": [
       "ai-agentic"
     ],
