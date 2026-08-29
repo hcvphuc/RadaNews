@@ -9,7 +9,7 @@
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_pika-blog_faa536f0db7dac04",
-      "src_kling-blog_9b8eef2edc427cc1"
+      "src_reddit-aiagents_fb116077f8d62396"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: LangChain Blog, Replit Blog, Hugging Face Blog.",
@@ -23,12 +23,13 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_a6a3a9c7fc2b8f43",
-      "src_simonwillison-blog_b687a93167b52199",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_852f9e4066548445"
+      "src_simonwillison-blog_b687a93167b52199",
+      "src_simonwillison-blog_852f9e4066548445",
+      "src_simonwillison-blog_45ba9e3e296b482f"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -48,35 +49,34 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_qwen3-8-flash-next_2026-08-29",
+    "clusterId": "cluster_ai-vibe-coding_2_quoting-paul-dix_2026-08-29",
     "category": "ai-vibe-coding",
-    "topic": "Qwen3.8-Flash-Next",
+    "topic": "Quoting Paul Dix",
     "sourceIds": [
-      "src_simonwillison-blog_45ba9e3e296b482f",
       "src_simonwillison-blog_17864e6498c47c40",
       "src_black-forest-labs_db0e6d09e99dbd6f",
-      "src_reddit-aiagents_1cd7bff6a6fc4b39",
+      "src_reddit-aiagents_01da30caed5d5cc0",
+      "src_reddit-aiagents_c808b6aca904eda5",
       "src_vercel-ai-blog_2026-08-29_fallback"
     ],
-    "articleWorthinessScore": 0.95,
-    "reasonSelected": "Score 0.95 from 5 source item(s), 4 live crawl(s), strongest sources: Simon Willison's Weblog, Black Forest Labs, r/AI_Agents.",
+    "articleWorthinessScore": 0.91,
+    "reasonSelected": "Score 0.91 from 5 source item(s), 4 live crawl(s), strongest sources: Simon Willison's Weblog, Black Forest Labs, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_why-use-mcp-when-agents-can-use-apis-directly_2026-08-29",
+    "clusterId": "cluster_ai-agentic_2_ai-ai_2026-08-29",
     "category": "ai-agentic",
-    "topic": "Why use MCP when Agents can use APIs directly?",
+    "topic": "可灵 AI - 新一代 AI 创意生产力平台",
     "sourceIds": [
-      "src_reddit-aiagents_02f89f93874cd97d",
-      "src_reddit-aiagents_0c15706ea4849f44",
+      "src_kling-blog_9b8eef2edc427cc1",
       "src_reddit-aiagents_34783379f90f9b51",
       "src_reddit-aiagents_97437e06e1a0cdc5",
       "src_openai-blog_2026-08-29_fallback",
       "src_mcp-blog_2026-08-29_fallback"
     ],
-    "articleWorthinessScore": 0.78,
-    "reasonSelected": "Score 0.78 from 6 source item(s), 4 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.77,
+    "reasonSelected": "Score 0.77 from 5 source item(s), 3 live crawl(s), strongest sources: Kling AI Blog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
