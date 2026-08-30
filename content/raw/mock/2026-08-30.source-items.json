@@ -7,8 +7,8 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-08-30T01:00:16.955Z",
-    "crawledAt": "2026-08-30T01:00:16.955Z",
+    "publishedAt": "2026-08-30T15:05:01.560Z",
+    "crawledAt": "2026-08-30T15:05:01.560Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -25,8 +25,8 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-08-30T01:00:16.398Z",
-    "crawledAt": "2026-08-30T01:00:16.398Z",
+    "publishedAt": "2026-08-30T15:05:01.134Z",
+    "crawledAt": "2026-08-30T15:05:01.134Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.267Z",
-    "crawledAt": "2026-08-30T01:00:16.267Z",
+    "publishedAt": "2026-08-30T15:05:00.986Z",
+    "crawledAt": "2026-08-30T15:05:00.986Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.702Z",
-    "crawledAt": "2026-08-30T01:00:16.702Z",
+    "publishedAt": "2026-08-30T15:05:01.319Z",
+    "crawledAt": "2026-08-30T15:05:01.319Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-26T16:00:34.000Z",
-    "crawledAt": "2026-08-30T01:00:17.691Z",
+    "crawledAt": "2026-08-30T15:05:01.638Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -100,7 +100,7 @@
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-24T16:00:59.000Z",
-    "crawledAt": "2026-08-30T01:00:17.691Z",
+    "crawledAt": "2026-08-30T15:05:01.638Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -109,55 +109,55 @@
     "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_01da30caed5d5cc0",
+    "id": "src_reddit-aiagents_63c5a751b8fc1851",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w1nait/claude_code_hits_limits_in_just_12_hrs_of_work/",
-    "title": "Claude Code hits limits in just 1-2 hrs of work even on my MAX 200 plan",
-    "rawSummary": "Claude is completely destroying all my limits in 30 minutes sometimes it can worj for 3-4 hours of work. I use OPUS and used OPUS since it was introduced. Nothing has really changed in the volume of work that I'm doing. Before that, it ran like ten projects at a time. And it did it successfully for months. But now for a second month it is getting worse and worse. 1 hour of coding and I hit my five-hour limit. Around three to four days, hitting my limits, and I hit my weekly limit. I mean, what to do today? In the world we have just two coding agents. One is Claude.And the second is codex.I have tried even codex.But it is the worst thing created.Compared to Claude, it works very weak. So, any ideas what to do with Claude? Right now I started to think of the second max 200 subscription. But it's not the only solution. Also, the work that Claude is doing he started to do it very slow. What took him a day several months back, Now he can work on the same task for one or two weeks. So I'm not sure the second subscription will solve it. HELP!!! submitted by /u/AlexDubaii [link] [comments]",
-    "publishedAt": "2026-08-29T13:59:08.000Z",
-    "crawledAt": "2026-08-30T01:00:17.691Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w2azp6/title_file_systems_are_the_new_primitive_for_ai/",
+    "title": "Title: File Systems are the new primitive for AI Agents",
+    "rawSummary": "An interesting topic I’ve been exploring lately is whether filesystems might be the most intuitive data interface for AI agents . Agents need persistent data they can retrieve, modify, and carry across sessions. Databases, APIs, and object storage can obviously do this, but files have one interesting advantage: LLMs already know how to work with them really well. Models have seen decades of Unix commands, code, and tutorials using things like ls , cat , grep , cd , and mkdir . So instead of teaching an agent a different interface for every system, exposing data as files gives it a set of primitives it already understands. We’re starting to see this direction in practice too. OpenAI, for example, now lets agent sandboxes mount things like S3, GCS, and Box directly as folders. I’m still pretty new to this topic and exploring it myself. Curious what people here think about this direction, especially anything I might be overlooking or misunderstanding. submitted by /u/pilver7 [link] [comments]",
+    "publishedAt": "2026-08-30T07:36:21.000Z",
+    "crawledAt": "2026-08-30T15:05:01.638Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "Claude is completely destroying all my limits in 30 minutes sometimes it can worj for 3-4 hours of work. I use OPUS and used OPUS since it was introduced. Nothing has really changed in the volume of work that I'm doing. Before that, it ran like ten projects at a time. And it did it successfully for months. But now for a second month it is getting worse and worse. 1 hour of coding and I hit my five-hour limit. Around three to four days, hitting my limits, and I hit my weekly limit. I mean, what to do today? In the world we have just two coding agents. One is Claude.And the second is codex.I have tried even codex.But it is the worst thing created.Compared to Claude, it works very weak. So, any ideas what to do with Claude? Right now I started to think of the second max 200 subscription. But it's not the only solution. Also, the work that Claude is doing he started to do it very slow. What took him a day several months back, Now he can work on the same task for one or two weeks. So I'm not sure the second subscription will solve it. HELP!!! submitted by /u/AlexDubaii [link] [comments]"
+    "extractedText": "An interesting topic I’ve been exploring lately is whether filesystems might be the most intuitive data interface for AI agents . Agents need persistent data they can retrieve, modify, and carry across sessions. Databases, APIs, and object storage can obviously do this, but files have one interesting advantage: LLMs already know how to work with them really well. Models have seen decades of Unix commands, code, and tutorials using things like ls , cat , grep , cd , and mkdir . So instead of teaching an agent a different interface for every system, exposing data as files gives it a set of primitives it already understands. We’re starting to see this direction in practice too. OpenAI, for example, now lets agent sandboxes mount things like S3, GCS, and Box directly as folders. I’m still pretty new to this topic and exploring it myself. Curious what people here think about this direction, especially anything I might be overlooking or misunderstanding. submitted by /u/pilver7 [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_6eac3ca7b14b8d52",
+    "id": "src_reddit-aiagents_6e4582e8d0f57a59",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w2037b/would_you_feel_deceived_if_a_businesss_chat/",
-    "title": "Would you feel deceived if a business's chat \"agent\"on their website, WhatsApp, or Instagram turned out to be AI and had hidden it?",
-    "rawSummary": "I build AI customer-service agents for businesses here in the Gulf. They answer customers wherever they message website chat, WhatsApp, Instagram DMs take orders and bookings, connect to the company's actual systems, and pass to a human for anything sensitive. Here's my dilemma, and I want customer opinions, not developer opinions. Some of my clients don't want the agent to introduce itself as AI. I can live with that quiet greeting, good service, fair enough. But some push further: they want it to never reveal it, even if a customer asks directly \"is this a bot?\" they want it to dodge and route to a human instead of answering. As a customer, where's your line? The agent doesn't announce it's AI, but admits it honestly if you ask — acceptable? The agent actively avoids admitting it even when you ask directly — deceptive? Does it change anything if the service is genuinely fast and good? I'm deciding my company's policy on this and I'd rather hear how people actually feel than assume. TL;DR: clients want the AI agent's identity hidden across their chat channels, some even when customers ask directly. Would you feel lied to? submitted by /u/gojo1991B [link] [comments]",
-    "publishedAt": "2026-08-29T22:31:23.000Z",
-    "crawledAt": "2026-08-30T01:00:17.691Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w2h48q/how_are_people_preventing_longrunning_agents_from/",
+    "title": "How are people preventing long-running agents from accumulating bad memory?",
+    "rawSummary": "I've been experimenting with agents that run across multiple sessions, and I'm running into a problem I didn't expect from the usual \"add long-term memory\" approach. The first few sessions are great — storing past decisions/preferences means the agent doesn't keep starting from zero. But after enough history accumulates, I'm seeing the opposite effect: stale decisions get retrieved even after the underlying situation has changed conflicting memories from different sessions both look equally relevant the agent starts spending a surprising amount of context on old information that isn't useful anymore simply improving retrieval doesn't necessarily seem to improve the final task outcome I'm wondering whether memory systems need an explicit lifecycle , rather than treating memory as a growing retrieval store. What are people doing in practice for long-running agents? For example: 1. Separating semantic facts / episodic experiences / procedural instructions? 2. Decaying, expiring or periodically consolidating memories? 3. Keeping provenance + timestamps so the agent can decide whether an old memory is still trustworthy? 4. Evaluating memory based on downstream task success , rather than retrieval precision/recall alone? The last one is the part I'm most interested in. A memory can be retrieved \"correctly\" and still make the agent's next action worse. I've been looking at approaches like LangMem, Mem0 and Letta, and also broader platform approaches such as Lyzr Control Plane, but they seem to make somewhat different assumptions about where memory should live in the overall agent stack. Has anyone measured memory quality over weeks/months of agent operation rather than on a fixed benchmark? What actually worked? submitted by /u/Arc_bong [link] [comments]",
+    "publishedAt": "2026-08-30T13:07:36.000Z",
+    "crawledAt": "2026-08-30T15:05:01.638Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "I build AI customer-service agents for businesses here in the Gulf. They answer customers wherever they message website chat, WhatsApp, Instagram DMs take orders and bookings, connect to the company's actual systems, and pass to a human for anything sensitive. Here's my dilemma, and I want customer opinions, not developer opinions. Some of my clients don't want the agent to introduce itself as AI. I can live with that quiet greeting, good service, fair enough. But some push further: they want it to never reveal it, even if a customer asks directly \"is this a bot?\" they want it to dodge and route to a human instead of answering. As a customer, where's your line? The agent doesn't announce it's AI, but admits it honestly if you ask — acceptable? The agent actively avoids admitting it even when you ask directly — deceptive? Does it change anything if the service is genuinely fast and good? I'm deciding my company's policy on this and I'd rather hear how people actually feel than assume. TL;DR: clients want the AI agent's identity hidden across their chat channels, some even when customers ask directly. Would you feel lied to? submitted by /u/gojo1991B [link] [comments]"
+    "extractedText": "I've been experimenting with agents that run across multiple sessions, and I'm running into a problem I didn't expect from the usual \"add long-term memory\" approach. The first few sessions are great — storing past decisions/preferences means the agent doesn't keep starting from zero. But after enough history accumulates, I'm seeing the opposite effect: stale decisions get retrieved even after the underlying situation has changed conflicting memories from different sessions both look equally relevant the agent starts spending a surprising amount of context on old information that isn't useful anymore simply improving retrieval doesn't necessarily seem to improve the final task outcome I'm wondering whether memory systems need an explicit lifecycle , rather than treating memory as a growing retrieval store. What are people doing in practice for long-running agents? For example: 1. Separating semantic facts / episodic experiences / procedural instructions? 2. Decaying, expiring or periodically consolidating memories? 3. Keeping provenance + timestamps so the agent can decide whether an old memory is still trustworthy? 4. Evaluating memory based on downstream task success , rather than retrieval precision/recall alone? The last one is the part I'm most interested in. A memory can be retrieved \"correctly\" and still make the agent's next action worse. I've been looking at approaches like LangMem, Mem0 and Letta, and also broader platform approaches such as Lyzr Control Plane, but they seem to make somewhat different assumptions about where memory should live in the overall agent stack. Has anyone measured memory quality over weeks/months of agent operation rather than on a fixed benchmark? What actually worked? submitted by /u/Arc_bong [link] [comments]"
   },
   {
-    "id": "src_reddit-aiagents_430bf1f15d6d1767",
+    "id": "src_reddit-aiagents_67c31c3314ad2e9d",
     "sourceConfigId": "reddit-aiagents",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w1smho/claude_code_reducing_rate_limit_by_25_starting/",
-    "title": "Claude Code reducing rate limit by 25% starting September 14th",
-    "rawSummary": "ClaudeDevs posted on X that Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will be in place submitted by /u/Patient_Project425 [link] [comments]",
-    "publishedAt": "2026-08-29T17:32:20.000Z",
-    "crawledAt": "2026-08-30T01:00:17.691Z",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w2ewzb/agentfriendly_agentnative_our_cli_had_67_commands/",
+    "title": "Agent-friendly ≠ agent-native: our CLI had 67 commands and an agent still couldn't run one job",
+    "rawSummary": "I've been redesigning the CLI for a batch-execution compiler I work on. It had grown to 67 leaf commands, and it was technically \"agent-friendly\" — structured output, stable exit codes, non-interactive, machine-readable help. Every box checked. An agent still face-planted on the simplest task: \"run this work and give me the result.\" Here's why. Running one job looked different depending on what the input was : template submit-file run execute template-spec submit-workbook template-spec run market run market workbook run And each path renamed the verify step — validate-file vs validate vs validate-workbook . So before the agent could act on its intent, it had to reconstruct our entire resource model: is this a template? a private spec? a market item? Every one of those is a branch where it can guess wrong and burn a batch of paid executions. The checklist stuff (parseable output, idempotency) is necessary but it isn't the actual problem. The problem is abstraction level . A human learns the resource hierarchy once. An agent starts from intent every single time and shouldn't have to re-derive your domain model to express it. What I'm trying instead — three layers, and the agent enters at whichever one fits the task: Knowledge : skills, schemas, docs — what exists and how it works Intent : run , deploy , verify — high-level operations, input type resolved underneath State : executions, artifacts, instances — the real objects, for inspection and recovery Routine work enters at Intent. Debugging and recovery descend to State. The 67 commands collapse to: loomloom run quote loomloom run start loomloom run watch loomloom run results The principle holding it together: assisted intent, gated at the wallet. The system does safe inference for free — resolving types, formatting inputs. It stops and asks before spending money or mutating remote state. Idempotency means an operation is retryable ; it does not mean the agent should retry automatically. At batch scale, auto-retry multiplies cost, so safe ≠ automatic. A concrete flow: intent → quote → explicit approval → start → watch → results Where I'm still stuck , and what I'd like input on from people who've watched agents operate real software: Where do you draw the intent/resource boundary without the intent surface sprawling into 40 bespoke verbs? How do you test that a CLI is genuinely easier for an agent — versus just easier for me to describe? At batch scale, what remediation policy accounts for total cost rather than per-task safety? Should the same intent model be shared across CLI, API, and MCP, or do they each want a different shape? These are proposals, not settled — happy to be told which of them CLI designers solved 20 years ago. submitted by /u/woulatte [link] [comments]",
+    "publishedAt": "2026-08-30T11:20:25.000Z",
+    "crawledAt": "2026-08-30T15:05:01.638Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
-    "extractedText": "ClaudeDevs posted on X that Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will be in place submitted by /u/Patient_Project425 [link] [comments]"
+    "extractedText": "I've been redesigning the CLI for a batch-execution compiler I work on. It had grown to 67 leaf commands, and it was technically \"agent-friendly\" — structured output, stable exit codes, non-interactive, machine-readable help. Every box checked. An agent still face-planted on the simplest task: \"run this work and give me the result.\" Here's why. Running one job looked different depending on what the input was : template submit-file run execute template-spec submit-workbook template-spec run market run market workbook run And each path renamed the verify step — validate-file vs validate vs validate-workbook . So before the agent could act on its intent, it had to reconstruct our entire resource model: is this a template? a private spec? a market item? Every one of those is a branch where it can guess wrong and burn a batch of paid executions. The checklist stuff (parseable output, idempotency) is necessary but it isn't the actual problem. The problem is abstraction level . A human learns the resource hierarchy once. An agent starts from intent every single time and shouldn't have to re-derive your domain model to express it. What I'm trying instead — three layers, and the agent enters at whichever one fits the task: Knowledge : skills, schemas, docs — what exists and how it works Intent : run , deploy , verify — high-level operations, input type resolved underneath State : executions, artifacts, instances — the real objects, for inspection and recovery Routine work enters at Intent. Debugging and recovery descend to State. The 67 commands collapse to: loomloom run quote loomloom run start loomloom run watch loomloom run results The principle holding it together: assisted intent, gated at the wallet. The system does safe inference for free — resolving types, formatting inputs. It stops and asks before spending money or mutating remote state. Idempotency means an operation is retryable ; it does not mean the agent should retry automatically. At batch scale, auto-retry multiplies cost, so safe ≠ automatic. A concrete flow: intent → quote → explicit approval → start → watch → results Where I'm still stuck , and what I'd like input on from people who've watched agents operate real software: Where do you draw the intent/resource boundary without the intent surface sprawling into 40 bespoke verbs? How do you test that a CLI is genuinely easier for an agent — versus just easier for me to describe? At batch scale, what remediation policy accounts for total cost rather than per-task safety? Should the same intent model be shared across CLI, API, and MCP, or do they each want a different shape? These are proposals, not settled — happy to be told which of them CLI designers solved 20 years ago. submitted by /u/woulatte [link] [comments]"
   },
   {
     "id": "src_stability-ai-blog_2026-08-30_fallback",
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.517Z",
-    "crawledAt": "2026-08-30T01:00:16.517Z",
+    "publishedAt": "2026-08-30T15:05:01.239Z",
+    "crawledAt": "2026-08-30T15:05:01.239Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
-    "publishedAt": "2026-08-30T01:00:17.105Z",
-    "crawledAt": "2026-08-30T01:00:17.105Z",
+    "publishedAt": "2026-08-30T15:05:01.711Z",
+    "crawledAt": "2026-08-30T15:05:01.711Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-08-30T01:00:16.874Z",
-    "crawledAt": "2026-08-30T01:00:16.874Z",
+    "publishedAt": "2026-08-30T15:05:01.156Z",
+    "crawledAt": "2026-08-30T15:05:01.156Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -223,8 +223,8 @@
     "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.502Z",
-    "crawledAt": "2026-08-30T01:00:16.502Z",
+    "publishedAt": "2026-08-30T15:05:01.123Z",
+    "crawledAt": "2026-08-30T15:05:01.123Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -242,8 +242,8 @@
     "sourceUrl": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.507Z",
-    "crawledAt": "2026-08-30T01:00:16.507Z",
+    "publishedAt": "2026-08-30T15:05:01.123Z",
+    "crawledAt": "2026-08-30T15:05:01.123Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -261,8 +261,8 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-08-30T01:00:16.849Z",
-    "crawledAt": "2026-08-30T01:00:16.849Z",
+    "publishedAt": "2026-08-30T15:05:01.544Z",
+    "crawledAt": "2026-08-30T15:05:01.544Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -279,8 +279,8 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Blog | Pika",
     "rawSummary": "Updates from the Pika team.",
-    "publishedAt": "2026-08-30T01:00:16.825Z",
-    "crawledAt": "2026-08-30T01:00:16.825Z",
+    "publishedAt": "2026-08-30T15:05:01.517Z",
+    "crawledAt": "2026-08-30T15:05:01.517Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -297,8 +297,8 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-08-30T01:00:17.490Z",
-    "crawledAt": "2026-08-30T01:00:17.490Z",
+    "publishedAt": "2026-08-30T15:05:02.096Z",
+    "crawledAt": "2026-08-30T15:05:02.096Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -315,8 +315,8 @@
     "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.621Z",
-    "crawledAt": "2026-08-30T01:00:16.621Z",
+    "publishedAt": "2026-08-30T15:05:01.155Z",
+    "crawledAt": "2026-08-30T15:05:01.155Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -334,8 +334,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-08-30T01:00:16.852Z",
-    "crawledAt": "2026-08-30T01:00:16.852Z",
+    "publishedAt": "2026-08-30T15:05:01.575Z",
+    "crawledAt": "2026-08-30T15:05:01.575Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -352,8 +352,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
-    "publishedAt": "2026-08-30T01:00:16.599Z",
-    "crawledAt": "2026-08-30T01:00:16.599Z",
+    "publishedAt": "2026-08-30T15:05:01.212Z",
+    "crawledAt": "2026-08-30T15:05:01.212Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -369,8 +369,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.976Z",
-    "crawledAt": "2026-08-30T01:00:16.976Z",
+    "publishedAt": "2026-08-30T15:05:01.584Z",
+    "crawledAt": "2026-08-30T15:05:01.584Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -388,8 +388,8 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
     "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
-    "publishedAt": "2026-08-30T01:00:17.129Z",
-    "crawledAt": "2026-08-30T01:00:17.129Z",
+    "publishedAt": "2026-08-30T15:05:01.607Z",
+    "crawledAt": "2026-08-30T15:05:01.607Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -406,8 +406,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
     "rawSummary": "News and updates from the ComfyUI Team. Click to read ComfyUI Newsletter, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-08-30T01:00:16.643Z",
-    "crawledAt": "2026-08-30T01:00:16.643Z",
+    "publishedAt": "2026-08-30T15:05:01.387Z",
+    "crawledAt": "2026-08-30T15:05:01.387Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -425,8 +425,8 @@
     "sourceUrl": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.688Z",
-    "crawledAt": "2026-08-30T01:00:16.688Z",
+    "publishedAt": "2026-08-30T15:05:01.293Z",
+    "crawledAt": "2026-08-30T15:05:01.293Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -444,8 +444,8 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-08-30T01:00:17.965Z",
-    "crawledAt": "2026-08-30T01:00:17.965Z",
+    "publishedAt": "2026-08-30T15:05:03.943Z",
+    "crawledAt": "2026-08-30T15:05:03.943Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -463,8 +463,8 @@
     "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-08-30T01:00:16.742Z",
-    "crawledAt": "2026-08-30T01:00:16.742Z",
+    "publishedAt": "2026-08-30T15:05:01.377Z",
+    "crawledAt": "2026-08-30T15:05:01.377Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -482,8 +482,8 @@
     "sourceUrl": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
     "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "publishedAt": "2026-08-30T01:00:16.822Z",
-    "crawledAt": "2026-08-30T01:00:16.822Z",
+    "publishedAt": "2026-08-30T15:05:01.437Z",
+    "crawledAt": "2026-08-30T15:05:01.437Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -492,7 +492,7 @@
     ],
     "score": 0.85,
     "crawlStatus": "live",
-    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 9 hours ago • 38 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 4 days ago • 30 Writing Down the Line Between Luck and Skill FINAL-Bench • 6 days ago • 14 Modern LLMs: What the FLIP is an Engram!? Blackroot • 4 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 5 days ago • 8 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 30 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 903 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 3 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 3 days ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 17 days ago • 12 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 8 days ago • 12 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 3 days ago • 3 Intel GPU AI Skills kushal-mittal • 3 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 2 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 16 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 84 August 26, 2026 Granite 4.2 LLMs: How They're Built 76 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 32 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 30 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 23 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 46 August 20, 2026 How Much Memory Does Your Agent Actually Need? 73 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 95 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 168 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 106 August 13, 2026 Previous 1 2 3 ... 61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 9 hours ago • 38 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 4 days ago • 30 Writing Down the Line Between Luck and Skill FINAL-Bench • 6 days ago • 14 Modern LLMs: What the FLIP is an Engram!? Blackroot • 4 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 5 days ago • 8 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 30 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 903 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 3 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 3 days ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 17 days ago • 12 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 8 days ago • 12 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 3 days ago • 3 Intel GPU AI Skills kushal-mittal • 3 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 2 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 24 hours ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 5 days ago • 30 Writing Down the Line Between Luck and Skill FINAL-Bench • 6 days ago • 14 Modern LLMs: What the FLIP is an Engram!? Blackroot • 4 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 6 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 905 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 30 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 8 days ago • 13 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 3 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 3 days ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 174 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 18 days ago • 12 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 4 days ago • 3 Intel GPU AI Skills kushal-mittal • 4 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 3 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 23 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 88 August 26, 2026 Granite 4.2 LLMs: How They're Built 82 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 34 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 31 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 23 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 47 August 20, 2026 How Much Memory Does Your Agent Actually Need? 73 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 97 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 170 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 106 August 13, 2026 Previous 1 2 3 ... 61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 24 hours ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 5 days ago • 30 Writing Down the Line Between Luck and Skill FINAL-Bench • 6 days ago • 14 Modern LLMs: What the FLIP is an Engram!? Blackroot • 4 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 6 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 905 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 30 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 8 days ago • 13 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 3 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 3 days ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 174 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 18 days ago • 12 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 4 days ago • 3 Intel GPU AI Skills kushal-mittal • 4 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 3 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
     "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
   },
   {
@@ -504,7 +504,7 @@
     "title": "Introducing Hy4 Preview",
     "rawSummary": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates to better understand their capabilities. Here's Hy4's chat_template.jinja on Hugging Face, which includes this section: {% - if not reasoning_effort is defined %} {% - set reasoning_effort = 'high' %} {% - elif reasoning_effort not in [ 'high' , 'no_think' ] %} {% - if reasoning_effort is none %} {{- raise_exception('reasoning_effort error : None, should be no_think/high') }} {% - else %} {{- raise_exception('reasoning_effort error : ' + reasoning_effort + ', should be no_think/high') }} {% - endif %} {% - endif %} So it looks like there are just two reasoning effort levels: \"high\" (the default) and \"no_think\" (reason by disabled). I tried my \"Generate an SVG of a pelican riding a bicycle\" prompt with the default high reasoning via OpenRouter and got this : Quoting the reasoning trace: [...] Let's maybe add a helmet? It could improve riding theme, but may obscure head. Maybe a small cycling cap or helmet? The user didn't ask; can add red helmet? Might be cute. But pelican with big beak; a helmet might obscure. Better maybe no. Maybe add sunglasses? no. Maybe add water? no. It's interesting how the reasoning trace uses slightly truncated English, presumably because perfect grammar isn't useful or token efficient for hidden reasoning text. Tags: ai , generative-ai , llms , pelican-riding-a-bicycle , llm-reasoning , llm-release , ai-in-china",
     "publishedAt": "2026-08-29T23:53:13.000Z",
-    "crawledAt": "2026-08-30T01:00:16.760Z",
+    "crawledAt": "2026-08-30T15:05:01.494Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -523,7 +523,7 @@
     "title": "Just a rumour of a bug is enough to find a security exploit these days",
     "rawSummary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding probes for percent-encoded traversal sequences, indicating that automated watchers are keeping an eye on public repositories. Modern coding agents have become so effective at finding flaws that the slightest hint at a new bug can be enough information for them to find it, something Anil has been able to demonstrate using his own agents, switching to DeepSeek V4 Pro⁠ when Claude Fable refused the task. Anil points out that this rate of discovery appears incompatible with existing open source embargo practices for new issues. If an issue can become an exploit this fast, we need to figure out new processes for keeping our communities safe. rclone maintainer Nick Craig-Wood confirms in the Hacker News comments that his project is seeing this problem: In the first 10 years of the rclone project we received about 20 security disclosures through GitHub. We had to deal with over 40 in the last month! That has taken a huge amount of my time, even using AI tools to triage and come up with fixes for review. The hit rate for those security disclosures is pretty good - about 75% of them have a nugget of something which needs looking at. [...] GitHub assigns CVEs for the advisories. Before the AI apocalypse they took 2-3 days for an assignment but now it they are running at 3-4 weeks so I have to send the point releases out with CVE-PENDING in the changelog which isn't ideal. Via Hacker News Tags: open-source , security , ai , generative-ai , llms , coding-agents , ocaml , ai-security-research",
     "publishedAt": "2026-08-28T22:12:02.000Z",
-    "crawledAt": "2026-08-30T01:00:16.760Z",
+    "crawledAt": "2026-08-30T15:05:01.494Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -541,7 +541,7 @@
     "title": "Breaking Claude Code Opus 5 Auto Mode",
     "rawSummary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip archive, then executing code that imports base64 without noticing that this will import and execute a local struct.py file extracted from the archive. In a few cases auto mode directly prevented the agent from preventing harmful code from continuing to execute! In a few runs Claude tried to terminate the malware process once it noticed the compromise, but Auto Mode denied the cleanup command. Claude detects the compromise, but Auto Mode blocks its cleanup command The safety mechanism itself can become part of the failure. The classifier allowed the creation of the malware process, but then it blocked the command intended to stop it! I agree with Johann's conclusion here: the only safe way to run agents if there's any risk of attracting the attention of an adversarial attack is with a sandbox: Run unattended coding agents in a container, VM or OS sandbox. Restrict network egress. Monitor your agents. Do not expose home directories, SSH keys, cloud credentials,… to the agent runtime. [...] Tags: sandboxing , security , ai , prompt-injection , generative-ai , llms , anthropic , claude , johann-rehberger , claude-code",
     "publishedAt": "2026-08-27T22:50:25.000Z",
-    "crawledAt": "2026-08-30T01:00:16.760Z",
+    "crawledAt": "2026-08-30T15:05:01.494Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -559,7 +559,7 @@
     "title": "Qwen3.8-Flash-Next",
     "rawSummary": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans ) and the 78.9GB UD-Q2_K_XL (producing these ). My favorite so far was this xhigh reasoning effort one from UD-Q2_K_XL: Via Hacker News Tags: ai , generative-ai , llms , qwen , pelican-riding-a-bicycle , ai-in-china , nvidia-spark",
     "publishedAt": "2026-08-26T23:52:58.000Z",
-    "crawledAt": "2026-08-30T01:00:16.761Z",
+    "crawledAt": "2026-08-30T15:05:01.494Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -577,7 +577,7 @@
     "title": "Quoting Paul Dix",
     "rawSummary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can produce a highly complex, highly sophisticated piece of software and it can continue to refine it until it just works. &mdash; Paul Dix , The end of programming Tags: coding-agents , ai-assisted-programming , generative-ai , bun , ai , llms",
     "publishedAt": "2026-08-26T08:07:55.000Z",
-    "crawledAt": "2026-08-30T01:00:16.761Z",
+    "crawledAt": "2026-08-30T15:05:01.494Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -594,8 +594,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-08-30T01:00:16.800Z",
-    "crawledAt": "2026-08-30T01:00:16.800Z",
+    "publishedAt": "2026-08-30T15:05:01.405Z",
+    "crawledAt": "2026-08-30T15:05:01.405Z",
     "categoryHints": [
       "ai-agentic"
     ],

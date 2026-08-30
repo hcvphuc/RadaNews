@@ -325,16 +325,16 @@
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "LangChain Blog: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Pika Labs Blog, Cursor Changelog, Replit Blog, Kling AI Blog, Hugging Face Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, r/AI_Agents, Pika Labs Blog, Cursor Changelog, Replit Blog, Hugging Face Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agent",
+      "AI-Agents",
       "LangChain",
-      "VibeCoding",
-      "MCP",
-      "AgenticWorkflow"
+      "Agent-Native",
+      "Vibe-Coding",
+      "LLMOps"
     ],
-    "publishedAt": "2026-08-30T01:00:29.534Z",
-    "readingTime": 5,
+    "publishedAt": "2026-08-30T15:05:14.331Z",
+    "readingTime": 4,
     "url": "/vi/ai-agentic/langchain-blog-goc-nhin-cho-creator-va-builder-2026-08-30"
   },
   {
@@ -343,15 +343,15 @@
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
     "title": "LangChain Blog: creator and builder analysis",
-    "subtitle": "Signal synthesized from LangChain Blog, Pika Labs Blog, Cursor Changelog, Replit Blog, Kling AI Blog, Hugging Face Blog, scored by recency, content depth, and source reliability.",
+    "subtitle": "Signal synthesized from LangChain Blog, r/AI_Agents, Pika Labs Blog, Cursor Changelog, Replit Blog, Hugging Face Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Agents",
-      "Vibe Coding",
-      "MCP",
-      "LangChain",
-      "Generative Video"
+      "ai-agents",
+      "agent-native-design",
+      "langchain",
+      "llm-memory",
+      "developer-experience"
     ],
-    "publishedAt": "2026-08-30T01:01:41.105Z",
+    "publishedAt": "2026-08-30T15:06:22.237Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/langchain-blog-creator-and-builder-analysis-2026-08-30"
   },
@@ -363,13 +363,13 @@
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "ai-agentic",
       "vibe-coding",
-      "ai-agents",
-      "cybersecurity",
+      "ai-security",
       "anthropic",
       "llm-reasoning"
     ],
-    "publishedAt": "2026-08-30T01:00:40.926Z",
+    "publishedAt": "2026-08-30T15:05:33.705Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-08-30"
   },
@@ -381,13 +381,13 @@
     "title": "Research \\ Anthropic: creator and builder analysis",
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Agents",
-      "Cybersecurity",
-      "LLM-Reasoning",
-      "Open-Source",
-      "Anthropic"
+      "ai-vibe-coding",
+      "ai-security",
+      "agentic-workflows",
+      "anthropic",
+      "llm-reasoning"
     ],
-    "publishedAt": "2026-08-30T01:01:51.624Z",
+    "publishedAt": "2026-08-30T15:06:50.279Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-08-30"
   },
@@ -400,12 +400,12 @@
     "subtitle": "Tín hiệu được tổng hợp từ Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "AI-Video",
-      "RunwayAI",
-      "WorldModels",
-      "GenerativeAI",
-      "DigitalHumans"
+      "Runway-AI",
+      "World-Models",
+      "AI-Agents",
+      "Generative-AI"
     ],
-    "publishedAt": "2026-08-30T01:00:54.016Z",
+    "publishedAt": "2026-08-30T15:05:25.264Z",
     "readingTime": 5,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-08-30"
   },
@@ -418,85 +418,86 @@
     "subtitle": "Signal synthesized from Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "AI Video",
-      "World Models",
       "Runway AI",
-      "Multimodal AI",
-      "Generative Agents"
+      "World Models",
+      "Generative AI",
+      "Multimodal"
     ],
-    "publishedAt": "2026-08-30T01:01:59.646Z",
+    "publishedAt": "2026-08-30T15:06:35.882Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-08-30"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_quoting-paul-dix_2026-08-30_vi",
+    "id": "cluster_ai-vibe-coding_2_qwen3-8-flash-next_2026-08-30_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Quoting Paul Dix: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Black Forest Labs, Vercel AI Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "Qwen3.8-Flash-Next: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ Black Forest Labs, Vercel AI Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "software-engineering",
-      "claude-code",
-      "generative-ai"
+      "Qwen3.8",
+      "MoE",
+      "VibeCoding",
+      "AI-Agents",
+      "SoftwareEngineering"
     ],
-    "publishedAt": "2026-08-30T01:01:07.723Z",
+    "publishedAt": "2026-08-30T15:06:07.048Z",
     "readingTime": 5,
-    "url": "/vi/ai-vibe-coding/quoting-paul-dix-goc-nhin-cho-creator-va-builder-2026-08-30"
+    "url": "/vi/ai-vibe-coding/qwen3-8-flash-next-goc-nhin-cho-creator-va-builder-2026-08-30"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_quoting-paul-dix_2026-08-30_en",
+    "id": "cluster_ai-vibe-coding_2_qwen3-8-flash-next_2026-08-30_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "Quoting Paul Dix: creator and builder analysis",
-    "subtitle": "Signal synthesized from r/AI_Agents, Black Forest Labs, Vercel AI Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
+    "title": "Qwen3.8-Flash-Next: creator and builder analysis",
+    "subtitle": "Signal synthesized from Black Forest Labs, Vercel AI Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "vibe-coding",
-      "ai-agents",
-      "software-engineering",
-      "claude-code",
-      "generative-ai"
+      "Qwen",
+      "MoE",
+      "VibeCoding",
+      "AI-Agents",
+      "OpenWeights"
     ],
-    "publishedAt": "2026-08-30T01:02:08.127Z",
+    "publishedAt": "2026-08-30T15:07:31.600Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/quoting-paul-dix-creator-and-builder-analysis-2026-08-30"
+    "url": "/en/ai-vibe-coding/qwen3-8-flash-next-creator-and-builder-analysis-2026-08-30"
   },
   {
-    "id": "cluster_ai-agentic_2_would-you-feel-deceived-if-a-business-s-chat-agent-on-their-webs_2026-08-30_vi",
+    "id": "cluster_ai-agentic_2_ai-ai_2026-08-30_vi",
     "lang": "vi",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Would you feel deceived if a business's chat \"agent\"on their website, WhatsAp...: góc nhìn cho creator và builder",
-    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
+    "title": "可灵 AI - 新一代 AI 创意生产力平台: góc nhìn cho creator và builder",
+    "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agentic",
-      "AI-Ethics",
-      "Customer-Experience",
-      "Transparency"
+      "KlingAI",
+      "AgenticAI",
+      "MCP",
+      "AIVideo",
+      "ContentProduction"
     ],
-    "publishedAt": "2026-08-30T01:01:28.635Z",
-    "readingTime": 5,
-    "url": "/vi/ai-agentic/would-you-feel-deceived-if-a-business-s-chat-agent-on-their-2026-08-30"
+    "publishedAt": "2026-08-30T15:05:43.205Z",
+    "readingTime": 4,
+    "url": "/vi/ai-agentic/ai-ai-goc-nhin-cho-creator-va-builder-2026-08-30"
   },
   {
-    "id": "cluster_ai-agentic_2_would-you-feel-deceived-if-a-business-s-chat-agent-on-their-webs_2026-08-30_en",
+    "id": "cluster_ai-agentic_2_ai-ai_2026-08-30_en",
     "lang": "en",
     "category": "ai-agentic",
     "categoryLabel": "AI Agentic",
-    "title": "Would you feel deceived if a business's chat \"agent\"on their website, WhatsAp...: creator and builder analysis",
-    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, scored by recency, content depth, and source reliability.",
+    "title": "可灵 AI - 新一代 AI 创意生产力平台: creator and builder analysis",
+    "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Ethics",
-      "Agentic Workflows",
-      "Customer Experience",
-      "Transparency",
-      "LLM Implementation"
+      "Kling AI",
+      "Agentic AI",
+      "MCP",
+      "AI Video",
+      "Creative Productivity"
     ],
-    "publishedAt": "2026-08-30T01:02:30.909Z",
+    "publishedAt": "2026-08-30T15:07:04.441Z",
     "readingTime": 4,
-    "url": "/en/ai-agentic/would-you-feel-deceived-if-a-business-s-chat-agent-on-their-2026-08-30"
+    "url": "/en/ai-agentic/ai-ai-creator-and-builder-analysis-2026-08-30"
   },
   {
     "id": "cluster_ai-video_1_news-luma_2026-08-30_vi",
@@ -508,11 +509,11 @@
     "tags": [
       "LumaAI",
       "AIVideo",
-      "CreativeWorkflow",
+      "ContentCreation",
       "GenerativeAI",
-      "B2BContent"
+      "CreativeWorkflow"
     ],
-    "publishedAt": "2026-08-30T01:01:17.925Z",
+    "publishedAt": "2026-08-30T15:05:52.351Z",
     "readingTime": 4,
     "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-08-30"
   },
@@ -525,13 +526,13 @@
     "subtitle": "Signal synthesized from Luma Labs Blog, r/aivideo, scored by recency, content depth, and source reliability.",
     "tags": [
       "Luma AI",
-      "AI Video",
       "Generative Video",
-      "Creative Workflow",
-      "AdTech"
+      "AI Workflows",
+      "Creative Intelligence",
+      "AI Marketing"
     ],
-    "publishedAt": "2026-08-30T01:02:15.915Z",
-    "readingTime": 4,
+    "publishedAt": "2026-08-30T15:07:16.647Z",
+    "readingTime": 3,
     "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-08-30"
   }
 ]

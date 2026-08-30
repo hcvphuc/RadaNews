@@ -9,10 +9,11 @@
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_pika-blog_faa536f0db7dac04",
-      "src_kling-blog_9b8eef2edc427cc1"
+      "src_reddit-aiagents_6e4582e8d0f57a59",
+      "src_reddit-aiagents_67c31c3314ad2e9d"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: LangChain Blog, Replit Blog, Hugging Face Blog.",
+    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: LangChain Blog, Replit Blog, Hugging Face Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -23,13 +24,12 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_a225253f60131b37",
-      "src_simonwillison-blog_a6a3a9c7fc2b8f43",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_b687a93167b52199",
-      "src_simonwillison-blog_45ba9e3e296b482f"
+      "src_simonwillison-blog_a6a3a9c7fc2b8f43",
+      "src_simonwillison-blog_b687a93167b52199"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 6 source item(s), 6 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
+    "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
@@ -49,34 +49,34 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_quoting-paul-dix_2026-08-30",
+    "clusterId": "cluster_ai-vibe-coding_2_qwen3-8-flash-next_2026-08-30",
     "category": "ai-vibe-coding",
-    "topic": "Quoting Paul Dix",
+    "topic": "Qwen3.8-Flash-Next",
     "sourceIds": [
+      "src_simonwillison-blog_45ba9e3e296b482f",
       "src_simonwillison-blog_17864e6498c47c40",
       "src_black-forest-labs_db0e6d09e99dbd6f",
-      "src_reddit-aiagents_01da30caed5d5cc0",
-      "src_reddit-aiagents_430bf1f15d6d1767",
       "src_vercel-ai-blog_2026-08-30_fallback"
     ],
-    "articleWorthinessScore": 0.91,
-    "reasonSelected": "Score 0.91 from 5 source item(s), 4 live crawl(s), strongest sources: Simon Willison's Weblog, Black Forest Labs, r/AI_Agents.",
+    "articleWorthinessScore": 0.93,
+    "reasonSelected": "Score 0.93 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Black Forest Labs, Vercel AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_would-you-feel-deceived-if-a-business-s-chat-agent-on-their-webs_2026-08-30",
+    "clusterId": "cluster_ai-agentic_2_ai-ai_2026-08-30",
     "category": "ai-agentic",
-    "topic": "Would you feel deceived if a business's chat \"agent\"on their website, WhatsAp...",
+    "topic": "可灵 AI - 新一代 AI 创意生产力平台",
     "sourceIds": [
-      "src_reddit-aiagents_6eac3ca7b14b8d52",
+      "src_kling-blog_9b8eef2edc427cc1",
+      "src_reddit-aiagents_63c5a751b8fc1851",
       "src_reddit-aiagents_34783379f90f9b51",
       "src_reddit-aiagents_97437e06e1a0cdc5",
       "src_openai-blog_2026-08-30_fallback",
       "src_mcp-blog_2026-08-30_fallback"
     ],
-    "articleWorthinessScore": 0.76,
-    "reasonSelected": "Score 0.76 from 5 source item(s), 3 live crawl(s), strongest sources: r/AI_Agents, OpenAI Blog, MCP Blog.",
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 6 source item(s), 4 live crawl(s), strongest sources: Kling AI Blog, r/AI_Agents, OpenAI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
