@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-29T15:21:36.338Z",
+    "publishedAt": "2026-08-30T01:00:16.955Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-29T15:21:36.052Z",
+    "publishedAt": "2026-08-30T01:00:16.398Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-29_fallback",
+    "sourceId": "src_openai-blog_2026-08-30_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-29T15:21:35.692Z",
+    "publishedAt": "2026-08-30T01:00:16.267Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-29_fallback",
+    "sourceId": "src_mcp-blog_2026-08-30_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-29T15:21:36.284Z",
+    "publishedAt": "2026-08-30T01:00:16.702Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -196,25 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_c808b6aca904eda5",
+    "sourceId": "src_reddit-aiagents_6eac3ca7b14b8d52",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w1glsu/openai_ends_partnership_with_cursor/",
-    "title": "OpenAi ends partnership with cursor",
-    "publishedAt": "2026-08-29T08:08:49.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w2037b/would_you_feel_deceived_if_a_businesss_chat/",
+    "title": "Would you feel deceived if a business's chat \"agent\"on their website, WhatsApp, or Instagram turned out to be AI and had hidden it?",
+    "publishedAt": "2026-08-29T22:31:23.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Tech twitter is going wild right now, I was shocked to see this and Tibo said he’s gonna reset the limits so be ready tomorrow.",
-      "At the same time I think one could see this coming when the acquisition went through it’s just said that now it’s personal.",
-      "submitted by /u/Lise_vine23 [link] [comments]"
+      "I build AI customer-service agents for businesses here in the Gulf.",
+      "They answer customers wherever they message website chat, WhatsApp, Instagram DMs take orders and bookings, connect to the company's actual systems, and pass to a human for anything sensitive.",
+      "Here's my dilemma, and I want customer opinions, not developer opinions.",
+      "Some of my clients don't want the agent to introduce itself as AI."
     ],
     "claims": [
       {
-        "text": "Tech twitter is going wild right now, I was shocked to see this and Tibo said he’s gonna reset the limits so be ready tomorrow. At the same time I think one could see this coming when the acquisition went through it’s just said that now it’s personal. What’re your thoughts on this? submitted by /u/Lise_vine23 [link] [comments]",
+        "text": "I build AI customer-service agents for businesses here in the Gulf. They answer customers wherever they message website chat, WhatsApp, Instagram DMs take orders and bookings, connect to the company's actual systems, and pass to a human for anything sensitive. Here's my dilemma, and I want customer opinions, not developer opinions. Some of my clients don't want the agent to introduce itself as AI. I can live with that quiet greeting, good service, fair enough. But some push further: they want it to never reveal it, even if a customer asks directly \"is this a bot?\" they want it to dodge and route to a human instead of answering. As a customer, where's your line? The agent doesn't announce it's AI, but admits it honestly if you ask — acceptable? The agent actively avoids admitting it even when you ask directly — deceptive? Does it change anything if the service is genuinely fast and good? I'm deciding my company's policy on this and I'd rather hear how people actually feel than assume. TL;DR: clients want the AI agent's identity hidden across their chat channels, some even when customers ask directly. Would you feel lied to? submitted by /u/gojo1991B [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w1glsu/openai_ends_partnership_with_cursor/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w2037b/would_you_feel_deceived_if_a_businesss_chat/"
       }
     ],
     "usableFor": [
@@ -224,26 +225,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_fb116077f8d62396",
+    "sourceId": "src_reddit-aiagents_430bf1f15d6d1767",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w1loy3/i_put_a_runtime_supervisor_around_a_real/",
-    "title": "I put a runtime supervisor around a real LangGraph agent — it rejected a tool call before execution and the model replanned",
-    "publishedAt": "2026-08-29T12:48:29.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w1smho/claude_code_reducing_rate_limit_by_25_starting/",
+    "title": "Claude Code reducing rate limit by 25% starting September 14th",
+    "publishedAt": "2026-08-29T17:32:20.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I have been building ARK, runtime supervision layer for tool using AI agents.",
-      "The idea is simple: keep your model, keep your agent framework, keep your tools, put ARK around the runtime.",
-      "I finally got it working around a real LangGraph agent using a real OpenAI model.",
-      "For this test I intentionally created a conflict: the user prompt asked for the cheapest flight, while the runtime policy required the rank-2 option."
+      "ClaudeDevs posted on X that Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans.",
+      "Until then, the current 50% increase will be in place submitted by /u/Patient_Project425 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "I have been building ARK, runtime supervision layer for tool using AI agents. The idea is simple: keep your model, keep your agent framework, keep your tools, put ARK around the runtime. I finally got it working around a real LangGraph agent using a real OpenAI model. For this test I intentionally created a conflict: the user prompt asked for the cheapest flight, while the runtime policy required the rank-2 option. The point was not to prove that rank-2 is “better”; it was to test whether ARK could enforce a runtime constraint without taking control of the agent. The actual sequence was: OpenAI model authors: book_flight(option=\"A\") → ARK checks it → REJECT → A executed = false LangGraph feeds ARK's feedback back to the model OpenAI model authors: book_flight(option=\"B\") → ARK checks again → ALLOW → B executed = true The important part is that ARK did not rewrite A into B itself. The raw model-authored tool calls were: turn 1: book_flight(option=\"A\") turn 2: book_flight(option=\"B\") And the actual side effects were: real bookings: [\"B\"] A executed: false B executed: true Retry state was maintained by ARK’s Go runtime, while LangGraph continued to own the model, planner, tools, and execution loop. I also tested ARK in observe-only mode around LangGraph: model_call → tool_call → complete where LangGraph reports model/token/tool information and ARK builds the decision trace and derives telemetry around the run. The SDK isn’t public yet(soon today or tomorrow may be), I am still hardening it before release. Live testing already caught a model-pricing resolution bug that our deterministic tests didn’t expose, which I’m fixing before shipping. Question for people running tool-using agents in production: would you want a supervisor like this in the execution path? What would make you trust it or refuse to use it? submitted by /u/Aromatic-Ad-6711 [link] [comments]",
+        "text": "ClaudeDevs posted on X that Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will be in place submitted by /u/Patient_Project425 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w1loy3/i_put_a_runtime_supervisor_around_a_real/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w1smho/claude_code_reducing_rate_limit_by_25_starting/"
       }
     ],
     "usableFor": [
@@ -253,12 +252,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-29_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-30_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-29T15:21:36.058Z",
+    "publishedAt": "2026-08-30T01:00:16.517Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -284,7 +283,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-29T15:21:36.625Z",
+    "publishedAt": "2026-08-30T01:00:17.105Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -313,7 +312,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-29T15:21:36.295Z",
+    "publishedAt": "2026-08-30T01:00:16.874Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -339,12 +338,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-29_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-30_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-29T15:21:35.897Z",
+    "publishedAt": "2026-08-30T01:00:16.502Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -366,12 +365,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-29_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-30_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-29T15:21:35.904Z",
+    "publishedAt": "2026-08-30T01:00:16.507Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -398,7 +397,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-29T15:21:36.226Z",
+    "publishedAt": "2026-08-30T01:00:16.849Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -427,7 +426,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-29T15:21:36.280Z",
+    "publishedAt": "2026-08-30T01:00:16.825Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -456,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-29T15:21:36.877Z",
+    "publishedAt": "2026-08-30T01:00:17.490Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -479,12 +478,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-29_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-30_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-29T15:21:36.040Z",
+    "publishedAt": "2026-08-30T01:00:16.621Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -511,7 +510,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-29T15:21:36.289Z",
+    "publishedAt": "2026-08-30T01:00:16.852Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -540,7 +539,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-29T15:21:36.009Z",
+    "publishedAt": "2026-08-30T01:00:16.599Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -564,12 +563,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-29_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-30_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-29T15:21:36.352Z",
+    "publishedAt": "2026-08-30T01:00:16.976Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -596,7 +595,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-29T15:21:36.575Z",
+    "publishedAt": "2026-08-30T01:00:17.129Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -625,7 +624,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-29T15:21:36.135Z",
+    "publishedAt": "2026-08-30T01:00:16.643Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -650,12 +649,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-29_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-30_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-29T15:21:36.084Z",
+    "publishedAt": "2026-08-30T01:00:16.688Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -682,7 +681,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-29T15:21:37.047Z",
+    "publishedAt": "2026-08-30T01:00:17.965Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -707,12 +706,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-29_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-30_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-29T15:21:36.124Z",
+    "publishedAt": "2026-08-30T01:00:16.742Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -739,7 +738,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-29T15:21:36.196Z",
+    "publishedAt": "2026-08-30T01:00:16.822Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -747,9 +746,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 4 days ago • 30 Writing Down the Line Between Luck and Skill FINAL-Bench • 5 days ago • 14 Modern LLMs: What the FLIP is an Engram!?",
-      "Blackroot • 3 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 5 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 903 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 29 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 2 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 2 days ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 17 days ago • 12 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 7 days ago • 12 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 3 days ago • 3 Intel GPU AI Skills kushal-mittal • 3 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 2 days ago • 3 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 How I Trained Action Chunking Transformer (ACT) on SO-101: My Journey, Gotchas, and Lessons sherryxychen • Sep 30, 2025 • 80 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 94 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 13 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 81 August 26, 2026 Granite 4.2 LLMs: How They're Built 73 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 30 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 30 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 22 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 46 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "72 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 94 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 168 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 105 August 13, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 9 hours ago • 38 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 4 days ago • 30 Writing Down the Line Between Luck and Skill FINAL-Bench • 6 days ago • 14 Modern LLMs: What the FLIP is an Engram!?",
+      "Blackroot • 4 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 5 days ago • 8 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 30 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 903 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 3 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 3 days ago • 4 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 17 days ago • 12 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 8 days ago • 12 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 3 days ago • 3 Intel GPU AI Skills kushal-mittal • 3 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 2 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 173 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 16 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 84 August 26, 2026 Granite 4.2 LLMs: How They're Built 76 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 32 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 30 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 23 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 46 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "73 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 95 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 168 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 106 August 13, 2026 Previous 1 2 3 ...",
       "61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -764,6 +763,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_a225253f60131b37",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+    "title": "Introducing Hy4 Preview",
+    "publishedAt": "2026-08-29T23:53:13.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Introducing Hy4 Preview Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 29th August 2026 - Link Blog Introducing Hy4 Preview .",
+      "New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face ."
+    ],
+    "claims": [
+      {
+        "text": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates to better understand their capabilities. Here's Hy4's chat_template.jinja on Hugging Face, which includes this section: {% - if not reasoning_effort is defined %} {% - set reasoning_effort = 'high' %} {% - elif reasoning_effort not in [ 'high' , 'no_think' ] %} {% - if reasoning_effort is none %} {{- raise_exception('reasoning_effort error : None, should be no_think/high') }} {% - else %} {{- raise_exception('reasoning_effort error : ' + reasoning_effort + ', should be no_think/high') }} {% - endif %} {% - endif %} So it looks like there are just two reasoning effort levels: \"high\" (the default) and \"no_think\" (reason by disabled). I tried my \"Generate an SVG of a pelican riding a bicycle\" prompt with the default high reasoning via OpenRouter and got this : Quoting the reasoning trace: [...] Let's maybe add a helmet? It could improve riding theme, but may obscure head. Maybe a small cycling cap or helmet? The user didn't ask; can add red helmet? Might be cute. But pelican with big beak; a helmet might obscure. Better maybe no. Maybe add sunglasses? no. Maybe add water? no. It's interesting how the reasoning trace uses slightly truncated English, presumably because perfect grammar isn't useful or token efficient for hidden reasoning text. Tags: ai , generative-ai , llms , pelican-riding-a-bicycle , llm-reasoning , llm-release , ai-in-china",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/29/hy4/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_a6a3a9c7fc2b8f43",
@@ -886,42 +915,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_852f9e4066548445",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
-    "title": "EVE Online: The Move to Python 3 Begins!",
-    "publishedAt": "2026-08-25T22:59:30.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "EVE Online: The Move to Python 3 Begins!",
-      "Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 25th August 2026 - Link Blog EVE Online: The Move to Python 3 Begins!"
-    ],
-    "claims": [
-      {
-        "text": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for example 1 / 2 is 0 in Python 2 but is 0.5 in Python 3. There's nothing in this announcement about how they plan to replace Stackless, but at their conference last year they presented Scheduling in Carbon: Leaving Stackless Python Behind describing how they replaced Stackless in the Carbon engine for their more recent game EVE Frontier, using their (now open source) carbonengine/scheduler library. Via Lobster.rs Tags: eve-online , migrations , python , python3 , stackless",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-29T15:21:36.081Z",
+    "publishedAt": "2026-08-30T01:00:16.800Z",
     "categoryHints": [
       "ai-agentic"
     ],
