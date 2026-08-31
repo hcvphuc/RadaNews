@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-08-30T15:05:01.560Z",
+    "publishedAt": "2026-08-31T17:43:45.611Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-08-30T15:05:01.134Z",
+    "publishedAt": "2026-08-31T17:43:44.991Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-08-30_fallback",
+    "sourceId": "src_openai-blog_2026-08-31_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-08-30T15:05:00.986Z",
+    "publishedAt": "2026-08-31T17:43:44.686Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-08-30_fallback",
+    "sourceId": "src_mcp-blog_2026-08-31_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-08-30T15:05:01.319Z",
+    "publishedAt": "2026-08-31T17:43:45.337Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -141,12 +141,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_97437e06e1a0cdc5",
+    "sourceId": "src_reddit-aiagents_05e90b5232d851bf",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vx6wgl/weekly_hiring_thread/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w3i1h1/weekly_hiring_thread/",
     "title": "Weekly Hiring Thread",
-    "publishedAt": "2026-08-24T16:00:59.000Z",
+    "publishedAt": "2026-08-31T16:00:56.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -157,7 +157,7 @@
       {
         "text": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vx6wgl/weekly_hiring_thread/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w3i1h1/weekly_hiring_thread/"
       }
     ],
     "usableFor": [
@@ -167,26 +167,25 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_63c5a751b8fc1851",
+    "sourceId": "src_reddit-aiagents_45543ad0c33f74ca",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w2azp6/title_file_systems_are_the_new_primitive_for_ai/",
-    "title": "Title: File Systems are the new primitive for AI Agents",
-    "publishedAt": "2026-08-30T07:36:21.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w3b8yk/how_much_of_your_agent_workflow_do_you_actually/",
+    "title": "How much of your agent workflow do you actually trust to run unattended?",
+    "publishedAt": "2026-08-31T11:40:04.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "An interesting topic I’ve been exploring lately is whether filesystems might be the most intuitive data interface for AI agents .",
-      "Agents need persistent data they can retrieve, modify, and carry across sessions.",
-      "Databases, APIs, and object storage can obviously do this, but files have one interesting advantage: LLMs already know how to work with them really well.",
-      "Models have seen decades of Unix commands, code, and tutorials using things like ls , cat , grep , cd , and mkdir ."
+      "At some point there’s usually a line between let it handle this and I want to see what it’s doing.",
+      "What can your agents do completely on their own, and what still needs you in the loop?",
+      "submitted by /u/External-Wind-5273 [link] [comments]"
     ],
     "claims": [
       {
-        "text": "An interesting topic I’ve been exploring lately is whether filesystems might be the most intuitive data interface for AI agents . Agents need persistent data they can retrieve, modify, and carry across sessions. Databases, APIs, and object storage can obviously do this, but files have one interesting advantage: LLMs already know how to work with them really well. Models have seen decades of Unix commands, code, and tutorials using things like ls , cat , grep , cd , and mkdir . So instead of teaching an agent a different interface for every system, exposing data as files gives it a set of primitives it already understands. We’re starting to see this direction in practice too. OpenAI, for example, now lets agent sandboxes mount things like S3, GCS, and Box directly as folders. I’m still pretty new to this topic and exploring it myself. Curious what people here think about this direction, especially anything I might be overlooking or misunderstanding. submitted by /u/pilver7 [link] [comments]",
+        "text": "At some point there’s usually a line between let it handle this and I want to see what it’s doing. Where is that line for you? What can your agents do completely on their own, and what still needs you in the loop? submitted by /u/External-Wind-5273 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w2azp6/title_file_systems_are_the_new_primitive_for_ai/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w3b8yk/how_much_of_your_agent_workflow_do_you_actually/"
       }
     ],
     "usableFor": [
@@ -196,26 +195,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6e4582e8d0f57a59",
+    "sourceId": "src_reddit-aiagents_f623894c578f1b6a",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w2h48q/how_are_people_preventing_longrunning_agents_from/",
-    "title": "How are people preventing long-running agents from accumulating bad memory?",
-    "publishedAt": "2026-08-30T13:07:36.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w3fu56/did_anyone_connect_ai_clients_such_as_copilot_or/",
+    "title": "Did anyone connect AI clients such as Copilot or Claude or GPT to their ERP?",
+    "publishedAt": "2026-08-31T14:42:51.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I've been experimenting with agents that run across multiple sessions, and I'm running into a problem I didn't expect from the usual \"add long-term memory\" approach.",
-      "The first few sessions are great — storing past decisions/preferences means the agent doesn't keep starting from zero.",
-      "But after enough history accumulates, I'm seeing the opposite effect: stale decisions get retrieved even after the underlying situation has changed conflicting memories from different sessions both look equally relevant the agent starts spending a surprising amount of context on old information that isn't useful anymore simply improving retrieval doesn't necessarily seem to improve the final task outcome I'm wondering whether memory systems need an explicit lifecycle , rather than treating memory as a growing retrieval store.",
-      "What are people doing in practice for long-running agents?"
+      "So I wonder whether there are people who have managed to connect Copilot, Claude, or GPT Desktop to their company ERP.",
+      "I actually wonder: what are you doing with it?",
+      "Are there actual use cases, or are you just asking questions about trivial things?",
+      "An additional question that interests me: would people prefer to do trivial tasks, such as entering an order, in a copilot, or would they just prefer to do the 10 clicks inside of the system?"
     ],
     "claims": [
       {
-        "text": "I've been experimenting with agents that run across multiple sessions, and I'm running into a problem I didn't expect from the usual \"add long-term memory\" approach. The first few sessions are great — storing past decisions/preferences means the agent doesn't keep starting from zero. But after enough history accumulates, I'm seeing the opposite effect: stale decisions get retrieved even after the underlying situation has changed conflicting memories from different sessions both look equally relevant the agent starts spending a surprising amount of context on old information that isn't useful anymore simply improving retrieval doesn't necessarily seem to improve the final task outcome I'm wondering whether memory systems need an explicit lifecycle , rather than treating memory as a growing retrieval store. What are people doing in practice for long-running agents? For example: 1. Separating semantic facts / episodic experiences / procedural instructions? 2. Decaying, expiring or periodically consolidating memories? 3. Keeping provenance + timestamps so the agent can decide whether an old memory is still trustworthy? 4. Evaluating memory based on downstream task success , rather than retrieval precision/recall alone? The last one is the part I'm most interested in. A memory can be retrieved \"correctly\" and still make the agent's next action worse. I've been looking at approaches like LangMem, Mem0 and Letta, and also broader platform approaches such as Lyzr Control Plane, but they seem to make somewhat different assumptions about where memory should live in the overall agent stack. Has anyone measured memory quality over weeks/months of agent operation rather than on a fixed benchmark? What actually worked? submitted by /u/Arc_bong [link] [comments]",
+        "text": "So I wonder whether there are people who have managed to connect Copilot, Claude, or GPT Desktop to their company ERP. I actually wonder: what are you doing with it? Are there actual use cases, or are you just asking questions about trivial things? An additional question that interests me: would people prefer to do trivial tasks, such as entering an order, in a copilot, or would they just prefer to do the 10 clicks inside of the system? submitted by /u/ShayGus [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w2h48q/how_are_people_preventing_longrunning_agents_from/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w3fu56/did_anyone_connect_ai_clients_such_as_copilot_or/"
       }
     ],
     "usableFor": [
@@ -225,26 +224,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_67c31c3314ad2e9d",
+    "sourceId": "src_reddit-aiagents_1fe8df6368aff84e",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w2ewzb/agentfriendly_agentnative_our_cli_had_67_commands/",
-    "title": "Agent-friendly ≠ agent-native: our CLI had 67 commands and an agent still couldn't run one job",
-    "publishedAt": "2026-08-30T11:20:25.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w3im2v/the_expensive_part_of_an_agent_is_often_not_the/",
+    "title": "The expensive part of an agent is often not the model. It is the pointless loop",
+    "publishedAt": "2026-08-31T16:20:23.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I've been redesigning the CLI for a batch-execution compiler I work on.",
-      "It had grown to 67 leaf commands, and it was technically \"agent-friendly\" — structured output, stable exit codes, non-interactive, machine-readable help.",
-      "An agent still face-planted on the simplest task: \"run this work and give me the result.\" Here's why.",
-      "Running one job looked different depending on what the input was : template submit-file run execute template-spec submit-workbook template-spec run market run market workbook run And each path renamed the verify step — validate-file vs validate vs validate-workbook ."
+      "I've seen agent flows where the same page gets searched three times, the same file is summarized twice, and one agent asks another agent to verify something that was already deterministic.",
+      "That kind of waste is easy to hide when each call is cheap.",
+      "Before swapping to a cheaper model, I'd optimize the workflow: cache tool results, keep explicit state, cap retries, separate deterministic checks from LLM work, and make every loop have a reason to exist.",
+      "A surprisingly good optimization question is: 'Why is the model being called here at all?' What is the dumbest source of token burn you've found in a real agent workflow?"
     ],
     "claims": [
       {
-        "text": "I've been redesigning the CLI for a batch-execution compiler I work on. It had grown to 67 leaf commands, and it was technically \"agent-friendly\" — structured output, stable exit codes, non-interactive, machine-readable help. Every box checked. An agent still face-planted on the simplest task: \"run this work and give me the result.\" Here's why. Running one job looked different depending on what the input was : template submit-file run execute template-spec submit-workbook template-spec run market run market workbook run And each path renamed the verify step — validate-file vs validate vs validate-workbook . So before the agent could act on its intent, it had to reconstruct our entire resource model: is this a template? a private spec? a market item? Every one of those is a branch where it can guess wrong and burn a batch of paid executions. The checklist stuff (parseable output, idempotency) is necessary but it isn't the actual problem. The problem is abstraction level . A human learns the resource hierarchy once. An agent starts from intent every single time and shouldn't have to re-derive your domain model to express it. What I'm trying instead — three layers, and the agent enters at whichever one fits the task: Knowledge : skills, schemas, docs — what exists and how it works Intent : run , deploy , verify — high-level operations, input type resolved underneath State : executions, artifacts, instances — the real objects, for inspection and recovery Routine work enters at Intent. Debugging and recovery descend to State. The 67 commands collapse to: loomloom run quote loomloom run start loomloom run watch loomloom run results The principle holding it together: assisted intent, gated at the wallet. The system does safe inference for free — resolving types, formatting inputs. It stops and asks before spending money or mutating remote state. Idempotency means an operation is retryable ; it does not mean the agent should retry automatically. At batch scale, auto-retry multiplies cost, so safe ≠ automatic. A concrete flow: intent → quote → explicit approval → start → watch → results Where I'm still stuck , and what I'd like input on from people who've watched agents operate real software: Where do you draw the intent/resource boundary without the intent surface sprawling into 40 bespoke verbs? How do you test that a CLI is genuinely easier for an agent — versus just easier for me to describe? At batch scale, what remediation policy accounts for total cost rather than per-task safety? Should the same intent model be shared across CLI, API, and MCP, or do they each want a different shape? These are proposals, not settled — happy to be told which of them CLI designers solved 20 years ago. submitted by /u/woulatte [link] [comments]",
+        "text": "I've seen agent flows where the same page gets searched three times, the same file is summarized twice, and one agent asks another agent to verify something that was already deterministic. That kind of waste is easy to hide when each call is cheap. At scale it becomes the product. Before swapping to a cheaper model, I'd optimize the workflow: cache tool results, keep explicit state, cap retries, separate deterministic checks from LLM work, and make every loop have a reason to exist. A surprisingly good optimization question is: 'Why is the model being called here at all?' What is the dumbest source of token burn you've found in a real agent workflow? submitted by /u/FounderWithCode [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w2ewzb/agentfriendly_agentnative_our_cli_had_67_commands/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w3im2v/the_expensive_part_of_an_agent_is_often_not_the/"
       }
     ],
     "usableFor": [
@@ -254,12 +253,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-08-30_fallback",
+    "sourceId": "src_stability-ai-blog_2026-08-31_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-08-30T15:05:01.239Z",
+    "publishedAt": "2026-08-31T17:43:45.029Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-08-30T15:05:01.711Z",
+    "publishedAt": "2026-08-31T17:43:45.764Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-08-30T15:05:01.156Z",
+    "publishedAt": "2026-08-31T17:43:45.231Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +339,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-08-30_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-08-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-08-30T15:05:01.123Z",
+    "publishedAt": "2026-08-31T17:43:44.876Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +366,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-08-30_fallback",
+    "sourceId": "src_reddit-comfyui_2026-08-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-08-30T15:05:01.123Z",
+    "publishedAt": "2026-08-31T17:43:44.888Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-08-30T15:05:01.544Z",
+    "publishedAt": "2026-08-31T17:43:45.588Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-08-30T15:05:01.517Z",
+    "publishedAt": "2026-08-31T17:43:45.677Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -457,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-08-30T15:05:02.096Z",
+    "publishedAt": "2026-08-31T17:43:46.149Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -480,12 +479,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-08-30_fallback",
+    "sourceId": "src_reddit-aivideo_2026-08-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-08-30T15:05:01.155Z",
+    "publishedAt": "2026-08-31T17:43:44.943Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +511,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-08-30T15:05:01.575Z",
+    "publishedAt": "2026-08-31T17:43:45.682Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-08-30T15:05:01.212Z",
+    "publishedAt": "2026-08-31T17:43:44.969Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -565,12 +564,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-08-30_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-08-31_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-08-30T15:05:01.584Z",
+    "publishedAt": "2026-08-31T17:43:45.630Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-08-30T15:05:01.607Z",
+    "publishedAt": "2026-08-31T17:43:45.786Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -626,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-08-30T15:05:01.387Z",
+    "publishedAt": "2026-08-31T17:43:45.210Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -651,12 +650,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-08-30_fallback",
+    "sourceId": "src_reddit-midjourney_2026-08-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-08-30T15:05:01.293Z",
+    "publishedAt": "2026-08-31T17:43:45.059Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,16 +682,16 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-08-30T15:05:03.943Z",
+    "publishedAt": "2026-08-31T17:43:47.130Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
     ],
     "keyFacts": [
       "可灵 AI - 新一代 AI 创意生产力平台 快速入门 博客 前往创作 Kling AI Blog AI image and video generation tutorials, practical tips, and product updates.",
-      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Best Face Swap AI for Photos, Videos, and Creative Projects Aug 28, 2026 MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 27, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 27, 2026 Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 27, 2026 How to Make a Short Film?",
+      "全部 Video Creation Image Creation Product Features AI Tools & Creation Content Marketing Cartoon Styles for AI: 34 Styles, Prompts, and Examples Aug 31, 2026 Best Face Swap AI for Photos, Videos, and Creative Projects Aug 28, 2026 MCP Agent Tutorial: Create Fashion E-commerce Videos with Kling Aug 27, 2026 Model Context Protocol MCP: Hands-On with Agentic AI Videos Aug 27, 2026 Claude Code MCP Support: Batch Create Food Promo Videos with Kling Aug 27, 2026 How to Make a Short Film?",
       "12 Practical Steps From Idea to Release Aug 27, 2026 14 Creative Music Video Ideas for Any Budget Aug 27, 2026 10 Cinematography Techniques Every Creator Should Know Aug 27, 2026 Content Ideas for Social Media: What to Post on Every Platform Aug 27, 2026 50+ YouTube Channel Ideas: Niches That Work in 2026 Aug 27, 2026 24 Short Film Ideas You Can Actually Make Aug 27, 2026 30+ AI Art Styles: Visual Examples and Prompt Ideas Aug 27, 2026 Beyond Realism: How Kling Powered L'Ultimo Uomo Reale, a Cannes Lions-winning Film Aug 20, 2026 How to Create 4K E-commerce Product Videos with AI?",
-      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 8 Common Text-to-Video Mistakes to Avoid And How to Fix Them with AI Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
+      "Aug 13, 2026 Kling Image 3.0 Omni: Native 4K & Image Series Creation Guide Aug 13, 2026 Kling AI Camera Control: Master Push, Pull, Pan & Tilt in AI Video Aug 13, 2026 Kling AI Prompt Guide: The Secret to Cinematic Video Prompts Aug 7, 2026 How to Create an AI-Generated Music Video for Your Song with Zero Budget Jul 28, 2026 The Ultimate Guide to Keeping Your Character Consistent in AI Jul 28, 2026 How to Create Personalized Educational Videos with Kling AI Jul 28, 2026 加载更多 Kling AI, From Vision to Screen 前往创作 创作工具 ▼ 可灵 AI 创作平台 可灵 AI 移动端 开发者平台 ▼ 可灵AI 开发者平台 关于我们 ▼ 可灵AI使用指南 未来合伙人计划 联系我们 support.cn@klingai.com 可灵官方交流群"
     ],
     "claims": [
       {
@@ -708,12 +707,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-08-30_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-08-31_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-08-30T15:05:01.377Z",
+    "publishedAt": "2026-08-31T17:43:45.264Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-08-30T15:05:01.437Z",
+    "publishedAt": "2026-08-31T17:43:45.329Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,9 +747,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 24 hours ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 5 days ago • 30 Writing Down the Line Between Luck and Skill FINAL-Bench • 6 days ago • 14 Modern LLMs: What the FLIP is an Engram!?",
-      "Blackroot • 4 days ago • 9 Introducing the EdgeFirst Model Zoo EdgeFirst • 6 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 905 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 30 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 8 days ago • 13 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 3 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 3 days ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 174 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 179 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 18 days ago • 12 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 4 days ago • 3 Intel GPU AI Skills kushal-mittal • 4 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 3 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 398 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 23 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 88 August 26, 2026 Granite 4.2 LLMs: How They're Built 82 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 34 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 31 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 23 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 47 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "73 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 97 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 170 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 31 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 106 August 13, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 2 days ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 6 days ago • 30 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • about 11 hours ago • 14 Modern LLMs: What the FLIP is an Engram!?",
+      "Blackroot • 5 days ago • 12 Introducing the EdgeFirst Model Zoo EdgeFirst • 7 days ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 906 Technical writing in the agentic era joelniklaus • about 5 hours ago • 6 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 31 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 4 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 4 days ago • 4 Small Language Models (SLM): A Comprehensive Overview jjokah • Feb 22, 2025 • 174 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 27 days ago • 94 Extreme Overtraining in Tiny Language Models Banaxi-Tech • 19 days ago • 12 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 9 days ago • 13 Writing Down the Line Between Luck and Skill FINAL-Bench • 8 days ago • 14 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 5 days ago • 3 Intel GPU AI Skills kushal-mittal • 5 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 4 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 37 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 101 August 26, 2026 Granite 4.2 LLMs: How They're Built 89 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 38 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 34 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 26 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 57 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 48 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "76 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 99 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 172 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 32 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 107 August 13, 2026 Previous 1 2 3 ...",
       "61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -765,6 +764,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_860f4b8e93227318",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "title": "Understanding ChatGPT Work",
+    "publishedAt": "2026-08-30T23:59:47.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since.",
+      "It is an extraordinarily confusing and very powerful product.",
+      "Here's what I've figured out about it so far.",
+      "ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud."
+    ],
+    "claims": [
+      {
+        "text": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud . If you install the ChatGPT desktop app - the app that used to be called Codex - you gain access to a thing called ChatGPT Work that can access files and run programs directly on your computer. Let's call that one Work Local . This one feels more like regular Codex re-skinned to be less intimidating to non-software-developers. ( Update : Work Cloud is also available from the ChatGPT desktop app, via a Where should this chat run? dropdown.) For the rest of this article I'm going to talk exclusively about Work Cloud. Work is for paid subscribers only Right now, ChatGPT Work (in both flavors) is available only to $20/month and up subscribers. Free users and $8/month Go users do not have access. Work has features that aren't available in Chat The interface for accessing Work is a tab selector, which presents it as an alternative to Chat: The obvious question is when should I use Chat, and when should I use Work? OpenAI's official answer to that question is: Use Chat when you want an answer, explanation, brainstorm, or short draft. Use ChatGPT Work when you want ChatGPT to complete a task with a clear outcome, such as a brief, deck, analysis, recurring update, workflow, or file you can review and use. I find that almost entirely useless, because I've been using regular ChatGPT Chat for all of those task categories for years! The better question then is what features does Work have that are missing from Chat? After extensive experimentation I think I've mostly figured that out: Options to use Luna and Terra in place of Sol A code execution environment with Internet access A headless Chrome browser A persistent filesystem shared between sessions The ability to publish ChatGPT Sites The ability to run sub-agent sessions with Sol, Luna, and Terra Scheduled prompt automations (may be in ChatGPT Chat too) Model selection In Work, you get the option to pick GPT-5.6 Sol, Luna, or Terra, each with Light, Medium, High, Extra High, Max, or Ultra reasoning levels. You can also pick GPT-5.5 at Light, Medium, High, or Extra High. These look to be the same models that are available through the OpenAI API. Chat offers a different selection: 5.6 Instant, Medium, High, Extra High, and Pro (actually Extra High and Pro are only available for $100/month+ subscribers - $20/month subscribers cap out at High). It doesn't explain if those are Luna or Terra or Sol (I'm assuming Sol?). 5.6 Pro appears to be exclusive to Chat, with no equivalent in Work. My current understanding from using Codex is that Ultra is a special mode that more eagerly delegates to sub-agents. I believe ChatGPT Work sessions are billed against your Codex allowance, while ChatGPT Chat Sessions get their own, separate allowance. This may help explain the model availability differences. Code execution with Internet access! As a long-time fan of the Code Interpreter pattern - pioneered by OpenAI in 2023 - this is by far the most exciting feature of ChatGPT Work (Cloud) for me. The code execution environment can now talk to the rest of the internet! ChatGPT Chat can't do this - if you ask it to install additional software packages or interact with websites or APIs that access will be blocked by the container proxy. (Weirdly, back in January it grew the ability to install packages , but that doesn't seem to work any more. I wish they had better changelogs!) Claude's equivalent container has allowed restricted internet access since it launched last September . Claude can install packages from PYPI and NPM and clone repositories from GitHub. But that is about it: the allowlist of domains is very short. ChatGPT Work allows a whole lot more than that. It can be configured with a specific list of allowed domains, but the default appears to be open to all. This makes Work an incredibly useful tool. You can have it clone GitHub repositories, install their dependencies, then use them to interact with the rest of the web! A full, headless Chrome browser Another killer feature of ChatGPT Work is the browser tool . ChatGPT Work can launch a full Chrome instance, load websites, fill out forms, and take screenshots. If a site requires sign in the browser can prompt you to take over and enter both passwords and 2FA codes, without round-tripping those credentials through the model itself. It can even run JavaScript against the DOM of loaded pages. I prompted: Load simonwillison.net in your browser and extract the headings using JavaScript ChatGPT Work fired up a browser instance and ran the code: await tab . playwright . evaluate ( ( ) => { return Array . from ( document . querySelectorAll ( \"h1,h2,h3,h4,h5,h6\" ) , heading => ( { level : heading . tagName . toLowerCase ( ) , text : heading . innerText . trim ( ) . replace ( / \\s + / g , \" \" ) , id : heading . id || null } ) ) ; } ) ; This feels a lot like my shot-scraper javascript tool, only now I can access it on my phone! A persistent, shared filesystem ChatGPT Chat gets a fresh filesystem for each chat session. These cannot be accessed from any other session. In ChatGPT Work each session gets its own scratch folder - named something like /workspace/scratch/e00a0a017944 - but each of those are persisted across sessions, so you can access files from previous chats. I have 171 folders in /workspace/scratch right now! As far as I can tell that /workspace volume is mounted to all Work sessions that are currently running - file edits from one can be instantly seen by the others. They don't seem to share the same process space though, and localhost servers running in one can't be accessed from another. ChatGPT Sites ChatGPT Work has the ability to build and deploy entire websites, using Cloudflare Workers. These can have HTML and JavaScript and can run server-side features too, including stateful features on top of Cloudflare D1 and R2. Here's a simple site I built with this feature: london-pelicans-in-her-piety.simonw.chatgpt.site My prompt was: Figure out all of the places in London with a pelican in her piety, then turn that into a JSON file and build a ChatGPT sites site about them (A pelican in her piety is a fascinating piece of medieval Christian imagery - once you know about them you'll find them all over the place.) These sites default to being private to the user that created them, but you can make them public and (on team plans) share them with other specific individuals. Sub-agents with Sol, Luna, and Terra There's not much to say about this one. ChatGPT Chat can't run sub-agents. ChatGPT Work can. This is very much a power-user feature: if you are running a complex project that can benefit from multiple parallel agents working together, Work can do that. Scheduled prompt automations Another feature that seems to have migrated from regular ChatGPT to ChatGPT Work at some point. You can prompt ChatGPT Work like this: run a search to see if Waymo have announced a launch date for Half Moon Bay every day at 8am This will schedule a prompt to run on that frequency. These prompts can decide that nothing interesting has happened, or they can decide to notify you of some new information. Update : Actually this seems to work in ChatGPT Chat as well. It's still worth noting here though, as it can be used in conjunction with other ChatGPT Work exclusive features. You can set a scheduled task to update a ChatGPT Site on an hourly basis, for example. Is this safe? An open question for me right now is how safe all of this stuff is. My lethal trifecta model warns about the risks inherent in any agent system that combines access to private data with exposure to untrusted content and a way to communicate stolen information back to an attacker. ChatGPT Work combines all three! I'd love to hear more from OpenAI about how they protect ChatGPT Work sessions against prompt injection attacks. I expect their answer is the same auto-review mechanism as Codex. OpenAI could make this a lot less confusing Figuring this all out took way more work than it should have. I think there are two key problems here: OpenAI explain Work in terms of what it's for, not what it actually does OpenAI still insist on hiding their system prompts and tools descriptions If the ChatGPT Work documentation included the exact system prompt and tool descriptions used by the agent I wouldn't have needed to write this post. A list of all the tools Shortly after publishing this article I had an idea. I started a fresh Work session and prompted: Build a site that lists every one of your tools - nearly grouped into categories - and for each one explain what it does. Try to exactly duplicate arguments and tool descriptions where possible. Design aesthetic should be technical docs, minimal flare Here's the site it built , which includes details of 223 registered tools - though 6 of those are from my own personal MCPs served via datasette-mcp . And a whole lot of Skills I noticed that the only browser-related tool in the list was web.run , which has methods for running searches, opening URLs, and clicking links, but didn't look like the full story in regards to headless browser automation. This made me suspicious that something was missing, so I told the ChatGPT Work session that built that tools reference site: Add full copies of every skill to the website (separate pages linked to from the homepage) It turns out ChatGPT Work uses a lot of skills - 44 in fact! The control-browser skill explains how the browser works: Run browser setup code through the Node REPL js tool. In this environment the callable tool id typically appears as mcp__node_repl__js . [...] The ability to interact directly with the browser is exposed through the browser-client runtime via the agent.browsers.* API. Before trying to interact with it, you MUST emit and read the complete documentation returned by await browser.documentation() in one go. So I told Work: Add the full output of await browser.documentation() to the bottom of the /skills/control-browser page And now you can read that on /skills/control-browser as well. A few more interesting Skills: documents for creating .docx files imagegen with tips on creating images with the image_gen tool pdf for both reading and rendering PDFs Spreadsheets for manipulating .xlsx , .xls , .csv , .tsv sites:sites-building for creating ChatGPT Sites openai-docs for answering questions about itself data-analytics:build-dashboard for building data dashboards Tags: ai , openai , generative-ai , chatgpt , llms , code-interpreter , lethal-trifecta , skills , general-agents",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_a225253f60131b37",
@@ -845,7 +874,7 @@
     ],
     "claims": [
       {
-        "text": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip archive, then executing code that imports base64 without noticing that this will import and execute a local struct.py file extracted from the archive. In a few cases auto mode directly prevented the agent from preventing harmful code from continuing to execute! In a few runs Claude tried to terminate the malware process once it noticed the compromise, but Auto Mode denied the cleanup command. Claude detects the compromise, but Auto Mode blocks its cleanup command The safety mechanism itself can become part of the failure. The classifier allowed the creation of the malware process, but then it blocked the command intended to stop it! I agree with Johann's conclusion here: the only safe way to run agents if there's any risk of attracting the attention of an adversarial attack is with a sandbox: Run unattended coding agents in a container, VM or OS sandbox. Restrict network egress. Monitor your agents. Do not expose home directories, SSH keys, cloud credentials,… to the agent runtime. [...] Tags: sandboxing , security , ai , prompt-injection , generative-ai , llms , anthropic , claude , johann-rehberger , claude-code",
+        "text": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip archive, then executing code that imports base64 without noticing that this will import and execute a local struct.py file extracted from the archive. In a few cases auto mode directly prevented the agent from preventing harmful code from continuing to execute! In a few runs Claude tried to terminate the malware process once it noticed the compromise, but Auto Mode denied the cleanup command. Claude detects the compromise, but Auto Mode blocks its cleanup command The safety mechanism itself can become part of the failure. The classifier allowed the creation of the malware process, but then it blocked the command intended to stop it! I agree with Johann's conclusion here: the only safe way to run agents if there's any risk of attracting the attention of an adversarial attack is with a sandbox: Run unattended coding agents in a container, VM or OS sandbox. Restrict network egress. Monitor your agents. Do not expose home directories, SSH keys, cloud credentials,… to the agent runtime. [...] Update 30th August 2026 : On Lobste.rs hyperpape points out that this doesn't fit the bill of a classic prompt injection attack because at no point are malicious instructions from the website accidentally followed by the LLM. They're right: this is more of a confused environment attack where the nature of the environment that the agent is exposed to results in an exploit. Tags: sandboxing , security , ai , prompt-injection , generative-ai , llms , anthropic , claude , johann-rehberger , claude-code",
         "confidence": "medium",
         "evidence": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
       }
@@ -887,42 +916,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_17864e6498c47c40",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
-    "title": "Quoting Paul Dix",
-    "publishedAt": "2026-08-26T08:07:55.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Paul Dix Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 26th August 2026 The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing.",
-      "And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short."
-    ],
-    "claims": [
-      {
-        "text": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can produce a highly complex, highly sophisticated piece of software and it can continue to refine it until it just works. &mdash; Paul Dix , The end of programming Tags: coding-agents , ai-assisted-programming , generative-ai , bun , ai , llms",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/26/paul-dix/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-08-30T15:05:01.405Z",
+    "publishedAt": "2026-08-31T17:43:45.393Z",
     "categoryHints": [
       "ai-agentic"
     ],
