@@ -1,17 +1,17 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_understanding-chatgpt-work_2026-08-31",
+    "clusterId": "cluster_ai-agentic_1_introducing-wrapture_2026-09-01",
     "category": "ai-agentic",
-    "topic": "Understanding ChatGPT Work",
+    "topic": "Introducing wrapture",
     "sourceIds": [
+      "src_simonwillison-blog_8989bf4a72f957d9",
       "src_simonwillison-blog_860f4b8e93227318",
       "src_langchain-blog_40ded3f923e3291d",
       "src_simonwillison-blog_a225253f60131b37",
       "src_replit-blog_2c607cbee6384da3",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_pika-blog_faa536f0db7dac04",
-      "src_simonwillison-blog_45ba9e3e296b482f"
+      "src_simonwillison-blog_40fa53e5ce35478a",
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Replit Blog.",
@@ -19,22 +19,21 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-08-31",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-09-01",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_a6a3a9c7fc2b8f43",
-      "src_simonwillison-blog_b687a93167b52199"
+      "src_simonwillison-blog_a6a3a9c7fc2b8f43"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 3 source item(s), 3 live crawl(s), strongest sources: Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-08-31",
+    "clusterId": "cluster_ai-image_1_ai-video-research-innovation-runway-ai_2026-09-01",
     "category": "ai-image",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
@@ -49,59 +48,59 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-agentic_2_ai-ai_2026-08-31",
-    "category": "ai-agentic",
-    "topic": "可灵 AI - 新一代 AI 创意生产力平台",
-    "sourceIds": [
-      "src_kling-blog_9b8eef2edc427cc1",
-      "src_reddit-aiagents_1fe8df6368aff84e",
-      "src_reddit-aiagents_45543ad0c33f74ca",
-      "src_reddit-aiagents_05e90b5232d851bf",
-      "src_reddit-aiagents_34783379f90f9b51",
-      "src_openai-blog_2026-08-31_fallback",
-      "src_mcp-blog_2026-08-31_fallback"
-    ],
-    "articleWorthinessScore": 0.81,
-    "reasonSelected": "Score 0.81 from 7 source item(s), 5 live crawl(s), strongest sources: Kling AI Blog, r/AI_Agents, OpenAI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-vibe-coding_2_blog-black-forest-labs_2026-08-31",
-    "category": "ai-vibe-coding",
-    "topic": "Blog | Black Forest Labs",
-    "sourceIds": [
-      "src_black-forest-labs_db0e6d09e99dbd6f",
-      "src_reddit-aiagents_f623894c578f1b6a",
-      "src_vercel-ai-blog_2026-08-31_fallback"
-    ],
-    "articleWorthinessScore": 0.75,
-    "reasonSelected": "Score 0.75 from 3 source item(s), 2 live crawl(s), strongest sources: Black Forest Labs, r/AI_Agents, Vercel AI Blog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-video_1_news-luma_2026-08-31",
+    "clusterId": "cluster_ai-video_1_news-luma_2026-09-01",
     "category": "ai-video",
     "topic": "News | Luma",
     "sourceIds": [
       "src_luma-blog_c7449029956c34f9",
-      "src_reddit-aivideo_2026-08-31_fallback"
+      "src_reddit-aiagents_826278428ec00541"
     ],
-    "articleWorthinessScore": 0.69,
-    "reasonSelected": "Score 0.69 from 2 source item(s), 1 live crawl(s), strongest sources: Luma Labs Blog, r/aivideo.",
+    "articleWorthinessScore": 0.93,
+    "reasonSelected": "Score 0.93 from 2 source item(s), 2 live crawl(s), strongest sources: Luma Labs Blog, r/AI_Agents.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-agentic_2_blog-pika_2026-09-01",
+    "category": "ai-agentic",
+    "topic": "Blog | Pika",
+    "sourceIds": [
+      "src_pika-blog_faa536f0db7dac04",
+      "src_kling-blog_9b8eef2edc427cc1",
+      "src_reddit-aiagents_18b4e76ab2aacb83",
+      "src_reddit-aiagents_f3ae5e215c4d66c1",
+      "src_reddit-aiagents_05e90b5232d851bf",
+      "src_reddit-aiagents_34783379f90f9b51",
+      "src_openai-blog_2026-09-01_fallback",
+      "src_mcp-blog_2026-09-01_fallback"
+    ],
+    "articleWorthinessScore": 0.86,
+    "reasonSelected": "Score 0.86 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, Kling AI Blog, r/AI_Agents.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-vibe-coding_2_blog-black-forest-labs_2026-09-01",
+    "category": "ai-vibe-coding",
+    "topic": "Blog | Black Forest Labs",
+    "sourceIds": [
+      "src_black-forest-labs_db0e6d09e99dbd6f",
+      "src_vercel-ai-blog_2026-09-01_fallback"
+    ],
+    "articleWorthinessScore": 0.65,
+    "reasonSelected": "Score 0.65 from 2 source item(s), 1 live crawl(s), strongest sources: Black Forest Labs, Vercel AI Blog.",
     "confidence": "medium",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-08-31",
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-09-01",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_stability-ai-blog_2026-08-31_fallback",
-      "src_reddit-stablediffusion_2026-08-31_fallback",
-      "src_reddit-comfyui_2026-08-31_fallback",
-      "src_reddit-midjourney_2026-08-31_fallback"
+      "src_stability-ai-blog_2026-09-01_fallback",
+      "src_reddit-stablediffusion_2026-09-01_fallback",
+      "src_reddit-comfyui_2026-09-01_fallback",
+      "src_reddit-midjourney_2026-09-01_fallback"
     ],
     "articleWorthinessScore": 0.44,
     "reasonSelected": "Score 0.44 from 4 source item(s), 0 live crawl(s), strongest sources: Stability AI Blog, r/StableDiffusion, r/comfyui.",
@@ -109,14 +108,15 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-08-31",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-09-01",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-mediasynthesis_2026-08-31_fallback"
+      "src_reddit-aivideo_2026-09-01_fallback",
+      "src_reddit-mediasynthesis_2026-09-01_fallback"
     ],
-    "articleWorthinessScore": 0.2,
-    "reasonSelected": "Score 0.20 from 1 source item(s), 0 live crawl(s), strongest sources: r/MediaSynthesis.",
+    "articleWorthinessScore": 0.28,
+    "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
     "confidence": "low",
     "selectedForGeneration": false
   }
