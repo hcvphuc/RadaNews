@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-09-01T01:36:05.268Z",
+    "publishedAt": "2026-09-01T15:15:32.753Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-09-01T01:36:04.900Z",
+    "publishedAt": "2026-09-01T15:15:32.808Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-09-01T01:36:04.775Z",
+    "publishedAt": "2026-09-01T15:15:32.227Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-09-01T01:36:05.337Z",
+    "publishedAt": "2026-09-01T15:15:32.430Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,6 +167,63 @@
     "copyrightRisk": "low"
   },
   {
+    "sourceId": "src_reddit-aiagents_a8f720a2318b4ff6",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w49n1n/we_sent_a_meme_deck_to_a_400m_company_as_a_joke/",
+    "title": "We sent a meme deck to a $400M company as a joke. They replied. It's our entire outbound now.",
+    "publishedAt": "2026-09-01T11:48:58.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "Ok so this started as a joke experiment and then it worked, so now it's a process.",
+      "Quick context so you know where this is coming from.",
+      "The whole pitch is we find one expensive, repetitive problem inside a company and put AI around it so they don't have to hire a full time AI team.",
+      "Which means our own outbound has to work or we don't eat."
+    ],
+    "claims": [
+      {
+        "text": "Ok so this started as a joke experiment and then it worked, so now it's a process. Quick context so you know where this is coming from. We're an AI agency. The whole pitch is we find one expensive, repetitive problem inside a company and put AI around it so they don't have to hire a full time AI team. Which means our own outbound has to work or we don't eat. No SDRs and no outbound agency, we DM people ourselves. This is the workflow we use to get our clients. Last month one of these got an actual reply, with a question in it, from a company doing about $400M. That is not a company that needs to reply to a small shop. We'd been sending them as a casual test and after that reply we made it the default. I'm aware this reads like the exact kind of post I usually roll my eyes at. You can go do it in an hour and see for yourself though. The core idea is dumb simple. Buying is psychological. You can stack 30 tools on top of a message that's aimed at the wrong person with the wrong framing and it still dies in the inbox. So before any writing happens we make Claude work out a few things about the decision maker that almost everyone skips: How old are they. A 28 year old head of ops and a 58 year old COO do not respond to the same message and pretending otherwise is how you get ignored by both. Who actually owns the budget. In a 50 person company the person who feels the expensive problem every day is usually a director and the C-suite just signs. Everyone DMs the CEO anyway. How long they've been in the seat. Six months means they're still building the playbook and still shopping. Four years means they're locked in and you'll have to pry them out. What's their stack. If they're still running 2021 software, the repetitive problem is probably sitting right on top of it. What's changed lately. They posted a job for an in-house AI hire or a new ops exec came in or a launch is about to bury some team in manual work. Any of that means the problem is getting expensive right now. What are they posting about. If a COO is suddenly posting about AI adoption, someone above them asked what the plan is and you want to be in the inbox that week. We tuned all of this for what we sell. Swap the signals for yours. Setup is small. Claude with the Gamma connector switched on, plus a LinkedIn account. No agent framework and no 30 tool stack. Everything below is just what we ask Claude to do, in order. Step 1. Don't buy anything. LinkedIn settings > data privacy > get a copy of your data > tick connections. They email you a CSV in a day or two. Your existing network is a better list than anything you'd scrape and you already have a reason to message them. Step 2. Find what the buyer actually wants. Paste your offer in one paragraph plus who you're targeting (title and company size, industry if it matters) and ask Claude for the real problem underneath the surface complaints and why they'd buy this week instead of next quarter. Push it past the obvious answers, the first pass is always generic. This is the raw material for everything after. Step 3. Turn that into a person. Ask it to build a full persona from the same targeting. The words they use. What they're scared of at work. What they actually care about versus what they post. You want it to read like a human instead of a job title. Step 4. Get your openers. Give it the offer plus the persona and ask for 8 different ways to open a conversation, each one built off something specific in the persona. None of them should be the \"quick question\" template every SDR on earth is running right now. If one of them is, throw it out. Step 5. The meme deck. This is the part that gets replies. Ask Claude to look up [company], find the expensive repetitive problem, write one meme tied to that exact pain and build a 5 slide Gamma deck around it. Slide 1 is their problem. Slides 2 to 4 are how you'd put AI around it, laid out clearly enough that they could take it to their own team if they wanted (most don't). The meme sits in the middle. If the deck comes back sounding like a pitch, tell it to make it about them and cut the about us stuff. That one line fixes most of it. The logic is a founder is scrolling, half doubting your DM, and then hits something that makes them stop for a second. That second is the whole game. You can plug in Apollo or whatever and run this on a list. Don't. Do 5 by hand first. Claude will screw up one every few decks and you want to catch that while it's cheap. Once you've seen 5 good ones you know what good looks like and then you scale. The DM itself is short. Something like \"built this for [company], figured it'd help with [the thing they're dealing with]\" and the deck. The deck is the message, the text is just the reason to open it. Ghosters get a plain meme, no deck. Ask Claude for one tied to the same pain. Some of them come back cringe, tell it to redo it non cringe and it usually does. Something dumb and funny beats \"just bumping this\" for the fourth time. That's the whole thing. It looks easy written out. It took 100 hours to get to something that doesn't embarrass us, mostly because the first batch of decks were bad in ways we had to learn from. Try it on 5 people this week and come back and tell me what broke. TLDR: we're an AI agency and our cold DMs are 5 slide meme decks built with Claude and Gamma. Claude works out the psychology of the decision maker before writing a word. A $400M company replied. Do 5 by hand before you automate anything. submitted by /u/Warm-Reaction-456 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w49n1n/we_sent_a_meme_deck_to_a_400m_company_as_a_joke/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_reddit-aiagents_8c69defdd1e69971",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w4ckm1/what_is_one_ai_change_you_didnt_expect_to_see/",
+    "title": "What is one AI change you didn't expect to see this soon?",
+    "publishedAt": "2026-09-01T13:50:13.000Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "keyFacts": [
+      "AI is moving faster than I expected, and some changes that felt years away are already becoming normal.",
+      "What AI development or change has surprised you the most so far, and why did it stand out to you?",
+      "submitted by /u/ProposalIntrepid8476 [link] [comments]"
+    ],
+    "claims": [
+      {
+        "text": "AI is moving faster than I expected, and some changes that felt years away are already becoming normal. What AI development or change has surprised you the most so far, and why did it stand out to you? submitted by /u/ProposalIntrepid8476 [link] [comments]",
+        "confidence": "medium",
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w4ckm1/what_is_one_ai_change_you_didnt_expect_to_see/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_reddit-aiagents_826278428ec00541",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
@@ -196,70 +253,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_18b4e76ab2aacb83",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w3q8wg/who_actually_has_authority_when_an_ai_agent/",
-    "title": "Who Actually Has Authority When an AI Agent Crosses Multiple Systems?",
-    "publishedAt": "2026-08-31T20:39:41.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "Most discussions about AI agent permissions focus on the agent itself.",
-      "But once an agent starts operating across multiple systems, authority becomes much harder to reason about.",
-      "Imagine one transaction moving through: an identity provider a CRM an internal API a third-party model a payment or transaction system an approval workflow Each component may have its own permissions and controls.",
-      "But who is responsible for the authority of the full chain ?"
-    ],
-    "claims": [
-      {
-        "text": "Most discussions about AI agent permissions focus on the agent itself. But once an agent starts operating across multiple systems, authority becomes much harder to reason about. Imagine one transaction moving through: an identity provider a CRM an internal API a third-party model a payment or transaction system an approval workflow Each component may have its own permissions and controls. But who is responsible for the authority of the full chain ? A few questions become difficult very quickly: Does authority established in one system carry into the next? Can one system safely rely on context or approval from another? What happens when permissions change halfway through the workflow? Which policy wins if two systems apply different rules? Can the final action be traced back to the authority that justified it? Who should stop the transaction if the combined sequence becomes higher-risk than any individual step? This makes me wonder whether agent governance needs to move beyond identity and access control at the component level. The real unit of governance may increasingly be the transaction chain . An agent might be authorised to perform every individual step while the combined sequence should still be blocked. How are people thinking about authority across multi-system agent workflows? submitted by /u/FactivalUniverse [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w3q8wg/who_actually_has_authority_when_an_ai_agent/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_reddit-aiagents_f3ae5e215c4d66c1",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w3jnf1/the_saas_middle_class_is_getting_wiped_out/",
-    "title": "the SaaS middle class is getting wiped out",
-    "publishedAt": "2026-08-31T16:56:34.000Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "keyFacts": [
-      "It feels like every SaaS company has the same AI roadmap right now: bolt on a chat box, call it an \"agent,\" raise prices.",
-      "My guess is that when the dust settles, only the extremes win.",
-      "On one end: broad platforms with distribution, integrations, trusted data and enough capital to become the default operating layer.",
-      "On the other: painfully specific AI tools that own one expensive workflow better than anyone else."
-    ],
-    "claims": [
-      {
-        "text": "It feels like every SaaS company has the same AI roadmap right now: bolt on a chat box, call it an \"agent,\" raise prices. My guess is that when the dust settles, only the extremes win. On one end: broad platforms with distribution, integrations, trusted data and enough capital to become the default operating layer. On the other: painfully specific AI tools that own one expensive workflow better than anyone else. The middle is where it gets rough. Generic tools with low switching costs, weak data moats and features that can be replicated in a month don't have anywhere to hide. If the product doesn't save real labor, handle real risk or become embedded in how a company operates, it's probably just another tab someone closes. That tracks with the growing pressure on horizontal point solutions while domain-specific products and large incumbents keep strengthening their position. submitted by /u/k1_r1 [link] [comments]",
-        "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w3jnf1/the_saas_middle_class_is_getting_wiped_out/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_stability-ai-blog_2026-09-01_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-09-01T01:36:05.076Z",
+    "publishedAt": "2026-09-01T15:15:32.520Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +284,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-09-01T01:36:05.334Z",
+    "publishedAt": "2026-09-01T15:15:32.738Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +313,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-09-01T01:36:05.367Z",
+    "publishedAt": "2026-09-01T15:15:32.834Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -345,7 +344,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-09-01T01:36:04.912Z",
+    "publishedAt": "2026-09-01T15:15:32.375Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -372,7 +371,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-09-01T01:36:04.913Z",
+    "publishedAt": "2026-09-01T15:15:32.375Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +398,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-09-01T01:36:05.134Z",
+    "publishedAt": "2026-09-01T15:15:32.572Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +427,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-09-01T01:36:05.159Z",
+    "publishedAt": "2026-09-01T15:15:32.652Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -457,7 +456,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-09-01T01:36:05.760Z",
+    "publishedAt": "2026-09-01T15:15:32.979Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -485,7 +484,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-09-01T01:36:04.955Z",
+    "publishedAt": "2026-09-01T15:15:32.400Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -512,7 +511,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-09-01T01:36:05.211Z",
+    "publishedAt": "2026-09-01T15:15:32.755Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -541,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-09-01T01:36:05.730Z",
+    "publishedAt": "2026-09-01T15:15:32.372Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -570,7 +569,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-09-01T01:36:05.411Z",
+    "publishedAt": "2026-09-01T15:15:32.866Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -597,12 +596,12 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-09-01T01:36:05.337Z",
+    "publishedAt": "2026-09-01T15:15:32.800Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "The Official Blog | Replit Products CREATE Design Apps & Websites Slides PLATFORM Agents Databases Integrations Security Solutions BY ROLE Founders Product Managers Designers Engineers Operations IT BY USE CASE Apps Websites Landing Pages Dashboards Prototypes Chatbots Pricing Enterprise Resources LEARN & SUPPORT Docs Community Support Replit Experts Partners DISCOVER Customer Stories Gallery Blog Newsroom Contact sales Log in Sign up Products Solutions Pricing Enterprise Resources Log in Sign up Replit Blog Aug 18, 2026 • Featured Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
+      "The Official Blog | Replit Products CREATE Design Apps & Websites Slides PLATFORM Agents Databases Integrations Security Solutions BY ROLE Founders Product Managers Designers Engineers Operations IT BY USE CASE Apps Websites Landing Pages Dashboards Prototypes Chatbots Pricing Enterprise Resources LEARN & SUPPORT Docs Community Support Replit Experts Partners DISCOVER Customer Stories Gallery Blog Newsroom Contact sales Log in Sign up Products CREATE Design Apps & Websites Slides PLATFORM Agents Databases Integrations Security Solutions BY ROLE Founders Product Managers Designers Engineers Operations IT BY USE CASE Apps Websites Landing Pages Dashboards Prototypes Chatbots Pricing Enterprise Resources LEARN & SUPPORT Docs Community Support Replit Experts Partners DISCOVER Customer Stories Gallery Blog Newsroom Log in Sign up Replit Blog Aug 18, 2026 • Featured Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
       "All AI Builder Spotlight Design Edu Engineering Enterprise Events Infrastructure News Product *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Aug 26, 2026 Intelligent Model Routing on Replit Replit now picks the best model for every task, automatically.",
       "Aug 18, 2026 Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day.",
       "Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans."
@@ -626,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-09-01T01:36:05.080Z",
+    "publishedAt": "2026-09-01T15:15:32.553Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -656,7 +655,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-09-01T01:36:05.031Z",
+    "publishedAt": "2026-09-01T15:15:32.481Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -683,7 +682,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-09-01T01:36:07.119Z",
+    "publishedAt": "2026-09-01T15:15:34.633Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -713,7 +712,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-09-01T01:36:05.057Z",
+    "publishedAt": "2026-09-01T15:15:32.504Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -740,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-09-01T01:36:05.126Z",
+    "publishedAt": "2026-09-01T15:15:32.562Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -748,9 +747,9 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 2 days ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 6 days ago • 30 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • about 19 hours ago • 15 Modern LLMs: What the FLIP is an Engram!?",
-      "Blackroot • 6 days ago • 12 Technical writing in the agentic era joelniklaus • about 13 hours ago • 9 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 906 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 31 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 5 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 5 days ago • 4 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 27 days ago • 94 Introducing the EdgeFirst Model Zoo EdgeFirst • 7 days ago • 8 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 10 days ago • 13 Writing Down the Line Between Luck and Skill FINAL-Bench • 8 days ago • 14 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 5 days ago • 3 Intel GPU AI Skills kushal-mittal • 5 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 4 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 399 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 42 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 103 August 26, 2026 Granite 4.2 LLMs: How They're Built 92 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 38 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 34 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 26 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 58 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 48 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
-      "76 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 99 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 173 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 32 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 107 August 13, 2026 Previous 1 2 3 ...",
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 3 days ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 7 days ago • 31 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 1 day ago • 17 Modern LLMs: What the FLIP is an Engram!?",
+      "Blackroot • 6 days ago • 12 Technical writing in the agentic era joelniklaus • 1 day ago • 10 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 907 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 31 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 5 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 5 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 400 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 28 days ago • 94 Introducing the EdgeFirst Model Zoo EdgeFirst • 8 days ago • 8 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 10 days ago • 13 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 6 days ago • 3 Intel GPU AI Skills kushal-mittal • 6 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 5 days ago • 3 Frontier-Assisted Single-Prompt Disposable Risk Assessment darkc0de • 2 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 inference javascript webgpu Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI 1 September 1, 2026 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 51 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 107 August 26, 2026 Granite 4.2 LLMs: How They're Built 93 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 41 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 34 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 26 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 60 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 48 August 20, 2026 How Much Memory Does Your Agent Actually Need?",
+      "76 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 100 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 176 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 32 August 13, 2026 Previous 1 2 3 ...",
       "61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section."
     ],
     "claims": [
@@ -765,6 +764,36 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_1e10d6ed5279e6c1",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+    "title": "Python 3.15.0 candidate 2 is here!",
+    "publishedAt": "2026-09-01T14:59:18.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 1st September 2026 - Link Blog Python 3.15.0 candidate 2 is here!",
+      "( via ) Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release."
+    ],
+    "claims": [
+      {
+        "text": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...] We strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels on PyPI to be ready for the final release of 3.15.0, and to help other projects do their own testing. Any binary wheels built against Python 3.15.0 release candidates will work with future versions of Python 3.15. Back in 2021 I found a bug in Python 3.10 by running my test suites against it... but I hadn't done this during the RC period, so that bug had already shipped! Since then I've always paid much closer attention to these RCs. The new RC isn't available for GitHub Actions just yet - keep an eye on actions/python-versions for that. For the moment though you can add this to a testing matrix: strategy: matrix: python-version: [\"3.14\", \"3.15\"] steps: - uses: actions/setup-python@v7 with: python-version: ${{ matrix.python-version }} allow-prereleases: true check-latest: true And the allow-prereleases and check-latest flags should ensure that your test suite runs against RC2 as soon as it is added to GitHub. Via @hugovk.dev Tags: open-source , python , github-actions",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_8989bf4a72f957d9",
@@ -887,42 +916,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_a6a3a9c7fc2b8f43",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-    "title": "Just a rumour of a bug is enough to find a security exploit these days",
-    "publishedAt": "2026-08-28T22:12:02.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Just a rumour of a bug is enough to find a security exploit these days Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 28th August 2026 - Link Blog Just a rumour of a bug is enough to find a security exploit these days ( via ) Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler.",
-      "In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable."
-    ],
-    "claims": [
-      {
-        "text": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding probes for percent-encoded traversal sequences, indicating that automated watchers are keeping an eye on public repositories. Modern coding agents have become so effective at finding flaws that the slightest hint at a new bug can be enough information for them to find it, something Anil has been able to demonstrate using his own agents, switching to DeepSeek V4 Pro⁠ when Claude Fable refused the task. Anil points out that this rate of discovery appears incompatible with existing open source embargo practices for new issues. If an issue can become an exploit this fast, we need to figure out new processes for keeping our communities safe. rclone maintainer Nick Craig-Wood confirms in the Hacker News comments that his project is seeing this problem: In the first 10 years of the rclone project we received about 20 security disclosures through GitHub. We had to deal with over 40 in the last month! That has taken a huge amount of my time, even using AI tools to triage and come up with fixes for review. The hit rate for those security disclosures is pretty good - about 75% of them have a nugget of something which needs looking at. [...] GitHub assigns CVEs for the advisories. Before the AI apocalypse they took 2-3 days for an assignment but now it they are running at 3-4 weeks so I have to send the point releases out with CVE-PENDING in the changelog which isn't ideal. Via Hacker News Tags: open-source , security , ai , generative-ai , llms , coding-agents , ocaml , ai-security-research",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-09-01T01:36:05.119Z",
+    "publishedAt": "2026-09-01T15:15:32.524Z",
     "categoryHints": [
       "ai-agentic"
     ],

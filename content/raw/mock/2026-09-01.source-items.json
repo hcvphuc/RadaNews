@@ -7,8 +7,8 @@
     "sourceUrl": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
     "rawSummary": "Explore tutorials, case studies, and technical insights on building AI agents with LangSmith, Deep Agents, LangGraph, and LangChain. Learn from experts.",
-    "publishedAt": "2026-09-01T01:36:05.268Z",
-    "crawledAt": "2026-09-01T01:36:05.268Z",
+    "publishedAt": "2026-09-01T15:15:32.753Z",
+    "crawledAt": "2026-09-01T15:15:32.753Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -25,8 +25,8 @@
     "sourceUrl": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
     "rawSummary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "publishedAt": "2026-09-01T01:36:04.900Z",
-    "crawledAt": "2026-09-01T01:36:04.900Z",
+    "publishedAt": "2026-09-01T15:15:32.808Z",
+    "crawledAt": "2026-09-01T15:15:32.808Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -44,8 +44,8 @@
     "sourceUrl": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:04.775Z",
-    "crawledAt": "2026-09-01T01:36:04.775Z",
+    "publishedAt": "2026-09-01T15:15:32.227Z",
+    "crawledAt": "2026-09-01T15:15:32.227Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -63,8 +63,8 @@
     "sourceUrl": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:05.337Z",
-    "crawledAt": "2026-09-01T01:36:05.337Z",
+    "publishedAt": "2026-09-01T15:15:32.430Z",
+    "crawledAt": "2026-09-01T15:15:32.430Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -83,7 +83,7 @@
     "title": "Weekly Thread: Project Display",
     "rawSummary": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-26T16:00:34.000Z",
-    "crawledAt": "2026-09-01T01:36:06.663Z",
+    "crawledAt": "2026-09-01T15:15:32.940Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -100,13 +100,47 @@
     "title": "Weekly Hiring Thread",
     "rawSummary": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]",
     "publishedAt": "2026-08-31T16:00:56.000Z",
-    "crawledAt": "2026-09-01T01:36:06.663Z",
+    "crawledAt": "2026-09-01T15:15:32.940Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
     "extractedText": "If you're hiring use this thread. Include: Company Name Role Name Full Time/Part Time/Contract Role Description Salary Range Remote or Not Visa Sponsorship or Not submitted by /u/help-me-grow [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_a8f720a2318b4ff6",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w49n1n/we_sent_a_meme_deck_to_a_400m_company_as_a_joke/",
+    "title": "We sent a meme deck to a $400M company as a joke. They replied. It's our entire outbound now.",
+    "rawSummary": "Ok so this started as a joke experiment and then it worked, so now it's a process. Quick context so you know where this is coming from. We're an AI agency. The whole pitch is we find one expensive, repetitive problem inside a company and put AI around it so they don't have to hire a full time AI team. Which means our own outbound has to work or we don't eat. No SDRs and no outbound agency, we DM people ourselves. This is the workflow we use to get our clients. Last month one of these got an actual reply, with a question in it, from a company doing about $400M. That is not a company that needs to reply to a small shop. We'd been sending them as a casual test and after that reply we made it the default. I'm aware this reads like the exact kind of post I usually roll my eyes at. You can go do it in an hour and see for yourself though. The core idea is dumb simple. Buying is psychological. You can stack 30 tools on top of a message that's aimed at the wrong person with the wrong framing and it still dies in the inbox. So before any writing happens we make Claude work out a few things about the decision maker that almost everyone skips: How old are they. A 28 year old head of ops and a 58 year old COO do not respond to the same message and pretending otherwise is how you get ignored by both. Who actually owns the budget. In a 50 person company the person who feels the expensive problem every day is usually a director and the C-suite just signs. Everyone DMs the CEO anyway. How long they've been in the seat. Six months means they're still building the playbook and still shopping. Four years means they're locked in and you'll have to pry them out. What's their stack. If they're still running 2021 software, the repetitive problem is probably sitting right on top of it. What's changed lately. They posted a job for an in-house AI hire or a new ops exec came in or a launch is about to bury some team in manual work. Any of that means the problem is getting expensive right now. What are they posting about. If a COO is suddenly posting about AI adoption, someone above them asked what the plan is and you want to be in the inbox that week. We tuned all of this for what we sell. Swap the signals for yours. Setup is small. Claude with the Gamma connector switched on, plus a LinkedIn account. No agent framework and no 30 tool stack. Everything below is just what we ask Claude to do, in order. Step 1. Don't buy anything. LinkedIn settings > data privacy > get a copy of your data > tick connections. They email you a CSV in a day or two. Your existing network is a better list than anything you'd scrape and you already have a reason to message them. Step 2. Find what the buyer actually wants. Paste your offer in one paragraph plus who you're targeting (title and company size, industry if it matters) and ask Claude for the real problem underneath the surface complaints and why they'd buy this week instead of next quarter. Push it past the obvious answers, the first pass is always generic. This is the raw material for everything after. Step 3. Turn that into a person. Ask it to build a full persona from the same targeting. The words they use. What they're scared of at work. What they actually care about versus what they post. You want it to read like a human instead of a job title. Step 4. Get your openers. Give it the offer plus the persona and ask for 8 different ways to open a conversation, each one built off something specific in the persona. None of them should be the \"quick question\" template every SDR on earth is running right now. If one of them is, throw it out. Step 5. The meme deck. This is the part that gets replies. Ask Claude to look up [company], find the expensive repetitive problem, write one meme tied to that exact pain and build a 5 slide Gamma deck around it. Slide 1 is their problem. Slides 2 to 4 are how you'd put AI around it, laid out clearly enough that they could take it to their own team if they wanted (most don't). The meme sits in the middle. If the deck comes back sounding like a pitch, tell it to make it about them and cut the about us stuff. That one line fixes most of it. The logic is a founder is scrolling, half doubting your DM, and then hits something that makes them stop for a second. That second is the whole game. You can plug in Apollo or whatever and run this on a list. Don't. Do 5 by hand first. Claude will screw up one every few decks and you want to catch that while it's cheap. Once you've seen 5 good ones you know what good looks like and then you scale. The DM itself is short. Something like \"built this for [company], figured it'd help with [the thing they're dealing with]\" and the deck. The deck is the message, the text is just the reason to open it. Ghosters get a plain meme, no deck. Ask Claude for one tied to the same pain. Some of them come back cringe, tell it to redo it non cringe and it usually does. Something dumb and funny beats \"just bumping this\" for the fourth time. That's the whole thing. It looks easy written out. It took 100 hours to get to something that doesn't embarrass us, mostly because the first batch of decks were bad in ways we had to learn from. Try it on 5 people this week and come back and tell me what broke. TLDR: we're an AI agency and our cold DMs are 5 slide meme decks built with Claude and Gamma. Claude works out the psychology of the decision maker before writing a word. A $400M company replied. Do 5 by hand before you automate anything. submitted by /u/Warm-Reaction-456 [link] [comments]",
+    "publishedAt": "2026-09-01T11:48:58.000Z",
+    "crawledAt": "2026-09-01T15:15:32.940Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "Ok so this started as a joke experiment and then it worked, so now it's a process. Quick context so you know where this is coming from. We're an AI agency. The whole pitch is we find one expensive, repetitive problem inside a company and put AI around it so they don't have to hire a full time AI team. Which means our own outbound has to work or we don't eat. No SDRs and no outbound agency, we DM people ourselves. This is the workflow we use to get our clients. Last month one of these got an actual reply, with a question in it, from a company doing about $400M. That is not a company that needs to reply to a small shop. We'd been sending them as a casual test and after that reply we made it the default. I'm aware this reads like the exact kind of post I usually roll my eyes at. You can go do it in an hour and see for yourself though. The core idea is dumb simple. Buying is psychological. You can stack 30 tools on top of a message that's aimed at the wrong person with the wrong framing and it still dies in the inbox. So before any writing happens we make Claude work out a few things about the decision maker that almost everyone skips: How old are they. A 28 year old head of ops and a 58 year old COO do not respond to the same message and pretending otherwise is how you get ignored by both. Who actually owns the budget. In a 50 person company the person who feels the expensive problem every day is usually a director and the C-suite just signs. Everyone DMs the CEO anyway. How long they've been in the seat. Six months means they're still building the playbook and still shopping. Four years means they're locked in and you'll have to pry them out. What's their stack. If they're still running 2021 software, the repetitive problem is probably sitting right on top of it. What's changed lately. They posted a job for an in-house AI hire or a new ops exec came in or a launch is about to bury some team in manual work. Any of that means the problem is getting expensive right now. What are they posting about. If a COO is suddenly posting about AI adoption, someone above them asked what the plan is and you want to be in the inbox that week. We tuned all of this for what we sell. Swap the signals for yours. Setup is small. Claude with the Gamma connector switched on, plus a LinkedIn account. No agent framework and no 30 tool stack. Everything below is just what we ask Claude to do, in order. Step 1. Don't buy anything. LinkedIn settings > data privacy > get a copy of your data > tick connections. They email you a CSV in a day or two. Your existing network is a better list than anything you'd scrape and you already have a reason to message them. Step 2. Find what the buyer actually wants. Paste your offer in one paragraph plus who you're targeting (title and company size, industry if it matters) and ask Claude for the real problem underneath the surface complaints and why they'd buy this week instead of next quarter. Push it past the obvious answers, the first pass is always generic. This is the raw material for everything after. Step 3. Turn that into a person. Ask it to build a full persona from the same targeting. The words they use. What they're scared of at work. What they actually care about versus what they post. You want it to read like a human instead of a job title. Step 4. Get your openers. Give it the offer plus the persona and ask for 8 different ways to open a conversation, each one built off something specific in the persona. None of them should be the \"quick question\" template every SDR on earth is running right now. If one of them is, throw it out. Step 5. The meme deck. This is the part that gets replies. Ask Claude to look up [company], find the expensive repetitive problem, write one meme tied to that exact pain and build a 5 slide Gamma deck around it. Slide 1 is their problem. Slides 2 to 4 are how you'd put AI around it, laid out clearly enough that they could take it to their own team if they wanted (most don't). The meme sits in the middle. If the deck comes back sounding like a pitch, tell it to make it about them and cut the about us stuff. That one line fixes most of it. The logic is a founder is scrolling, half doubting your DM, and then hits something that makes them stop for a second. That second is the whole game. You can plug in Apollo or whatever and run this on a list. Don't. Do 5 by hand first. Claude will screw up one every few decks and you want to catch that while it's cheap. Once you've seen 5 good ones you know what good looks like and then you scale. The DM itself is short. Something like \"built this for [company], figured it'd help with [the thing they're dealing with]\" and the deck. The deck is the message, the text is just the reason to open it. Ghosters get a plain meme, no deck. Ask Claude for one tied to the same pain. Some of them come back cringe, tell it to redo it non cringe and it usually does. Something dumb and funny beats \"just bumping this\" for the fourth time. That's the whole thing. It looks easy written out. It took 100 hours to get to something that doesn't embarrass us, mostly because the first batch of decks were bad in ways we had to learn from. Try it on 5 people this week and come back and tell me what broke. TLDR: we're an AI agency and our cold DMs are 5 slide meme decks built with Claude and Gamma. Claude works out the psychology of the decision maker before writing a word. A $400M company replied. Do 5 by hand before you automate anything. submitted by /u/Warm-Reaction-456 [link] [comments]"
+  },
+  {
+    "id": "src_reddit-aiagents_8c69defdd1e69971",
+    "sourceConfigId": "reddit-aiagents",
+    "sourceType": "reddit",
+    "sourceName": "r/AI_Agents",
+    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w4ckm1/what_is_one_ai_change_you_didnt_expect_to_see/",
+    "title": "What is one AI change you didn't expect to see this soon?",
+    "rawSummary": "AI is moving faster than I expected, and some changes that felt years away are already becoming normal. What AI development or change has surprised you the most so far, and why did it stand out to you? submitted by /u/ProposalIntrepid8476 [link] [comments]",
+    "publishedAt": "2026-09-01T13:50:13.000Z",
+    "crawledAt": "2026-09-01T15:15:32.940Z",
+    "categoryHints": [
+      "ai-agentic"
+    ],
+    "score": 0.6,
+    "crawlStatus": "live",
+    "extractedText": "AI is moving faster than I expected, and some changes that felt years away are already becoming normal. What AI development or change has surprised you the most so far, and why did it stand out to you? submitted by /u/ProposalIntrepid8476 [link] [comments]"
   },
   {
     "id": "src_reddit-aiagents_826278428ec00541",
@@ -117,47 +151,13 @@
     "title": "$60k in Macs for Local LLM vs $10 Subscription",
     "rawSummary": "Alex Zisking, one of my favorite YouTubers - does a lot of videos on local LLMs. He's no neophyte. In this video he says: Lee has been telling you guys the truth, Local LLMs are not ready on normal people hardware. Ok, so he said nothing about me, but he made the point I've been making for some time now. All those \"Stop paying Anthropic $200/mo, use free local llms\" is click bait, not truth. He runs the most powerful to date open weight model, Kimi K3. People rave that is near Fable 5 power. Yes, but not on YOUR hardware. In a data center. Alex networks 4 512gb Mac studios for 2tb of ram to run the model with enough space for a large context window too. It took 4 hours, 17 tok/s output, to develop a simple yet rather nice Web dashboard - using mock data. It worked. The output was nice. But even $60k in hardware gave it nowhere remotely near the performance of a $10 subscription. Right now I have two simultaneous development efforts running. I've been running them both since about 6 hours. They work on a sprint for an hour or so, I view results, add input and direction if necessary, then move onto the next sprint. I'm paying more than $10/mo for my cloud subscriptions. But that 4 hours the Mac cluster took, is only doing the work of about a 15minute job. I'm doing \"all day work, multiple projects\" -- local AI can't meet the need. Yet. Probably not for you either. Link to the video in the comments. submitted by /u/leebase65 [link] [comments]",
     "publishedAt": "2026-08-31T18:19:53.000Z",
-    "crawledAt": "2026-09-01T01:36:06.663Z",
+    "crawledAt": "2026-09-01T15:15:32.940Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "score": 0.6,
     "crawlStatus": "live",
     "extractedText": "Alex Zisking, one of my favorite YouTubers - does a lot of videos on local LLMs. He's no neophyte. In this video he says: Lee has been telling you guys the truth, Local LLMs are not ready on normal people hardware. Ok, so he said nothing about me, but he made the point I've been making for some time now. All those \"Stop paying Anthropic $200/mo, use free local llms\" is click bait, not truth. He runs the most powerful to date open weight model, Kimi K3. People rave that is near Fable 5 power. Yes, but not on YOUR hardware. In a data center. Alex networks 4 512gb Mac studios for 2tb of ram to run the model with enough space for a large context window too. It took 4 hours, 17 tok/s output, to develop a simple yet rather nice Web dashboard - using mock data. It worked. The output was nice. But even $60k in hardware gave it nowhere remotely near the performance of a $10 subscription. Right now I have two simultaneous development efforts running. I've been running them both since about 6 hours. They work on a sprint for an hour or so, I view results, add input and direction if necessary, then move onto the next sprint. I'm paying more than $10/mo for my cloud subscriptions. But that 4 hours the Mac cluster took, is only doing the work of about a 15minute job. I'm doing \"all day work, multiple projects\" -- local AI can't meet the need. Yet. Probably not for you either. Link to the video in the comments. submitted by /u/leebase65 [link] [comments]"
-  },
-  {
-    "id": "src_reddit-aiagents_18b4e76ab2aacb83",
-    "sourceConfigId": "reddit-aiagents",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w3q8wg/who_actually_has_authority_when_an_ai_agent/",
-    "title": "Who Actually Has Authority When an AI Agent Crosses Multiple Systems?",
-    "rawSummary": "Most discussions about AI agent permissions focus on the agent itself. But once an agent starts operating across multiple systems, authority becomes much harder to reason about. Imagine one transaction moving through: an identity provider a CRM an internal API a third-party model a payment or transaction system an approval workflow Each component may have its own permissions and controls. But who is responsible for the authority of the full chain ? A few questions become difficult very quickly: Does authority established in one system carry into the next? Can one system safely rely on context or approval from another? What happens when permissions change halfway through the workflow? Which policy wins if two systems apply different rules? Can the final action be traced back to the authority that justified it? Who should stop the transaction if the combined sequence becomes higher-risk than any individual step? This makes me wonder whether agent governance needs to move beyond identity and access control at the component level. The real unit of governance may increasingly be the transaction chain . An agent might be authorised to perform every individual step while the combined sequence should still be blocked. How are people thinking about authority across multi-system agent workflows? submitted by /u/FactivalUniverse [link] [comments]",
-    "publishedAt": "2026-08-31T20:39:41.000Z",
-    "crawledAt": "2026-09-01T01:36:06.663Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "score": 0.6,
-    "crawlStatus": "live",
-    "extractedText": "Most discussions about AI agent permissions focus on the agent itself. But once an agent starts operating across multiple systems, authority becomes much harder to reason about. Imagine one transaction moving through: an identity provider a CRM an internal API a third-party model a payment or transaction system an approval workflow Each component may have its own permissions and controls. But who is responsible for the authority of the full chain ? A few questions become difficult very quickly: Does authority established in one system carry into the next? Can one system safely rely on context or approval from another? What happens when permissions change halfway through the workflow? Which policy wins if two systems apply different rules? Can the final action be traced back to the authority that justified it? Who should stop the transaction if the combined sequence becomes higher-risk than any individual step? This makes me wonder whether agent governance needs to move beyond identity and access control at the component level. The real unit of governance may increasingly be the transaction chain . An agent might be authorised to perform every individual step while the combined sequence should still be blocked. How are people thinking about authority across multi-system agent workflows? submitted by /u/FactivalUniverse [link] [comments]"
-  },
-  {
-    "id": "src_reddit-aiagents_f3ae5e215c4d66c1",
-    "sourceConfigId": "reddit-aiagents",
-    "sourceType": "reddit",
-    "sourceName": "r/AI_Agents",
-    "sourceUrl": "https://www.reddit.com/r/AI_Agents/comments/1w3jnf1/the_saas_middle_class_is_getting_wiped_out/",
-    "title": "the SaaS middle class is getting wiped out",
-    "rawSummary": "It feels like every SaaS company has the same AI roadmap right now: bolt on a chat box, call it an \"agent,\" raise prices. My guess is that when the dust settles, only the extremes win. On one end: broad platforms with distribution, integrations, trusted data and enough capital to become the default operating layer. On the other: painfully specific AI tools that own one expensive workflow better than anyone else. The middle is where it gets rough. Generic tools with low switching costs, weak data moats and features that can be replicated in a month don't have anywhere to hide. If the product doesn't save real labor, handle real risk or become embedded in how a company operates, it's probably just another tab someone closes. That tracks with the growing pressure on horizontal point solutions while domain-specific products and large incumbents keep strengthening their position. submitted by /u/k1_r1 [link] [comments]",
-    "publishedAt": "2026-08-31T16:56:34.000Z",
-    "crawledAt": "2026-09-01T01:36:06.663Z",
-    "categoryHints": [
-      "ai-agentic"
-    ],
-    "score": 0.6,
-    "crawlStatus": "live",
-    "extractedText": "It feels like every SaaS company has the same AI roadmap right now: bolt on a chat box, call it an \"agent,\" raise prices. My guess is that when the dust settles, only the extremes win. On one end: broad platforms with distribution, integrations, trusted data and enough capital to become the default operating layer. On the other: painfully specific AI tools that own one expensive workflow better than anyone else. The middle is where it gets rough. Generic tools with low switching costs, weak data moats and features that can be replicated in a month don't have anywhere to hide. If the product doesn't save real labor, handle real risk or become embedded in how a company operates, it's probably just another tab someone closes. That tracks with the growing pressure on horizontal point solutions while domain-specific products and large incumbents keep strengthening their position. submitted by /u/k1_r1 [link] [comments]"
   },
   {
     "id": "src_stability-ai-blog_2026-09-01_fallback",
@@ -167,8 +167,8 @@
     "sourceUrl": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:05.076Z",
-    "crawledAt": "2026-09-01T01:36:05.076Z",
+    "publishedAt": "2026-09-01T15:15:32.520Z",
+    "crawledAt": "2026-09-01T15:15:32.520Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -185,8 +185,8 @@
     "sourceUrl": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
     "rawSummary": "News, research, and product updates from Black Forest Labs — the team building FLUX and visual intelligence.",
-    "publishedAt": "2026-09-01T01:36:05.334Z",
-    "crawledAt": "2026-09-01T01:36:05.334Z",
+    "publishedAt": "2026-09-01T15:15:32.738Z",
+    "crawledAt": "2026-09-01T15:15:32.738Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -203,8 +203,8 @@
     "sourceUrl": "https://replicate.com/blog",
     "title": "Blog – Replicate",
     "rawSummary": "Follow Replicate’s blog for product updates and feature announcements.",
-    "publishedAt": "2026-09-01T01:36:05.367Z",
-    "crawledAt": "2026-09-01T01:36:05.367Z",
+    "publishedAt": "2026-09-01T15:15:32.834Z",
+    "crawledAt": "2026-09-01T15:15:32.834Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -223,8 +223,8 @@
     "sourceUrl": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:04.912Z",
-    "crawledAt": "2026-09-01T01:36:04.912Z",
+    "publishedAt": "2026-09-01T15:15:32.375Z",
+    "crawledAt": "2026-09-01T15:15:32.375Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -242,8 +242,8 @@
     "sourceUrl": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:04.913Z",
-    "crawledAt": "2026-09-01T01:36:04.913Z",
+    "publishedAt": "2026-09-01T15:15:32.375Z",
+    "crawledAt": "2026-09-01T15:15:32.375Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -261,8 +261,8 @@
     "sourceUrl": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
     "rawSummary": "Explore Runway's AI research in video generation, world models and generative AI. Read about Gen-4, Aleph, Act-Two and our latest breakthroughs.",
-    "publishedAt": "2026-09-01T01:36:05.134Z",
-    "crawledAt": "2026-09-01T01:36:05.134Z",
+    "publishedAt": "2026-09-01T15:15:32.572Z",
+    "crawledAt": "2026-09-01T15:15:32.572Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -279,8 +279,8 @@
     "sourceUrl": "https://pika.art/blog",
     "title": "Blog | Pika",
     "rawSummary": "Updates from the Pika team.",
-    "publishedAt": "2026-09-01T01:36:05.159Z",
-    "crawledAt": "2026-09-01T01:36:05.159Z",
+    "publishedAt": "2026-09-01T15:15:32.652Z",
+    "crawledAt": "2026-09-01T15:15:32.652Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -297,8 +297,8 @@
     "sourceUrl": "https://lumalabs.ai/blog",
     "title": "News | Luma",
     "rawSummary": "Get the latest Luma AI news, updates, and innovations. Stay informed on new features, AI advancements, and industry trends in video and 3D creation. Subscribe to Press Updates",
-    "publishedAt": "2026-09-01T01:36:05.760Z",
-    "crawledAt": "2026-09-01T01:36:05.760Z",
+    "publishedAt": "2026-09-01T15:15:32.979Z",
+    "crawledAt": "2026-09-01T15:15:32.979Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -315,8 +315,8 @@
     "sourceUrl": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:04.955Z",
-    "crawledAt": "2026-09-01T01:36:04.955Z",
+    "publishedAt": "2026-09-01T15:15:32.400Z",
+    "crawledAt": "2026-09-01T15:15:32.400Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -334,8 +334,8 @@
     "sourceUrl": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
     "rawSummary": "New updates and improvements.",
-    "publishedAt": "2026-09-01T01:36:05.211Z",
-    "crawledAt": "2026-09-01T01:36:05.211Z",
+    "publishedAt": "2026-09-01T15:15:32.755Z",
+    "crawledAt": "2026-09-01T15:15:32.755Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -352,8 +352,8 @@
     "sourceUrl": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
     "rawSummary": "GitHub Copilot Archives - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know abo",
-    "publishedAt": "2026-09-01T01:36:05.730Z",
-    "crawledAt": "2026-09-01T01:36:05.730Z",
+    "publishedAt": "2026-09-01T15:15:32.372Z",
+    "crawledAt": "2026-09-01T15:15:32.372Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -369,8 +369,8 @@
     "sourceUrl": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:05.411Z",
-    "crawledAt": "2026-09-01T01:36:05.411Z",
+    "publishedAt": "2026-09-01T15:15:32.866Z",
+    "crawledAt": "2026-09-01T15:15:32.866Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -388,14 +388,14 @@
     "sourceUrl": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
     "rawSummary": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
-    "publishedAt": "2026-09-01T01:36:05.337Z",
-    "crawledAt": "2026-09-01T01:36:05.337Z",
+    "publishedAt": "2026-09-01T15:15:32.800Z",
+    "crawledAt": "2026-09-01T15:15:32.800Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "score": 0.72,
     "crawlStatus": "live",
-    "extractedText": "The Official Blog | Replit Products CREATE Design Apps & Websites Slides PLATFORM Agents Databases Integrations Security Solutions BY ROLE Founders Product Managers Designers Engineers Operations IT BY USE CASE Apps Websites Landing Pages Dashboards Prototypes Chatbots Pricing Enterprise Resources LEARN & SUPPORT Docs Community Support Replit Experts Partners DISCOVER Customer Stories Gallery Blog Newsroom Contact sales Log in Sign up Products Solutions Pricing Enterprise Resources Log in Sign up Replit Blog Aug 18, 2026 • Featured Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day. All AI Builder Spotlight Design Edu Engineering Enterprise Events Infrastructure News Product *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Aug 26, 2026 Intelligent Model Routing on Replit Replit now picks the best model for every task, automatically. Aug 18, 2026 Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day. Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans. Aug 16, 2026 Govern Replit at scale New Enterprise Governance tools for Replit Aug 3, 2026 AI adoption starts with truth The semantic layer is the foundation AI adoption is limited by trust. A user who gets burned by a confidently wrong answer will double-check the next one, eventually routing consequential work around the system entirely. Once that happens, AI remains a tool at the edges rather than infrastructure at the center… useful, but never trusted with the workflows where its value compounds. Before a company can benefit from more capable agents, those agents need a reliable way to know what the company considers true. A semantic layer tells an agent which tables are sources of truth and how they relate. That's the floor. It is necessary, and it isn't sufficient. A semantic layer is not plumbing. It is the first act of governance for an AI-native company: the shared definitions of the business, the canonical metrics, the sources of truth, and the relationships an agent is allowed to rely on. Without it, an agent does not have a data problem. It has a language problem: several tables can each look plausible, and the model has no grounded way to know which one means \"revenue,\" \"active user,\" or \"customer.\" Getting that floor right changes the shape of everything above it. A semantic layer is not the product; it is the shared contract that lets a company safely add a system of specialized capabilities instead of one generic chatbot. Once an agent can ground itself in the right entities, metrics, and relationships, it can reliably run multi-step workflows, call focused tools, retain reviewed knowledge across runs, reuse validation and analysis code, and operate through durable services where work already happens. Jul 29, 2026 Introducing Replit Design The next era of design, for everyone Jul 16, 2026 The Self-Driving Company We are beginning to see what happens when a company learns to operate itself. Jun 23, 2026 Closing the loop: Evaluating and improving Replit Agent at scale Most Replit Agent users start with an idea. They describe the goal in natural language — without a repo, test suite, or chosen framework — and expect the agent to turn it into a functioning app. The result might be a website, slide deck, mobile app, several connected artifacts, or something else entirely. Vibe coders are not usually checking diffs or test output. Success for Replit Agent is deceptively simple: the app should work when users click around. That changes the job of evaluation. A single score can help with a specific shipping decision, but it cannot tell us, week over week, whether Replit Agent is getting better for users. To answer that question, evaluation must become part of the improvement loop. Evaluation has to do more now Jun 22, 2026 Vibe Coding's Coachella Moment Just Happened. Inside Replit's Inaugural Vibecon. Powerful energy on New York’s Lower East Side, where the crowd was the one creating, vibe-coding and manifesting ideas into real things all day. Jun 17, 2026 Replit is now available in Claude Replit is now available directly inside Claude, making it easier than ever to go from a conversation to a fully built, shipped product - without losing context, in one seamless workflow. Design in Claude, Build in Replit You can now design on-brand, beautiful apps in Claude Design using natural language. Once your design is ready, send it directly to Replit to continue building, refining, and shipping your app—all through natural language and in one seamless workflow. No copy-pasting, no context switching, no friction. Delegate Any Task to Replit Jun 10, 2026 Customize Replit Agent with Skills & Custom Instructions Every team has conventions. How you structure a project. How you handle secrets. Your design system, your testing standards, your code style. The problem: AI Agents don’t know your conventions. So you explain it again on every prompt, paste in your standards doc, or just hope someone remembered to add the context. It is one of those small frictions that compounds quietly until you are spending more time re-teaching the Agent than actually building. Today we're launching Agent Customization: a way to give Replit Agent the context it needs to work the way you or your team actually works, across all projects. It has two parts: Custom Instructions and Skills. Custom Instructions Custom Instructions are always-on guidelines injected automatically into the agent's context on every project, every session, before anyone types a single word. Write them once, and the Agent applies them to every project in the workspace, automatically. If y",
+    "extractedText": "The Official Blog | Replit Products CREATE Design Apps & Websites Slides PLATFORM Agents Databases Integrations Security Solutions BY ROLE Founders Product Managers Designers Engineers Operations IT BY USE CASE Apps Websites Landing Pages Dashboards Prototypes Chatbots Pricing Enterprise Resources LEARN & SUPPORT Docs Community Support Replit Experts Partners DISCOVER Customer Stories Gallery Blog Newsroom Contact sales Log in Sign up Products CREATE Design Apps & Websites Slides PLATFORM Agents Databases Integrations Security Solutions BY ROLE Founders Product Managers Designers Engineers Operations IT BY USE CASE Apps Websites Landing Pages Dashboards Prototypes Chatbots Pricing Enterprise Resources LEARN & SUPPORT Docs Community Support Replit Experts Partners DISCOVER Customer Stories Gallery Blog Newsroom Log in Sign up Replit Blog Aug 18, 2026 • Featured Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day. All AI Builder Spotlight Design Edu Engineering Enterprise Events Infrastructure News Product *]:sm:border-r [&>*]:border-b [&>*:nth-child(2n)]:sm:border-r-0 [&>*:nth-child(2n)]:lg:border-r [&>*:nth-child(3n)]:lg:border-r-0 [&>*:nth-child(3n)]:xxl:border-r [&>*:nth-child(4n)]:xxl:border-r-0 \"> Aug 26, 2026 Intelligent Model Routing on Replit Replit now picks the best model for every task, automatically. Aug 18, 2026 Replit Introduces Free Mode to Expand What is Possible with AI With OpenAI, Replit now helps you accomplish even more, every day. Aug 17, 2026 Black-box pen tests on Replit See how Replit's new black-box pen testing simulates real attacks to find vulnerabilities hidden from code-only scans. Aug 16, 2026 Govern Replit at scale New Enterprise Governance tools for Replit Aug 3, 2026 AI adoption starts with truth The semantic layer is the foundation AI adoption is limited by trust. A user who gets burned by a confidently wrong answer will double-check the next one, eventually routing consequential work around the system entirely. Once that happens, AI remains a tool at the edges rather than infrastructure at the center… useful, but never trusted with the workflows where its value compounds. Before a company can benefit from more capable agents, those agents need a reliable way to know what the company considers true. A semantic layer tells an agent which tables are sources of truth and how they relate. That's the floor. It is necessary, and it isn't sufficient. A semantic layer is not plumbing. It is the first act of governance for an AI-native company: the shared definitions of the business, the canonical metrics, the sources of truth, and the relationships an agent is allowed to rely on. Without it, an agent does not have a data problem. It has a language problem: several tables can each look plausible, and the model has no grounded way to know which one means \"revenue,\" \"active user,\" or \"customer.\" Getting that floor right changes the shape of everything above it. A semantic layer is not the product; it is the shared contract that lets a company safely add a system of specialized capabilities instead of one generic chatbot. Once an agent can ground itself in the right entities, metrics, and relationships, it can reliably run multi-step workflows, call focused tools, retain reviewed knowledge across runs, reuse validation and analysis code, and operate through durable services where work already happens. Jul 29, 2026 Introducing Replit Design The next era of design, for everyone Jul 16, 2026 The Self-Driving Company We are beginning to see what happens when a company learns to operate itself. Jun 23, 2026 Closing the loop: Evaluating and improving Replit Agent at scale Most Replit Agent users start with an idea. They describe the goal in natural language — without a repo, test suite, or chosen framework — and expect the agent to turn it into a functioning app. The result might be a website, slide deck, mobile app, several connected artifacts, or something else entirely. Vibe coders are not usually checking diffs or test output. Success for Replit Agent is deceptively simple: the app should work when users click around. That changes the job of evaluation. A single score can help with a specific shipping decision, but it cannot tell us, week over week, whether Replit Agent is getting better for users. To answer that question, evaluation must become part of the improvement loop. Evaluation has to do more now Jun 22, 2026 Vibe Coding's Coachella Moment Just Happened. Inside Replit's Inaugural Vibecon. Powerful energy on New York’s Lower East Side, where the crowd was the one creating, vibe-coding and manifesting ideas into real things all day. Jun 17, 2026 Replit is now available in Claude Replit is now available directly inside Claude, making it easier than ever to go from a conversation to a fully built, shipped product - without losing context, in one seamless workflow. Design in Claude, Build in Replit You can now design on-brand, beautiful apps in Claude Design using natural language. Once your design is ready, send it directly to Replit to continue building, refining, and shipping your app—all through natural language and in one seamless workflow. No copy-pasting, no context switching, no friction. Delegate Any Task to Replit Jun 10, 2026 Customize Replit Agent with Skills & Custom Instructions Every team has conventions. How you structure a project. How you handle secrets. Your design system, your testing standards, your code style. The problem: AI Agents don’t know your conventions. So you explain it again on every prompt, paste in your standards doc, or just hope someone remembered to add the context. It is one of those small frictions that compounds quietly until you are spending more time re-teaching the Agent than actually building. Today we're launching Agent Customization: a way to give Replit Agent the context it needs to work the way you or your team actually works, across all proj",
     "imageUrl": "https://cdn.sanity.io/images/bj34pdbp/migration/8b78a603b3b559eedf0f543cb92e1661f58de80c-1012x506.png?w=1200&h=630&fit=max&fm=jpg"
   },
   {
@@ -406,8 +406,8 @@
     "sourceUrl": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
     "rawSummary": "News and updates from the ComfyUI Team. Click to read ComfyUI Newsletter, by Robin, a Substack publication with tens of thousands of subscribers.",
-    "publishedAt": "2026-09-01T01:36:05.080Z",
-    "crawledAt": "2026-09-01T01:36:05.080Z",
+    "publishedAt": "2026-09-01T15:15:32.553Z",
+    "crawledAt": "2026-09-01T15:15:32.553Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -425,8 +425,8 @@
     "sourceUrl": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:05.031Z",
-    "crawledAt": "2026-09-01T01:36:05.031Z",
+    "publishedAt": "2026-09-01T15:15:32.481Z",
+    "crawledAt": "2026-09-01T15:15:32.481Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -444,8 +444,8 @@
     "sourceUrl": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
     "rawSummary": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-    "publishedAt": "2026-09-01T01:36:07.119Z",
-    "crawledAt": "2026-09-01T01:36:07.119Z",
+    "publishedAt": "2026-09-01T15:15:34.633Z",
+    "crawledAt": "2026-09-01T15:15:34.633Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -463,8 +463,8 @@
     "sourceUrl": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
     "rawSummary": "Fallback crawler item. Live crawl was unavailable, so the pipeline preserved source coverage for local verification.",
-    "publishedAt": "2026-09-01T01:36:05.057Z",
-    "crawledAt": "2026-09-01T01:36:05.057Z",
+    "publishedAt": "2026-09-01T15:15:32.504Z",
+    "crawledAt": "2026-09-01T15:15:32.504Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -482,8 +482,8 @@
     "sourceUrl": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
     "rawSummary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "publishedAt": "2026-09-01T01:36:05.126Z",
-    "crawledAt": "2026-09-01T01:36:05.126Z",
+    "publishedAt": "2026-09-01T15:15:32.562Z",
+    "crawledAt": "2026-09-01T15:15:32.562Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -492,8 +492,26 @@
     ],
     "score": 0.85,
     "crawlStatus": "live",
-    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 2 days ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 6 days ago • 30 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • about 19 hours ago • 15 Modern LLMs: What the FLIP is an Engram!? Blackroot • 6 days ago • 12 Technical writing in the agentic era joelniklaus • about 13 hours ago • 9 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 906 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 31 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 5 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 5 days ago • 4 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 27 days ago • 94 Introducing the EdgeFirst Model Zoo EdgeFirst • 7 days ago • 8 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 10 days ago • 13 Writing Down the Line Between Luck and Skill FINAL-Bench • 8 days ago • 14 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 5 days ago • 3 Intel GPU AI Skills kushal-mittal • 5 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 4 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 399 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 42 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 103 August 26, 2026 Granite 4.2 LLMs: How They're Built 92 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 38 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 34 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 26 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 58 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 48 August 20, 2026 How Much Memory Does Your Agent Actually Need? 76 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 99 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 173 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 32 August 13, 2026 research community agents What We Learned by Reproducing 2,200 papers from ICML 107 August 13, 2026 Previous 1 2 3 ... 61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 2 days ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 6 days ago • 30 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • about 19 hours ago • 15 Modern LLMs: What the FLIP is an Engram!? Blackroot • 6 days ago • 12 Technical writing in the agentic era joelniklaus • about 13 hours ago • 9 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 906 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 31 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 5 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 5 days ago • 4 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 27 days ago • 94 Introducing the EdgeFirst Model Zoo EdgeFirst • 7 days ago • 8 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 10 days ago • 13 Writing Down the Line Between Luck and Skill FINAL-Bench • 8 days ago • 14 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 5 days ago • 3 Intel GPU AI Skills kushal-mittal • 5 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 4 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 399 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
+    "extractedText": "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 3 days ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 7 days ago • 31 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 1 day ago • 17 Modern LLMs: What the FLIP is an Engram!? Blackroot • 6 days ago • 12 Technical writing in the agentic era joelniklaus • 1 day ago • 10 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 907 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 31 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 5 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 5 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 400 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 28 days ago • 94 Introducing the EdgeFirst Model Zoo EdgeFirst • 8 days ago • 8 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 10 days ago • 13 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 6 days ago • 3 Intel GPU AI Skills kushal-mittal • 6 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 5 days ago • 3 Frontier-Assisted Single-Prompt Disposable Risk Assessment darkc0de • 2 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 inference javascript webgpu Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI 1 September 1, 2026 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 51 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 107 August 26, 2026 Granite 4.2 LLMs: How They're Built 93 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 41 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 34 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 26 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 60 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 48 August 20, 2026 How Much Memory Does Your Agent Actually Need? 76 August 18, 2026 nlp guide community Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 100 August 18, 2026 Same Cluster, 33 Points More Utilization: What Changed Was the Order 17 August 17, 2026 research community hub State of Open Models: Summer 2026 Observations 176 August 14, 2026 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 32 August 13, 2026 Previous 1 2 3 ... 61 Next Community Articles Sort: Trending NEW Articles from Team or Enterprise organizations will get promoted to the main section. Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 3 days ago • 41 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 7 days ago • 31 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 1 day ago • 17 Modern LLMs: What the FLIP is an Engram!? Blackroot • 6 days ago • 12 Technical writing in the agentic era joelniklaus • 1 day ago • 10 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 907 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 31 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 5 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 5 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 400 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 28 days ago • 94 Introducing the EdgeFirst Model Zoo EdgeFirst • 8 days ago • 8 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 10 days ago • 13 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 6 days ago • 3 Intel GPU AI Skills kushal-mittal • 6 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 5 days ago • 3 Frontier-Assisted Single-Prompt Disposable Risk Assessment darkc0de • 2 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 The Large Language Model Course mlabonne • Jan 16, 2025 • 233 View all articles System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs",
     "imageUrl": "https://huggingface.co/front/thumbnails/blog.png"
+  },
+  {
+    "id": "src_simonwillison-blog_1e10d6ed5279e6c1",
+    "sourceConfigId": "simonwillison-blog",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "sourceUrl": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+    "title": "Python 3.15.0 candidate 2 is here!",
+    "rawSummary": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...] We strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels on PyPI to be ready for the final release of 3.15.0, and to help other projects do their own testing. Any binary wheels built against Python 3.15.0 release candidates will work with future versions of Python 3.15. Back in 2021 I found a bug in Python 3.10 by running my test suites against it... but I hadn't done this during the RC period, so that bug had already shipped! Since then I've always paid much closer attention to these RCs. The new RC isn't available for GitHub Actions just yet - keep an eye on actions/python-versions for that. For the moment though you can add this to a testing matrix: strategy: matrix: python-version: [\"3.14\", \"3.15\"] steps: - uses: actions/setup-python@v7 with: python-version: ${{ matrix.python-version }} allow-prereleases: true check-latest: true And the allow-prereleases and check-latest flags should ensure that your test suite runs against RC2 as soon as it is added to GitHub. Via @hugovk.dev Tags: open-source , python , github-actions",
+    "publishedAt": "2026-09-01T14:59:18.000Z",
+    "crawledAt": "2026-09-01T15:15:32.502Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "score": 0.82,
+    "crawlStatus": "live",
+    "extractedText": "Python 3.15.0 candidate 2 is here! Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code. Catch bugs that only show up at runtime. Try it for free 1st September 2026 - Link Blog Python 3.15.0 candidate 2 is here! ( via ) Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...] We strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels on PyPI to be ready for the final release of 3.15.0, and to help other projects do their own testing. Any binary wheels built against Python 3.15.0 release candidates will work with future versions of Python 3.15. Back in 2021 I found a bug in Python 3.10 by running my test suites against it... but I hadn't done this during the RC period, so that bug had already shipped! Since then I've always paid much closer attention to these RCs. The new RC isn't available for GitHub Actions just yet - keep an eye on actions/python-versions for that. For the moment though you can add this to a testing matrix: strategy: matrix: python-version: [\"3.14\", \"3.15\"] steps: - uses: actions/setup-python@v7 with: python-version: ${{ matrix.python-version }} allow-prereleases: true check-latest: true And the allow-prereleases and check-latest flags should ensure that your test suite runs against RC2 as soon as it is added to GitHub. Posted 1st September 2026 at 2:59 pm Recent articles Understanding ChatGPT Work - 30th August 2026 Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 This is a link post by Simon Willison, posted on 1st September 2026 . open-source 317 python 1,280 github-actions 71 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
   },
   {
     "id": "src_simonwillison-blog_8989bf4a72f957d9",
@@ -504,7 +522,7 @@
     "title": "Introducing wrapture",
     "rawSummary": "Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture ( full documentation here ) makes it easy to wrap any function or method such that all access can be traced, or can be overridden to return a different value. It acts as both an alternative to unittest.mock and a way to implement tracing against an existing project: Attaching observation to code you do not control, recording what flows through it, and doing so without disturbing the program being watched, is a problem I have never really stopped thinking about. Wrapture includes OpenTelemetry support and even has an entirely configuration-based mechanism for adding tracing to an existing Python project, which looks like this: capture = \" summary \" [[ observe ]] target = \" domain:Calculator \" name = [ \" outer \" , \" inner \" ] [[ sink ]] type = \" jsonlines \" path = \" trace.jsonl \" This is still a very young project - just a few weeks old - but it's off to a very promising start. Interestingly, this is also Graham's first attempt at large entirely agent-driven project: Every line of code and documentation in wrapture was written by an AI assistant working under my direction. I want to be upfront about that, and equally upfront about what it was not. This was not vibe coding, where a one-shot prompt produces a pile of generated code and the person driving hopes for the best because they lack the knowledge to judge what came back. Vibe coding has earned its bad reputation. I engineered wrapture carefully from the start. I have spent a long time in this particular corner of Python and knew exactly what the result needed to be, and the AI was the means of producing it rather than the source of the design. In a follow-up post, Unit testing with wrapture , Graham shows the testing patterns supported by the new library: def test_stub_with_wrapture (): with wrapture . binding ( Gateway , \"charge\" ). on_call . returns ({ \"id\" : \"stub\" , \"amount\" : 0 } ): assert OrderService (). place ( 500 )[ \"id\" ] == \"stub\" And this neat example of a test that calls and then modifies the return value from the original method: def test_pinned_result_with_wrapture (): charge = wrapture . binding ( Gateway , \"charge\" ) charge . on_call . transforms_result ( lambda r : { ** r , \"id\" : \"ch_TEST\" } ) with charge : assert OrderService (). place ( 500 ) == { \"id\" : \"ch_TEST\" , \"amount\" : 500 } (In both of these examples the OrderService().place(...) method calls Gateway().charge(...) .) Tags: graham-dumpleton , monkey-patching , python , testing , pytest , observability , ai-assisted-programming , agentic-engineering , opentelemetry",
     "publishedAt": "2026-08-31T23:59:36.000Z",
-    "crawledAt": "2026-09-01T01:36:05.107Z",
+    "crawledAt": "2026-09-01T15:15:32.503Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -522,7 +540,7 @@
     "title": "Quoting Andrew Digby",
     "rawSummary": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered species is possible with sustained effort. &mdash; Andrew Digby , providing the best news of the year Tags: kakapo",
     "publishedAt": "2026-08-31T22:25:02.000Z",
-    "crawledAt": "2026-09-01T01:36:05.107Z",
+    "crawledAt": "2026-09-01T15:15:32.503Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -540,7 +558,7 @@
     "title": "Understanding ChatGPT Work",
     "rawSummary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud . If you install the ChatGPT desktop app - the app that used to be called Codex - you gain access to a thing called ChatGPT Work that can access files and run programs directly on your computer. Let's call that one Work Local . This one feels more like regular Codex re-skinned to be less intimidating to non-software-developers. ( Update : Work Cloud is also available from the ChatGPT desktop app, via a Where should this chat run? dropdown.) For the rest of this article I'm going to talk exclusively about Work Cloud. Work is for paid subscribers only Right now, ChatGPT Work (in both flavors) is available only to $20/month and up subscribers. Free users and $8/month Go users do not have access. Work has features that aren't available in Chat The interface for accessing Work is a tab selector, which presents it as an alternative to Chat: The obvious question is when should I use Chat, and when should I use Work? OpenAI's official answer to that question is: Use Chat when you want an answer, explanation, brainstorm, or short draft. Use ChatGPT Work when you want ChatGPT to complete a task with a clear outcome, such as a brief, deck, analysis, recurring update, workflow, or file you can review and use. I find that almost entirely useless, because I've been using regular ChatGPT Chat for all of those task categories for years! The better question then is what features does Work have that are missing from Chat? After extensive experimentation I think I've mostly figured that out: Options to use Luna and Terra in place of Sol A code execution environment with Internet access A headless Chrome browser A persistent filesystem shared between sessions The ability to publish ChatGPT Sites The ability to run sub-agent sessions with Sol, Luna, and Terra Scheduled prompt automations (may be in ChatGPT Chat too) Model selection In Work, you get the option to pick GPT-5.6 Sol, Luna, or Terra, each with Light, Medium, High, Extra High, Max, or Ultra reasoning levels. You can also pick GPT-5.5 at Light, Medium, High, or Extra High. These look to be the same models that are available through the OpenAI API. Chat offers a different selection: 5.6 Instant, Medium, High, Extra High, and Pro (actually Extra High and Pro are only available for $100/month+ subscribers - $20/month subscribers cap out at High). It doesn't explain if those are Luna or Terra or Sol (I'm assuming Sol?). 5.6 Pro appears to be exclusive to Chat, with no equivalent in Work. My current understanding from using Codex is that Ultra is a special mode that more eagerly delegates to sub-agents. I believe ChatGPT Work sessions are billed against your Codex allowance, while ChatGPT Chat Sessions get their own, separate allowance. This may help explain the model availability differences. Code execution with Internet access! As a long-time fan of the Code Interpreter pattern - pioneered by OpenAI in 2023 - this is by far the most exciting feature of ChatGPT Work (Cloud) for me. The code execution environment can now talk to the rest of the internet! ChatGPT Chat can't do this - if you ask it to install additional software packages or interact with websites or APIs that access will be blocked by the container proxy. (Weirdly, back in January it grew the ability to install packages , but that doesn't seem to work any more. I wish they had better changelogs!) Claude's equivalent container has allowed restricted internet access since it launched last September . Claude can install packages from PYPI and NPM and clone repositories from GitHub. But that is about it: the allowlist of domains is very short. ChatGPT Work allows a whole lot more than that. It can be configured with a specific list of allowed domains, but the default appears to be open to all. This makes Work an incredibly useful tool. You can have it clone GitHub repositories, install their dependencies, then use them to interact with the rest of the web! A full, headless Chrome browser Another killer feature of ChatGPT Work is the browser tool . ChatGPT Work can launch a full Chrome instance, load websites, fill out forms, and take screenshots. If a site requires sign in the browser can prompt you to take over and enter both passwords and 2FA codes, without round-tripping those credentials through the model itself. It can even run JavaScript against the DOM of loaded pages. I prompted: Load simonwillison.net in your browser and extract the headings using JavaScript ChatGPT Work fired up a browser instance and ran the code: await tab . playwright . evaluate ( ( ) => { return Array . from ( document . querySelectorAll ( \"h1,h2,h3,h4,h5,h6\" ) , heading => ( { level : heading . tagName . toLowerCase ( ) , text : heading . innerText . trim ( ) . replace ( / \\s + / g , \" \" ) , id : heading . id || null } ) ) ; } ) ; This feels a lot like my shot-scraper javascript tool, only now I can access it on my phone! A persistent, shared filesystem ChatGPT Chat gets a fresh filesystem for each chat session. These cannot be accessed from any other session. In ChatGPT Work each session gets its own scratch folder - named something like /workspace/scratch/e00a0a017944 - but each of those are persisted across sessions, so you can access files from previous chats. I have 171 folders in /workspace/scratch right now! As far as I can tell that /workspace volume is mounted to all Work sessions that are currently running - file edits from one can be instantly seen by the others. They don't seem to share the same process space though, and localhost servers running in one can't be accessed from another. ChatGPT Sites ChatGPT Work has the ability to build and deploy entire websites, using Cloudflare Workers. These can have HTML and JavaScript and can run server-side features too, including stateful features on top of Cloudflare D1 and R2. Here's a simple site I built with this feature: london-pelicans-in-her-piety.simonw.chatgpt.site My prompt was: Figure out all of the places in London with a pelican in her piety, then turn that into a JSON file and build a ChatGPT sites site about them (A pelican in her piety is a fascinating piece of medieval Christian imagery - once you know about them you'll find them all over the place.) These sites default to being private to the user that created them, but you can make them public and (on team plans) share them with other specific individuals. Sub-agents with Sol, Luna, and Terra There's not much to say about this one. ChatGPT Chat can't run sub-agents. ChatGPT Work can. This is very much a power-user feature: if you are running a complex project that can benefit from multiple parallel agents working together, Work can do that. Scheduled prompt automations Another feature that seems to have migrated from regular ChatGPT to ChatGPT Work at some point. You can prompt ChatGPT Work like this: run a search to see if Waymo have announced a launch date for Half Moon Bay every day at 8am This will schedule a prompt to run on that frequency. These prompts can decide that nothing interesting has happened, or they can decide to notify you of some new information. Update : Actually this seems to work in ChatGPT Chat as well. It's still worth noting here though, as it can be used in conjunction with other ChatGPT Work exclusive features. You can set a scheduled task to update a ChatGPT Site on an hourly basis, for example. Is this safe? An open question for me right now is how safe all of this stuff is. My lethal trifecta model warns about the risks inherent in any agent system that combines access to private data with exposure to untrusted content and a way to communicate stolen information back to an attacker. ChatGPT Work combines all three! I'd love to hear more from OpenAI about how they protect ChatGPT Work sessions against prompt injection attacks. I expect their answer is the same auto-review mechanism as Codex. OpenAI could make this a lot less confusing Figuring this all out took way more work than it should have. I think there are two key problems here: OpenAI explain Work in terms of what it's for, not what it actually does OpenAI still insist on hiding their system prompts and tools descriptions If the ChatGPT Work documentation included the exact system prompt and tool descriptions used by the agent I wouldn't have needed to write this post. A list of all the tools Shortly after publishing this article I had an idea. I started a fresh Work session and prompted: Build a site that lists every one of your tools - nearly grouped into categories - and for each one explain what it does. Try to exactly duplicate arguments and tool descriptions where possible. Design aesthetic should be technical docs, minimal flare Here's the site it built , which includes details of 223 registered tools - though 6 of those are from my own personal MCPs served via datasette-mcp . And a whole lot of Skills I noticed that the only browser-related tool in the list was web.run , which has methods for running searches, opening URLs, and clicking links, but didn't look like the full story in regards to headless browser automation. This made me suspicious that something was missing, so I told the ChatGPT Work session that built that tools reference site: Add full copies of every skill to the website (separate pages linked to from the homepage) It turns out ChatGPT Work uses a lot of skills - 44 in fact! The control-browser skill explains how the browser works: Run browser setup code through the Node REPL js tool. In this environment the callable tool id typically appears as mcp__node_repl__js . [...] The ability to interact directly with the browser is exposed through the browser-client runtime via the agent.browsers.* API. Before trying to interact with it, you MUST emit and read the complete documentation returned by await browser.documentation() in one go. So I told Work: Add the full output of await browser.documentation() to the bottom of the /skills/control-browser page And now you can read that on /skills/control-browser as well. A few more interesting Skills: documents for creating .docx files imagegen with tips on creating images with the image_gen tool pdf for both reading and rendering PDFs Spreadsheets for manipulating .xlsx , .xls , .csv , .tsv sites:sites-building for creating ChatGPT Sites openai-docs for answering questions about itself data-analytics:build-dashboard for building data dashboards Tags: ai , openai , generative-ai , chatgpt , llms , code-interpreter , lethal-trifecta , skills , general-agents",
     "publishedAt": "2026-08-30T23:59:47.000Z",
-    "crawledAt": "2026-09-01T01:36:05.107Z",
+    "crawledAt": "2026-09-01T15:15:32.503Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -557,7 +575,7 @@
     "title": "Introducing Hy4 Preview",
     "rawSummary": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates to better understand their capabilities. Here's Hy4's chat_template.jinja on Hugging Face, which includes this section: {% - if not reasoning_effort is defined %} {% - set reasoning_effort = 'high' %} {% - elif reasoning_effort not in [ 'high' , 'no_think' ] %} {% - if reasoning_effort is none %} {{- raise_exception('reasoning_effort error : None, should be no_think/high') }} {% - else %} {{- raise_exception('reasoning_effort error : ' + reasoning_effort + ', should be no_think/high') }} {% - endif %} {% - endif %} So it looks like there are just two reasoning effort levels: \"high\" (the default) and \"no_think\" (reason by disabled). I tried my \"Generate an SVG of a pelican riding a bicycle\" prompt with the default high reasoning via OpenRouter and got this : Quoting the reasoning trace: [...] Let's maybe add a helmet? It could improve riding theme, but may obscure head. Maybe a small cycling cap or helmet? The user didn't ask; can add red helmet? Might be cute. But pelican with big beak; a helmet might obscure. Better maybe no. Maybe add sunglasses? no. Maybe add water? no. It's interesting how the reasoning trace uses slightly truncated English, presumably because perfect grammar isn't useful or token efficient for hidden reasoning text. Tags: ai , generative-ai , llms , pelican-riding-a-bicycle , llm-reasoning , llm-release , ai-in-china",
     "publishedAt": "2026-08-29T23:53:13.000Z",
-    "crawledAt": "2026-09-01T01:36:05.108Z",
+    "crawledAt": "2026-09-01T15:15:32.503Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -568,24 +586,6 @@
     "imageUrl": "https://static.simonwillison.net/static/2026-08-29/IMG_7725.jpeg"
   },
   {
-    "id": "src_simonwillison-blog_a6a3a9c7fc2b8f43",
-    "sourceConfigId": "simonwillison-blog",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "sourceUrl": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-    "title": "Just a rumour of a bug is enough to find a security exploit these days",
-    "rawSummary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding probes for percent-encoded traversal sequences, indicating that automated watchers are keeping an eye on public repositories. Modern coding agents have become so effective at finding flaws that the slightest hint at a new bug can be enough information for them to find it, something Anil has been able to demonstrate using his own agents, switching to DeepSeek V4 Pro⁠ when Claude Fable refused the task. Anil points out that this rate of discovery appears incompatible with existing open source embargo practices for new issues. If an issue can become an exploit this fast, we need to figure out new processes for keeping our communities safe. rclone maintainer Nick Craig-Wood confirms in the Hacker News comments that his project is seeing this problem: In the first 10 years of the rclone project we received about 20 security disclosures through GitHub. We had to deal with over 40 in the last month! That has taken a huge amount of my time, even using AI tools to triage and come up with fixes for review. The hit rate for those security disclosures is pretty good - about 75% of them have a nugget of something which needs looking at. [...] GitHub assigns CVEs for the advisories. Before the AI apocalypse they took 2-3 days for an assignment but now it they are running at 3-4 weeks so I have to send the point releases out with CVE-PENDING in the changelog which isn't ideal. Via Hacker News Tags: open-source , security , ai , generative-ai , llms , coding-agents , ocaml , ai-security-research",
-    "publishedAt": "2026-08-28T22:12:02.000Z",
-    "crawledAt": "2026-09-01T01:36:05.108Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "score": 0.82,
-    "crawlStatus": "live",
-    "extractedText": "Just a rumour of a bug is enough to find a security exploit these days Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code. Catch bugs that only show up at runtime. Try it for free 28th August 2026 - Link Blog Just a rumour of a bug is enough to find a security exploit these days ( via ) Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding probes for percent-encoded traversal sequences, indicating that automated watchers are keeping an eye on public repositories. Modern coding agents have become so effective at finding flaws that the slightest hint at a new bug can be enough information for them to find it, something Anil has been able to demonstrate using his own agents, switching to DeepSeek V4 Pro⁠ when Claude Fable refused the task. Anil points out that this rate of discovery appears incompatible with existing open source embargo practices for new issues. If an issue can become an exploit this fast, we need to figure out new processes for keeping our communities safe. rclone maintainer Nick Craig-Wood confirms in the Hacker News comments that his project is seeing this problem: In the first 10 years of the rclone project we received about 20 security disclosures through GitHub. We had to deal with over 40 in the last month! That has taken a huge amount of my time, even using AI tools to triage and come up with fixes for review. The hit rate for those security disclosures is pretty good - about 75% of them have a nugget of something which needs looking at. [...] GitHub assigns CVEs for the advisories. Before the AI apocalypse they took 2-3 days for an assignment but now it they are running at 3-4 weeks so I have to send the point releases out with CVE-PENDING in the changelog which isn't ideal. Posted 28th August 2026 at 10:12 pm Recent articles Understanding ChatGPT Work - 30th August 2026 Conceptual integrity and counting lines of code - 19th August 2026 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 This is a link post by Simon Willison, posted on 28th August 2026 . open-source 316 security 628 ai 2,207 generative-ai 1,956 llms 1,923 coding-agents 242 ocaml 5 ai-security-research 38 Monthly briefing Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments. Pay me to send you less! Sponsor & subscribe Disclosures Colophon &copy; 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
-  },
-  {
     "id": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceConfigId": "lilianweng-blog",
     "sourceType": "blog",
@@ -593,8 +593,8 @@
     "sourceUrl": "https://lilianweng.github.io/",
     "title": "Lil'Log",
     "rawSummary": "Document my learning notes.",
-    "publishedAt": "2026-09-01T01:36:05.119Z",
-    "crawledAt": "2026-09-01T01:36:05.119Z",
+    "publishedAt": "2026-09-01T15:15:32.524Z",
+    "crawledAt": "2026-09-01T15:15:32.524Z",
     "categoryHints": [
       "ai-agentic"
     ],
