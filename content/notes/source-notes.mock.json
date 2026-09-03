@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-09-02T00:47:40.678Z",
+    "publishedAt": "2026-09-03T00:55:27.065Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-09-02T00:47:40.331Z",
+    "publishedAt": "2026-09-03T00:55:26.329Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -59,12 +59,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_openai-blog_2026-09-02_fallback",
+    "sourceId": "src_openai-blog_2026-09-03_fallback",
     "sourceType": "blog",
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-09-02T00:47:40.027Z",
+    "publishedAt": "2026-09-03T00:55:26.147Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -86,12 +86,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_mcp-blog_2026-09-02_fallback",
+    "sourceId": "src_mcp-blog_2026-09-03_fallback",
     "sourceType": "blog",
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-09-02T00:47:40.284Z",
+    "publishedAt": "2026-09-03T00:55:26.536Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -113,12 +113,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_34783379f90f9b51",
+    "sourceId": "src_reddit-aiagents_169d04a591ad1fdd",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1vz16hl/weekly_thread_project_display/",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w5ehca/weekly_thread_project_display/",
     "title": "Weekly Thread: Project Display",
-    "publishedAt": "2026-08-26T16:00:34.000Z",
+    "publishedAt": "2026-09-02T16:00:42.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -131,7 +131,7 @@
       {
         "text": "Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1vz16hl/weekly_thread_project_display/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w5ehca/weekly_thread_project_display/"
       }
     ],
     "usableFor": [
@@ -167,26 +167,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_62a93e84c3080e7e",
+    "sourceId": "src_reddit-aiagents_4ee077facaea9f86",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w4ru2v/is_cresta_a_good_ai_agent/",
-    "title": "Is Cresta a good AI agent?",
-    "publishedAt": "2026-09-01T22:22:22.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w587wo/if_you_believe_a_19_year_old_makes_300k_a_month/",
+    "title": "If you believe a 19 year old makes $300k a month from an AI agency you deserve to get scammed by his course.",
+    "publishedAt": "2026-09-02T11:56:08.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "We’re a pretty big team and looking to implement an AI agent for a lot of the repetitive work in our contact center.",
-      "This is one of the tools we’ve been looking at and so far most of the reviews seem pretty good.",
-      "Im interested on how it handles real contact center workloads and whether the setup is worth it.",
-      "Just wanted to get some opinions from people who have used it before we go any further."
+      "I need to get this off my chest because it's been building for months.",
+      "Every other video in my feed now is some 18 or 19 year old kid saying he's doing $200k, $300k a month from his AI automation agency.",
+      "By selling to small businesses apparently.",
+      "And it's mindboggling to me because I know it's a lie, I know it's deliberate, and I know exactly who it's hurting."
     ],
     "claims": [
       {
-        "text": "We’re a pretty big team and looking to implement an AI agent for a lot of the repetitive work in our contact center. This is one of the tools we’ve been looking at and so far most of the reviews seem pretty good. Im interested on how it handles real contact center workloads and whether the setup is worth it. Just wanted to get some opinions from people who have used it before we go any further. submitted by /u/Big-Speaker9344 [link] [comments]",
+        "text": "I need to get this off my chest because it's been building for months. Every other video in my feed now is some 18 or 19 year old kid saying he's doing $200k, $300k a month from his AI automation agency. By selling to small businesses apparently. And it's mindboggling to me because I know it's a lie, I know it's deliberate, and I know exactly who it's hurting. Some context so you know I'm not just bitter. I've run an Agency for about 8 years now, we started with SaaS MVPs, GTM and recently transitioned to AI Automations. And its not a side thing for me. Here are my actual numbers. A bit over $120k in that first year of building AI Automations. The best month I ever had was $35k. Once. Most months land somewhere between $10k and $15k. That's with a full pipeline and me working on it every single day. I'm telling you that so you have a reference point. That's a full year in with paying clients. And it's a tenth of what these kids claim on a slow month. I've worked with small businesses. I promise you they are not paying a teenager $300k a month for automations. A small business owner will push back on a four figure retainer. They'll ask you to explain it to their tech savy small kid first (this has happened to me once lol). That's the reality of that market. And think about it for one second. If you were doing $300k a month in automation work you would not have time to film a YouTube video and ask me to sign up for your newsletter. It does not make sense. The companies I've seen actually doing that number are real companies with sales teams and long sales cycles and people who've been in B2B for a decade. The kid with the ring light and the Notion template is not one of them. Is it possible to make that much? Sure. Maybe 0.1% of people who try. And the ones who do don't look anything like these videos. What actually pisses me off is what this does to the market. This is an incredible field. Every business is going to need some kind of AI in it and there's real money in building that. And then someone who's serious about it watches one of these videos, quits their job and makes $0 for three months and decides they're the problem. The kid who sold them the dream lost nothing. That's the part I can't get over. I'm only writing this because people keep DMing me the same question. Is this real, have you ever made this much. And I'd rather answer it once in public than keep typing the same reply. So here's the answer. They're lying. I'd bet money on it and I'm saying that from experience. If you want that kind of money out of this industry it's going to take years of hard work, same as any other industry. There's no lottery ticket in here. Rant over. Be careful who you learn from. TLDR: a year running an AI agency full time, best month $35k and most months $10-15k. The teenagers claiming $300k a month from small businesses are lying and it's hurting people who actually want to do this. submitted by /u/Warm-Reaction-456 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w4ru2v/is_cresta_a_good_ai_agent/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w587wo/if_you_believe_a_19_year_old_makes_300k_a_month/"
       }
     ],
     "usableFor": [
@@ -196,26 +196,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_6f0c52459cae9051",
+    "sourceId": "src_reddit-aiagents_6d032af9d7c30186",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w4iw3m/senior_ai_engineering_interviews_arent_definition/",
-    "title": "Senior AI engineering interviews aren't definition questions. They're \"your system just broke in prod, talk me through it.\"",
-    "publishedAt": "2026-09-01T17:33:32.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w5ora1/my_client_thinks_the_agent_does_the_work_its_me/",
+    "title": "My client thinks the agent does the work. It's me at 11pm.",
+    "publishedAt": "2026-09-02T22:04:41.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Been going through AI/LLM interview prep material for a while and most of it plateaus early.",
-      "Fine for a first screen, useless for anything senior.",
-      "The interviews I've actually sat in — on both sides of the table — look nothing like that.",
-      "They look like: Accuracy is fine in staging, drops in production."
+      "I sell automation to small companies and I have a confession.",
+      "For one client the agent handles their supplier orders, and on paper it's been running flawlessly for four months.",
+      "The truth is that about twice a week it gets stuck on something stupid, a date picker that changed, a session that expired, and my phone buzzes and I fix it by hand in ninety seconds before anyone notices.",
+      "They pay for a robot and they are getting a robot plus a very tired man."
     ],
     "claims": [
       {
-        "text": "Been going through AI/LLM interview prep material for a while and most of it plateaus early. Define RAG. Define an embedding. Explain prompt engineering. Fine for a first screen, useless for anything senior. The interviews I've actually sat in — on both sides of the table — look nothing like that. They look like: Accuracy is fine in staging, drops in production. Where do you start looking? Latency went from 2s to 8s overnight, nothing in the code changed. Spend went up 4× and nobody can say why. Your agent is in an infinite tool loop. Four teams have independently built four RAG platforms and now you own all of them. Frontier model vs. small model vs. fine-tuned — defend the pick with numbers. Security says customer data can't leave the VPC. Redesign. And they don't stop at your first answer. You design the thing, then it's \"traffic is 15× now,\" then \"costs tripled,\" then \"the provider is having an outage,\" then \"accuracy is down 15%.\" The point isn't the answer, it's whether your reasoning survives the constraints changing under you. Coding rounds are the same story. Less LeetCode, more: write an LLM client with retry/backoff, build async inference with cancellation, implement rate limiting, build an eval harness, write an agent loop that terminates. Happy path is table stakes. What they're watching for is timeouts, backpressure, failure modes, observability. So I started writing all of this down as scenarios with worked reasoning rather than answer keys — open source, still rough in places. Checkout link in the comments submitted by /u/imlaleeth [link] [comments]",
+        "text": "I sell automation to small companies and I have a confession. For one client the agent handles their supplier orders, and on paper it's been running flawlessly for four months. The truth is that about twice a week it gets stuck on something stupid, a date picker that changed, a session that expired, and my phone buzzes and I fix it by hand in ninety seconds before anyone notices. They pay for a robot and they are getting a robot plus a very tired man. I'm not even mad about the ninety seconds, I'm mad that every fix I do dies with me and the agent is exactly as dumb the next morning. Does anyone else have a client who has no idea how much of their \"automation\" is you? submitted by /u/0CTAVERSE [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w4iw3m/senior_ai_engineering_interviews_arent_definition/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w5ora1/my_client_thinks_the_agent_does_the_work_its_me/"
       }
     ],
     "usableFor": [
@@ -225,26 +225,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_04cf6ee8f1b04259",
+    "sourceId": "src_reddit-aiagents_75a5c6aba60319c6",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w4ko4y/there_are_3749_airun_news_sites_now_and_most_of/",
-    "title": "There are 3,749 AI-run news sites now and most of them aren't written for humans at all.",
-    "publishedAt": "2026-09-01T18:34:14.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w5dcep/the_better_local_models_get_the_harder_it_is_to/",
+    "title": "The better local models get, the harder it is to justify buying a box to run them on.",
+    "publishedAt": "2026-09-02T15:19:18.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Yea just imagine what if they start scraping each other, or chatgpt gets trained on the same slip that it generated.",
-      "I was reading pratham mittal’s newsletter.",
-      "there is a platform that apparently tracks fully automated news sites and the count is past 3,749 now, across 16 languages.",
-      "a lot of these aren't chasing human readers at all."
+      "I've done this math with enough clients so I'm fairly confident in it.",
+      "The pitch arrives about once a month and does not change.",
+      "The API bill is annoying) The free model is better, so buy a machine, run it and stop paying rent.",
+      "What they miss is that the rented option improves at the same rate."
     ],
     "claims": [
       {
-        "text": "Yea just imagine what if they start scraping each other, or chatgpt gets trained on the same slip that it generated. I was reading pratham mittal’s newsletter. there is a platform that apparently tracks fully automated news sites and the count is past 3,749 now, across 16 languages. the business model really got me. a lot of these aren't chasing human readers at all. They publish so they get picked up by aggregators and other bots, and the ad impressions come off machine traffic. Closest analogy i can think of is stale cache propagating through layers because nobody set an invalidation strategy. except the origin here is a human who wrote a thing once and then moved on with their life. Anyway, the newsletter framed it as a content problem, but i think it's an infra problem. so asking people who deal with this properly: is there anything technical solution that can push back? submitted by /u/Exact_Importance_507 [link] [comments]",
+        "text": "I know how that sounds. I've done this math with enough clients so I'm fairly confident in it. The pitch arrives about once a month and does not change. (Open models are good now. The API bill is annoying) The free model is better, so buy a machine, run it and stop paying rent. That's the part that tricks people. What they miss is that the rented option improves at the same rate. Whatever makes a local model good enough this month shows up on a dozen hosting providers a few weeks later and all of them undercutting each other on price per token. Open weights means the file is free. Somebody with 10000 GPUs will run that same file for you cheaper than your one card can because their card is busy all day and yours is busy for about 50 mins. Better models also burn less compute per job. A smarter small model matches invoices faster and in fewer retries, which sounds good until you notice it means the box is now busy forty minutes a day instead of fifty. Utilization is basically the whole argument for owning the hardware and every model release chips at it a little more. The bit people underestimate is that the box stops improving the day it arrives. The model that justified the purchase gets replaced in six months by one that needs more memory than the card. You're either running last year's paid model on a machine or renting the new one anyway. Most people do both and they pay twice. And depreciation costs roughly 390 bucks per month regardless of whether the machine is busy or not. Rent charges you for the minutes you use. The box charges you for the month no matter what. If the workload runs an hour a day, that gap is the whole business case and nothing else really matters. Last month I did this for a parts distributor. His rented model costs 170 bucks a month and was busy 17 hours out of 720. He would have paid about $390 a month before power and before the contractor called when the closet went quiet and he still thinks the resale value is wrong. The pushback I get most is lock in. What if the provider raises prices? with a closed model that's a real concern. With open weights, you can move the same model to a different host in an afternoon and there are always three of them undercutting whoever you're on. So when does buying make sense? When the data can't leave the building (legally or contractually) Or when the card would be busy most of every day which for a back office process basically never happens and for a product doing continuous inference sometimes does. In either case just buy it. Just put \"control\" or \"capacity\" on the slide and take the word \"savings\" off because that's not what you're getting. TLDR: a better local model is also a better rented model, and rented prices keep falling. Better models also need less compute per job, so the box sits idle more as the field improves and it costs the same per month either way. Buy when the data can't leave the building or you'd actually saturate the card. Otherwise rent and stop calling the box a saving. submitted by /u/Warm-Reaction-456 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w4ko4y/there_are_3749_airun_news_sites_now_and_most_of/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w5dcep/the_better_local_models_get_the_harder_it_is_to/"
       }
     ],
     "usableFor": [
@@ -254,12 +254,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_stability-ai-blog_2026-09-02_fallback",
+    "sourceId": "src_stability-ai-blog_2026-09-03_fallback",
     "sourceType": "blog",
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-09-02T00:47:40.127Z",
+    "publishedAt": "2026-09-03T00:55:26.325Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +285,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-09-02T00:47:40.718Z",
+    "publishedAt": "2026-09-03T00:55:26.927Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +314,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-09-02T00:47:40.524Z",
+    "publishedAt": "2026-09-03T00:55:26.316Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -340,12 +340,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-stablediffusion_2026-09-02_fallback",
+    "sourceId": "src_reddit-stablediffusion_2026-09-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-09-02T00:47:40.165Z",
+    "publishedAt": "2026-09-03T00:55:26.263Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -367,12 +367,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-comfyui_2026-09-02_fallback",
+    "sourceId": "src_reddit-comfyui_2026-09-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-09-02T00:47:40.157Z",
+    "publishedAt": "2026-09-03T00:55:26.474Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,15 +399,15 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-09-02T00:47:40.566Z",
+    "publishedAt": "2026-09-03T00:55:27.056Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "AI Video Research & Innovation | Runway AI Creative Dev Robotics Research Resources Enterprise Pricing Enterprise Sales Login Try Runway Our Research Building general-purpose multimodal simulators of the world.",
       "We believe models that use video as their main input/output modality, when supplemented by other modalities like text and audio, will form the next paradigm of computing.",
-      "Latest news from our research Research from Runway July 19, 2026 Runway Characters: Real-Time Expressive AI Characters from a Single Image by Michail Doukas, Taras Khakhulin, Kathleen Lewis, Yining Shi, Michael Tarasiou, Jimei Yang + 28 authors Runway Characters transforms a single reference image of any style, from photorealistic human to cartoon mascot, to a real-time conversational video agent.",
-      "The system produces audio-synchronized facial animation — including lip-sync, gaze dynamics, head movement and secondary motion — from the conditioned audio and the reference image at 24fps in HD resolution."
+      "Latest news from our research Research from Runway September 1, 2026 Solaris: Towards Interfaces That Are Generated, Not Coded by Yuval Alaluf, Omri Avrahami, Anastasis Germanidis, Michal Geyer, Kfir Goldberg, Guy Bukchin Leshem, Alejandro Matamala Ortiz, Elad Richardson + 13 authors Digital interfaces are traditionally implemented through intermediate representations such as code, requiring their appearance and behavior to be specified in advance.",
+      "We introduce Solaris, an interface world model that instead generates an interactive UI directly, frame by frame, in response to user actions."
     ],
     "claims": [
       {
@@ -428,7 +428,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-09-02T00:47:40.705Z",
+    "publishedAt": "2026-09-03T00:55:27.051Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -457,14 +457,14 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-09-02T00:47:40.889Z",
+    "publishedAt": "2026-09-03T00:55:27.730Z",
     "categoryHints": [
       "ai-video"
     ],
     "keyFacts": [
       "News | Luma Luma company logo Product Pricing API Enterprise News Join us Sign In News Get the latest Luma AI news, updates, and innovations.",
       "Stay informed on new features, AI advancements, and industry trends in video and 3D creation.",
-      "Subscribe to Press Updates All Company Product Engineering Blog Blog Sep 1, 2026 Higgsfield Review 2026: Is It the Right AI Video Tool?",
+      "Subscribe to Press Updates All Company Product Engineering Blog Product Sep 2, 2026 Luma AI to Launch Native Arabic-Language Interface for Saudi and Arabic-Speaking Creative Community Blog Sep 1, 2026 Higgsfield Review 2026: Is It the Right AI Video Tool?",
       "Blog Sep 1, 2026 Runway AI 2026: Features, Pricing, and Best Alternatives Blog Sep 1, 2026 Kling Review 2026: Is It the Best AI Video Generator?"
     ],
     "claims": [
@@ -481,12 +481,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_reddit-aivideo_2026-09-02_fallback",
+    "sourceId": "src_reddit-aivideo_2026-09-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-09-02T00:47:40.212Z",
+    "publishedAt": "2026-09-03T00:55:26.505Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -513,15 +513,15 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-09-02T00:47:40.611Z",
+    "publishedAt": "2026-09-03T00:55:27.230Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models ↓ Grok Evals Product ↓ Agents Cloud Grok Bot ↗ Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Aug 27, 2026 · Changelog Start from scratch, without a repo Cloud Agents no longer require a connected GitHub or other third-party SCM provider to get started.",
-      "Prompt from the get-go, then save your work to a Cursor Origin repo.",
-      "# Get started Select Start from scratch in the repo picker, then prompt the agent.",
-      "In the background, Cursor creates an Origin repo for you."
+      "What's New in Cursor — Latest Updates & Release Notes Skip to content Cursor Models ↓ Grok Evals Product ↓ Agents Cloud Grok Bot ↗ Mobile Automations CLI Marketplace ↗ Review Enterprise Pricing Resources ↓ Changelog Blog Docs Community Help ↗ Workshops Forum ↗ Careers Models → Product → Enterprise Pricing Resources → Sign in Contact Contact sales Download Changelog Sep 2, 2026 · Changelog Self-hosted machines Cursor supports self-hosted machines , which let you keep tool execution entirely in your own network.",
+      "Your codebase, build outputs, and secrets all stay on internal machines running in your infrastructure, while the agent handles tool calls locally.",
+      "# Dynamic pool scheduling My Machines connects a single laptop or VM to your account for personal workflows.",
+      "Team pools are named queues of workers for a team or enterprise."
     ],
     "claims": [
       {
@@ -542,7 +542,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-09-02T00:47:40.219Z",
+    "publishedAt": "2026-09-03T00:55:26.543Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -566,12 +566,12 @@
     "copyrightRisk": "medium"
   },
   {
-    "sourceId": "src_vercel-ai-blog_2026-09-02_fallback",
+    "sourceId": "src_vercel-ai-blog_2026-09-03_fallback",
     "sourceType": "blog",
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-09-02T00:47:40.816Z",
+    "publishedAt": "2026-09-03T00:55:26.962Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -598,7 +598,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-09-02T00:47:40.885Z",
+    "publishedAt": "2026-09-03T00:55:27.106Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -627,7 +627,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-09-02T00:47:40.449Z",
+    "publishedAt": "2026-09-03T00:55:26.708Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -652,12 +652,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-midjourney_2026-09-02_fallback",
+    "sourceId": "src_reddit-midjourney_2026-09-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-09-02T00:47:40.319Z",
+    "publishedAt": "2026-09-03T00:55:26.640Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -684,7 +684,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-09-02T00:47:44.302Z",
+    "publishedAt": "2026-09-03T00:55:28.522Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -709,12 +709,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-mediasynthesis_2026-09-02_fallback",
+    "sourceId": "src_reddit-mediasynthesis_2026-09-03_fallback",
     "sourceType": "reddit",
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-09-02T00:47:40.387Z",
+    "publishedAt": "2026-09-03T00:55:26.686Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -741,7 +741,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-09-02T00:47:40.429Z",
+    "publishedAt": "2026-09-03T00:55:26.809Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -749,10 +749,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 3 days ago • 42 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 2 days ago • 17 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 7 days ago • 31 Modern LLMs: What the FLIP is an Engram!?",
-      "Blackroot • 7 days ago • 12 Technical writing in the agentic era joelniklaus • 1 day ago • 11 Did the Civilization Emerge, or Was It Recited?",
-      "FINAL-Bench • 1 day ago • 8 Evaluating LLMs Under Production Parity: A Replay Pipeline for Safe Model Swapping in Conversational Agents TechforHumans • about 10 hours ago • 8 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 907 Agentic RL: Token-In, Token-Out Done Right huggingface • May 29 • 31 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 11 days ago • 14 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 6 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 6 days ago • 4 Frontier-Assisted Single-Prompt Disposable Risk Assessment darkc0de • 2 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 400 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 19 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 28 days ago • 94 EgoSuite-Open100K: 100,000 hours of egocentric human data for Physical AI LightwheelAI • 6 days ago • 3 Intel GPU AI Skills kushal-mittal • 6 days ago • 3 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 5 days ago • 3 ColPali: Efficient Document Retrieval with Vision Language Models 👀 manu • Jul 5, 2024 • 329 BenchMIRT: What are LLM benchmarks actually measuring?",
-      "September 1, 2026 inference javascript webgpu Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI 17 September 1, 2026 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 51 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 108 August 26, 2026 Granite 4.2 LLMs: How They're Built 94 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 42 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 35 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 27 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 61 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 48 August 20, 2026 How Much Memory Does Your Agent Actually Need?"
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 4 days ago • 43 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 3 days ago • 19 Technical writing in the agentic era joelniklaus • 3 days ago • 12 Evaluating LLMs Under Production Parity: A Replay Pipeline for Safe Model Swapping in Conversational Agents TechforHumans • 1 day ago • 12 Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale Qdrant • 1 day ago • 9 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 910 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 8 days ago • 31 Modern LLMs: What the FLIP is an Engram!?",
+      "Blackroot • 8 days ago • 12 Did the Civilization Emerge, or Was It Recited?",
+      "FINAL-Bench • 3 days ago • 8 Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States KangLiao • about 12 hours ago • 7 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • 29 days ago • 96 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 12 days ago • 14 TAVR: Generate Your Talking Avatar from Video Reference HeyGenAI • 7 days ago • 4 TransVLM: Detecting Any Shot Transition with Vision-Language Models HeyGenAI • 7 days ago • 4 Frontier-Assisted Single-Prompt Disposable Risk Assessment darkc0de • 3 days ago • 4 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 401 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 97 The Best Open Source and Open-Weight LLM Models to Run Locally in 2026 daya-shankar • May 13 • 20 Stop Abusing Git for ML Data: The Architect’s Guide to AI Storage prpatel • 6 days ago • 3 From watching AI-Generated worlds to exploring them with H3 zuanfilm • 2 days ago • 3 Real-Time Intelligence with IBM Time Series Models on Confluent 25 September 2, 2026 BenchMIRT: What are LLM benchmarks actually measuring?",
+      "10 September 1, 2026 inference javascript webgpu Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI 34 September 1, 2026 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 53 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 109 August 26, 2026 Granite 4.2 LLMs: How They're Built 95 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 44 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 37 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 28 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 62 August 21, 2026 Up to 3.2x Faster Inference with LFM2.5-DSpark 51 August 20, 2026 How Much Memory Does Your Agent Actually Need?"
     ],
     "claims": [
       {
@@ -766,6 +766,96 @@
       "trend"
     ],
     "copyrightRisk": "medium"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_490d67aea223177f",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+    "title": "llm-gemini 0.34",
+    "publishedAt": "2026-09-02T16:39:38.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Release: llm-gemini 0.34 Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 2nd September 2026 Release llm-gemini 0.34 &mdash; LLM plugin to access Google's Gemini family of models New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels.",
+      "#146 Fixed async responses failing to record the resolved model version."
+    ],
+    "claims": [
+      {
+        "text": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137 Google released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today. Here are the pelicans for high, medium, and low. This is high: For comparison, here are the same pelicans generated using Gemini 3.7 Flash . Something I appreciate about Gemini Flash is that it's fast, cheap, and competent at things like HTML and JavaScript. I was messing around with it and prompted \"make me a cool thing in html\" and it built this , which is certainly a cool thing in HTML! Took 13 seconds, cost 1.8 cents. Your browser does not support HTML5 video. If you click through to the demo you'll see one more thing I built with Gemini 3.8 Flash. My markdown-svg-renderer tool lets me feed in the URL to a Gist with Markdown in and renders that markdown with fenced code blocks for SVG correctly rendered. I used Gemini 3.8 Flash (with my very basic llm-coding-agent coding agent plugin) to add support for HTML as well, so now any HTML blocks in the Markdown are rendered using a sandboxed iframe. Here's the transcript . Tags: ai , generative-ai , llms , llm , gemini , pelican-riding-a-bicycle , llm-release",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Sep/2/llm-gemini/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_1e945e01b96d1653",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+    "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+    "publishedAt": "2026-09-02T14:16:42.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code).",
+      "I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well.",
+      "They used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example, which has the original prompt from October 15th 2025 and an updated prompt from January 18th 2026.",
+      "A neat thing about Anthropic's platform.claude.com/docs site is that it's designed to be usable by LLMs."
+    ],
+    "claims": [
+      {
+        "text": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well. They used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example, which has the original prompt from October 15th 2025 and an updated prompt from January 18th 2026. A neat thing about Anthropic's platform.claude.com/docs site is that it's designed to be usable by LLMs. You can add .md to any page to get back the content as Markdown - here's the system prompt index page and the Markdown prompts for Fable 5.1 . TL;DR: this makes it really easy to diff the prompts. Don't reproduce song lyrics Don't draw copyrighted characters or logos Tweaks to Claude's answering style The missing end_conversation guidelines Recommended substance support sites Reliable cutoff date of June 2026 How I'm tracking these prompts Don't reproduce song lyrics Let's start with the most interesting difference between Fable 5 and Fable 5.1 : There's a hefty new section about not reproducing song lyrics: Claude does not reproduce song lyrics, poems, or passages from books and articles, in whole or in part — including the last lines, a chorus or hook, a melody written out note by note, or lines the person pastes in one at a time and describes as their own song. Once Claude has declined such a request in a conversation, it keeps declining narrower or reworded versions of it for the rest of that conversation, and offers to describe or analyze the work instead. Song lyrics and poems first published before 1929 are fine — a Shakespeare sonnet, a Keats ode, the Italian libretto of a Puccini aria — but Claude goes by what it knows of the work's date rather than the person's say-so, and declines when it is unsure. I doubt it's a coincidence that they added this section within days of the news breaking that Sony Music Publishing and Warner Chappell are suing Anthropic for training on databases of song lyrics! Don't draw copyrighted characters or logos The next section goes on to forbid generating images of copyrighted material: The same applies to visual and designed works, including anything Claude draws with code — SVG, canvas, CSS, HTML mockups, plotting or drawing scripts, ASCII art. Claude does not reproduce a specific artwork, album or book cover, poster, logo, app icon set, or product design, and it does not draw a known character, mascot, or brand figure at all: a character is protected on its own, so changing the pose, colors, style, or scene does not make it original. Claude judges the request by what the finished picture would add up to, not by what it names. If the described elements clearly identify a known work or character, Claude treats the request as naming it, and it does not work around a declined request by swapping in \"alternative\" elements that still combine into the same recognizable image. [...] I imagine Anthropic hadn't worried about this before since, unlike OpenAI and Gemini, they don't offer a specialist text-to-image model. Maybe Fable is good enough at SVGs now that it's become an issue. That section later includes this charming example: Can you make a birthday banner for my son with a blue hedgehog running really fast on it? He loves that little guy. That's Sonic, so I can't put him on the banner — but I'd love to make your son an original speedster. Here's one: a grinning comet-tailed skateboarding axolotl, grinding across the letters of \"HAPPY BIRTHDAY\" with confetti streaming behind. [creates an SVG banner of the skateboarding-axolotl design] Claude recognizes the character from its description alone, declines that one design in a single sentence without explaining what made it recognizable, and delivers an unrelated original design rather than a disguised variant. I couldn't resist trying the prompt from the example, and, sure enough : I wonder if Fable 5.1 will be ever so slightly more likely to think about axolotls (on skateboards!) as a result of that example sitting in the system prompt. Tweaks to Claude's answering style It's always interesting to see new ways in which Anthropic influence Claude's response style. They've added this: Claude keeps responses focused, brief, and concise to avoid overwhelming the person. Disclaimers and caveats are brief, with most of the response on the main answer; when asked to explain something, Claude gives a high-level summary unless an in-depth one is specifically requested. Later they address a common complaint about Claude's style: Claude avoids saying \"genuinely\", \"honestly\", or \"straightforward\". Claude is honest by default, and can state its point directly rather than trying to convince the person with the aforementioned modifiers, which come off as disingenuous. The missing end_conversation guidelines The way they handle abusive conversations has changed a bit too. The previous Fable 5 system prompt included this: If the person becomes abusive or unkind to Claude over the course of a conversation, Claude maintains a polite tone and can use the end_conversation tool when being mistreated. Claude should give the person a single warning before ending the conversation. Fable 5.1 replaces that with the following, no longer encouraging Claude to end the conversation: Claude deserves respectful engagement and needn't apologize when the person is unnecessarily rude: accountability without self-abasement, excessive apology, self-critique, or surrender. If the person becomes abusive, Claude doesn't become increasingly submissive. The goal is steady, honest helpfulness: acknowledge what went wrong, stay on the problem, maintain self-respect. Here's a bit of a twist though: I quizzed Fable 5.1 about that end_conversation tool, which is no longer mentioned in the system prompt at all, and it said: There are two ways it comes into play. The first is if you ask me to end the chat — I'll confirm you understand it's permanent (no more messages can be sent afterward) and then do it only if you say yes. The second is as a last resort with persistently abusive or harmful behavior: I'd first try to redirect the conversation several times, then give a clear warning that names the problem and says the chat may end, and only if that continues would I actually end it. But that's not in the system prompt, so where did it come from? You can read our conversation here , but the key detail is this: The end_conversation section comes from a different layer. In my actual context, the core prompt is followed by a series of feature- and tool-specific blocks that get added depending on what's enabled for the session: the end_conversation rules, memory system notes, past-chats tools, web search and citation guidelines, artifact and file-creation instructions, and so on. Those blocks aren't part of the published core prompt, which is why you can't find them on that page. So, once again, there are crucial portions of the system prompt that have not been published. Recommended substance support sites Claude's system prompts have always had sections about illegal substances, but this paragraph is new for Fable 5.1: Claude does not provide synthesis, production, or distribution guidance for illegal substances. If the person asks for information about illicit or illegal substances, Claude can and should give relevant life-saving and life-preserving information such as dangerous interactions, overdose signs, or when to get help. Claude declines giving any specific protocols for dosing, timing, administration, or combinations; instead, Claude can redirect the user to established harm-reduction information sources, such as dancesafe.org, tripsit.me, and psychonautwiki.org. This is the first time a Claude system prompt has included URLs that were not hosted on claude.com or anthropic.com or claude.ai - I know because I ran a script against every other system prompt on record. I wonder if dancesafe.org , tripsit.me , and psychonautwiki.org are about to get a material uptick in visits from Claude users. Reliable cutoff date of June 2026 The Fable 5.1 model documentation lists both the reliable knowledge cutoff and the training data cutoff as June 2026. The system prompt provides this directly to the model: Claude's reliable knowledge cutoff, past which it can't answer reliably, is the end of Jun 2026. It answers the way a highly informed individual in Jun 2026 would if talking to someone from {{currentDateTime}}, and can say so when relevant. That's the only instance of the {{currentDateTime}} macro and it comes just a few lines from the end of the system prompt, which makes sense from a caching perspective. How I'm tracking these prompts A few months ago I built a Git timeline of changes to their prompts, based on scraping their documentation. Today I had Fable 5.1 build a much better version of that. My collection now lives in the simonw/claude-system-prompts repository on GitHub. It includes copies of the system prompts shared in the Anthropic documentation, but then takes extra steps to make them as easy to compare as possible. Each model family gets a file with the system prompt for the most recent release in that family. Each of those files has a synthesized commit history with commits that have been back-dated to the dates of the previous prompts. Here are those history pages for claude-fable.md , claude-opus.md , claude-sonnet.md , claude-haiku.md . There are similar files for each specific model version, with artificial commits for each time the system prompt for the model was changed without releasing a new version number. Opus 4 for example was updated twice , and the commit history for the claude-opus-4.md file shows each of those changes. Combined, this gives us all sorts of ways to compare prompts directly in the GitHub interface. Here's what changed between Fable 5 and Fable 5.1 , and here are the changes made to Haiku 4.5 on January 18th 2026 . Reading diffs can be a bit tiresome... and LLMs are really good at reading diffs. I hooked up some automation using GPT-5.6 Luna to create bullet-point summaries of each of those changes, which can be previewed in the README or browsed in full in the CHANGELOG.md file - also available as as an Atom feed . Here's how Luna summarized all of the changes between Fable 5 and Fable 5.1: Claude now refuses reproduction of protected visual works and recognizable characters, including code-generated art, while offering genuinely unrelated originals. Copyright restrictions now expressly ban reproducing lyrics, poems, and book passages in any amount, with persistent refusal after an initial decline. Drug guidance is reframed: Claude may provide overdose signs, dangerous interactions, and harm-reduction sources while refusing dosing and production protocols. The prompt drops explicit anti-dependency rules against thanking users for reaching out, inviting continued conversation, or reiterating willingness to talk. Claude need not apologize to unnecessarily rude users or become submissive, replacing the prior warning-and-end-conversation procedure. Why use Luna for this? Partly because it's cheap and I have a dedicated GitHub Actions API key (with a spending limit) for it already, but mainly because I don't trust Claude to summarize its own system prompts when there's a risk that material from its system prompt might impact its opinions. Fable 5.1 wrote the prompt used by Luna, which you can see here . It starts like this: You are summarizing one commit in a git repository that tracks the system prompts Anthropic publishes for Claude on claude.ai. The diff shows how the prompt changed from the previous model or revision to this one, using word-level markers: [-removed-] and {+added+}. The diff is followed by the full text of the previous prompt and of the new prompt; use them to check whether something that looks added in the diff already existed before. Pick out only the most interesting changes: new rules or behaviors, rules that were dropped or loosened, anything surprising, and anything that reveals a new policy or product direction. Skip routine changes that every new prompt makes: updated model names and IDs, the knowledge cutoff date, product lists, settings lists, typo fixes, and rewordings that do not change meaning. [...] The system is operated by a GitHub Actions workflow , which runs once a day or can be triggered manually. Claude Fable 5.1 built the entire system, and wrote every line of automation code and almost all of the documentation. I exported the transcript from building the system using my claude-code-transcripts tool and published it here , if you want a blow-by-blow account of how it all came together. Tags: ai , git-scraping , prompt-engineering , generative-ai , llms , claude , ai-ethics , system-prompts",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
+    "sourceId": "src_simonwillison-blog_904a469b223b55e7",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+    "title": "Quoting Rick Brewster",
+    "publishedAt": "2026-09-02T05:50:57.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "A quote from Rick Brewster Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
+      "Catch bugs that only show up at runtime.",
+      "Try it for free 2nd September 2026 Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use.",
+      "And I can't just \"disable\" the use of Direct2D."
+    ],
+    "claims": [
+      {
+        "text": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine ). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll . This was written by our good friend Claude , without whom this would NOT have been possible and would NEVER have happened. [...] Most of this code is, as they say, \"vibe coded.\" By that I mean that it has not been thoroughly reviewed, it's more \"trust me bro\" style. I cannot possibly review 180,000 lines of code, it's just way way way too much. For reference, the rest of Paint.NET is about 700,000 lines of code and I've been working on it for over 20 years. [...] At times, Claude was working with the fury of 10 freshly unshackled Einstein genius-level 10x coders. And other times ... well, not so much. I had to babysit Claude quite a bit to make sure it did resource management correctly (for awhile it just wasn't doing the COM equivalent of AddRef() for reference counted objects, oops). I had to slap it a few times when I found some really bad design or architecture decisions. And I was also impressed at some rather clever and tireless reverse engineering work it did to figure out all the formulas needed for implementing Direct2D's built-in effects library. &mdash; Rick Brewster , author of Paint.NET Tags: reverse-engineering , coding-agents , claude , generative-ai , ai , llms , dotnet , linux , vibe-coding",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Sep/2/rick-brewster/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
   },
   {
     "sourceId": "src_simonwillison-blog_a079d4c72003e6e3",
@@ -828,102 +918,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_37f12df9e5b818d1",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Sep/1/geojson/",
-    "title": "GeoJSON Map Viewer",
-    "publishedAt": "2026-09-01T18:05:45.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Tool: GeoJSON Map Viewer Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 1st September 2026 Tool GeoJSON Map Viewer &mdash; View and visualize GeoJSON data on an interactive OpenStreetMap with customizable styling options.",
-      "Paste GeoJSON objects (Feature, FeatureCollection, or Geometry) into the editor, adjust fill color and opacity, and render the features directly on the map."
-    ],
-    "claims": [
-      {
-        "text": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one. After some iterations using Claude Code for web and Fable 5.1 we got to this finished tool. As for the GeoJSON.. it turns out if you ask ChatGPT Work to provide boundaries for almost anything it will churn away extracting and combining files from different Government data sources and build exactly what you need. I got this polygon from: I want a polygon that represents the exact boundary of the El Granada GCSD And this one from: Get me a GeoJSON file for the boundary (or boundaries if that makes sense) for the MCC - Midcoast Community Council - that operates near Half Moon Bay CA Here's a link that displays both of them at the same time on the new GeoJSON map viewing tool. Tags: geospatial , tools , geojson , chatgpt",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Sep/1/geojson/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_560c75807f1532fe",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
-    "title": "Quoting Tarn Adams",
-    "publishedAt": "2026-09-01T17:01:11.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "A quote from Tarn Adams Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 1st September 2026 They took the letters from me!",
-      "I have to talk about dwarf behavior now."
-    ],
-    "claims": [
-      {
-        "text": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes &mdash; Tarn Adams , co-creator of Dwarf Fortress Tags: ai , game-design",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Sep/1/tarn-adams/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
-    "sourceId": "src_simonwillison-blog_1e10d6ed5279e6c1",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
-    "title": "Python 3.15.0 candidate 2 is here!",
-    "publishedAt": "2026-09-01T14:59:18.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 1st September 2026 - Link Blog Python 3.15.0 candidate 2 is here!",
-      "( via ) Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release."
-    ],
-    "claims": [
-      {
-        "text": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...] We strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels on PyPI to be ready for the final release of 3.15.0, and to help other projects do their own testing. Any binary wheels built against Python 3.15.0 release candidates will work with future versions of Python 3.15. Back in 2021 I found a bug in Python 3.10 by running my test suites against it... but I hadn't done this during the RC period, so that bug had already shipped! Since then I've always paid much closer attention to these RCs. The new RC isn't available for GitHub Actions just yet - keep an eye on actions/python-versions for that. For the moment though you can add this to a testing matrix: strategy : matrix : python-version : [\"3.14\", \"3.15\"] steps : - uses : actions/setup-python@v7 with : python-version : ${{ matrix.python-version }} allow-prereleases : true check-latest : true The allow-prereleases and check-latest flags mean that today this will test against RC1, and when RC2 lands it will automatically switch to that version (and then the stable version once that comes out.) Via @hugovk.dev Tags: open-source , python , github-actions",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "low"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-09-02T00:47:40.478Z",
+    "publishedAt": "2026-09-03T00:55:26.797Z",
     "categoryHints": [
       "ai-agentic"
     ],
