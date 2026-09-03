@@ -329,11 +329,11 @@
     "tags": [
       "vibe-coding",
       "ai-agents",
-      "software-engineering",
       "reverse-engineering",
-      "claude"
+      "software-development",
+      "claude-ai"
     ],
-    "publishedAt": "2026-09-03T00:55:38.408Z",
+    "publishedAt": "2026-09-03T14:47:12.423Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/quoting-rick-brewster-goc-nhin-cho-creator-va-builder-2026-09-03"
   },
@@ -348,10 +348,10 @@
       "vibe-coding",
       "ai-agents",
       "reverse-engineering",
-      "software-architecture",
-      "claude"
+      "llm-orchestration",
+      "software-engineering"
     ],
-    "publishedAt": "2026-09-03T00:56:30.483Z",
+    "publishedAt": "2026-09-03T14:48:25.961Z",
     "readingTime": 4,
     "url": "/en/ai-agentic/quoting-rick-brewster-creator-and-builder-analysis-2026-09-03"
   },
@@ -363,13 +363,13 @@
     "title": "Research \\ Anthropic: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "Claude-Fable-5.1",
-      "Vibe-Coding",
-      "AI-Reasoning",
-      "Prompt-Engineering",
+      "Claude Fable 5.1",
+      "Vibe Coding",
+      "AI Reasoning",
+      "System Prompt",
       "Anthropic"
     ],
-    "publishedAt": "2026-09-03T00:55:50.867Z",
+    "publishedAt": "2026-09-03T14:46:07.057Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-09-03"
   },
@@ -381,13 +381,13 @@
     "title": "Research \\ Anthropic: creator and builder analysis",
     "subtitle": "Signal synthesized from Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "vibe-coding",
-      "claude-fable",
-      "llm-reasoning",
-      "ai-copyright",
-      "anthropic"
+      "Anthropic",
+      "Claude-Fable",
+      "Vibe-Coding",
+      "LLM-Reasoning",
+      "AI-Ethics"
     ],
-    "publishedAt": "2026-09-03T00:56:38.820Z",
+    "publishedAt": "2026-09-03T14:47:45.887Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-09-03"
   },
@@ -401,11 +401,11 @@
     "tags": [
       "RunwayAI",
       "WorldModels",
-      "GenerativeUI",
+      "Solaris",
       "AIVideo",
-      "Solaris"
+      "GenerativeUI"
     ],
-    "publishedAt": "2026-09-03T00:56:23.272Z",
+    "publishedAt": "2026-09-03T14:45:29.515Z",
     "readingTime": 5,
     "url": "/vi/ai-image/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-09-03"
   },
@@ -417,13 +417,13 @@
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from Replicate Blog, Runway Research, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
+      "AI Video",
       "World Models",
-      "Generative UI",
       "Runway AI",
-      "Multimodal AI",
-      "AI Video"
+      "Generative UI",
+      "Multimodal AI"
     ],
-    "publishedAt": "2026-09-03T00:57:18.150Z",
+    "publishedAt": "2026-09-03T14:47:21.224Z",
     "readingTime": 4,
     "url": "/en/ai-image/ai-video-research-innovation-runway-ai-creator-and-buil-2026-09-03"
   },
@@ -435,13 +435,13 @@
     "title": "Codex bundles LibreOffice: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Black Forest Labs, Vercel AI Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
+      "ai-agentic",
       "vibe-coding",
       "openai",
       "libreoffice",
-      "local-llm",
-      "ai-agents"
+      "runtime-bundling"
     ],
-    "publishedAt": "2026-09-03T00:56:14.687Z",
+    "publishedAt": "2026-09-03T14:46:44.786Z",
     "readingTime": 4,
     "url": "/vi/ai-vibe-coding/codex-bundles-libreoffice-goc-nhin-cho-creator-va-builder-2026-09-03"
   },
@@ -453,13 +453,13 @@
     "title": "Codex bundles LibreOffice: creator and builder analysis",
     "subtitle": "Signal synthesized from r/AI_Agents, Black Forest Labs, Vercel AI Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI Agents",
-      "Vibe Coding",
-      "OpenAI",
-      "Local LLMs",
-      "Software Architecture"
+      "ai-agents",
+      "vibe-coding",
+      "openai",
+      "software-architecture",
+      "local-runtime"
     ],
-    "publishedAt": "2026-09-03T00:57:11.340Z",
+    "publishedAt": "2026-09-03T14:48:08.966Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/codex-bundles-libreoffice-creator-and-builder-analysis-2026-09-03"
   },
@@ -477,7 +477,7 @@
       "AIVideo",
       "ContentAutomation"
     ],
-    "publishedAt": "2026-09-03T00:55:59.203Z",
+    "publishedAt": "2026-09-03T14:46:26.275Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/ai-ai-goc-nhin-cho-creator-va-builder-2026-09-03"
   },
@@ -495,8 +495,8 @@
       "AI Video",
       "Creative Productivity"
     ],
-    "publishedAt": "2026-09-03T00:56:53.992Z",
-    "readingTime": 4,
+    "publishedAt": "2026-09-03T14:47:54.294Z",
+    "readingTime": 3,
     "url": "/en/ai-agentic/ai-ai-creator-and-builder-analysis-2026-09-03"
   },
   {
@@ -509,11 +509,11 @@
     "tags": [
       "LumaAI",
       "AIVideo",
-      "Localization",
-      "GenerativeAI",
-      "CreativeEconomy"
+      "MarketExpansion",
+      "EnterpriseAI",
+      "CreativeTech"
     ],
-    "publishedAt": "2026-09-03T00:56:07.374Z",
+    "publishedAt": "2026-09-03T14:45:49.282Z",
     "readingTime": 4,
     "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-09-03"
   },
@@ -527,11 +527,11 @@
     "tags": [
       "Luma AI",
       "AI Video",
+      "Market Strategy",
       "Localization",
-      "Creative Economy",
-      "MENA Market"
+      "Generative AI"
     ],
-    "publishedAt": "2026-09-03T00:57:01.661Z",
+    "publishedAt": "2026-09-03T14:47:36.258Z",
     "readingTime": 4,
     "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-09-03"
   }

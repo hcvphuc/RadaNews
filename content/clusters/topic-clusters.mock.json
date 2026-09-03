@@ -10,7 +10,7 @@
       "src_huggingface-blog_af185e1e7e4dfbac",
       "src_cursor-changelog_99cdbb7e2d70df11",
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_4ee077facaea9f86"
+      "src_reddit-aiagents_5bd7d337a72d8179"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Simon Willison's Weblog, LangChain Blog, Replit Blog.",
@@ -25,8 +25,8 @@
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_490d67aea223177f",
       "src_simonwillison-blog_1e945e01b96d1653",
-      "src_simonwillison-blog_a079d4c72003e6e3",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_simonwillison-blog_a079d4c72003e6e3"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 5 source item(s), 5 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
@@ -54,12 +54,12 @@
     "topic": "Codex bundles LibreOffice",
     "sourceIds": [
       "src_simonwillison-blog_078462edfd526335",
-      "src_reddit-aiagents_75a5c6aba60319c6",
       "src_black-forest-labs_db0e6d09e99dbd6f",
+      "src_reddit-aiagents_215692cf56dda0ce",
       "src_vercel-ai-blog_2026-09-03_fallback"
     ],
-    "articleWorthinessScore": 0.94,
-    "reasonSelected": "Score 0.94 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, r/AI_Agents, Black Forest Labs.",
+    "articleWorthinessScore": 0.88,
+    "reasonSelected": "Score 0.88 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Black Forest Labs, r/AI_Agents.",
     "confidence": "high",
     "selectedForGeneration": true
   },
