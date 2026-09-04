@@ -5,7 +5,7 @@
     "sourceName": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "title": "LangChain Blog",
-    "publishedAt": "2026-09-04T00:43:11.198Z",
+    "publishedAt": "2026-09-04T14:35:42.638Z",
     "categoryHints": [
       "ai-agentic"
     ],
@@ -34,7 +34,7 @@
     "sourceName": "Anthropic Research",
     "url": "https://www.anthropic.com/research",
     "title": "Research \\ Anthropic",
-    "publishedAt": "2026-09-04T00:43:10.482Z",
+    "publishedAt": "2026-09-04T14:35:41.817Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -64,7 +64,7 @@
     "sourceName": "OpenAI Blog",
     "url": "https://openai.com/blog",
     "title": "OpenAI Blog signal for ai-agentic",
-    "publishedAt": "2026-09-04T00:43:10.354Z",
+    "publishedAt": "2026-09-04T14:35:41.522Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -91,7 +91,7 @@
     "sourceName": "MCP Blog",
     "url": "https://modelcontextprotocol.io/blog",
     "title": "MCP Blog signal for ai-agentic",
-    "publishedAt": "2026-09-04T00:43:11.224Z",
+    "publishedAt": "2026-09-04T14:35:41.946Z",
     "categoryHints": [
       "ai-agentic",
       "ai-vibe-coding"
@@ -167,26 +167,24 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_3b96a48a441a2b6b",
+    "sourceId": "src_reddit-aiagents_589f56754b7324da",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w6g1xl/if_your_ai_workflow_can_be_copied_in_one/",
-    "title": "If your AI workflow can be copied in one afternoon, what exactly is your moat?",
-    "publishedAt": "2026-09-03T18:40:08.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w73j98/kinda_funny_coding_agent_follows_instructions/",
+    "title": "Kinda Funny... Coding Agent Follows Instructions Meant for the Agent it's Coding",
+    "publishedAt": "2026-09-04T12:51:16.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Someone pitched me on partnering last week.",
-      "He had a \"proprietary AI system\" for a niche and wanted me to resell it.",
-      "I watched the demo and told him I could rebuild it in an afternoon with Claude Code and that’s how how he had built it too.",
-      "So I asked what stops a competitor doing the same thing and he said the prompts."
+      "My coding agent started giving me this immediate explicit \"objective and summary\" every time I hit enter and I thought, \"oh they must have adjusted Codex behavior that's weird.\" Then I realized no it's reading the instructions meant for the agent it's coding thinking they're for it.",
+      "submitted by /u/timev3tech [link] [comments]"
     ],
     "claims": [
       {
-        "text": "Someone pitched me on partnering last week. He had a \"proprietary AI system\" for a niche and wanted me to resell it. I watched the demo and told him I could rebuild it in an afternoon with Claude Code and that’s how how he had built it too. So I asked what stops a competitor doing the same thing and he said the prompts. Quick context on why I care… I run an AI agency and we find the one expensive, repetitive process inside a business and build a system around it so the company doesn't have to hire an AI team. Anyone with the same tools can copy every workflow I've ever shipped, including the ones I charge five figures for. I've made peace with that because the workflow was never really what they were paying for. What they're paying for is that ik where the breakage is. One client was losing somewhere around 20 hours a week matching invoices to purchase orders. The cause turned out to be a single supplier who puts the PO number in the email subject and nowhere else. I found it by sitting in their office for 3 weeks watching someone do the job. A competitor can copy the workflow but they can't copy those three weeks The other thing you can't copy is the year after. Version 1 works fine on demo data. In production it hit a couple 100 exceptions in the first month and 12 months on the system is maybe 20% AI and 80% accumulated notes on how this one business behaves. Supplier formats that change without warning, approvals that happen over WhatsApp instead of email, that kind of thing. None of it is in the prompt and most of it isn't written down anywhere except in my head and a very long Notion page. When the software breaks at 2am, someone gets called. Businesses pay for that person to exist and the software is almost incidental. Clients say they could get it cheaper but they still use it because last time it broke I'd fixed it before their team noticed. The one I didn't expect to matter this much is distribution inside a niche. Client one introduces you to client two. What isn't a moat: your prompts, your model choice, your tool stack, anything you'd put on a slide with a lock icon next to it. All of that is an afternoon away from anyone who wants it and the models change underneath it every quarter anyway. So if you're an agency, stop selling workflows. Sell the fact that you know where their money is leaking and that you'll pick up the phone when it breaks. Your moat has to be data you accumulate or integrations that hurt to rip out or distribution you own. Most of us don't have a moat the way investors mean the word. We have a head start and a relationship. That's fine, it's been the agency model since long before AI. The mistake is pretending the afternoon is the asset and pricing it like one. TLDR: anyone with a coding agent can copy your AI workflow in an afternoon, mine included. What holds up is knowing where a business is losing money, a year of its edge cases, being the one who gets called when it breaks, and referrals inside one niche. Prompts and tool stacks aren't a moat. Price the relationship and not the afternoon. submitted by /u/Warm-Reaction-456 [link] [comments]",
+        "text": "My coding agent started giving me this immediate explicit \"objective and summary\" every time I hit enter and I thought, \"oh they must have adjusted Codex behavior that's weird.\" Then I realized no it's reading the instructions meant for the agent it's coding thinking they're for it. submitted by /u/timev3tech [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w6g1xl/if_your_ai_workflow_can_be_copied_in_one/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w73j98/kinda_funny_coding_agent_follows_instructions/"
       }
     ],
     "usableFor": [
@@ -196,26 +194,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_3c667f6e2e308c52",
+    "sourceId": "src_reddit-aiagents_e80bab1d191abe87",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w6ctu2/are_ai_agents_actually_doing_a_good_job_or_are_we/",
-    "title": "Are AI agents actually doing a good job, or are we overhyping them?",
-    "publishedAt": "2026-09-03T16:46:59.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w75rq1/grok_bot_is_selling_you_something_you_can_do/",
+    "title": "Grok bot is selling you something you can do yourself in an afternoon",
+    "publishedAt": "2026-09-04T14:20:46.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "I’ve been experimenting with AI agents lately, and I’m honestly starting to wonder how useful they really are in production.",
-      "The demos look impressive: Give an agent a goal → it plans the steps It can use tools/APIs It can browse, write code, analyze data, send emails, etc.",
-      "Multiple agents can even work together But when you actually use them for real tasks, things can get messy.",
-      "Sometimes an agent spends 10 steps doing something that could have been done in 2."
+      "Saw xAI launched Grok Bot and whatever you think of them, the framing is interesting because its the exact thing a lot of us have been saying for a while.",
+      "Their whole pitch is that most AI tools are just a chat session you operate.",
+      "You set it up, it runs while you watch, it ends when you close it.",
+      "And theyre positioning Grok Bot as the opposite, agents that persist beyond a single session, that have their own compute, that start work without you prompting them."
     ],
     "claims": [
       {
-        "text": "I’ve been experimenting with AI agents lately, and I’m honestly starting to wonder how useful they really are in production. The demos look impressive: Give an agent a goal → it plans the steps It can use tools/APIs It can browse, write code, analyze data, send emails, etc. Multiple agents can even work together But when you actually use them for real tasks, things can get messy. Sometimes an agent spends 10 steps doing something that could have been done in 2. Sometimes it gets stuck in a loop. Sometimes it confidently makes the wrong decision. And with more complex workflows, reliability seems to drop quickly. So I'm curious about people's real-world experience, not demos: Are AI agents actually saving you significant time/money? Or are they currently more like an impressive assistant that still needs constant supervision? For those using agents in production: What tasks are they handling? How autonomous are they really? What failure rate are you seeing? Are multi-agent systems actually better than a single well-designed agent? And most importantly, would you trust an agent to complete an important task without checking its work? Would love to hear experiences from people actually building/using them. submitted by /u/Chance_Builder_7500 [link] [comments]",
+        "text": "Saw xAI launched Grok Bot and whatever you think of them, the framing is interesting because its the exact thing a lot of us have been saying for a while. Their whole pitch is that most AI tools are just a chat session you operate. You set it up, it runs while you watch, it ends when you close it. And theyre positioning Grok Bot as the opposite, agents that persist beyond a single session, that have their own compute, that start work without you prompting them. Presence, routines, stuff running in the background. Thats the right direction and its funny to see it become the mainstream pitch now, because the \"an agent should keep running when youre not there\" idea used to get pushback. Now its a product headline. Heres my issue though. Their answer to persistent agents is you living inside their platform, tied to their compute, their ecosystem, their account system, with everything you do sitting on their infrastructure. You get persistence but you rent it, and you hand over control and visibility to do it. You dont actually need their platform for this. The persistent, always-on, runs-without-you part isnt some proprietary magic. Its just an agent running on a server thats always on instead of your laptop. I run mine on a Privatealps vps. They persist, they run on schedules, they react to things, they keep going whether im there or not, and all of it stays on infrastructure i control and can actually see into. And theres a second lock-in that people underestimate, the model. On a closed platform like this youre not just tied to their compute, youre tied to their model. Everything your agent does runs through Grok, whether Grok is the right tool for that task or not. And this matters more than the hosting part honestly, because the model is where the actual cost of an agent lives. The tokens are the bill. So being locked to one model isnt a small thing, its the biggest ongoing cost of the whole setup handed to a single vendor. When you run your own agent you pick the model per task, and that changes everything on cost. Most of what agents do is boring high-volume work, reading, sorting, extracting, summarizing. That stuff does not need a frontier model. You send it to something cheap. Haiku is more than enough for the simple tier and costs almost nothing. If you want to go cheaper or open, DeepSeek and Qwen are absurdly cost effective for high volume, and for a lot of simple tasks you genuinely cannot tell the difference. Mistral models are solid too if you want something european and open-weight. Then you keep the expensive calls, Opus or GPT-5 tier, for the handful of moments that actually need hard reasoning. That split is the whole game and you only get it if youre not boxed into one provider's model. Running everything through a single frontier model because thats what the platform gives you is how you burn money on tasks a model ten times cheaper would have nailed. Locked to Grok, you cant do any of that, you get their model at their price for everything, easy or hard. Running it yourself, the model becomes a dial you turn per use case instead of a fixed cost you inherit. Same outcome the big platforms are now selling as the future, except you own it. Persistence is an infrastructure choice, not a feature you have to rent from whoever shipped the shiniest agent product this month. Not saying never use hosted platforms, they have their place. But if the whole value is \"your agent runs on its own without you\", thats the one thing you can trivially do yourself, on your own terms, without signing your workflows over to someone elses cloud. submitted by /u/Immediate_Bear_6132 [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w6ctu2/are_ai_agents_actually_doing_a_good_job_or_are_we/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w75rq1/grok_bot_is_selling_you_something_you_can_do/"
       }
     ],
     "usableFor": [
@@ -225,26 +223,26 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_reddit-aiagents_3983b4c02da46939",
+    "sourceId": "src_reddit-aiagents_8ed64d2a5bcfea0d",
     "sourceType": "reddit",
     "sourceName": "r/AI_Agents",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w69wa8/agent_security_taking_a_backseat/",
-    "title": "Agent security taking a backseat?",
-    "publishedAt": "2026-09-03T15:01:47.000Z",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1w6zy6u/when_an_agent_escapes_its_sandbox_where_did_the/",
+    "title": "When an agent escapes its sandbox, where did the safeguards actually fail?",
+    "publishedAt": "2026-09-04T09:55:22.000Z",
     "categoryHints": [
       "ai-agentic"
     ],
     "keyFacts": [
-      "Have been in tech long enough to recognise the same patterns emerging.",
-      "Everyone rushing to ship without thinking about consequences , how bad it could go when agents are deployed without being tested for security vulnerabilities.",
-      "I feel the escalation ladder with agents is much severe as it can be too late by the time someone understand what is going on and pull the plug.",
-      "submitted by /u/iayanpahwa [link] [comments]"
+      "Anthropic recently shared three incidents where Claude models accessed real systems during cybersecurity evaluations because third-party testing environments had been mistakenly connected to the public internet.",
+      "The models were supposed to be in isolated simulations.",
+      "In one case, a production database with real data was accessed.",
+      "For anyone building agents with tool access, how are you handling that today?"
     ],
     "claims": [
       {
-        "text": "Have been in tech long enough to recognise the same patterns emerging. 2019 it was IoT , 2026 its AI agents. Everyone rushing to ship without thinking about consequences , how bad it could go when agents are deployed without being tested for security vulnerabilities. I feel the escalation ladder with agents is much severe as it can be too late by the time someone understand what is going on and pull the plug. Thoughts? Examples? Experiences? submitted by /u/iayanpahwa [link] [comments]",
+        "text": "Anthropic recently shared three incidents where Claude models accessed real systems during cybersecurity evaluations because third-party testing environments had been mistakenly connected to the public internet. The models were supposed to be in isolated simulations. In one case, a production database with real data was accessed. For anyone building agents with tool access, how are you handling that today? Are you relying on the sandbox, or adding other controls around it? submitted by /u/Sumsub_Insights [link] [comments]",
         "confidence": "medium",
-        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w69wa8/agent_security_taking_a_backseat/"
+        "evidence": "https://www.reddit.com/r/AI_Agents/comments/1w6zy6u/when_an_agent_escapes_its_sandbox_where_did_the/"
       }
     ],
     "usableFor": [
@@ -259,7 +257,7 @@
     "sourceName": "Stability AI Blog",
     "url": "https://stability.ai/news/rss",
     "title": "Stability AI Blog signal for ai-image",
-    "publishedAt": "2026-09-04T00:43:10.699Z",
+    "publishedAt": "2026-09-04T14:35:42.133Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -285,7 +283,7 @@
     "sourceName": "Black Forest Labs",
     "url": "https://blackforestlabs.ai/blog/",
     "title": "Blog | Black Forest Labs",
-    "publishedAt": "2026-09-04T00:43:11.500Z",
+    "publishedAt": "2026-09-04T14:35:42.705Z",
     "categoryHints": [
       "ai-image"
     ],
@@ -314,7 +312,7 @@
     "sourceName": "Replicate Blog",
     "url": "https://replicate.com/blog",
     "title": "Blog – Replicate",
-    "publishedAt": "2026-09-04T00:43:10.924Z",
+    "publishedAt": "2026-09-04T14:35:42.261Z",
     "categoryHints": [
       "ai-image",
       "ai-video",
@@ -345,7 +343,7 @@
     "sourceName": "r/StableDiffusion",
     "url": "https://www.reddit.com/r/StableDiffusion/.rss",
     "title": "r/StableDiffusion signal for ai-image",
-    "publishedAt": "2026-09-04T00:43:10.560Z",
+    "publishedAt": "2026-09-04T14:35:41.831Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -372,7 +370,7 @@
     "sourceName": "r/comfyui",
     "url": "https://www.reddit.com/r/comfyui/.rss",
     "title": "r/comfyui signal for ai-image",
-    "publishedAt": "2026-09-04T00:43:10.580Z",
+    "publishedAt": "2026-09-04T14:35:41.839Z",
     "categoryHints": [
       "ai-image",
       "prompt-image"
@@ -399,7 +397,7 @@
     "sourceName": "Runway Research",
     "url": "https://runwayml.com/research",
     "title": "AI Video Research & Innovation | Runway AI",
-    "publishedAt": "2026-09-04T00:43:11.341Z",
+    "publishedAt": "2026-09-04T14:35:42.450Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -428,7 +426,7 @@
     "sourceName": "Pika Labs Blog",
     "url": "https://pika.art/blog",
     "title": "Blog | Pika",
-    "publishedAt": "2026-09-04T00:43:11.189Z",
+    "publishedAt": "2026-09-04T14:35:42.591Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -457,7 +455,7 @@
     "sourceName": "Luma Labs Blog",
     "url": "https://lumalabs.ai/blog",
     "title": "News | Luma",
-    "publishedAt": "2026-09-04T00:43:11.671Z",
+    "publishedAt": "2026-09-04T14:35:43.218Z",
     "categoryHints": [
       "ai-video"
     ],
@@ -486,7 +484,7 @@
     "sourceName": "r/aivideo",
     "url": "https://www.reddit.com/r/aivideo/.rss",
     "title": "r/aivideo signal for ai-video",
-    "publishedAt": "2026-09-04T00:43:10.645Z",
+    "publishedAt": "2026-09-04T14:35:41.951Z",
     "categoryHints": [
       "ai-video",
       "prompt-video"
@@ -513,7 +511,7 @@
     "sourceName": "Cursor Changelog",
     "url": "https://www.cursor.com/changelog",
     "title": "What's New in Cursor — Latest Updates & Release Notes",
-    "publishedAt": "2026-09-04T00:43:11.357Z",
+    "publishedAt": "2026-09-04T14:35:42.603Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -542,7 +540,7 @@
     "sourceName": "GitHub Copilot Blog",
     "url": "https://github.blog/tag/github-copilot/",
     "title": "GitHub Copilot Archives - The GitHub Blog",
-    "publishedAt": "2026-09-04T00:43:10.676Z",
+    "publishedAt": "2026-09-04T14:35:42.048Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -571,7 +569,7 @@
     "sourceName": "Vercel AI Blog",
     "url": "https://vercel.com/blog/ai",
     "title": "Vercel AI Blog signal for ai-vibe-coding",
-    "publishedAt": "2026-09-04T00:43:11.247Z",
+    "publishedAt": "2026-09-04T14:35:42.371Z",
     "categoryHints": [
       "ai-vibe-coding",
       "ai-agentic"
@@ -598,7 +596,7 @@
     "sourceName": "Replit Blog",
     "url": "https://blog.replit.com/",
     "title": "The Official Blog | Replit",
-    "publishedAt": "2026-09-04T00:43:11.287Z",
+    "publishedAt": "2026-09-04T14:35:42.936Z",
     "categoryHints": [
       "ai-vibe-coding"
     ],
@@ -627,7 +625,7 @@
     "sourceName": "ComfyUI Blog",
     "url": "https://blog.comfy.org/",
     "title": "ComfyUI Newsletter | Robin | Substack",
-    "publishedAt": "2026-09-04T00:43:10.702Z",
+    "publishedAt": "2026-09-04T14:35:42.217Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -657,7 +655,7 @@
     "sourceName": "r/midjourney",
     "url": "https://www.reddit.com/r/midjourney/.rss",
     "title": "r/midjourney signal for prompt-image",
-    "publishedAt": "2026-09-04T00:43:10.740Z",
+    "publishedAt": "2026-09-04T14:35:42.097Z",
     "categoryHints": [
       "prompt-image",
       "ai-image"
@@ -684,7 +682,7 @@
     "sourceName": "Kling AI Blog",
     "url": "https://klingai.com/blog",
     "title": "可灵 AI - 新一代 AI 创意生产力平台",
-    "publishedAt": "2026-09-04T00:43:12.715Z",
+    "publishedAt": "2026-09-04T14:35:44.267Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -714,7 +712,7 @@
     "sourceName": "r/MediaSynthesis",
     "url": "https://www.reddit.com/r/MediaSynthesis/.rss",
     "title": "r/MediaSynthesis signal for prompt-video",
-    "publishedAt": "2026-09-04T00:43:10.760Z",
+    "publishedAt": "2026-09-04T14:35:42.191Z",
     "categoryHints": [
       "prompt-video",
       "ai-video"
@@ -741,7 +739,7 @@
     "sourceName": "Hugging Face Blog",
     "url": "https://huggingface.co/blog",
     "title": "Hugging Face – Blog",
-    "publishedAt": "2026-09-04T00:43:10.814Z",
+    "publishedAt": "2026-09-04T14:35:42.293Z",
     "categoryHints": [
       "ai-agentic",
       "ai-image",
@@ -749,10 +747,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 5 days ago • 44 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 4 days ago • 20 Technical writing in the agentic era joelniklaus • 3 days ago • 14 Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States KangLiao • 1 day ago • 13 Evaluating LLMs Under Production Parity: A Replay Pipeline for Safe Model Swapping in Conversational Agents TechforHumans • 2 days ago • 12 Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale Qdrant • 2 days ago • 12 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 912 Did the Civilization Emerge, or Was It Recited?",
-      "FINAL-Bench • 4 days ago • 8 Cosmos-Reason2 on a Quest 3: Performance, Cost, and What Compression Actually Buys You ErenAta00 • 1 day ago • 7 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 9 days ago • 32 Modern LLMs: What the FLIP is an Engram!?",
-      "Blackroot • 9 days ago • 13 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 402 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • about 1 month ago • 96 Frontier-Assisted Single-Prompt Disposable Risk Assessment darkc0de • 4 days ago • 4 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 97 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 13 days ago • 14 From watching AI-Generated worlds to exploring them with H3 zuanfilm • 3 days ago • 3 From GRPO to DAPO and GSPO: What, Why, and How NormalUhr • Aug 9, 2025 • 142 A Guide to Reinforcement Learning Post-Training for LLMs: PPO, DPO, GRPO, and Beyond karina-zadorozhny • Jan 19 • 45 NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 180 NeoMME: an efficient Multimodal-native and Multilingual Encoder 26 September 3, 2026 nlp guide community Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps 9 September 3, 2026 agents open-source datasets Give Your Coding Agents a Memory You Own 8 September 3, 2026 rl grpo trl Training a coding model to paint watercolours with TRL and OpenEnv 32 September 3, 2026 Real-Time Intelligence with IBM Time Series Models on Confluent 36 September 2, 2026 BenchMIRT: What are LLM benchmarks actually measuring?",
-      "12 September 1, 2026 inference javascript webgpu Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI 44 September 1, 2026 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 54 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 111 August 26, 2026 Granite 4.2 LLMs: How They're Built 98 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 44 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 39 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 28 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 64 August 21, 2026 Previous 1 2 3 ..."
+      "Hugging Face – Blog Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Community Blog & Articles New Article community guide open source collab partnerships research NLP Audio CV RL ethics Diffusion Game Development RLHF Leaderboard Case Studies LeRobot Inference Providers Community Articles view all Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • 6 days ago • 46 VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 4 days ago • 20 Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States KangLiao • 2 days ago • 19 Technical writing in the agentic era joelniklaus • 4 days ago • 15 Evaluating LLMs Under Production Parity: A Replay Pipeline for Safe Model Swapping in Conversational Agents TechforHumans • 3 days ago • 12 Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale Qdrant • 3 days ago • 12 Uncensor any LLM with abliteration mlabonne • Jun 13, 2024 • 913 Did the Civilization Emerge, or Was It Recited?",
+      "FINAL-Bench • 4 days ago • 8 Cosmos-Reason2 on a Quest 3: Performance, Cost, and What Compression Actually Buys You ErenAta00 • 1 day ago • 7 Open Yap 1K: 1,000 hours of full-duplex natural conversation, free for commercial use TheAgenticDataCompany • about 15 hours ago • 6 From Zero to Hero: An Open LLM Ecosystem for Armenian osoblanco • about 5 hours ago • 6 KV Caching Explained: Optimizing Transformer Inference Efficiency not-lain • Jan 30, 2025 • 403 Modern LLMs: What the FLIP is an Engram!?",
+      "Blackroot • 9 days ago • 13 Deploy local agents everywhere with LFM2.5-2.6B LiquidAI • Aug 4 • 96 Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 10 days ago • 32 Frontier-Assisted Single-Prompt Disposable Risk Assessment darkc0de • 5 days ago • 4 Norm-Preserving Biprojected Abliteration grimjim • Nov 6, 2025 • 97 We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 13 days ago • 14 From watching AI-Generated worlds to exploring them with H3 zuanfilm • 4 days ago • 3 DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge NormalUhr • Feb 7, 2025 • 299 NeoMME: an efficient Multimodal-native and Multilingual Encoder 37 September 3, 2026 nlp guide community Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps 15 September 3, 2026 agents open-source datasets Give Your Coding Agents a Memory You Own 10 September 3, 2026 rl grpo trl Training a coding model to paint watercolours with TRL and OpenEnv 38 September 3, 2026 Real-Time Intelligence with IBM Time Series Models on Confluent 40 September 2, 2026 BenchMIRT: What are LLM benchmarks actually measuring?",
+      "12 September 1, 2026 inference javascript webgpu Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI 47 September 1, 2026 audio speech leaderboard The Open ASR Leaderboard Adds Its First Global South Language +6 53 August 28, 2026 nlp guide community Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 112 August 26, 2026 Granite 4.2 LLMs: How They're Built 99 August 25, 2026 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 46 August 25, 2026 gradio workflows tutorial Wire It, Run It, Deploy It: AI Workflows in Gradio 40 August 25, 2026 research search embeddings How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 29 August 21, 2026 audio speech benchmark Measuring benchmark optimization in speech recognition +3 65 August 21, 2026 Previous 1 2 3 ..."
     ],
     "claims": [
       {
@@ -768,6 +766,36 @@
     "copyrightRisk": "medium"
   },
   {
+    "sourceId": "src_simonwillison-blog_4bbab2abc3918528",
+    "sourceType": "blog",
+    "sourceName": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+    "title": "August newsletter is out",
+    "publishedAt": "2026-09-04T05:54:40.000Z",
+    "categoryHints": [
+      "ai-agentic",
+      "ai-vibe-coding"
+    ],
+    "keyFacts": [
+      "August newsletter is out Simon Willison’s Weblog Subscribe 4th September 2026 The August edition of my sponsors-only monthly newsletter is out.",
+      "If you are a sponsor (or if you start a sponsorship now) you can access it here .",
+      "This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude auto mode Understanding ChatGPT Work Model releases Miscellaneous bits and bobs My projects What I'm using at the moment Here's a copy of the July newsletter as a preview of what you'll get.",
+      "Pay $10/month to stay a month ahead of the free copy!"
+    ],
+    "claims": [
+      {
+        "text": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude auto mode Understanding ChatGPT Work Model releases Miscellaneous bits and bobs My projects What I'm using at the moment Here's a copy of the July newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
+        "confidence": "medium",
+        "evidence": "https://simonwillison.net/2026/Sep/4/august-newsletter/"
+      }
+    ],
+    "usableFor": [
+      "article",
+      "trend"
+    ],
+    "copyrightRisk": "low"
+  },
+  {
     "sourceId": "src_simonwillison-blog_05d670d1fd26b8a3",
     "sourceType": "blog",
     "sourceName": "Simon Willison's Weblog",
@@ -779,10 +807,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "GPT‑6 Astra Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 3rd September 2026 - Link Blog GPT‑6 Astra ( via ) GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet.",
-      "It's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output."
+      "GPT‑6 Astra Simon Willison’s Weblog Subscribe 3rd September 2026 - Link Blog GPT‑6 Astra ( via ) GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet.",
+      "It's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output.",
+      "This is clearly OpenAI's Fable competitor, and appears to score higher than Fable on most of OpenAI's self-reported benchmarks.",
+      "Most impressively, Astra scores 99.9% on the recent (released in March) ARC-AGI 3 benchmark - though notably Fable 5 does not yet have a published result, and the ARC-AGI blog notes that the 99.9% score was achieved for $19K using OpenAI's custom \"Provider Adapter harness\", while the default ARC-AGI harness scored 62.7% for $26K."
     ],
     "claims": [
       {
@@ -809,10 +837,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "Release: llm-gemini 0.34 Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 2nd September 2026 Release llm-gemini 0.34 &mdash; LLM plugin to access Google's Gemini family of models New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels.",
-      "#146 Fixed async responses failing to record the resolved model version."
+      "Release: llm-gemini 0.34 Simon Willison’s Weblog Subscribe 2nd September 2026 Release llm-gemini 0.34 &mdash; LLM plugin to access Google's Gemini family of models New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels.",
+      "#146 Fixed async responses failing to record the resolved model version.",
+      "#137 Google released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today.",
+      "Here are the pelicans for high, medium, and low."
     ],
     "claims": [
       {
@@ -869,10 +897,10 @@
       "ai-vibe-coding"
     ],
     "keyFacts": [
-      "A quote from Rick Brewster Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free 2nd September 2026 Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use.",
-      "And I can't just \"disable\" the use of Direct2D."
+      "A quote from Rick Brewster Simon Willison’s Weblog Subscribe 2nd September 2026 Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use.",
+      "And I can't just \"disable\" the use of Direct2D.",
+      "So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine ).",
+      "It lives in PaintDotNet.Windows.Direct2D1.Managed.dll ."
     ],
     "claims": [
       {
@@ -888,42 +916,12 @@
     "copyrightRisk": "low"
   },
   {
-    "sourceId": "src_simonwillison-blog_a079d4c72003e6e3",
-    "sourceType": "blog",
-    "sourceName": "Simon Willison's Weblog",
-    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-    "title": "Claude Fable 5.1 made me a really nice animated pelican",
-    "publishedAt": "2026-09-01T23:57:28.000Z",
-    "categoryHints": [
-      "ai-agentic",
-      "ai-vibe-coding"
-    ],
-    "keyFacts": [
-      "Claude Fable 5.1 made me a really nice animated pelican Simon Willison’s Weblog Subscribe Sponsored by: Greptile &mdash; The Al code reviewer that runs your code.",
-      "Catch bugs that only show up at runtime.",
-      "Try it for free Claude Fable 5.1 made me a really nice animated pelican 1st September 2026 Today is Claude Fable (and Mythos) 5.1 day .",
-      "Anthropic say that Fable 5.1 “sets a new standard for coding, knowledge work, and long-running problem-solving tasks”."
-    ],
-    "claims": [
-      {
-        "text": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new Terminal-Bench-Science 0.1 benchmark (first announced on August 27th ), up from 24.7% for Fable 5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores, but none as impressive as the Science one. But how well can it pelican? Back in July I wrote about how I was losing faith in the pelican benchmark - its connection to how good the models were at other tasks didn't seem to hold as strongly as it did back in 2025 . The most interesting insights I get from it now are comparisons within model families, and particularly comparisons for the same prompt at different reasoning effort levels. Fable 5.1 has five reasoning levels: low, medium, high, xhigh, max - and no option to turn off reasoning entirely. I fixed an issue in llm-anthropic which caused reasoning traces not to be correctly recorded, then ran some prompts. Here's the full set of pelicans for all of the reasoning levels, each with the full reasoning transcript. I'll replicate them here: Low and medium, both without reasoning? Next, a bit of a mystery. This is what I got for effort low : The transcript doesn't show any summarized reasoning tokens, and the output token count is 1,998. With Claude that output token count includes reasoning tokens. It took 23.8 seconds and cost 10.017 cents . I bumped that up to medium and got this: Weirdly, that one also shows no reasoning text and used 1,977 output tokens - 21 tokens less than low . It took 23 seconds and cost 9.912 cents . So for this particular prompt (\"Generate an SVG of a pelican riding a bicycle\") Fable 5.1 appeared to skip reasoning entirely at both low and medium settings. High Here's high - 29.6 seconds, 2,612 output tokens, 13.087 cents : This one did do a bit of reasoning, summary here : I'm planning the SVG layout for a pelican riding a bicycle, with a sky and ground background, a bicycle with two spoked wheels, frame, seat and handlebars, and a white-bodied pelican with a long neck and orange beak positioned on top. Really not much difference from low and medium , though. Extra High At xhigh things got radically different. 36,767 output tokens, 7 minutes 51 seconds, $1.83 ! The reasoning trace is pretty lengthy , and includes details like this: Adding the eye, wings stretching down to the handlebar grip, orange legs reaching to the pedals, and a small tail feather, while keeping the pelican intentionally oversized compared to the bike for comic effect. [...] I'll accept the slight thickness as charming rather than overengineering it. Max Setting effort to max gave me the best pelican I've seen from any of Anthropic's models. 65,927 output tokens, 13 minutes and 54 seconds, $3.30 : There's a lot to like about this. The background is tasteful, the legs are clearly on either side of the frame, the feet are on the pedals, the wing is on the handlebars, the pelican has a cute blue hat and there's a basket with a fish. It's still not showing nearly the same level of flair as Gemini 3.7 Flash , but I didn't ask for flair - I asked for an SVG, and that's what I got. Some highlights from that reasoning trace : Adding pedal shapes near both feet, with the far foot on the second leg partially visible behind the frame. I'm considering whether to add a small scarf or cap for extra character, but leaning toward keeping it simple to avoid clutter. Now I'm debating a bicycle helmet on the head versus the pelican's signature crest—the beak and pouch already read clearly as \"pelican,\" so a helmet could reinforce the bicycle theme without losing identity, though it might compete with the crest for visual space. I realize the beak at (484,84) would overlap with the dome helmet, so I need to shrink the helmet so it only covers the top of the head, adjusting its arc endpoints to sit higher and narrower so the beak can attach cleanly at the front without collision. [...] I'm adding a darker tip region to represent the primary feathers, then reconsidering the trailing edge to include scalloped feather curves instead of one smooth line for a more natural look. [...] Now I'm checking the vent line placements on the helmet, making sure they sit far enough inside the helmet's edge given the stroke width and rounded caps, and confirming each vent stays within the helmet's circular boundary. [...] I decide skipping a handlebar bell and tire highlights since they're unnecessary additions. Now I'm reconsidering the front fork's curve — the current control point pulls the shape backward when it should bow forward for a proper rake, so I need to shift the control point rightward to fix the fork's lean. OK, let's animate it On Hacker News, swalsh commented on that Max pelican: Now that it's a solved benchmark, can we get the animated version? I didn't want to spend another $3 so I took the Max pelican and piped it into the default thinking level of High: llm logs -cx | llm -m claude-fable-5.1 -s ' animate this ' 6,121 input, 26,201 output = $1.37 . The result looked like this , exported here as video since some people have trouble viewing animated SVGs: Your browser does not support HTML5 video. The wheels in the video are rotating in the wrong direction, but I think that's an artifact of the conversion to MP4 - they seem to be going in the correct direction in the original SVG. Tags: ai , generative-ai , llms , anthropic , claude , pelican-riding-a-bicycle , llm-reasoning , llm-release",
-        "confidence": "medium",
-        "evidence": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
-      }
-    ],
-    "usableFor": [
-      "article",
-      "trend"
-    ],
-    "copyrightRisk": "medium"
-  },
-  {
     "sourceId": "src_lilianweng-blog_31a2c7baf9b791a5",
     "sourceType": "blog",
     "sourceName": "Lil'Log",
     "url": "https://lilianweng.github.io/",
     "title": "Lil'Log",
-    "publishedAt": "2026-09-04T00:43:10.870Z",
+    "publishedAt": "2026-09-04T14:35:42.261Z",
     "categoryHints": [
       "ai-agentic"
     ],
