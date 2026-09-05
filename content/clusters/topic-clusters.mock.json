@@ -1,31 +1,32 @@
 [
   {
-    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-09-04",
+    "clusterId": "cluster_ai-agentic_1_ai-video-research-innovation-runway-ai_2026-09-05",
     "category": "ai-agentic",
     "topic": "AI Video Research & Innovation | Runway AI",
     "sourceIds": [
       "src_runway-research_4c72ae34dd32cd2b",
+      "src_simonwillison-blog_3229003cf9be156b",
       "src_langchain-blog_40ded3f923e3291d",
-      "src_simonwillison-blog_904a469b223b55e7",
+      "src_simonwillison-blog_490d67aea223177f",
+      "src_simonwillison-blog_4bbab2abc3918528",
       "src_replit-blog_2c607cbee6384da3",
       "src_huggingface-blog_af185e1e7e4dfbac",
-      "src_cursor-changelog_99cdbb7e2d70df11",
-      "src_pika-blog_faa536f0db7dac04"
+      "src_cursor-changelog_99cdbb7e2d70df11"
     ],
     "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 7 source item(s), 7 live crawl(s), strongest sources: Runway Research, LangChain Blog, Simon Willison's Weblog.",
+    "reasonSelected": "Score 1.00 from 8 source item(s), 8 live crawl(s), strongest sources: Runway Research, Simon Willison's Weblog, LangChain Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-09-04",
+    "clusterId": "cluster_ai-vibe-coding_1_research-anthropic_2026-09-05",
     "category": "ai-vibe-coding",
     "topic": "Research \\ Anthropic",
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
+      "src_simonwillison-blog_63e0fd9550b6c552",
       "src_simonwillison-blog_05d670d1fd26b8a3",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1",
-      "src_simonwillison-blog_490d67aea223177f"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
@@ -33,27 +34,14 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_1_news-luma_2026-09-04",
-    "category": "ai-video",
-    "topic": "News | Luma",
-    "sourceIds": [
-      "src_luma-blog_c7449029956c34f9",
-      "src_simonwillison-blog_4bbab2abc3918528"
-    ],
-    "articleWorthinessScore": 1,
-    "reasonSelected": "Score 1.00 from 2 source item(s), 2 live crawl(s), strongest sources: Luma Labs Blog, Simon Willison's Weblog.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-image_1_blog-replicate_2026-09-04",
+    "clusterId": "cluster_ai-image_1_blog-replicate_2026-09-05",
     "category": "ai-image",
     "topic": "Blog – Replicate",
     "sourceIds": [
       "src_replicate-blog_572c1f4ac9c0ea5c",
       "src_lilianweng-blog_31a2c7baf9b791a5",
       "src_comfyui-blog_469b943374a61749",
-      "src_stability-ai-blog_2026-09-04_fallback"
+      "src_stability-ai-blog_2026-09-05_fallback"
     ],
     "articleWorthinessScore": 0.94,
     "reasonSelected": "Score 0.94 from 4 source item(s), 3 live crawl(s), strongest sources: Replicate Blog, Lil'Log, ComfyUI Blog.",
@@ -61,46 +49,59 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_claude-s-new-system-prompt-really-doesn-t-want-to-reproduce-song_2026-09-04",
-    "category": "ai-vibe-coding",
-    "topic": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-    "sourceIds": [
-      "src_simonwillison-blog_1e945e01b96d1653",
-      "src_black-forest-labs_db0e6d09e99dbd6f",
-      "src_reddit-aiagents_589f56754b7324da",
-      "src_vercel-ai-blog_2026-09-04_fallback"
-    ],
-    "articleWorthinessScore": 0.9,
-    "reasonSelected": "Score 0.90 from 4 source item(s), 3 live crawl(s), strongest sources: Simon Willison's Weblog, Black Forest Labs, r/AI_Agents.",
-    "confidence": "high",
-    "selectedForGeneration": true
-  },
-  {
-    "clusterId": "cluster_ai-agentic_2_grok-bot-is-selling-you-something-you-can-do-yourself-in-an-afte_2026-09-04",
+    "clusterId": "cluster_ai-agentic_2_blog-pika_2026-09-05",
     "category": "ai-agentic",
-    "topic": "Grok bot is selling you something you can do yourself in an afternoon",
+    "topic": "Blog | Pika",
     "sourceIds": [
-      "src_reddit-aiagents_e80bab1d191abe87",
+      "src_pika-blog_faa536f0db7dac04",
+      "src_reddit-aiagents_46984e8475eeab93",
       "src_kling-blog_9b8eef2edc427cc1",
-      "src_reddit-aiagents_8ed64d2a5bcfea0d",
+      "src_reddit-aiagents_67b3057ad023406a",
       "src_reddit-aiagents_169d04a591ad1fdd",
       "src_reddit-aiagents_05e90b5232d851bf",
-      "src_openai-blog_2026-09-04_fallback",
-      "src_mcp-blog_2026-09-04_fallback"
+      "src_openai-blog_2026-09-05_fallback",
+      "src_mcp-blog_2026-09-05_fallback"
     ],
-    "articleWorthinessScore": 0.83,
-    "reasonSelected": "Score 0.83 from 7 source item(s), 5 live crawl(s), strongest sources: r/AI_Agents, Kling AI Blog, OpenAI Blog.",
+    "articleWorthinessScore": 0.85,
+    "reasonSelected": "Score 0.85 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, Kling AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-image_2_ai-signal_2026-09-04",
+    "clusterId": "cluster_ai-vibe-coding_2_the-5-ai-automations-i-d-build-in-any-business-this-month-ranked_2026-09-05",
+    "category": "ai-vibe-coding",
+    "topic": "The 5 AI automations I'd build in any business this month (ranked by what the...",
+    "sourceIds": [
+      "src_reddit-aiagents_6fad8a2cc4d2dde7",
+      "src_black-forest-labs_db0e6d09e99dbd6f",
+      "src_vercel-ai-blog_2026-09-05_fallback"
+    ],
+    "articleWorthinessScore": 0.8,
+    "reasonSelected": "Score 0.80 from 3 source item(s), 2 live crawl(s), strongest sources: r/AI_Agents, Black Forest Labs, Vercel AI Blog.",
+    "confidence": "high",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-video_1_news-luma_2026-09-05",
+    "category": "ai-video",
+    "topic": "News | Luma",
+    "sourceIds": [
+      "src_luma-blog_c7449029956c34f9",
+      "src_reddit-aivideo_2026-09-05_fallback"
+    ],
+    "articleWorthinessScore": 0.69,
+    "reasonSelected": "Score 0.69 from 2 source item(s), 1 live crawl(s), strongest sources: Luma Labs Blog, r/aivideo.",
+    "confidence": "medium",
+    "selectedForGeneration": true
+  },
+  {
+    "clusterId": "cluster_ai-image_2_ai-signal_2026-09-05",
     "category": "ai-image",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-stablediffusion_2026-09-04_fallback",
-      "src_reddit-comfyui_2026-09-04_fallback",
-      "src_reddit-midjourney_2026-09-04_fallback"
+      "src_reddit-stablediffusion_2026-09-05_fallback",
+      "src_reddit-comfyui_2026-09-05_fallback",
+      "src_reddit-midjourney_2026-09-05_fallback"
     ],
     "articleWorthinessScore": 0.35,
     "reasonSelected": "Score 0.35 from 3 source item(s), 0 live crawl(s), strongest sources: r/StableDiffusion, r/comfyui, r/midjourney.",
@@ -108,15 +109,14 @@
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-video_2_ai-signal_2026-09-04",
+    "clusterId": "cluster_ai-video_2_ai-signal_2026-09-05",
     "category": "ai-video",
     "topic": "AI signal",
     "sourceIds": [
-      "src_reddit-aivideo_2026-09-04_fallback",
-      "src_reddit-mediasynthesis_2026-09-04_fallback"
+      "src_reddit-mediasynthesis_2026-09-05_fallback"
     ],
-    "articleWorthinessScore": 0.28,
-    "reasonSelected": "Score 0.28 from 2 source item(s), 0 live crawl(s), strongest sources: r/aivideo, r/MediaSynthesis.",
+    "articleWorthinessScore": 0.2,
+    "reasonSelected": "Score 0.20 from 1 source item(s), 0 live crawl(s), strongest sources: r/MediaSynthesis.",
     "confidence": "low",
     "selectedForGeneration": false
   }
