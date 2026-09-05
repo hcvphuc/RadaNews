@@ -328,13 +328,13 @@
     "subtitle": "Tín hiệu được tổng hợp từ LangChain Blog, Runway Research, Cursor Changelog, Replit Blog, Hugging Face Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "RunwayAI",
-      "AgenticAI",
-      "WorldModels",
+      "AIAgents",
       "VibeCoding",
-      "ReasoningLLMs"
+      "WorldModels",
+      "GPT-6"
     ],
-    "publishedAt": "2026-09-05T00:35:43.966Z",
-    "readingTime": 5,
+    "publishedAt": "2026-09-05T13:35:41.783Z",
+    "readingTime": 4,
     "url": "/vi/ai-agentic/ai-video-research-innovation-runway-ai-goc-nhin-cho-cre-2026-09-05"
   },
   {
@@ -345,14 +345,15 @@
     "title": "AI Video Research & Innovation | Runway AI: creator and builder analysis",
     "subtitle": "Signal synthesized from LangChain Blog, Runway Research, Cursor Changelog, Replit Blog, Hugging Face Blog, Simon Willison's Weblog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "AI-Video",
-      "Agentic-Workflows",
-      "World-Models",
-      "Vibe-Coding",
-      "LLM-Reasoning"
+      "World Models",
+      "Agentic AI",
+      "GPT-6",
+      "Runway AI",
+      "Vibe Coding",
+      "LLM Orchestration"
     ],
-    "publishedAt": "2026-09-05T00:36:24.889Z",
-    "readingTime": 3,
+    "publishedAt": "2026-09-05T13:36:36.740Z",
+    "readingTime": 4,
     "url": "/en/ai-agentic/ai-video-research-innovation-runway-ai-creator-and-buil-2026-09-05"
   },
   {
@@ -364,13 +365,13 @@
     "subtitle": "Tín hiệu được tổng hợp từ Anthropic Research, GitHub Copilot Blog, Simon Willison's Weblog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
       "GPT-6 Astra",
-      "AI Agents",
-      "Cybersecurity",
-      "Vibe Coding",
-      "OpenAI"
+      "AI-Agents",
+      "AI-Security",
+      "Sandbox-Escape",
+      "Vibe-Coding"
     ],
-    "publishedAt": "2026-09-05T00:35:36.271Z",
-    "readingTime": 4,
+    "publishedAt": "2026-09-05T13:36:04.634Z",
+    "readingTime": 5,
     "url": "/vi/ai-vibe-coding/research-anthropic-goc-nhin-cho-creator-va-builder-2026-09-05"
   },
   {
@@ -385,9 +386,9 @@
       "cybersecurity",
       "gpt-6-astra",
       "sandbox-escape",
-      "vibe-coding"
+      "ai-safety"
     ],
-    "publishedAt": "2026-09-05T00:36:18.462Z",
+    "publishedAt": "2026-09-05T13:36:49.975Z",
     "readingTime": 4,
     "url": "/en/ai-vibe-coding/research-anthropic-creator-and-builder-analysis-2026-09-05"
   },
@@ -399,13 +400,13 @@
     "title": "Blog – Replicate: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Stability AI Blog, Replicate Blog, ComfyUI Blog, Lil'Log, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "ai-image",
-      "generative-video",
-      "comfyui",
-      "flux-3",
-      "ai-aesthetics"
+      "AI-Image",
+      "Generative-Video",
+      "FLUX-3",
+      "ComfyUI",
+      "AI-Aesthetics"
     ],
-    "publishedAt": "2026-09-05T00:36:11.232Z",
+    "publishedAt": "2026-09-05T13:35:30.050Z",
     "readingTime": 4,
     "url": "/vi/ai-image/blog-replicate-goc-nhin-cho-creator-va-builder-2026-09-05"
   },
@@ -418,12 +419,12 @@
     "subtitle": "Signal synthesized from Stability AI Blog, Replicate Blog, ComfyUI Blog, Lil'Log, scored by recency, content depth, and source reliability.",
     "tags": [
       "Generative AI",
-      "AI Art",
-      "Multimodal",
+      "FLUX 3",
       "ComfyUI",
-      "Digital Content Creation"
+      "AI Video",
+      "Multi-modal AI"
     ],
-    "publishedAt": "2026-09-05T00:36:49.637Z",
+    "publishedAt": "2026-09-05T13:36:29.018Z",
     "readingTime": 4,
     "url": "/en/ai-image/blog-replicate-creator-and-builder-analysis-2026-09-05"
   },
@@ -435,14 +436,14 @@
     "title": "Blog | Pika: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ OpenAI Blog, MCP Blog, r/AI_Agents, Pika Labs Blog, Kling AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Agentic",
       "AI-Video",
+      "AI-Agents",
+      "MCP",
       "Pika-Labs",
       "Kling-AI",
-      "MCP",
-      "Agentic-Workflow"
+      "Automation"
     ],
-    "publishedAt": "2026-09-05T00:35:57.643Z",
+    "publishedAt": "2026-09-05T13:35:53.678Z",
     "readingTime": 4,
     "url": "/vi/ai-agentic/blog-pika-goc-nhin-cho-creator-va-builder-2026-09-05"
   },
@@ -454,50 +455,49 @@
     "title": "Blog | Pika: creator and builder analysis",
     "subtitle": "Signal synthesized from OpenAI Blog, MCP Blog, r/AI_Agents, Pika Labs Blog, Kling AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-agentic",
       "ai-video",
+      "ai-agents",
       "mcp",
-      "generative-media",
-      "ai-infrastructure"
+      "generative-audio",
+      "workflow-automation"
     ],
-    "publishedAt": "2026-09-05T00:36:37.523Z",
-    "readingTime": 4,
+    "publishedAt": "2026-09-05T13:36:42.656Z",
+    "readingTime": 3,
     "url": "/en/ai-agentic/blog-pika-creator-and-builder-analysis-2026-09-05"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_the-5-ai-automations-i-d-build-in-any-business-this-month-ranked_2026-09-05_vi",
+    "id": "cluster_ai-vibe-coding_2_i-read-40k-words-of-ai-output-a-day-here-s-how-to-stop-reading-m_2026-09-05_vi",
     "lang": "vi",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "The 5 AI automations I'd build in any business this month (ranked by what the...: góc nhìn cho creator và builder",
+    "title": "I read 40k words of AI output a day. Here's how to stop reading most of it.: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ r/AI_Agents, Black Forest Labs, Vercel AI Blog, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "AI-Automation",
-      "AI-Agents",
-      "Business-Optimization",
-      "Vibe-Coding",
-      "ROI"
+      "ai-vibe-coding",
+      "developer-productivity",
+      "ai-agents",
+      "cognitive-load"
     ],
-    "publishedAt": "2026-09-05T00:35:50.352Z",
-    "readingTime": 4,
-    "url": "/vi/ai-vibe-coding/the-5-ai-automations-i-d-build-in-any-business-this-month-r-2026-09-05"
+    "publishedAt": "2026-09-05T13:36:14.521Z",
+    "readingTime": 5,
+    "url": "/vi/ai-vibe-coding/i-read-40k-words-of-ai-output-a-day-here-s-how-to-stop-read-2026-09-05"
   },
   {
-    "id": "cluster_ai-vibe-coding_2_the-5-ai-automations-i-d-build-in-any-business-this-month-ranked_2026-09-05_en",
+    "id": "cluster_ai-vibe-coding_2_i-read-40k-words-of-ai-output-a-day-here-s-how-to-stop-reading-m_2026-09-05_en",
     "lang": "en",
     "category": "ai-vibe-coding",
     "categoryLabel": "AI Vibe Coding",
-    "title": "The 5 AI automations I'd build in any business this month (ranked by what the...: creator and builder analysis",
+    "title": "I read 40k words of AI output a day. Here's how to stop reading most of it.: creator and builder analysis",
     "subtitle": "Signal synthesized from r/AI_Agents, Black Forest Labs, Vercel AI Blog, scored by recency, content depth, and source reliability.",
     "tags": [
-      "ai-automation",
-      "b2b-ai",
-      "agentic-workflows",
-      "roi-optimization"
+      "ai-vibe-coding",
+      "developer-experience",
+      "cognitive-load",
+      "ai-agents"
     ],
-    "publishedAt": "2026-09-05T00:36:31.195Z",
+    "publishedAt": "2026-09-05T13:36:56.847Z",
     "readingTime": 4,
-    "url": "/en/ai-vibe-coding/the-5-ai-automations-i-d-build-in-any-business-this-month-r-2026-09-05"
+    "url": "/en/ai-vibe-coding/i-read-40k-words-of-ai-output-a-day-here-s-how-to-stop-read-2026-09-05"
   },
   {
     "id": "cluster_ai-video_1_news-luma_2026-09-05_vi",
@@ -507,13 +507,13 @@
     "title": "News | Luma: góc nhìn cho creator và builder",
     "subtitle": "Tín hiệu được tổng hợp từ Luma Labs Blog, r/aivideo, chấm điểm theo độ mới, độ dày nội dung và độ tin cậy nguồn.",
     "tags": [
-      "LumaAI",
-      "AIVideo",
+      "Luma AI",
+      "AI Video",
+      "Market Strategy",
       "Localization",
-      "MarketStrategy",
-      "GenerativeAI"
+      "Generative AI"
     ],
-    "publishedAt": "2026-09-05T00:36:04.354Z",
+    "publishedAt": "2026-09-05T13:36:22.149Z",
     "readingTime": 4,
     "url": "/vi/ai-video/news-luma-goc-nhin-cho-creator-va-builder-2026-09-05"
   },
@@ -525,14 +525,14 @@
     "title": "News | Luma: creator and builder analysis",
     "subtitle": "Signal synthesized from Luma Labs Blog, r/aivideo, scored by recency, content depth, and source reliability.",
     "tags": [
-      "LumaAI",
-      "AIVideo",
-      "Localization",
-      "MENA",
-      "CompetitiveIntelligence"
+      "Luma AI",
+      "AI Video",
+      "Market Expansion",
+      "Generative Media",
+      "Localization"
     ],
-    "publishedAt": "2026-09-05T00:36:43.150Z",
-    "readingTime": 3,
+    "publishedAt": "2026-09-05T13:37:03.688Z",
+    "readingTime": 4,
     "url": "/en/ai-video/news-luma-creator-and-builder-analysis-2026-09-05"
   }
 ]

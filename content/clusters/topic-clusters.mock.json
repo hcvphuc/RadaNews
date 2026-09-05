@@ -25,8 +25,8 @@
     "sourceIds": [
       "src_anthropic-research_15aa8285dd0354e9",
       "src_simonwillison-blog_63e0fd9550b6c552",
-      "src_simonwillison-blog_05d670d1fd26b8a3",
-      "src_github-copilot-blog_1cb7f10cc2e13dc1"
+      "src_github-copilot-blog_1cb7f10cc2e13dc1",
+      "src_simonwillison-blog_05d670d1fd26b8a3"
     ],
     "articleWorthinessScore": 1,
     "reasonSelected": "Score 1.00 from 4 source item(s), 4 live crawl(s), strongest sources: Anthropic Research, Simon Willison's Weblog, GitHub Copilot Blog.",
@@ -54,25 +54,25 @@
     "topic": "Blog | Pika",
     "sourceIds": [
       "src_pika-blog_faa536f0db7dac04",
-      "src_reddit-aiagents_46984e8475eeab93",
+      "src_reddit-aiagents_28edc3bafce8cecf",
       "src_kling-blog_9b8eef2edc427cc1",
-      "src_reddit-aiagents_67b3057ad023406a",
+      "src_reddit-aiagents_b1369bbc7f4c7bf7",
       "src_reddit-aiagents_169d04a591ad1fdd",
       "src_reddit-aiagents_05e90b5232d851bf",
       "src_openai-blog_2026-09-05_fallback",
       "src_mcp-blog_2026-09-05_fallback"
     ],
-    "articleWorthinessScore": 0.85,
-    "reasonSelected": "Score 0.85 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, Kling AI Blog.",
+    "articleWorthinessScore": 0.84,
+    "reasonSelected": "Score 0.84 from 8 source item(s), 6 live crawl(s), strongest sources: Pika Labs Blog, r/AI_Agents, Kling AI Blog.",
     "confidence": "high",
     "selectedForGeneration": true
   },
   {
-    "clusterId": "cluster_ai-vibe-coding_2_the-5-ai-automations-i-d-build-in-any-business-this-month-ranked_2026-09-05",
+    "clusterId": "cluster_ai-vibe-coding_2_i-read-40k-words-of-ai-output-a-day-here-s-how-to-stop-reading-m_2026-09-05",
     "category": "ai-vibe-coding",
-    "topic": "The 5 AI automations I'd build in any business this month (ranked by what the...",
+    "topic": "I read 40k words of AI output a day. Here's how to stop reading most of it.",
     "sourceIds": [
-      "src_reddit-aiagents_6fad8a2cc4d2dde7",
+      "src_reddit-aiagents_d1944d404c04ee0a",
       "src_black-forest-labs_db0e6d09e99dbd6f",
       "src_vercel-ai-blog_2026-09-05_fallback"
     ],
